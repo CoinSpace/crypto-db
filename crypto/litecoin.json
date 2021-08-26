@@ -1,0 +1,10 @@
+{
+  "id": "litecoin",
+  "type": "coin",
+  "name": "Litecoin",
+  "symbol": "LTC",
+  "decimals": 8,
+  "coingecko": {
+    "id": "litecoin"
+  }
+}

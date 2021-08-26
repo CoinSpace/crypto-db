@@ -1,0 +1,10 @@
+{
+  "id": "ethereum",
+  "type": "coin",
+  "name": "Ethereum",
+  "symbol": "ETH",
+  "decimals": 18,
+  "coingecko": {
+    "id": "ethereum"
+  }
+}

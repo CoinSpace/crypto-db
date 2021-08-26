@@ -1,0 +1,10 @@
+{
+  "id": "dogecoin",
+  "type": "coin",
+  "name": "Dogecoin",
+  "symbol": "DOGE",
+  "decimals": 8,
+  "coingecko": {
+    "id": "dogecoin"
+  }
+}

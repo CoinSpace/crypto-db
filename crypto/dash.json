@@ -1,0 +1,10 @@
+{
+  "id": "dash",
+  "type": "coin",
+  "name": "Dash",
+  "symbol": "DASH",
+  "decimals": 8,
+  "coingecko": {
+    "id": "dash"
+  }
+}

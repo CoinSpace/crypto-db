@@ -1,0 +1,10 @@
+{
+  "id": "bitcoin-sv",
+  "type": "coin",
+  "name": "Bitcoin SV",
+  "symbol": "BSV",
+  "decimals": 8,
+  "coingecko": {
+    "id": "bitcoin-cash-sv"
+  }
+}

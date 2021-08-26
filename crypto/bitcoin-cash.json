@@ -1,0 +1,10 @@
+{
+  "id": "bitcoin-cash",
+  "type": "coin",
+  "name": "Bitcoin Cash",
+  "symbol": "BCH",
+  "decimals": 8,
+  "coingecko": {
+    "id": "bitcoin-cash"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "xrp",
+  "type": "coin",
+  "name": "XRP",
+  "symbol": "XRP",
+  "decimals": 6,
+  "coingecko": {
+    "id": "ripple"
+  }
+}

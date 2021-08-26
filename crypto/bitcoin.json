@@ -1,0 +1,10 @@
+{
+  "id": "bitcoin",
+  "type": "coin",
+  "name": "Bitcoin",
+  "symbol": "BTC",
+  "decimals": 8,
+  "coingecko": {
+    "id": "bitcoin"
+  }
+}

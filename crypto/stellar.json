@@ -1,0 +1,10 @@
+{
+  "id": "stellar",
+  "type": "coin",
+  "name": "Stellar",
+  "symbol": "XLM",
+  "decimals": 7,
+  "coingecko": {
+    "id": "stellar"
+  }
+}

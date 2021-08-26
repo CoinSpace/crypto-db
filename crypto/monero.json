@@ -1,0 +1,10 @@
+{
+  "id": "monero",
+  "type": "coin",
+  "name": "Monero",
+  "symbol": "XMR",
+  "decimals": 12,
+  "coingecko": {
+    "id": "monero"
+  }
+}
