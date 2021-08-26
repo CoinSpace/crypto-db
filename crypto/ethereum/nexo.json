@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:nexo",
+  "type": "token",
+  "name": "NEXO",
+  "symbol": "NEXO",
+  "platform": "ethereum",
+  "address": "0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206",
+  "decimals": 18,
+  "coingecko": {
+    "id": "nexo",
+    "platform": "ethereum"
+  }
+}

@@ -2,8 +2,8 @@
   "id": "binance-smart-chain",
   "type": "coin",
   "name": "Binance Coin",
-  "decimals": 18,
   "symbol": "BNB",
+  "decimals": 18,
   "coingecko": {
     "id": "binancecoin"
   }

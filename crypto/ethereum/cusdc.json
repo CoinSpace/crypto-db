@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:cusdc",
+  "type": "token",
+  "name": "cUSDC",
+  "symbol": "CUSDC",
+  "platform": "ethereum",
+  "address": "0x39aa39c021dfbae8fac545936693ac917d5e7563",
+  "decimals": 8,
+  "coingecko": {
+    "id": "compound-usd-coin",
+    "platform": "ethereum"
+  }
+}

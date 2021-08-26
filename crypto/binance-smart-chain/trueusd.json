@@ -1,0 +1,13 @@
+{
+  "id": "binance-smart-chain:trueusd",
+  "type": "token",
+  "name": "TrueUSD",
+  "symbol": "TUSD",
+  "platform": "binance-smart-chain",
+  "address": "0x14016e85a25aeb13065688cafb43044c2ef86784",
+  "decimals": 18,
+  "coingecko": {
+    "id": "true-usd",
+    "platform": "binance-smart-chain"
+  }
+}

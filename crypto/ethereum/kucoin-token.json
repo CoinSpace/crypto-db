@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:kucoin-token",
+  "type": "token",
+  "name": "KuCoin Token",
+  "symbol": "KCS",
+  "platform": "ethereum",
+  "address": "0xf34960d9d60be18cc1d5afc1a6f012a723a28811",
+  "decimals": 6,
+  "coingecko": {
+    "id": "kucoin-shares",
+    "platform": "ethereum"
+  }
+}

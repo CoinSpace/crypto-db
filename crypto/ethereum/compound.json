@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:compound",
+  "type": "token",
+  "name": "Compound",
+  "symbol": "COMP",
+  "platform": "ethereum",
+  "address": "0xc00e94cb662c3520282e6f5717214004a7f26888",
+  "decimals": 18,
+  "coingecko": {
+    "id": "compound-governance-token",
+    "platform": "ethereum"
+  }
+}

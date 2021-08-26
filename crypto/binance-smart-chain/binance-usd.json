@@ -1,0 +1,13 @@
+{
+  "id": "binance-smart-chain:binance-usd",
+  "type": "token",
+  "name": "Binance USD",
+  "symbol": "BUSD",
+  "platform": "binance-smart-chain",
+  "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+  "decimals": 18,
+  "coingecko": {
+    "id": "binance-usd",
+    "platform": "binance-smart-chain"
+  }
+}

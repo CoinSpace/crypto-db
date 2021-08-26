@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:audius",
+  "type": "token",
+  "name": "Audius",
+  "symbol": "AUDIO",
+  "platform": "ethereum",
+  "address": "0x18aaa7115705e8be94bffebde57af9bfc265b998",
+  "decimals": 18,
+  "coingecko": {
+    "id": "audius",
+    "platform": "ethereum"
+  }
+}

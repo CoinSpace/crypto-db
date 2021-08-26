@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:yearn-finance",
+  "type": "token",
+  "name": "yearn.finance",
+  "symbol": "YFI",
+  "platform": "ethereum",
+  "address": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
+  "decimals": 18,
+  "coingecko": {
+    "id": "yearn-finance",
+    "platform": "ethereum"
+  }
+}

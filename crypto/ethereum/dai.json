@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:dai",
+  "type": "token",
+  "name": "Dai",
+  "symbol": "DAI",
+  "platform": "ethereum",
+  "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+  "decimals": 18,
+  "coingecko": {
+    "id": "dai",
+    "platform": "ethereum"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:enjin-coin",
+  "type": "token",
+  "name": "Enjin Coin",
+  "symbol": "ENJ",
+  "platform": "ethereum",
+  "address": "0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",
+  "decimals": 18,
+  "coingecko": {
+    "id": "enjincoin",
+    "platform": "ethereum"
+  }
+}

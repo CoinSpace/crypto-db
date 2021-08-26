@@ -1,0 +1,13 @@
+{
+  "id": "binance-smart-chain:sushi",
+  "type": "token",
+  "name": "Sushi",
+  "symbol": "SUSHI",
+  "platform": "binance-smart-chain",
+  "address": "0x947950bcc74888a40ffa2593c5798f11fc9124c4",
+  "decimals": 18,
+  "coingecko": {
+    "id": "sushi",
+    "platform": "binance-smart-chain"
+  }
+}
