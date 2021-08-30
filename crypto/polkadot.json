@@ -1,0 +1,14 @@
+{
+  "id": "polkadot",
+  "type": "coin",
+  "name": "Polkadot",
+  "symbol": "DOT",
+  "supported": false,
+  "coingecko": {
+    "id": "polkadot"
+  },
+  "moonpay": {
+    "id": "83e44c86-d0d8-4896-a3f7-49dabe3fd635",
+    "code": "dot"
+  }
+}

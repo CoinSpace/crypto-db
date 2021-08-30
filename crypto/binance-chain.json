@@ -1,0 +1,14 @@
+{
+  "id": "binance-chain",
+  "type": "coin",
+  "name": "Binance Chain",
+  "symbol": "BNB",
+  "supported": false,
+  "coingecko": {
+    "id": "binancecoin"
+  },
+  "moonpay": {
+    "id": "c27c7038-7382-4ea9-a766-e37972f022e0",
+    "code": "bnb"
+  }
+}

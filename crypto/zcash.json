@@ -1,0 +1,14 @@
+{
+  "id": "zcash",
+  "type": "coin",
+  "name": "Zcash",
+  "symbol": "ZEC",
+  "supported": false,
+  "coingecko": {
+    "id": "zcash"
+  },
+  "moonpay": {
+    "id": "61421c7a-21ed-4d2d-af8c-56cd88ae2078",
+    "code": "zec"
+  }
+}

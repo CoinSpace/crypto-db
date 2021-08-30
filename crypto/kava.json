@@ -1,0 +1,14 @@
+{
+  "id": "kava",
+  "type": "coin",
+  "name": "Kava.io",
+  "symbol": "KAVA",
+  "supported": false,
+  "coingecko": {
+    "id": "kava"
+  },
+  "moonpay": {
+    "id": "df7964ab-181f-40cf-bdf9-9995484eea3d",
+    "code": "kava"
+  }
+}

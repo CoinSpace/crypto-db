@@ -1,0 +1,14 @@
+{
+  "id": "tezos",
+  "type": "coin",
+  "name": "Tezos",
+  "symbol": "XTZ",
+  "supported": false,
+  "coingecko": {
+    "id": "tezos"
+  },
+  "moonpay": {
+    "id": "dab98182-bcdf-4f6d-be4d-62d57c000089",
+    "code": "xtz"
+  }
+}

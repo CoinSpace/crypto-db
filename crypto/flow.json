@@ -1,0 +1,14 @@
+{
+  "id": "flow",
+  "type": "coin",
+  "name": "Flow",
+  "symbol": "FLOW",
+  "supported": false,
+  "coingecko": {
+    "id": "flow"
+  },
+  "moonpay": {
+    "id": "f1f1ec81-0ab4-4415-a510-14ece659b089",
+    "code": "flow"
+  }
+}

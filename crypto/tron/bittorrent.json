@@ -1,0 +1,17 @@
+{
+  "id": "tron:bittorrent",
+  "type": "token",
+  "name": "BitTorrent",
+  "symbol": "BTT",
+  "platform": "tron",
+  "address": "1002000",
+  "supported": false,
+  "coingecko": {
+    "id": "bittorrent-2",
+    "platform": "tron"
+  },
+  "moonpay": {
+    "id": "3654a6ef-c1c6-49d7-9cc7-1def63fe0334",
+    "code": "btt"
+  }
+}

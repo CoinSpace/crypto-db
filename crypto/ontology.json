@@ -1,0 +1,14 @@
+{
+  "id": "ontology",
+  "type": "coin",
+  "name": "Ontology",
+  "symbol": "ONT",
+  "supported": false,
+  "coingecko": {
+    "id": "ontology"
+  },
+  "moonpay": {
+    "id": "8a0d7518-be40-49ce-ad43-4c5cd4374623",
+    "code": "ont"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "cosmos",
+  "type": "coin",
+  "name": "Cosmos",
+  "symbol": "ATOM",
+  "supported": false,
+  "coingecko": {
+    "id": "cosmos"
+  },
+  "moonpay": {
+    "id": "7545c52d-3a9d-40d4-aae5-8fcf42b0f17b",
+    "code": "atom"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "iota",
+  "type": "coin",
+  "name": "IOTA",
+  "symbol": "MIOTA",
+  "supported": false,
+  "coingecko": {
+    "id": "iota"
+  },
+  "moonpay": {
+    "id": "37025f7b-5611-4f71-bb6c-aed3048e6954",
+    "code": "miota"
+  }
+}

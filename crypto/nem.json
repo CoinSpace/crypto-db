@@ -1,0 +1,14 @@
+{
+  "id": "nem",
+  "type": "coin",
+  "name": "NEM",
+  "symbol": "XEM",
+  "supported": false,
+  "coingecko": {
+    "id": "nem"
+  },
+  "moonpay": {
+    "id": "66375c19-2cb0-47be-a6fb-8439623538ee",
+    "code": "xem"
+  }
+}

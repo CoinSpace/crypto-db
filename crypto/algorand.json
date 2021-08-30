@@ -1,0 +1,14 @@
+{
+  "id": "algorand",
+  "type": "coin",
+  "name": "Algorand",
+  "symbol": "ALGO",
+  "supported": false,
+  "coingecko": {
+    "id": "algorand"
+  },
+  "moonpay": {
+    "id": "da2f536f-7991-4b96-ac21-602031044c14",
+    "code": "algo"
+  }
+}
