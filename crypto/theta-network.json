@@ -1,0 +1,10 @@
+{
+  "id": "theta-network",
+  "type": "coin",
+  "name": "Theta Network",
+  "symbol": "THETA",
+  "supported": false,
+  "coingecko": {
+    "id": "theta-token"
+  }
+}

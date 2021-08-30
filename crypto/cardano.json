@@ -4,6 +4,9 @@
   "name": "Cardano",
   "symbol": "ADA",
   "supported": false,
+  "changelly": {
+    "ticker": "ada"
+  },
   "coingecko": {
     "id": "cardano"
   },

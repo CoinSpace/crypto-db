@@ -4,6 +4,9 @@
   "name": "Nano",
   "symbol": "NANO",
   "supported": false,
+  "changelly": {
+    "ticker": "nano"
+  },
   "coingecko": {
     "id": "nano"
   },

@@ -4,6 +4,9 @@
   "name": "Bitcoin SV",
   "symbol": "BSV",
   "decimals": 8,
+  "changelly": {
+    "ticker": "bsv"
+  },
   "coingecko": {
     "id": "bitcoin-cash-sv"
   }

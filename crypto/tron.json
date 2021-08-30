@@ -4,6 +4,9 @@
   "name": "TRON",
   "symbol": "TRX",
   "supported": false,
+  "changelly": {
+    "ticker": "trx"
+  },
   "coingecko": {
     "id": "tron"
   },

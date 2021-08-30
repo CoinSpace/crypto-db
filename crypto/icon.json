@@ -1,0 +1,13 @@
+{
+  "id": "icon",
+  "type": "coin",
+  "name": "ICON",
+  "symbol": "ICX",
+  "supported": false,
+  "changelly": {
+    "ticker": "icx"
+  },
+  "coingecko": {
+    "id": "icon"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "nxt",
+  "type": "coin",
+  "name": "NXT",
+  "symbol": "NXT",
+  "supported": false,
+  "changelly": {
+    "ticker": "nxt"
+  },
+  "coingecko": {
+    "id": "nxt"
+  }
+}

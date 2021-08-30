@@ -6,6 +6,9 @@
   "platform": "ethereum",
   "address": "0x6c6ee5e31d828de241282b9606c8e98ea48526e2",
   "decimals": 18,
+  "changelly": {
+    "ticker": "hot"
+  },
   "coingecko": {
     "id": "holotoken",
     "platform": "ethereum"

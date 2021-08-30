@@ -4,6 +4,9 @@
   "name": "Litecoin",
   "symbol": "LTC",
   "decimals": 8,
+  "changelly": {
+    "ticker": "ltc"
+  },
   "coingecko": {
     "id": "litecoin"
   },

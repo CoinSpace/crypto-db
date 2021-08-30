@@ -1,0 +1,13 @@
+{
+  "id": "internet-computer",
+  "type": "coin",
+  "name": "Internet Computer",
+  "symbol": "ICP",
+  "supported": false,
+  "changelly": {
+    "ticker": "icp"
+  },
+  "coingecko": {
+    "id": "internet-computer"
+  }
+}

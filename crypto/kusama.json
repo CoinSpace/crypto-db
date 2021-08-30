@@ -1,0 +1,13 @@
+{
+  "id": "kusama",
+  "type": "coin",
+  "name": "Kusama",
+  "symbol": "KSM",
+  "supported": false,
+  "changelly": {
+    "ticker": "ksm"
+  },
+  "coingecko": {
+    "id": "kusama"
+  }
+}

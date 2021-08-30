@@ -4,6 +4,9 @@
   "name": "Solana",
   "symbol": "SOL",
   "supported": false,
+  "changelly": {
+    "ticker": "sol"
+  },
   "coingecko": {
     "id": "solana"
   },

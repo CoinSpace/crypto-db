@@ -4,6 +4,9 @@
   "name": "Ethereum",
   "symbol": "ETH",
   "decimals": 18,
+  "changelly": {
+    "ticker": "eth"
+  },
   "coingecko": {
     "id": "ethereum"
   },

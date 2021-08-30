@@ -4,6 +4,9 @@
   "name": "DigiByte",
   "symbol": "DGB",
   "supported": false,
+  "changelly": {
+    "ticker": "dgb"
+  },
   "coingecko": {
     "id": "digibyte"
   },

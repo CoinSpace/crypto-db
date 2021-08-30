@@ -1,0 +1,13 @@
+{
+  "id": "komodo",
+  "type": "coin",
+  "name": "Komodo",
+  "symbol": "KMD",
+  "supported": false,
+  "changelly": {
+    "ticker": "kmd"
+  },
+  "coingecko": {
+    "id": "komodo"
+  }
+}

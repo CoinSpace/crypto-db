@@ -6,6 +6,9 @@
   "platform": "tron",
   "address": "1002000",
   "supported": false,
+  "changelly": {
+    "ticker": "btt"
+  },
   "coingecko": {
     "id": "bittorrent-2",
     "platform": "tron"

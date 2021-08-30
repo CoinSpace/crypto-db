@@ -4,6 +4,9 @@
   "name": "Cosmos",
   "symbol": "ATOM",
   "supported": false,
+  "changelly": {
+    "ticker": "atom"
+  },
   "coingecko": {
     "id": "cosmos"
   },

@@ -6,6 +6,9 @@
   "platform": "ethereum",
   "address": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
   "decimals": 18,
+  "changelly": {
+    "ticker": "matic"
+  },
   "coingecko": {
     "id": "matic-network",
     "platform": "ethereum"

@@ -1,0 +1,13 @@
+{
+  "id": "aeternity",
+  "type": "coin",
+  "name": "Aeternity",
+  "symbol": "AE",
+  "supported": false,
+  "changelly": {
+    "ticker": "ae"
+  },
+  "coingecko": {
+    "id": "aeternity"
+  }
+}

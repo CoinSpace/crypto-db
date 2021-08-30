@@ -4,6 +4,9 @@
   "name": "Stellar",
   "symbol": "XLM",
   "decimals": 7,
+  "changelly": {
+    "ticker": "xlm"
+  },
   "coingecko": {
     "id": "stellar"
   },

@@ -6,6 +6,9 @@
   "platform": "ethereum",
   "address": "0x4a220e6096b25eadb88358cb44068a3248254675",
   "decimals": 18,
+  "changelly": {
+    "ticker": "qnt"
+  },
   "coingecko": {
     "id": "quant-network",
     "platform": "ethereum"

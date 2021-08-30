@@ -4,6 +4,9 @@
   "name": "Ontology",
   "symbol": "ONT",
   "supported": false,
+  "changelly": {
+    "ticker": "ont"
+  },
   "coingecko": {
     "id": "ontology"
   },

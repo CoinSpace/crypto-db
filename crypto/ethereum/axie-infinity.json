@@ -6,6 +6,9 @@
   "platform": "ethereum",
   "address": "0xbb0e17ef65f82ab018d8edd776e8dd940327b28b",
   "decimals": 18,
+  "changelly": {
+    "ticker": "axs"
+  },
   "coingecko": {
     "id": "axie-infinity",
     "platform": "ethereum"

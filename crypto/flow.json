@@ -4,6 +4,9 @@
   "name": "Flow",
   "symbol": "FLOW",
   "supported": false,
+  "changelly": {
+    "ticker": "flow"
+  },
   "coingecko": {
     "id": "flow"
   },

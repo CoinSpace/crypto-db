@@ -4,6 +4,9 @@
   "name": "NEO",
   "symbol": "NEO",
   "supported": false,
+  "changelly": {
+    "ticker": "neo"
+  },
   "coingecko": {
     "id": "neo"
   },

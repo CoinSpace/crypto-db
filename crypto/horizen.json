@@ -1,0 +1,13 @@
+{
+  "id": "horizen",
+  "type": "coin",
+  "name": "Horizen",
+  "symbol": "ZEN",
+  "supported": false,
+  "changelly": {
+    "ticker": "zen"
+  },
+  "coingecko": {
+    "id": "zencash"
+  }
+}

@@ -4,6 +4,9 @@
   "name": "Nimiq",
   "symbol": "NIM",
   "supported": false,
+  "changelly": {
+    "ticker": "nim"
+  },
   "coingecko": {
     "id": "nimiq-2"
   },

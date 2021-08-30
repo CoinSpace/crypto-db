@@ -4,6 +4,9 @@
   "name": "Tezos",
   "symbol": "XTZ",
   "supported": false,
+  "changelly": {
+    "ticker": "xtz"
+  },
   "coingecko": {
     "id": "tezos"
   },

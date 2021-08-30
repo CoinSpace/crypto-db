@@ -4,6 +4,9 @@
   "name": "Zcash",
   "symbol": "ZEC",
   "supported": false,
+  "changelly": {
+    "ticker": "zec"
+  },
   "coingecko": {
     "id": "zcash"
   },

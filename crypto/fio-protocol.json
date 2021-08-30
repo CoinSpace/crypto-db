@@ -1,0 +1,13 @@
+{
+  "id": "fio-protocol",
+  "type": "coin",
+  "name": "FIO Protocol",
+  "symbol": "FIO",
+  "supported": false,
+  "changelly": {
+    "ticker": "fio"
+  },
+  "coingecko": {
+    "id": "fio-protocol"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "groestlcoin",
+  "type": "coin",
+  "name": "Groestlcoin",
+  "symbol": "GRS",
+  "supported": false,
+  "changelly": {
+    "ticker": "grs"
+  },
+  "coingecko": {
+    "id": "groestlcoin"
+  }
+}

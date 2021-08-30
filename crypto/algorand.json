@@ -4,6 +4,9 @@
   "name": "Algorand",
   "symbol": "ALGO",
   "supported": false,
+  "changelly": {
+    "ticker": "algo"
+  },
   "coingecko": {
     "id": "algorand"
   },

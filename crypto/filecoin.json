@@ -4,6 +4,9 @@
   "name": "Filecoin",
   "symbol": "FIL",
   "supported": false,
+  "changelly": {
+    "ticker": "fil"
+  },
   "coingecko": {
     "id": "filecoin"
   },

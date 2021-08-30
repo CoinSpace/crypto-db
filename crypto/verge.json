@@ -1,0 +1,13 @@
+{
+  "id": "verge",
+  "type": "coin",
+  "name": "Verge",
+  "symbol": "XVG",
+  "supported": false,
+  "changelly": {
+    "ticker": "xvg"
+  },
+  "coingecko": {
+    "id": "verge"
+  }
+}

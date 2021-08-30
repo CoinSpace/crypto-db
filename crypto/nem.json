@@ -4,6 +4,9 @@
   "name": "NEM",
   "symbol": "XEM",
   "supported": false,
+  "changelly": {
+    "ticker": "xem"
+  },
   "coingecko": {
     "id": "nem"
   },

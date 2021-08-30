@@ -1,0 +1,13 @@
+{
+  "id": "peercoin",
+  "type": "coin",
+  "name": "Peercoin",
+  "symbol": "PPC",
+  "supported": false,
+  "changelly": {
+    "ticker": "ppc"
+  },
+  "coingecko": {
+    "id": "peercoin"
+  }
+}

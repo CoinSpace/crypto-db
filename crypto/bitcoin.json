@@ -4,6 +4,9 @@
   "name": "Bitcoin",
   "symbol": "BTC",
   "decimals": 8,
+  "changelly": {
+    "ticker": "btc"
+  },
   "coingecko": {
     "id": "bitcoin"
   },

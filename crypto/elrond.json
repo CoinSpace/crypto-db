@@ -4,6 +4,9 @@
   "name": "Elrond",
   "symbol": "EGLD",
   "supported": false,
+  "changelly": {
+    "ticker": "egld"
+  },
   "coingecko": {
     "id": "elrond-erd-2"
   },

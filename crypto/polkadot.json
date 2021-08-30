@@ -4,6 +4,9 @@
   "name": "Polkadot",
   "symbol": "DOT",
   "supported": false,
+  "changelly": {
+    "ticker": "dot"
+  },
   "coingecko": {
     "id": "polkadot"
   },

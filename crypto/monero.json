@@ -4,6 +4,9 @@
   "name": "Monero",
   "symbol": "XMR",
   "decimals": 12,
+  "changelly": {
+    "ticker": "xmr"
+  },
   "coingecko": {
     "id": "monero"
   }

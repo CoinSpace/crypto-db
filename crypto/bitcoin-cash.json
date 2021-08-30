@@ -4,6 +4,9 @@
   "name": "Bitcoin Cash",
   "symbol": "BCH",
   "decimals": 8,
+  "changelly": {
+    "ticker": "bch"
+  },
   "coingecko": {
     "id": "bitcoin-cash"
   },

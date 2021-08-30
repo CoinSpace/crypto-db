@@ -4,6 +4,9 @@
   "name": "Dash",
   "symbol": "DASH",
   "decimals": 8,
+  "changelly": {
+    "ticker": "dash"
+  },
   "coingecko": {
     "id": "dash"
   },
