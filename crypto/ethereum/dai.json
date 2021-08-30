@@ -9,5 +9,9 @@
   "coingecko": {
     "id": "dai",
     "platform": "ethereum"
+  },
+  "moonpay": {
+    "id": "0c9480ef-2fab-4d31-9037-da4b29ecc16f",
+    "code": "dai"
   }
 }

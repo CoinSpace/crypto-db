@@ -1,0 +1,11 @@
+{
+  "id": "polygon",
+  "type": "coin",
+  "name": "Polygon",
+  "symbol": "MATIC",
+  "decimals": null,
+  "supported": false,
+  "coingecko": {
+    "id": "matic-network"
+  }
+}

@@ -6,5 +6,9 @@
   "decimals": 8,
   "coingecko": {
     "id": "dash"
+  },
+  "moonpay": {
+    "id": "747c243a-8365-444e-b22d-e1192a48301f",
+    "code": "dash"
   }
 }

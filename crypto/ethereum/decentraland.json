@@ -9,5 +9,9 @@
   "coingecko": {
     "id": "decentraland",
     "platform": "ethereum"
+  },
+  "moonpay": {
+    "id": "32376ac6-6f01-4861-9ea4-2a84e983ddab",
+    "code": "mana"
   }
 }

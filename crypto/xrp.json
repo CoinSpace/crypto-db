@@ -6,5 +6,9 @@
   "decimals": 6,
   "coingecko": {
     "id": "ripple"
+  },
+  "moonpay": {
+    "id": "d64b5e09-3d1b-452d-ab28-478c4190de7d",
+    "code": "xrp"
   }
 }

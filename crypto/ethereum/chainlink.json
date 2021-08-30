@@ -9,5 +9,9 @@
   "coingecko": {
     "id": "chainlink",
     "platform": "ethereum"
+  },
+  "moonpay": {
+    "id": "d5a202d2-fb36-49bb-93d5-2c2e5d6d000f",
+    "code": "link"
   }
 }

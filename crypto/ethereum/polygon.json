@@ -9,5 +9,9 @@
   "coingecko": {
     "id": "matic-network",
     "platform": "ethereum"
+  },
+  "moonpay": {
+    "id": "b1f332ac-0cf8-421d-9ce5-1f6934ebca26",
+    "code": "matic"
   }
 }

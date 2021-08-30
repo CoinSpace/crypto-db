@@ -6,5 +6,9 @@
   "decimals": 8,
   "coingecko": {
     "id": "bitcoin-cash"
+  },
+  "moonpay": {
+    "id": "b01f8f58-f915-491b-aadb-7ba6b966c861",
+    "code": "bch"
   }
 }
