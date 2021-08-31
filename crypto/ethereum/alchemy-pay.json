@@ -1,0 +1,16 @@
+{
+  "id": "ethereum:alchemy-pay",
+  "type": "token",
+  "name": "Alchemy Pay",
+  "symbol": "ACH",
+  "platform": "ethereum",
+  "address": "0xed04915c23f00a313a544955524eb7dbd823143d",
+  "decimals": 8,
+  "changelly": {
+    "ticker": "ach"
+  },
+  "coingecko": {
+    "id": "alchemy-pay",
+    "platform": "ethereum"
+  }
+}

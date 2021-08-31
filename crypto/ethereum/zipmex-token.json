@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:zipmex-token",
+  "type": "token",
+  "name": "Zipmex Token",
+  "symbol": "ZMT",
+  "platform": "ethereum",
+  "address": "0xaa602de53347579f86b996d2add74bb6f79462b2",
+  "decimals": 18,
+  "coingecko": {
+    "id": "zipmex-token",
+    "platform": "ethereum"
+  }
+}

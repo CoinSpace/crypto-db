@@ -4,6 +4,9 @@
   "name": "Qtum",
   "symbol": "QTUM",
   "supported": false,
+  "changelly": {
+    "ticker": "qtum"
+  },
   "coingecko": {
     "id": "qtum"
   },

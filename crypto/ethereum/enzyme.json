@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:enzyme",
+  "type": "token",
+  "name": "Enzyme",
+  "symbol": "MLN",
+  "platform": "ethereum",
+  "address": "0xec67005c4e498ec7f55e092bd1d35cbc47c91892",
+  "decimals": 18,
+  "coingecko": {
+    "id": "melon",
+    "platform": "ethereum"
+  }
+}

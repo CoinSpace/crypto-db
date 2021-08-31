@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:prometeus",
+  "type": "token",
+  "name": "Prometeus",
+  "symbol": "PROM",
+  "platform": "ethereum",
+  "address": "0xfc82bb4ba86045af6f327323a46e80412b91b27d",
+  "decimals": 18,
+  "coingecko": {
+    "id": "prometeus",
+    "platform": "ethereum"
+  }
+}

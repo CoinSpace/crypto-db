@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:hi-dollar",
+  "type": "token",
+  "name": "hi Dollar",
+  "symbol": "HI",
+  "platform": "ethereum",
+  "address": "0xc4f6e93aeddc11dc22268488465babcaf09399ac",
+  "decimals": 18,
+  "coingecko": {
+    "id": "hi-dollar",
+    "platform": "ethereum"
+  }
+}

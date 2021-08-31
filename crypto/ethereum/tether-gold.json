@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:tether-gold",
+  "type": "token",
+  "name": "Tether Gold",
+  "symbol": "XAUT",
+  "platform": "ethereum",
+  "address": "0x4922a015c4407f87432b179bb209e125432e4a2a",
+  "decimals": 6,
+  "coingecko": {
+    "id": "tether-gold",
+    "platform": "ethereum"
+  }
+}

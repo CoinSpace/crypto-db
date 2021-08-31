@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:digitalbits",
+  "type": "token",
+  "name": "DigitalBits",
+  "symbol": "XDB",
+  "platform": "ethereum",
+  "address": "0xb9eefc4b0d472a44be93970254df4f4016569d27",
+  "decimals": 7,
+  "coingecko": {
+    "id": "digitalbits",
+    "platform": "ethereum"
+  }
+}

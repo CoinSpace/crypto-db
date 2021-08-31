@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:stp-network",
+  "type": "token",
+  "name": "STP Network",
+  "symbol": "STPT",
+  "platform": "ethereum",
+  "address": "0xde7d85157d9714eadf595045cc12ca4a5f3e2adb",
+  "decimals": 18,
+  "coingecko": {
+    "id": "stp-network",
+    "platform": "ethereum"
+  }
+}

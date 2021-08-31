@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:ampleforth-governance-token",
+  "type": "token",
+  "name": "Ampleforth Governance Token",
+  "symbol": "FORTH",
+  "platform": "ethereum",
+  "address": "0x77fba179c79de5b7653f68b5039af940ada60ce0",
+  "decimals": 18,
+  "coingecko": {
+    "id": "ampleforth-governance-token",
+    "platform": "ethereum"
+  }
+}

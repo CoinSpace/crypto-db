@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:flex-coin",
+  "type": "token",
+  "name": "FLEX Coin",
+  "symbol": "FLEX",
+  "platform": "ethereum",
+  "address": "0xfcf8eda095e37a41e002e266daad7efc1579bc0a",
+  "decimals": 18,
+  "coingecko": {
+    "id": "flex-coin",
+    "platform": "ethereum"
+  }
+}

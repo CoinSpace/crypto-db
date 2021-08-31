@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:kyber-network-crystal",
+  "type": "token",
+  "name": "Kyber Network Crystal",
+  "symbol": "KNC",
+  "platform": "ethereum",
+  "address": "0xdefa4e8a7bcba345f687a2f1456f5edd9ce97202",
+  "decimals": 18,
+  "coingecko": {
+    "id": "kyber-network-crystal",
+    "platform": "ethereum"
+  }
+}

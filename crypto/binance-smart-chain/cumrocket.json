@@ -1,0 +1,13 @@
+{
+  "id": "binance-smart-chain:cumrocket",
+  "type": "token",
+  "name": "CumRocket",
+  "symbol": "CUMMIES",
+  "platform": "binance-smart-chain",
+  "address": "0x27ae27110350b98d564b9a3eed31baebc82d878d",
+  "decimals": 18,
+  "coingecko": {
+    "id": "cumrocket",
+    "platform": "binance-smart-chain"
+  }
+}

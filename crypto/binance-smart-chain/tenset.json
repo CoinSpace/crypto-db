@@ -1,0 +1,13 @@
+{
+  "id": "binance-smart-chain:tenset",
+  "type": "token",
+  "name": "Tenset",
+  "symbol": "10SET",
+  "platform": "binance-smart-chain",
+  "address": "0x1f64fdad335ed784898effb5ce22d54d8f432523",
+  "decimals": 18,
+  "coingecko": {
+    "id": "tenset",
+    "platform": "binance-smart-chain"
+  }
+}

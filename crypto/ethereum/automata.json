@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:automata",
+  "type": "token",
+  "name": "Automata",
+  "symbol": "ATA",
+  "platform": "ethereum",
+  "address": "0xa2120b9e674d3fc3875f415a7df52e382f141225",
+  "decimals": 18,
+  "coingecko": {
+    "id": "automata",
+    "platform": "ethereum"
+  }
+}

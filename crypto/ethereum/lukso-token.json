@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:lukso-token",
+  "type": "token",
+  "name": "LUKSO Token",
+  "symbol": "LYXE",
+  "platform": "ethereum",
+  "address": "0xa8b919680258d369114910511cc87595aec0be6d",
+  "decimals": 18,
+  "coingecko": {
+    "id": "lukso-token",
+    "platform": "ethereum"
+  }
+}

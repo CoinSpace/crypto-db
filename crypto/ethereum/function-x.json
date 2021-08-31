@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:function-x",
+  "type": "token",
+  "name": "Function X",
+  "symbol": "FX",
+  "platform": "ethereum",
+  "address": "0x8c15ef5b4b21951d50e53e4fbda8298ffad25057",
+  "decimals": 18,
+  "coingecko": {
+    "id": "fx-coin",
+    "platform": "ethereum"
+  }
+}

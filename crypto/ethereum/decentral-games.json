@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:decentral-games",
+  "type": "token",
+  "name": "Decentral Games",
+  "symbol": "DG",
+  "platform": "ethereum",
+  "address": "0xee06a81a695750e71a662b51066f2c74cf4478a0",
+  "decimals": 18,
+  "coingecko": {
+    "id": "decentral-games",
+    "platform": "ethereum"
+  }
+}

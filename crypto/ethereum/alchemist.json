@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:alchemist",
+  "type": "token",
+  "name": "Alchemist",
+  "symbol": "MIST",
+  "platform": "ethereum",
+  "address": "0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab",
+  "decimals": 18,
+  "coingecko": {
+    "id": "alchemist",
+    "platform": "ethereum"
+  }
+}

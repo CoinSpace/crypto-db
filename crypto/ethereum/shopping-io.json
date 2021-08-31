@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:shopping-io",
+  "type": "token",
+  "name": "Shopping.io",
+  "symbol": "SPI",
+  "platform": "ethereum",
+  "address": "0x9b02dd390a603add5c07f9fd9175b7dabe8d63b7",
+  "decimals": 18,
+  "coingecko": {
+    "id": "shopping-io",
+    "platform": "ethereum"
+  }
+}

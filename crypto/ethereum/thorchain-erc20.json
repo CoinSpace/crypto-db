@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:thorchain-erc20",
+  "type": "token",
+  "name": "THORChain (ERC20)",
+  "symbol": "RUNE",
+  "platform": "ethereum",
+  "address": "0x3155ba85d5f96b2d030a4966af206230e46849cb",
+  "decimals": 18,
+  "coingecko": {
+    "id": "thorchain-erc20",
+    "platform": "ethereum"
+  }
+}

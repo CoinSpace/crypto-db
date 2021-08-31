@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:nucypher",
+  "type": "token",
+  "name": "NuCypher",
+  "symbol": "NU",
+  "platform": "ethereum",
+  "address": "0x4fe83213d56308330ec302a8bd641f1d0113a4cc",
+  "decimals": 18,
+  "coingecko": {
+    "id": "nucypher",
+    "platform": "ethereum"
+  }
+}

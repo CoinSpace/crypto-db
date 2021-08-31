@@ -1,0 +1,20 @@
+{
+  "id": "ethereum:utrust",
+  "type": "token",
+  "name": "UTRUST",
+  "symbol": "UTK",
+  "platform": "ethereum",
+  "address": "0xdc9ac3c20d1ed0b540df9b1fedc10039df13f99c",
+  "decimals": 18,
+  "changelly": {
+    "ticker": "utk"
+  },
+  "coingecko": {
+    "id": "utrust",
+    "platform": "ethereum"
+  },
+  "moonpay": {
+    "id": "e5626cbd-0559-4624-8df2-7353b93856ad",
+    "code": "utk"
+  }
+}

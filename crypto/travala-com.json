@@ -6,5 +6,9 @@
   "supported": false,
   "coingecko": {
     "id": "concierge-io"
+  },
+  "moonpay": {
+    "id": "a38c9dfb-c451-4948-9cda-5d9e2f71d69c",
+    "code": "ava"
   }
 }

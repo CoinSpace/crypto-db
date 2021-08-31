@@ -1,0 +1,13 @@
+{
+  "id": "binance-smart-chain:mask-network",
+  "type": "token",
+  "name": "Mask Network",
+  "symbol": "MASK",
+  "platform": "binance-smart-chain",
+  "address": "0x2ed9a5c8c13b93955103b9a7c167b67ef4d568a3",
+  "decimals": 18,
+  "coingecko": {
+    "id": "mask-network",
+    "platform": "binance-smart-chain"
+  }
+}

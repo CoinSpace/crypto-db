@@ -1,0 +1,16 @@
+{
+  "id": "ethereum:augur",
+  "type": "token",
+  "name": "Augur",
+  "symbol": "REP",
+  "platform": "ethereum",
+  "address": "0x221657776846890989a759ba2973e427dff5c9bb",
+  "decimals": 18,
+  "changelly": {
+    "ticker": "rep"
+  },
+  "coingecko": {
+    "id": "augur",
+    "platform": "ethereum"
+  }
+}

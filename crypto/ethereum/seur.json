@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:seur",
+  "type": "token",
+  "name": "sEUR",
+  "symbol": "SEUR",
+  "platform": "ethereum",
+  "address": "0xd71ecff9342a5ced620049e616c5035f1db98620",
+  "decimals": 18,
+  "coingecko": {
+    "id": "seur",
+    "platform": "ethereum"
+  }
+}

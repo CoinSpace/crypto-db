@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:evolution-finance",
+  "type": "token",
+  "name": "Evolution Finance",
+  "symbol": "EVN",
+  "platform": "ethereum",
+  "address": "0x9af15d7b8776fa296019979e70a5be53c714a7ec",
+  "decimals": 18,
+  "coingecko": {
+    "id": "evolution-finance",
+    "platform": "ethereum"
+  }
+}

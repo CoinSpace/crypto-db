@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:request",
+  "type": "token",
+  "name": "Request",
+  "symbol": "REQ",
+  "platform": "ethereum",
+  "address": "0x8f8221afbb33998d8584a2b05749ba73c37a938a",
+  "decimals": 18,
+  "coingecko": {
+    "id": "request-network",
+    "platform": "ethereum"
+  }
+}

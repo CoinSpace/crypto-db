@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:quick",
+  "type": "token",
+  "name": "Quickswap",
+  "symbol": "QUICK",
+  "platform": "ethereum",
+  "address": "0x6c28aef8977c9b773996d0e8376d2ee379446f2f",
+  "decimals": 18,
+  "coingecko": {
+    "id": "quick",
+    "platform": "ethereum"
+  }
+}

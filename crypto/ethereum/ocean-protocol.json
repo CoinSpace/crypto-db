@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:ocean-protocol",
+  "type": "token",
+  "name": "Ocean Protocol",
+  "symbol": "OCEAN",
+  "platform": "ethereum",
+  "address": "0x967da4048cd07ab37855c090aaf366e4ce1b9f48",
+  "decimals": 18,
+  "coingecko": {
+    "id": "ocean-protocol",
+    "platform": "ethereum"
+  }
+}

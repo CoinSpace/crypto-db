@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:zkswap",
+  "type": "token",
+  "name": "ZKSwap",
+  "symbol": "ZKS",
+  "platform": "ethereum",
+  "address": "0xe4815ae53b124e7263f08dcdbbb757d41ed658c6",
+  "decimals": 18,
+  "coingecko": {
+    "id": "zkswap",
+    "platform": "ethereum"
+  }
+}

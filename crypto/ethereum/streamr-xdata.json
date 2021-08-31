@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:streamr-xdata",
+  "type": "token",
+  "name": "Streamr XDATA",
+  "symbol": "XDATA",
+  "platform": "ethereum",
+  "address": "0x0cf0ee63788a0849fe5297f3407f701e122cc023",
+  "decimals": 18,
+  "coingecko": {
+    "id": "streamr-xdata",
+    "platform": "ethereum"
+  }
+}

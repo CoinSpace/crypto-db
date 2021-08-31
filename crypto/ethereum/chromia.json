@@ -1,0 +1,16 @@
+{
+  "id": "ethereum:chromia",
+  "type": "token",
+  "name": "Chromia",
+  "symbol": "CHR",
+  "platform": "ethereum",
+  "address": "0x8a2279d4a90b6fe1c4b30fa660cc9f926797baa2",
+  "decimals": 6,
+  "changelly": {
+    "ticker": "chr"
+  },
+  "coingecko": {
+    "id": "chromaway",
+    "platform": "ethereum"
+  }
+}

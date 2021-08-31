@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:superfarm",
+  "type": "token",
+  "name": "SuperFarm",
+  "symbol": "SUPER",
+  "platform": "ethereum",
+  "address": "0xe53ec727dbdeb9e2d5456c3be40cff031ab40a55",
+  "decimals": 18,
+  "coingecko": {
+    "id": "superfarm",
+    "platform": "ethereum"
+  }
+}

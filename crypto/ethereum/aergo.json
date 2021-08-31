@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:aergo",
+  "type": "token",
+  "name": "Aergo",
+  "symbol": "AERGO",
+  "platform": "ethereum",
+  "address": "0x91af0fbb28aba7e31403cb457106ce79397fd4e6",
+  "decimals": 18,
+  "coingecko": {
+    "id": "aergo",
+    "platform": "ethereum"
+  }
+}

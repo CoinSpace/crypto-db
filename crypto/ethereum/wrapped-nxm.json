@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:wrapped-nxm",
+  "type": "token",
+  "name": "Wrapped NXM",
+  "symbol": "WNXM",
+  "platform": "ethereum",
+  "address": "0x0d438f3b5175bebc262bf23753c1e53d03432bde",
+  "decimals": 18,
+  "coingecko": {
+    "id": "wrapped-nxm",
+    "platform": "ethereum"
+  }
+}

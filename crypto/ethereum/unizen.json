@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:unizen",
+  "type": "token",
+  "name": "Unizen",
+  "symbol": "ZCX",
+  "platform": "ethereum",
+  "address": "0xc52c326331e9ce41f04484d3b5e5648158028804",
+  "decimals": 18,
+  "coingecko": {
+    "id": "unizen",
+    "platform": "ethereum"
+  }
+}

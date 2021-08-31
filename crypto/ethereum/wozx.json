@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:wozx",
+  "type": "token",
+  "name": "Efforce",
+  "symbol": "WOZX",
+  "platform": "ethereum",
+  "address": "0x34950ff2b487d9e5282c5ab342d08a2f712eb79f",
+  "decimals": 18,
+  "coingecko": {
+    "id": "wozx",
+    "platform": "ethereum"
+  }
+}

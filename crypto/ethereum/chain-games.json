@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:chain-games",
+  "type": "token",
+  "name": "Chain Games",
+  "symbol": "CHAIN",
+  "platform": "ethereum",
+  "address": "0xc4c2614e694cf534d407ee49f8e44d125e4681c4",
+  "decimals": 18,
+  "coingecko": {
+    "id": "chain-games",
+    "platform": "ethereum"
+  }
+}

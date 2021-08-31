@@ -1,0 +1,17 @@
+{
+  "id": "ethereum:stormx",
+  "type": "token",
+  "name": "StormX",
+  "symbol": "STMX",
+  "platform": "ethereum",
+  "address": "0xbe9375c6a420d2eeb258962efb95551a5b722803",
+  "decimals": 18,
+  "coingecko": {
+    "id": "storm",
+    "platform": "ethereum"
+  },
+  "moonpay": {
+    "id": "6b47d48b-5c96-465a-9d76-88c2dd33131a",
+    "code": "stmx"
+  }
+}

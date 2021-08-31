@@ -1,0 +1,16 @@
+{
+  "id": "ethereum:power-ledger",
+  "type": "token",
+  "name": "Power Ledger",
+  "symbol": "POWR",
+  "platform": "ethereum",
+  "address": "0x595832f8fc6bf59c85c527fec3740a1b7a361269",
+  "decimals": 6,
+  "changelly": {
+    "ticker": "powr"
+  },
+  "coingecko": {
+    "id": "power-ledger",
+    "platform": "ethereum"
+  }
+}

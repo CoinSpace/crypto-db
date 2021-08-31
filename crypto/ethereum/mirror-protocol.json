@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:mirror-protocol",
+  "type": "token",
+  "name": "Mirror Protocol",
+  "symbol": "MIR",
+  "platform": "ethereum",
+  "address": "0x09a3ecafa817268f77be1283176b946c4ff2e608",
+  "decimals": 18,
+  "coingecko": {
+    "id": "mirror-protocol",
+    "platform": "ethereum"
+  }
+}

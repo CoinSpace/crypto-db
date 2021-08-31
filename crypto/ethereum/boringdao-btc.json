@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:boringdao-btc",
+  "type": "token",
+  "name": "BoringDAO BTC",
+  "symbol": "OBTC",
+  "platform": "ethereum",
+  "address": "0x8064d9ae6cdf087b1bcd5bdf3531bd5d8c537a68",
+  "decimals": 18,
+  "coingecko": {
+    "id": "boringdao-btc",
+    "platform": "ethereum"
+  }
+}

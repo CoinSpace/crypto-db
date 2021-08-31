@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:allianceblock",
+  "type": "token",
+  "name": "AllianceBlock",
+  "symbol": "ALBT",
+  "platform": "ethereum",
+  "address": "0x00a8b738e453ffd858a7edf03bccfe20412f0eb0",
+  "decimals": 18,
+  "coingecko": {
+    "id": "allianceblock",
+    "platform": "ethereum"
+  }
+}

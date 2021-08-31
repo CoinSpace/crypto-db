@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:metal",
+  "type": "token",
+  "name": "Metal",
+  "symbol": "MTL",
+  "platform": "ethereum",
+  "address": "0xf433089366899d83a9f26a773d59ec7ecf30355e",
+  "decimals": 8,
+  "coingecko": {
+    "id": "metal",
+    "platform": "ethereum"
+  }
+}

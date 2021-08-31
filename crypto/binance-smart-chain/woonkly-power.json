@@ -1,0 +1,13 @@
+{
+  "id": "binance-smart-chain:woonkly-power",
+  "type": "token",
+  "name": "Woonkly Power",
+  "symbol": "WOOP",
+  "platform": "binance-smart-chain",
+  "address": "0x8b303d5bbfbbf46f1a4d9741e491e06986894e18",
+  "decimals": 18,
+  "coingecko": {
+    "id": "woonkly-power",
+    "platform": "binance-smart-chain"
+  }
+}

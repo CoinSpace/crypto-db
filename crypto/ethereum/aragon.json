@@ -1,0 +1,16 @@
+{
+  "id": "ethereum:aragon",
+  "type": "token",
+  "name": "Aragon",
+  "symbol": "ANT",
+  "platform": "ethereum",
+  "address": "0xa117000000f279d81a1d3cc75430faa017fa5a2e",
+  "decimals": 18,
+  "changelly": {
+    "ticker": "ant"
+  },
+  "coingecko": {
+    "id": "aragon",
+    "platform": "ethereum"
+  }
+}

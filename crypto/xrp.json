@@ -4,6 +4,9 @@
   "name": "XRP",
   "symbol": "XRP",
   "decimals": 6,
+  "changelly": {
+    "ticker": "xrp"
+  },
   "coingecko": {
     "id": "ripple"
   },

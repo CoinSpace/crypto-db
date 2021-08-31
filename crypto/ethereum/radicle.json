@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:radicle",
+  "type": "token",
+  "name": "Radicle",
+  "symbol": "RAD",
+  "platform": "ethereum",
+  "address": "0x31c8eacbffdd875c74b94b077895bd78cf1e64a3",
+  "decimals": 18,
+  "coingecko": {
+    "id": "radicle",
+    "platform": "ethereum"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:carry",
+  "type": "token",
+  "name": "Carry",
+  "symbol": "CRE",
+  "platform": "ethereum",
+  "address": "0x115ec79f1de567ec68b7ae7eda501b406626478e",
+  "decimals": 18,
+  "coingecko": {
+    "id": "carry",
+    "platform": "ethereum"
+  }
+}

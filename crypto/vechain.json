@@ -4,6 +4,9 @@
   "name": "VeChain",
   "symbol": "VET",
   "supported": false,
+  "changelly": {
+    "ticker": "vet"
+  },
   "coingecko": {
     "id": "vechain"
   },

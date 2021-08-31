@@ -1,0 +1,16 @@
+{
+  "id": "ethereum:storj",
+  "type": "token",
+  "name": "Storj",
+  "symbol": "STORJ",
+  "platform": "ethereum",
+  "address": "0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac",
+  "decimals": 8,
+  "changelly": {
+    "ticker": "storj"
+  },
+  "coingecko": {
+    "id": "storj",
+    "platform": "ethereum"
+  }
+}

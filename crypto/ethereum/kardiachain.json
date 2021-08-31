@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:kardiachain",
+  "type": "token",
+  "name": "KardiaChain",
+  "symbol": "KAI",
+  "platform": "ethereum",
+  "address": "0xd9ec3ff1f8be459bb9369b4e79e9ebcf7141c093",
+  "decimals": 18,
+  "coingecko": {
+    "id": "kardiachain",
+    "platform": "ethereum"
+  }
+}

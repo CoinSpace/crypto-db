@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:eden",
+  "type": "token",
+  "name": "EDEN",
+  "symbol": "EDEN",
+  "platform": "ethereum",
+  "address": "0x1559fa1b8f28238fd5d76d9f434ad86fd20d1559",
+  "decimals": 18,
+  "coingecko": {
+    "id": "eden",
+    "platform": "ethereum"
+  }
+}

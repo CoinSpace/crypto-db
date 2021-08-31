@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:seth2",
+  "type": "token",
+  "name": "sETH2",
+  "symbol": "SETH2",
+  "platform": "ethereum",
+  "address": "0xfe2e637202056d30016725477c5da089ab0a043a",
+  "decimals": 18,
+  "coingecko": {
+    "id": "seth2",
+    "platform": "ethereum"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:fei-protocol",
+  "type": "token",
+  "name": "Fei Protocol",
+  "symbol": "FEI",
+  "platform": "ethereum",
+  "address": "0x956f47f50a910163d8bf957cf5846d573e7f87ca",
+  "decimals": 18,
+  "coingecko": {
+    "id": "fei-protocol",
+    "platform": "ethereum"
+  }
+}

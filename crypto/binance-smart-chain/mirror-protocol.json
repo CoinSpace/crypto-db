@@ -1,0 +1,13 @@
+{
+  "id": "binance-smart-chain:mirror-protocol",
+  "type": "token",
+  "name": "Mirror Protocol",
+  "symbol": "MIR",
+  "platform": "binance-smart-chain",
+  "address": "0x5b6dcf557e2abe2323c48445e8cc948910d8c2c9",
+  "decimals": 18,
+  "coingecko": {
+    "id": "mirror-protocol",
+    "platform": "binance-smart-chain"
+  }
+}

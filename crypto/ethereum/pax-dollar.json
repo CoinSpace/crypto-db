@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:pax-dollar",
+  "type": "token",
+  "name": "Pax Dollar",
+  "symbol": "USDP",
+  "platform": "ethereum",
+  "address": "0x8e870d67f660d95d5be530380d0ec0bd388289e1",
+  "decimals": 18,
+  "coingecko": {
+    "id": "paxos-standard",
+    "platform": "ethereum"
+  }
+}

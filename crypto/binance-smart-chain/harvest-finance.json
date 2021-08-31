@@ -1,0 +1,13 @@
+{
+  "id": "binance-smart-chain:harvest-finance",
+  "type": "token",
+  "name": "Harvest Finance",
+  "symbol": "FARM",
+  "platform": "binance-smart-chain",
+  "address": "0x4b5c23cac08a567ecf0c1ffca8372a45a5d33743",
+  "decimals": 18,
+  "coingecko": {
+    "id": "harvest-finance",
+    "platform": "binance-smart-chain"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:tenset",
+  "type": "token",
+  "name": "Tenset",
+  "symbol": "10SET",
+  "platform": "ethereum",
+  "address": "0x7ff4169a6b5122b664c51c95727d87750ec07c84",
+  "decimals": 18,
+  "coingecko": {
+    "id": "tenset",
+    "platform": "ethereum"
+  }
+}

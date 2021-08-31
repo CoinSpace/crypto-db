@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:alchemix-usd",
+  "type": "token",
+  "name": "Alchemix USD",
+  "symbol": "ALUSD",
+  "platform": "ethereum",
+  "address": "0xbc6da0fe9ad5f3b0d58160288917aa56653660e9",
+  "decimals": 18,
+  "coingecko": {
+    "id": "alchemix-usd",
+    "platform": "ethereum"
+  }
+}

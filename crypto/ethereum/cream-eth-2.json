@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:cream-eth-2",
+  "type": "token",
+  "name": "Cream ETH 2",
+  "symbol": "CRETH2",
+  "platform": "ethereum",
+  "address": "0xcbc1065255cbc3ab41a6868c22d1f1c573ab89fd",
+  "decimals": 18,
+  "coingecko": {
+    "id": "cream-eth2",
+    "platform": "ethereum"
+  }
+}

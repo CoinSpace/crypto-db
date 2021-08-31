@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:reef-finance",
+  "type": "token",
+  "name": "Reef Finance",
+  "symbol": "REEF",
+  "platform": "ethereum",
+  "address": "0xfe3e6a25e6b192a42a44ecddcd13796471735acf",
+  "decimals": 18,
+  "coingecko": {
+    "id": "reef-finance",
+    "platform": "ethereum"
+  }
+}

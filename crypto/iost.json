@@ -1,0 +1,13 @@
+{
+  "id": "iost",
+  "type": "coin",
+  "name": "IOST",
+  "symbol": "IOST",
+  "supported": false,
+  "changelly": {
+    "ticker": "iost"
+  },
+  "coingecko": {
+    "id": "iostoken"
+  }
+}

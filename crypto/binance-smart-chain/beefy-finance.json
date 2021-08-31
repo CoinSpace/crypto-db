@@ -1,0 +1,13 @@
+{
+  "id": "binance-smart-chain:beefy-finance",
+  "type": "token",
+  "name": "Beefy.Finance",
+  "symbol": "BIFI",
+  "platform": "binance-smart-chain",
+  "address": "0xca3f508b8e4dd382ee878a314789373d80a5190a",
+  "decimals": 18,
+  "coingecko": {
+    "id": "beefy-finance",
+    "platform": "binance-smart-chain"
+  }
+}

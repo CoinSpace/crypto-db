@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:trustswap",
+  "type": "token",
+  "name": "Trustswap",
+  "symbol": "SWAP",
+  "platform": "ethereum",
+  "address": "0xcc4304a31d09258b0029ea7fe63d032f52e44efe",
+  "decimals": 18,
+  "coingecko": {
+    "id": "trustswap",
+    "platform": "ethereum"
+  }
+}

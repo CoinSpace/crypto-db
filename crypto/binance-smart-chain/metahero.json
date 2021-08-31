@@ -1,0 +1,13 @@
+{
+  "id": "binance-smart-chain:metahero",
+  "type": "token",
+  "name": "Metahero",
+  "symbol": "HERO",
+  "platform": "binance-smart-chain",
+  "address": "0xd40bedb44c081d2935eeba6ef5a3c8a31a1bbe13",
+  "decimals": 18,
+  "coingecko": {
+    "id": "metahero",
+    "platform": "binance-smart-chain"
+  }
+}

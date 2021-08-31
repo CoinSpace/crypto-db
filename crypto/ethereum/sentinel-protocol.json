@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:sentinel-protocol",
+  "type": "token",
+  "name": "Sentinel Protocol",
+  "symbol": "UPP",
+  "platform": "ethereum",
+  "address": "0xc86d054809623432210c107af2e3f619dcfbf652",
+  "decimals": 18,
+  "coingecko": {
+    "id": "sentinel-protocol",
+    "platform": "ethereum"
+  }
+}

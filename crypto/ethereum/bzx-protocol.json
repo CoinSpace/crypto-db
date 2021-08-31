@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:bzx-protocol",
+  "type": "token",
+  "name": "bZx Protocol",
+  "symbol": "BZRX",
+  "platform": "ethereum",
+  "address": "0x56d811088235f11c8920698a204a5010a788f4b3",
+  "decimals": 18,
+  "coingecko": {
+    "id": "bzx-protocol",
+    "platform": "ethereum"
+  }
+}

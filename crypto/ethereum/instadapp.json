@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:instadapp",
+  "type": "token",
+  "name": "Instadapp",
+  "symbol": "INST",
+  "platform": "ethereum",
+  "address": "0x6f40d4a6237c257fff2db00fa0510deeecd303eb",
+  "decimals": 18,
+  "coingecko": {
+    "id": "instadapp",
+    "platform": "ethereum"
+  }
+}

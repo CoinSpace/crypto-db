@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:aavegotchi",
+  "type": "token",
+  "name": "Aavegotchi",
+  "symbol": "GHST",
+  "platform": "ethereum",
+  "address": "0x3f382dbd960e3a9bbceae22651e88158d2791550",
+  "decimals": 18,
+  "coingecko": {
+    "id": "aavegotchi",
+    "platform": "ethereum"
+  }
+}

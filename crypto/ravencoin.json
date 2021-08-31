@@ -4,6 +4,9 @@
   "name": "Ravencoin",
   "symbol": "RVN",
   "supported": false,
+  "changelly": {
+    "ticker": "rvn"
+  },
   "coingecko": {
     "id": "ravencoin"
   },

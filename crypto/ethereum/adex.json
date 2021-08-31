@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:adex",
+  "type": "token",
+  "name": "AdEx",
+  "symbol": "ADX",
+  "platform": "ethereum",
+  "address": "0xade00c28244d5ce17d72e40330b1c318cd12b7c3",
+  "decimals": 18,
+  "coingecko": {
+    "id": "adex",
+    "platform": "ethereum"
+  }
+}

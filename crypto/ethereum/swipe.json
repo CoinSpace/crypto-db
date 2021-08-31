@@ -1,0 +1,16 @@
+{
+  "id": "ethereum:swipe",
+  "type": "token",
+  "name": "Swipe",
+  "symbol": "SXP",
+  "platform": "ethereum",
+  "address": "0x8ce9137d39326ad0cd6491fb5cc0cba0e089b6a9",
+  "decimals": 18,
+  "changelly": {
+    "ticker": "sxp"
+  },
+  "coingecko": {
+    "id": "swipe",
+    "platform": "ethereum"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:smooth-love-potion",
+  "type": "token",
+  "name": "Smooth Love Potion",
+  "symbol": "SLP",
+  "platform": "ethereum",
+  "address": "0xcc8fa225d80b9c7d42f96e9570156c65d6caaa25",
+  "decimals": 0,
+  "coingecko": {
+    "id": "smooth-love-potion",
+    "platform": "ethereum"
+  }
+}

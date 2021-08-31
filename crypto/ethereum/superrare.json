@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:superrare",
+  "type": "token",
+  "name": "SuperRare",
+  "symbol": "RARE",
+  "platform": "ethereum",
+  "address": "0xba5bde662c17e2adff1075610382b9b691296350",
+  "decimals": 18,
+  "coingecko": {
+    "id": "superrare",
+    "platform": "ethereum"
+  }
+}

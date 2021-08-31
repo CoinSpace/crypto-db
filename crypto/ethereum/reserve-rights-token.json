@@ -1,0 +1,13 @@
+{
+  "id": "ethereum:reserve-rights-token",
+  "type": "token",
+  "name": "Reserve Rights Token",
+  "symbol": "RSR",
+  "platform": "ethereum",
+  "address": "0x8762db106b2c2a0bccb3a80d1ed41273552616e8",
+  "decimals": 18,
+  "coingecko": {
+    "id": "reserve-rights-token",
+    "platform": "ethereum"
+  }
+}
