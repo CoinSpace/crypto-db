@@ -1,0 +1,21 @@
+{
+  "id": "maker@ethereum",
+  "asset": "maker",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Maker",
+  "symbol": "MKR",
+  "address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+  "decimals": 18,
+  "changelly": {
+    "ticker": "mkr"
+  },
+  "coingecko": {
+    "id": "maker",
+    "platform": "ethereum"
+  },
+  "moonpay": {
+    "id": "7a2bed64-917a-446f-b6ae-6c385c0c2923",
+    "code": "mkr"
+  }
+}
