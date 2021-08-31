@@ -1,0 +1,17 @@
+{
+  "id": "1inch@ethereum",
+  "asset": "1inch",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "1inch",
+  "symbol": "1INCH",
+  "address": "0x111111111117dc0aa78b770fa6a738034120c302",
+  "decimals": 18,
+  "changelly": {
+    "ticker": "1inch"
+  },
+  "coingecko": {
+    "id": "1inch",
+    "platform": "ethereum"
+  }
+}

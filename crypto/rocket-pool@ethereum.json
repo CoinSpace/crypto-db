@@ -1,0 +1,14 @@
+{
+  "id": "rocket-pool@ethereum",
+  "asset": "rocket-pool",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Rocket Pool",
+  "symbol": "RPL",
+  "address": "0xb4efd85c19999d84251304bda99e90b92300bd93",
+  "decimals": 18,
+  "coingecko": {
+    "id": "rocket-pool",
+    "platform": "ethereum"
+  }
+}

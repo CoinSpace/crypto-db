@@ -1,0 +1,19 @@
+{
+  "id": "tron@tron",
+  "asset": "tron",
+  "platform": "tron",
+  "type": "coin",
+  "name": "TRON",
+  "symbol": "TRX",
+  "supported": false,
+  "changelly": {
+    "ticker": "trx"
+  },
+  "coingecko": {
+    "id": "tron"
+  },
+  "moonpay": {
+    "id": "6761f845-9619-45d3-9159-8a3a73edcc11",
+    "code": "trx"
+  }
+}

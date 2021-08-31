@@ -1,0 +1,19 @@
+{
+  "id": "bitcoin-cash@bitcoin-cash",
+  "asset": "bitcoin-cash",
+  "platform": "bitcoin-cash",
+  "type": "coin",
+  "name": "Bitcoin Cash",
+  "symbol": "BCH",
+  "decimals": 8,
+  "changelly": {
+    "ticker": "bch"
+  },
+  "coingecko": {
+    "id": "bitcoin-cash"
+  },
+  "moonpay": {
+    "id": "b01f8f58-f915-491b-aadb-7ba6b966c861",
+    "code": "bch"
+  }
+}

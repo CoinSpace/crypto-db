@@ -1,0 +1,21 @@
+{
+  "id": "trueusd@ethereum",
+  "asset": "trueusd",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "TrueUSD",
+  "symbol": "TUSD",
+  "address": "0x0000000000085d4780b73119b644ae5ecd22b376",
+  "decimals": 18,
+  "changelly": {
+    "ticker": "tusd"
+  },
+  "coingecko": {
+    "id": "true-usd",
+    "platform": "ethereum"
+  },
+  "moonpay": {
+    "id": "6e1400ae-8aa0-42be-9b4a-fb661aaf649c",
+    "code": "tusd"
+  }
+}

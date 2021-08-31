@@ -1,0 +1,16 @@
+{
+  "id": "zilliqa@zilliqa",
+  "asset": "zilliqa",
+  "platform": "zilliqa",
+  "type": "coin",
+  "name": "Zilliqa",
+  "symbol": "ZIL",
+  "supported": false,
+  "coingecko": {
+    "id": "zilliqa"
+  },
+  "moonpay": {
+    "id": "2be78a98-df30-4fb6-9cf0-adee76bd8df6",
+    "code": "zil"
+  }
+}

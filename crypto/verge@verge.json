@@ -1,0 +1,15 @@
+{
+  "id": "verge@verge",
+  "asset": "verge",
+  "platform": "verge",
+  "type": "coin",
+  "name": "Verge",
+  "symbol": "XVG",
+  "supported": false,
+  "changelly": {
+    "ticker": "xvg"
+  },
+  "coingecko": {
+    "id": "verge"
+  }
+}

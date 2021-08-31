@@ -1,0 +1,14 @@
+{
+  "id": "shopping-io@binance-smart-chain",
+  "asset": "shopping-io",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Shopping.io",
+  "symbol": "SPI",
+  "address": "0x78a18db278f9c7c9657f61da519e6ef43794dd5d",
+  "decimals": 18,
+  "coingecko": {
+    "id": "shopping-io",
+    "platform": "binance-smart-chain"
+  }
+}

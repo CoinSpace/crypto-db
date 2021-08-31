@@ -1,0 +1,14 @@
+{
+  "id": "cdai@ethereum",
+  "asset": "cdai",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "cDAI",
+  "symbol": "CDAI",
+  "address": "0x5d3a536e4d6dbd6114cc1ead35777bab948e3643",
+  "decimals": 8,
+  "coingecko": {
+    "id": "cdai",
+    "platform": "ethereum"
+  }
+}

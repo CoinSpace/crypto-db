@@ -1,0 +1,14 @@
+{
+  "id": "videocoin@ethereum",
+  "asset": "videocoin",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "VideoCoin",
+  "symbol": "VID",
+  "address": "0x2c9023bbc572ff8dc1228c7858a280046ea8c9e5",
+  "decimals": 18,
+  "coingecko": {
+    "id": "videocoin",
+    "platform": "ethereum"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "balancer@ethereum",
+  "asset": "balancer",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Balancer",
+  "symbol": "BAL",
+  "address": "0xba100000625a3754423978a60c9317c58a424e3d",
+  "decimals": 18,
+  "changelly": {
+    "ticker": "bal"
+  },
+  "coingecko": {
+    "id": "balancer",
+    "platform": "ethereum"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "o3-swap@binance-smart-chain",
+  "asset": "o3-swap",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "O3 Swap",
+  "symbol": "O3",
+  "address": "0xee9801669c6138e84bd50deb500827b776777d28",
+  "decimals": 18,
+  "coingecko": {
+    "id": "o3-swap",
+    "platform": "binance-smart-chain"
+  }
+}

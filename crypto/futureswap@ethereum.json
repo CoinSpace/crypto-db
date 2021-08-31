@@ -1,0 +1,14 @@
+{
+  "id": "futureswap@ethereum",
+  "asset": "futureswap",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Futureswap",
+  "symbol": "FST",
+  "address": "0x0e192d382a36de7011f795acc4391cd302003606",
+  "decimals": 18,
+  "coingecko": {
+    "id": "futureswap",
+    "platform": "ethereum"
+  }
+}

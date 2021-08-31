@@ -1,0 +1,14 @@
+{
+  "id": "kyber-network-crystal-legacy@ethereum",
+  "asset": "kyber-network-crystal-legacy",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Kyber Network Crystal Legacy",
+  "symbol": "KNCL",
+  "address": "0xdd974d5c2e2928dea5f71b9825b8b646686bd200",
+  "decimals": 18,
+  "coingecko": {
+    "id": "kyber-network",
+    "platform": "ethereum"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "loom-network-old@ethereum",
+  "asset": "loom-network-old",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Loom Network (OLD)",
+  "symbol": "LOOMOLD",
+  "address": "0xa4e8c3ec456107ea67d3075bf9e3df3a75823db0",
+  "decimals": 18,
+  "coingecko": {
+    "id": "loom-network",
+    "platform": "ethereum"
+  }
+}

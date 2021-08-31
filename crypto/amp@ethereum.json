@@ -1,0 +1,14 @@
+{
+  "id": "amp@ethereum",
+  "asset": "amp",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Amp",
+  "symbol": "AMP",
+  "address": "0xff20817765cb7f73d4bde2e66e067e58d11095c2",
+  "decimals": 18,
+  "coingecko": {
+    "id": "amp-token",
+    "platform": "ethereum"
+  }
+}

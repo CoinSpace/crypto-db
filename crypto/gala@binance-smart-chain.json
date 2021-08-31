@@ -1,0 +1,14 @@
+{
+  "id": "gala@binance-smart-chain",
+  "asset": "gala",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Gala",
+  "symbol": "GALA",
+  "address": "0x7ddee176f665cd201f93eede625770e2fd911990",
+  "decimals": 18,
+  "coingecko": {
+    "id": "gala",
+    "platform": "binance-smart-chain"
+  }
+}

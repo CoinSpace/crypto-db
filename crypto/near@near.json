@@ -1,0 +1,12 @@
+{
+  "id": "near@near",
+  "asset": "near",
+  "platform": "near",
+  "type": "coin",
+  "name": "Near",
+  "symbol": "NEAR",
+  "supported": false,
+  "coingecko": {
+    "id": "near"
+  }
+}

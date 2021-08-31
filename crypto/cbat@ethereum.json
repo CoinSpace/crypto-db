@@ -1,0 +1,14 @@
+{
+  "id": "cbat@ethereum",
+  "asset": "cbat",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "cBAT",
+  "symbol": "CBAT",
+  "address": "0x6c8c6b02e7b2be14d4fa6022dfd6d75921d90e4e",
+  "decimals": 8,
+  "coingecko": {
+    "id": "compound-basic-attention-token",
+    "platform": "ethereum"
+  }
+}

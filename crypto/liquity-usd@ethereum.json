@@ -1,0 +1,14 @@
+{
+  "id": "liquity-usd@ethereum",
+  "asset": "liquity-usd",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Liquity USD",
+  "symbol": "LUSD",
+  "address": "0x5f98805a4e8be255a32880fdec7f6728c6568ba0",
+  "decimals": 18,
+  "coingecko": {
+    "id": "liquity-usd",
+    "platform": "ethereum"
+  }
+}

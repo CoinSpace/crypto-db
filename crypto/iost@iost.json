@@ -1,0 +1,15 @@
+{
+  "id": "iost@iost",
+  "asset": "iost",
+  "platform": "iost",
+  "type": "coin",
+  "name": "IOST",
+  "symbol": "IOST",
+  "supported": false,
+  "changelly": {
+    "ticker": "iost"
+  },
+  "coingecko": {
+    "id": "iostoken"
+  }
+}

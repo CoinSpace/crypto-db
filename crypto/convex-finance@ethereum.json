@@ -1,0 +1,14 @@
+{
+  "id": "convex-finance@ethereum",
+  "asset": "convex-finance",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Convex Finance",
+  "symbol": "CVX",
+  "address": "0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b",
+  "decimals": 18,
+  "coingecko": {
+    "id": "convex-finance",
+    "platform": "ethereum"
+  }
+}

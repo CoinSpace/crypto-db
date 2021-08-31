@@ -1,0 +1,14 @@
+{
+  "id": "gerowallet@ethereum",
+  "asset": "gerowallet",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "GeroWallet",
+  "symbol": "GERO",
+  "address": "0x3431f91b3a388115f00c5ba9fdb899851d005fb5",
+  "decimals": 18,
+  "coingecko": {
+    "id": "gerowallet",
+    "platform": "ethereum"
+  }
+}

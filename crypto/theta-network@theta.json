@@ -1,0 +1,12 @@
+{
+  "id": "theta-network@theta",
+  "asset": "theta-network",
+  "platform": "theta",
+  "type": "coin",
+  "name": "Theta Network",
+  "symbol": "THETA",
+  "supported": false,
+  "coingecko": {
+    "id": "theta-token"
+  }
+}

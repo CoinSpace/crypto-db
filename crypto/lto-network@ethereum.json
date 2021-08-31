@@ -1,0 +1,14 @@
+{
+  "id": "lto-network@ethereum",
+  "asset": "lto-network",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "LTO Network",
+  "symbol": "LTO",
+  "address": "0x3db6ba6ab6f95efed1a6e794cad492faaabf294d",
+  "decimals": 8,
+  "coingecko": {
+    "id": "lto-network",
+    "platform": "ethereum"
+  }
+}

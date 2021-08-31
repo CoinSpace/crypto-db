@@ -1,0 +1,14 @@
+{
+  "id": "zero-collateral-dai@ethereum",
+  "asset": "zero-collateral-dai",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Zero Collateral Dai",
+  "symbol": "ZAI",
+  "address": "0x9d1233cc46795e94029fda81aaadc1455d510f15",
+  "decimals": 18,
+  "coingecko": {
+    "id": "zero-collateral-dai",
+    "platform": "ethereum"
+  }
+}

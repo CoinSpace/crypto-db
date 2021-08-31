@@ -1,0 +1,14 @@
+{
+  "id": "dvision-network@ethereum",
+  "asset": "dvision-network",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Dvision Network",
+  "symbol": "DVI",
+  "address": "0x10633216e7e8281e33c86f02bf8e565a635d9770",
+  "decimals": 18,
+  "coingecko": {
+    "id": "dvision-network",
+    "platform": "ethereum"
+  }
+}

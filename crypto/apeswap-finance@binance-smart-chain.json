@@ -1,0 +1,14 @@
+{
+  "id": "apeswap-finance@binance-smart-chain",
+  "asset": "apeswap-finance",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "ApeSwap Finance",
+  "symbol": "BANANA",
+  "address": "0x603c7f932ed1fc6575303d8fb018fdcbb0f39a95",
+  "decimals": 18,
+  "coingecko": {
+    "id": "apeswap-finance",
+    "platform": "binance-smart-chain"
+  }
+}

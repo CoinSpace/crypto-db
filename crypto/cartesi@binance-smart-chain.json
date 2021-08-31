@@ -1,0 +1,14 @@
+{
+  "id": "cartesi@binance-smart-chain",
+  "asset": "cartesi",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Cartesi",
+  "symbol": "CTSI",
+  "address": "0x8da443f84fea710266c8eb6bc34b71702d033ef2",
+  "decimals": 18,
+  "coingecko": {
+    "id": "cartesi",
+    "platform": "binance-smart-chain"
+  }
+}

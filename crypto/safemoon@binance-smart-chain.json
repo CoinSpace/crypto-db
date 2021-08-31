@@ -1,0 +1,14 @@
+{
+  "id": "safemoon@binance-smart-chain",
+  "asset": "safemoon",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "SafeMoon",
+  "symbol": "SAFEMOON",
+  "address": "0x8076c74c5e3f5852037f31ff0093eeb8c8add8d3",
+  "decimals": 9,
+  "coingecko": {
+    "id": "safemoon",
+    "platform": "binance-smart-chain"
+  }
+}

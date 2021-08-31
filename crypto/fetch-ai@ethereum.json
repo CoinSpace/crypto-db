@@ -1,0 +1,14 @@
+{
+  "id": "fetch-ai@ethereum",
+  "asset": "fetch-ai",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Fetch.ai",
+  "symbol": "FET",
+  "address": "0xaea46a60368a7bd060eec7df8cba43b7ef41ad85",
+  "decimals": 18,
+  "coingecko": {
+    "id": "fetch-ai",
+    "platform": "ethereum"
+  }
+}

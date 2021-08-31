@@ -1,0 +1,16 @@
+{
+  "id": "ethereum-classic@ethereum-classic",
+  "asset": "ethereum-classic",
+  "platform": "ethereum-classic",
+  "type": "coin",
+  "name": "Ethereum Classic",
+  "symbol": "ETC",
+  "supported": false,
+  "coingecko": {
+    "id": "ethereum-classic"
+  },
+  "moonpay": {
+    "id": "1855d4af-6701-406f-9cda-3d47e746f686",
+    "code": "etc"
+  }
+}

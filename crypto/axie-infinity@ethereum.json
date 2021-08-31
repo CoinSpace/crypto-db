@@ -1,0 +1,21 @@
+{
+  "id": "axie-infinity@ethereum",
+  "asset": "axie-infinity",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Axie Infinity",
+  "symbol": "AXS",
+  "address": "0xbb0e17ef65f82ab018d8edd776e8dd940327b28b",
+  "decimals": 18,
+  "changelly": {
+    "ticker": "axs"
+  },
+  "coingecko": {
+    "id": "axie-infinity",
+    "platform": "ethereum"
+  },
+  "moonpay": {
+    "id": "90ea8961-9e67-4f60-8f14-ac9cd6c85056",
+    "code": "axs"
+  }
+}

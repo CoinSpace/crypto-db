@@ -1,0 +1,17 @@
+{
+  "id": "pancakeswap@binance-smart-chain",
+  "asset": "pancakeswap",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "PancakeSwap",
+  "symbol": "CAKE",
+  "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+  "decimals": 18,
+  "changelly": {
+    "ticker": "cake"
+  },
+  "coingecko": {
+    "id": "pancakeswap-token",
+    "platform": "binance-smart-chain"
+  }
+}

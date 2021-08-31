@@ -1,0 +1,14 @@
+{
+  "id": "orbs@ethereum",
+  "asset": "orbs",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Orbs",
+  "symbol": "ORBS",
+  "address": "0xff56cc6b1e6ded347aa0b7676c85ab0b3d08b0fa",
+  "decimals": 18,
+  "coingecko": {
+    "id": "orbs",
+    "platform": "ethereum"
+  }
+}

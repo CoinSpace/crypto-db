@@ -1,0 +1,19 @@
+{
+  "id": "neo@neo",
+  "asset": "neo",
+  "platform": "neo",
+  "type": "coin",
+  "name": "NEO",
+  "symbol": "NEO",
+  "supported": false,
+  "changelly": {
+    "ticker": "neo"
+  },
+  "coingecko": {
+    "id": "neo"
+  },
+  "moonpay": {
+    "id": "1e00d686-6037-4fd4-baee-a3c4f70fb70c",
+    "code": "neo"
+  }
+}

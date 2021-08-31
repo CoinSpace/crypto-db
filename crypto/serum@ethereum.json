@@ -1,0 +1,21 @@
+{
+  "id": "serum@ethereum",
+  "asset": "serum",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Serum",
+  "symbol": "SRM",
+  "address": "0x476c5e26a75bd202a9683ffd34359c0cc15be0ff",
+  "decimals": 6,
+  "changelly": {
+    "ticker": "srm"
+  },
+  "coingecko": {
+    "id": "serum",
+    "platform": "ethereum"
+  },
+  "moonpay": {
+    "id": "82d5aae4-6ffa-4a2f-ab0e-9c6afea22174",
+    "code": "srm"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fetch-ai@binance-smart-chain",
+  "asset": "fetch-ai",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Fetch.ai",
+  "symbol": "FET",
+  "address": "0x031b41e504677879370e9dbcf937283a8691fa7f",
+  "decimals": 18,
+  "coingecko": {
+    "id": "fetch-ai",
+    "platform": "binance-smart-chain"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "iotex@iotex",
+  "asset": "iotex",
+  "platform": "iotex",
+  "type": "coin",
+  "name": "IoTeX",
+  "symbol": "IOTX",
+  "supported": false,
+  "changelly": {
+    "ticker": "iotx"
+  },
+  "coingecko": {
+    "id": "iotex"
+  }
+}

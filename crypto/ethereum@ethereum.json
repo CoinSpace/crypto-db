@@ -1,0 +1,19 @@
+{
+  "id": "ethereum@ethereum",
+  "asset": "ethereum",
+  "platform": "ethereum",
+  "type": "coin",
+  "name": "Ethereum",
+  "symbol": "ETH",
+  "decimals": 18,
+  "changelly": {
+    "ticker": "eth"
+  },
+  "coingecko": {
+    "id": "ethereum"
+  },
+  "moonpay": {
+    "id": "8d305f63-1fd7-4e01-a220-8445e591aec4",
+    "code": "eth"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "theta-fuel@theta",
+  "asset": "theta-fuel",
+  "platform": "theta",
+  "type": "coin",
+  "name": "Theta Fuel",
+  "symbol": "TFUEL",
+  "supported": false,
+  "changelly": {
+    "ticker": "tfuel"
+  },
+  "coingecko": {
+    "id": "theta-fuel"
+  }
+}

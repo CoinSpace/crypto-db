@@ -1,0 +1,14 @@
+{
+  "id": "lido-dao@ethereum",
+  "asset": "lido-dao",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Lido DAO",
+  "symbol": "LDO",
+  "address": "0x5a98fcbea516cf06857215779fd812ca3bef1b32",
+  "decimals": 18,
+  "coingecko": {
+    "id": "lido-dao",
+    "platform": "ethereum"
+  }
+}

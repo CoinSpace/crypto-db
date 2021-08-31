@@ -1,0 +1,14 @@
+{
+  "id": "privateum@binance-smart-chain",
+  "asset": "privateum",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Privateum",
+  "symbol": "PVM",
+  "address": "0x71aff23750db1f4edbe32c942157a478349035b2",
+  "decimals": 18,
+  "coingecko": {
+    "id": "privateum",
+    "platform": "binance-smart-chain"
+  }
+}

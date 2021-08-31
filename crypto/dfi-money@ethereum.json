@@ -1,0 +1,14 @@
+{
+  "id": "dfi-money@ethereum",
+  "asset": "dfi-money",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "DFI.money",
+  "symbol": "YFII",
+  "address": "0xa1d0e215a23d7030842fc67ce582a6afa3ccab83",
+  "decimals": 18,
+  "coingecko": {
+    "id": "yfii-finance",
+    "platform": "ethereum"
+  }
+}

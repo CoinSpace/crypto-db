@@ -1,0 +1,14 @@
+{
+  "id": "rari-governance-token@ethereum",
+  "asset": "rari-governance-token",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Rari Governance Token",
+  "symbol": "RGT",
+  "address": "0xd291e7a03283640fdc51b121ac401383a46cc623",
+  "decimals": 18,
+  "coingecko": {
+    "id": "rari-governance-token",
+    "platform": "ethereum"
+  }
+}

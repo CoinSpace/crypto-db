@@ -1,0 +1,15 @@
+{
+  "id": "waltonchain@waltonchain",
+  "asset": "waltonchain",
+  "platform": "waltonchain",
+  "type": "coin",
+  "name": "Waltonchain",
+  "symbol": "WTC",
+  "supported": false,
+  "changelly": {
+    "ticker": "wtc"
+  },
+  "coingecko": {
+    "id": "waltonchain"
+  }
+}

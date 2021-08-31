@@ -1,0 +1,14 @@
+{
+  "id": "polkadex@ethereum",
+  "asset": "polkadex",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Polkadex",
+  "symbol": "PDEX",
+  "address": "0xf59ae934f6fe444afc309586cc60a84a0f89aaea",
+  "decimals": 18,
+  "coingecko": {
+    "id": "polkadex",
+    "platform": "ethereum"
+  }
+}

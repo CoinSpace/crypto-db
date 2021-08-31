@@ -1,0 +1,15 @@
+{
+  "id": "decred@decred",
+  "asset": "decred",
+  "platform": "decred",
+  "type": "coin",
+  "name": "Decred",
+  "symbol": "DCR",
+  "supported": false,
+  "changelly": {
+    "ticker": "dcr"
+  },
+  "coingecko": {
+    "id": "decred"
+  }
+}

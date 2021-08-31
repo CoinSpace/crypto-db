@@ -1,0 +1,14 @@
+{
+  "id": "everipedia@binance-smart-chain",
+  "asset": "everipedia",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Everipedia",
+  "symbol": "IQ",
+  "address": "0x0e37d70b51ffa2b98b4d34a5712c5291115464e3",
+  "decimals": 18,
+  "coingecko": {
+    "id": "everipedia",
+    "platform": "binance-smart-chain"
+  }
+}

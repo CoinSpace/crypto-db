@@ -1,0 +1,14 @@
+{
+  "id": "swipe@binance-smart-chain",
+  "asset": "swipe",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Swipe",
+  "symbol": "SXP",
+  "address": "0x47bead2563dcbf3bf2c9407fea4dc236faba485a",
+  "decimals": 18,
+  "coingecko": {
+    "id": "swipe",
+    "platform": "binance-smart-chain"
+  }
+}

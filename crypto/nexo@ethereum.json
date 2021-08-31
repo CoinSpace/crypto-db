@@ -1,0 +1,17 @@
+{
+  "id": "nexo@ethereum",
+  "asset": "nexo",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "NEXO",
+  "symbol": "NEXO",
+  "address": "0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206",
+  "decimals": 18,
+  "changelly": {
+    "ticker": "nexo"
+  },
+  "coingecko": {
+    "id": "nexo",
+    "platform": "ethereum"
+  }
+}

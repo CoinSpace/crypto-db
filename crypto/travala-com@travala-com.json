@@ -1,0 +1,12 @@
+{
+  "id": "travala-com@travala-com",
+  "asset": "travala-com",
+  "platform": "travala-com",
+  "type": "coin",
+  "name": "Travala.com",
+  "symbol": "AVA",
+  "supported": false,
+  "coingecko": {
+    "id": "concierge-io"
+  }
+}

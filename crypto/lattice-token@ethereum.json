@@ -1,0 +1,14 @@
+{
+  "id": "lattice-token@ethereum",
+  "asset": "lattice-token",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Lattice Token",
+  "symbol": "LTX",
+  "address": "0xa393473d64d2f9f026b60b6df7859a689715d092",
+  "decimals": 8,
+  "coingecko": {
+    "id": "lattice-token",
+    "platform": "ethereum"
+  }
+}

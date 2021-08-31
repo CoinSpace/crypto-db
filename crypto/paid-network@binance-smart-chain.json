@@ -1,0 +1,14 @@
+{
+  "id": "paid-network@binance-smart-chain",
+  "asset": "paid-network",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "PAID Network",
+  "symbol": "PAID",
+  "address": "0xad86d0e9764ba90ddd68747d64bffbd79879a238",
+  "decimals": 18,
+  "coingecko": {
+    "id": "paid-network",
+    "platform": "binance-smart-chain"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "chain-games@binance-smart-chain",
+  "asset": "chain-games",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Chain Games",
+  "symbol": "CHAIN",
+  "address": "0x35de111558f691f77f791fb0c08b2d6b931a9d47",
+  "decimals": 18,
+  "coingecko": {
+    "id": "chain-games",
+    "platform": "binance-smart-chain"
+  }
+}

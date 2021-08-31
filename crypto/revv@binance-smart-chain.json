@@ -1,0 +1,14 @@
+{
+  "id": "revv@binance-smart-chain",
+  "asset": "revv",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "REVV",
+  "symbol": "REVV",
+  "address": "0x833f307ac507d47309fd8cdd1f835bef8d702a93",
+  "decimals": 18,
+  "coingecko": {
+    "id": "revv",
+    "platform": "binance-smart-chain"
+  }
+}

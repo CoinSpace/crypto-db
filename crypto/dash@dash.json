@@ -1,0 +1,19 @@
+{
+  "id": "dash@dash",
+  "asset": "dash",
+  "platform": "dash",
+  "type": "coin",
+  "name": "Dash",
+  "symbol": "DASH",
+  "decimals": 8,
+  "changelly": {
+    "ticker": "dash"
+  },
+  "coingecko": {
+    "id": "dash"
+  },
+  "moonpay": {
+    "id": "747c243a-8365-444e-b22d-e1192a48301f",
+    "code": "dash"
+  }
+}

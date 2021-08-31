@@ -1,0 +1,14 @@
+{
+  "id": "voyager-token@ethereum",
+  "asset": "voyager-token",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Voyager Token",
+  "symbol": "VGX",
+  "address": "0x3c4b6e6e1ea3d4863700d7f76b36b7f3d3f13e3d",
+  "decimals": 8,
+  "coingecko": {
+    "id": "ethos",
+    "platform": "ethereum"
+  }
+}

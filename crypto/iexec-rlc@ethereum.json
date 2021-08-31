@@ -1,0 +1,14 @@
+{
+  "id": "iexec-rlc@ethereum",
+  "asset": "iexec-rlc",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "iExec RLC",
+  "symbol": "RLC",
+  "address": "0x607f4c5bb672230e8672085532f7e901544a7375",
+  "decimals": 9,
+  "coingecko": {
+    "id": "iexec-rlc",
+    "platform": "ethereum"
+  }
+}

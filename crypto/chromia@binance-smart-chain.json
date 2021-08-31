@@ -1,0 +1,14 @@
+{
+  "id": "chromia@binance-smart-chain",
+  "asset": "chromia",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Chromia",
+  "symbol": "CHR",
+  "address": "0xf9cec8d50f6c8ad3fb6dccec577e05aa32b224fe",
+  "decimals": 6,
+  "coingecko": {
+    "id": "chromaway",
+    "platform": "binance-smart-chain"
+  }
+}

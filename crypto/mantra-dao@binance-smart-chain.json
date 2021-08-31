@@ -1,0 +1,14 @@
+{
+  "id": "mantra-dao@binance-smart-chain",
+  "asset": "mantra-dao",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "MANTRA DAO",
+  "symbol": "OM",
+  "address": "0xf78d2e7936f5fe18308a3b2951a93b6c4a41f5e2",
+  "decimals": 18,
+  "coingecko": {
+    "id": "mantra-dao",
+    "platform": "binance-smart-chain"
+  }
+}

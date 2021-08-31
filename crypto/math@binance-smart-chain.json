@@ -1,0 +1,14 @@
+{
+  "id": "math@binance-smart-chain",
+  "asset": "math",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "MATH",
+  "symbol": "MATH",
+  "address": "0xf218184af829cf2b0019f8e6f0b2423498a36983",
+  "decimals": 18,
+  "coingecko": {
+    "id": "math",
+    "platform": "binance-smart-chain"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "orbs@binance-smart-chain",
+  "asset": "orbs",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Orbs",
+  "symbol": "ORBS",
+  "address": "0xebd49b26169e1b52c04cfd19fcf289405df55f80",
+  "decimals": 18,
+  "coingecko": {
+    "id": "orbs",
+    "platform": "binance-smart-chain"
+  }
+}

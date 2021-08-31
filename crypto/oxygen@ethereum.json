@@ -1,0 +1,14 @@
+{
+  "id": "oxygen@ethereum",
+  "asset": "oxygen",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Oxygen",
+  "symbol": "OXY",
+  "address": "0x965697b4ef02f0de01384d0d4f9f782b1670c163",
+  "decimals": 6,
+  "coingecko": {
+    "id": "oxygen",
+    "platform": "ethereum"
+  }
+}

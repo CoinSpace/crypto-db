@@ -1,0 +1,14 @@
+{
+  "id": "crypto20@ethereum",
+  "asset": "crypto20",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "CRYPTO20",
+  "symbol": "C20",
+  "address": "0x26e75307fc0c021472feb8f727839531f112f317",
+  "decimals": 18,
+  "coingecko": {
+    "id": "crypto20",
+    "platform": "ethereum"
+  }
+}

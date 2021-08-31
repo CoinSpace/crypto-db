@@ -1,0 +1,14 @@
+{
+  "id": "clover-finance@binance-smart-chain",
+  "asset": "clover-finance",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Clover Finance",
+  "symbol": "CLV",
+  "address": "0x09e889bb4d5b474f561db0491c38702f367a4e4d",
+  "decimals": 18,
+  "coingecko": {
+    "id": "clover-finance",
+    "platform": "binance-smart-chain"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "alpaca-finance@binance-smart-chain",
+  "asset": "alpaca-finance",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Alpaca Finance",
+  "symbol": "ALPACA",
+  "address": "0x8f0528ce5ef7b51152a59745befdd91d97091d2f",
+  "decimals": 18,
+  "coingecko": {
+    "id": "alpaca-finance",
+    "platform": "binance-smart-chain"
+  }
+}

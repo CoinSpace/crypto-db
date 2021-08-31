@@ -1,0 +1,14 @@
+{
+  "id": "adex@binance-smart-chain",
+  "asset": "adex",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "AdEx",
+  "symbol": "ADX",
+  "address": "0x6bff4fb161347ad7de4a625ae5aa3a1ca7077819",
+  "decimals": 18,
+  "coingecko": {
+    "id": "adex",
+    "platform": "binance-smart-chain"
+  }
+}

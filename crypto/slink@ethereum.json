@@ -1,0 +1,14 @@
+{
+  "id": "slink@ethereum",
+  "asset": "slink",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "sLINK",
+  "symbol": "SLINK",
+  "address": "0xbbc455cb4f1b9e4bfc4b73970d360c8f032efee6",
+  "decimals": 18,
+  "coingecko": {
+    "id": "slink",
+    "platform": "ethereum"
+  }
+}

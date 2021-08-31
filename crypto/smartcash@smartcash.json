@@ -1,0 +1,15 @@
+{
+  "id": "smartcash@smartcash",
+  "asset": "smartcash",
+  "platform": "smartcash",
+  "type": "coin",
+  "name": "SmartCash",
+  "symbol": "SMART",
+  "supported": false,
+  "changelly": {
+    "ticker": "smart"
+  },
+  "coingecko": {
+    "id": "smartcash"
+  }
+}

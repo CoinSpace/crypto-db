@@ -1,0 +1,18 @@
+{
+  "id": "chainlink@ethereum",
+  "asset": "chainlink",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Chainlink",
+  "symbol": "LINK",
+  "address": "0x514910771af9ca656af840dff83e8264ecf986ca",
+  "decimals": 18,
+  "coingecko": {
+    "id": "chainlink",
+    "platform": "ethereum"
+  },
+  "moonpay": {
+    "id": "d5a202d2-fb36-49bb-93d5-2c2e5d6d000f",
+    "code": "link"
+  }
+}

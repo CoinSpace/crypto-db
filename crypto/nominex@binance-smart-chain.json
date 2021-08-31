@@ -1,0 +1,14 @@
+{
+  "id": "nominex@binance-smart-chain",
+  "asset": "nominex",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Nominex",
+  "symbol": "NMX",
+  "address": "0xd32d01a43c869edcd1117c640fbdcfcfd97d9d65",
+  "decimals": 18,
+  "coingecko": {
+    "id": "nominex",
+    "platform": "binance-smart-chain"
+  }
+}

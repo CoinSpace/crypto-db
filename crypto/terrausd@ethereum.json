@@ -1,0 +1,14 @@
+{
+  "id": "terrausd@ethereum",
+  "asset": "terrausd",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "TerraUSD",
+  "symbol": "UST",
+  "address": "0xa47c8bf37f92abed4a126bda807a7b7498661acd",
+  "decimals": 18,
+  "coingecko": {
+    "id": "terrausd",
+    "platform": "ethereum"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "usd-coin@binance-smart-chain",
+  "asset": "usd-coin",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "USD Coin",
+  "symbol": "USDC",
+  "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+  "decimals": 18,
+  "coingecko": {
+    "id": "usd-coin",
+    "platform": "binance-smart-chain"
+  }
+}

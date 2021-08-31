@@ -1,0 +1,14 @@
+{
+  "id": "asd@ethereum",
+  "asset": "asd",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "AscendEx Token",
+  "symbol": "ASD",
+  "address": "0xcca0c9c383076649604ee31b20248bc04fdf61ca",
+  "decimals": 18,
+  "coingecko": {
+    "id": "asd",
+    "platform": "ethereum"
+  }
+}

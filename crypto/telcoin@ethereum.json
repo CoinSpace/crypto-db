@@ -1,0 +1,17 @@
+{
+  "id": "telcoin@ethereum",
+  "asset": "telcoin",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Telcoin",
+  "symbol": "TEL",
+  "address": "0x467bccd9d29f223bce8043b84e8c8b282827790f",
+  "decimals": 2,
+  "changelly": {
+    "ticker": "tel"
+  },
+  "coingecko": {
+    "id": "telcoin",
+    "platform": "ethereum"
+  }
+}

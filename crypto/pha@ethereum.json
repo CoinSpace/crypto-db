@@ -1,0 +1,14 @@
+{
+  "id": "pha@ethereum",
+  "asset": "pha",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Phala Network",
+  "symbol": "PHA",
+  "address": "0x6c5ba91642f10282b576d91922ae6448c9d52f4e",
+  "decimals": 18,
+  "coingecko": {
+    "id": "pha",
+    "platform": "ethereum"
+  }
+}

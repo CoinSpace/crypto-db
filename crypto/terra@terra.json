@@ -1,0 +1,15 @@
+{
+  "id": "terra@terra",
+  "asset": "terra",
+  "platform": "terra",
+  "type": "coin",
+  "name": "Terra",
+  "symbol": "LUNA",
+  "supported": false,
+  "changelly": {
+    "ticker": "luna"
+  },
+  "coingecko": {
+    "id": "terra-luna"
+  }
+}

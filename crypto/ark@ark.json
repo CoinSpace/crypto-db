@@ -1,0 +1,15 @@
+{
+  "id": "ark@ark",
+  "asset": "ark",
+  "platform": "ark",
+  "type": "coin",
+  "name": "Ark",
+  "symbol": "ARK",
+  "supported": false,
+  "changelly": {
+    "ticker": "ark"
+  },
+  "coingecko": {
+    "id": "ark"
+  }
+}

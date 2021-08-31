@@ -1,0 +1,14 @@
+{
+  "id": "math@ethereum",
+  "asset": "math",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "MATH",
+  "symbol": "MATH",
+  "address": "0x08d967bb0134f2d07f7cfb6e246680c53927dd30",
+  "decimals": 18,
+  "coingecko": {
+    "id": "math",
+    "platform": "ethereum"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "horizen@horizen",
+  "asset": "horizen",
+  "platform": "horizen",
+  "type": "coin",
+  "name": "Horizen",
+  "symbol": "ZEN",
+  "supported": false,
+  "changelly": {
+    "ticker": "zen"
+  },
+  "coingecko": {
+    "id": "zencash"
+  }
+}

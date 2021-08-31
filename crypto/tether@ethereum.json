@@ -1,0 +1,18 @@
+{
+  "id": "tether@ethereum",
+  "asset": "tether",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Tether",
+  "symbol": "USDT",
+  "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+  "decimals": 6,
+  "coingecko": {
+    "id": "tether",
+    "platform": "ethereum"
+  },
+  "moonpay": {
+    "id": "3693a9c0-7b24-4e48-a8a7-75021ad6e26a",
+    "code": "usdt"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "plant-vs-undead-token@binance-smart-chain",
+  "asset": "plant-vs-undead-token",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Plant vs Undead Token",
+  "symbol": "PVU",
+  "address": "0x31471e0791fcdbe82fbf4c44943255e923f1b794",
+  "decimals": 18,
+  "coingecko": {
+    "id": "plant-vs-undead-token",
+    "platform": "binance-smart-chain"
+  }
+}

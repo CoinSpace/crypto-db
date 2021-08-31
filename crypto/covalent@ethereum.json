@@ -1,0 +1,14 @@
+{
+  "id": "covalent@ethereum",
+  "asset": "covalent",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Covalent",
+  "symbol": "CQT",
+  "address": "0xd417144312dbf50465b1c641d016962017ef6240",
+  "decimals": 18,
+  "coingecko": {
+    "id": "covalent",
+    "platform": "ethereum"
+  }
+}

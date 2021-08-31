@@ -1,0 +1,14 @@
+{
+  "id": "api3@ethereum",
+  "asset": "api3",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "API3",
+  "symbol": "API3",
+  "address": "0x0b38210ea11411557c13457d4da7dc6ea731b88a",
+  "decimals": 18,
+  "coingecko": {
+    "id": "api3",
+    "platform": "ethereum"
+  }
+}

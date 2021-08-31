@@ -1,0 +1,15 @@
+{
+  "id": "peercoin@peercoin",
+  "asset": "peercoin",
+  "platform": "peercoin",
+  "type": "coin",
+  "name": "Peercoin",
+  "symbol": "PPC",
+  "supported": false,
+  "changelly": {
+    "ticker": "ppc"
+  },
+  "coingecko": {
+    "id": "peercoin"
+  }
+}

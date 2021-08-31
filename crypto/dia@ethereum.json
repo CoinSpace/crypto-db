@@ -1,0 +1,14 @@
+{
+  "id": "dia@ethereum",
+  "asset": "dia",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "DIA",
+  "symbol": "DIA",
+  "address": "0x84ca8bc7997272c7cfb4d0cd3d55cd942b3c9419",
+  "decimals": 18,
+  "coingecko": {
+    "id": "dia-data",
+    "platform": "ethereum"
+  }
+}

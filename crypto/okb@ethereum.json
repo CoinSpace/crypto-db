@@ -1,0 +1,18 @@
+{
+  "id": "okb@ethereum",
+  "asset": "okb",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "OKB",
+  "symbol": "OKB",
+  "address": "0x75231f58b43240c9718dd58b4967c5114342a86c",
+  "decimals": 18,
+  "coingecko": {
+    "id": "okb",
+    "platform": "ethereum"
+  },
+  "moonpay": {
+    "id": "f3751fcc-7864-489b-80ca-4fc372b0dab1",
+    "code": "okb"
+  }
+}

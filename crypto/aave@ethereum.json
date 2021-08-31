@@ -1,0 +1,21 @@
+{
+  "id": "aave@ethereum",
+  "asset": "aave",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Aave",
+  "symbol": "AAVE",
+  "address": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+  "decimals": 18,
+  "changelly": {
+    "ticker": "aave"
+  },
+  "coingecko": {
+    "id": "aave",
+    "platform": "ethereum"
+  },
+  "moonpay": {
+    "id": "3c28b499-2066-4890-8b58-79c52994362f",
+    "code": "aave"
+  }
+}

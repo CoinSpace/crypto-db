@@ -1,0 +1,14 @@
+{
+  "id": "stratis@ethereum",
+  "asset": "stratis",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Stratis",
+  "symbol": "STRAX",
+  "address": "0xa3c22370de5f9544f0c4de126b1e46ceadf0a51b",
+  "decimals": 18,
+  "coingecko": {
+    "id": "stratis",
+    "platform": "ethereum"
+  }
+}

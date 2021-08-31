@@ -1,0 +1,14 @@
+{
+  "id": "linear@ethereum",
+  "asset": "linear",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Linear",
+  "symbol": "LINA",
+  "address": "0x3e9bc21c9b189c09df3ef1b824798658d5011937",
+  "decimals": 18,
+  "coingecko": {
+    "id": "linear",
+    "platform": "ethereum"
+  }
+}

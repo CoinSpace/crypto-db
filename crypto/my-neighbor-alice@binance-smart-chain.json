@@ -1,0 +1,14 @@
+{
+  "id": "my-neighbor-alice@binance-smart-chain",
+  "asset": "my-neighbor-alice",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "My Neighbor Alice",
+  "symbol": "ALICE",
+  "address": "0xac51066d7bec65dc4589368da368b212745d63e8",
+  "decimals": 6,
+  "coingecko": {
+    "id": "my-neighbor-alice",
+    "platform": "binance-smart-chain"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "uma@ethereum",
+  "asset": "uma",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "UMA",
+  "symbol": "UMA",
+  "address": "0x04fa0d235c4abf4bcf4787af4cf447de572ef828",
+  "decimals": 18,
+  "changelly": {
+    "ticker": "uma"
+  },
+  "coingecko": {
+    "id": "uma",
+    "platform": "ethereum"
+  }
+}

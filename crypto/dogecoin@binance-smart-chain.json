@@ -1,0 +1,14 @@
+{
+  "id": "dogecoin@binance-smart-chain",
+  "asset": "dogecoin",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Dogecoin",
+  "symbol": "DOGE",
+  "address": "0x4206931337dc273a630d328da6441786bfad668f",
+  "decimals": 8,
+  "coingecko": {
+    "id": "dogecoin",
+    "platform": "binance-smart-chain"
+  }
+}

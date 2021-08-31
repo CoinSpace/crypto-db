@@ -1,0 +1,14 @@
+{
+  "id": "lto-network@binance-smart-chain",
+  "asset": "lto-network",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "LTO Network",
+  "symbol": "LTO",
+  "address": "0x857b222fc79e1cbbf8ca5f78cb133d1b7cf34bbd",
+  "decimals": 18,
+  "coingecko": {
+    "id": "lto-network",
+    "platform": "binance-smart-chain"
+  }
+}

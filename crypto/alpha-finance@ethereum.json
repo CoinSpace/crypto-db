@@ -1,0 +1,17 @@
+{
+  "id": "alpha-finance@ethereum",
+  "asset": "alpha-finance",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Alpha Finance",
+  "symbol": "ALPHA",
+  "address": "0xa1faa113cbe53436df28ff0aee54275c13b40975",
+  "decimals": 18,
+  "changelly": {
+    "ticker": "alpha"
+  },
+  "coingecko": {
+    "id": "alpha-finance",
+    "platform": "ethereum"
+  }
+}

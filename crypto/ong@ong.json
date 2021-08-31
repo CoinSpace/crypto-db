@@ -1,0 +1,12 @@
+{
+  "id": "ong@ong",
+  "asset": "ong",
+  "platform": "ong",
+  "type": "coin",
+  "name": "Ontology Gas",
+  "symbol": "ONG",
+  "supported": false,
+  "coingecko": {
+    "id": "ong"
+  }
+}

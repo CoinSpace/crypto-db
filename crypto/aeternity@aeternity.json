@@ -1,0 +1,15 @@
+{
+  "id": "aeternity@aeternity",
+  "asset": "aeternity",
+  "platform": "aeternity",
+  "type": "coin",
+  "name": "Aeternity",
+  "symbol": "AE",
+  "supported": false,
+  "changelly": {
+    "ticker": "ae"
+  },
+  "coingecko": {
+    "id": "aeternity"
+  }
+}

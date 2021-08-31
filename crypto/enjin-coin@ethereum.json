@@ -1,0 +1,18 @@
+{
+  "id": "enjin-coin@ethereum",
+  "asset": "enjin-coin",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Enjin Coin",
+  "symbol": "ENJ",
+  "address": "0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",
+  "decimals": 18,
+  "coingecko": {
+    "id": "enjincoin",
+    "platform": "ethereum"
+  },
+  "moonpay": {
+    "id": "50155e79-9f8c-4e07-9366-c4ca4628823d",
+    "code": "enj"
+  }
+}

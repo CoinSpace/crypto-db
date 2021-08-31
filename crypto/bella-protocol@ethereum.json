@@ -1,0 +1,14 @@
+{
+  "id": "bella-protocol@ethereum",
+  "asset": "bella-protocol",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Bella Protocol",
+  "symbol": "BEL",
+  "address": "0xa91ac63d040deb1b7a5e4d4134ad23eb0ba07e14",
+  "decimals": 18,
+  "coingecko": {
+    "id": "bella-protocol",
+    "platform": "ethereum"
+  }
+}

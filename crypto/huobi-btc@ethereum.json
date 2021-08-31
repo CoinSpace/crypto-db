@@ -1,0 +1,14 @@
+{
+  "id": "huobi-btc@ethereum",
+  "asset": "huobi-btc",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Huobi BTC",
+  "symbol": "HBTC",
+  "address": "0x0316eb71485b0ab14103307bf65a021042c6d380",
+  "decimals": 18,
+  "coingecko": {
+    "id": "huobi-btc",
+    "platform": "ethereum"
+  }
+}

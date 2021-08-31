@@ -1,0 +1,14 @@
+{
+  "id": "xsushi@ethereum",
+  "asset": "xsushi",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "xSUSHI",
+  "symbol": "XSUSHI",
+  "address": "0x8798249c2e607446efb7ad49ec89dd1865ff4272",
+  "decimals": 18,
+  "coingecko": {
+    "id": "xsushi",
+    "platform": "ethereum"
+  }
+}

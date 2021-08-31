@@ -1,0 +1,15 @@
+{
+  "id": "waves@waves",
+  "asset": "waves",
+  "platform": "waves",
+  "type": "coin",
+  "name": "Waves",
+  "symbol": "WAVES",
+  "supported": false,
+  "changelly": {
+    "ticker": "waves"
+  },
+  "coingecko": {
+    "id": "waves"
+  }
+}

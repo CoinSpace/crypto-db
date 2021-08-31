@@ -1,0 +1,14 @@
+{
+  "id": "kirobo@ethereum",
+  "asset": "kirobo",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Kirobo",
+  "symbol": "KIRO",
+  "address": "0xb1191f691a355b43542bea9b8847bc73e7abb137",
+  "decimals": 18,
+  "coingecko": {
+    "id": "kirobo",
+    "platform": "ethereum"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "btc-standard-hashrate-token@binance-smart-chain",
+  "asset": "btc-standard-hashrate-token",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "BTC Standard Hashrate Token",
+  "symbol": "BTCST",
+  "address": "0x78650b139471520656b9e7aa7a5e9276814a38e9",
+  "decimals": 17,
+  "coingecko": {
+    "id": "btc-standard-hashrate-token",
+    "platform": "binance-smart-chain"
+  }
+}

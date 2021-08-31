@@ -1,0 +1,15 @@
+{
+  "id": "neblio@neblio",
+  "asset": "neblio",
+  "platform": "neblio",
+  "type": "coin",
+  "name": "Neblio",
+  "symbol": "NEBL",
+  "supported": false,
+  "changelly": {
+    "ticker": "nebl"
+  },
+  "coingecko": {
+    "id": "neblio"
+  }
+}

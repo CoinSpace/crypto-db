@@ -1,0 +1,16 @@
+{
+  "id": "ravencoin@ravencoin",
+  "asset": "ravencoin",
+  "platform": "ravencoin",
+  "type": "coin",
+  "name": "Ravencoin",
+  "symbol": "RVN",
+  "supported": false,
+  "coingecko": {
+    "id": "ravencoin"
+  },
+  "moonpay": {
+    "id": "66523c65-91f2-478a-ab69-a6ee692fd690",
+    "code": "rvn"
+  }
+}

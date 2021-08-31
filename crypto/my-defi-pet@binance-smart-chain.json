@@ -1,0 +1,14 @@
+{
+  "id": "my-defi-pet@binance-smart-chain",
+  "asset": "my-defi-pet",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "My DeFi Pet",
+  "symbol": "DPET",
+  "address": "0xfb62ae373aca027177d1c18ee0862817f9080d08",
+  "decimals": 18,
+  "coingecko": {
+    "id": "my-defi-pet",
+    "platform": "binance-smart-chain"
+  }
+}

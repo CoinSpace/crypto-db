@@ -1,0 +1,14 @@
+{
+  "id": "woo-network@ethereum",
+  "asset": "woo-network",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "WOO Network",
+  "symbol": "WOO",
+  "address": "0x4691937a7508860f876c9c0a2a617e7d9e945d4b",
+  "decimals": 18,
+  "coingecko": {
+    "id": "woo-network",
+    "platform": "ethereum"
+  }
+}

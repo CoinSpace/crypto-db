@@ -1,0 +1,14 @@
+{
+  "id": "insure-defi@binance-smart-chain",
+  "asset": "insure-defi",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "inSure DeFi",
+  "symbol": "SURE",
+  "address": "0x9b17baadf0f21f03e35249e0e59723f34994f806",
+  "decimals": 18,
+  "coingecko": {
+    "id": "insure",
+    "platform": "binance-smart-chain"
+  }
+}

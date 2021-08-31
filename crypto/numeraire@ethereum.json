@@ -1,0 +1,17 @@
+{
+  "id": "numeraire@ethereum",
+  "asset": "numeraire",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Numeraire",
+  "symbol": "NMR",
+  "address": "0x1776e1f26f98b1a5df9cd347953a26dd3cb46671",
+  "decimals": 18,
+  "changelly": {
+    "ticker": "nmr"
+  },
+  "coingecko": {
+    "id": "numeraire",
+    "platform": "ethereum"
+  }
+}

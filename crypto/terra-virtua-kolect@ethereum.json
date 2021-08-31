@@ -1,0 +1,14 @@
+{
+  "id": "terra-virtua-kolect@ethereum",
+  "asset": "terra-virtua-kolect",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Terra Virtua Kolect",
+  "symbol": "TVK",
+  "address": "0xd084b83c305dafd76ae3e1b4e1f1fe2ecccb3988",
+  "decimals": 18,
+  "coingecko": {
+    "id": "terra-virtua-kolect",
+    "platform": "ethereum"
+  }
+}

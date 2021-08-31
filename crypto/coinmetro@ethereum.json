@@ -1,0 +1,14 @@
+{
+  "id": "coinmetro@ethereum",
+  "asset": "coinmetro",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "CoinMetro",
+  "symbol": "XCM",
+  "address": "0x36ac219f90f5a6a3c77f2a7b660e3cc701f68e25",
+  "decimals": 18,
+  "coingecko": {
+    "id": "coinmetro",
+    "platform": "ethereum"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "ledgis@ethereum",
+  "asset": "ledgis",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Ledgis",
+  "symbol": "LED",
+  "address": "0x041a36b015486941ce8d5f2c7ff2e88f97390640",
+  "decimals": 4,
+  "coingecko": {
+    "id": "ledgis",
+    "platform": "ethereum"
+  }
+}

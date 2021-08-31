@@ -1,0 +1,14 @@
+{
+  "id": "nxm@ethereum",
+  "asset": "nxm",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Nexus Mutual",
+  "symbol": "NXM",
+  "address": "0xd7c49cee7e9188cca6ad8ff264c1da2e69d4cf3b",
+  "decimals": 18,
+  "coingecko": {
+    "id": "nxm",
+    "platform": "ethereum"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "cardstarter@ethereum",
+  "asset": "cardstarter",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Cardstarter",
+  "symbol": "CARDS",
+  "address": "0x3d6f0dea3ac3c607b3998e6ce14b6350721752d9",
+  "decimals": 18,
+  "coingecko": {
+    "id": "cardstarter",
+    "platform": "ethereum"
+  }
+}

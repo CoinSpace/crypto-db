@@ -1,0 +1,21 @@
+{
+  "id": "usd-coin@ethereum",
+  "asset": "usd-coin",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "USD Coin",
+  "symbol": "USDC",
+  "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+  "decimals": 6,
+  "changelly": {
+    "ticker": "usdc"
+  },
+  "coingecko": {
+    "id": "usd-coin",
+    "platform": "ethereum"
+  },
+  "moonpay": {
+    "id": "aaefa32f-161b-42c8-8115-debcbf3d6a2d",
+    "code": "usdc"
+  }
+}

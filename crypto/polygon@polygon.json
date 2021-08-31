@@ -1,0 +1,16 @@
+{
+  "id": "polygon@polygon",
+  "asset": "polygon",
+  "platform": "polygon",
+  "type": "coin",
+  "name": "Polygon",
+  "symbol": "MATIC",
+  "supported": false,
+  "coingecko": {
+    "id": "matic-network"
+  },
+  "moonpay": {
+    "id": "34c3ed5f-0f60-497d-b31a-04065047aa2c",
+    "code": "matic_polygon"
+  }
+}

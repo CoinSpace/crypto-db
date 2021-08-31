@@ -1,0 +1,14 @@
+{
+  "id": "shyft-network@ethereum",
+  "asset": "shyft-network",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Shyft Network",
+  "symbol": "SHFT",
+  "address": "0xb17c88bda07d28b3838e0c1de6a30eafbcf52d85",
+  "decimals": 18,
+  "coingecko": {
+    "id": "shyft-network-2",
+    "platform": "ethereum"
+  }
+}

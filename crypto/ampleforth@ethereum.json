@@ -1,0 +1,14 @@
+{
+  "id": "ampleforth@ethereum",
+  "asset": "ampleforth",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Ampleforth",
+  "symbol": "AMPL",
+  "address": "0xd46ba6d942050d489dbd938a2c909a5d5039a161",
+  "decimals": 9,
+  "coingecko": {
+    "id": "ampleforth",
+    "platform": "ethereum"
+  }
+}

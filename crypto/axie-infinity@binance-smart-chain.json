@@ -1,0 +1,14 @@
+{
+  "id": "axie-infinity@binance-smart-chain",
+  "asset": "axie-infinity",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Axie Infinity",
+  "symbol": "AXS",
+  "address": "0x715d400f88c167884bbcc41c5fea407ed4d2f8a0",
+  "decimals": 18,
+  "coingecko": {
+    "id": "axie-infinity",
+    "platform": "binance-smart-chain"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "zilliqa@binance-smart-chain",
+  "asset": "zilliqa",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Zilliqa",
+  "symbol": "ZIL",
+  "address": "0xb86abcb37c3a4b64f74f59301aff131a1becc787",
+  "decimals": 12,
+  "coingecko": {
+    "id": "zilliqa",
+    "platform": "binance-smart-chain"
+  }
+}

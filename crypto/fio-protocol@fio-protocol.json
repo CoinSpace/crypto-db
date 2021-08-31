@@ -1,0 +1,12 @@
+{
+  "id": "fio-protocol@fio-protocol",
+  "asset": "fio-protocol",
+  "platform": "fio-protocol",
+  "type": "coin",
+  "name": "FIO Protocol",
+  "symbol": "FIO",
+  "supported": false,
+  "coingecko": {
+    "id": "fio-protocol"
+  }
+}

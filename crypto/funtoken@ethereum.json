@@ -1,0 +1,14 @@
+{
+  "id": "funtoken@ethereum",
+  "asset": "funtoken",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "FUNToken",
+  "symbol": "FUN",
+  "address": "0x419d0d8bdd9af5e606ae2232ed285aff190e711b",
+  "decimals": 8,
+  "coingecko": {
+    "id": "funfair",
+    "platform": "ethereum"
+  }
+}

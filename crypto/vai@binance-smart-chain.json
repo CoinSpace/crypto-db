@@ -1,0 +1,14 @@
+{
+  "id": "vai@binance-smart-chain",
+  "asset": "vai",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Vai",
+  "symbol": "VAI",
+  "address": "0x4bd17003473389a42daf6a0a729f6fdb328bbbd7",
+  "decimals": 18,
+  "coingecko": {
+    "id": "vai",
+    "platform": "binance-smart-chain"
+  }
+}

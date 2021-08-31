@@ -1,0 +1,15 @@
+{
+  "id": "komodo@komodo",
+  "asset": "komodo",
+  "platform": "komodo",
+  "type": "coin",
+  "name": "Komodo",
+  "symbol": "KMD",
+  "supported": false,
+  "changelly": {
+    "ticker": "kmd"
+  },
+  "coingecko": {
+    "id": "komodo"
+  }
+}

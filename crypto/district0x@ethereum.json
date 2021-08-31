@@ -1,0 +1,17 @@
+{
+  "id": "district0x@ethereum",
+  "asset": "district0x",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "district0x",
+  "symbol": "DNT",
+  "address": "0x0abdace70d3790235af448c88547603b945604ea",
+  "decimals": 18,
+  "changelly": {
+    "ticker": "dnt"
+  },
+  "coingecko": {
+    "id": "district0x",
+    "platform": "ethereum"
+  }
+}

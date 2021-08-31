@@ -1,0 +1,14 @@
+{
+  "id": "crypto-com-coin@ethereum",
+  "asset": "crypto-com-coin",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Crypto.com Coin",
+  "symbol": "CRO",
+  "address": "0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",
+  "decimals": 8,
+  "coingecko": {
+    "id": "crypto-com-chain",
+    "platform": "ethereum"
+  }
+}

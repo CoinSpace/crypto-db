@@ -1,0 +1,14 @@
+{
+  "id": "reef-finance@binance-smart-chain",
+  "asset": "reef-finance",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Reef Finance",
+  "symbol": "REEF",
+  "address": "0xf21768ccbc73ea5b6fd3c687208a7c2def2d966e",
+  "decimals": 18,
+  "coingecko": {
+    "id": "reef-finance",
+    "platform": "binance-smart-chain"
+  }
+}

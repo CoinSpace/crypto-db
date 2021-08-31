@@ -1,0 +1,15 @@
+{
+  "id": "aion@aion",
+  "asset": "aion",
+  "platform": "aion",
+  "type": "coin",
+  "name": "Aion",
+  "symbol": "AION",
+  "supported": false,
+  "changelly": {
+    "ticker": "aion"
+  },
+  "coingecko": {
+    "id": "aion"
+  }
+}

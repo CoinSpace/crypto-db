@@ -1,0 +1,14 @@
+{
+  "id": "dao-maker@binance-smart-chain",
+  "asset": "dao-maker",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "DAO Maker",
+  "symbol": "DAO",
+  "address": "0x22f3997a5df5a80e29871fed24fe3e85741f5e82",
+  "decimals": 18,
+  "coingecko": {
+    "id": "dao-maker",
+    "platform": "binance-smart-chain"
+  }
+}

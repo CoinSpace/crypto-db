@@ -1,0 +1,14 @@
+{
+  "id": "bakeryswap@binance-smart-chain",
+  "asset": "bakeryswap",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "BakerySwap",
+  "symbol": "BAKE",
+  "address": "0xe02df9e3e622debdd69fb838bb799e3f168902c5",
+  "decimals": 18,
+  "coingecko": {
+    "id": "bakerytoken",
+    "platform": "binance-smart-chain"
+  }
+}

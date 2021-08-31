@@ -1,0 +1,15 @@
+{
+  "id": "harmony@harmony",
+  "asset": "harmony",
+  "platform": "harmony",
+  "type": "coin",
+  "name": "Harmony",
+  "symbol": "ONE",
+  "supported": false,
+  "changelly": {
+    "ticker": "one"
+  },
+  "coingecko": {
+    "id": "harmony"
+  }
+}

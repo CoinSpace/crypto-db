@@ -1,0 +1,14 @@
+{
+  "id": "wpp-token@ethereum",
+  "asset": "wpp-token",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "WPP Token",
+  "symbol": "WPP",
+  "address": "0x1955d744f9435522be508d1ba60e3c12d0690b6a",
+  "decimals": 18,
+  "coingecko": {
+    "id": "wpp-token",
+    "platform": "ethereum"
+  }
+}
