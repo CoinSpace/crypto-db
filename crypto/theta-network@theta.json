@@ -6,6 +6,9 @@
   "name": "Theta Network",
   "symbol": "THETA",
   "supported": false,
+  "changelly": {
+    "ticker": "theta"
+  },
   "coingecko": {
     "id": "theta-token"
   }

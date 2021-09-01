@@ -11,5 +11,9 @@
   },
   "coingecko": {
     "id": "terra-luna"
+  },
+  "moonpay": {
+    "id": "46a97077-0ef3-4610-b677-2e6e9b8c74d0",
+    "code": "luna"
   }
 }

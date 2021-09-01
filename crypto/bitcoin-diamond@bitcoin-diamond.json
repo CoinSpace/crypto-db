@@ -1,0 +1,15 @@
+{
+  "id": "bitcoin-diamond@bitcoin-diamond",
+  "asset": "bitcoin-diamond",
+  "platform": "bitcoin-diamond",
+  "type": "coin",
+  "name": "Bitcoin Diamond",
+  "symbol": "BCD",
+  "supported": false,
+  "changelly": {
+    "ticker": "bcd"
+  },
+  "coingecko": {
+    "id": "bitcoin-diamond"
+  }
+}

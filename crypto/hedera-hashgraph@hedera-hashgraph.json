@@ -6,6 +6,9 @@
   "name": "Hedera Hashgraph",
   "symbol": "HBAR",
   "supported": false,
+  "changelly": {
+    "ticker": "hbar"
+  },
   "coingecko": {
     "id": "hedera-hashgraph"
   },

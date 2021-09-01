@@ -6,6 +6,9 @@
   "name": "Binance Chain",
   "symbol": "BNB",
   "supported": false,
+  "changelly": {
+    "ticker": "bnb"
+  },
   "coingecko": {
     "id": "binancecoin"
   },

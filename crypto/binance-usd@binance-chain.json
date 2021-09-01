@@ -1,0 +1,16 @@
+{
+  "id": "binance-usd@binance-chain",
+  "asset": "binance-usd",
+  "platform": "binance-chain",
+  "type": "token",
+  "name": "Binance USD",
+  "symbol": "BUSD",
+  "decimals": 18,
+  "coingecko": {
+    "id": "binance-usd"
+  },
+  "moonpay": {
+    "id": "15ac801e-2804-44f0-aea3-fd19dafbba48",
+    "code": "busd"
+  }
+}

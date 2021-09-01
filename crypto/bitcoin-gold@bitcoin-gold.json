@@ -1,0 +1,15 @@
+{
+  "id": "bitcoin-gold@bitcoin-gold",
+  "asset": "bitcoin-gold",
+  "platform": "bitcoin-gold",
+  "type": "coin",
+  "name": "Bitcoin Gold",
+  "symbol": "BTG",
+  "supported": false,
+  "changelly": {
+    "ticker": "btg"
+  },
+  "coingecko": {
+    "id": "bitcoin-gold"
+  }
+}

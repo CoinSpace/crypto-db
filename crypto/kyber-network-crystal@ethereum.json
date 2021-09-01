@@ -7,6 +7,9 @@
   "symbol": "KNC",
   "address": "0xdefa4e8a7bcba345f687a2f1456f5edd9ce97202",
   "decimals": 18,
+  "changelly": {
+    "ticker": "knc"
+  },
   "coingecko": {
     "id": "kyber-network-crystal",
     "platform": "ethereum"

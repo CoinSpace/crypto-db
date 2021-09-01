@@ -7,6 +7,9 @@
   "symbol": "LINK",
   "address": "0x514910771af9ca656af840dff83e8264ecf986ca",
   "decimals": 18,
+  "changelly": {
+    "ticker": "link"
+  },
   "coingecko": {
     "id": "chainlink",
     "platform": "ethereum"

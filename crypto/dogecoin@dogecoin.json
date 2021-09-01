@@ -6,6 +6,9 @@
   "name": "Dogecoin",
   "symbol": "DOGE",
   "decimals": 8,
+  "changelly": {
+    "ticker": "doge"
+  },
   "coingecko": {
     "id": "dogecoin"
   },
