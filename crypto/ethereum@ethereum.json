@@ -6,6 +6,7 @@
   "name": "Ethereum",
   "symbol": "ETH",
   "decimals": 18,
+  "logo": "ethereum.svg",
   "changelly": {
     "ticker": "eth"
   },

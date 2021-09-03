@@ -6,6 +6,7 @@
   "name": "Bitcoin Cash",
   "symbol": "BCH",
   "decimals": 8,
+  "logo": "bitcoin-cash.svg",
   "changelly": {
     "ticker": "bch"
   },

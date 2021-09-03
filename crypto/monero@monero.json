@@ -6,6 +6,7 @@
   "name": "Monero",
   "symbol": "XMR",
   "decimals": 12,
+  "logo": "monero.svg",
   "changelly": {
     "ticker": "xmr"
   },

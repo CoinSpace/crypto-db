@@ -6,6 +6,7 @@
   "name": "Bitcoin SV",
   "symbol": "BSV",
   "decimals": 8,
+  "logo": "bitcoin-sv.svg",
   "changelly": {
     "ticker": "bsv"
   },

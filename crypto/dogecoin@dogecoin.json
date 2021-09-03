@@ -6,6 +6,7 @@
   "name": "Dogecoin",
   "symbol": "DOGE",
   "decimals": 8,
+  "logo": "dogecoin.svg",
   "changelly": {
     "ticker": "doge"
   },

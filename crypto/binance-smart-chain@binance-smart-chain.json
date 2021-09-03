@@ -6,6 +6,7 @@
   "name": "Binance Smart Chain",
   "symbol": "BNB",
   "decimals": 18,
+  "logo": "binance-smart-chain.svg",
   "coingecko": {
     "id": "binancecoin"
   },

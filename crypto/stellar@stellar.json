@@ -6,6 +6,7 @@
   "name": "Stellar",
   "symbol": "XLM",
   "decimals": 7,
+  "logo": "stellar.svg",
   "changelly": {
     "ticker": "xlm"
   },

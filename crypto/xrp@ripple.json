@@ -6,6 +6,7 @@
   "name": "XRP",
   "symbol": "XRP",
   "decimals": 6,
+  "logo": "xrp.svg",
   "changelly": {
     "ticker": "xrp"
   },

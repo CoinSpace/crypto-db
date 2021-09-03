@@ -6,6 +6,7 @@
   "name": "Dash",
   "symbol": "DASH",
   "decimals": 8,
+  "logo": "dash.svg",
   "changelly": {
     "ticker": "dash"
   },

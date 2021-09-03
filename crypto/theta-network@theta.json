@@ -5,6 +5,7 @@
   "type": "coin",
   "name": "Theta Network",
   "symbol": "THETA",
+  "logo": "theta-network.svg",
   "supported": false,
   "changelly": {
     "ticker": "theta"

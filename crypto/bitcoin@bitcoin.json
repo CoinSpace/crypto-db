@@ -6,6 +6,7 @@
   "name": "Bitcoin",
   "symbol": "BTC",
   "decimals": 8,
+  "logo": "bitcoin.svg",
   "changelly": {
     "ticker": "btc"
   },
