@@ -5,6 +5,7 @@
   "type": "coin",
   "name": "Polkadot",
   "symbol": "DOT",
+  "logo": "polkadot.svg",
   "supported": false,
   "changelly": {
     "ticker": "dot"

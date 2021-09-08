@@ -7,6 +7,7 @@
   "symbol": "BUSD",
   "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
   "decimals": 18,
+  "logo": "binance-usd.svg",
   "coingecko": {
     "id": "binance-usd",
     "platform": "binance-smart-chain"

@@ -6,6 +6,7 @@
   "name": "Binance USD",
   "symbol": "BUSD",
   "decimals": 18,
+  "logo": "binance-usd.svg",
   "coingecko": {
     "id": "binance-usd"
   },

@@ -5,6 +5,7 @@
   "type": "coin",
   "name": "Cardano",
   "symbol": "ADA",
+  "logo": "cardano.svg",
   "supported": false,
   "changelly": {
     "ticker": "ada"
