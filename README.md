@@ -13,9 +13,10 @@ npm i @coinspace/crypto-db
 ## Usage
 
 ```js
-// import all crypto
-import cryptoDB from 'crypto-db';
+// import all crypto in NodeJS
+import cryptoDB from '@coinspace/crypto-db';
 
 // import single file in webpack
+// https://webpack.js.org/concepts/module-resolution/#module-paths
 import bitcoin from '@coinspace/crypto-db/crypto/bitcoin@bitcoin.json';
 ```
