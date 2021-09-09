@@ -1,9 +1,9 @@
 {
-  "_id": "thorchain-erc20@ethereum",
-  "asset": "thorchain-erc20",
+  "_id": "thorchain@ethereum",
+  "asset": "thorchain",
   "platform": "ethereum",
   "type": "token",
-  "name": "THORChain (ERC20)",
+  "name": "THORChain",
   "symbol": "RUNE",
   "address": "0x3155ba85d5f96b2d030a4966af206230e46849cb",
   "decimals": 18,
