@@ -5,6 +5,7 @@
   "type": "coin",
   "name": "Ardor",
   "symbol": "ARDR",
+  "logo": "ardor.svg",
   "supported": false,
   "changelly": {
     "ticker": "ardr"

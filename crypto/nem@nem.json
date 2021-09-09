@@ -5,6 +5,7 @@
   "type": "coin",
   "name": "NEM",
   "symbol": "XEM",
+  "logo": "nem.svg",
   "supported": false,
   "changelly": {
     "ticker": "xem"

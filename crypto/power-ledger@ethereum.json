@@ -7,6 +7,7 @@
   "symbol": "POWR",
   "address": "0x595832f8fc6bf59c85c527fec3740a1b7a361269",
   "decimals": 6,
+  "logo": "power-ledger.svg",
   "changelly": {
     "ticker": "powr"
   },

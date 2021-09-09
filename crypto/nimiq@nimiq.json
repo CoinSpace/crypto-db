@@ -5,6 +5,7 @@
   "type": "coin",
   "name": "Nimiq",
   "symbol": "NIM",
+  "logo": "nimiq.svg",
   "supported": false,
   "changelly": {
     "ticker": "nim"

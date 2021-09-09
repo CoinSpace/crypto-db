@@ -6,6 +6,7 @@
   "name": "EOS",
   "symbol": "EOS",
   "decimals": 4,
+  "logo": "eos.svg",
   "changelly": {
     "ticker": "eos"
   },

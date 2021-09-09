@@ -7,6 +7,7 @@
   "symbol": "QNT",
   "address": "0x4a220e6096b25eadb88358cb44068a3248254675",
   "decimals": 18,
+  "logo": "quant.svg",
   "changelly": {
     "ticker": "qnt"
   },

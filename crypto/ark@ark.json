@@ -5,6 +5,7 @@
   "type": "coin",
   "name": "Ark",
   "symbol": "ARK",
+  "logo": "ark.svg",
   "supported": false,
   "changelly": {
     "ticker": "ark"

@@ -5,6 +5,7 @@
   "type": "coin",
   "name": "Aion",
   "symbol": "AION",
+  "logo": "aion.svg",
   "supported": false,
   "changelly": {
     "ticker": "aion"

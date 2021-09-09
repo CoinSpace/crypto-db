@@ -5,6 +5,7 @@
   "type": "coin",
   "name": "Zcash",
   "symbol": "ZEC",
+  "logo": "zcash.svg",
   "supported": false,
   "changelly": {
     "ticker": "zec"

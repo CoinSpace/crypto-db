@@ -7,6 +7,7 @@
   "symbol": "MTL",
   "address": "0xf433089366899d83a9f26a773d59ec7ecf30355e",
   "decimals": 8,
+  "logo": "metal.svg",
   "coingecko": {
     "id": "metal",
     "platform": "ethereum"

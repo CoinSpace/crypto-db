@@ -5,6 +5,7 @@
   "type": "coin",
   "name": "Algorand",
   "symbol": "ALGO",
+  "logo": "algorand.svg",
   "supported": false,
   "changelly": {
     "ticker": "algo"

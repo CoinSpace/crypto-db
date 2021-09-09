@@ -7,6 +7,7 @@
   "symbol": "BTT",
   "address": "0x8595f9da7b868b1822194faed312235e43007b49",
   "decimals": 18,
+  "logo": "bittorrent.svg",
   "coingecko": {
     "id": "bittorrent-2",
     "platform": "binance-smart-chain"

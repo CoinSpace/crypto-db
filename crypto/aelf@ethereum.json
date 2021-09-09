@@ -7,6 +7,7 @@
   "symbol": "ELF",
   "address": "0xbf2179859fc6d5bee9bf9158632dc51678a4100e",
   "decimals": 18,
+  "logo": "aelf.svg",
   "coingecko": {
     "id": "aelf",
     "platform": "ethereum"

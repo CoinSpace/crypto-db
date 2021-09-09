@@ -5,6 +5,7 @@
   "type": "coin",
   "name": "VeChain",
   "symbol": "VET",
+  "logo": "vechain.svg",
   "supported": false,
   "changelly": {
     "ticker": "vet"

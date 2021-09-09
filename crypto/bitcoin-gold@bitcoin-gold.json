@@ -5,6 +5,7 @@
   "type": "coin",
   "name": "Bitcoin Gold",
   "symbol": "BTG",
+  "logo": "bitcoin-gold.svg",
   "supported": false,
   "changelly": {
     "ticker": "btg"

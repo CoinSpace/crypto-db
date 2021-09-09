@@ -5,6 +5,7 @@
   "type": "coin",
   "name": "IoTeX",
   "symbol": "IOTX",
+  "logo": "iotex.svg",
   "supported": false,
   "changelly": {
     "ticker": "iotx"

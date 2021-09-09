@@ -5,6 +5,7 @@
   "type": "coin",
   "name": "Harmony",
   "symbol": "ONE",
+  "logo": "harmony.svg",
   "supported": false,
   "changelly": {
     "ticker": "one"

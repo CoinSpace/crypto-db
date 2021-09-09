@@ -7,6 +7,7 @@
   "symbol": "CVC",
   "address": "0x41e5560054824ea6b0732e656e3ad64e20e94e45",
   "decimals": 8,
+  "logo": "civic.svg",
   "changelly": {
     "ticker": "cvc"
   },

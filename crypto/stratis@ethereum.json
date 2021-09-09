@@ -7,6 +7,7 @@
   "symbol": "STRAX",
   "address": "0xa3c22370de5f9544f0c4de126b1e46ceadf0a51b",
   "decimals": 18,
+  "logo": "stratis.svg",
   "coingecko": {
     "id": "stratis",
     "platform": "ethereum"

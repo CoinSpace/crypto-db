@@ -7,6 +7,7 @@
   "symbol": "SXP",
   "address": "0x47bead2563dcbf3bf2c9407fea4dc236faba485a",
   "decimals": 18,
+  "logo": "swipe.svg",
   "coingecko": {
     "id": "swipe",
     "platform": "binance-smart-chain"

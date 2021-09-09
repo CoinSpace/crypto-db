@@ -5,6 +5,7 @@
   "type": "coin",
   "name": "Filecoin",
   "symbol": "FIL",
+  "logo": "filecoin.svg",
   "supported": false,
   "changelly": {
     "ticker": "fil"

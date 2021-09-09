@@ -5,6 +5,7 @@
   "type": "coin",
   "name": "Peercoin",
   "symbol": "PPC",
+  "logo": "peercoin.svg",
   "supported": false,
   "changelly": {
     "ticker": "ppc"

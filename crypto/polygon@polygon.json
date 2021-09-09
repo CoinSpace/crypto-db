@@ -5,6 +5,7 @@
   "type": "coin",
   "name": "Polygon",
   "symbol": "MATIC",
+  "logo": "polygon.svg",
   "supported": false,
   "coingecko": {
     "id": "matic-network"

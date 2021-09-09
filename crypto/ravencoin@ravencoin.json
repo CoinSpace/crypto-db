@@ -5,6 +5,7 @@
   "type": "coin",
   "name": "Ravencoin",
   "symbol": "RVN",
+  "logo": "ravencoin.svg",
   "supported": false,
   "changelly": {
     "ticker": "rvn"

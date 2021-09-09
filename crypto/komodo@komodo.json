@@ -5,6 +5,7 @@
   "type": "coin",
   "name": "Komodo",
   "symbol": "KMD",
+  "logo": "komodo.svg",
   "supported": false,
   "changelly": {
     "ticker": "kmd"

@@ -6,6 +6,7 @@
   "name": "BitTorrent",
   "symbol": "BTT",
   "address": "1002000",
+  "logo": "bittorrent.svg",
   "supported": false,
   "changelly": {
     "ticker": "btt"

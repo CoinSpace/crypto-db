@@ -5,6 +5,7 @@
   "type": "coin",
   "name": "Qtum",
   "symbol": "QTUM",
+  "logo": "qtum.svg",
   "supported": false,
   "changelly": {
     "ticker": "qtum"

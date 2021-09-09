@@ -5,6 +5,7 @@
   "type": "coin",
   "name": "Zilliqa",
   "symbol": "ZIL",
+  "logo": "zilliqa.svg",
   "supported": false,
   "coingecko": {
     "id": "zilliqa"

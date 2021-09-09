@@ -7,6 +7,7 @@
   "symbol": "TUSD",
   "address": "0x14016e85a25aeb13065688cafb43044c2ef86784",
   "decimals": 18,
+  "logo": "trueusd.svg",
   "coingecko": {
     "id": "true-usd",
     "platform": "binance-smart-chain"

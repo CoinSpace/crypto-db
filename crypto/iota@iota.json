@@ -5,6 +5,7 @@
   "type": "coin",
   "name": "IOTA",
   "symbol": "MIOTA",
+  "logo": "iota.svg",
   "supported": false,
   "coingecko": {
     "id": "iota"

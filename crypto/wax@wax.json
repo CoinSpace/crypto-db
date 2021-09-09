@@ -5,6 +5,7 @@
   "type": "coin",
   "name": "WAX",
   "symbol": "WAXP",
+  "logo": "wax.svg",
   "supported": false,
   "coingecko": {
     "id": "wax"

@@ -7,6 +7,7 @@
   "symbol": "CHSB",
   "address": "0xba9d4199fab4f26efe3551d490e3821486f135ba",
   "decimals": 8,
+  "logo": "swissborg.svg",
   "coingecko": {
     "id": "swissborg",
     "platform": "ethereum"

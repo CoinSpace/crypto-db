@@ -5,6 +5,7 @@
   "type": "coin",
   "name": "Tezos",
   "symbol": "XTZ",
+  "logo": "tezos.svg",
   "supported": false,
   "changelly": {
     "ticker": "xtz"

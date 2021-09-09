@@ -7,6 +7,7 @@
   "symbol": "SNT",
   "address": "0x744d70fdbe2ba4cf95131626614a1763df805b9e",
   "decimals": 18,
+  "logo": "status.svg",
   "coingecko": {
     "id": "status",
     "platform": "ethereum"

@@ -7,6 +7,7 @@
   "symbol": "XAUT",
   "address": "0x4922a015c4407f87432b179bb209e125432e4a2a",
   "decimals": 6,
+  "logo": "tether-gold.svg",
   "coingecko": {
     "id": "tether-gold",
     "platform": "ethereum"
