@@ -1,5 +1,5 @@
 {
-  "id": "ceth@ethereum",
+  "_id": "ceth@ethereum",
   "asset": "ceth",
   "platform": "ethereum",
   "type": "token",

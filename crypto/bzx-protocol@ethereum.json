@@ -1,5 +1,5 @@
 {
-  "id": "bzx-protocol@ethereum",
+  "_id": "bzx-protocol@ethereum",
   "asset": "bzx-protocol",
   "platform": "ethereum",
   "type": "token",

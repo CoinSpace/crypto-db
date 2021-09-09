@@ -1,5 +1,5 @@
 {
-  "id": "voyager-token@ethereum",
+  "_id": "voyager-token@ethereum",
   "asset": "voyager-token",
   "platform": "ethereum",
   "type": "token",

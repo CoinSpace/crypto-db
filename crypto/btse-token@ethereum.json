@@ -1,5 +1,5 @@
 {
-  "id": "btse-token@ethereum",
+  "_id": "btse-token@ethereum",
   "asset": "btse-token",
   "platform": "ethereum",
   "type": "token",

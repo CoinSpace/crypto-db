@@ -1,5 +1,5 @@
 {
-  "id": "zero-collateral-dai@ethereum",
+  "_id": "zero-collateral-dai@ethereum",
   "asset": "zero-collateral-dai",
   "platform": "ethereum",
   "type": "token",

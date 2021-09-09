@@ -1,5 +1,5 @@
 {
-  "id": "linear@ethereum",
+  "_id": "linear@ethereum",
   "asset": "linear",
   "platform": "ethereum",
   "type": "token",

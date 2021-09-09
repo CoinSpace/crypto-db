@@ -1,5 +1,5 @@
 {
-  "id": "slink@ethereum",
+  "_id": "slink@ethereum",
   "asset": "slink",
   "platform": "ethereum",
   "type": "token",

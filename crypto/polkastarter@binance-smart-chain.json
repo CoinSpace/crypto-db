@@ -1,5 +1,5 @@
 {
-  "id": "polkastarter@binance-smart-chain",
+  "_id": "polkastarter@binance-smart-chain",
   "asset": "polkastarter",
   "platform": "binance-smart-chain",
   "type": "token",

@@ -1,5 +1,5 @@
 {
-  "id": "starlink@ethereum",
+  "_id": "starlink@ethereum",
   "asset": "starlink",
   "platform": "ethereum",
   "type": "token",

@@ -1,5 +1,5 @@
 {
-  "id": "mcdex@ethereum",
+  "_id": "mcdex@ethereum",
   "asset": "mcdex",
   "platform": "ethereum",
   "type": "token",

@@ -1,5 +1,5 @@
 {
-  "id": "hifi-finance@ethereum",
+  "_id": "hifi-finance@ethereum",
   "asset": "hifi-finance",
   "platform": "ethereum",
   "type": "token",

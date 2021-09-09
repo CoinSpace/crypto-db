@@ -1,5 +1,5 @@
 {
-  "id": "orbs@ethereum",
+  "_id": "orbs@ethereum",
   "asset": "orbs",
   "platform": "ethereum",
   "type": "token",

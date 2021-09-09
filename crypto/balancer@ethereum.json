@@ -1,5 +1,5 @@
 {
-  "id": "balancer@ethereum",
+  "_id": "balancer@ethereum",
   "asset": "balancer",
   "platform": "ethereum",
   "type": "token",

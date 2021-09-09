@@ -1,5 +1,5 @@
 {
-  "id": "chromia@binance-smart-chain",
+  "_id": "chromia@binance-smart-chain",
   "asset": "chromia",
   "platform": "binance-smart-chain",
   "type": "token",

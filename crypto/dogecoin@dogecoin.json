@@ -1,5 +1,5 @@
 {
-  "id": "dogecoin@dogecoin",
+  "_id": "dogecoin@dogecoin",
   "asset": "dogecoin",
   "platform": "dogecoin",
   "type": "coin",

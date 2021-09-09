@@ -1,5 +1,5 @@
 {
-  "id": "liquity-usd@ethereum",
+  "_id": "liquity-usd@ethereum",
   "asset": "liquity-usd",
   "platform": "ethereum",
   "type": "token",

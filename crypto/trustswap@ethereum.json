@@ -1,5 +1,5 @@
 {
-  "id": "trustswap@ethereum",
+  "_id": "trustswap@ethereum",
   "asset": "trustswap",
   "platform": "ethereum",
   "type": "token",

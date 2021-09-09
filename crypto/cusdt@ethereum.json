@@ -1,5 +1,5 @@
 {
-  "id": "cusdt@ethereum",
+  "_id": "cusdt@ethereum",
   "asset": "cusdt",
   "platform": "ethereum",
   "type": "token",

@@ -1,5 +1,5 @@
 {
-  "id": "power-ledger@ethereum",
+  "_id": "power-ledger@ethereum",
   "asset": "power-ledger",
   "platform": "ethereum",
   "type": "token",

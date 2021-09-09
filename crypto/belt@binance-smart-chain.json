@@ -1,5 +1,5 @@
 {
-  "id": "belt@binance-smart-chain",
+  "_id": "belt@binance-smart-chain",
   "asset": "belt",
   "platform": "binance-smart-chain",
   "type": "token",

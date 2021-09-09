@@ -1,5 +1,5 @@
 {
-  "id": "rari-governance-token@ethereum",
+  "_id": "rari-governance-token@ethereum",
   "asset": "rari-governance-token",
   "platform": "ethereum",
   "type": "token",

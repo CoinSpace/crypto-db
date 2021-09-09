@@ -1,5 +1,5 @@
 {
-  "id": "gerowallet@ethereum",
+  "_id": "gerowallet@ethereum",
   "asset": "gerowallet",
   "platform": "ethereum",
   "type": "token",

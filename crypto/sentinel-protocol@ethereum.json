@@ -1,5 +1,5 @@
 {
-  "id": "sentinel-protocol@ethereum",
+  "_id": "sentinel-protocol@ethereum",
   "asset": "sentinel-protocol",
   "platform": "ethereum",
   "type": "token",

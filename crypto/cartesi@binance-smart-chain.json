@@ -1,5 +1,5 @@
 {
-  "id": "cartesi@binance-smart-chain",
+  "_id": "cartesi@binance-smart-chain",
   "asset": "cartesi",
   "platform": "binance-smart-chain",
   "type": "token",

@@ -1,5 +1,5 @@
 {
-  "id": "utrust@ethereum",
+  "_id": "utrust@ethereum",
   "asset": "utrust",
   "platform": "ethereum",
   "type": "token",

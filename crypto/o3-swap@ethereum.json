@@ -1,5 +1,5 @@
 {
-  "id": "o3-swap@ethereum",
+  "_id": "o3-swap@ethereum",
   "asset": "o3-swap",
   "platform": "ethereum",
   "type": "token",

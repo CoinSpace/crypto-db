@@ -1,5 +1,5 @@
 {
-  "id": "wrapped-centrifuge@ethereum",
+  "_id": "wrapped-centrifuge@ethereum",
   "asset": "wrapped-centrifuge",
   "platform": "ethereum",
   "type": "token",

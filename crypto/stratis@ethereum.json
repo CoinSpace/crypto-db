@@ -1,5 +1,5 @@
 {
-  "id": "stratis@ethereum",
+  "_id": "stratis@ethereum",
   "asset": "stratis",
   "platform": "ethereum",
   "type": "token",

@@ -1,5 +1,5 @@
 {
-  "id": "nerve-finance@binance-smart-chain",
+  "_id": "nerve-finance@binance-smart-chain",
   "asset": "nerve-finance",
   "platform": "binance-smart-chain",
   "type": "token",

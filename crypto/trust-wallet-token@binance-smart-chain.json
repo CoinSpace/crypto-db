@@ -1,5 +1,5 @@
 {
-  "id": "trust-wallet-token@binance-smart-chain",
+  "_id": "trust-wallet-token@binance-smart-chain",
   "asset": "trust-wallet-token",
   "platform": "binance-smart-chain",
   "type": "token",

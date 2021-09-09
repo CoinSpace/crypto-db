@@ -1,5 +1,5 @@
 {
-  "id": "marlin@ethereum",
+  "_id": "marlin@ethereum",
   "asset": "marlin",
   "platform": "ethereum",
   "type": "token",

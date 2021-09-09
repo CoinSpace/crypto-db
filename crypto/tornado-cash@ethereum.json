@@ -1,5 +1,5 @@
 {
-  "id": "tornado-cash@ethereum",
+  "_id": "tornado-cash@ethereum",
   "asset": "tornado-cash",
   "platform": "ethereum",
   "type": "token",

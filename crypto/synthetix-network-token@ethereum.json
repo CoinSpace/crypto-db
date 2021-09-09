@@ -1,5 +1,5 @@
 {
-  "id": "synthetix-network-token@ethereum",
+  "_id": "synthetix-network-token@ethereum",
   "asset": "synthetix-network-token",
   "platform": "ethereum",
   "type": "token",

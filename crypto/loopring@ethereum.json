@@ -1,5 +1,5 @@
 {
-  "id": "loopring@ethereum",
+  "_id": "loopring@ethereum",
   "asset": "loopring",
   "platform": "ethereum",
   "type": "token",

@@ -1,5 +1,5 @@
 {
-  "id": "titanswap@ethereum",
+  "_id": "titanswap@ethereum",
   "asset": "titanswap",
   "platform": "ethereum",
   "type": "token",

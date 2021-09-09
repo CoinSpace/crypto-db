@@ -1,5 +1,5 @@
 {
-  "id": "mobox@binance-smart-chain",
+  "_id": "mobox@binance-smart-chain",
   "asset": "mobox",
   "platform": "binance-smart-chain",
   "type": "token",

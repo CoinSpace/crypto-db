@@ -1,5 +1,5 @@
 {
-  "id": "cdai@ethereum",
+  "_id": "cdai@ethereum",
   "asset": "cdai",
   "platform": "ethereum",
   "type": "token",

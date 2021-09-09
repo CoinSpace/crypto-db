@@ -1,5 +1,5 @@
 {
-  "id": "gala@ethereum",
+  "_id": "gala@ethereum",
   "asset": "gala",
   "platform": "ethereum",
   "type": "token",

@@ -1,5 +1,5 @@
 {
-  "id": "cosmos@binance-smart-chain",
+  "_id": "cosmos@binance-smart-chain",
   "asset": "cosmos",
   "platform": "binance-smart-chain",
   "type": "token",

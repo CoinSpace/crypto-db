@@ -1,5 +1,5 @@
 {
-  "id": "lido-staked-ether@ethereum",
+  "_id": "lido-staked-ether@ethereum",
   "asset": "lido-staked-ether",
   "platform": "ethereum",
   "type": "token",

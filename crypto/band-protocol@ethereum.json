@@ -1,5 +1,5 @@
 {
-  "id": "band-protocol@ethereum",
+  "_id": "band-protocol@ethereum",
   "asset": "band-protocol",
   "platform": "ethereum",
   "type": "token",

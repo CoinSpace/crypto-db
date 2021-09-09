@@ -1,5 +1,5 @@
 {
-  "id": "basic-attention-token@ethereum",
+  "_id": "basic-attention-token@ethereum",
   "asset": "basic-attention-token",
   "platform": "ethereum",
   "type": "token",

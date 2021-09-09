@@ -1,5 +1,5 @@
 {
-  "id": "btc-standard-hashrate-token@binance-smart-chain",
+  "_id": "btc-standard-hashrate-token@binance-smart-chain",
   "asset": "btc-standard-hashrate-token",
   "platform": "binance-smart-chain",
   "type": "token",

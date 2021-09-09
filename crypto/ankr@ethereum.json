@@ -1,5 +1,5 @@
 {
-  "id": "ankr@ethereum",
+  "_id": "ankr@ethereum",
   "asset": "ankr",
   "platform": "ethereum",
   "type": "token",

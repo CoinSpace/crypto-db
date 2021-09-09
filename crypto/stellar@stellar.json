@@ -1,5 +1,5 @@
 {
-  "id": "stellar@stellar",
+  "_id": "stellar@stellar",
   "asset": "stellar",
   "platform": "stellar",
   "type": "coin",

@@ -1,5 +1,5 @@
 {
-  "id": "stasis-euro@ethereum",
+  "_id": "stasis-euro@ethereum",
   "asset": "stasis-euro",
   "platform": "ethereum",
   "type": "token",

@@ -1,5 +1,5 @@
 {
-  "id": "arpa-chain@ethereum",
+  "_id": "arpa-chain@ethereum",
   "asset": "arpa-chain",
   "platform": "ethereum",
   "type": "token",

@@ -1,5 +1,5 @@
 {
-  "id": "omg-network@ethereum",
+  "_id": "omg-network@ethereum",
   "asset": "omg-network",
   "platform": "ethereum",
   "type": "token",

@@ -1,5 +1,5 @@
 {
-  "id": "shyft-network@ethereum",
+  "_id": "shyft-network@ethereum",
   "asset": "shyft-network",
   "platform": "ethereum",
   "type": "token",

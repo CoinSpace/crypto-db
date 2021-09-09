@@ -1,5 +1,5 @@
 {
-  "id": "token-pocket@binance-smart-chain",
+  "_id": "token-pocket@binance-smart-chain",
   "asset": "token-pocket",
   "platform": "binance-smart-chain",
   "type": "token",

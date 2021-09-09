@@ -1,5 +1,5 @@
 {
-  "id": "funtoken@ethereum",
+  "_id": "funtoken@ethereum",
   "asset": "funtoken",
   "platform": "ethereum",
   "type": "token",

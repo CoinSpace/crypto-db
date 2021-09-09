@@ -1,5 +1,5 @@
 {
-  "id": "beefy-finance@binance-smart-chain",
+  "_id": "beefy-finance@binance-smart-chain",
   "asset": "beefy-finance",
   "platform": "binance-smart-chain",
   "type": "token",

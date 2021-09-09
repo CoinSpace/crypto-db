@@ -1,5 +1,5 @@
 {
-  "id": "pundi-x@ethereum",
+  "_id": "pundi-x@ethereum",
   "asset": "pundi-x",
   "platform": "ethereum",
   "type": "token",

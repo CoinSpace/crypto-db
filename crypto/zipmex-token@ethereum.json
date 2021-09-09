@@ -1,5 +1,5 @@
 {
-  "id": "zipmex-token@ethereum",
+  "_id": "zipmex-token@ethereum",
   "asset": "zipmex-token",
   "platform": "ethereum",
   "type": "token",

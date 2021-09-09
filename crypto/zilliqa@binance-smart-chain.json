@@ -1,5 +1,5 @@
 {
-  "id": "zilliqa@binance-smart-chain",
+  "_id": "zilliqa@binance-smart-chain",
   "asset": "zilliqa",
   "platform": "binance-smart-chain",
   "type": "token",

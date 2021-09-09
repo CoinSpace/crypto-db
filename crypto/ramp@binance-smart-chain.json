@@ -1,5 +1,5 @@
 {
-  "id": "ramp@binance-smart-chain",
+  "_id": "ramp@binance-smart-chain",
   "asset": "ramp",
   "platform": "binance-smart-chain",
   "type": "token",

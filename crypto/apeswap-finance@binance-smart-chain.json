@@ -1,5 +1,5 @@
 {
-  "id": "apeswap-finance@binance-smart-chain",
+  "_id": "apeswap-finance@binance-smart-chain",
   "asset": "apeswap-finance",
   "platform": "binance-smart-chain",
   "type": "token",

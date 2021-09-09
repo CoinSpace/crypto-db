@@ -1,5 +1,5 @@
 {
-  "id": "tether@binance-smart-chain",
+  "_id": "tether@binance-smart-chain",
   "asset": "tether",
   "platform": "binance-smart-chain",
   "type": "token",

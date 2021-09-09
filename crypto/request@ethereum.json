@@ -1,5 +1,5 @@
 {
-  "id": "request@ethereum",
+  "_id": "request@ethereum",
   "asset": "request",
   "platform": "ethereum",
   "type": "token",

@@ -1,5 +1,5 @@
 {
-  "id": "stp-network@ethereum",
+  "_id": "stp-network@ethereum",
   "asset": "stp-network",
   "platform": "ethereum",
   "type": "token",

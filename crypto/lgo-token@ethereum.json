@@ -1,5 +1,5 @@
 {
-  "id": "lgo-token@ethereum",
+  "_id": "lgo-token@ethereum",
   "asset": "lgo-token",
   "platform": "ethereum",
   "type": "token",

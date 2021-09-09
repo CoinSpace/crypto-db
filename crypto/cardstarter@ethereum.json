@@ -1,5 +1,5 @@
 {
-  "id": "cardstarter@ethereum",
+  "_id": "cardstarter@ethereum",
   "asset": "cardstarter",
   "platform": "ethereum",
   "type": "token",

@@ -1,5 +1,5 @@
 {
-  "id": "paid-network@ethereum",
+  "_id": "paid-network@ethereum",
   "asset": "paid-network",
   "platform": "ethereum",
   "type": "token",

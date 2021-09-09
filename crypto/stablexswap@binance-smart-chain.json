@@ -1,5 +1,5 @@
 {
-  "id": "stablexswap@binance-smart-chain",
+  "_id": "stablexswap@binance-smart-chain",
   "asset": "stablexswap",
   "platform": "binance-smart-chain",
   "type": "token",

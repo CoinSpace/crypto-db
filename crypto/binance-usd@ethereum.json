@@ -1,5 +1,5 @@
 {
-  "id": "binance-usd@ethereum",
+  "_id": "binance-usd@ethereum",
   "asset": "binance-usd",
   "platform": "ethereum",
   "type": "token",

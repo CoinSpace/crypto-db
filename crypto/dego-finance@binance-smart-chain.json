@@ -1,5 +1,5 @@
 {
-  "id": "dego-finance@binance-smart-chain",
+  "_id": "dego-finance@binance-smart-chain",
   "asset": "dego-finance",
   "platform": "binance-smart-chain",
   "type": "token",

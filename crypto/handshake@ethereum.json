@@ -1,5 +1,5 @@
 {
-  "id": "handshake@ethereum",
+  "_id": "handshake@ethereum",
   "asset": "handshake",
   "platform": "ethereum",
   "type": "token",

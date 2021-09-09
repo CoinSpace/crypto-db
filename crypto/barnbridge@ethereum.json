@@ -1,5 +1,5 @@
 {
-  "id": "barnbridge@ethereum",
+  "_id": "barnbridge@ethereum",
   "asset": "barnbridge",
   "platform": "ethereum",
   "type": "token",

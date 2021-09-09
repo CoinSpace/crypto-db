@@ -1,5 +1,5 @@
 {
-  "id": "monero@monero",
+  "_id": "monero@monero",
   "asset": "monero",
   "platform": "monero",
   "type": "coin",

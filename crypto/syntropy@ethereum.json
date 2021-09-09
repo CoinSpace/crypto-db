@@ -1,5 +1,5 @@
 {
-  "id": "syntropy@ethereum",
+  "_id": "syntropy@ethereum",
   "asset": "syntropy",
   "platform": "ethereum",
   "type": "token",

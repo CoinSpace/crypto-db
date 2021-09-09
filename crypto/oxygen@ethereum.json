@@ -1,5 +1,5 @@
 {
-  "id": "oxygen@ethereum",
+  "_id": "oxygen@ethereum",
   "asset": "oxygen",
   "platform": "ethereum",
   "type": "token",

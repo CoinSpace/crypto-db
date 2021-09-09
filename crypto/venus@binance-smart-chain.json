@@ -1,5 +1,5 @@
 {
-  "id": "venus@binance-smart-chain",
+  "_id": "venus@binance-smart-chain",
   "asset": "venus",
   "platform": "binance-smart-chain",
   "type": "token",

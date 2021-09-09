@@ -1,5 +1,5 @@
 {
-  "id": "gala@binance-smart-chain",
+  "_id": "gala@binance-smart-chain",
   "asset": "gala",
   "platform": "binance-smart-chain",
   "type": "token",

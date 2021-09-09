@@ -1,5 +1,5 @@
 {
-  "id": "my-defi-pet@binance-smart-chain",
+  "_id": "my-defi-pet@binance-smart-chain",
   "asset": "my-defi-pet",
   "platform": "binance-smart-chain",
   "type": "token",

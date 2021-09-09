@@ -1,5 +1,5 @@
 {
-  "id": "dogecoin@binance-smart-chain",
+  "_id": "dogecoin@binance-smart-chain",
   "asset": "dogecoin",
   "platform": "binance-smart-chain",
   "type": "token",

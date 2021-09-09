@@ -1,5 +1,5 @@
 {
-  "id": "storj@ethereum",
+  "_id": "storj@ethereum",
   "asset": "storj",
   "platform": "ethereum",
   "type": "token",

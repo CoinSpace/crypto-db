@@ -1,5 +1,5 @@
 {
-  "id": "bifrost@ethereum",
+  "_id": "bifrost@ethereum",
   "asset": "bifrost",
   "platform": "ethereum",
   "type": "token",

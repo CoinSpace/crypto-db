@@ -1,5 +1,5 @@
 {
-  "id": "mantra-dao@binance-smart-chain",
+  "_id": "mantra-dao@binance-smart-chain",
   "asset": "mantra-dao",
   "platform": "binance-smart-chain",
   "type": "token",

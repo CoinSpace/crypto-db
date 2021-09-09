@@ -1,5 +1,5 @@
 {
-  "id": "dextools@ethereum",
+  "_id": "dextools@ethereum",
   "asset": "dextools",
   "platform": "ethereum",
   "type": "token",

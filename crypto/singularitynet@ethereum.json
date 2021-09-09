@@ -1,5 +1,5 @@
 {
-  "id": "singularitynet@ethereum",
+  "_id": "singularitynet@ethereum",
   "asset": "singularitynet",
   "platform": "ethereum",
   "type": "token",

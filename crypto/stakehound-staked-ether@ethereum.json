@@ -1,5 +1,5 @@
 {
-  "id": "stakehound-staked-ether@ethereum",
+  "_id": "stakehound-staked-ether@ethereum",
   "asset": "stakehound-staked-ether",
   "platform": "ethereum",
   "type": "token",

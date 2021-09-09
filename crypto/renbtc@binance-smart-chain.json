@@ -1,5 +1,5 @@
 {
-  "id": "renbtc@binance-smart-chain",
+  "_id": "renbtc@binance-smart-chain",
   "asset": "renbtc",
   "platform": "binance-smart-chain",
   "type": "token",

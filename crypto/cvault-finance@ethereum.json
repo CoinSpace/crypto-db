@@ -1,5 +1,5 @@
 {
-  "id": "cvault-finance@ethereum",
+  "_id": "cvault-finance@ethereum",
   "asset": "cvault-finance",
   "platform": "ethereum",
   "type": "token",

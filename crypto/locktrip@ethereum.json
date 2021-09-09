@@ -1,5 +1,5 @@
 {
-  "id": "locktrip@ethereum",
+  "_id": "locktrip@ethereum",
   "asset": "locktrip",
   "platform": "ethereum",
   "type": "token",

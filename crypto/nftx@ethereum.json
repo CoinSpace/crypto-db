@@ -1,5 +1,5 @@
 {
-  "id": "nftx@ethereum",
+  "_id": "nftx@ethereum",
   "asset": "nftx",
   "platform": "ethereum",
   "type": "token",

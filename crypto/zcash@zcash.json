@@ -1,5 +1,5 @@
 {
-  "id": "zcash@zcash",
+  "_id": "zcash@zcash",
   "asset": "zcash",
   "platform": "zcash",
   "type": "coin",

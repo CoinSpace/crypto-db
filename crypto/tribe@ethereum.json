@@ -1,5 +1,5 @@
 {
-  "id": "tribe@ethereum",
+  "_id": "tribe@ethereum",
   "asset": "tribe",
   "platform": "ethereum",
   "type": "token",

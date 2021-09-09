@@ -1,5 +1,5 @@
 {
-  "id": "eden@ethereum",
+  "_id": "eden@ethereum",
   "asset": "eden",
   "platform": "ethereum",
   "type": "token",

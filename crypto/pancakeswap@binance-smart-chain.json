@@ -1,5 +1,5 @@
 {
-  "id": "pancakeswap@binance-smart-chain",
+  "_id": "pancakeswap@binance-smart-chain",
   "asset": "pancakeswap",
   "platform": "binance-smart-chain",
   "type": "token",

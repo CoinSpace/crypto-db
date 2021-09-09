@@ -1,5 +1,5 @@
 {
-  "id": "frax-share@binance-smart-chain",
+  "_id": "frax-share@binance-smart-chain",
   "asset": "frax-share",
   "platform": "binance-smart-chain",
   "type": "token",

@@ -1,5 +1,5 @@
 {
-  "id": "audius@ethereum",
+  "_id": "audius@ethereum",
   "asset": "audius",
   "platform": "ethereum",
   "type": "token",

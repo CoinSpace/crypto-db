@@ -1,5 +1,5 @@
 {
-  "id": "carry@ethereum",
+  "_id": "carry@ethereum",
   "asset": "carry",
   "platform": "ethereum",
   "type": "token",

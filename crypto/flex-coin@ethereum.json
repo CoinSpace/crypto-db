@@ -1,5 +1,5 @@
 {
-  "id": "flex-coin@ethereum",
+  "_id": "flex-coin@ethereum",
   "asset": "flex-coin",
   "platform": "ethereum",
   "type": "token",

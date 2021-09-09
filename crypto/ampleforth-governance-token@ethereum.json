@@ -1,5 +1,5 @@
 {
-  "id": "ampleforth-governance-token@ethereum",
+  "_id": "ampleforth-governance-token@ethereum",
   "asset": "ampleforth-governance-token",
   "platform": "ethereum",
   "type": "token",

@@ -1,5 +1,5 @@
 {
-  "id": "binance-usd@binance-smart-chain",
+  "_id": "binance-usd@binance-smart-chain",
   "asset": "binance-usd",
   "platform": "binance-smart-chain",
   "type": "token",

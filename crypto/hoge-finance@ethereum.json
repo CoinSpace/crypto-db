@@ -1,5 +1,5 @@
 {
-  "id": "hoge-finance@ethereum",
+  "_id": "hoge-finance@ethereum",
   "asset": "hoge-finance",
   "platform": "ethereum",
   "type": "token",

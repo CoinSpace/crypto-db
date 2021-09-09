@@ -1,5 +1,5 @@
 {
-  "id": "adex@binance-smart-chain",
+  "_id": "adex@binance-smart-chain",
   "asset": "adex",
   "platform": "binance-smart-chain",
   "type": "token",

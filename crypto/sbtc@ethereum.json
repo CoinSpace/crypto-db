@@ -1,5 +1,5 @@
 {
-  "id": "sbtc@ethereum",
+  "_id": "sbtc@ethereum",
   "asset": "sbtc",
   "platform": "ethereum",
   "type": "token",

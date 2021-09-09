@@ -1,5 +1,5 @@
 {
-  "id": "crypto-com-coin@ethereum",
+  "_id": "crypto-com-coin@ethereum",
   "asset": "crypto-com-coin",
   "platform": "ethereum",
   "type": "token",

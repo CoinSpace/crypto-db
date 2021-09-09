@@ -1,5 +1,5 @@
 {
-  "id": "kucoin-token@ethereum",
+  "_id": "kucoin-token@ethereum",
   "asset": "kucoin-token",
   "platform": "ethereum",
   "type": "token",

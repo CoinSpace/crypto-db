@@ -1,5 +1,5 @@
 {
-  "id": "dia@ethereum",
+  "_id": "dia@ethereum",
   "asset": "dia",
   "platform": "ethereum",
   "type": "token",

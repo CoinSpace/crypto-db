@@ -1,5 +1,5 @@
 {
-  "id": "bittorrent@tron",
+  "_id": "bittorrent@tron",
   "asset": "bittorrent",
   "platform": "tron",
   "type": "token",

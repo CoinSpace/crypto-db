@@ -1,5 +1,5 @@
 {
-  "id": "superfarm@binance-smart-chain",
+  "_id": "superfarm@binance-smart-chain",
   "asset": "superfarm",
   "platform": "binance-smart-chain",
   "type": "token",

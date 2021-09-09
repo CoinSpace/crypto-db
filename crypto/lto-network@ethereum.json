@@ -1,5 +1,5 @@
 {
-  "id": "lto-network@ethereum",
+  "_id": "lto-network@ethereum",
   "asset": "lto-network",
   "platform": "ethereum",
   "type": "token",

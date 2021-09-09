@@ -1,5 +1,5 @@
 {
-  "id": "waves@ethereum",
+  "_id": "waves@ethereum",
   "asset": "waves",
   "platform": "ethereum",
   "type": "token",

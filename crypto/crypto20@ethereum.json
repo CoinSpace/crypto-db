@@ -1,5 +1,5 @@
 {
-  "id": "crypto20@ethereum",
+  "_id": "crypto20@ethereum",
   "asset": "crypto20",
   "platform": "ethereum",
   "type": "token",

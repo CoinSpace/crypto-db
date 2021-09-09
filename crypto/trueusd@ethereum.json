@@ -1,5 +1,5 @@
 {
-  "id": "trueusd@ethereum",
+  "_id": "trueusd@ethereum",
   "asset": "trueusd",
   "platform": "ethereum",
   "type": "token",

@@ -1,5 +1,5 @@
 {
-  "id": "civic@ethereum",
+  "_id": "civic@ethereum",
   "asset": "civic",
   "platform": "ethereum",
   "type": "token",

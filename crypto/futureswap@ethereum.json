@@ -1,5 +1,5 @@
 {
-  "id": "futureswap@ethereum",
+  "_id": "futureswap@ethereum",
   "asset": "futureswap",
   "platform": "ethereum",
   "type": "token",

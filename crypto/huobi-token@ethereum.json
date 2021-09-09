@@ -1,5 +1,5 @@
 {
-  "id": "huobi-token@ethereum",
+  "_id": "huobi-token@ethereum",
   "asset": "huobi-token",
   "platform": "ethereum",
   "type": "token",

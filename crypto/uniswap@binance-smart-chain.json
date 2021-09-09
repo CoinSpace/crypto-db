@@ -1,5 +1,5 @@
 {
-  "id": "uniswap@binance-smart-chain",
+  "_id": "uniswap@binance-smart-chain",
   "asset": "uniswap",
   "platform": "binance-smart-chain",
   "type": "token",

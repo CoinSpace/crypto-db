@@ -1,5 +1,5 @@
 {
-  "id": "dego-finance@ethereum",
+  "_id": "dego-finance@ethereum",
   "asset": "dego-finance",
   "platform": "ethereum",
   "type": "token",

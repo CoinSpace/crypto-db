@@ -1,5 +1,5 @@
 {
-  "id": "my-neighbor-alice@ethereum",
+  "_id": "my-neighbor-alice@ethereum",
   "asset": "my-neighbor-alice",
   "platform": "ethereum",
   "type": "token",

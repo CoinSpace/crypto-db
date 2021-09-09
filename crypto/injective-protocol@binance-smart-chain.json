@@ -1,5 +1,5 @@
 {
-  "id": "injective-protocol@binance-smart-chain",
+  "_id": "injective-protocol@binance-smart-chain",
   "asset": "injective-protocol",
   "platform": "binance-smart-chain",
   "type": "token",

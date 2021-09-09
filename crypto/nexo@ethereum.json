@@ -1,5 +1,5 @@
 {
-  "id": "nexo@ethereum",
+  "_id": "nexo@ethereum",
   "asset": "nexo",
   "platform": "ethereum",
   "type": "token",

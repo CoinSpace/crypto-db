@@ -1,5 +1,5 @@
 {
-  "id": "maker@ethereum",
+  "_id": "maker@ethereum",
   "asset": "maker",
   "platform": "ethereum",
   "type": "token",

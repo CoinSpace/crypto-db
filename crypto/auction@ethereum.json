@@ -1,5 +1,5 @@
 {
-  "id": "auction@ethereum",
+  "_id": "auction@ethereum",
   "asset": "auction",
   "platform": "ethereum",
   "type": "token",

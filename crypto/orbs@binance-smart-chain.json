@@ -1,5 +1,5 @@
 {
-  "id": "orbs@binance-smart-chain",
+  "_id": "orbs@binance-smart-chain",
   "asset": "orbs",
   "platform": "binance-smart-chain",
   "type": "token",

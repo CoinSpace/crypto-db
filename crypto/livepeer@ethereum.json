@@ -1,5 +1,5 @@
 {
-  "id": "livepeer@ethereum",
+  "_id": "livepeer@ethereum",
   "asset": "livepeer",
   "platform": "ethereum",
   "type": "token",

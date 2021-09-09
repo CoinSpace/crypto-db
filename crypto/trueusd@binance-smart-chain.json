@@ -1,5 +1,5 @@
 {
-  "id": "trueusd@binance-smart-chain",
+  "_id": "trueusd@binance-smart-chain",
   "asset": "trueusd",
   "platform": "binance-smart-chain",
   "type": "token",

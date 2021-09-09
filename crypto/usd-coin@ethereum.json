@@ -1,5 +1,5 @@
 {
-  "id": "usd-coin@ethereum",
+  "_id": "usd-coin@ethereum",
   "asset": "usd-coin",
   "platform": "ethereum",
   "type": "token",

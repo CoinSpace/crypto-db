@@ -1,5 +1,5 @@
 {
-  "id": "rally@ethereum",
+  "_id": "rally@ethereum",
   "asset": "rally",
   "platform": "ethereum",
   "type": "token",

@@ -1,5 +1,5 @@
 {
-  "id": "videocoin@ethereum",
+  "_id": "videocoin@ethereum",
   "asset": "videocoin",
   "platform": "ethereum",
   "type": "token",

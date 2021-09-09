@@ -1,5 +1,5 @@
 {
-  "id": "paid-network@binance-smart-chain",
+  "_id": "paid-network@binance-smart-chain",
   "asset": "paid-network",
   "platform": "binance-smart-chain",
   "type": "token",

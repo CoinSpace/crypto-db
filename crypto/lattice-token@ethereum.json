@@ -1,5 +1,5 @@
 {
-  "id": "lattice-token@ethereum",
+  "_id": "lattice-token@ethereum",
   "asset": "lattice-token",
   "platform": "ethereum",
   "type": "token",

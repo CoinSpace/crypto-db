@@ -1,5 +1,5 @@
 {
-  "id": "wrapped-nxm@ethereum",
+  "_id": "wrapped-nxm@ethereum",
   "asset": "wrapped-nxm",
   "platform": "ethereum",
   "type": "token",

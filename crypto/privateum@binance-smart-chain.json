@@ -1,5 +1,5 @@
 {
-  "id": "privateum@binance-smart-chain",
+  "_id": "privateum@binance-smart-chain",
   "asset": "privateum",
   "platform": "binance-smart-chain",
   "type": "token",

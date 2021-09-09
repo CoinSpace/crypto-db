@@ -1,5 +1,5 @@
 {
-  "id": "tenset@binance-smart-chain",
+  "_id": "tenset@binance-smart-chain",
   "asset": "tenset",
   "platform": "binance-smart-chain",
   "type": "token",

@@ -1,5 +1,5 @@
 {
-  "id": "tether-gold@ethereum",
+  "_id": "tether-gold@ethereum",
   "asset": "tether-gold",
   "platform": "ethereum",
   "type": "token",

@@ -1,5 +1,5 @@
 {
-  "id": "woo-network@ethereum",
+  "_id": "woo-network@ethereum",
   "asset": "woo-network",
   "platform": "ethereum",
   "type": "token",

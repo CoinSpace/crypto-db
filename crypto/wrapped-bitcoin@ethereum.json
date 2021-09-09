@@ -1,5 +1,5 @@
 {
-  "id": "wrapped-bitcoin@ethereum",
+  "_id": "wrapped-bitcoin@ethereum",
   "asset": "wrapped-bitcoin",
   "platform": "ethereum",
   "type": "token",

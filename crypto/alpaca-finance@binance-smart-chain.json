@@ -1,5 +1,5 @@
 {
-  "id": "alpaca-finance@binance-smart-chain",
+  "_id": "alpaca-finance@binance-smart-chain",
   "asset": "alpaca-finance",
   "platform": "binance-smart-chain",
   "type": "token",

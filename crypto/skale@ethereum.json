@@ -1,5 +1,5 @@
 {
-  "id": "skale@ethereum",
+  "_id": "skale@ethereum",
   "asset": "skale",
   "platform": "ethereum",
   "type": "token",

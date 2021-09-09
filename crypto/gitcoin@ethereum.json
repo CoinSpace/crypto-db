@@ -1,5 +1,5 @@
 {
-  "id": "gitcoin@ethereum",
+  "_id": "gitcoin@ethereum",
   "asset": "gitcoin",
   "platform": "ethereum",
   "type": "token",

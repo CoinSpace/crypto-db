@@ -1,5 +1,5 @@
 {
-  "id": "gnosis@ethereum",
+  "_id": "gnosis@ethereum",
   "asset": "gnosis",
   "platform": "ethereum",
   "type": "token",

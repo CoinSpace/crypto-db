@@ -1,5 +1,5 @@
 {
-  "id": "harvest-finance@binance-smart-chain",
+  "_id": "harvest-finance@binance-smart-chain",
   "asset": "harvest-finance",
   "platform": "binance-smart-chain",
   "type": "token",

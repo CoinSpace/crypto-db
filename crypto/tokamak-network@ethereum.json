@@ -1,5 +1,5 @@
 {
-  "id": "tokamak-network@ethereum",
+  "_id": "tokamak-network@ethereum",
   "asset": "tokamak-network",
   "platform": "ethereum",
   "type": "token",

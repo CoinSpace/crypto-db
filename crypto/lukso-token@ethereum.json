@@ -1,5 +1,5 @@
 {
-  "id": "lukso-token@ethereum",
+  "_id": "lukso-token@ethereum",
   "asset": "lukso-token",
   "platform": "ethereum",
   "type": "token",

@@ -1,5 +1,5 @@
 {
-  "id": "metahero@binance-smart-chain",
+  "_id": "metahero@binance-smart-chain",
   "asset": "metahero",
   "platform": "binance-smart-chain",
   "type": "token",

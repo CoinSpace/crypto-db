@@ -1,5 +1,5 @@
 {
-  "id": "quant@ethereum",
+  "_id": "quant@ethereum",
   "asset": "quant",
   "platform": "ethereum",
   "type": "token",

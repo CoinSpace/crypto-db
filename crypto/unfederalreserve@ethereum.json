@@ -1,5 +1,5 @@
 {
-  "id": "unfederalreserve@ethereum",
+  "_id": "unfederalreserve@ethereum",
   "asset": "unfederalreserve",
   "platform": "ethereum",
   "type": "token",

@@ -1,5 +1,5 @@
 {
-  "id": "compound@ethereum",
+  "_id": "compound@ethereum",
   "asset": "compound",
   "platform": "ethereum",
   "type": "token",

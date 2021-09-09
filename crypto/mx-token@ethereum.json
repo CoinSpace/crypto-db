@@ -1,5 +1,5 @@
 {
-  "id": "mx-token@ethereum",
+  "_id": "mx-token@ethereum",
   "asset": "mx-token",
   "platform": "ethereum",
   "type": "token",

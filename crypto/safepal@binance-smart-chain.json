@@ -1,5 +1,5 @@
 {
-  "id": "safepal@binance-smart-chain",
+  "_id": "safepal@binance-smart-chain",
   "asset": "safepal",
   "platform": "binance-smart-chain",
   "type": "token",

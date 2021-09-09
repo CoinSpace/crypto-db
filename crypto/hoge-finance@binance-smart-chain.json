@@ -1,5 +1,5 @@
 {
-  "id": "hoge-finance@binance-smart-chain",
+  "_id": "hoge-finance@binance-smart-chain",
   "asset": "hoge-finance",
   "platform": "binance-smart-chain",
   "type": "token",

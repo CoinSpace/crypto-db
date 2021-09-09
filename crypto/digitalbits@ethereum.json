@@ -1,5 +1,5 @@
 {
-  "id": "digitalbits@ethereum",
+  "_id": "digitalbits@ethereum",
   "asset": "digitalbits",
   "platform": "ethereum",
   "type": "token",

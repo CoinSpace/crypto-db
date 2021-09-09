@@ -1,5 +1,5 @@
 {
-  "id": "sushi@binance-smart-chain",
+  "_id": "sushi@binance-smart-chain",
   "asset": "sushi",
   "platform": "binance-smart-chain",
   "type": "token",

@@ -1,5 +1,5 @@
 {
-  "id": "boringdao-btc@ethereum",
+  "_id": "boringdao-btc@ethereum",
   "asset": "boringdao-btc",
   "platform": "ethereum",
   "type": "token",

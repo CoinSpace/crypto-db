@@ -1,5 +1,5 @@
 {
-  "id": "bancor-network-token@ethereum",
+  "_id": "bancor-network-token@ethereum",
   "asset": "bancor-network-token",
   "platform": "ethereum",
   "type": "token",

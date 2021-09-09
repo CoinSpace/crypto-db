@@ -1,5 +1,5 @@
 {
-  "id": "augur@ethereum",
+  "_id": "augur@ethereum",
   "asset": "augur",
   "platform": "ethereum",
   "type": "token",

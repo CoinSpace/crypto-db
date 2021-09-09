@@ -1,5 +1,5 @@
 {
-  "id": "bitcoin@bitcoin",
+  "_id": "bitcoin@bitcoin",
   "asset": "bitcoin",
   "platform": "bitcoin",
   "type": "coin",

@@ -1,5 +1,5 @@
 {
-  "id": "ankr@binance-smart-chain",
+  "_id": "ankr@binance-smart-chain",
   "asset": "ankr",
   "platform": "binance-smart-chain",
   "type": "token",

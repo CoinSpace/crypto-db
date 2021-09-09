@@ -1,5 +1,5 @@
 {
-  "id": "chainlink@binance-smart-chain",
+  "_id": "chainlink@binance-smart-chain",
   "asset": "chainlink",
   "platform": "binance-smart-chain",
   "type": "token",

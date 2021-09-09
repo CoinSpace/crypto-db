@@ -1,5 +1,5 @@
 {
-  "id": "math@ethereum",
+  "_id": "math@ethereum",
   "asset": "math",
   "platform": "ethereum",
   "type": "token",

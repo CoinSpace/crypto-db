@@ -1,5 +1,5 @@
 {
-  "id": "sushi@ethereum",
+  "_id": "sushi@ethereum",
   "asset": "sushi",
   "platform": "ethereum",
   "type": "token",

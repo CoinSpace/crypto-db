@@ -1,5 +1,5 @@
 {
-  "id": "neutrino-usd@ethereum",
+  "_id": "neutrino-usd@ethereum",
   "asset": "neutrino-usd",
   "platform": "ethereum",
   "type": "token",

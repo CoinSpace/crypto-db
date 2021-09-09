@@ -1,5 +1,5 @@
 {
-  "id": "celsius-network@ethereum",
+  "_id": "celsius-network@ethereum",
   "asset": "celsius-network",
   "platform": "ethereum",
   "type": "token",

@@ -1,5 +1,5 @@
 {
-  "id": "polygon@ethereum",
+  "_id": "polygon@ethereum",
   "asset": "polygon",
   "platform": "ethereum",
   "type": "token",

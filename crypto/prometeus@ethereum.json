@@ -1,5 +1,5 @@
 {
-  "id": "prometeus@ethereum",
+  "_id": "prometeus@ethereum",
   "asset": "prometeus",
   "platform": "ethereum",
   "type": "token",

@@ -1,5 +1,5 @@
 {
-  "id": "alchemix-usd@ethereum",
+  "_id": "alchemix-usd@ethereum",
   "asset": "alchemix-usd",
   "platform": "ethereum",
   "type": "token",

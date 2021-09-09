@@ -1,5 +1,5 @@
 {
-  "id": "insure-defi@binance-smart-chain",
+  "_id": "insure-defi@binance-smart-chain",
   "asset": "insure-defi",
   "platform": "binance-smart-chain",
   "type": "token",

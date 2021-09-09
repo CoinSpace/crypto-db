@@ -1,5 +1,5 @@
 {
-  "id": "chain-games@binance-smart-chain",
+  "_id": "chain-games@binance-smart-chain",
   "asset": "chain-games",
   "platform": "binance-smart-chain",
   "type": "token",

@@ -1,5 +1,5 @@
 {
-  "id": "pha@ethereum",
+  "_id": "pha@ethereum",
   "asset": "pha",
   "platform": "ethereum",
   "type": "token",

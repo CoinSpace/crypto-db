@@ -1,5 +1,5 @@
 {
-  "id": "badger-dao@ethereum",
+  "_id": "badger-dao@ethereum",
   "asset": "badger-dao",
   "platform": "ethereum",
   "type": "token",

@@ -1,5 +1,5 @@
 {
-  "id": "reserve-rights-token@ethereum",
+  "_id": "reserve-rights-token@ethereum",
   "asset": "reserve-rights-token",
   "platform": "ethereum",
   "type": "token",

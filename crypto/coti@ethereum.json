@@ -1,5 +1,5 @@
 {
-  "id": "coti@ethereum",
+  "_id": "coti@ethereum",
   "asset": "coti",
   "platform": "ethereum",
   "type": "token",

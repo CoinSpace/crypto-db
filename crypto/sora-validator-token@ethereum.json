@@ -1,5 +1,5 @@
 {
-  "id": "sora-validator-token@ethereum",
+  "_id": "sora-validator-token@ethereum",
   "asset": "sora-validator-token",
   "platform": "ethereum",
   "type": "token",

@@ -1,5 +1,5 @@
 {
-  "id": "gemini-dollar@ethereum",
+  "_id": "gemini-dollar@ethereum",
   "asset": "gemini-dollar",
   "platform": "ethereum",
   "type": "token",

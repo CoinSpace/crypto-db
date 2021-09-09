@@ -1,5 +1,5 @@
 {
-  "id": "ethernity-chain@ethereum",
+  "_id": "ethernity-chain@ethereum",
   "asset": "ethernity-chain",
   "platform": "ethereum",
   "type": "token",

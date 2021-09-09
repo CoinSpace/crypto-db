@@ -1,5 +1,5 @@
 {
-  "id": "covalent@ethereum",
+  "_id": "covalent@ethereum",
   "asset": "covalent",
   "platform": "ethereum",
   "type": "token",

@@ -1,5 +1,5 @@
 {
-  "id": "keep-network@ethereum",
+  "_id": "keep-network@ethereum",
   "asset": "keep-network",
   "platform": "ethereum",
   "type": "token",

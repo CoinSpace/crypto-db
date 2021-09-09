@@ -1,5 +1,5 @@
 {
-  "id": "frax-share@ethereum",
+  "_id": "frax-share@ethereum",
   "asset": "frax-share",
   "platform": "ethereum",
   "type": "token",

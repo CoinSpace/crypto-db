@@ -1,5 +1,5 @@
 {
-  "id": "aragon@ethereum",
+  "_id": "aragon@ethereum",
   "asset": "aragon",
   "platform": "ethereum",
   "type": "token",

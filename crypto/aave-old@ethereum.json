@@ -1,5 +1,5 @@
 {
-  "id": "aave-old@ethereum",
+  "_id": "aave-old@ethereum",
   "asset": "aave-old",
   "platform": "ethereum",
   "type": "token",

@@ -1,5 +1,5 @@
 {
-  "id": "feg-token@ethereum",
+  "_id": "feg-token@ethereum",
   "asset": "feg-token",
   "platform": "ethereum",
   "type": "token",

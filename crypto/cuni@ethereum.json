@@ -1,5 +1,5 @@
 {
-  "id": "cuni@ethereum",
+  "_id": "cuni@ethereum",
   "asset": "cuni",
   "platform": "ethereum",
   "type": "token",

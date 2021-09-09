@@ -1,5 +1,5 @@
 {
-  "id": "convex-crv@ethereum",
+  "_id": "convex-crv@ethereum",
   "asset": "convex-crv",
   "platform": "ethereum",
   "type": "token",

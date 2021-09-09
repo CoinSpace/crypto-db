@@ -1,5 +1,5 @@
 {
-  "id": "bepro-network@ethereum",
+  "_id": "bepro-network@ethereum",
   "asset": "bepro-network",
   "platform": "ethereum",
   "type": "token",

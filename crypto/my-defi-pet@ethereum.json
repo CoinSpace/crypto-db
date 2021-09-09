@@ -1,5 +1,5 @@
 {
-  "id": "my-defi-pet@ethereum",
+  "_id": "my-defi-pet@ethereum",
   "asset": "my-defi-pet",
   "platform": "ethereum",
   "type": "token",

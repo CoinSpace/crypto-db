@@ -1,5 +1,5 @@
 {
-  "id": "renbtc@ethereum",
+  "_id": "renbtc@ethereum",
   "asset": "renbtc",
   "platform": "ethereum",
   "type": "token",

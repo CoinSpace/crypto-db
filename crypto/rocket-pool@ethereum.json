@@ -1,5 +1,5 @@
 {
-  "id": "rocket-pool@ethereum",
+  "_id": "rocket-pool@ethereum",
   "asset": "rocket-pool",
   "platform": "ethereum",
   "type": "token",

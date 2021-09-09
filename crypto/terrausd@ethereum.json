@@ -1,5 +1,5 @@
 {
-  "id": "terrausd@ethereum",
+  "_id": "terrausd@ethereum",
   "asset": "terrausd",
   "platform": "ethereum",
   "type": "token",

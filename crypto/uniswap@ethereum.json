@@ -1,5 +1,5 @@
 {
-  "id": "uniswap@ethereum",
+  "_id": "uniswap@ethereum",
   "asset": "uniswap",
   "platform": "ethereum",
   "type": "token",

@@ -1,5 +1,5 @@
 {
-  "id": "serum@ethereum",
+  "_id": "serum@ethereum",
   "asset": "serum",
   "platform": "ethereum",
   "type": "token",

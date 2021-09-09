@@ -1,5 +1,5 @@
 {
-  "id": "quarkchain@ethereum",
+  "_id": "quarkchain@ethereum",
   "asset": "quarkchain",
   "platform": "ethereum",
   "type": "token",

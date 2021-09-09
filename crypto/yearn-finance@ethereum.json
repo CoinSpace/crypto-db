@@ -1,5 +1,5 @@
 {
-  "id": "yearn-finance@ethereum",
+  "_id": "yearn-finance@ethereum",
   "asset": "yearn-finance",
   "platform": "ethereum",
   "type": "token",

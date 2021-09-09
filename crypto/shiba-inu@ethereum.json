@@ -1,5 +1,5 @@
 {
-  "id": "shiba-inu@ethereum",
+  "_id": "shiba-inu@ethereum",
   "asset": "shiba-inu",
   "platform": "ethereum",
   "type": "token",

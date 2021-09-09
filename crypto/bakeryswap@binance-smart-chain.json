@@ -1,5 +1,5 @@
 {
-  "id": "bakeryswap@binance-smart-chain",
+  "_id": "bakeryswap@binance-smart-chain",
   "asset": "bakeryswap",
   "platform": "binance-smart-chain",
   "type": "token",

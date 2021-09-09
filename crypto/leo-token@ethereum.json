@@ -1,5 +1,5 @@
 {
-  "id": "leo-token@ethereum",
+  "_id": "leo-token@ethereum",
   "asset": "leo-token",
   "platform": "ethereum",
   "type": "token",

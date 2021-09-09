@@ -1,5 +1,5 @@
 {
-  "id": "dai@ethereum",
+  "_id": "dai@ethereum",
   "asset": "dai",
   "platform": "ethereum",
   "type": "token",

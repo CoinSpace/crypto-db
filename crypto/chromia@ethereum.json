@@ -1,5 +1,5 @@
 {
-  "id": "chromia@ethereum",
+  "_id": "chromia@ethereum",
   "asset": "chromia",
   "platform": "ethereum",
   "type": "token",

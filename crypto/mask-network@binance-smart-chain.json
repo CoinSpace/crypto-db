@@ -1,5 +1,5 @@
 {
-  "id": "mask-network@binance-smart-chain",
+  "_id": "mask-network@binance-smart-chain",
   "asset": "mask-network",
   "platform": "binance-smart-chain",
   "type": "token",

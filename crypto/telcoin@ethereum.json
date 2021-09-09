@@ -1,5 +1,5 @@
 {
-  "id": "telcoin@ethereum",
+  "_id": "telcoin@ethereum",
   "asset": "telcoin",
   "platform": "ethereum",
   "type": "token",

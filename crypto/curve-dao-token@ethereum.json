@@ -1,5 +1,5 @@
 {
-  "id": "curve-dao-token@ethereum",
+  "_id": "curve-dao-token@ethereum",
   "asset": "curve-dao-token",
   "platform": "ethereum",
   "type": "token",

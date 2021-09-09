@@ -1,5 +1,5 @@
 {
-  "id": "rarible@ethereum",
+  "_id": "rarible@ethereum",
   "asset": "rarible",
   "platform": "ethereum",
   "type": "token",

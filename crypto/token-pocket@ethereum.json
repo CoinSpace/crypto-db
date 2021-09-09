@@ -1,5 +1,5 @@
 {
-  "id": "token-pocket@ethereum",
+  "_id": "token-pocket@ethereum",
   "asset": "token-pocket",
   "platform": "ethereum",
   "type": "token",

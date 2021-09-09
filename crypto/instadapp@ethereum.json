@@ -1,5 +1,5 @@
 {
-  "id": "instadapp@ethereum",
+  "_id": "instadapp@ethereum",
   "asset": "instadapp",
   "platform": "ethereum",
   "type": "token",

@@ -1,5 +1,5 @@
 {
-  "id": "coinmetro@ethereum",
+  "_id": "coinmetro@ethereum",
   "asset": "coinmetro",
   "platform": "ethereum",
   "type": "token",

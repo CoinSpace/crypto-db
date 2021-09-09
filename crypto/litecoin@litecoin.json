@@ -1,5 +1,5 @@
 {
-  "id": "litecoin@litecoin",
+  "_id": "litecoin@litecoin",
   "asset": "litecoin",
   "platform": "litecoin",
   "type": "coin",

@@ -1,5 +1,5 @@
 {
-  "id": "vai@binance-smart-chain",
+  "_id": "vai@binance-smart-chain",
   "asset": "vai",
   "platform": "binance-smart-chain",
   "type": "token",

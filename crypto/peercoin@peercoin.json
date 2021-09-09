@@ -1,5 +1,5 @@
 {
-  "id": "peercoin@peercoin",
+  "_id": "peercoin@peercoin",
   "asset": "peercoin",
   "platform": "peercoin",
   "type": "coin",

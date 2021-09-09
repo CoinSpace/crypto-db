@@ -1,5 +1,5 @@
 {
-  "id": "pax-gold@ethereum",
+  "_id": "pax-gold@ethereum",
   "asset": "pax-gold",
   "platform": "ethereum",
   "type": "token",

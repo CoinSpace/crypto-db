@@ -1,5 +1,5 @@
 {
-  "id": "nominex@binance-smart-chain",
+  "_id": "nominex@binance-smart-chain",
   "asset": "nominex",
   "platform": "binance-smart-chain",
   "type": "token",

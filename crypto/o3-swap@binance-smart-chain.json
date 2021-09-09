@@ -1,5 +1,5 @@
 {
-  "id": "o3-swap@binance-smart-chain",
+  "_id": "o3-swap@binance-smart-chain",
   "asset": "o3-swap",
   "platform": "binance-smart-chain",
   "type": "token",

@@ -1,5 +1,5 @@
 {
-  "id": "dao-maker@binance-smart-chain",
+  "_id": "dao-maker@binance-smart-chain",
   "asset": "dao-maker",
   "platform": "binance-smart-chain",
   "type": "token",

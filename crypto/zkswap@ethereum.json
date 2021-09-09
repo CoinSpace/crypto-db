@@ -1,5 +1,5 @@
 {
-  "id": "zkswap@ethereum",
+  "_id": "zkswap@ethereum",
   "asset": "zkswap",
   "platform": "ethereum",
   "type": "token",

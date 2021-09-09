@@ -1,5 +1,5 @@
 {
-  "id": "math@binance-smart-chain",
+  "_id": "math@binance-smart-chain",
   "asset": "math",
   "platform": "binance-smart-chain",
   "type": "token",

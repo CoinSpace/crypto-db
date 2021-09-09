@@ -1,5 +1,5 @@
 {
-  "id": "decentraland@ethereum",
+  "_id": "decentraland@ethereum",
   "asset": "decentraland",
   "platform": "ethereum",
   "type": "token",

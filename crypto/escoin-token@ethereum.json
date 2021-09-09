@@ -1,5 +1,5 @@
 {
-  "id": "escoin-token@ethereum",
+  "_id": "escoin-token@ethereum",
   "asset": "escoin-token",
   "platform": "ethereum",
   "type": "token",

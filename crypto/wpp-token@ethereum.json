@@ -1,5 +1,5 @@
 {
-  "id": "wpp-token@ethereum",
+  "_id": "wpp-token@ethereum",
   "asset": "wpp-token",
   "platform": "ethereum",
   "type": "token",

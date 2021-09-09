@@ -1,5 +1,5 @@
 {
-  "id": "convex-finance@ethereum",
+  "_id": "convex-finance@ethereum",
   "asset": "convex-finance",
   "platform": "ethereum",
   "type": "token",

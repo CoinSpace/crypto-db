@@ -1,5 +1,5 @@
 {
-  "id": "sharetoken@ethereum",
+  "_id": "sharetoken@ethereum",
   "asset": "sharetoken",
   "platform": "ethereum",
   "type": "token",

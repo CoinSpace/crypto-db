@@ -1,5 +1,5 @@
 {
-  "id": "enjin-coin@ethereum",
+  "_id": "enjin-coin@ethereum",
   "asset": "enjin-coin",
   "platform": "ethereum",
   "type": "token",

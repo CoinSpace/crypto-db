@@ -1,5 +1,5 @@
 {
-  "id": "alpha-finance@binance-smart-chain",
+  "_id": "alpha-finance@binance-smart-chain",
   "asset": "alpha-finance",
   "platform": "binance-smart-chain",
   "type": "token",

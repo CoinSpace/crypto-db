@@ -1,5 +1,5 @@
 {
-  "id": "usd-coin@polygon",
+  "_id": "usd-coin@polygon",
   "asset": "usd-coin",
   "platform": "polygon",
   "type": "token",

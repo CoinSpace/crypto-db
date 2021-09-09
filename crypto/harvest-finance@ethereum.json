@@ -1,5 +1,5 @@
 {
-  "id": "harvest-finance@ethereum",
+  "_id": "harvest-finance@ethereum",
   "asset": "harvest-finance",
   "platform": "ethereum",
   "type": "token",

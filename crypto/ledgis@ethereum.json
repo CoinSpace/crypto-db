@@ -1,5 +1,5 @@
 {
-  "id": "ledgis@ethereum",
+  "_id": "ledgis@ethereum",
   "asset": "ledgis",
   "platform": "ethereum",
   "type": "token",

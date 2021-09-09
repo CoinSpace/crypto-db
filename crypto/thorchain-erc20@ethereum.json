@@ -1,5 +1,5 @@
 {
-  "id": "thorchain-erc20@ethereum",
+  "_id": "thorchain-erc20@ethereum",
   "asset": "thorchain-erc20",
   "platform": "ethereum",
   "type": "token",

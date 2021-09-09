@@ -1,5 +1,5 @@
 {
-  "id": "swipe@ethereum",
+  "_id": "swipe@ethereum",
   "asset": "swipe",
   "platform": "ethereum",
   "type": "token",

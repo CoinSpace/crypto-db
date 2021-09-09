@@ -1,5 +1,5 @@
 {
-  "id": "parsiq@binance-smart-chain",
+  "_id": "parsiq@binance-smart-chain",
   "asset": "parsiq",
   "platform": "binance-smart-chain",
   "type": "token",

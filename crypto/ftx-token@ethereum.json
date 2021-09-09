@@ -1,5 +1,5 @@
 {
-  "id": "ftx-token@ethereum",
+  "_id": "ftx-token@ethereum",
   "asset": "ftx-token",
   "platform": "ethereum",
   "type": "token",

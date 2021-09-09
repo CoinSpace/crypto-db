@@ -1,5 +1,5 @@
 {
-  "id": "gatetoken@ethereum",
+  "_id": "gatetoken@ethereum",
   "asset": "gatetoken",
   "platform": "ethereum",
   "type": "token",

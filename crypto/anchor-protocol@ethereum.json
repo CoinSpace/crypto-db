@@ -1,5 +1,5 @@
 {
-  "id": "anchor-protocol@ethereum",
+  "_id": "anchor-protocol@ethereum",
   "asset": "anchor-protocol",
   "platform": "ethereum",
   "type": "token",

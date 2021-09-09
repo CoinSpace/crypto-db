@@ -1,5 +1,5 @@
 {
-  "id": "cbat@ethereum",
+  "_id": "cbat@ethereum",
   "asset": "cbat",
   "platform": "ethereum",
   "type": "token",

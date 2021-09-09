@@ -1,5 +1,5 @@
 {
-  "id": "clover-finance@binance-smart-chain",
+  "_id": "clover-finance@binance-smart-chain",
   "asset": "clover-finance",
   "platform": "binance-smart-chain",
   "type": "token",

@@ -1,5 +1,5 @@
 {
-  "id": "crust-network@ethereum",
+  "_id": "crust-network@ethereum",
   "asset": "crust-network",
   "platform": "ethereum",
   "type": "token",

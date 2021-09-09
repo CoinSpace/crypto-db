@@ -1,5 +1,5 @@
 {
-  "id": "mdex@binance-smart-chain",
+  "_id": "mdex@binance-smart-chain",
   "asset": "mdex",
   "platform": "binance-smart-chain",
   "type": "token",

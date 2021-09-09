@@ -1,5 +1,5 @@
 {
-  "id": "usdp@ethereum",
+  "_id": "usdp@ethereum",
   "asset": "usdp",
   "platform": "ethereum",
   "type": "token",

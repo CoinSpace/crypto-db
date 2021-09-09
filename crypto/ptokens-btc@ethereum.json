@@ -1,5 +1,5 @@
 {
-  "id": "ptokens-btc@ethereum",
+  "_id": "ptokens-btc@ethereum",
   "asset": "ptokens-btc",
   "platform": "ethereum",
   "type": "token",

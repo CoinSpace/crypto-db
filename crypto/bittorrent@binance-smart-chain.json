@@ -1,5 +1,5 @@
 {
-  "id": "bittorrent@binance-smart-chain",
+  "_id": "bittorrent@binance-smart-chain",
   "asset": "bittorrent",
   "platform": "binance-smart-chain",
   "type": "token",

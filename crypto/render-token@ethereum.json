@@ -1,5 +1,5 @@
 {
-  "id": "render-token@ethereum",
+  "_id": "render-token@ethereum",
   "asset": "render-token",
   "platform": "ethereum",
   "type": "token",

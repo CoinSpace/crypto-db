@@ -1,5 +1,5 @@
 {
-  "id": "polkadex@ethereum",
+  "_id": "polkadex@ethereum",
   "asset": "polkadex",
   "platform": "ethereum",
   "type": "token",

@@ -1,5 +1,5 @@
 {
-  "id": "my-neighbor-alice@binance-smart-chain",
+  "_id": "my-neighbor-alice@binance-smart-chain",
   "asset": "my-neighbor-alice",
   "platform": "binance-smart-chain",
   "type": "token",

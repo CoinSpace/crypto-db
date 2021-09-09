@@ -1,5 +1,5 @@
 {
-  "id": "sora@ethereum",
+  "_id": "sora@ethereum",
   "asset": "sora",
   "platform": "ethereum",
   "type": "token",

@@ -1,5 +1,5 @@
 {
-  "id": "susd@ethereum",
+  "_id": "susd@ethereum",
   "asset": "susd",
   "platform": "ethereum",
   "type": "token",

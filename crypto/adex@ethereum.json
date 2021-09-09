@@ -1,5 +1,5 @@
 {
-  "id": "adex@ethereum",
+  "_id": "adex@ethereum",
   "asset": "adex",
   "platform": "ethereum",
   "type": "token",

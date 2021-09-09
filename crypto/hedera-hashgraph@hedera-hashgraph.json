@@ -1,5 +1,5 @@
 {
-  "id": "hedera-hashgraph@hedera-hashgraph",
+  "_id": "hedera-hashgraph@hedera-hashgraph",
   "asset": "hedera-hashgraph",
   "platform": "hedera-hashgraph",
   "type": "coin",

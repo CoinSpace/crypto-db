@@ -1,5 +1,5 @@
 {
-  "id": "ellipsis@binance-smart-chain",
+  "_id": "ellipsis@binance-smart-chain",
   "asset": "ellipsis",
   "platform": "binance-smart-chain",
   "type": "token",

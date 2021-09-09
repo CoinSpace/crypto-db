@@ -1,5 +1,5 @@
 {
-  "id": "metadium@ethereum",
+  "_id": "metadium@ethereum",
   "asset": "metadium",
   "platform": "ethereum",
   "type": "token",

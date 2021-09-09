@@ -1,5 +1,5 @@
 {
-  "id": "celer-network@ethereum",
+  "_id": "celer-network@ethereum",
   "asset": "celer-network",
   "platform": "ethereum",
   "type": "token",

@@ -1,5 +1,5 @@
 {
-  "id": "reef-finance@binance-smart-chain",
+  "_id": "reef-finance@binance-smart-chain",
   "asset": "reef-finance",
   "platform": "binance-smart-chain",
   "type": "token",

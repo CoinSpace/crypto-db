@@ -1,5 +1,5 @@
 {
-  "id": "olympus@ethereum",
+  "_id": "olympus@ethereum",
   "asset": "olympus",
   "platform": "ethereum",
   "type": "token",

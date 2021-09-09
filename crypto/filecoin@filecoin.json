@@ -1,5 +1,5 @@
 {
-  "id": "filecoin@filecoin",
+  "_id": "filecoin@filecoin",
   "asset": "filecoin",
   "platform": "filecoin",
   "type": "coin",

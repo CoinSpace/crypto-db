@@ -1,5 +1,5 @@
 {
-  "id": "holo@ethereum",
+  "_id": "holo@ethereum",
   "asset": "holo",
   "platform": "ethereum",
   "type": "token",

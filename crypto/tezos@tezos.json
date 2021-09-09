@@ -1,5 +1,5 @@
 {
-  "id": "tezos@tezos",
+  "_id": "tezos@tezos",
   "asset": "tezos",
   "platform": "tezos",
   "type": "coin",

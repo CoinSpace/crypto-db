@@ -1,5 +1,5 @@
 {
-  "id": "perpetual-protocol@ethereum",
+  "_id": "perpetual-protocol@ethereum",
   "asset": "perpetual-protocol",
   "platform": "ethereum",
   "type": "token",

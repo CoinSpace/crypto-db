@@ -1,5 +1,5 @@
 {
-  "id": "alchemy-pay@ethereum",
+  "_id": "alchemy-pay@ethereum",
   "asset": "alchemy-pay",
   "platform": "ethereum",
   "type": "token",

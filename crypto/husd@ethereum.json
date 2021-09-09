@@ -1,5 +1,5 @@
 {
-  "id": "husd@ethereum",
+  "_id": "husd@ethereum",
   "asset": "husd",
   "platform": "ethereum",
   "type": "token",

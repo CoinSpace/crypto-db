@@ -1,5 +1,5 @@
 {
-  "id": "fei-protocol@ethereum",
+  "_id": "fei-protocol@ethereum",
   "asset": "fei-protocol",
   "platform": "ethereum",
   "type": "token",

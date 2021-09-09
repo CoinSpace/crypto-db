@@ -1,5 +1,5 @@
 {
-  "id": "quick@ethereum",
+  "_id": "quick@ethereum",
   "asset": "quick",
   "platform": "ethereum",
   "type": "token",

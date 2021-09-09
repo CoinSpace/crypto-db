@@ -1,5 +1,5 @@
 {
-  "id": "ramp@ethereum",
+  "_id": "ramp@ethereum",
   "asset": "ramp",
   "platform": "ethereum",
   "type": "token",

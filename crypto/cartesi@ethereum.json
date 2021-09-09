@@ -1,5 +1,5 @@
 {
-  "id": "cartesi@ethereum",
+  "_id": "cartesi@ethereum",
   "asset": "cartesi",
   "platform": "ethereum",
   "type": "token",

@@ -1,5 +1,5 @@
 {
-  "id": "dfi-money@ethereum",
+  "_id": "dfi-money@ethereum",
   "asset": "dfi-money",
   "platform": "ethereum",
   "type": "token",

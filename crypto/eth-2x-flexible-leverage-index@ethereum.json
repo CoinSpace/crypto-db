@@ -1,5 +1,5 @@
 {
-  "id": "eth-2x-flexible-leverage-index@ethereum",
+  "_id": "eth-2x-flexible-leverage-index@ethereum",
   "asset": "eth-2x-flexible-leverage-index",
   "platform": "ethereum",
   "type": "token",

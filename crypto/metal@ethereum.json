@@ -1,5 +1,5 @@
 {
-  "id": "metal@ethereum",
+  "_id": "metal@ethereum",
   "asset": "metal",
   "platform": "ethereum",
   "type": "token",
