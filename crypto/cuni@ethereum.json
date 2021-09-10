@@ -7,6 +7,7 @@
   "symbol": "CUNI",
   "address": "0x35a18000230da775cac24873d00ff85bccded550",
   "decimals": 8,
+  "logo": "cuni.png",
   "coingecko": {
     "id": "compound-uniswap",
     "platform": "ethereum"

@@ -7,6 +7,7 @@
   "symbol": "VAI",
   "address": "0x4bd17003473389a42daf6a0a729f6fdb328bbbd7",
   "decimals": 18,
+  "logo": "vai.png",
   "coingecko": {
     "id": "vai",
     "platform": "binance-smart-chain"

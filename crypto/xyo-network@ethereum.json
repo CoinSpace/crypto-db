@@ -7,6 +7,7 @@
   "symbol": "XYO",
   "address": "0x55296f69f40ea6d20e478533c15a6b08b654e758",
   "decimals": 18,
+  "logo": "xyo-network.png",
   "coingecko": {
     "id": "xyo-network",
     "platform": "ethereum"

@@ -7,6 +7,7 @@
   "symbol": "DAO",
   "address": "0x22f3997a5df5a80e29871fed24fe3e85741f5e82",
   "decimals": 18,
+  "logo": "dao-maker.png",
   "coingecko": {
     "id": "dao-maker",
     "platform": "binance-smart-chain"

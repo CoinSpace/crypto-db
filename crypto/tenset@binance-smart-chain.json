@@ -7,6 +7,7 @@
   "symbol": "10SET",
   "address": "0x1f64fdad335ed784898effb5ce22d54d8f432523",
   "decimals": 18,
+  "logo": "tenset.png",
   "coingecko": {
     "id": "tenset",
     "platform": "binance-smart-chain"

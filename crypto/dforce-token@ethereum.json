@@ -7,6 +7,7 @@
   "symbol": "DF",
   "address": "0x431ad2ff6a9c365805ebad47ee021148d6f7dbe0",
   "decimals": 18,
+  "logo": "dforce-token.jpg",
   "coingecko": {
     "id": "dforce-token",
     "platform": "ethereum"

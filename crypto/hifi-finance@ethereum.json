@@ -7,6 +7,7 @@
   "symbol": "MFT",
   "address": "0xdf2c7238198ad8b389666574f2d8bc411a4b7428",
   "decimals": 18,
+  "logo": "hifi-finance.png",
   "coingecko": {
     "id": "mainframe",
     "platform": "ethereum"

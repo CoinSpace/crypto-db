@@ -7,6 +7,7 @@
   "symbol": "MXC",
   "address": "0x5ca381bbfb58f0092df149bd3d243b08b9a8386e",
   "decimals": 18,
+  "logo": "mxc.png",
   "coingecko": {
     "id": "mxc",
     "platform": "ethereum"

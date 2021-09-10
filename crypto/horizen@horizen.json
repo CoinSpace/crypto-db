@@ -5,6 +5,7 @@
   "type": "coin",
   "name": "Horizen",
   "symbol": "ZEN",
+  "logo": "horizen.png",
   "supported": false,
   "changelly": {
     "ticker": "zen"

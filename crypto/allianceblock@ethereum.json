@@ -7,6 +7,7 @@
   "symbol": "ALBT",
   "address": "0x00a8b738e453ffd858a7edf03bccfe20412f0eb0",
   "decimals": 18,
+  "logo": "allianceblock.jpg",
   "coingecko": {
     "id": "allianceblock",
     "platform": "ethereum"

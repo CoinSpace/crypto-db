@@ -7,6 +7,7 @@
   "symbol": "PAID",
   "address": "0xad86d0e9764ba90ddd68747d64bffbd79879a238",
   "decimals": 18,
+  "logo": "paid-network.png",
   "coingecko": {
     "id": "paid-network",
     "platform": "binance-smart-chain"

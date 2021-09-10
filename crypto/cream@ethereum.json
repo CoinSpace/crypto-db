@@ -7,6 +7,7 @@
   "symbol": "CREAM",
   "address": "0x2ba592f78db6436527729929aaf6c908497cb200",
   "decimals": 18,
+  "logo": "cream.png",
   "coingecko": {
     "id": "cream-2",
     "platform": "ethereum"

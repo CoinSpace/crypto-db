@@ -7,6 +7,7 @@
   "symbol": "HI",
   "address": "0xc4f6e93aeddc11dc22268488465babcaf09399ac",
   "decimals": 18,
+  "logo": "hi-dollar.png",
   "coingecko": {
     "id": "hi-dollar",
     "platform": "ethereum"

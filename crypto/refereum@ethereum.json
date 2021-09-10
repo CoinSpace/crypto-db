@@ -7,6 +7,7 @@
   "symbol": "RFR",
   "address": "0xd0929d411954c47438dc1d871dd6081f5c5e149c",
   "decimals": 4,
+  "logo": "refereum.png",
   "coingecko": {
     "id": "refereum",
     "platform": "ethereum"

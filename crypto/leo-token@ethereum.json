@@ -7,6 +7,7 @@
   "symbol": "LEO",
   "address": "0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3",
   "decimals": 18,
+  "logo": "leo-token.png",
   "coingecko": {
     "id": "leo-token",
     "platform": "ethereum"

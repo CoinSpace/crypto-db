@@ -7,6 +7,7 @@
   "symbol": "RFOX",
   "address": "0xa1d6df714f91debf4e0802a542e13067f31b8262",
   "decimals": 18,
+  "logo": "redfox-labs.png",
   "coingecko": {
     "id": "redfox-labs-2",
     "platform": "ethereum"

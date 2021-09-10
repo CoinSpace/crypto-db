@@ -7,6 +7,7 @@
   "symbol": "NXM",
   "address": "0xd7c49cee7e9188cca6ad8ff264c1da2e69d4cf3b",
   "decimals": 18,
+  "logo": "nxm.jpg",
   "coingecko": {
     "id": "nxm",
     "platform": "ethereum"

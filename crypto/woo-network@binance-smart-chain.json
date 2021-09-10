@@ -7,6 +7,7 @@
   "symbol": "WOO",
   "address": "0x4691937a7508860f876c9c0a2a617e7d9e945d4b",
   "decimals": 18,
+  "logo": "woo-network.jpg",
   "coingecko": {
     "id": "woo-network",
     "platform": "binance-smart-chain"

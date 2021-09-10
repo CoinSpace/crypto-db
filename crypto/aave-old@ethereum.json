@@ -7,6 +7,7 @@
   "symbol": "LEND",
   "address": "0x80fb784b7ed66730e8b1dbd9820afd29931aab03",
   "decimals": 18,
+  "logo": "aave-old.png",
   "coingecko": {
     "id": "ethlend",
     "platform": "ethereum"

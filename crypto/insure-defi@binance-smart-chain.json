@@ -7,6 +7,7 @@
   "symbol": "SURE",
   "address": "0x9b17baadf0f21f03e35249e0e59723f34994f806",
   "decimals": 18,
+  "logo": "insure-defi.png",
   "coingecko": {
     "id": "insure",
     "platform": "binance-smart-chain"

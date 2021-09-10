@@ -7,6 +7,7 @@
   "symbol": "HEGIC",
   "address": "0x584bc13c7d411c00c01a62e8019472de68768430",
   "decimals": 18,
+  "logo": "hegic.png",
   "coingecko": {
     "id": "hegic",
     "platform": "ethereum"

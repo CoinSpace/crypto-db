@@ -5,6 +5,7 @@
   "type": "coin",
   "name": "IOST",
   "symbol": "IOST",
+  "logo": "iost.png",
   "supported": false,
   "changelly": {
     "ticker": "iost"

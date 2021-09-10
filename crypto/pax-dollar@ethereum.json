@@ -7,6 +7,7 @@
   "symbol": "USDP",
   "address": "0x8e870d67f660d95d5be530380d0ec0bd388289e1",
   "decimals": 18,
+  "logo": "pax-dollar.png",
   "coingecko": {
     "id": "paxos-standard",
     "platform": "ethereum"

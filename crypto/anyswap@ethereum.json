@@ -7,6 +7,7 @@
   "symbol": "ANY",
   "address": "0xf99d58e463a2e07e5692127302c20a191861b4d6",
   "decimals": 18,
+  "logo": "anyswap.jpg",
   "coingecko": {
     "id": "anyswap",
     "platform": "ethereum"

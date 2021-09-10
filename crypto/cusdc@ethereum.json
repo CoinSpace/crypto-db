@@ -7,6 +7,7 @@
   "symbol": "CUSDC",
   "address": "0x39aa39c021dfbae8fac545936693ac917d5e7563",
   "decimals": 8,
+  "logo": "cusdc.png",
   "coingecko": {
     "id": "compound-usd-coin",
     "platform": "ethereum"

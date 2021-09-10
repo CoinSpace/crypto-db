@@ -7,6 +7,7 @@
   "symbol": "CLV",
   "address": "0x09e889bb4d5b474f561db0491c38702f367a4e4d",
   "decimals": 18,
+  "logo": "clover-finance.jpg",
   "coingecko": {
     "id": "clover-finance",
     "platform": "binance-smart-chain"

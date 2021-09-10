@@ -7,6 +7,7 @@
   "symbol": "KP3R",
   "address": "0x1ceb5cb57c4d4e2b2433641b95dd330a33185a44",
   "decimals": 18,
+  "logo": "keep3rv1.jpg",
   "coingecko": {
     "id": "keep3rv1",
     "platform": "ethereum"

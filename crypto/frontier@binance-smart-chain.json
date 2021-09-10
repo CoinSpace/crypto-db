@@ -7,6 +7,7 @@
   "symbol": "FRONT",
   "address": "0x928e55dab735aa8260af3cedada18b5f70c72f1b",
   "decimals": 18,
+  "logo": "frontier.png",
   "coingecko": {
     "id": "frontier-token",
     "platform": "binance-smart-chain"

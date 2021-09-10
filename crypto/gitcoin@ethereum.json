@@ -7,6 +7,7 @@
   "symbol": "GTC",
   "address": "0xde30da39c46104798bb5aa3fe8b9e0e1f348163f",
   "decimals": 18,
+  "logo": "gitcoin.png",
   "coingecko": {
     "id": "gitcoin",
     "platform": "ethereum"

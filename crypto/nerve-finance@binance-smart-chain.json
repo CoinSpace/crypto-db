@@ -7,6 +7,7 @@
   "symbol": "NRV",
   "address": "0x42f6f551ae042cbe50c739158b4f0cac0edb9096",
   "decimals": 18,
+  "logo": "nerve-finance.png",
   "coingecko": {
     "id": "nerve-finance",
     "platform": "binance-smart-chain"

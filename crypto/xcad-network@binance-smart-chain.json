@@ -7,6 +7,7 @@
   "symbol": "XCAD",
   "address": "0x431e0cd023a32532bf3969cddfc002c00e98429d",
   "decimals": 18,
+  "logo": "xcad-network.png",
   "coingecko": {
     "id": "xcad-network",
     "platform": "binance-smart-chain"

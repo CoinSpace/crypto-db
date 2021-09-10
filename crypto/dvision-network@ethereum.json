@@ -7,6 +7,7 @@
   "symbol": "DVI",
   "address": "0x10633216e7e8281e33c86f02bf8e565a635d9770",
   "decimals": 18,
+  "logo": "dvision-network.png",
   "coingecko": {
     "id": "dvision-network",
     "platform": "ethereum"

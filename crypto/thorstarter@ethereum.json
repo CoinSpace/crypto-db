@@ -7,6 +7,7 @@
   "symbol": "XRUNE",
   "address": "0x69fa0fee221ad11012bab0fdb45d444d3d2ce71c",
   "decimals": 18,
+  "logo": "thorstarter.jpg",
   "coingecko": {
     "id": "thorstarter",
     "platform": "ethereum"

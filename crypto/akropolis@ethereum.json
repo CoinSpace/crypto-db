@@ -7,6 +7,7 @@
   "symbol": "AKRO",
   "address": "0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7",
   "decimals": 18,
+  "logo": "akropolis.png",
   "coingecko": {
     "id": "akropolis",
     "platform": "ethereum"

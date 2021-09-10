@@ -7,6 +7,7 @@
   "symbol": "ERN",
   "address": "0xbbc2ae13b23d715c30720f079fcd9b4a74093505",
   "decimals": 18,
+  "logo": "ethernity-chain.png",
   "coingecko": {
     "id": "ethernity-chain",
     "platform": "ethereum"

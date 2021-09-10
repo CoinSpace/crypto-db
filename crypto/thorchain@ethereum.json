@@ -3,7 +3,7 @@
   "asset": "thorchain",
   "platform": "ethereum",
   "type": "token",
-  "name": "THORChain",
+  "name": "THORChain (ERC20)",
   "symbol": "RUNE",
   "address": "0x3155ba85d5f96b2d030a4966af206230e46849cb",
   "decimals": 18,

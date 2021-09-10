@@ -7,6 +7,7 @@
   "symbol": "AXC",
   "address": "0x37c430c2b5f9ff85e534873c715871818ab1623e",
   "decimals": 18,
+  "logo": "axia-coin.png",
   "coingecko": {
     "id": "axia-coin",
     "platform": "ethereum"

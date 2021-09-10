@@ -5,6 +5,7 @@
   "type": "coin",
   "name": "Kava.io",
   "symbol": "KAVA",
+  "logo": "kava.png",
   "supported": false,
   "coingecko": {
     "id": "kava"

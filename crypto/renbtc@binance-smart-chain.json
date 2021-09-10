@@ -7,6 +7,7 @@
   "symbol": "RENBTC",
   "address": "0xfce146bf3146100cfe5db4129cf6c82b0ef4ad8c",
   "decimals": 8,
+  "logo": "renbtc.jpg",
   "coingecko": {
     "id": "renbtc",
     "platform": "binance-smart-chain"

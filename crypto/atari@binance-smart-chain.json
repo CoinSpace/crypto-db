@@ -7,6 +7,7 @@
   "symbol": "ATRI",
   "address": "0xc0c6e4c6e70c6231b20979bda581a66f062a7967",
   "decimals": 0,
+  "logo": "atari.png",
   "coingecko": {
     "id": "atari",
     "platform": "binance-smart-chain"

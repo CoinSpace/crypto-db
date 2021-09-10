@@ -7,6 +7,7 @@
   "symbol": "NOIA",
   "address": "0xa8c8cfb141a3bb59fea1e2ea6b79b5ecbcd7b6ca",
   "decimals": 18,
+  "logo": "syntropy.png",
   "coingecko": {
     "id": "noia-network",
     "platform": "ethereum"

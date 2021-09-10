@@ -7,6 +7,7 @@
   "symbol": "ZMT",
   "address": "0xaa602de53347579f86b996d2add74bb6f79462b2",
   "decimals": 18,
+  "logo": "zipmex-token.png",
   "coingecko": {
     "id": "zipmex-token",
     "platform": "ethereum"

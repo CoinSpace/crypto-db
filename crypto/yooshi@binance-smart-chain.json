@@ -7,6 +7,7 @@
   "symbol": "YOOSHI",
   "address": "0x02ff5065692783374947393723dba9599e59f591",
   "decimals": 9,
+  "logo": "yooshi.png",
   "coingecko": {
     "id": "yooshi",
     "platform": "binance-smart-chain"

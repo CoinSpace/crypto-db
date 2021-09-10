@@ -7,6 +7,7 @@
   "symbol": "UBT",
   "address": "0x8400d94a5cb0fa0d041a3788e395285d61c9ee5e",
   "decimals": 8,
+  "logo": "unibright.png",
   "coingecko": {
     "id": "unibright",
     "platform": "ethereum"

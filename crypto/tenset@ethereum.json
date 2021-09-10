@@ -7,6 +7,7 @@
   "symbol": "10SET",
   "address": "0x7ff4169a6b5122b664c51c95727d87750ec07c84",
   "decimals": 18,
+  "logo": "tenset.png",
   "coingecko": {
     "id": "tenset",
     "platform": "ethereum"

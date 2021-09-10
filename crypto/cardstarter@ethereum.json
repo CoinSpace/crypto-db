@@ -7,6 +7,7 @@
   "symbol": "CARDS",
   "address": "0x3d6f0dea3ac3c607b3998e6ce14b6350721752d9",
   "decimals": 18,
+  "logo": "cardstarter.png",
   "coingecko": {
     "id": "cardstarter",
     "platform": "ethereum"

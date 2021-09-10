@@ -7,6 +7,7 @@
   "symbol": "RLY",
   "address": "0xf1f955016ecbcd7321c7266bccfb96c68ea5e49b",
   "decimals": 18,
+  "logo": "rally.png",
   "coingecko": {
     "id": "rally-2",
     "platform": "ethereum"

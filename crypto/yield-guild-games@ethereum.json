@@ -7,6 +7,7 @@
   "symbol": "YGG",
   "address": "0x25f8087ead173b73d6e8b84329989a8eea16cf73",
   "decimals": 18,
+  "logo": "yield-guild-games.png",
   "coingecko": {
     "id": "yield-guild-games",
     "platform": "ethereum"

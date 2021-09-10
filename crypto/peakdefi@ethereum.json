@@ -7,6 +7,7 @@
   "symbol": "PEAK",
   "address": "0x630d98424efe0ea27fb1b3ab7741907dffeaad78",
   "decimals": 8,
+  "logo": "peakdefi.png",
   "coingecko": {
     "id": "marketpeak",
     "platform": "ethereum"

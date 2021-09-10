@@ -7,6 +7,7 @@
   "symbol": "KNCL",
   "address": "0xdd974d5c2e2928dea5f71b9825b8b646686bd200",
   "decimals": 18,
+  "logo": "kyber-network-crystal-legacy.png",
   "coingecko": {
     "id": "kyber-network",
     "platform": "ethereum"

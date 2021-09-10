@@ -7,6 +7,7 @@
   "symbol": "CRETH2",
   "address": "0xcbc1065255cbc3ab41a6868c22d1f1c573ab89fd",
   "decimals": 18,
+  "logo": "cream-eth-2.png",
   "coingecko": {
     "id": "cream-eth2",
     "platform": "ethereum"

@@ -5,6 +5,7 @@
   "type": "coin",
   "name": "Flow",
   "symbol": "FLOW",
+  "logo": "flow.jpg",
   "supported": false,
   "changelly": {
     "ticker": "flow"

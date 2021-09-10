@@ -7,6 +7,7 @@
   "symbol": "OXY",
   "address": "0x965697b4ef02f0de01384d0d4f9f782b1670c163",
   "decimals": 6,
+  "logo": "oxygen.jpg",
   "coingecko": {
     "id": "oxygen",
     "platform": "ethereum"

@@ -7,6 +7,7 @@
   "symbol": "MIST",
   "address": "0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab",
   "decimals": 18,
+  "logo": "alchemist.png",
   "coingecko": {
     "id": "alchemist",
     "platform": "ethereum"

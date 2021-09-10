@@ -5,6 +5,7 @@
   "type": "coin",
   "name": "Travala.com",
   "symbol": "AVA",
+  "logo": "travala-com.png",
   "supported": false,
   "coingecko": {
     "id": "concierge-io"

@@ -7,6 +7,7 @@
   "symbol": "MDX",
   "address": "0x9c65ab58d8d978db963e63f2bfb7121627e3a739",
   "decimals": 18,
+  "logo": "mdex.png",
   "coingecko": {
     "id": "mdex",
     "platform": "binance-smart-chain"

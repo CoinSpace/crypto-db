@@ -7,6 +7,7 @@
   "symbol": "FLEX",
   "address": "0xfcf8eda095e37a41e002e266daad7efc1579bc0a",
   "decimals": 18,
+  "logo": "flex-coin.png",
   "coingecko": {
     "id": "flex-coin",
     "platform": "ethereum"

@@ -7,6 +7,7 @@
   "symbol": "KAI",
   "address": "0x39ae8eefb05138f418bb27659c21632dc1ddab10",
   "decimals": 18,
+  "logo": "kardiachain.png",
   "coingecko": {
     "id": "kardiachain",
     "platform": "binance-smart-chain"

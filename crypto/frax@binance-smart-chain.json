@@ -7,6 +7,7 @@
   "symbol": "FRAX",
   "address": "0x29ced01c447166958605519f10dcf8b0255fb379",
   "decimals": 18,
+  "logo": "frax.png",
   "coingecko": {
     "id": "frax",
     "platform": "binance-smart-chain"

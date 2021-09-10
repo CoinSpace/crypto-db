@@ -7,6 +7,7 @@
   "symbol": "INJ",
   "address": "0xa2b726b1145a4773f68593cf171187d8ebe4d495",
   "decimals": 18,
+  "logo": "injective-protocol.png",
   "coingecko": {
     "id": "injective-protocol",
     "platform": "binance-smart-chain"

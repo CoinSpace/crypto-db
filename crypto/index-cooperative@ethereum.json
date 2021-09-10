@@ -7,6 +7,7 @@
   "symbol": "INDEX",
   "address": "0x0954906da0bf32d5479e25f46056d22f08464cab",
   "decimals": 18,
+  "logo": "index-cooperative.png",
   "coingecko": {
     "id": "index-cooperative",
     "platform": "ethereum"

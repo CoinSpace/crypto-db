@@ -7,6 +7,7 @@
   "symbol": "MX",
   "address": "0x11eef04c884e24d9b7b4760e7476d06ddf797f36",
   "decimals": 18,
+  "logo": "mx-token.png",
   "coingecko": {
     "id": "mx-token",
     "platform": "ethereum"

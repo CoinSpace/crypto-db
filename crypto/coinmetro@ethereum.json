@@ -7,6 +7,7 @@
   "symbol": "XCM",
   "address": "0x36ac219f90f5a6a3c77f2a7b660e3cc701f68e25",
   "decimals": 18,
+  "logo": "coinmetro.png",
   "coingecko": {
     "id": "coinmetro",
     "platform": "ethereum"

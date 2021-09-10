@@ -7,6 +7,7 @@
   "symbol": "BAL",
   "address": "0xba100000625a3754423978a60c9317c58a424e3d",
   "decimals": 18,
+  "logo": "balancer.png",
   "changelly": {
     "ticker": "bal"
   },

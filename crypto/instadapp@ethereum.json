@@ -7,6 +7,7 @@
   "symbol": "INST",
   "address": "0x6f40d4a6237c257fff2db00fa0510deeecd303eb",
   "decimals": 18,
+  "logo": "instadapp.jpg",
   "coingecko": {
     "id": "instadapp",
     "platform": "ethereum"

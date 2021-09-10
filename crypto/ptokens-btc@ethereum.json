@@ -7,6 +7,7 @@
   "symbol": "PBTC",
   "address": "0x5228a22e72ccc52d415ecfd199f99d0665e7733b",
   "decimals": 18,
+  "logo": "ptokens-btc.png",
   "coingecko": {
     "id": "ptokens-btc",
     "platform": "ethereum"

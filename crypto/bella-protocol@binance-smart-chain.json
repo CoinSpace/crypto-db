@@ -7,6 +7,7 @@
   "symbol": "BEL",
   "address": "0x8443f091997f06a61670b735ed92734f5628692f",
   "decimals": 18,
+  "logo": "bella-protocol.png",
   "coingecko": {
     "id": "bella-protocol",
     "platform": "binance-smart-chain"

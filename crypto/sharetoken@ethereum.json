@@ -7,6 +7,7 @@
   "symbol": "SHR",
   "address": "0xd98f75b1a3261dab9eed4956c93f33749027a964",
   "decimals": 2,
+  "logo": "sharetoken.png",
   "coingecko": {
     "id": "sharering",
     "platform": "ethereum"

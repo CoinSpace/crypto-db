@@ -7,6 +7,7 @@
   "symbol": "SETH",
   "address": "0x5e74c9036fb86bd7ecdcb084a0673efc32ea31cb",
   "decimals": 18,
+  "logo": "seth.png",
   "coingecko": {
     "id": "seth",
     "platform": "ethereum"

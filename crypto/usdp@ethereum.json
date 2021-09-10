@@ -7,6 +7,7 @@
   "symbol": "USDP",
   "address": "0x1456688345527be1f37e9e627da0837d6f08c925",
   "decimals": 18,
+  "logo": "usdp.png",
   "coingecko": {
     "id": "usdp",
     "platform": "ethereum"

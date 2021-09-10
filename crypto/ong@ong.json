@@ -5,6 +5,7 @@
   "type": "coin",
   "name": "Ontology Gas",
   "symbol": "ONG",
+  "logo": "ong.png",
   "supported": false,
   "coingecko": {
     "id": "ong"

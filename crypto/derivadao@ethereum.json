@@ -7,6 +7,7 @@
   "symbol": "DDX",
   "address": "0x3a880652f47bfaa771908c07dd8673a787daed3a",
   "decimals": 18,
+  "logo": "derivadao.png",
   "coingecko": {
     "id": "derivadao",
     "platform": "ethereum"

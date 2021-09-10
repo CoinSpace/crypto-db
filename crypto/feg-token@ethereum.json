@@ -7,6 +7,7 @@
   "symbol": "FEG",
   "address": "0x389999216860ab8e0175387a0c90e5c52522c945",
   "decimals": 9,
+  "logo": "feg-token.png",
   "coingecko": {
     "id": "feg-token",
     "platform": "ethereum"

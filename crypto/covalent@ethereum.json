@@ -7,6 +7,7 @@
   "symbol": "CQT",
   "address": "0xd417144312dbf50465b1c641d016962017ef6240",
   "decimals": 18,
+  "logo": "covalent.png",
   "coingecko": {
     "id": "covalent",
     "platform": "ethereum"

@@ -7,6 +7,7 @@
   "symbol": "KEEP",
   "address": "0x85eee30c52b0b379b046fb0f85f4f3dc3009afec",
   "decimals": 18,
+  "logo": "keep-network.jpg",
   "coingecko": {
     "id": "keep-network",
     "platform": "ethereum"

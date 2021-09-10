@@ -7,6 +7,7 @@
   "symbol": "FRONT",
   "address": "0xf8c3527cc04340b208c854e985240c02f7b7793f",
   "decimals": 18,
+  "logo": "frontier.png",
   "coingecko": {
     "id": "frontier-token",
     "platform": "ethereum"

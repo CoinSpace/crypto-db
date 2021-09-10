@@ -7,6 +7,7 @@
   "symbol": "ALUSD",
   "address": "0xbc6da0fe9ad5f3b0d58160288917aa56653660e9",
   "decimals": 18,
+  "logo": "alchemix-usd.png",
   "coingecko": {
     "id": "alchemix-usd",
     "platform": "ethereum"

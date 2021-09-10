@@ -7,6 +7,7 @@
   "symbol": "GT",
   "address": "0xe66747a101bff2dba3697199dcce5b743b454759",
   "decimals": 18,
+  "logo": "gatetoken.png",
   "coingecko": {
     "id": "gatechain-token",
     "platform": "ethereum"

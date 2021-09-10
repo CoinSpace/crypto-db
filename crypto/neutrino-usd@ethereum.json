@@ -7,6 +7,7 @@
   "symbol": "USDN",
   "address": "0x674c6ad92fd080e4004b2312b45f796a192d27a0",
   "decimals": 18,
+  "logo": "neutrino-usd.png",
   "coingecko": {
     "id": "neutrino",
     "platform": "ethereum"

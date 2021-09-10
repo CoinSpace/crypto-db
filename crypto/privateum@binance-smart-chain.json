@@ -7,6 +7,7 @@
   "symbol": "PVM",
   "address": "0x71aff23750db1f4edbe32c942157a478349035b2",
   "decimals": 18,
+  "logo": "privateum.png",
   "coingecko": {
     "id": "privateum",
     "platform": "binance-smart-chain"

@@ -7,6 +7,7 @@
   "symbol": "TLM",
   "address": "0x888888848b652b3e3a0f34c96e00eec0f3a23f72",
   "decimals": 4,
+  "logo": "alien-worlds.jpg",
   "coingecko": {
     "id": "alien-worlds",
     "platform": "ethereum"

@@ -7,6 +7,7 @@
   "symbol": "ETH2X-FLI",
   "address": "0xaa6e8127831c9de45ae56bb1b0d4d4da6e5665bd",
   "decimals": 18,
+  "logo": "eth-2x-flexible-leverage-index.png",
   "coingecko": {
     "id": "eth-2x-flexible-leverage-index",
     "platform": "ethereum"

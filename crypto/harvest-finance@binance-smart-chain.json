@@ -7,6 +7,7 @@
   "symbol": "FARM",
   "address": "0x4b5c23cac08a567ecf0c1ffca8372a45a5d33743",
   "decimals": 18,
+  "logo": "harvest-finance.png",
   "coingecko": {
     "id": "harvest-finance",
     "platform": "binance-smart-chain"

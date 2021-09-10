@@ -7,6 +7,7 @@
   "symbol": "OHM",
   "address": "0x383518188c0c6d7730d91b2c03a03c837814a899",
   "decimals": 9,
+  "logo": "olympus.png",
   "coingecko": {
     "id": "olympus",
     "platform": "ethereum"

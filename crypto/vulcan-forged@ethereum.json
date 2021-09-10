@@ -7,6 +7,7 @@
   "symbol": "PYR",
   "address": "0x9534ad65fb398e27ac8f4251dae1780b989d136e",
   "decimals": 18,
+  "logo": "vulcan-forged.png",
   "coingecko": {
     "id": "vulcan-forged",
     "platform": "ethereum"

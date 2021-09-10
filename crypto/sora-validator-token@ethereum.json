@@ -7,6 +7,7 @@
   "symbol": "VAL",
   "address": "0xe88f8313e61a97cec1871ee37fbbe2a8bf3ed1e4",
   "decimals": 18,
+  "logo": "sora-validator-token.png",
   "coingecko": {
     "id": "sora-validator-token",
     "platform": "ethereum"
