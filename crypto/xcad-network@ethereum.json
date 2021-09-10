@@ -1,0 +1,14 @@
+{
+  "_id": "xcad-network@ethereum",
+  "asset": "xcad-network",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "XCAD Network",
+  "symbol": "XCAD",
+  "address": "0x7659ce147d0e714454073a5dd7003544234b6aa0",
+  "decimals": 18,
+  "coingecko": {
+    "id": "xcad-network",
+    "platform": "ethereum"
+  }
+}

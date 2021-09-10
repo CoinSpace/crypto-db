@@ -1,0 +1,14 @@
+{
+  "_id": "velas@binance-smart-chain",
+  "asset": "velas",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Velas",
+  "symbol": "VLX",
+  "address": "0xe9c803f48dffe50180bd5b01dc04da939e3445fc",
+  "decimals": 18,
+  "coingecko": {
+    "id": "velas",
+    "platform": "binance-smart-chain"
+  }
+}

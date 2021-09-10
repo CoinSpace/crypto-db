@@ -1,0 +1,14 @@
+{
+  "_id": "frontier@ethereum",
+  "asset": "frontier",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Frontier",
+  "symbol": "FRONT",
+  "address": "0xf8c3527cc04340b208c854e985240c02f7b7793f",
+  "decimals": 18,
+  "coingecko": {
+    "id": "frontier-token",
+    "platform": "ethereum"
+  }
+}

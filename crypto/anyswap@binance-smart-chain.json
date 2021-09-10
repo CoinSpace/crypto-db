@@ -1,0 +1,14 @@
+{
+  "_id": "anyswap@binance-smart-chain",
+  "asset": "anyswap",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Anyswap",
+  "symbol": "ANY",
+  "address": "0xf68c9df95a18b2a5a5fa1124d79eeeffbad0b6fa",
+  "decimals": 18,
+  "coingecko": {
+    "id": "anyswap",
+    "platform": "binance-smart-chain"
+  }
+}

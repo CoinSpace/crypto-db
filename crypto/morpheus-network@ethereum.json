@@ -1,0 +1,14 @@
+{
+  "_id": "morpheus-network@ethereum",
+  "asset": "morpheus-network",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Morpheus Network",
+  "symbol": "MRPH",
+  "address": "0x7b0c06043468469967dba22d1af33d77d44056c8",
+  "decimals": 4,
+  "coingecko": {
+    "id": "morpheus-network",
+    "platform": "ethereum"
+  }
+}

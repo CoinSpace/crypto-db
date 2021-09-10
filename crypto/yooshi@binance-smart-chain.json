@@ -1,0 +1,14 @@
+{
+  "_id": "yooshi@binance-smart-chain",
+  "asset": "yooshi",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "YooShi",
+  "symbol": "YOOSHI",
+  "address": "0x02ff5065692783374947393723dba9599e59f591",
+  "decimals": 9,
+  "coingecko": {
+    "id": "yooshi",
+    "platform": "binance-smart-chain"
+  }
+}

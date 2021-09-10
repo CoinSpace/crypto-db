@@ -1,0 +1,14 @@
+{
+  "_id": "revolution-populi@ethereum",
+  "asset": "revolution-populi",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Revolution Populi",
+  "symbol": "RVP",
+  "address": "0x17ef75aa22dd5f6c2763b8304ab24f40ee54d48a",
+  "decimals": 18,
+  "coingecko": {
+    "id": "revolution-populi",
+    "platform": "ethereum"
+  }
+}

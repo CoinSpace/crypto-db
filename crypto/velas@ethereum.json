@@ -1,0 +1,14 @@
+{
+  "_id": "velas@ethereum",
+  "asset": "velas",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Velas",
+  "symbol": "VLX",
+  "address": "0x8c543aed163909142695f2d2acd0d55791a9edb9",
+  "decimals": 18,
+  "coingecko": {
+    "id": "velas",
+    "platform": "ethereum"
+  }
+}

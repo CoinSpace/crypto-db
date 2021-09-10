@@ -1,0 +1,14 @@
+{
+  "_id": "apenft@binance-smart-chain",
+  "asset": "apenft",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "APENFT",
+  "symbol": "NFT",
+  "address": "0x711d17c6eee1fa812db7a9e2eb9971e5d6252a05",
+  "decimals": 6,
+  "coingecko": {
+    "id": "apenft",
+    "platform": "binance-smart-chain"
+  }
+}

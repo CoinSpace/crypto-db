@@ -1,0 +1,14 @@
+{
+  "_id": "dforce-token@ethereum",
+  "asset": "dforce-token",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "dForce Token",
+  "symbol": "DF",
+  "address": "0x431ad2ff6a9c365805ebad47ee021148d6f7dbe0",
+  "decimals": 18,
+  "coingecko": {
+    "id": "dforce-token",
+    "platform": "ethereum"
+  }
+}

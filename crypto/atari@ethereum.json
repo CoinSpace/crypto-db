@@ -1,0 +1,14 @@
+{
+  "_id": "atari@ethereum",
+  "asset": "atari",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Atari",
+  "symbol": "ATRI",
+  "address": "0xdacd69347de42babfaecd09dc88958378780fb62",
+  "decimals": 0,
+  "coingecko": {
+    "id": "atari",
+    "platform": "ethereum"
+  }
+}

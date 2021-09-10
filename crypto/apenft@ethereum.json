@@ -1,0 +1,14 @@
+{
+  "_id": "apenft@ethereum",
+  "asset": "apenft",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "APENFT",
+  "symbol": "NFT",
+  "address": "0xef40b859d21e4d566a3d713e756197c021bffaaa",
+  "decimals": 6,
+  "coingecko": {
+    "id": "apenft",
+    "platform": "ethereum"
+  }
+}

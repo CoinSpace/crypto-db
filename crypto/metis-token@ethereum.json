@@ -1,0 +1,14 @@
+{
+  "_id": "metis-token@ethereum",
+  "asset": "metis-token",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Metis Token",
+  "symbol": "METIS",
+  "address": "0x9e32b13ce7f2e80a01932b42553652e053d6ed8e",
+  "decimals": 18,
+  "coingecko": {
+    "id": "metis-token",
+    "platform": "ethereum"
+  }
+}

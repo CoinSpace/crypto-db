@@ -1,0 +1,14 @@
+{
+  "_id": "ufo-gaming@ethereum",
+  "asset": "ufo-gaming",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "UFO Gaming",
+  "symbol": "UFO",
+  "address": "0x249e38ea4102d0cf8264d3701f1a0e39c4f2dc3b",
+  "decimals": 18,
+  "coingecko": {
+    "id": "ufo-gaming",
+    "platform": "ethereum"
+  }
+}

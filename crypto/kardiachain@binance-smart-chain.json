@@ -1,0 +1,14 @@
+{
+  "_id": "kardiachain@binance-smart-chain",
+  "asset": "kardiachain",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "KardiaChain",
+  "symbol": "KAI",
+  "address": "0x39ae8eefb05138f418bb27659c21632dc1ddab10",
+  "decimals": 18,
+  "coingecko": {
+    "id": "kardiachain",
+    "platform": "binance-smart-chain"
+  }
+}

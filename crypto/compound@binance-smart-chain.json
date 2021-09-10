@@ -1,0 +1,15 @@
+{
+  "_id": "compound@binance-smart-chain",
+  "asset": "compound",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Compound",
+  "symbol": "COMP",
+  "address": "0x52ce071bd9b1c4b00a0b92d298c512478cad67e8",
+  "decimals": 18,
+  "logo": "compound.svg",
+  "coingecko": {
+    "id": "compound-governance-token",
+    "platform": "binance-smart-chain"
+  }
+}

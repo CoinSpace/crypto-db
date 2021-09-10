@@ -1,0 +1,14 @@
+{
+  "_id": "kyber-network-crystal@binance-smart-chain",
+  "asset": "kyber-network-crystal",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Kyber Network Crystal",
+  "symbol": "KNC",
+  "address": "0xfe56d5892bdffc7bf58f2e84be1b2c32d21c308b",
+  "decimals": 18,
+  "coingecko": {
+    "id": "kyber-network-crystal",
+    "platform": "binance-smart-chain"
+  }
+}

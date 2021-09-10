@@ -1,0 +1,14 @@
+{
+  "_id": "bscpad@binance-smart-chain",
+  "asset": "bscpad",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "BSCPAD",
+  "symbol": "BSCPAD",
+  "address": "0x5a3010d4d8d3b5fb49f8b6e57fb9e48063f16700",
+  "decimals": 18,
+  "coingecko": {
+    "id": "bscpad",
+    "platform": "binance-smart-chain"
+  }
+}

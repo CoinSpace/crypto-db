@@ -1,0 +1,14 @@
+{
+  "_id": "bella-protocol@binance-smart-chain",
+  "asset": "bella-protocol",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Bella Protocol",
+  "symbol": "BEL",
+  "address": "0x8443f091997f06a61670b735ed92734f5628692f",
+  "decimals": 18,
+  "coingecko": {
+    "id": "bella-protocol",
+    "platform": "binance-smart-chain"
+  }
+}
