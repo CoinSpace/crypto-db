@@ -7,6 +7,9 @@
   "symbol": "FIO",
   "logo": "fio-protocol.png",
   "supported": false,
+  "changelly": {
+    "ticker": "fio"
+  },
   "coingecko": {
     "id": "fio-protocol"
   }
