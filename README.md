@@ -1,7 +1,7 @@
 # Crypto DB
 
 [![Build](https://github.com/CoinSpace/crypto-db/actions/workflows/ci.yml/badge.svg)](https://github.com/CoinSpace/crypto-db/actions/workflows/ci.yml)
-[![Version](https://img.shields.io/github/v/release/CoinSpace/crypto-db?label=version)](https://github.com/CoinSpace/crypto-db/releases)
+[![Version](https://img.shields.io/github/v/tag/CoinSpace/crypto-db?label=version)](https://github.com/CoinSpace/crypto-db/releases)
 [![License](https://img.shields.io/github/license/CoinSpace/crypto-db?color=blue)](https://github.com/CoinSpace/crypto-db/blob/master/LICENSE)
 
 ## Install
