@@ -5,6 +5,7 @@
   "type": "coin",
   "name": "Waltonchain",
   "symbol": "WTC",
+  "decimals": null,
   "logo": "waltonchain.svg",
   "supported": false,
   "changelly": {

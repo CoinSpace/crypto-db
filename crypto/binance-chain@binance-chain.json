@@ -5,6 +5,7 @@
   "type": "coin",
   "name": "Binance Chain",
   "symbol": "BNB",
+  "decimals": null,
   "logo": "binance-smart-chain.svg",
   "supported": false,
   "changelly": {

@@ -5,6 +5,7 @@
   "type": "coin",
   "name": "VeChain",
   "symbol": "VET",
+  "decimals": null,
   "logo": "vechain.svg",
   "supported": false,
   "changelly": {

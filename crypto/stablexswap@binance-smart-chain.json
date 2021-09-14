@@ -7,6 +7,7 @@
   "symbol": "STAX",
   "address": "0x0da6ed8b13214ff28e9ca979dd37439e8a88f6c4",
   "decimals": 18,
+  "logo": "stablexswap.jpg",
   "coingecko": {
     "id": "stablexswap",
     "platform": "binance-smart-chain"

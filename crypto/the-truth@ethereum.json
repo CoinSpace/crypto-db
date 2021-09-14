@@ -3,12 +3,13 @@
   "asset": "the-truth",
   "platform": "ethereum",
   "type": "token",
-  "name": "The Truth",
+  "name": "UFO Gaming",
   "symbol": "UFO",
   "address": "0x249e38ea4102d0cf8264d3701f1a0e39c4f2dc3b",
   "decimals": 18,
+  "logo": "ufo-gaming.jpg",
   "coingecko": {
-    "id": "the-truth",
+    "id": "ufo-gaming",
     "platform": "ethereum"
   }
 }

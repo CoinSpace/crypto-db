@@ -5,6 +5,7 @@
   "type": "coin",
   "name": "Ethereum Classic",
   "symbol": "ETC",
+  "decimals": null,
   "logo": "ethereum-classic.svg",
   "supported": false,
   "coingecko": {

@@ -5,6 +5,7 @@
   "type": "coin",
   "name": "Solana",
   "symbol": "SOL",
+  "decimals": null,
   "logo": "solana.svg",
   "supported": false,
   "changelly": {

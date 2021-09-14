@@ -7,6 +7,7 @@
   "symbol": "FWB",
   "address": "0x35bd01fc9d6d5d81ca9e055db88dc49aa2c699a8",
   "decimals": 18,
+  "logo": "friends-with-benefits-pro.png",
   "coingecko": {
     "id": "friends-with-benefits-pro",
     "platform": "ethereum"

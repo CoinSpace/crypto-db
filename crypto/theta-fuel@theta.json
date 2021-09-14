@@ -5,6 +5,7 @@
   "type": "coin",
   "name": "Theta Fuel",
   "symbol": "TFUEL",
+  "decimals": null,
   "logo": "theta-fuel.svg",
   "supported": false,
   "changelly": {

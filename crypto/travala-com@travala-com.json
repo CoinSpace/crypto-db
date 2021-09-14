@@ -5,6 +5,7 @@
   "type": "coin",
   "name": "Travala.com",
   "symbol": "AVA",
+  "decimals": null,
   "logo": "travala-com.png",
   "supported": false,
   "coingecko": {

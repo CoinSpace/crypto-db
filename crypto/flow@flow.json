@@ -5,6 +5,7 @@
   "type": "coin",
   "name": "Flow",
   "symbol": "FLOW",
+  "decimals": null,
   "logo": "flow.jpg",
   "supported": false,
   "changelly": {

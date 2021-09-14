@@ -5,6 +5,7 @@
   "type": "coin",
   "name": "Aeternity",
   "symbol": "AE",
+  "decimals": null,
   "logo": "aeternity.svg",
   "supported": false,
   "changelly": {

@@ -7,6 +7,7 @@
   "symbol": "LGO",
   "address": "0x0a50c93c762fdd6e56d86215c24aaad43ab629aa",
   "decimals": 8,
+  "logo": "lgo-token.png",
   "coingecko": {
     "id": "legolas-exchange",
     "platform": "ethereum"

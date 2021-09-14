@@ -5,6 +5,7 @@
   "type": "coin",
   "name": "Kusama",
   "symbol": "KSM",
+  "decimals": null,
   "logo": "kusama.svg",
   "supported": false,
   "changelly": {

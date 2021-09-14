@@ -5,6 +5,7 @@
   "type": "coin",
   "name": "Tezos",
   "symbol": "XTZ",
+  "decimals": null,
   "logo": "tezos.svg",
   "supported": false,
   "changelly": {

@@ -5,6 +5,7 @@
   "type": "coin",
   "name": "Decred",
   "symbol": "DCR",
+  "decimals": null,
   "logo": "decred.svg",
   "supported": false,
   "changelly": {

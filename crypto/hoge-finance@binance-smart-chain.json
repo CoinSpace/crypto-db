@@ -7,6 +7,7 @@
   "symbol": "HOGE",
   "address": "0xa4fffc757e8c4f24e7b209c033c123d20983ad40",
   "decimals": 9,
+  "logo": "hoge-finance.jpg",
   "coingecko": {
     "id": "hoge-finance",
     "platform": "binance-smart-chain"

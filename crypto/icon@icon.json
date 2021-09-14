@@ -5,6 +5,7 @@
   "type": "coin",
   "name": "ICON",
   "symbol": "ICX",
+  "decimals": null,
   "logo": "icon.svg",
   "supported": false,
   "changelly": {

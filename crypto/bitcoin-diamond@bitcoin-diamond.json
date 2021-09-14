@@ -5,6 +5,7 @@
   "type": "coin",
   "name": "Bitcoin Diamond",
   "symbol": "BCD",
+  "decimals": null,
   "logo": "bitcoin-diamond.svg",
   "supported": false,
   "changelly": {

@@ -5,6 +5,7 @@
   "type": "coin",
   "name": "TRON",
   "symbol": "TRX",
+  "decimals": null,
   "logo": "tron.svg",
   "supported": false,
   "changelly": {

@@ -5,6 +5,7 @@
   "type": "coin",
   "name": "Algorand",
   "symbol": "ALGO",
+  "decimals": null,
   "logo": "algorand.svg",
   "supported": false,
   "changelly": {

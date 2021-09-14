@@ -5,6 +5,7 @@
   "type": "coin",
   "name": "Ravencoin",
   "symbol": "RVN",
+  "decimals": null,
   "logo": "ravencoin.svg",
   "supported": false,
   "changelly": {

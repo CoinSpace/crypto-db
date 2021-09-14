@@ -5,6 +5,7 @@
   "type": "coin",
   "name": "Cosmos",
   "symbol": "ATOM",
+  "decimals": null,
   "logo": "cosmos.svg",
   "supported": false,
   "changelly": {

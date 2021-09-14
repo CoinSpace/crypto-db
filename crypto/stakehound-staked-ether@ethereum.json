@@ -7,6 +7,7 @@
   "symbol": "STETH",
   "address": "0xdfe66b14d37c77f4e9b180ceb433d1b164f0281d",
   "decimals": 18,
+  "logo": "stakehound-staked-ether.png",
   "coingecko": {
     "id": "stakehound-staked-ether",
     "platform": "ethereum"

@@ -5,6 +5,7 @@
   "type": "coin",
   "name": "SmartCash",
   "symbol": "SMART",
+  "decimals": null,
   "logo": "smartcash.svg",
   "supported": false,
   "changelly": {

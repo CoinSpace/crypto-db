@@ -7,6 +7,7 @@
   "symbol": "BMON",
   "address": "0x08ba0619b1e7a582e0bce5bbe9843322c954c340",
   "decimals": 18,
+  "logo": "binamon.png",
   "coingecko": {
     "id": "binamon",
     "platform": "binance-smart-chain"

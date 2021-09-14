@@ -5,6 +5,7 @@
   "type": "coin",
   "name": "Hedera Hashgraph",
   "symbol": "HBAR",
+  "decimals": null,
   "logo": "hedera-hashgraph.svg",
   "supported": false,
   "changelly": {

@@ -7,6 +7,7 @@
   "symbol": "CHAIN",
   "address": "0x35de111558f691f77f791fb0c08b2d6b931a9d47",
   "decimals": 18,
+  "logo": "chain-games.png",
   "coingecko": {
     "id": "chain-games",
     "platform": "binance-smart-chain"

@@ -5,6 +5,7 @@
   "type": "coin",
   "name": "FIO Protocol",
   "symbol": "FIO",
+  "decimals": null,
   "logo": "fio-protocol.png",
   "supported": false,
   "changelly": {

@@ -7,6 +7,7 @@
   "symbol": "LON",
   "address": "0x0000000000095413afc295d19edeb1ad7b71c952",
   "decimals": 18,
+  "logo": "tokenlon.png",
   "coingecko": {
     "id": "tokenlon",
     "platform": "ethereum"

@@ -5,6 +5,7 @@
   "type": "coin",
   "name": "Internet Computer",
   "symbol": "ICP",
+  "decimals": null,
   "logo": "internet-computer.svg",
   "supported": false,
   "changelly": {

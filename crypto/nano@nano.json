@@ -5,6 +5,7 @@
   "type": "coin",
   "name": "Nano",
   "symbol": "NANO",
+  "decimals": null,
   "logo": "nano.svg",
   "supported": false,
   "changelly": {

@@ -5,6 +5,7 @@
   "type": "coin",
   "name": "NEM",
   "symbol": "XEM",
+  "decimals": null,
   "logo": "nem.svg",
   "supported": false,
   "changelly": {

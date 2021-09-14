@@ -7,6 +7,7 @@
   "symbol": "POND",
   "address": "0x57b946008913b82e4df85f501cbaed910e58d26c",
   "decimals": 18,
+  "logo": "marlin.png",
   "coingecko": {
     "id": "marlin",
     "platform": "ethereum"

@@ -5,6 +5,7 @@
   "type": "coin",
   "name": "Aion",
   "symbol": "AION",
+  "decimals": null,
   "logo": "aion.svg",
   "supported": false,
   "changelly": {

@@ -5,6 +5,7 @@
   "type": "coin",
   "name": "Groestlcoin",
   "symbol": "GRS",
+  "decimals": null,
   "logo": "groestlcoin.svg",
   "supported": false,
   "changelly": {

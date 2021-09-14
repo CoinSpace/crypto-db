@@ -5,6 +5,7 @@
   "type": "coin",
   "name": "Ontology",
   "symbol": "ONT",
+  "decimals": null,
   "logo": "ontology.svg",
   "supported": false,
   "changelly": {
