@@ -5,7 +5,7 @@
   "type": "token",
   "name": "AscendEx Token",
   "symbol": "ASD",
-  "address": "0xcca0c9c383076649604ee31b20248bc04fdf61ca",
+  "address": "0xff742d05420b6aca4481f635ad8341f81a6300c2",
   "decimals": 18,
   "logo": "asd.png",
   "coingecko": {

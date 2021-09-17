@@ -1,0 +1,19 @@
+{
+  "_id": "waves-ducks@binance-smart-chain",
+  "asset": "waves-ducks",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Waves Ducks",
+  "symbol": "EGG",
+  "address": "0x889efce29fa0bb9b26be9fda17a8003f4e8da4de",
+  "decimals": 18,
+  "logo": "waves-ducks.png",
+  "coingecko": {
+    "id": "waves-ducks",
+    "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 10723,
+    "slug": "waves-ducks"
+  }
+}

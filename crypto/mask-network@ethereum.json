@@ -8,6 +8,9 @@
   "address": "0x69af81e73a73b40adf4f3d4223cd9b1ece623074",
   "decimals": 18,
   "logo": "mask-network.jpg",
+  "changelly": {
+    "ticker": "mask"
+  },
   "coingecko": {
     "id": "mask-network",
     "platform": "ethereum"

@@ -1,0 +1,19 @@
+{
+  "_id": "waves-ducks@ethereum",
+  "asset": "waves-ducks",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Waves Ducks",
+  "symbol": "EGG",
+  "address": "0xc2708a3a4ba7f64bddc1a49f92f941bc77cad23a",
+  "decimals": 18,
+  "logo": "waves-ducks.png",
+  "coingecko": {
+    "id": "waves-ducks",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 10723,
+    "slug": "waves-ducks"
+  }
+}

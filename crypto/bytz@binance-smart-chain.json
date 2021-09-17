@@ -1,0 +1,15 @@
+{
+  "_id": "bytz@binance-smart-chain",
+  "asset": "bytz",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "BYTZ",
+  "symbol": "BYTZ",
+  "address": "0x586fc153cf7e9c029d8c30842c4cb6a86f03b816",
+  "decimals": 8,
+  "logo": "bytz.png",
+  "coingecko": {
+    "id": "bytz",
+    "platform": "binance-smart-chain"
+  }
+}

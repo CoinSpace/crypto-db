@@ -1,0 +1,19 @@
+{
+  "_id": "vite@ethereum",
+  "asset": "vite",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Vite",
+  "symbol": "VITE",
+  "address": "0xadd5e881984783dd432f80381fb52f45b53f3e70",
+  "decimals": 18,
+  "logo": "vite.png",
+  "coingecko": {
+    "id": "vite",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 2937,
+    "slug": "vite"
+  }
+}

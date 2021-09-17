@@ -1,0 +1,19 @@
+{
+  "_id": "dopex@ethereum",
+  "asset": "dopex",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Dopex",
+  "symbol": "DPX",
+  "address": "0xeec2be5c91ae7f8a338e1e5f3b5de49d07afdc81",
+  "decimals": 18,
+  "logo": "dopex.png",
+  "coingecko": {
+    "id": "dopex",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 11188,
+    "slug": "dopex"
+  }
+}

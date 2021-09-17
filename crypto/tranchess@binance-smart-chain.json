@@ -1,0 +1,19 @@
+{
+  "_id": "tranchess@binance-smart-chain",
+  "asset": "tranchess",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Tranchess",
+  "symbol": "CHESS",
+  "address": "0x20de22029ab63cf9a7cf5feb2b737ca1ee4c82a6",
+  "decimals": 18,
+  "logo": "tranchess.png",
+  "coingecko": {
+    "id": "tranchess",
+    "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 10974,
+    "slug": "tranchess"
+  }
+}
