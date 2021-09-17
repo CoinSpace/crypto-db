@@ -6,7 +6,7 @@
   "name": "Binance Chain",
   "symbol": "BNB",
   "decimals": null,
-  "logo": "binance-smart-chain.svg",
+  "logo": "binance-chain.svg",
   "supported": false,
   "changelly": {
     "ticker": "bnb"

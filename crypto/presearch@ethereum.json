@@ -7,7 +7,7 @@
   "symbol": "PRE",
   "address": "0xec213f83defb583af3a000b1c0ada660b1902a0f",
   "decimals": 18,
-  "logo": "presearch.png",
+  "logo": "presearch.svg",
   "coingecko": {
     "id": "presearch",
     "platform": "ethereum"
