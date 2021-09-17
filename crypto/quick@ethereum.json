@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "quick",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 8206,
+    "slug": "quickswap"
   }
 }

@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "tokocrypto",
     "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 9020,
+    "slug": "tokocrypto"
   }
 }

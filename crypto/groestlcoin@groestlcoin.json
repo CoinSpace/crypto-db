@@ -13,5 +13,9 @@
   },
   "coingecko": {
     "id": "groestlcoin"
+  },
+  "coinmarketcap": {
+    "id": 258,
+    "slug": "groestlcoin"
   }
 }

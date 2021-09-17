@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "occamfi",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 9191,
+    "slug": "occamfi"
   }
 }

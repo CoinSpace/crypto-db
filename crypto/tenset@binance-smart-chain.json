@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "tenset",
     "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 9089,
+    "slug": "tenset"
   }
 }

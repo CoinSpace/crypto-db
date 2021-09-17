@@ -14,6 +14,10 @@
   "coingecko": {
     "id": "ontology"
   },
+  "coinmarketcap": {
+    "id": 2566,
+    "slug": "ontology"
+  },
   "moonpay": {
     "id": "8a0d7518-be40-49ce-ad43-4c5cd4374623",
     "code": "ont"

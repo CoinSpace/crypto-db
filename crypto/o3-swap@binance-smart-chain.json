@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "o3-swap",
     "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 9588,
+    "slug": "o3swap"
   }
 }

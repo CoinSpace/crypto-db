@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "metahero",
     "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 10778,
+    "slug": "metahero"
   }
 }

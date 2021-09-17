@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "cdai",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 5263,
+    "slug": "compound-dai"
   }
 }

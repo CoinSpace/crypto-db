@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "wpp-token",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 3885,
+    "slug": "wpp-token"
   }
 }

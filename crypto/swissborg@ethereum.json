@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "swissborg",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 2499,
+    "slug": "swissborg"
   }
 }

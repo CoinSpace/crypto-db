@@ -13,5 +13,9 @@
   },
   "coingecko": {
     "id": "komodo"
+  },
+  "coinmarketcap": {
+    "id": 1521,
+    "slug": "komodo"
   }
 }

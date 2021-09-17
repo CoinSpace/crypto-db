@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "marketpeak",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 5354,
+    "slug": "peakdefi"
   }
 }

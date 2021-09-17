@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "adventure-gold",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 11568,
+    "slug": "adventure-gold"
   }
 }

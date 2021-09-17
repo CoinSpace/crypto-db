@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "eth-2x-flexible-leverage-index",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 9789,
+    "slug": "eth-2x-flexible-leverage-index"
   }
 }

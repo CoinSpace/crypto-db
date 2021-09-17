@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "hoge-finance",
     "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 8438,
+    "slug": "hoge-finance"
   }
 }

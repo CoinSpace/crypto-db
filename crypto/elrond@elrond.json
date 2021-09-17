@@ -14,6 +14,10 @@
   "coingecko": {
     "id": "elrond-erd-2"
   },
+  "coinmarketcap": {
+    "id": 6892,
+    "slug": "elrond-egld"
+  },
   "moonpay": {
     "id": "66f59d2c-abf0-4efa-946d-de10b8b6be14",
     "code": "egld"

@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "fx-coin",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 3884,
+    "slug": "function-x"
   }
 }

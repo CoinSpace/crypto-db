@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "bepro-network",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 5062,
+    "slug": "bepro-network"
   }
 }

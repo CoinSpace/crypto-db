@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "chain-games",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 6744,
+    "slug": "chain-games"
   }
 }

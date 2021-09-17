@@ -14,6 +14,10 @@
   "coingecko": {
     "id": "polkadot"
   },
+  "coinmarketcap": {
+    "id": 6636,
+    "slug": "polkadot-new"
+  },
   "moonpay": {
     "id": "83e44c86-d0d8-4896-a3f7-49dabe3fd635",
     "code": "dot"

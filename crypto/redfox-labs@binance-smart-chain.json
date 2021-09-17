@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "redfox-labs-2",
     "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 7654,
+    "slug": "redfox-labs"
   }
 }

@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "insure",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 5113,
+    "slug": "insure"
   }
 }

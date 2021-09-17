@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "cream-eth2",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 8893,
+    "slug": "cream-eth2"
   }
 }

@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "metis-token",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 9640,
+    "slug": "metisdao"
   }
 }

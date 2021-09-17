@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "leo-token",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 3957,
+    "slug": "unus-sed-leo"
   }
 }

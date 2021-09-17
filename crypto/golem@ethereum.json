@@ -14,5 +14,9 @@
   "coingecko": {
     "id": "golem",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 1455,
+    "slug": "golem-network-tokens"
   }
 }

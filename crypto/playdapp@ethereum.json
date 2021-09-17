@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "playdapp",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 7461,
+    "slug": "playdapp"
   }
 }

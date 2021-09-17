@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "celer-network",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 3814,
+    "slug": "celer-network"
   }
 }

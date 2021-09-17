@@ -15,6 +15,10 @@
     "id": "serum",
     "platform": "ethereum"
   },
+  "coinmarketcap": {
+    "id": 6187,
+    "slug": "serum"
+  },
   "moonpay": {
     "id": "82d5aae4-6ffa-4a2f-ab0e-9c6afea22174",
     "code": "srm"

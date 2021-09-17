@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "adex",
     "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 1768,
+    "slug": "adx-net"
   }
 }

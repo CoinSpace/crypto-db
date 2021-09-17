@@ -13,5 +13,9 @@
   },
   "coingecko": {
     "id": "iotex"
+  },
+  "coinmarketcap": {
+    "id": 2777,
+    "slug": "iotex"
   }
 }

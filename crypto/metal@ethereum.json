@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "metal",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 1788,
+    "slug": "metal"
   }
 }

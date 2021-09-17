@@ -13,5 +13,9 @@
   },
   "coingecko": {
     "id": "icon"
+  },
+  "coinmarketcap": {
+    "id": 2099,
+    "slug": "icon"
   }
 }

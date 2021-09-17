@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "hxro",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 3748,
+    "slug": "hxro"
   }
 }

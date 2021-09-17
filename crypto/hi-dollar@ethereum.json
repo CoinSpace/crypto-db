@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "hi-dollar",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 11240,
+    "slug": "hi-dollar"
   }
 }

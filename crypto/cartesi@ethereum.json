@@ -14,5 +14,9 @@
   "coingecko": {
     "id": "cartesi",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 5444,
+    "slug": "cartesi"
   }
 }

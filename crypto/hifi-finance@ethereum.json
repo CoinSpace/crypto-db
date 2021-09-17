@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "mainframe",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 2896,
+    "slug": "mainframe"
   }
 }

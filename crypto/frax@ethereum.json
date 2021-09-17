@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "frax",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 6952,
+    "slug": "frax"
   }
 }

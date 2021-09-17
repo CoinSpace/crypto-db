@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "trust-wallet-token",
     "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 5964,
+    "slug": "trust-wallet-token"
   }
 }

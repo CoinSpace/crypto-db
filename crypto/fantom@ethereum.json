@@ -14,5 +14,9 @@
   "coingecko": {
     "id": "fantom",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 3513,
+    "slug": "fantom"
   }
 }

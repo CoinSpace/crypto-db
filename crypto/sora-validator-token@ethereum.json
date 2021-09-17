@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "sora-validator-token",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 7876,
+    "slug": "sora-validator-token"
   }
 }

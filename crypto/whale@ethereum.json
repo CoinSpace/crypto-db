@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "whale",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 6679,
+    "slug": "whale"
   }
 }

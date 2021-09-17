@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "band-protocol",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 4679,
+    "slug": "band-protocol"
   }
 }

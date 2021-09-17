@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "husd",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 4779,
+    "slug": "husd"
   }
 }

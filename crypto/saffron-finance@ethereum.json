@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "saffron-finance",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 7617,
+    "slug": "saffron-finance"
   }
 }

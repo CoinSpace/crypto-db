@@ -13,5 +13,9 @@
   },
   "coingecko": {
     "id": "peercoin"
+  },
+  "coinmarketcap": {
+    "id": 5,
+    "slug": "peercoin"
   }
 }

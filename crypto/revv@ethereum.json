@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "revv",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 6993,
+    "slug": "revv"
   }
 }

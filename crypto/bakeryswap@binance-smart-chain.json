@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "bakerytoken",
     "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 7064,
+    "slug": "bakerytoken"
   }
 }

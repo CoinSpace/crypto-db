@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "fetch-ai",
     "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 3773,
+    "slug": "fetch"
   }
 }

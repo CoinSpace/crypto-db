@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "frontier-token",
     "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 5893,
+    "slug": "frontier"
   }
 }

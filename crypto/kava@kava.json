@@ -11,6 +11,10 @@
   "coingecko": {
     "id": "kava"
   },
+  "coinmarketcap": {
+    "id": 4846,
+    "slug": "kava"
+  },
   "moonpay": {
     "id": "df7964ab-181f-40cf-bdf9-9995484eea3d",
     "code": "kava"

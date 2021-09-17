@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "lto-network",
     "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 3714,
+    "slug": "lto-network"
   }
 }

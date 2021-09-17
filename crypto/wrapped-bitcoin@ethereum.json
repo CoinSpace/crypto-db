@@ -15,6 +15,10 @@
     "id": "wrapped-bitcoin",
     "platform": "ethereum"
   },
+  "coinmarketcap": {
+    "id": 3717,
+    "slug": "wrapped-bitcoin"
+  },
   "moonpay": {
     "id": "fec58310-c00f-4874-8509-2ccbf4249eb1",
     "code": "wbtc"

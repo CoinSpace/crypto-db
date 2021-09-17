@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "usdp",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 8886,
+    "slug": "usdp"
   }
 }

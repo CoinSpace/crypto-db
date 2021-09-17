@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "metadium",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 3418,
+    "slug": "metadium"
   }
 }

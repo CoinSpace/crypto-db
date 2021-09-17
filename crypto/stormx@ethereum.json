@@ -12,6 +12,10 @@
     "id": "storm",
     "platform": "ethereum"
   },
+  "coinmarketcap": {
+    "id": 2297,
+    "slug": "stormx"
+  },
   "moonpay": {
     "id": "6b47d48b-5c96-465a-9d76-88c2dd33131a",
     "code": "stmx"

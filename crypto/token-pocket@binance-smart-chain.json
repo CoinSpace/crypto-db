@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "token-pocket",
     "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 5947,
+    "slug": "tokenpocket"
   }
 }

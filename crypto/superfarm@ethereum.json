@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "superfarm",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 8290,
+    "slug": "superfarm"
   }
 }

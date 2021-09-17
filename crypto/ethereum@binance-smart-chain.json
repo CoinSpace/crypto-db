@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "ethereum",
     "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 1027,
+    "slug": "ethereum"
   }
 }

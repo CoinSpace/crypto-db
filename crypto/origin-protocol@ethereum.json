@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "origin-protocol",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 5117,
+    "slug": "origin-protocol"
   }
 }

@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "stasis-eurs",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 2989,
+    "slug": "stasis-euro"
   }
 }

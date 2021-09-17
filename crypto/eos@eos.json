@@ -13,6 +13,10 @@
   "coingecko": {
     "id": "eos"
   },
+  "coinmarketcap": {
+    "id": 1765,
+    "slug": "eos"
+  },
   "moonpay": {
     "id": "9fdb4e4e-feda-4a81-8b26-1401b6c2f4de",
     "code": "eos"

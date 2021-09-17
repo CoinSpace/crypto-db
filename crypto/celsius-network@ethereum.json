@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "celsius-degree-token",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 2700,
+    "slug": "celsius"
   }
 }

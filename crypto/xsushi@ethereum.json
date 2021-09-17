@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "xsushi",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 8899,
+    "slug": "xsushi"
   }
 }

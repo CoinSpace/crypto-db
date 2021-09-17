@@ -14,5 +14,9 @@
   "coingecko": {
     "id": "power-ledger",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 2132,
+    "slug": "power-ledger"
   }
 }

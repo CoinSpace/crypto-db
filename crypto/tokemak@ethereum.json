@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "tokemak",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 11202,
+    "slug": "tokemak"
   }
 }

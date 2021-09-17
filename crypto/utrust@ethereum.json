@@ -15,6 +15,10 @@
     "id": "utrust",
     "platform": "ethereum"
   },
+  "coinmarketcap": {
+    "id": 2320,
+    "slug": "utrust"
+  },
   "moonpay": {
     "id": "e5626cbd-0559-4624-8df2-7353b93856ad",
     "code": "utk"

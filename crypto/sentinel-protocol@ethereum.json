@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "sentinel-protocol",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 2866,
+    "slug": "sentinel-protocol"
   }
 }

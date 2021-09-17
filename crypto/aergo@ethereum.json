@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "aergo",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 3637,
+    "slug": "aergo"
   }
 }

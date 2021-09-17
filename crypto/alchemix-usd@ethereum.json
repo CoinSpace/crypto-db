@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "alchemix-usd",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 8614,
+    "slug": "alchemix-usd"
   }
 }

@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "kyber-network",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 1982,
+    "slug": "kyber-network-crystal-legacy"
   }
 }

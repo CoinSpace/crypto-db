@@ -14,5 +14,9 @@
   "coingecko": {
     "id": "yearn-finance",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 5864,
+    "slug": "yearn-finance"
   }
 }

@@ -14,5 +14,9 @@
   "coingecko": {
     "id": "binance-usd",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 4687,
+    "slug": "binance-usd"
   }
 }

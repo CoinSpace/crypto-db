@@ -12,5 +12,9 @@
   },
   "coingecko": {
     "id": "monero"
+  },
+  "coinmarketcap": {
+    "id": 328,
+    "slug": "monero"
   }
 }

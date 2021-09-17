@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "origintrail",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 2467,
+    "slug": "origintrail"
   }
 }

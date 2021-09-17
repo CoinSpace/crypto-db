@@ -10,5 +10,9 @@
   "supported": false,
   "coingecko": {
     "id": "concierge-io"
+  },
+  "coinmarketcap": {
+    "id": 2776,
+    "slug": "travala"
   }
 }

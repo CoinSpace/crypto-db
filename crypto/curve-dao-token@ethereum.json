@@ -14,5 +14,9 @@
   "coingecko": {
     "id": "curve-dao-token",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 6538,
+    "slug": "curve-dao-token"
   }
 }

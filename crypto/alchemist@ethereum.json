@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "alchemist",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 9131,
+    "slug": "alchemist"
   }
 }

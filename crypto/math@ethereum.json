@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "math",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 5616,
+    "slug": "math"
   }
 }

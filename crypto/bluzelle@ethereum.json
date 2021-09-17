@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "bluzelle",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 2505,
+    "slug": "bluzelle"
   }
 }

@@ -14,5 +14,9 @@
   "coingecko": {
     "id": "nexo",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 2694,
+    "slug": "nexo"
   }
 }

@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "badger-dao",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 7859,
+    "slug": "badger-dao"
   }
 }

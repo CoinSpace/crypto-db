@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "carry",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 3946,
+    "slug": "carry"
   }
 }

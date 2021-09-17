@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "zilliqa",
     "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 2469,
+    "slug": "zilliqa"
   }
 }

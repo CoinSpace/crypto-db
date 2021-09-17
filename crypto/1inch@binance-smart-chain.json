@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "1inch",
     "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 8104,
+    "slug": "1inch"
   }
 }

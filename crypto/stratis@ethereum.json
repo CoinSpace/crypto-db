@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "stratis",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 1343,
+    "slug": "stratis"
   }
 }

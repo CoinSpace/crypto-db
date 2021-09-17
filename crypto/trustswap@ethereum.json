@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "trustswap",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 5829,
+    "slug": "trustswap"
   }
 }

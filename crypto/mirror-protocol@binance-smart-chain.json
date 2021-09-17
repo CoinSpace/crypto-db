@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "mirror-protocol",
     "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 7857,
+    "slug": "mirror-protocol"
   }
 }

@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "melon",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 1552,
+    "slug": "enzyme"
   }
 }

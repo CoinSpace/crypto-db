@@ -13,5 +13,9 @@
   },
   "coingecko": {
     "id": "aeternity"
+  },
+  "coinmarketcap": {
+    "id": 1700,
+    "slug": "aeternity"
   }
 }

@@ -13,5 +13,9 @@
   },
   "coingecko": {
     "id": "waltonchain"
+  },
+  "coinmarketcap": {
+    "id": 1925,
+    "slug": "waltonchain"
   }
 }

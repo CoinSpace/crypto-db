@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "dao-maker",
     "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 8420,
+    "slug": "dao-maker"
   }
 }

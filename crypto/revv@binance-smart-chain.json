@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "revv",
     "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 6993,
+    "slug": "revv"
   }
 }

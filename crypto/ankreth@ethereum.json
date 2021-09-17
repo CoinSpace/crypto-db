@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "ankreth",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 8100,
+    "slug": "ankreth"
   }
 }

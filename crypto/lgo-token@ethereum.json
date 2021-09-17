@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "legolas-exchange",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 2600,
+    "slug": "lgo-token"
   }
 }

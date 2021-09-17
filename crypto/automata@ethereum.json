@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "automata",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 10188,
+    "slug": "automata-network"
   }
 }

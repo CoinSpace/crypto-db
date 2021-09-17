@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "frax",
     "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 6952,
+    "slug": "frax"
   }
 }

@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "hunt-token",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 5380,
+    "slug": "hunt"
   }
 }

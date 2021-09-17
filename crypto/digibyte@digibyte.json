@@ -14,6 +14,10 @@
   "coingecko": {
     "id": "digibyte"
   },
+  "coinmarketcap": {
+    "id": 109,
+    "slug": "digibyte"
+  },
   "moonpay": {
     "id": "47a5dff6-9776-467b-a85e-634f8ffb4a36",
     "code": "dgb"

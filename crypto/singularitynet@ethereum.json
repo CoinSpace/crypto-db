@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "singularitynet",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 2424,
+    "slug": "singularitynet"
   }
 }

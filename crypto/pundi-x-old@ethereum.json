@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "pundi-x",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 2603,
+    "slug": "pundi-x"
   }
 }

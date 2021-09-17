@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "dydx",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 11156,
+    "slug": "dydx"
   }
 }

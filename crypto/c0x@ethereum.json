@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "compound-0x",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 5743,
+    "slug": "compound-0x"
   }
 }

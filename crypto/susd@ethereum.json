@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "nusd",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 2927,
+    "slug": "susd"
   }
 }

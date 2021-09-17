@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "ampleforth",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 4056,
+    "slug": "ampleforth"
   }
 }

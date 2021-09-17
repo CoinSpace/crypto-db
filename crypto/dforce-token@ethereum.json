@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "dforce-token",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 4758,
+    "slug": "dforce"
   }
 }

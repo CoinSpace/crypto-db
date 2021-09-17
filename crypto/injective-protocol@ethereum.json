@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "injective-protocol",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 7226,
+    "slug": "injective-protocol"
   }
 }

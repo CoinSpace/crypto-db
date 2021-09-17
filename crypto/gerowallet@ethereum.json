@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "gerowallet",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 9904,
+    "slug": "gerowallet"
   }
 }

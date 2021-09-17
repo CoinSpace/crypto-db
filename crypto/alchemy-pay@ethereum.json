@@ -14,5 +14,9 @@
   "coingecko": {
     "id": "alchemy-pay",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 6958,
+    "slug": "alchemy-pay"
   }
 }

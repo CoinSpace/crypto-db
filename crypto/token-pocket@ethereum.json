@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "token-pocket",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 5947,
+    "slug": "tokenpocket"
   }
 }

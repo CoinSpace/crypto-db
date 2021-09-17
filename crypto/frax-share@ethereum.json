@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "frax-share",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 6953,
+    "slug": "frax-share"
   }
 }

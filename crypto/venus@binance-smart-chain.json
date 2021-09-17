@@ -14,5 +14,9 @@
   "coingecko": {
     "id": "venus",
     "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 7288,
+    "slug": "venus"
   }
 }

@@ -13,5 +13,9 @@
   },
   "coingecko": {
     "id": "smartcash"
+  },
+  "coinmarketcap": {
+    "id": 1828,
+    "slug": "smartcash"
   }
 }

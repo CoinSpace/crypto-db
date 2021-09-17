@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "marlin",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 7497,
+    "slug": "marlin"
   }
 }

@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "compound-ether",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 5636,
+    "slug": "compound-ether"
   }
 }

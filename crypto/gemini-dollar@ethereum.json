@@ -14,5 +14,9 @@
   "coingecko": {
     "id": "gemini-dollar",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 3306,
+    "slug": "gemini-dollar"
   }
 }

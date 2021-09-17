@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "ethos",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 1817,
+    "slug": "voyager-token"
   }
 }

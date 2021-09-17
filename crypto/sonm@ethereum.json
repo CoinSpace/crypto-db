@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "sonm",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 9931,
+    "slug": "sonm-bep20"
   }
 }

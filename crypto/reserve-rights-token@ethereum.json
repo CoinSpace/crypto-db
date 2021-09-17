@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "reserve-rights-token",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 3964,
+    "slug": "reserve-rights"
   }
 }

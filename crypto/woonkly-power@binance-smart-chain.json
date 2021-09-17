@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "woonkly-power",
     "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 8937,
+    "slug": "woonkly-power"
   }
 }

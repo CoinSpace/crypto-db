@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "cobak-token",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 8107,
+    "slug": "cobak-token"
   }
 }

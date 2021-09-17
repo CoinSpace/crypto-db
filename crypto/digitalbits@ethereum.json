@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "digitalbits",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 4566,
+    "slug": "digitalbits"
   }
 }

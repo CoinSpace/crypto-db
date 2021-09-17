@@ -13,5 +13,9 @@
   },
   "coingecko": {
     "id": "internet-computer"
+  },
+  "coinmarketcap": {
+    "id": 8916,
+    "slug": "internet-computer"
   }
 }

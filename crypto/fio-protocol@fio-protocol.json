@@ -13,5 +13,9 @@
   },
   "coingecko": {
     "id": "fio-protocol"
+  },
+  "coinmarketcap": {
+    "id": 5865,
+    "slug": "fio-protocol"
   }
 }

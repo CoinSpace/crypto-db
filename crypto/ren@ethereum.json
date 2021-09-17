@@ -14,5 +14,9 @@
   "coingecko": {
     "id": "republic-protocol",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 2539,
+    "slug": "ren"
   }
 }

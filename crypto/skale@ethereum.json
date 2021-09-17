@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "skale",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 5691,
+    "slug": "skale-network"
   }
 }

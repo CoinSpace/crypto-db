@@ -14,5 +14,9 @@
   "coingecko": {
     "id": "numeraire",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 1732,
+    "slug": "numeraire"
   }
 }

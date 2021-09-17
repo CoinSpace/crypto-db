@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "morpheus-network",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 2763,
+    "slug": "morpheus-network"
   }
 }

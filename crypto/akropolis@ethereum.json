@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "akropolis",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 4134,
+    "slug": "akropolis"
   }
 }

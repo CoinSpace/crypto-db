@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "olympus",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 9067,
+    "slug": "olympus"
   }
 }

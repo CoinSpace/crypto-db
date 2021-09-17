@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "ankr",
     "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 3783,
+    "slug": "ankr"
   }
 }

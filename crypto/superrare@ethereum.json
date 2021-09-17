@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "superrare",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 11294,
+    "slug": "superrare"
   }
 }

@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "tether",
     "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 825,
+    "slug": "tether"
   }
 }

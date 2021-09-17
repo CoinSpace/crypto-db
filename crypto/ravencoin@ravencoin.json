@@ -14,6 +14,10 @@
   "coingecko": {
     "id": "ravencoin"
   },
+  "coinmarketcap": {
+    "id": 2577,
+    "slug": "ravencoin"
+  },
   "moonpay": {
     "id": "66523c65-91f2-478a-ab69-a6ee692fd690",
     "code": "rvn"

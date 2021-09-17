@@ -13,5 +13,9 @@
   },
   "coingecko": {
     "id": "theta-fuel"
+  },
+  "coinmarketcap": {
+    "id": 3822,
+    "slug": "theta-fuel"
   }
 }

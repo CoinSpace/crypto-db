@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "chainlink",
     "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 1975,
+    "slug": "chainlink"
   }
 }

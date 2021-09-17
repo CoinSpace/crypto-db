@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "wozx",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 7882,
+    "slug": "efforce"
   }
 }

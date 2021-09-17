@@ -14,5 +14,9 @@
   "coingecko": {
     "id": "1inch",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 8104,
+    "slug": "1inch"
   }
 }

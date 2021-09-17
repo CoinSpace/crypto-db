@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "litentry",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 6833,
+    "slug": "litentry"
   }
 }

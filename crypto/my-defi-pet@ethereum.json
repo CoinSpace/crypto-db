@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "my-defi-pet",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 9665,
+    "slug": "my-defi-pet"
   }
 }

@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "quark-chain",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 2840,
+    "slug": "quarkchain"
   }
 }

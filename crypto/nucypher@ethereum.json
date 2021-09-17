@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "nucypher",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 4761,
+    "slug": "nucypher"
   }
 }

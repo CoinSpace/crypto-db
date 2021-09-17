@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "neutrino",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 5068,
+    "slug": "neutrino-usd"
   }
 }

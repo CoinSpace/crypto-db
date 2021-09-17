@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "request-network",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 2071,
+    "slug": "request"
   }
 }

@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "loom-network",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 2588,
+    "slug": "loom-network"
   }
 }

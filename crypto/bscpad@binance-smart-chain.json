@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "bscpad",
     "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 8660,
+    "slug": "bscpad"
   }
 }

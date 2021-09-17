@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "atari",
     "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 7395,
+    "slug": "atari-token"
   }
 }

@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "funfair",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 1757,
+    "slug": "funtoken"
   }
 }

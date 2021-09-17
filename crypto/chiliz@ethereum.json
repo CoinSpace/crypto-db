@@ -15,6 +15,10 @@
     "id": "chiliz",
     "platform": "ethereum"
   },
+  "coinmarketcap": {
+    "id": 4066,
+    "slug": "chiliz"
+  },
   "moonpay": {
     "id": "014e820b-48f6-462b-ab9d-0241b48bd27a",
     "code": "chz"

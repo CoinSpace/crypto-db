@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "renbtc",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 5777,
+    "slug": "renbtc"
   }
 }

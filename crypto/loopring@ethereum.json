@@ -14,5 +14,9 @@
   "coingecko": {
     "id": "loopring",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 1934,
+    "slug": "loopring"
   }
 }

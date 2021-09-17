@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "keep-network",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 5566,
+    "slug": "keep-network"
   }
 }

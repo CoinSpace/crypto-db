@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "alpaca-finance",
     "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 8707,
+    "slug": "alpaca-finance"
   }
 }

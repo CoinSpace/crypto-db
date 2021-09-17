@@ -14,5 +14,9 @@
   "coingecko": {
     "id": "district0x",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 1856,
+    "slug": "district0x"
   }
 }

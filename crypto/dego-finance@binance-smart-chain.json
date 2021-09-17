@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "dego-finance",
     "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 7087,
+    "slug": "dego-finance"
   }
 }

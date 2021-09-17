@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "dawn-protocol",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 5618,
+    "slug": "dawn-protocol"
   }
 }

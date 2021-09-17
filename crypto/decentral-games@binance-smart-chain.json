@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "decentral-games",
     "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 7798,
+    "slug": "decentral-games"
   }
 }

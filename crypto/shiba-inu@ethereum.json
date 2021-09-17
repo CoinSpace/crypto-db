@@ -14,5 +14,9 @@
   "coingecko": {
     "id": "shiba-inu",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 5994,
+    "slug": "shiba-inu"
   }
 }

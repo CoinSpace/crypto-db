@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "covalent",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 7411,
+    "slug": "covalent"
   }
 }

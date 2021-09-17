@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "kirobo",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 7276,
+    "slug": "kirobo"
   }
 }

@@ -13,5 +13,9 @@
   },
   "coingecko": {
     "id": "decred"
+  },
+  "coinmarketcap": {
+    "id": 1168,
+    "slug": "decred"
   }
 }

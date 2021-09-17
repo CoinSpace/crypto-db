@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "mcdex",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 5956,
+    "slug": "mcdex"
   }
 }

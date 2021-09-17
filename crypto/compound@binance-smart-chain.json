@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "compound-governance-token",
     "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 3180,
+    "slug": "compound-coin"
   }
 }

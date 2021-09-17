@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "compound-uniswap",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 7308,
+    "slug": "compound-uniswap"
   }
 }

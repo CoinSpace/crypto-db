@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "vectorspace",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 4441,
+    "slug": "vectorspace-ai"
   }
 }

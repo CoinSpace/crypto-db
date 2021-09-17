@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "rari-governance-token",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 7486,
+    "slug": "rari-governance-token"
   }
 }

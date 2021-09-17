@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "dai",
     "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 4943,
+    "slug": "multi-collateral-dai"
   }
 }

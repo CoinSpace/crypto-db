@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "cardstarter",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 9047,
+    "slug": "card-starter"
   }
 }

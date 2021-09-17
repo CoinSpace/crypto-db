@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "strong",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 6511,
+    "slug": "strong"
   }
 }

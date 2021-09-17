@@ -14,5 +14,9 @@
   "coingecko": {
     "id": "gnosis",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 1659,
+    "slug": "gnosis-gno"
   }
 }

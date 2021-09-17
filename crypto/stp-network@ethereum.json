@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "stp-network",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 4006,
+    "slug": "standard-tokenization-protocol"
   }
 }

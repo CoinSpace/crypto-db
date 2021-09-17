@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "polkastarter",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 7208,
+    "slug": "polkastarter"
   }
 }

@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "ptokens-btc",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 5434,
+    "slug": "ptokens-btc"
   }
 }

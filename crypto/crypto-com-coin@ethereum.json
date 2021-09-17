@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "crypto-com-chain",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 3635,
+    "slug": "crypto-com-coin"
   }
 }

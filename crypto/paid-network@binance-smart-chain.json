@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "paid-network",
     "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 8329,
+    "slug": "paid-network"
   }
 }

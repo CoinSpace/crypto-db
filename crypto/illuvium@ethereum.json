@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "illuvium",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 8719,
+    "slug": "illuvium"
   }
 }

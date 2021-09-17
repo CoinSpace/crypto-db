@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "aelf",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 2299,
+    "slug": "aelf"
   }
 }

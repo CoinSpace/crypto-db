@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "velas",
     "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 4747,
+    "slug": "velas"
   }
 }

@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "everipedia",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 2930,
+    "slug": "everipedia"
   }
 }

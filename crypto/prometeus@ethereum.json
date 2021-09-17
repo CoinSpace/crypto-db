@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "prometeus",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 4120,
+    "slug": "prometeus"
   }
 }

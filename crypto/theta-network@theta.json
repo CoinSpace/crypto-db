@@ -13,5 +13,9 @@
   },
   "coingecko": {
     "id": "theta-token"
+  },
+  "coinmarketcap": {
+    "id": 2416,
+    "slug": "theta"
   }
 }

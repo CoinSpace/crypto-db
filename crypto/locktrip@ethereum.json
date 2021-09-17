@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "lockchain",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 2287,
+    "slug": "lockchain"
   }
 }

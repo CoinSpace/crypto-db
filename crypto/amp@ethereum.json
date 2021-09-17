@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "amp-token",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 6945,
+    "slug": "amp"
   }
 }

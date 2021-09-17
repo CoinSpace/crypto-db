@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "gala",
     "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 7080,
+    "slug": "gala"
   }
 }

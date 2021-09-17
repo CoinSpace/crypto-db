@@ -14,5 +14,9 @@
   "coingecko": {
     "id": "sushi",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 6758,
+    "slug": "sushiswap"
   }
 }

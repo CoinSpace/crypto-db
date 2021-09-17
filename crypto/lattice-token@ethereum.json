@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "lattice-token",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 7616,
+    "slug": "lattice-token"
   }
 }

@@ -14,5 +14,9 @@
   "coingecko": {
     "id": "pancakeswap-token",
     "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 7186,
+    "slug": "pancakeswap"
   }
 }

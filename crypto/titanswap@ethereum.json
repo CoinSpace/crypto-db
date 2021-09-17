@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "titanswap",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 7206,
+    "slug": "titanswap"
   }
 }

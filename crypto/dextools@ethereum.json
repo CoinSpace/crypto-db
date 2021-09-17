@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "dextools",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 5866,
+    "slug": "dextools"
   }
 }

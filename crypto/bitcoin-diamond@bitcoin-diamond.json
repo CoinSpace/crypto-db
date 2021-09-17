@@ -13,5 +13,9 @@
   },
   "coingecko": {
     "id": "bitcoin-diamond"
+  },
+  "coinmarketcap": {
+    "id": 2222,
+    "slug": "bitcoin-diamond"
   }
 }

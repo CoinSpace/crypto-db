@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "linear",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 7102,
+    "slug": "linear"
   }
 }

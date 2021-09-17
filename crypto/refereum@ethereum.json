@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "refereum",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 2553,
+    "slug": "refereum"
   }
 }

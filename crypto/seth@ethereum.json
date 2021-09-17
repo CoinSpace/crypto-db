@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "seth",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 2555,
+    "slug": "sether"
   }
 }

@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "insure",
     "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 5113,
+    "slug": "insure"
   }
 }

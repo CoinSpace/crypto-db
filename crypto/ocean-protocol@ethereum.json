@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "ocean-protocol",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 3911,
+    "slug": "ocean-protocol"
   }
 }

@@ -14,5 +14,9 @@
   "coingecko": {
     "id": "bancor",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 1727,
+    "slug": "bancor"
   }
 }

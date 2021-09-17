@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "kleros",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 3581,
+    "slug": "kleros"
   }
 }

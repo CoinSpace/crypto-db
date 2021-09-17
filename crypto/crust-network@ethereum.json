@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "crust-network",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 6747,
+    "slug": "crustnetwork"
   }
 }

@@ -13,5 +13,9 @@
   },
   "coingecko": {
     "id": "ark"
+  },
+  "coinmarketcap": {
+    "id": 1586,
+    "slug": "ark"
   }
 }

@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "xyo-network",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 2765,
+    "slug": "xyo"
   }
 }

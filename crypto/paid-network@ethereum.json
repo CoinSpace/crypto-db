@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "paid-network",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 8329,
+    "slug": "paid-network"
   }
 }

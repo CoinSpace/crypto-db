@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "nxm",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 5830,
+    "slug": "nxm"
   }
 }

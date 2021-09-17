@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "shyft-network-2",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 8917,
+    "slug": "shyft-network"
   }
 }

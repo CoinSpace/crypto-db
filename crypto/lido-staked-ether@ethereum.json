@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "staked-ether",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 8085,
+    "slug": "steth"
   }
 }

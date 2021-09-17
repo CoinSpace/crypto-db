@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "sora",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 5802,
+    "slug": "sora"
   }
 }

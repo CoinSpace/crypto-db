@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "noia-network",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 4191,
+    "slug": "syntropy"
   }
 }

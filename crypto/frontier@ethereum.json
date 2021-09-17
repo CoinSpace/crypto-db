@@ -14,5 +14,9 @@
   "coingecko": {
     "id": "frontier-token",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 5893,
+    "slug": "frontier"
   }
 }

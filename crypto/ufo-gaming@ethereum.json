@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "ufo-gaming",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 10729,
+    "slug": "ufo-gaming"
   }
 }

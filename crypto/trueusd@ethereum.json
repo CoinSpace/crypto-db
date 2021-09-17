@@ -15,6 +15,10 @@
     "id": "true-usd",
     "platform": "ethereum"
   },
+  "coinmarketcap": {
+    "id": 2563,
+    "slug": "trueusd"
+  },
   "moonpay": {
     "id": "6e1400ae-8aa0-42be-9b4a-fb661aaf649c",
     "code": "tusd"

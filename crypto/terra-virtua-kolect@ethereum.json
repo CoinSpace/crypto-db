@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "terra-virtua-kolect",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 8037,
+    "slug": "terra-virtua-kolect"
   }
 }

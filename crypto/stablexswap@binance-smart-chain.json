@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "stablexswap",
     "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 7502,
+    "slug": "stablexswap"
   }
 }

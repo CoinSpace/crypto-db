@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "ankr",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 3783,
+    "slug": "ankr"
   }
 }

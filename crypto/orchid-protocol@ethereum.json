@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "orchid-protocol",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 5026,
+    "slug": "orchid"
   }
 }

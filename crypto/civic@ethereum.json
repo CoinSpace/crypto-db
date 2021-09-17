@@ -14,5 +14,9 @@
   "coingecko": {
     "id": "civic",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 1816,
+    "slug": "civic"
   }
 }

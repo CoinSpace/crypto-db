@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "sbtc",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 5764,
+    "slug": "sbtc"
   }
 }

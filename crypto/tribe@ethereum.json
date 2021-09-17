@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "tribe-2",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 9025,
+    "slug": "tribe"
   }
 }

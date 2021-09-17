@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "orion-protocol",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 5631,
+    "slug": "orion-protocol"
   }
 }

@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "bella-protocol",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 6928,
+    "slug": "bella-protocol"
   }
 }

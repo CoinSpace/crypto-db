@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "usd-coin",
     "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 3408,
+    "slug": "usd-coin"
   }
 }

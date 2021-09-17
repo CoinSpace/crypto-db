@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "shopping-io",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 8161,
+    "slug": "shopping"
   }
 }

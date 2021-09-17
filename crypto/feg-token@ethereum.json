@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "feg-token",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 8397,
+    "slug": "fegtoken"
   }
 }

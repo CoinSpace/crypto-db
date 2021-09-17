@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "bzx-protocol",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 5810,
+    "slug": "bzx-protocol"
   }
 }

@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "iexec-rlc",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 1637,
+    "slug": "rlc"
   }
 }

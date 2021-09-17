@@ -13,5 +13,9 @@
   },
   "coingecko": {
     "id": "kusama"
+  },
+  "coinmarketcap": {
+    "id": 5034,
+    "slug": "kusama"
   }
 }

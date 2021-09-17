@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "dia-data",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 6138,
+    "slug": "dia"
   }
 }

@@ -15,6 +15,10 @@
     "id": "decentraland",
     "platform": "ethereum"
   },
+  "coinmarketcap": {
+    "id": 1966,
+    "slug": "decentraland"
+  },
   "moonpay": {
     "id": "32376ac6-6f01-4861-9ea4-2a84e983ddab",
     "code": "mana"

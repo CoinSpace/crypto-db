@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "tellor",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 4944,
+    "slug": "tellor"
   }
 }

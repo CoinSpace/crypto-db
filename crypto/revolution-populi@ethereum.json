@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "revolution-populi",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 9277,
+    "slug": "revolution-populi"
   }
 }

@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "anchor-protocol",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 8857,
+    "slug": "anchor-protocol"
   }
 }

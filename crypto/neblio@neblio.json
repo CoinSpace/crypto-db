@@ -13,5 +13,9 @@
   },
   "coingecko": {
     "id": "neblio"
+  },
+  "coinmarketcap": {
+    "id": 1955,
+    "slug": "neblio"
   }
 }

@@ -14,5 +14,9 @@
   "coingecko": {
     "id": "alpha-finance",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 7232,
+    "slug": "alpha-finance-lab"
   }
 }

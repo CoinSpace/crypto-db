@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "compound-usdt",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 5745,
+    "slug": "compound-usdt"
   }
 }

@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "parsiq",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 5410,
+    "slug": "parsiq"
   }
 }

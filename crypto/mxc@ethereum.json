@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "mxc",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 3628,
+    "slug": "mxc"
   }
 }

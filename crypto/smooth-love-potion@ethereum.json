@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "smooth-love-potion",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 5824,
+    "slug": "smooth-love-potion"
   }
 }

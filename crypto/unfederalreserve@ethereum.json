@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "unfederalreserve",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 7553,
+    "slug": "unfederalreserve"
   }
 }

@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "btse-token",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 5305,
+    "slug": "btse"
   }
 }

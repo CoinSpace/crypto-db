@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "gala",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 7080,
+    "slug": "gala"
   }
 }

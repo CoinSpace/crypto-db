@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "dvision-network",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 7590,
+    "slug": "dvision-network"
   }
 }

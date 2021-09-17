@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "barnbridge",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 7440,
+    "slug": "barnbridge"
   }
 }

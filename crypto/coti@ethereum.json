@@ -14,5 +14,9 @@
   "coingecko": {
     "id": "coti",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 3992,
+    "slug": "coti"
   }
 }

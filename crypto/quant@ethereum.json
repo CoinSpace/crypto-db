@@ -14,5 +14,9 @@
   "coingecko": {
     "id": "quant-network",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 3155,
+    "slug": "quant"
   }
 }

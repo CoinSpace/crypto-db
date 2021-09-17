@@ -10,5 +10,9 @@
   "supported": false,
   "coingecko": {
     "id": "near"
+  },
+  "coinmarketcap": {
+    "id": 6535,
+    "slug": "near-protocol"
   }
 }

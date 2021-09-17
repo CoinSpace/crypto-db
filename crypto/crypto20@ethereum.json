@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "crypto20",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 2444,
+    "slug": "c20"
   }
 }

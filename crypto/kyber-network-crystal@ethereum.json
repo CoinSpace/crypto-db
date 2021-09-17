@@ -14,5 +14,9 @@
   "coingecko": {
     "id": "kyber-network-crystal",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 9444,
+    "slug": "kyber-network-crystal-v2"
   }
 }

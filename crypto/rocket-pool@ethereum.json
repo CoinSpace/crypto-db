@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "rocket-pool",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 2943,
+    "slug": "rocket-pool"
   }
 }

@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "coinmetro",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 4105,
+    "slug": "coinmetro-token"
   }
 }

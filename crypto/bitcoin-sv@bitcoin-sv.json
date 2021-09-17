@@ -12,5 +12,9 @@
   },
   "coingecko": {
     "id": "bitcoin-cash-sv"
+  },
+  "coinmarketcap": {
+    "id": 3602,
+    "slug": "bitcoin-sv"
   }
 }

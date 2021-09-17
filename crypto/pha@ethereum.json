@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "pha",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 6841,
+    "slug": "phala-network"
   }
 }

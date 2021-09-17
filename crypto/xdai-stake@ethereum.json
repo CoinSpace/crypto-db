@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "xdai-stake",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 5601,
+    "slug": "xdai"
   }
 }

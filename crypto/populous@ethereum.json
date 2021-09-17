@@ -14,5 +14,9 @@
   "coingecko": {
     "id": "populous",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 1789,
+    "slug": "populous"
   }
 }

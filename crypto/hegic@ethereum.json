@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "hegic",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 6929,
+    "slug": "hegic"
   }
 }

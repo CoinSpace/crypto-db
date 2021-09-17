@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "privateum",
     "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 9586,
+    "slug": "privateum-initiative"
   }
 }

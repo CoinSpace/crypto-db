@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "livepeer",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 3640,
+    "slug": "livepeer"
   }
 }

@@ -13,5 +13,9 @@
   },
   "coingecko": {
     "id": "harmony"
+  },
+  "coinmarketcap": {
+    "id": 3945,
+    "slug": "harmony"
   }
 }

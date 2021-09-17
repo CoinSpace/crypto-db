@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "e-radix",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 7692,
+    "slug": "radix"
   }
 }

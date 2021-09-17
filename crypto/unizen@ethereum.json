@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "unizen",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 9263,
+    "slug": "unizen"
   }
 }

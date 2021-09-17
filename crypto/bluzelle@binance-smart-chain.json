@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "bluzelle",
     "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 2505,
+    "slug": "bluzelle"
   }
 }

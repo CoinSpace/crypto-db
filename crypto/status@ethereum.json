@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "status",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 1759,
+    "slug": "status"
   }
 }

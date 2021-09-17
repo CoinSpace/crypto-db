@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "orbs",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 3835,
+    "slug": "orbs"
   }
 }

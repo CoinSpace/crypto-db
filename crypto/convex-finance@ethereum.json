@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "convex-finance",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 9903,
+    "slug": "convex-finance"
   }
 }

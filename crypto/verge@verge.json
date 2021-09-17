@@ -13,5 +13,9 @@
   },
   "coingecko": {
     "id": "verge"
+  },
+  "coinmarketcap": {
+    "id": 693,
+    "slug": "verge"
   }
 }

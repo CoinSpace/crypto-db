@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "chromaway",
     "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 3978,
+    "slug": "chromia"
   }
 }

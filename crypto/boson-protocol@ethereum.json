@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "boson-protocol",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 8827,
+    "slug": "boson-protocol"
   }
 }

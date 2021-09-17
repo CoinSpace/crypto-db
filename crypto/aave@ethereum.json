@@ -15,6 +15,10 @@
     "id": "aave",
     "platform": "ethereum"
   },
+  "coinmarketcap": {
+    "id": 7278,
+    "slug": "aave"
+  },
   "moonpay": {
     "id": "3c28b499-2066-4890-8b58-79c52994362f",
     "code": "aave"

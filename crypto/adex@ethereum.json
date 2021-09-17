@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "adex",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 1768,
+    "slug": "adx-net"
   }
 }

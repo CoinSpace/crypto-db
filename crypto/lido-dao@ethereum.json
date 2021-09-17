@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "lido-dao",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 8000,
+    "slug": "lido-dao"
   }
 }

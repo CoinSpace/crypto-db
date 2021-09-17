@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "tokamak-network",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 6731,
+    "slug": "tokamak-network"
   }
 }

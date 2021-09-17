@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "apeswap-finance",
     "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 8497,
+    "slug": "apeswap-finance"
   }
 }

@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "auction",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 8602,
+    "slug": "bounce-token"
   }
 }

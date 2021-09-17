@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "kardiachain",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 5453,
+    "slug": "kardiachain"
   }
 }

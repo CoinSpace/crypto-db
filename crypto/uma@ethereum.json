@@ -14,5 +14,9 @@
   "coingecko": {
     "id": "uma",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 5617,
+    "slug": "uma"
   }
 }

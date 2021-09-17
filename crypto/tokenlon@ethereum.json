@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "tokenlon",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 8083,
+    "slug": "tokenlon-network-token"
   }
 }

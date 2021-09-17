@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "allianceblock",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 6957,
+    "slug": "allianceblock"
   }
 }

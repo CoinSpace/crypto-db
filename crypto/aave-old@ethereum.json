@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "ethlend",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 2239,
+    "slug": "aave-old"
   }
 }

@@ -14,5 +14,9 @@
   "coingecko": {
     "id": "telcoin",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 2394,
+    "slug": "telcoin"
   }
 }

@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "zero-collateral-dai",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 8192,
+    "slug": "zero-collateral-dai"
   }
 }

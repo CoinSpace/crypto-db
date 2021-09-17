@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "evolution-finance",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 9580,
+    "slug": "evolution-finance"
   }
 }

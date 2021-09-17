@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "gitcoin",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 10052,
+    "slug": "gitcoin"
   }
 }

@@ -14,5 +14,9 @@
   "coingecko": {
     "id": "ftx-token",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 4195,
+    "slug": "ftx-token"
   }
 }

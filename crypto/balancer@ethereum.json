@@ -14,5 +14,9 @@
   "coingecko": {
     "id": "balancer",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 5728,
+    "slug": "balancer"
   }
 }

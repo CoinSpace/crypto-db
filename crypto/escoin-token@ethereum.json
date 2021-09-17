@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "escoin-token",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 10312,
+    "slug": "escointoken"
   }
 }

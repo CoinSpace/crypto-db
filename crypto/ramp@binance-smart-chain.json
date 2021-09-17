@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "ramp",
     "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 7463,
+    "slug": "ramp"
   }
 }

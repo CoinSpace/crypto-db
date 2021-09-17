@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "alien-worlds",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 9119,
+    "slug": "alien-worlds"
   }
 }

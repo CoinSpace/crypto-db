@@ -14,5 +14,9 @@
   "coingecko": {
     "id": "augur",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 1104,
+    "slug": "augur"
   }
 }

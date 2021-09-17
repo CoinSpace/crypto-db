@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "unibright",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 2758,
+    "slug": "unibright"
   }
 }

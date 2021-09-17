@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "cvault-finance",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 7242,
+    "slug": "cvault-finance"
   }
 }

@@ -13,5 +13,9 @@
   },
   "coingecko": {
     "id": "zencash"
+  },
+  "coinmarketcap": {
+    "id": 1698,
+    "slug": "horizen"
   }
 }

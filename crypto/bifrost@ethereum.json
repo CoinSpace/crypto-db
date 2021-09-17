@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "bifrost",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 7817,
+    "slug": "bifrost"
   }
 }

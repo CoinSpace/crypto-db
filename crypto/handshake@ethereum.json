@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "handshake",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 5221,
+    "slug": "handshake"
   }
 }

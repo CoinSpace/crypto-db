@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "futureswap",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 8961,
+    "slug": "futureswap"
   }
 }

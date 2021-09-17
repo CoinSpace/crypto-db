@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "clover-finance",
     "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 8384,
+    "slug": "clover"
   }
 }

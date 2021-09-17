@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "kucoin-shares",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 2087,
+    "slug": "kucoin-token"
   }
 }

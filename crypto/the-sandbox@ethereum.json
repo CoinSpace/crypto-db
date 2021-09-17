@@ -15,6 +15,10 @@
     "id": "the-sandbox",
     "platform": "ethereum"
   },
+  "coinmarketcap": {
+    "id": 6210,
+    "slug": "the-sandbox"
+  },
   "moonpay": {
     "id": "614c5d2a-0b2f-464a-9569-3dcf0ca0342e",
     "code": "sand"

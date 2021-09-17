@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "vai",
     "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 7824,
+    "slug": "vai"
   }
 }

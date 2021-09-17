@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "terrausd",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 7129,
+    "slug": "terrausd"
   }
 }

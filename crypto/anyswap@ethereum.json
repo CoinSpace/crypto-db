@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "anyswap",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 5892,
+    "slug": "anyswap"
   }
 }

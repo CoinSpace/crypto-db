@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "verasity",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 3816,
+    "slug": "verasity"
   }
 }

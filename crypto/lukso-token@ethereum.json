@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "lukso-token",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 5625,
+    "slug": "lukso"
   }
 }

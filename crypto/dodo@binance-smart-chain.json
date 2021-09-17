@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "dodo",
     "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 7224,
+    "slug": "dodo"
   }
 }

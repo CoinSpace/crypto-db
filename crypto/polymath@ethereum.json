@@ -14,5 +14,9 @@
   "coingecko": {
     "id": "polymath",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 2496,
+    "slug": "polymath-network"
   }
 }

@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "cartesi",
     "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 5444,
+    "slug": "cartesi"
   }
 }

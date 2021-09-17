@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "nkn",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 2780,
+    "slug": "nkn"
   }
 }

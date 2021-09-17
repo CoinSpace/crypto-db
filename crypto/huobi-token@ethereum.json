@@ -14,5 +14,9 @@
   "coingecko": {
     "id": "huobi-token",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 2502,
+    "slug": "huobi-token"
   }
 }

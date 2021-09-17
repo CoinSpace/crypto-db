@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "flex-coin",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 5190,
+    "slug": "flex"
   }
 }

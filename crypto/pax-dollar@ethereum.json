@@ -14,5 +14,9 @@
   "coingecko": {
     "id": "paxos-standard",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 3330,
+    "slug": "paxos-standard"
   }
 }

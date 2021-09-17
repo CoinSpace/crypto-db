@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "compound-basic-attention-token",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 5742,
+    "slug": "compound-basic-attention-token"
   }
 }

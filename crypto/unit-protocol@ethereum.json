@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "unit-protocol",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 5890,
+    "slug": "unit-protocol"
   }
 }

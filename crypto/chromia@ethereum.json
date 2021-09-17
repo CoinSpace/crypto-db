@@ -14,5 +14,9 @@
   "coingecko": {
     "id": "chromaway",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 3978,
+    "slug": "chromia"
   }
 }

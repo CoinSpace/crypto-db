@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "yooshi",
     "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 9892,
+    "slug": "yooshi"
   }
 }

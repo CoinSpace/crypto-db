@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "mask-network",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 8536,
+    "slug": "mask-network"
   }
 }

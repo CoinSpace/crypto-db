@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "everipedia",
     "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 2930,
+    "slug": "everipedia"
   }
 }

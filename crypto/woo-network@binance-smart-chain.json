@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "woo-network",
     "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 7501,
+    "slug": "wootrade"
   }
 }

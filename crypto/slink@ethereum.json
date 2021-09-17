@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "slink",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 6190,
+    "slug": "slink"
   }
 }

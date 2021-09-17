@@ -13,5 +13,9 @@
   },
   "coingecko": {
     "id": "waves"
+  },
+  "coinmarketcap": {
+    "id": 1274,
+    "slug": "waves"
   }
 }

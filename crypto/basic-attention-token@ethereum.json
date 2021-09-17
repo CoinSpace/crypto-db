@@ -15,6 +15,10 @@
     "id": "basic-attention-token",
     "platform": "ethereum"
   },
+  "coinmarketcap": {
+    "id": 1697,
+    "slug": "basic-attention-token"
+  },
   "moonpay": {
     "id": "1faa158e-8433-4bae-bdb8-b5eb768f767d",
     "code": "bat"

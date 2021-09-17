@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "superfarm",
     "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 8290,
+    "slug": "superfarm"
   }
 }

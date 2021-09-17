@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "wrapped-centrifuge",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 10898,
+    "slug": "wrapped-centrifuge"
   }
 }

@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "rally-2",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 8075,
+    "slug": "rally"
   }
 }

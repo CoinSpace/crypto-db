@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "dogecoin",
     "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 74,
+    "slug": "dogecoin"
   }
 }

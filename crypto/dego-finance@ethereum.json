@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "dego-finance",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 7087,
+    "slug": "dego-finance"
   }
 }

@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "coin98",
     "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 10903,
+    "slug": "coin98"
   }
 }

@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "wrapped-nxm",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 5939,
+    "slug": "wrapped-nxm"
   }
 }

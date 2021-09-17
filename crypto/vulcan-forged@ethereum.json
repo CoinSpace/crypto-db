@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "vulcan-forged",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 9308,
+    "slug": "vulcan-forged-pyr"
   }
 }

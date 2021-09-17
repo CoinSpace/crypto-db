@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "ramp",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 7463,
+    "slug": "ramp"
   }
 }

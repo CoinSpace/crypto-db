@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "eden",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 7750,
+    "slug": "archer-dao-governance-token"
   }
 }

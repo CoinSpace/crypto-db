@@ -13,5 +13,9 @@
   },
   "coingecko": {
     "id": "bitcoin-gold"
+  },
+  "coinmarketcap": {
+    "id": 2083,
+    "slug": "bitcoin-gold"
   }
 }

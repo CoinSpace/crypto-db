@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "aurora-dao",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 3928,
+    "slug": "idex"
   }
 }

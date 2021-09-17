@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "asd",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 3673,
+    "slug": "bitmax-token"
   }
 }

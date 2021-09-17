@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "keep3rv1",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 7535,
+    "slug": "keep3rv1"
   }
 }

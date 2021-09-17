@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "fei-protocol",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 8642,
+    "slug": "fei-protocol"
   }
 }

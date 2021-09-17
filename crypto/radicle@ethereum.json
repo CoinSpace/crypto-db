@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "radicle",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 6843,
+    "slug": "radicle"
   }
 }

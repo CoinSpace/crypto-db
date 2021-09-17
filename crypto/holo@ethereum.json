@@ -14,5 +14,9 @@
   "coingecko": {
     "id": "holotoken",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 2682,
+    "slug": "holo"
   }
 }

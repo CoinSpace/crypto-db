@@ -15,6 +15,10 @@
     "id": "matic-network",
     "platform": "ethereum"
   },
+  "coinmarketcap": {
+    "id": 3890,
+    "slug": "polygon"
+  },
   "moonpay": {
     "id": "b1f332ac-0cf8-421d-9ce5-1f6934ebca26",
     "code": "matic"

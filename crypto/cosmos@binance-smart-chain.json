@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "cosmos",
     "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 3794,
+    "slug": "cosmos"
   }
 }

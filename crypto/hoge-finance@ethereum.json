@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "hoge-finance",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 8438,
+    "slug": "hoge-finance"
   }
 }

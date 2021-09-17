@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "xcad-network",
     "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 9868,
+    "slug": "xcad-network"
   }
 }

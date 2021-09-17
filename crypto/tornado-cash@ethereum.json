@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "tornado-cash",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 8049,
+    "slug": "torn"
   }
 }

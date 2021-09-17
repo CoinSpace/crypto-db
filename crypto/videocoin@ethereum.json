@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "videocoin",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 4300,
+    "slug": "videocoin"
   }
 }

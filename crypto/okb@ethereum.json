@@ -12,6 +12,10 @@
     "id": "okb",
     "platform": "ethereum"
   },
+  "coinmarketcap": {
+    "id": 3897,
+    "slug": "okb"
+  },
   "moonpay": {
     "id": "f3751fcc-7864-489b-80ca-4fc372b0dab1",
     "code": "okb"

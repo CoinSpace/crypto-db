@@ -16,6 +16,10 @@
     "id": "bittorrent-2",
     "platform": "tron"
   },
+  "coinmarketcap": {
+    "id": 3718,
+    "slug": "bittorrent"
+  },
   "moonpay": {
     "id": "3654a6ef-c1c6-49d7-9cc7-1def63fe0334",
     "code": "btt"

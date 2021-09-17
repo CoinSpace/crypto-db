@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "parsiq",
     "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 5410,
+    "slug": "parsiq"
   }
 }

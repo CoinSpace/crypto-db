@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "mx-token",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 4041,
+    "slug": "mx-token"
   }
 }

@@ -10,6 +10,10 @@
   "coingecko": {
     "id": "binance-usd"
   },
+  "coinmarketcap": {
+    "id": 4687,
+    "slug": "binance-usd"
+  },
   "moonpay": {
     "id": "15ac801e-2804-44f0-aea3-fd19dafbba48",
     "code": "busd"

@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "stakehound-staked-ether",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 8311,
+    "slug": "stakehound-staked-ether"
   }
 }

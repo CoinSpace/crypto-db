@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "tether-gold",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 5176,
+    "slug": "tether-gold"
   }
 }

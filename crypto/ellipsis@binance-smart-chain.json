@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "ellipsis",
     "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 8938,
+    "slug": "ellipsis"
   }
 }

@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "thorstarter",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 10260,
+    "slug": "thorstarter"
   }
 }

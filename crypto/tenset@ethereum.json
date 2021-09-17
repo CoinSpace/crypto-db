@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "tenset",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 9089,
+    "slug": "tenset"
   }
 }

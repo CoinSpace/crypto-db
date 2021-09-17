@@ -14,6 +14,10 @@
   "coingecko": {
     "id": "vechain"
   },
+  "coinmarketcap": {
+    "id": 3077,
+    "slug": "vechain"
+  },
   "moonpay": {
     "id": "20643163-dc07-4fa7-aee0-d40c0e522f2a",
     "code": "vet"

@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "friends-with-benefits-pro",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 10090,
+    "slug": "friends-with-benefits-pro"
   }
 }

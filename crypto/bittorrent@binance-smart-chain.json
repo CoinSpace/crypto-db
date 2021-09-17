@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "bittorrent-2",
     "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 3718,
+    "slug": "bittorrent"
   }
 }

@@ -14,5 +14,9 @@
   "coingecko": {
     "id": "dent",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 1886,
+    "slug": "dent"
   }
 }

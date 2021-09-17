@@ -10,5 +10,9 @@
   "supported": false,
   "coingecko": {
     "id": "ong"
+  },
+  "coinmarketcap": {
+    "id": 3217,
+    "slug": "ontology-gas"
   }
 }

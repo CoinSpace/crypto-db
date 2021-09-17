@@ -15,6 +15,10 @@
     "id": "tether",
     "platform": "ethereum"
   },
+  "coinmarketcap": {
+    "id": 825,
+    "slug": "tether"
+  },
   "moonpay": {
     "id": "3693a9c0-7b24-4e48-a8a7-75021ad6e26a",
     "code": "usdt"

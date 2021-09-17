@@ -14,5 +14,9 @@
   "coingecko": {
     "id": "automata",
     "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 10188,
+    "slug": "automata-network"
   }
 }

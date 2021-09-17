@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "lgcy-network",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 6665,
+    "slug": "lgcy-network"
   }
 }

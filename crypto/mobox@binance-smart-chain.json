@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "mobox",
     "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 9175,
+    "slug": "mobox"
   }
 }

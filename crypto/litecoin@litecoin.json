@@ -13,6 +13,10 @@
   "coingecko": {
     "id": "litecoin"
   },
+  "coinmarketcap": {
+    "id": 2,
+    "slug": "litecoin"
+  },
   "moonpay": {
     "id": "84bf7e0f-0a16-4486-8ba7-e80edcf5331e",
     "code": "ltc"

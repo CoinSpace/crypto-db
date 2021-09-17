@@ -14,5 +14,9 @@
   "coingecko": {
     "id": "pax-gold",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 4705,
+    "slug": "pax-gold"
   }
 }

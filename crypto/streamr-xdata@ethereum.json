@@ -11,5 +11,9 @@
   "coingecko": {
     "id": "streamr-xdata",
     "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 2143,
+    "slug": "streamr"
   }
 }
