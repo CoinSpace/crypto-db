@@ -7,6 +7,7 @@
   "symbol": "BCH",
   "decimals": 8,
   "logo": "bitcoin-cash.svg",
+  "scheme": "bitcoincash",
   "changelly": {
     "ticker": "bch"
   },

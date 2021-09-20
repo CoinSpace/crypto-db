@@ -7,6 +7,7 @@
   "symbol": "LTC",
   "decimals": 8,
   "logo": "litecoin.svg",
+  "scheme": "litecoin",
   "changelly": {
     "ticker": "ltc"
   },
