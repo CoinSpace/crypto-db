@@ -1,6 +1,6 @@
 {
-  "_id": "binance-smart-chain@binance-smart-chain",
-  "asset": "binance-smart-chain",
+  "_id": "binance-coin@binance-smart-chain",
+  "asset": "binance-coin",
   "platform": "binance-smart-chain",
   "type": "coin",
   "name": "Binance Smart Chain",

@@ -1,6 +1,6 @@
 {
-  "_id": "binance-chain@binance-chain",
-  "asset": "binance-chain",
+  "_id": "binance-coin@binance-chain",
+  "asset": "binance-coin",
   "platform": "binance-chain",
   "type": "coin",
   "name": "Binance Chain",
