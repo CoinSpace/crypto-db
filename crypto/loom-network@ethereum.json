@@ -3,7 +3,7 @@
   "asset": "loom-network",
   "platform": "ethereum",
   "type": "token",
-  "name": "Loom Network (OLD)",
+  "name": "Loom Network",
   "symbol": "LOOM",
   "address": "0x42476f744292107e34519f9c357927074ea3f75d",
   "decimals": 18,
