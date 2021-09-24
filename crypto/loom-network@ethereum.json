@@ -1,15 +1,15 @@
 {
-  "_id": "loom-network-old@ethereum",
-  "asset": "loom-network-old",
+  "_id": "loom-network@ethereum",
+  "asset": "loom-network",
   "platform": "ethereum",
   "type": "token",
   "name": "Loom Network (OLD)",
-  "symbol": "LOOMOLD",
-  "address": "0xa4e8c3ec456107ea67d3075bf9e3df3a75823db0",
+  "symbol": "LOOM",
+  "address": "0x42476f744292107e34519f9c357927074ea3f75d",
   "decimals": 18,
-  "logo": "loom-network-old.png",
+  "logo": "loom-network.png",
   "coingecko": {
-    "id": "loom-network",
+    "id": "loom-network-new",
     "platform": "ethereum"
   },
   "coinmarketcap": {

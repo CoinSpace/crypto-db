@@ -1,0 +1,19 @@
+{
+  "_id": "multivac@ethereum",
+  "asset": "multivac",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "MultiVAC",
+  "symbol": "MTV",
+  "address": "0x6226e00bcac68b0fe55583b90a1d727c14fab77f",
+  "decimals": 18,
+  "logo": "multivac.png",
+  "coingecko": {
+    "id": "multivac",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 3853,
+    "slug": "multivac"
+  }
+}

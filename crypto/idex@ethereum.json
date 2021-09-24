@@ -8,6 +8,9 @@
   "address": "0xb705268213d593b8fd88d3fdeff93aff5cbdcfae",
   "decimals": 18,
   "logo": "idex.svg",
+  "changelly": {
+    "ticker": "idex"
+  },
   "coingecko": {
     "id": "aurora-dao",
     "platform": "ethereum"
