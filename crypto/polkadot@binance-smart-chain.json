@@ -1,0 +1,19 @@
+{
+  "_id": "polkadot@binance-smart-chain",
+  "asset": "polkadot",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Polkadot",
+  "symbol": "DOT",
+  "address": "0x7083609fce4d1d8dc0c979aab8c869ea2c873402",
+  "decimals": 18,
+  "logo": "polkadot.svg",
+  "coingecko": {
+    "id": "polkadot",
+    "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 6636,
+    "slug": "polkadot-new"
+  }
+}
