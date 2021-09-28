@@ -5,11 +5,11 @@
   "type": "token",
   "name": "Dogecoin",
   "symbol": "DOGE",
-  "address": "0x4206931337dc273a630d328da6441786bfad668f",
+  "address": "0xba2ae424d960c26247dd6c32edc70b295c744c43",
   "decimals": 8,
   "logo": "dogecoin.svg",
   "coingecko": {
-    "id": "dogecoin",
+    "id": "binance-peg-dogecoin",
     "platform": "binance-smart-chain"
   },
   "coinmarketcap": {
