@@ -1,0 +1,19 @@
+{
+  "_id": "proton@binance-smart-chain",
+  "asset": "proton",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Proton",
+  "symbol": "XPR",
+  "address": "0x5de3939b2f811a61d830e6f52d13b066881412ab",
+  "decimals": 4,
+  "logo": "proton.png",
+  "coingecko": {
+    "id": "proton",
+    "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 5350,
+    "slug": "proton"
+  }
+}

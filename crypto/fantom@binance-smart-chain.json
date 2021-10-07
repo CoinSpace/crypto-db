@@ -1,0 +1,19 @@
+{
+  "_id": "fantom@binance-smart-chain",
+  "asset": "fantom",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Fantom",
+  "symbol": "FTM",
+  "address": "0xad29abb318791d579433d831ed122afeaf29dcfe",
+  "decimals": 18,
+  "logo": "fantom.svg",
+  "coingecko": {
+    "id": "fantom",
+    "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 3513,
+    "slug": "fantom"
+  }
+}

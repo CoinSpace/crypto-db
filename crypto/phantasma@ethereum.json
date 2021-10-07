@@ -1,0 +1,19 @@
+{
+  "_id": "phantasma@ethereum",
+  "asset": "phantasma",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Phantasma",
+  "symbol": "SOUL",
+  "address": "0x79c75e2e8720b39e258f41c37cc4f309e0b0ff80",
+  "decimals": 8,
+  "logo": "phantasma.png",
+  "coingecko": {
+    "id": "phantasma",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 2827,
+    "slug": "phantasma"
+  }
+}

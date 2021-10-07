@@ -1,0 +1,19 @@
+{
+  "_id": "alpha-quark-token@ethereum",
+  "asset": "alpha-quark-token",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Alpha Quark Token",
+  "symbol": "AQT",
+  "address": "0x2a9bdcff37ab68b95a53435adfd8892e86084f93",
+  "decimals": 18,
+  "logo": "alpha-quark-token.png",
+  "coingecko": {
+    "id": "alpha-quark-token",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 7460,
+    "slug": "alpha-quark-token"
+  }
+}

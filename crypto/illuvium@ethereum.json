@@ -8,6 +8,9 @@
   "address": "0x767fe9edc9e0df98e07454847909b5e959d7ca0e",
   "decimals": 18,
   "logo": "illuvium.jpg",
+  "changelly": {
+    "ticker": "ilv"
+  },
   "coingecko": {
     "id": "illuvium",
     "platform": "ethereum"

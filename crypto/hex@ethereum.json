@@ -1,0 +1,22 @@
+{
+  "_id": "hex@ethereum",
+  "asset": "hex",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "HEX",
+  "symbol": "HEX",
+  "address": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
+  "decimals": null,
+  "logo": "hex.png",
+  "changelly": {
+    "ticker": "hex"
+  },
+  "coingecko": {
+    "id": "hex",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 5015,
+    "slug": "hex"
+  }
+}

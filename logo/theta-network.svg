@@ -5,7 +5,7 @@
       <stop offset=".53" stop-color="#29cad2"/>
       <stop offset="1" stop-color="#2ee4be"/>
     </linearGradient>
-    <linearGradient id="b" x1="175.55" x2="258.18" y1="175.91" y2="258.54" xlink:href="#a"/>
+    <linearGradient xlink:href="#a" id="b" x1="175.55" x2="258.18" y1="175.91" y2="258.54"/>
   </defs>
   <path fill="#1b1f2b" d="M0 0h433v433H0z"/>
   <path fill="#1b1f2b" stroke="url(#a)" stroke-linejoin="bevel" stroke-width="27.222" d="M145.06 93.1h142.89v246.81H145.06z"/>

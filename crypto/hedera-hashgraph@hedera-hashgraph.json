@@ -3,7 +3,7 @@
   "asset": "hedera-hashgraph",
   "platform": "hedera-hashgraph",
   "type": "coin",
-  "name": "Hedera Hashgraph",
+  "name": "Hedera",
   "symbol": "HBAR",
   "decimals": null,
   "logo": "hedera-hashgraph.svg",

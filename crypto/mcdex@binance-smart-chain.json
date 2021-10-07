@@ -1,0 +1,19 @@
+{
+  "_id": "mcdex@binance-smart-chain",
+  "asset": "mcdex",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "MCDEX",
+  "symbol": "MCB",
+  "address": "0x5fe80d2cd054645b9419657d3d10d26391780a7b",
+  "decimals": 18,
+  "logo": "mcdex.png",
+  "coingecko": {
+    "id": "mcdex",
+    "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 5956,
+    "slug": "mcdex"
+  }
+}

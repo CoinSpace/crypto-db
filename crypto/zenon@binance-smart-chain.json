@@ -1,0 +1,19 @@
+{
+  "_id": "zenon@binance-smart-chain",
+  "asset": "zenon",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Zenon",
+  "symbol": "ZNN",
+  "address": "0x8a7ca49f42e5196c26bb00fa014352e5d065db4d",
+  "decimals": 8,
+  "logo": "zenon.jpg",
+  "coingecko": {
+    "id": "zenon",
+    "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 4003,
+    "slug": "zenon"
+  }
+}

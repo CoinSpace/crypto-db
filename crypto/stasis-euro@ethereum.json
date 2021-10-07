@@ -8,6 +8,9 @@
   "address": "0xdb25f211ab05b1c97d595516f45794528a807ad8",
   "decimals": 2,
   "logo": "stasis-euro.png",
+  "changelly": {
+    "ticker": "eurs"
+  },
   "coingecko": {
     "id": "stasis-eurs",
     "platform": "ethereum"

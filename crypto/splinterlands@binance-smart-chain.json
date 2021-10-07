@@ -1,0 +1,19 @@
+{
+  "_id": "splinterlands@binance-smart-chain",
+  "asset": "splinterlands",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Splinterlands",
+  "symbol": "SPS",
+  "address": "0x1633b7157e7638c4d6593436111bf125ee74703f",
+  "decimals": 18,
+  "logo": "splinterlands.png",
+  "coingecko": {
+    "id": "splinterlands",
+    "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 11035,
+    "slug": "splinterlands"
+  }
+}
