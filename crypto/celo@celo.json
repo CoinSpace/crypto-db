@@ -1,0 +1,21 @@
+{
+  "_id": "celo@celo",
+  "asset": "celo",
+  "platform": "celo",
+  "type": "coin",
+  "name": "Celo",
+  "symbol": "CELO",
+  "decimals": null,
+  "logo": "celo.png",
+  "supported": false,
+  "changelly": {
+    "ticker": "celo"
+  },
+  "coingecko": {
+    "id": "celo"
+  },
+  "coinmarketcap": {
+    "id": 5567,
+    "slug": "celo"
+  }
+}

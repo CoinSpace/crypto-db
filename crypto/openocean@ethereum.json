@@ -1,0 +1,19 @@
+{
+  "_id": "openocean@ethereum",
+  "asset": "openocean",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "OpenOcean",
+  "symbol": "OOE",
+  "address": "0x7778360f035c589fce2f4ea5786cbd8b36e5396b",
+  "decimals": 18,
+  "logo": "openocean.png",
+  "coingecko": {
+    "id": "openocean",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 9938,
+    "slug": "openocean"
+  }
+}

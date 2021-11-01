@@ -1,0 +1,22 @@
+{
+  "_id": "vidt-datalink@ethereum",
+  "asset": "vidt-datalink",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "VIDT Datalink",
+  "symbol": "VIDT",
+  "address": "0xfef4185594457050cc9c23980d301908fe057bb1",
+  "decimals": 18,
+  "logo": "vidt-datalink.png",
+  "changelly": {
+    "ticker": "vidt"
+  },
+  "coingecko": {
+    "id": "v-id-blockchain",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 3845,
+    "slug": "vidt-datalink"
+  }
+}

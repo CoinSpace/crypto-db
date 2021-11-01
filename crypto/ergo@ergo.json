@@ -1,0 +1,21 @@
+{
+  "_id": "ergo@ergo",
+  "asset": "ergo",
+  "platform": "ergo",
+  "type": "coin",
+  "name": "Ergo",
+  "symbol": "ERG",
+  "decimals": null,
+  "logo": "ergo.png",
+  "supported": false,
+  "changelly": {
+    "ticker": "erg"
+  },
+  "coingecko": {
+    "id": "ergo"
+  },
+  "coinmarketcap": {
+    "id": 1762,
+    "slug": "ergo"
+  }
+}

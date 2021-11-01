@@ -1,0 +1,22 @@
+{
+  "_id": "levolution@ethereum",
+  "asset": "levolution",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Levolution",
+  "symbol": "LEVL",
+  "address": "0x09970aec766b6f3223aca9111555e99dc50ff13a",
+  "decimals": 18,
+  "logo": "levolution.png",
+  "changelly": {
+    "ticker": "levl"
+  },
+  "coingecko": {
+    "id": "levolution",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 4173,
+    "slug": "levolution"
+  }
+}

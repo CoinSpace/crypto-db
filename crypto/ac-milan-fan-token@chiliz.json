@@ -1,0 +1,23 @@
+{
+  "_id": "ac-milan-fan-token@chiliz",
+  "asset": "ac-milan-fan-token",
+  "platform": "chiliz",
+  "type": "token",
+  "name": "AC Milan Fan Token",
+  "symbol": "ACM",
+  "address": "0xea6a3e367e96521fd9e8296425a44efa6aee82da",
+  "decimals": null,
+  "logo": "ac-milan-fan-token.png",
+  "supported": false,
+  "changelly": {
+    "ticker": "acm"
+  },
+  "coingecko": {
+    "id": "ac-milan-fan-token",
+    "platform": "chiliz"
+  },
+  "coinmarketcap": {
+    "id": 8538,
+    "slug": "ac-milan-fan-token"
+  }
+}

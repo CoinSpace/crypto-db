@@ -1,0 +1,21 @@
+{
+  "_id": "energi@energi",
+  "asset": "energi",
+  "platform": "energi",
+  "type": "coin",
+  "name": "Energi",
+  "symbol": "NRG",
+  "decimals": null,
+  "logo": "energi.png",
+  "supported": false,
+  "changelly": {
+    "ticker": "nrg"
+  },
+  "coingecko": {
+    "id": "energi"
+  },
+  "coinmarketcap": {
+    "id": 3218,
+    "slug": "energi"
+  }
+}

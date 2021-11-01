@@ -1,0 +1,19 @@
+{
+  "_id": "xsgd@ethereum",
+  "asset": "xsgd",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "XSGD",
+  "symbol": "XSGD",
+  "address": "0x70e8de73ce538da2beed35d14187f6959a8eca96",
+  "decimals": 6,
+  "logo": "xsgd.png",
+  "coingecko": {
+    "id": "xsgd",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 8489,
+    "slug": "xsgd"
+  }
+}

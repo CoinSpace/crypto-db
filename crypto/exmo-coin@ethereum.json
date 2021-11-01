@@ -1,0 +1,22 @@
+{
+  "_id": "exmo-coin@ethereum",
+  "asset": "exmo-coin",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "EXMO Coin",
+  "symbol": "EXM",
+  "address": "0x83869de76b9ad8125e22b857f519f001588c0f62",
+  "decimals": 8,
+  "logo": "exmo-coin.png",
+  "changelly": {
+    "ticker": "exm"
+  },
+  "coingecko": {
+    "id": "exmo-coin",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 4974,
+    "slug": "exmo-coin"
+  }
+}

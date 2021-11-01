@@ -1,0 +1,22 @@
+{
+  "_id": "braintrust@ethereum",
+  "asset": "braintrust",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Braintrust",
+  "symbol": "BTRST",
+  "address": "0x799ebfabe77a6e34311eeee9825190b9ece32824",
+  "decimals": 18,
+  "logo": "braintrust.png",
+  "changelly": {
+    "ticker": "btrst"
+  },
+  "coingecko": {
+    "id": "braintrust",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 11584,
+    "slug": "braintrust"
+  }
+}

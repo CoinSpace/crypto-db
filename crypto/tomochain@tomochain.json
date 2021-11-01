@@ -1,0 +1,21 @@
+{
+  "_id": "tomochain@tomochain",
+  "asset": "tomochain",
+  "platform": "tomochain",
+  "type": "coin",
+  "name": "TomoChain",
+  "symbol": "TOMO",
+  "decimals": null,
+  "logo": "tomochain.svg",
+  "supported": false,
+  "changelly": {
+    "ticker": "tomo"
+  },
+  "coingecko": {
+    "id": "tomochain"
+  },
+  "coinmarketcap": {
+    "id": 2570,
+    "slug": "tomochain"
+  }
+}

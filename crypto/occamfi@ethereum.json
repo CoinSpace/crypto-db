@@ -1,0 +1,22 @@
+{
+  "_id": "occamfi@ethereum",
+  "asset": "occamfi",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Occam.Fi",
+  "symbol": "OCC",
+  "address": "0x2f109021afe75b949429fe30523ee7c0d5b27207",
+  "decimals": 18,
+  "logo": "occamfi.png",
+  "changelly": {
+    "ticker": "occ"
+  },
+  "coingecko": {
+    "id": "occamfi",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 9191,
+    "slug": "occamfi"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "_id": "pumapay@ethereum",
+  "asset": "pumapay",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "PumaPay",
+  "symbol": "PMA",
+  "address": "0x846c66cf71c43f80403b51fe3906b3599d63336f",
+  "decimals": 18,
+  "logo": "pumapay.svg",
+  "changelly": {
+    "ticker": "pma"
+  },
+  "coingecko": {
+    "id": "pumapay",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 3164,
+    "slug": "pumapay"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "_id": "wabi@ethereum",
+  "asset": "wabi",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Wabi",
+  "symbol": "WABI",
+  "address": "0x286bda1413a2df81731d4930ce2f862a35a609fe",
+  "decimals": 18,
+  "logo": "wabi.png",
+  "changelly": {
+    "ticker": "wabi"
+  },
+  "coingecko": {
+    "id": "wabi",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 2267,
+    "slug": "wabi"
+  }
+}

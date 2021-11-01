@@ -1,0 +1,22 @@
+{
+  "_id": "wliti@ethereum",
+  "asset": "wliti",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Liti Capital",
+  "symbol": "WLITI",
+  "address": "0x0b63128c40737b13647552e0c926bcfeccc35f93",
+  "decimals": 18,
+  "logo": "wliti.png",
+  "changelly": {
+    "ticker": "wliti"
+  },
+  "coingecko": {
+    "id": "wliti",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 10740,
+    "slug": "liti-capital"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "hive@hive",
+  "asset": "hive",
+  "platform": "hive",
+  "type": "coin",
+  "name": "Hive",
+  "symbol": "HIVE",
+  "decimals": null,
+  "logo": "hive.png",
+  "supported": false,
+  "changelly": {
+    "ticker": "hive"
+  },
+  "coingecko": {
+    "id": "hive"
+  },
+  "coinmarketcap": {
+    "id": 5370,
+    "slug": "hive-blockchain"
+  }
+}

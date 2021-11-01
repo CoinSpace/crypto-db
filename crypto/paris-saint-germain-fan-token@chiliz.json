@@ -1,0 +1,23 @@
+{
+  "_id": "paris-saint-germain-fan-token@chiliz",
+  "asset": "paris-saint-germain-fan-token",
+  "platform": "chiliz",
+  "type": "token",
+  "name": "Paris Saint-Germain Fan Token",
+  "symbol": "PSG",
+  "address": "0x6fc212cde3b420733a88496cbdbb15d85beab1ca",
+  "decimals": null,
+  "logo": "paris-saint-germain-fan-token.png",
+  "supported": false,
+  "changelly": {
+    "ticker": "psg"
+  },
+  "coingecko": {
+    "id": "paris-saint-germain-fan-token",
+    "platform": "chiliz"
+  },
+  "coinmarketcap": {
+    "id": 5226,
+    "slug": "paris-saint-germain-fan-token"
+  }
+}

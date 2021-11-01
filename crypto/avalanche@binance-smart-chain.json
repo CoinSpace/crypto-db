@@ -1,0 +1,19 @@
+{
+  "_id": "avalanche@binance-smart-chain",
+  "asset": "avalanche",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Avalanche",
+  "symbol": "AVAX",
+  "address": "0x1ce0c2827e2ef14d5c4f29a091d735a204794041",
+  "decimals": 18,
+  "logo": "avalanche.png",
+  "coingecko": {
+    "id": "binance-peg-avalanche",
+    "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 5805,
+    "slug": "avalanche"
+  }
+}

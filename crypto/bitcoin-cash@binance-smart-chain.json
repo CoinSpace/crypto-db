@@ -1,0 +1,19 @@
+{
+  "_id": "bitcoin-cash@binance-smart-chain",
+  "asset": "bitcoin-cash",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Bitcoin Cash",
+  "symbol": "BCH",
+  "address": "0x8ff795a6f4d97e7887c79bea79aba5cc76444adf",
+  "decimals": 18,
+  "logo": "bitcoin-cash.svg",
+  "coingecko": {
+    "id": "binance-peg-bitcoin-cash",
+    "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 1831,
+    "slug": "bitcoin-cash"
+  }
+}

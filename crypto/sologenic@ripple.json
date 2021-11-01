@@ -1,0 +1,23 @@
+{
+  "_id": "sologenic@ripple",
+  "asset": "sologenic",
+  "platform": "ripple",
+  "type": "token",
+  "name": "Sologenic",
+  "symbol": "SOLO",
+  "address": "",
+  "decimals": null,
+  "logo": "sologenic.png",
+  "supported": false,
+  "changelly": {
+    "ticker": "solo"
+  },
+  "coingecko": {
+    "id": "solo-coin",
+    "platform": "xrp"
+  },
+  "coinmarketcap": {
+    "id": 5279,
+    "slug": "sologenic"
+  }
+}

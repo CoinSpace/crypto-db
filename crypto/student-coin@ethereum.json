@@ -1,0 +1,18 @@
+{
+  "_id": "student-coin@ethereum",
+  "asset": "student-coin",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Student Coin",
+  "symbol": "STC",
+  "address": "0x15b543e986b8c34074dfc9901136d9355a537e7e",
+  "decimals": 18,
+  "logo": "student-coin.png",
+  "changelly": {
+    "ticker": "stc"
+  },
+  "coinmarketcap": {
+    "id": 5966,
+    "slug": "student-coin"
+  }
+}

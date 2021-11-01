@@ -1,0 +1,22 @@
+{
+  "_id": "abyss@ethereum",
+  "asset": "abyss",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Abyss",
+  "symbol": "ABYSS",
+  "address": "0x0e8d6b471e332f140e7d9dbb99e5e3822f728da6",
+  "decimals": 18,
+  "logo": "abyss.png",
+  "changelly": {
+    "ticker": "abyss"
+  },
+  "coingecko": {
+    "id": "the-abyss",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 2847,
+    "slug": "abyss"
+  }
+}

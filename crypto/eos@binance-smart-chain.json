@@ -1,0 +1,19 @@
+{
+  "_id": "eos@binance-smart-chain",
+  "asset": "eos",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "EOS",
+  "symbol": "EOS",
+  "address": "0x56b6fb708fc5732dec1afc8d8556423a2edccbd6",
+  "decimals": 18,
+  "logo": "eos.svg",
+  "coingecko": {
+    "id": "binance-peg-eos",
+    "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 1765,
+    "slug": "eos"
+  }
+}

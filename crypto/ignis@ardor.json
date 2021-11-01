@@ -1,0 +1,23 @@
+{
+  "_id": "ignis@ardor",
+  "asset": "ignis",
+  "platform": "ardor",
+  "type": "token",
+  "name": "Ignis",
+  "symbol": "IGNIS",
+  "address": "",
+  "decimals": null,
+  "logo": "ignis.svg",
+  "supported": false,
+  "changelly": {
+    "ticker": "ignis"
+  },
+  "coingecko": {
+    "id": "ignis",
+    "platform": "ardor"
+  },
+  "coinmarketcap": {
+    "id": 2276,
+    "slug": "ignis"
+  }
+}

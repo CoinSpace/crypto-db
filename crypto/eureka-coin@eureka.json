@@ -1,0 +1,21 @@
+{
+  "_id": "eureka-coin@eureka",
+  "asset": "eureka-coin",
+  "platform": "eureka",
+  "type": "coin",
+  "name": "Eureka Coin",
+  "symbol": "ERK",
+  "decimals": null,
+  "logo": "eureka-coin.png",
+  "supported": false,
+  "changelly": {
+    "ticker": "erk"
+  },
+  "coingecko": {
+    "id": "eureka-coin"
+  },
+  "coinmarketcap": {
+    "id": 4966,
+    "slug": "eureka-coin"
+  }
+}

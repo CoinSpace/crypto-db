@@ -1,0 +1,22 @@
+{
+  "_id": "viberate@ethereum",
+  "asset": "viberate",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Viberate",
+  "symbol": "VIB",
+  "address": "0x2c974b2d0ba1716e644c1fc59982a89ddd2ff724",
+  "decimals": 18,
+  "logo": "viberate.jpg",
+  "changelly": {
+    "ticker": "vib"
+  },
+  "coingecko": {
+    "id": "viberate",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 2019,
+    "slug": "viberate"
+  }
+}

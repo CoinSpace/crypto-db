@@ -1,0 +1,19 @@
+{
+  "_id": "radio-caca@ethereum",
+  "asset": "radio-caca",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Radio Caca",
+  "symbol": "RACA",
+  "address": "0x12bb890508c125661e03b09ec06e404bc9289040",
+  "decimals": 18,
+  "logo": "radio-caca.jpg",
+  "coingecko": {
+    "id": "radio-caca",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 11346,
+    "slug": "radio-caca"
+  }
+}

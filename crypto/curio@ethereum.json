@@ -1,0 +1,22 @@
+{
+  "_id": "curio@ethereum",
+  "asset": "curio",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Curio",
+  "symbol": "CUR",
+  "address": "0x13339fd07934cd674269726edf3b5ccee9dd93de",
+  "decimals": 18,
+  "logo": "curio.jpg",
+  "changelly": {
+    "ticker": "cur"
+  },
+  "coingecko": {
+    "id": "curio",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 5083,
+    "slug": "curio"
+  }
+}

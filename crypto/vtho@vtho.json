@@ -1,0 +1,21 @@
+{
+  "_id": "vtho@vtho",
+  "asset": "vtho",
+  "platform": "vtho",
+  "type": "coin",
+  "name": "VeThor Token",
+  "symbol": "VTHO",
+  "decimals": null,
+  "logo": "vtho.png",
+  "supported": false,
+  "changelly": {
+    "ticker": "vtho"
+  },
+  "coingecko": {
+    "id": "vethor-token"
+  },
+  "coinmarketcap": {
+    "id": 3012,
+    "slug": "vethor-token"
+  }
+}

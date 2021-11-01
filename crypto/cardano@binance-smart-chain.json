@@ -1,0 +1,19 @@
+{
+  "_id": "cardano@binance-smart-chain",
+  "asset": "cardano",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Cardano",
+  "symbol": "ADA",
+  "address": "0x3ee2200efb3400fabb9aacf31297cbdd1d435d47",
+  "decimals": 18,
+  "logo": "cardano.svg",
+  "coingecko": {
+    "id": "binance-peg-cardano",
+    "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 2010,
+    "slug": "cardano"
+  }
+}

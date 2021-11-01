@@ -1,0 +1,22 @@
+{
+  "_id": "wings@ethereum",
+  "asset": "wings",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Wings",
+  "symbol": "WINGS",
+  "address": "0x667088b212ce3d06a1b553a7221e1fd19000d9af",
+  "decimals": 18,
+  "logo": "wings.svg",
+  "changelly": {
+    "ticker": "wings"
+  },
+  "coingecko": {
+    "id": "wings",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 1500,
+    "slug": "wings"
+  }
+}

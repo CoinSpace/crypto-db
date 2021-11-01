@@ -1,0 +1,21 @@
+{
+  "_id": "ton-crystal@ton",
+  "asset": "ton-crystal",
+  "platform": "ton",
+  "type": "coin",
+  "name": "TON Crystal",
+  "symbol": "TON",
+  "decimals": null,
+  "logo": "ton-crystal.png",
+  "supported": false,
+  "changelly": {
+    "ticker": "ton"
+  },
+  "coingecko": {
+    "id": "ton-crystal"
+  },
+  "coinmarketcap": {
+    "id": 7505,
+    "slug": "ton-crystal"
+  }
+}

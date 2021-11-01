@@ -1,0 +1,22 @@
+{
+  "_id": "naga@ethereum",
+  "asset": "naga",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "NAGA",
+  "symbol": "NGC",
+  "address": "0x72dd4b6bd852a3aa172be4d6c5a6dbec588cf131",
+  "decimals": 18,
+  "logo": "naga.svg",
+  "changelly": {
+    "ticker": "ngc"
+  },
+  "coingecko": {
+    "id": "naga",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 2305,
+    "slug": "naga"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "_id": "vidt-datalink@binance-smart-chain",
+  "asset": "vidt-datalink",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "VIDT Datalink",
+  "symbol": "VIDT",
+  "address": "0x3f515f0a8e93f2e2f891ceeb3db4e62e202d7110",
+  "decimals": 18,
+  "logo": "vidt-datalink.png",
+  "coingecko": {
+    "id": "v-id-blockchain",
+    "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 3845,
+    "slug": "vidt-datalink"
+  }
+}

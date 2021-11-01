@@ -1,0 +1,19 @@
+{
+  "_id": "litecoin@binance-smart-chain",
+  "asset": "litecoin",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Litecoin",
+  "symbol": "LTC",
+  "address": "0x4338665cbb7b2485a8855a139b75d5e34ab0db94",
+  "decimals": 18,
+  "logo": "litecoin.svg",
+  "coingecko": {
+    "id": "binance-peg-litecoin",
+    "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 2,
+    "slug": "litecoin"
+  }
+}

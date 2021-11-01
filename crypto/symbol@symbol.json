@@ -1,0 +1,21 @@
+{
+  "_id": "symbol@symbol",
+  "asset": "symbol",
+  "platform": "symbol",
+  "type": "coin",
+  "name": "Symbol",
+  "symbol": "XYM",
+  "decimals": null,
+  "logo": "symbol.png",
+  "supported": false,
+  "changelly": {
+    "ticker": "xym"
+  },
+  "coingecko": {
+    "id": "symbol"
+  },
+  "coinmarketcap": {
+    "id": 8677,
+    "slug": "symbol"
+  }
+}

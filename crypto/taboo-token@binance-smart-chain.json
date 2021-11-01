@@ -1,0 +1,19 @@
+{
+  "_id": "taboo-token@binance-smart-chain",
+  "asset": "taboo-token",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Taboo Token",
+  "symbol": "TABOO",
+  "address": "0x9abdba20edfba06b782126b4d8d72a5853918fd0",
+  "decimals": 9,
+  "logo": "taboo-token.png",
+  "coingecko": {
+    "id": "taboo-token",
+    "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 10586,
+    "slug": "taboo-token"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "ambrosus@ambrosus",
+  "asset": "ambrosus",
+  "platform": "ambrosus",
+  "type": "coin",
+  "name": "Ambrosus",
+  "symbol": "AMB",
+  "decimals": null,
+  "logo": "ambrosus.jpg",
+  "supported": false,
+  "changelly": {
+    "ticker": "amb"
+  },
+  "coingecko": {
+    "id": "amber"
+  },
+  "coinmarketcap": {
+    "id": 2081,
+    "slug": "amber"
+  }
+}

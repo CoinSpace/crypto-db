@@ -1,0 +1,21 @@
+{
+  "_id": "xdc-network@xdc-network",
+  "asset": "xdc-network",
+  "platform": "xdc-network",
+  "type": "coin",
+  "name": "XDC Network",
+  "symbol": "XDC",
+  "decimals": null,
+  "logo": "xdc-network.png",
+  "supported": false,
+  "changelly": {
+    "ticker": "xdc"
+  },
+  "coingecko": {
+    "id": "xdce-crowd-sale"
+  },
+  "coinmarketcap": {
+    "id": 2634,
+    "slug": "xinfin"
+  }
+}

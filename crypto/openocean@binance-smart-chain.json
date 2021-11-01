@@ -1,0 +1,19 @@
+{
+  "_id": "openocean@binance-smart-chain",
+  "asset": "openocean",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "OpenOcean",
+  "symbol": "OOE",
+  "address": "0x9029fdfae9a03135846381c7ce16595c3554e10a",
+  "decimals": 18,
+  "logo": "openocean.png",
+  "coingecko": {
+    "id": "openocean",
+    "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 9938,
+    "slug": "openocean"
+  }
+}

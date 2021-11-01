@@ -1,0 +1,22 @@
+{
+  "_id": "pillar@ethereum",
+  "asset": "pillar",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Pillar",
+  "symbol": "PLR",
+  "address": "0xe3818504c1b32bf1557b16c238b2e01fd3149c17",
+  "decimals": 18,
+  "logo": "pillar.svg",
+  "changelly": {
+    "ticker": "plr"
+  },
+  "coingecko": {
+    "id": "pillar",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 1834,
+    "slug": "pillar"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "_id": "bread@ethereum",
+  "asset": "bread",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Bread",
+  "symbol": "BRD",
+  "address": "0x558ec3152e2eb2174905cd19aea4e34a23de9ad6",
+  "decimals": 18,
+  "logo": "bread.svg",
+  "changelly": {
+    "ticker": "brd"
+  },
+  "coingecko": {
+    "id": "bread",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 2306,
+    "slug": "bread"
+  }
+}

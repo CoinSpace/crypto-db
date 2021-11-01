@@ -1,0 +1,19 @@
+{
+  "_id": "aurox-token@binance-smart-chain",
+  "asset": "aurox-token",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Aurox Token",
+  "symbol": "URUS",
+  "address": "0x33a46b5b71f4689ff290da93e08972917a5e6634",
+  "decimals": 18,
+  "logo": "aurox-token.png",
+  "coingecko": {
+    "id": "urus-token",
+    "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 8616,
+    "slug": "urus"
+  }
+}

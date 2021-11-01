@@ -1,0 +1,22 @@
+{
+  "_id": "maidsafecoin@omni",
+  "asset": "maidsafecoin",
+  "platform": "omni",
+  "type": "token",
+  "name": "MaidSafeCoin",
+  "symbol": "MAID",
+  "address": "",
+  "decimals": null,
+  "logo": "maidsafecoin.svg",
+  "changelly": {
+    "ticker": "maid"
+  },
+  "coingecko": {
+    "id": "maidsafecoin",
+    "platform": "omni"
+  },
+  "coinmarketcap": {
+    "id": 291,
+    "slug": "maidsafecoin"
+  }
+}

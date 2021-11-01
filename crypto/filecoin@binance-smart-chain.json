@@ -1,0 +1,19 @@
+{
+  "_id": "filecoin@binance-smart-chain",
+  "asset": "filecoin",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Filecoin",
+  "symbol": "FIL",
+  "address": "0x0d8ce2a99bb6e3b7db580ed848240e4a0f9ae153",
+  "decimals": 18,
+  "logo": "filecoin.svg",
+  "coingecko": {
+    "id": "binance-peg-filecoin",
+    "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 2280,
+    "slug": "filecoin"
+  }
+}

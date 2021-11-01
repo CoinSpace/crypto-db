@@ -1,0 +1,22 @@
+{
+  "_id": "solve@ethereum",
+  "asset": "solve",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "SOLVE",
+  "symbol": "SOLVE",
+  "address": "0x446c9033e7516d820cc9a2ce2d0b7328b579406f",
+  "decimals": 8,
+  "logo": "solve.png",
+  "changelly": {
+    "ticker": "solve"
+  },
+  "coingecko": {
+    "id": "solve-care",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 3724,
+    "slug": "solve"
+  }
+}

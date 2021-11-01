@@ -1,0 +1,19 @@
+{
+  "_id": "xrp@binance-smart-chain",
+  "asset": "xrp",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "XRP",
+  "symbol": "XRP",
+  "address": "0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe",
+  "decimals": 18,
+  "logo": "xrp.svg",
+  "coingecko": {
+    "id": "binance-peg-xrp",
+    "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 52,
+    "slug": "xrp"
+  }
+}

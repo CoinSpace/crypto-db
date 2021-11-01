@@ -1,0 +1,19 @@
+{
+  "_id": "musd@ethereum",
+  "asset": "musd",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "mStable USD",
+  "symbol": "MUSD",
+  "address": "0xe2f2a5c287993345a840db3b0845fbc70f5935a5",
+  "decimals": 18,
+  "logo": "musd.png",
+  "coingecko": {
+    "id": "musd",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 5747,
+    "slug": "mstable-usd"
+  }
+}

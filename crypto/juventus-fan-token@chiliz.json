@@ -1,0 +1,23 @@
+{
+  "_id": "juventus-fan-token@chiliz",
+  "asset": "juventus-fan-token",
+  "platform": "chiliz",
+  "type": "token",
+  "name": "Juventus Fan Token",
+  "symbol": "JUV",
+  "address": "0x14a5750b0e54b57d12767b84a326c9fe59472da5",
+  "decimals": null,
+  "logo": "juventus-fan-token.png",
+  "supported": false,
+  "changelly": {
+    "ticker": "juv"
+  },
+  "coingecko": {
+    "id": "juventus-fan-token",
+    "platform": "chiliz"
+  },
+  "coinmarketcap": {
+    "id": 5224,
+    "slug": "juventus-fan-token"
+  }
+}

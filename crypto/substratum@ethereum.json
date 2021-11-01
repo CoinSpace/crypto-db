@@ -1,0 +1,22 @@
+{
+  "_id": "substratum@ethereum",
+  "asset": "substratum",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Substratum",
+  "symbol": "SUB",
+  "address": "0x8d75959f1e61ec2571aa72798237101f084de63a",
+  "decimals": 18,
+  "logo": "substratum.svg",
+  "changelly": {
+    "ticker": "sub"
+  },
+  "coingecko": {
+    "id": "substratum",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 1984,
+    "slug": "substratum"
+  }
+}

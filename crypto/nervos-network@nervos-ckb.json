@@ -1,0 +1,21 @@
+{
+  "_id": "nervos-network@nervos-ckb",
+  "asset": "nervos-network",
+  "platform": "nervos-ckb",
+  "type": "coin",
+  "name": "Nervos Network",
+  "symbol": "CKB",
+  "decimals": null,
+  "logo": "nervos-network.svg",
+  "supported": false,
+  "changelly": {
+    "ticker": "ckb"
+  },
+  "coingecko": {
+    "id": "nervos-network"
+  },
+  "coinmarketcap": {
+    "id": 4948,
+    "slug": "nervos-network"
+  }
+}
