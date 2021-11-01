@@ -8,6 +8,9 @@
   "address": "0x607f4c5bb672230e8672085532f7e901544a7375",
   "decimals": 9,
   "logo": "iexec-rlc.png",
+  "changelly": {
+    "ticker": "rlc"
+  },
   "coingecko": {
     "id": "iexec-rlc",
     "platform": "ethereum"

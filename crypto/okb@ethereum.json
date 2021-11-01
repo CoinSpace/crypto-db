@@ -8,6 +8,9 @@
   "address": "0x75231f58b43240c9718dd58b4967c5114342a86c",
   "decimals": 18,
   "logo": "okb.svg",
+  "changelly": {
+    "ticker": "okb"
+  },
   "coingecko": {
     "id": "okb",
     "platform": "ethereum"

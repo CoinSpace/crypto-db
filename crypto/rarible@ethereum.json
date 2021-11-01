@@ -8,6 +8,9 @@
   "address": "0xfca59cd816ab1ead66534d82bc21e7515ce441cf",
   "decimals": 18,
   "logo": "rarible.png",
+  "changelly": {
+    "ticker": "rari"
+  },
   "coingecko": {
     "id": "rarible",
     "platform": "ethereum"

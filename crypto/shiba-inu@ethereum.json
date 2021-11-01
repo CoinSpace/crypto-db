@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 5994,
     "slug": "shiba-inu"
+  },
+  "moonpay": {
+    "id": "7f4d75df-0059-4950-ab31-fb2b83a4b23b",
+    "code": "shib"
   }
 }

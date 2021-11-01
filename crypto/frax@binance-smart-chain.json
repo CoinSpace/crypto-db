@@ -5,7 +5,7 @@
   "type": "token",
   "name": "Frax",
   "symbol": "FRAX",
-  "address": "0x29ced01c447166958605519f10dcf8b0255fb379",
+  "address": "0x90c97f71e18723b0cf0dfa30ee176ab653e89f40",
   "decimals": 18,
   "logo": "frax.png",
   "coingecko": {

@@ -5,7 +5,7 @@
   "type": "token",
   "name": "Frax Share",
   "symbol": "FXS",
-  "address": "0xde2f075f6f14eb9d96755b24e416a53e736ca363",
+  "address": "0xe48a3d7d0bc88d552f730b62c006bc925eadb9ee",
   "decimals": 18,
   "logo": "frax-share.png",
   "coingecko": {

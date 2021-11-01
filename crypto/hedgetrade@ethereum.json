@@ -6,7 +6,7 @@
   "name": "HedgeTrade",
   "symbol": "HEDG",
   "address": "0xf1290473e210b2108a85237fbcd7b6eb42cc654f",
-  "decimals": null,
+  "decimals": 18,
   "logo": "hedgetrade.svg",
   "changelly": {
     "ticker": "hedg"

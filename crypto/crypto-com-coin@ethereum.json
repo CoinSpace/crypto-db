@@ -8,6 +8,9 @@
   "address": "0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",
   "decimals": 8,
   "logo": "crypto-com-coin.png",
+  "changelly": {
+    "ticker": "croold"
+  },
   "coingecko": {
     "id": "crypto-com-chain",
     "platform": "ethereum"

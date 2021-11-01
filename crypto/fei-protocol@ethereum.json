@@ -9,7 +9,7 @@
   "decimals": 18,
   "logo": "fei-protocol.png",
   "coingecko": {
-    "id": "fei-protocol",
+    "id": "fei-usd",
     "platform": "ethereum"
   },
   "coinmarketcap": {

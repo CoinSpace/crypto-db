@@ -8,6 +8,9 @@
   "address": "0xba50933c268f567bdc86e1ac131be072c6b0b71a",
   "decimals": 18,
   "logo": "arpa-chain.jpg",
+  "changelly": {
+    "ticker": "arpa"
+  },
   "coingecko": {
     "id": "arpa-chain",
     "platform": "ethereum"

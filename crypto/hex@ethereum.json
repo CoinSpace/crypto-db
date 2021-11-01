@@ -6,7 +6,7 @@
   "name": "HEX",
   "symbol": "HEX",
   "address": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
-  "decimals": null,
+  "decimals": 8,
   "logo": "hex.png",
   "changelly": {
     "ticker": "hex"
