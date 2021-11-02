@@ -1,0 +1,22 @@
+{
+  "_id": "terrausd@terra",
+  "asset": "terrausd",
+  "platform": "terra",
+  "type": "token",
+  "name": "TerraUSD",
+  "symbol": "UST",
+  "decimals": null,
+  "logo": "terrausd.png",
+  "coingecko": {
+    "id": "terrausd",
+    "platform": "terra"
+  },
+  "coinmarketcap": {
+    "id": 7129,
+    "slug": "terrausd"
+  },
+  "moonpay": {
+    "id": "0c5451d5-3bbc-4c8d-8bb3-26f30c92093b",
+    "code": "ust"
+  }
+}

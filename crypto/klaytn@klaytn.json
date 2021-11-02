@@ -1,0 +1,22 @@
+{
+  "_id": "klaytn@klaytn",
+  "asset": "klaytn",
+  "platform": "klaytn",
+  "type": "coin",
+  "name": "Klaytn",
+  "symbol": "KLAY",
+  "decimals": null,
+  "logo": "klaytn.jpg",
+  "supported": false,
+  "coingecko": {
+    "id": "klay-token"
+  },
+  "coinmarketcap": {
+    "id": 4256,
+    "slug": "klaytn"
+  },
+  "moonpay": {
+    "id": "e92b92e5-8240-4ee5-b1f9-2ca6efde6567",
+    "code": "klay"
+  }
+}

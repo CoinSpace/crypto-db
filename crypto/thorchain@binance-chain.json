@@ -1,0 +1,24 @@
+{
+  "_id": "thorchain@binance-chain",
+  "asset": "thorchain",
+  "platform": "binance-chain",
+  "type": "token",
+  "name": "THORChain",
+  "symbol": "RUNE",
+  "address": "RUNE-B1A",
+  "decimals": null,
+  "logo": "thorchain.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "thorchain",
+    "platform": "binancecoin"
+  },
+  "coinmarketcap": {
+    "id": 4157,
+    "slug": "thorchain"
+  },
+  "moonpay": {
+    "id": "3f0392ca-9337-4ee8-9351-24ba6defa0a8",
+    "code": "rune"
+  }
+}

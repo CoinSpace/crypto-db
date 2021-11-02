@@ -1,0 +1,24 @@
+{
+  "_id": "celo-dollar@celo",
+  "asset": "celo-dollar",
+  "platform": "celo",
+  "type": "token",
+  "name": "Celo Dollar",
+  "symbol": "CUSD",
+  "address": "0x765de816845861e75a25fca122bb6898b8b1282a",
+  "decimals": null,
+  "logo": "celo-dollar.png",
+  "supported": false,
+  "coingecko": {
+    "id": "celo-dollar",
+    "platform": "celo"
+  },
+  "coinmarketcap": {
+    "id": 7236,
+    "slug": "celo-dollar"
+  },
+  "moonpay": {
+    "id": "48e69e1a-2466-4218-b2cd-1e6164839595",
+    "code": "cusd"
+  }
+}

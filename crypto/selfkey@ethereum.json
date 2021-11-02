@@ -1,0 +1,23 @@
+{
+  "_id": "selfkey@ethereum",
+  "asset": "selfkey",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "SelfKey",
+  "symbol": "KEY",
+  "address": "0x4cc19356f2d37338b9802aa8e8fc58b0373296e7",
+  "decimals": 18,
+  "logo": "selfkey.png",
+  "coingecko": {
+    "id": "selfkey",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 2398,
+    "slug": "selfkey"
+  },
+  "moonpay": {
+    "id": "a10fca99-b2a9-4f76-9c91-55db46b1b016",
+    "code": "key"
+  }
+}

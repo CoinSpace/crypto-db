@@ -8,6 +8,7 @@
   "address": "",
   "decimals": null,
   "logo": "maidsafecoin.svg",
+  "supported": false,
   "changelly": {
     "ticker": "maid"
   },

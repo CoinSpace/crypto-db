@@ -1,18 +1,24 @@
 {
-  "_id": "ong@ong",
+  "_id": "ong@ontology",
   "asset": "ong",
-  "platform": "ong",
-  "type": "coin",
+  "platform": "ontology",
+  "type": "token",
   "name": "Ontology Gas",
   "symbol": "ONG",
+  "address": "",
   "decimals": null,
   "logo": "ong.png",
   "supported": false,
   "coingecko": {
-    "id": "ong"
+    "id": "ong",
+    "platform": "ontology"
   },
   "coinmarketcap": {
     "id": 3217,
     "slug": "ontology-gas"
+  },
+  "moonpay": {
+    "id": "745db781-ec1c-4f97-acf4-59bdec2c6c30",
+    "code": "ong"
   }
 }
