@@ -6,7 +6,7 @@
   "name": "Klaytn",
   "symbol": "KLAY",
   "decimals": null,
-  "logo": "klaytn.jpg",
+  "logo": "klaytn.svg",
   "supported": false,
   "coingecko": {
     "id": "klay-token"

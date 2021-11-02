@@ -7,7 +7,7 @@
   "symbol": "AXS",
   "address": "0xbb0e17ef65f82ab018d8edd776e8dd940327b28b",
   "decimals": 18,
-  "logo": "axie-infinity.png",
+  "logo": "axie-infinity.svg",
   "changelly": {
     "ticker": "axs"
   },

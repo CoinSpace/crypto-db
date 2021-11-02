@@ -7,7 +7,7 @@
   "symbol": "PRQ",
   "address": "0x362bc847a3a9637d3af6624eec853618a43ed7d2",
   "decimals": 18,
-  "logo": "parsiq.png",
+  "logo": "parsiq.svg",
   "coingecko": {
     "id": "parsiq",
     "platform": "ethereum"

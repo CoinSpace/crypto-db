@@ -7,7 +7,7 @@
   "symbol": "VLX",
   "address": "0xe9c803f48dffe50180bd5b01dc04da939e3445fc",
   "decimals": 18,
-  "logo": "velas.png",
+  "logo": "velas.svg",
   "coingecko": {
     "id": "velas",
     "platform": "binance-smart-chain"

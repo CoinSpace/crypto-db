@@ -7,7 +7,7 @@
   "symbol": "NU",
   "address": "0x4fe83213d56308330ec302a8bd641f1d0113a4cc",
   "decimals": 18,
-  "logo": "nucypher.jpg",
+  "logo": "nucypher.svg",
   "coingecko": {
     "id": "nucypher",
     "platform": "ethereum"

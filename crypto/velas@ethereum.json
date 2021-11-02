@@ -7,7 +7,7 @@
   "symbol": "VLX",
   "address": "0x8c543aed163909142695f2d2acd0d55791a9edb9",
   "decimals": 18,
-  "logo": "velas.png",
+  "logo": "velas.svg",
   "coingecko": {
     "id": "velas",
     "platform": "ethereum"

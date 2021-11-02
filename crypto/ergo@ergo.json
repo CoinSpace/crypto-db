@@ -6,7 +6,7 @@
   "name": "Ergo",
   "symbol": "ERG",
   "decimals": null,
-  "logo": "ergo.png",
+  "logo": "ergo.svg",
   "supported": false,
   "changelly": {
     "ticker": "erg"

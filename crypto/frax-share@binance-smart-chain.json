@@ -7,7 +7,7 @@
   "symbol": "FXS",
   "address": "0xe48a3d7d0bc88d552f730b62c006bc925eadb9ee",
   "decimals": 18,
-  "logo": "frax-share.png",
+  "logo": "frax-share.svg",
   "coingecko": {
     "id": "frax-share",
     "platform": "binance-smart-chain"

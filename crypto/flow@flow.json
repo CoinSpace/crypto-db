@@ -6,7 +6,7 @@
   "name": "Flow",
   "symbol": "FLOW",
   "decimals": null,
-  "logo": "flow.png",
+  "logo": "flow.svg",
   "supported": false,
   "changelly": {
     "ticker": "flow"

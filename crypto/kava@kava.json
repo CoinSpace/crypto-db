@@ -6,7 +6,7 @@
   "name": "Kava",
   "symbol": "KAVA",
   "decimals": null,
-  "logo": "kava.png",
+  "logo": "kava.svg",
   "supported": false,
   "coingecko": {
     "id": "kava"

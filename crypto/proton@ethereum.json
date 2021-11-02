@@ -7,7 +7,7 @@
   "symbol": "XPR",
   "address": "0xd7efb00d12c2c13131fd319336fdf952525da2af",
   "decimals": 4,
-  "logo": "proton.png",
+  "logo": "proton.svg",
   "coingecko": {
     "id": "proton",
     "platform": "ethereum"

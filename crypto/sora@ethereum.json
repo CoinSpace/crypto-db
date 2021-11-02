@@ -7,7 +7,7 @@
   "symbol": "XOR",
   "address": "0x40fd72257597aa14c7231a7b1aaa29fce868f677",
   "decimals": 18,
-  "logo": "sora.png",
+  "logo": "sora.svg",
   "coingecko": {
     "id": "sora",
     "platform": "ethereum"

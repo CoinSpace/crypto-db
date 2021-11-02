@@ -6,7 +6,7 @@
   "name": "Pirate Chain",
   "symbol": "ARRR",
   "decimals": null,
-  "logo": "pirate-chain.png",
+  "logo": "pirate-chain.svg",
   "supported": false,
   "changelly": {
     "ticker": "arrr"

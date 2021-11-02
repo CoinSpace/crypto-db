@@ -6,7 +6,7 @@
   "name": "Celo",
   "symbol": "CELO",
   "decimals": null,
-  "logo": "celo.png",
+  "logo": "celo.svg",
   "supported": false,
   "changelly": {
     "ticker": "celo"

@@ -7,7 +7,7 @@
   "symbol": "BAND",
   "address": "0xba11d00c5f74255f56a5e366f4f77f5a186d7f55",
   "decimals": 18,
-  "logo": "band-protocol.png",
+  "logo": "band-protocol.svg",
   "coingecko": {
     "id": "band-protocol",
     "platform": "ethereum"

@@ -7,7 +7,7 @@
   "symbol": "AMPL",
   "address": "0xd46ba6d942050d489dbd938a2c909a5d5039a161",
   "decimals": 9,
-  "logo": "ampleforth.png",
+  "logo": "ampleforth.svg",
   "coingecko": {
     "id": "ampleforth",
     "platform": "ethereum"
