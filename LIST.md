@@ -384,7 +384,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/avalanche.png" width="128px" height="128px"/></td>
+<td><img src="logo/avalanche.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: avalanche@binance-smart-chain</li>
 <li>Name: Avalanche</li>
@@ -634,7 +634,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/axie-infinity.png" width="128px" height="128px"/></td>
+<td><img src="logo/axie-infinity.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: axie-infinity@binance-smart-chain</li>
 <li>Name: Axie Infinity</li>
@@ -648,7 +648,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/axie-infinity.png" width="128px" height="128px"/></td>
+<td><img src="logo/axie-infinity.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: axie-infinity@ethereum</li>
 <li>Name: Axie Infinity</li>
@@ -943,7 +943,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/klaytn.jpg" width="128px" height="128px"/></td>
+<td><img src="logo/klaytn.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: klaytn@klaytn</li>
 <li>Name: Klaytn</li>
@@ -986,7 +986,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/flow.png" width="128px" height="128px"/></td>
+<td><img src="logo/flow.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: flow@flow</li>
 <li>Name: Flow</li>
@@ -1308,7 +1308,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/the-sandbox.jpg" width="128px" height="128px"/></td>
+<td><img src="logo/the-sandbox.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: the-sandbox@ethereum</li>
 <li>Name: The Sandbox</li>
@@ -1339,7 +1339,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/celo.png" width="128px" height="128px"/></td>
+<td><img src="logo/celo.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: celo@celo</li>
 <li>Name: Celo</li>
@@ -1443,7 +1443,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/curve-dao-token.png" width="128px" height="128px"/></td>
+<td><img src="logo/curve-dao-token.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: curve-dao-token@ethereum</li>
 <li>Name: Curve DAO Token</li>
@@ -1576,7 +1576,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/kucoin-token.png" width="128px" height="128px"/></td>
+<td><img src="logo/kucoin-token.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: kucoin-token@ethereum</li>
 <li>Name: KuCoin Token</li>
@@ -1725,7 +1725,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/ankr.png" width="128px" height="128px"/></td>
+<td><img src="logo/ankr.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: ankr@binance-smart-chain</li>
 <li>Name: Ankr</li>
@@ -1739,7 +1739,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/ankr.png" width="128px" height="128px"/></td>
+<td><img src="logo/ankr.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: ankr@ethereum</li>
 <li>Name: Ankr</li>
@@ -1913,7 +1913,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/serum.png" width="128px" height="128px"/></td>
+<td><img src="logo/serum.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: serum@ethereum</li>
 <li>Name: Serum</li>
@@ -2060,7 +2060,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/1inch.png" width="128px" height="128px"/></td>
+<td><img src="logo/1inch.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: 1inch@binance-smart-chain</li>
 <li>Name: 1inch</li>
@@ -2074,7 +2074,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/1inch.png" width="128px" height="128px"/></td>
+<td><img src="logo/1inch.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: 1inch@ethereum</li>
 <li>Name: 1inch</li>
@@ -2133,7 +2133,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/uma.png" width="128px" height="128px"/></td>
+<td><img src="logo/uma.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: uma@ethereum</li>
 <li>Name: UMA</li>
@@ -2277,7 +2277,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/nucypher.jpg" width="128px" height="128px"/></td>
+<td><img src="logo/nucypher.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: nucypher@ethereum</li>
 <li>Name: NuCypher</li>
@@ -2390,7 +2390,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/coti.png" width="128px" height="128px"/></td>
+<td><img src="logo/coti.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: coti@ethereum</li>
 <li>Name: COTI</li>
@@ -2405,7 +2405,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/kava.png" width="128px" height="128px"/></td>
+<td><img src="logo/kava.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: kava@kava</li>
 <li>Name: Kava</li>
@@ -2490,7 +2490,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/velas.png" width="128px" height="128px"/></td>
+<td><img src="logo/velas.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: velas@binance-smart-chain</li>
 <li>Name: Velas</li>
@@ -2504,7 +2504,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/velas.png" width="128px" height="128px"/></td>
+<td><img src="logo/velas.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: velas@ethereum</li>
 <li>Name: Velas</li>
@@ -2604,7 +2604,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/injective-protocol.png" width="128px" height="128px"/></td>
+<td><img src="logo/injective-protocol.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: injective-protocol@binance-smart-chain</li>
 <li>Name: Injective Protocol</li>
@@ -2618,7 +2618,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/injective-protocol.png" width="128px" height="128px"/></td>
+<td><img src="logo/injective-protocol.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: injective-protocol@ethereum</li>
 <li>Name: Injective Protocol</li>
@@ -2689,7 +2689,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/fei-protocol.png" width="128px" height="128px"/></td>
+<td><img src="logo/fei-protocol.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: fei-protocol@ethereum</li>
 <li>Name: Fei Protocol</li>
@@ -2703,7 +2703,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/origintrail.jpg" width="128px" height="128px"/></td>
+<td><img src="logo/origintrail.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: origintrail@ethereum</li>
 <li>Name: OriginTrail</li>
@@ -2760,7 +2760,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/origin-protocol.jpg" width="128px" height="128px"/></td>
+<td><img src="logo/origin-protocol.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: origin-protocol@ethereum</li>
 <li>Name: Origin Protocol</li>
@@ -2874,7 +2874,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/band-protocol.png" width="128px" height="128px"/></td>
+<td><img src="logo/band-protocol.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: band-protocol@ethereum</li>
 <li>Name: Band Protocol</li>
@@ -3074,7 +3074,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/prometeus.png" width="128px" height="128px"/></td>
+<td><img src="logo/prometeus.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: prometeus@ethereum</li>
 <li>Name: Prometeus</li>
@@ -3088,7 +3088,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/ergo.png" width="128px" height="128px"/></td>
+<td><img src="logo/ergo.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: ergo@ergo</li>
 <li>Name: Ergo</li>
@@ -3159,7 +3159,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/ampleforth.png" width="128px" height="128px"/></td>
+<td><img src="logo/ampleforth.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: ampleforth@ethereum</li>
 <li>Name: Ampleforth</li>
@@ -3287,7 +3287,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/husd.jpg" width="128px" height="128px"/></td>
+<td><img src="logo/husd.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: husd@ethereum</li>
 <li>Name: HUSD</li>
@@ -3301,7 +3301,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/hex.png" width="128px" height="128px"/></td>
+<td><img src="logo/hex.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: hex@ethereum</li>
 <li>Name: HEX</li>
@@ -3529,7 +3529,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/frax.png" width="128px" height="128px"/></td>
+<td><img src="logo/frax.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: frax@binance-smart-chain</li>
 <li>Name: Frax</li>
@@ -3543,7 +3543,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/frax.png" width="128px" height="128px"/></td>
+<td><img src="logo/frax.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: frax@ethereum</li>
 <li>Name: Frax</li>
@@ -3671,7 +3671,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/keep-network.jpg" width="128px" height="128px"/></td>
+<td><img src="logo/keep-network.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: keep-network@ethereum</li>
 <li>Name: Keep Network</li>
@@ -3869,7 +3869,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/pirate-chain.png" width="128px" height="128px"/></td>
+<td><img src="logo/pirate-chain.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: pirate-chain@pirate-chain</li>
 <li>Name: Pirate Chain</li>
@@ -4126,7 +4126,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/frax-share.png" width="128px" height="128px"/></td>
+<td><img src="logo/frax-share.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: frax-share@binance-smart-chain</li>
 <li>Name: Frax Share</li>
@@ -4140,7 +4140,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/frax-share.png" width="128px" height="128px"/></td>
+<td><img src="logo/frax-share.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: frax-share@ethereum</li>
 <li>Name: Frax Share</li>
@@ -4154,7 +4154,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/proton.png" width="128px" height="128px"/></td>
+<td><img src="logo/proton.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: proton@binance-smart-chain</li>
 <li>Name: Proton</li>
@@ -4168,7 +4168,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/proton.png" width="128px" height="128px"/></td>
+<td><img src="logo/proton.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: proton@ethereum</li>
 <li>Name: Proton</li>
@@ -4182,7 +4182,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/mirror-protocol.png" width="128px" height="128px"/></td>
+<td><img src="logo/mirror-protocol.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: mirror-protocol@binance-smart-chain</li>
 <li>Name: Mirror Protocol</li>
@@ -4196,7 +4196,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/mirror-protocol.png" width="128px" height="128px"/></td>
+<td><img src="logo/mirror-protocol.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: mirror-protocol@ethereum</li>
 <li>Name: Mirror Protocol</li>
@@ -4224,7 +4224,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/enzyme.png" width="128px" height="128px"/></td>
+<td><img src="logo/enzyme.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: enzyme@ethereum</li>
 <li>Name: Enzyme</li>
@@ -4337,7 +4337,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/syntropy.png" width="128px" height="128px"/></td>
+<td><img src="logo/syntropy.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: syntropy@ethereum</li>
 <li>Name: Syntropy</li>
@@ -4537,7 +4537,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/uquid-coin.png" width="128px" height="128px"/></td>
+<td><img src="logo/uquid-coin.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: uquid-coin@ethereum</li>
 <li>Name: Uquid Coin</li>
@@ -4579,7 +4579,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/safepal.jpg" width="128px" height="128px"/></td>
+<td><img src="logo/safepal.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: safepal@binance-smart-chain</li>
 <li>Name: SafePal</li>
@@ -4678,7 +4678,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/balancer.png" width="128px" height="128px"/></td>
+<td><img src="logo/balancer.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: balancer@ethereum</li>
 <li>Name: Balancer</li>
@@ -4921,7 +4921,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/arpa-chain.jpg" width="128px" height="128px"/></td>
+<td><img src="logo/arpa-chain.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: arpa-chain@ethereum</li>
 <li>Name: ARPA Chain</li>
@@ -5062,7 +5062,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/derivadao.png" width="128px" height="128px"/></td>
+<td><img src="logo/derivadao.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: derivadao@ethereum</li>
 <li>Name: DerivaDAO</li>
@@ -5076,7 +5076,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/bzx-protocol.png" width="128px" height="128px"/></td>
+<td><img src="logo/bzx-protocol.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: bzx-protocol@ethereum</li>
 <li>Name: bZx Protocol</li>
@@ -5192,7 +5192,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/handshake.png" width="128px" height="128px"/></td>
+<td><img src="logo/handshake.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: handshake@ethereum</li>
 <li>Name: Handshake</li>
@@ -5220,7 +5220,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/mxc.png" width="128px" height="128px"/></td>
+<td><img src="logo/mxc.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: mxc@ethereum</li>
 <li>Name: MXC</li>
@@ -5234,7 +5234,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/akropolis.png" width="128px" height="128px"/></td>
+<td><img src="logo/akropolis.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: akropolis@ethereum</li>
 <li>Name: Akropolis</li>
@@ -5290,7 +5290,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/barnbridge.jpg" width="128px" height="128px"/></td>
+<td><img src="logo/barnbridge.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: barnbridge@ethereum</li>
 <li>Name: BarnBridge</li>
@@ -5417,7 +5417,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/strong.png" width="128px" height="128px"/></td>
+<td><img src="logo/strong.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: strong@ethereum</li>
 <li>Name: Strong</li>
@@ -5501,7 +5501,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/tellor.png" width="128px" height="128px"/></td>
+<td><img src="logo/tellor.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: tellor@ethereum</li>
 <li>Name: Tellor</li>
@@ -5683,7 +5683,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/sora.png" width="128px" height="128px"/></td>
+<td><img src="logo/sora.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: sora@ethereum</li>
 <li>Name: Sora</li>
@@ -5994,7 +5994,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/beefy-finance.png" width="128px" height="128px"/></td>
+<td><img src="logo/beefy-finance.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: beefy-finance@binance-smart-chain</li>
 <li>Name: Beefy.Finance</li>
@@ -6092,7 +6092,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/parsiq.png" width="128px" height="128px"/></td>
+<td><img src="logo/parsiq.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: parsiq@binance-smart-chain</li>
 <li>Name: PARSIQ</li>
@@ -6106,7 +6106,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/parsiq.png" width="128px" height="128px"/></td>
+<td><img src="logo/parsiq.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: parsiq@ethereum</li>
 <li>Name: PARSIQ</li>
@@ -6316,7 +6316,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/mantra-dao.png" width="128px" height="128px"/></td>
+<td><img src="logo/mantra-dao.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: mantra-dao@binance-smart-chain</li>
 <li>Name: MANTRA DAO</li>
@@ -6330,7 +6330,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/mantra-dao.png" width="128px" height="128px"/></td>
+<td><img src="logo/mantra-dao.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: mantra-dao@ethereum</li>
 <li>Name: MANTRA DAO</li>
@@ -6485,7 +6485,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/phantasma.png" width="128px" height="128px"/></td>
+<td><img src="logo/phantasma.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: phantasma@ethereum</li>
 <li>Name: Phantasma</li>
@@ -6499,7 +6499,7 @@
 </td></ul>
 </tr>
 <tr>
-<td><img src="logo/kleros.png" width="128px" height="128px"/></td>
+<td><img src="logo/kleros.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: kleros@ethereum</li>
 <li>Name: Kleros</li>
