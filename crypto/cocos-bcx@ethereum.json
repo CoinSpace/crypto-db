@@ -1,0 +1,19 @@
+{
+  "_id": "cocos-bcx@ethereum",
+  "asset": "cocos-bcx",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "COCOS BCX",
+  "symbol": "COCOS",
+  "address": "0xc4c7ea4fab34bd9fb9a5e1b1a98df76e26e6407c",
+  "decimals": 18,
+  "logo": "cocos-bcx.jpg",
+  "coingecko": {
+    "id": "cocos-bcx",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 4275,
+    "slug": "cocos-bcx"
+  }
+}

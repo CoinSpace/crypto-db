@@ -1,0 +1,19 @@
+{
+  "_id": "glitch-protocol@ethereum",
+  "asset": "glitch-protocol",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Glitch Protocol",
+  "symbol": "GLCH",
+  "address": "0x038a68ff68c393373ec894015816e33ad41bd564",
+  "decimals": 18,
+  "logo": "glitch-protocol.jpg",
+  "coingecko": {
+    "id": "glitch-protocol",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 8236,
+    "slug": "glitch"
+  }
+}

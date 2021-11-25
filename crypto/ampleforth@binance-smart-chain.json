@@ -1,0 +1,19 @@
+{
+  "_id": "ampleforth@binance-smart-chain",
+  "asset": "ampleforth",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Ampleforth",
+  "symbol": "AMPL",
+  "address": "0xdb021b1b247fe2f1fa57e0a87c748cc1e321f07f",
+  "decimals": 9,
+  "logo": "ampleforth.svg",
+  "coingecko": {
+    "id": "ampleforth",
+    "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 4056,
+    "slug": "ampleforth"
+  }
+}

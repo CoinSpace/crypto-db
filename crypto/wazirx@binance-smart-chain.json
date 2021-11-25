@@ -1,0 +1,19 @@
+{
+  "_id": "wazirx@binance-smart-chain",
+  "asset": "wazirx",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "WazirX",
+  "symbol": "WRX",
+  "address": "0x8e17ed70334c87ece574c9d537bc153d8609e2a3",
+  "decimals": 8,
+  "logo": "wazirx.png",
+  "coingecko": {
+    "id": "wazirx",
+    "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 5161,
+    "slug": "wazirx"
+  }
+}

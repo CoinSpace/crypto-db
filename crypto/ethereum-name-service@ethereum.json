@@ -1,0 +1,22 @@
+{
+  "_id": "ethereum-name-service@ethereum",
+  "asset": "ethereum-name-service",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Ethereum Name Service",
+  "symbol": "ENS",
+  "address": "0xc18360217d8f7ab5e7c516566761ea12ce7f9d72",
+  "decimals": 18,
+  "logo": "ethereum-name-service.jpg",
+  "changelly": {
+    "ticker": "ens"
+  },
+  "coingecko": {
+    "id": "ethereum-name-service",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 13855,
+    "slug": "ethereum-name-service"
+  }
+}

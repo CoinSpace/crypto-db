@@ -1,0 +1,19 @@
+{
+  "_id": "vectorspace-ai@ethereum",
+  "asset": "vectorspace-ai",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Vectorspace AI",
+  "symbol": "VXV",
+  "address": "0x7d29a64504629172a429e64183d6673b9dacbfce",
+  "decimals": 18,
+  "logo": "vectorspace-ai.jpg",
+  "coingecko": {
+    "id": "vectorspace",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 4441,
+    "slug": "vectorspace-ai"
+  }
+}

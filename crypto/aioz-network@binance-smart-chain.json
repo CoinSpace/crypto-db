@@ -1,0 +1,19 @@
+{
+  "_id": "aioz-network@binance-smart-chain",
+  "asset": "aioz-network",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "AIOZ Network",
+  "symbol": "AIOZ",
+  "address": "0x33d08d8c7a168333a85285a68c0042b39fc3741d",
+  "decimals": 18,
+  "logo": "aioz-network.png",
+  "coingecko": {
+    "id": "aioz-network",
+    "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 9104,
+    "slug": "aioz-network"
+  }
+}

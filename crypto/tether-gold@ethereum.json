@@ -1,0 +1,19 @@
+{
+  "_id": "tether-gold@ethereum",
+  "asset": "tether-gold",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Tether Gold",
+  "symbol": "XAUT",
+  "address": "0x68749665ff8d2d112fa859aa293f07a622782f38",
+  "decimals": 6,
+  "logo": "tether-gold.svg",
+  "coingecko": {
+    "id": "tether-gold",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 5176,
+    "slug": "tether-gold"
+  }
+}

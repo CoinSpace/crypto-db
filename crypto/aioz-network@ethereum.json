@@ -1,0 +1,19 @@
+{
+  "_id": "aioz-network@ethereum",
+  "asset": "aioz-network",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "AIOZ Network",
+  "symbol": "AIOZ",
+  "address": "0x626e8036deb333b408be468f951bdb42433cbf18",
+  "decimals": 18,
+  "logo": "aioz-network.png",
+  "coingecko": {
+    "id": "aioz-network",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 9104,
+    "slug": "aioz-network"
+  }
+}

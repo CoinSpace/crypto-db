@@ -1,0 +1,19 @@
+{
+  "_id": "dusk-network@ethereum",
+  "asset": "dusk-network",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "DUSK Network",
+  "symbol": "DUSK",
+  "address": "0x940a2db1b7008b6c776d4faaca729d6d4a4aa551",
+  "decimals": 18,
+  "logo": "dusk-network.png",
+  "coingecko": {
+    "id": "dusk-network",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 4092,
+    "slug": "dusk-network"
+  }
+}

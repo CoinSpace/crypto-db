@@ -1,0 +1,19 @@
+{
+  "_id": "gods-unchained@ethereum",
+  "asset": "gods-unchained",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Gods Unchained",
+  "symbol": "GODS",
+  "address": "0xccc8cb5229b0ac8069c51fd58367fd1e622afd97",
+  "decimals": 18,
+  "logo": "gods-unchained.png",
+  "coingecko": {
+    "id": "gods-unchained",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 10631,
+    "slug": "gods-unchained"
+  }
+}

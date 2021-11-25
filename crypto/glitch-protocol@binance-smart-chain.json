@@ -1,0 +1,19 @@
+{
+  "_id": "glitch-protocol@binance-smart-chain",
+  "asset": "glitch-protocol",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Glitch Protocol",
+  "symbol": "GLCH",
+  "address": "0xf0902eb0049a4003793bab33f3566a22d2834442",
+  "decimals": 18,
+  "logo": "glitch-protocol.jpg",
+  "coingecko": {
+    "id": "glitch-protocol",
+    "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 8236,
+    "slug": "glitch"
+  }
+}

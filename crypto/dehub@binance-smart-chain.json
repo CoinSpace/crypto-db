@@ -1,0 +1,19 @@
+{
+  "_id": "dehub@binance-smart-chain",
+  "asset": "dehub",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "DeHub",
+  "symbol": "DEHUB",
+  "address": "0xfc206f429d55c71cb7294eff40c6adb20dc21508",
+  "decimals": 5,
+  "logo": "dehub.png",
+  "coingecko": {
+    "id": "dehub",
+    "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 11560,
+    "slug": "dehub"
+  }
+}

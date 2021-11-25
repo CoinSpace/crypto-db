@@ -1,0 +1,19 @@
+{
+  "_id": "firo@binance-smart-chain",
+  "asset": "firo",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Firo",
+  "symbol": "FIRO",
+  "address": "0xd5d0322b6bab6a762c79f8c81a0b674778e13aed",
+  "decimals": 8,
+  "logo": "firo.png",
+  "coingecko": {
+    "id": "binance-peg-firo",
+    "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 1414,
+    "slug": "firo"
+  }
+}

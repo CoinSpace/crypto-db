@@ -1,0 +1,19 @@
+{
+  "_id": "mixmarvel@ethereum",
+  "asset": "mixmarvel",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "MixMarvel",
+  "symbol": "MIX",
+  "address": "0x5d285f735998f36631f678ff41fb56a10a4d0429",
+  "decimals": 18,
+  "logo": "mixmarvel.png",
+  "coingecko": {
+    "id": "mixmarvel",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 4366,
+    "slug": "mixmarvel"
+  }
+}

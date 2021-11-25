@@ -1,0 +1,19 @@
+{
+  "_id": "cudos@ethereum",
+  "asset": "cudos",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Cudos",
+  "symbol": "CUDOS",
+  "address": "0x817bbdbc3e8a1204f3691d14bb44992841e3db35",
+  "decimals": 18,
+  "logo": "cudos.png",
+  "coingecko": {
+    "id": "cudos",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 8258,
+    "slug": "cudos"
+  }
+}

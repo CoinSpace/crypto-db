@@ -1,0 +1,19 @@
+{
+  "_id": "mossland@ethereum",
+  "asset": "mossland",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Mossland",
+  "symbol": "MOC",
+  "address": "0x865ec58b06bf6305b886793aa20a2da31d034e68",
+  "decimals": 18,
+  "logo": "mossland.png",
+  "coingecko": {
+    "id": "mossland",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 2915,
+    "slug": "moss-coin"
+  }
+}

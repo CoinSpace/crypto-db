@@ -1,0 +1,19 @@
+{
+  "_id": "phantasma@binance-smart-chain",
+  "asset": "phantasma",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Phantasma",
+  "symbol": "SOUL",
+  "address": "0xc3adbf524513863102df6784e1ab5652165c7912",
+  "decimals": 8,
+  "logo": "phantasma.svg",
+  "coingecko": {
+    "id": "phantasma",
+    "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 2827,
+    "slug": "phantasma"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "_id": "deapcoin@binance-smart-chain",
+  "asset": "deapcoin",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "DEAPCOIN",
+  "symbol": "DEP",
+  "address": "0xcaf5191fc480f43e4df80106c7695eca56e48b18",
+  "decimals": 18,
+  "logo": "deapcoin.png",
+  "coingecko": {
+    "id": "deapcoin",
+    "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 5429,
+    "slug": "deapcoin"
+  }
+}

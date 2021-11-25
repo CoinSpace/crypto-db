@@ -1,0 +1,19 @@
+{
+  "_id": "derace@binance-smart-chain",
+  "asset": "derace",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "DeRace",
+  "symbol": "DERC",
+  "address": "0x373e768f79c820aa441540d254dca6d045c6d25b",
+  "decimals": 18,
+  "logo": "derace.png",
+  "coingecko": {
+    "id": "derace",
+    "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 10744,
+    "slug": "derace"
+  }
+}

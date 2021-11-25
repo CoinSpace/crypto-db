@@ -1,0 +1,19 @@
+{
+  "_id": "merit-circle@ethereum",
+  "asset": "merit-circle",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Merit Circle",
+  "symbol": "MC",
+  "address": "0x949d48eca67b17269629c7194f4b727d4ef9e5d6",
+  "decimals": 18,
+  "logo": "merit-circle.png",
+  "coingecko": {
+    "id": "merit-circle",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 13523,
+    "slug": "merit-circle"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "_id": "gamezone@binance-smart-chain",
+  "asset": "gamezone",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "GameZone",
+  "symbol": "GZONE",
+  "address": "0xb6adb74efb5801160ff749b1985fd3bd5000e938",
+  "decimals": 18,
+  "logo": "gamezone.jpg",
+  "coingecko": {
+    "id": "gamezone",
+    "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 11871,
+    "slug": "gamezone"
+  }
+}
