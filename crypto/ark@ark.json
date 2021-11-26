@@ -5,7 +5,7 @@
   "type": "coin",
   "name": "Ark",
   "symbol": "ARK",
-  "decimals": null,
+  "decimals": 8,
   "logo": "ark.svg",
   "supported": false,
   "changelly": {

@@ -6,7 +6,7 @@
   "name": "Sologenic",
   "symbol": "SOLO",
   "address": "",
-  "decimals": null,
+  "decimals": 15,
   "logo": "sologenic.png",
   "supported": false,
   "changelly": {

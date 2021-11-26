@@ -5,7 +5,7 @@
   "type": "coin",
   "name": "Hive",
   "symbol": "HIVE",
-  "decimals": null,
+  "decimals": 3,
   "logo": "hive.png",
   "supported": false,
   "changelly": {

@@ -5,7 +5,7 @@
   "type": "coin",
   "name": "Komodo",
   "symbol": "KMD",
-  "decimals": null,
+  "decimals": 8,
   "logo": "komodo.svg",
   "supported": false,
   "changelly": {

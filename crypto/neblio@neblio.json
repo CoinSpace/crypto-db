@@ -5,7 +5,7 @@
   "type": "coin",
   "name": "Neblio",
   "symbol": "NEBL",
-  "decimals": null,
+  "decimals": 8,
   "logo": "neblio.svg",
   "supported": false,
   "changelly": {

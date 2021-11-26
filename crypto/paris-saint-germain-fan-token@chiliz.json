@@ -6,7 +6,7 @@
   "name": "Paris Saint-Germain Fan Token",
   "symbol": "PSG",
   "address": "0x6fc212cde3b420733a88496cbdbb15d85beab1ca",
-  "decimals": null,
+  "decimals": 0,
   "logo": "paris-saint-germain-fan-token.png",
   "supported": false,
   "changelly": {

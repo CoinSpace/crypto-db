@@ -5,7 +5,7 @@
   "type": "coin",
   "name": "VeThor Token",
   "symbol": "VTHO",
-  "decimals": null,
+  "decimals": 18,
   "logo": "vtho.png",
   "supported": false,
   "changelly": {

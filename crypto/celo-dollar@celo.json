@@ -6,7 +6,7 @@
   "name": "Celo Dollar",
   "symbol": "CUSD",
   "address": "0x765de816845861e75a25fca122bb6898b8b1282a",
-  "decimals": null,
+  "decimals": 18,
   "logo": "celo-dollar.png",
   "supported": false,
   "coingecko": {

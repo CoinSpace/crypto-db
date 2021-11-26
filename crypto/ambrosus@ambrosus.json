@@ -5,7 +5,7 @@
   "type": "coin",
   "name": "Ambrosus",
   "symbol": "AMB",
-  "decimals": null,
+  "decimals": 5,
   "logo": "ambrosus.jpg",
   "supported": false,
   "changelly": {

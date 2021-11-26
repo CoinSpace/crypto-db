@@ -6,7 +6,7 @@
   "name": "THORChain",
   "symbol": "RUNE",
   "address": "RUNE-B1A",
-  "decimals": null,
+  "decimals": 8,
   "logo": "thorchain.svg",
   "supported": false,
   "coingecko": {

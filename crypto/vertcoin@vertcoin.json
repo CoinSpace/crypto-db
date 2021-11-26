@@ -5,7 +5,7 @@
   "type": "coin",
   "name": "Vertcoin",
   "symbol": "VTC",
-  "decimals": null,
+  "decimals": 8,
   "logo": "vertcoin.svg",
   "supported": false,
   "changelly": {

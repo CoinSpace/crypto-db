@@ -6,7 +6,7 @@
   "name": "Travala.com",
   "symbol": "AVA",
   "address": "AVA-645",
-  "decimals": null,
+  "decimals": 8,
   "logo": "travala-com.png",
   "supported": false,
   "changelly": {

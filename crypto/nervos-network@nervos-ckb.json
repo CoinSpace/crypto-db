@@ -5,7 +5,7 @@
   "type": "coin",
   "name": "Nervos Network",
   "symbol": "CKB",
-  "decimals": null,
+  "decimals": 8,
   "logo": "nervos-network.svg",
   "supported": false,
   "changelly": {

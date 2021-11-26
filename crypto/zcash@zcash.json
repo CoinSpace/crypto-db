@@ -5,7 +5,7 @@
   "type": "coin",
   "name": "Zcash",
   "symbol": "ZEC",
-  "decimals": null,
+  "decimals": 8,
   "logo": "zcash.svg",
   "supported": false,
   "changelly": {

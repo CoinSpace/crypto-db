@@ -5,7 +5,7 @@
   "type": "coin",
   "name": "Polygon",
   "symbol": "MATIC",
-  "decimals": null,
+  "decimals": 18,
   "logo": "polygon.svg",
   "supported": false,
   "coingecko": {

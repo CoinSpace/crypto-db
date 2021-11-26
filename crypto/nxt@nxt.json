@@ -5,7 +5,7 @@
   "type": "coin",
   "name": "NXT",
   "symbol": "NXT",
-  "decimals": null,
+  "decimals": 8,
   "logo": "nxt.svg",
   "supported": false,
   "changelly": {

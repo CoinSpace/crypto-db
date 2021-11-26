@@ -5,7 +5,7 @@
   "type": "coin",
   "name": "Qtum",
   "symbol": "QTUM",
-  "decimals": null,
+  "decimals": 8,
   "logo": "qtum.svg",
   "supported": false,
   "changelly": {

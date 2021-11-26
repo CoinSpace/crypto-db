@@ -5,7 +5,7 @@
   "type": "coin",
   "name": "Lisk",
   "symbol": "LSK",
-  "decimals": null,
+  "decimals": 4,
   "logo": "lisk.svg",
   "supported": false,
   "changelly": {

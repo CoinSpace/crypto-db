@@ -5,7 +5,7 @@
   "type": "coin",
   "name": "Cardano",
   "symbol": "ADA",
-  "decimals": null,
+  "decimals": 6,
   "logo": "cardano.svg",
   "supported": false,
   "changelly": {

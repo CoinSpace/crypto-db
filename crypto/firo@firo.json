@@ -5,7 +5,7 @@
   "type": "coin",
   "name": "Firo",
   "symbol": "FIRO",
-  "decimals": null,
+  "decimals": 8,
   "logo": "firo.jpg",
   "supported": false,
   "changelly": {

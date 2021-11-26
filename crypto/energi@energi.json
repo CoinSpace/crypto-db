@@ -5,7 +5,7 @@
   "type": "coin",
   "name": "Energi",
   "symbol": "NRG",
-  "decimals": null,
+  "decimals": 18,
   "logo": "energi.png",
   "supported": false,
   "changelly": {

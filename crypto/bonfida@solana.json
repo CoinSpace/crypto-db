@@ -6,7 +6,7 @@
   "name": "Bonfida",
   "symbol": "FIDA",
   "address": "echesyfxepkdltoizsl8pbe8myagyy8zrqsacncfgnvp",
-  "decimals": null,
+  "decimals": 6,
   "logo": "bonfida.png",
   "supported": false,
   "changelly": {

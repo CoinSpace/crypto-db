@@ -5,7 +5,7 @@
   "type": "coin",
   "name": "IOST",
   "symbol": "IOST",
-  "decimals": null,
+  "decimals": 8,
   "logo": "iost.png",
   "supported": false,
   "changelly": {

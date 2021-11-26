@@ -5,7 +5,7 @@
   "type": "coin",
   "name": "Celo",
   "symbol": "CELO",
-  "decimals": null,
+  "decimals": 18,
   "logo": "celo.svg",
   "supported": false,
   "changelly": {

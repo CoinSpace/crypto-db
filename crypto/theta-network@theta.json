@@ -5,7 +5,7 @@
   "type": "coin",
   "name": "Theta Network",
   "symbol": "THETA",
-  "decimals": null,
+  "decimals": 4,
   "logo": "theta-network.svg",
   "supported": false,
   "changelly": {

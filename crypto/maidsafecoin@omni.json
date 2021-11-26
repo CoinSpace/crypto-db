@@ -6,7 +6,7 @@
   "name": "MaidSafeCoin",
   "symbol": "MAID",
   "address": "",
-  "decimals": null,
+  "decimals": 0,
   "logo": "maidsafecoin.svg",
   "supported": false,
   "changelly": {

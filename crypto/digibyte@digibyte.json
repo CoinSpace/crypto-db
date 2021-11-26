@@ -5,7 +5,7 @@
   "type": "coin",
   "name": "DigiByte",
   "symbol": "DGB",
-  "decimals": null,
+  "decimals": 8,
   "logo": "digibyte.svg",
   "supported": false,
   "changelly": {

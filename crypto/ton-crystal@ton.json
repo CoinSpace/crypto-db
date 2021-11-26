@@ -3,9 +3,9 @@
   "asset": "ton-crystal",
   "platform": "ton",
   "type": "coin",
-  "name": "TON Crystal",
+  "name": "Everscale",
   "symbol": "EVER",
-  "decimals": null,
+  "decimals": 9,
   "logo": "ton-crystal.png",
   "supported": false,
   "changelly": {
@@ -16,6 +16,6 @@
   },
   "coinmarketcap": {
     "id": 7505,
-    "slug": "ton-crystal"
+    "slug": "everscale"
   }
 }

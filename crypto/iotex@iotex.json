@@ -5,7 +5,7 @@
   "type": "coin",
   "name": "IoTeX",
   "symbol": "IOTX",
-  "decimals": null,
+  "decimals": 6,
   "logo": "iotex.svg",
   "supported": false,
   "changelly": {

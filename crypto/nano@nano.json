@@ -5,7 +5,7 @@
   "type": "coin",
   "name": "Nano",
   "symbol": "XNO",
-  "decimals": null,
+  "decimals": 30,
   "logo": "nano.svg",
   "supported": false,
   "changelly": {

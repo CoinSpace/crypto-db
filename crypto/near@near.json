@@ -5,7 +5,7 @@
   "type": "coin",
   "name": "Near",
   "symbol": "NEAR",
-  "decimals": null,
+  "decimals": 24,
   "logo": "near.png",
   "supported": false,
   "coingecko": {

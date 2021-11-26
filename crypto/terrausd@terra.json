@@ -5,7 +5,7 @@
   "type": "token",
   "name": "TerraUSD",
   "symbol": "UST",
-  "decimals": null,
+  "decimals": 6,
   "logo": "terrausd.png",
   "coingecko": {
     "id": "terrausd",

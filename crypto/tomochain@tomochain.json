@@ -5,7 +5,7 @@
   "type": "coin",
   "name": "TomoChain",
   "symbol": "TOMO",
-  "decimals": null,
+  "decimals": 8,
   "logo": "tomochain.svg",
   "supported": false,
   "changelly": {

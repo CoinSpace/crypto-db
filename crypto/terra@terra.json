@@ -5,7 +5,7 @@
   "type": "coin",
   "name": "Terra",
   "symbol": "LUNA",
-  "decimals": null,
+  "decimals": 6,
   "logo": "terra.svg",
   "supported": false,
   "changelly": {

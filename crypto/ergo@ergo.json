@@ -5,7 +5,7 @@
   "type": "coin",
   "name": "Ergo",
   "symbol": "ERG",
-  "decimals": null,
+  "decimals": 9,
   "logo": "ergo.svg",
   "supported": false,
   "changelly": {

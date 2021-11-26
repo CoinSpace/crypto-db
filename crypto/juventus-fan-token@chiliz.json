@@ -6,7 +6,7 @@
   "name": "Juventus Fan Token",
   "symbol": "JUV",
   "address": "0x14a5750b0e54b57d12767b84a326c9fe59472da5",
-  "decimals": null,
+  "decimals": 0,
   "logo": "juventus-fan-token.png",
   "supported": false,
   "changelly": {

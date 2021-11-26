@@ -5,7 +5,7 @@
   "type": "coin",
   "name": "Waves",
   "symbol": "WAVES",
-  "decimals": null,
+  "decimals": 8,
   "logo": "waves.svg",
   "supported": false,
   "changelly": {

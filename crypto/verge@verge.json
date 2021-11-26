@@ -5,7 +5,7 @@
   "type": "coin",
   "name": "Verge",
   "symbol": "XVG",
-  "decimals": null,
+  "decimals": 8,
   "logo": "verge.svg",
   "supported": false,
   "changelly": {

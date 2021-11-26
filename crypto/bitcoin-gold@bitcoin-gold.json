@@ -5,7 +5,7 @@
   "type": "coin",
   "name": "Bitcoin Gold",
   "symbol": "BTG",
-  "decimals": null,
+  "decimals": 8,
   "logo": "bitcoin-gold.svg",
   "supported": false,
   "changelly": {

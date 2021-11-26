@@ -5,7 +5,7 @@
   "type": "coin",
   "name": "Klaytn",
   "symbol": "KLAY",
-  "decimals": null,
+  "decimals": 18,
   "logo": "klaytn.svg",
   "supported": false,
   "coingecko": {

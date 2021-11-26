@@ -5,7 +5,7 @@
   "type": "token",
   "name": "Tether",
   "symbol": "USDT",
-  "decimals": null,
+  "decimals": 8,
   "logo": "tether.svg",
   "changelly": {
     "ticker": "usdt"

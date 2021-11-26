@@ -6,7 +6,7 @@
   "name": "Ontology Gas",
   "symbol": "ONG",
   "address": "",
-  "decimals": null,
+  "decimals": 9,
   "logo": "ong.png",
   "supported": false,
   "coingecko": {

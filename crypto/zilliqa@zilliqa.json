@@ -5,7 +5,7 @@
   "type": "coin",
   "name": "Zilliqa",
   "symbol": "ZIL",
-  "decimals": null,
+  "decimals": 8,
   "logo": "zilliqa.svg",
   "supported": false,
   "changelly": {

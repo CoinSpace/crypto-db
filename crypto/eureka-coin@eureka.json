@@ -5,7 +5,7 @@
   "type": "coin",
   "name": "Eureka Coin",
   "symbol": "ERK",
-  "decimals": null,
+  "decimals": 8,
   "logo": "eureka-coin.png",
   "supported": false,
   "changelly": {

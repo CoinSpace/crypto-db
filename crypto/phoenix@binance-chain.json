@@ -6,7 +6,7 @@
   "name": "Phoenix Global",
   "symbol": "PHB",
   "address": "PHB-2DF",
-  "decimals": null,
+  "decimals": 8,
   "logo": "phoenix.png",
   "supported": false,
   "changelly": {

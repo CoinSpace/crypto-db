@@ -5,7 +5,7 @@
   "type": "coin",
   "name": "Elrond",
   "symbol": "EGLD",
-  "decimals": null,
+  "decimals": 18,
   "logo": "elrond.svg",
   "supported": false,
   "changelly": {

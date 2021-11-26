@@ -5,7 +5,7 @@
   "type": "coin",
   "name": "Symbol",
   "symbol": "XYM",
-  "decimals": null,
+  "decimals": 6,
   "logo": "symbol.png",
   "supported": false,
   "changelly": {

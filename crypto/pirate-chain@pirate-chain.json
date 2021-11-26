@@ -5,7 +5,7 @@
   "type": "coin",
   "name": "Pirate Chain",
   "symbol": "ARRR",
-  "decimals": null,
+  "decimals": 8,
   "logo": "pirate-chain.svg",
   "supported": false,
   "changelly": {

@@ -5,7 +5,7 @@
   "type": "coin",
   "name": "NEO",
   "symbol": "NEO",
-  "decimals": null,
+  "decimals": 0,
   "logo": "neo.svg",
   "supported": false,
   "changelly": {

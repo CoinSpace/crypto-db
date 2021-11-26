@@ -6,7 +6,7 @@
   "name": "Ignis",
   "symbol": "IGNIS",
   "address": "",
-  "decimals": null,
+  "decimals": 8,
   "logo": "ignis.svg",
   "supported": false,
   "changelly": {

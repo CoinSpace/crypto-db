@@ -5,7 +5,7 @@
   "type": "coin",
   "name": "XDC Network",
   "symbol": "XDC",
-  "decimals": null,
+  "decimals": 18,
   "logo": "xdc-network.png",
   "supported": false,
   "changelly": {

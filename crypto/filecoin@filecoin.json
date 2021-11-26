@@ -5,7 +5,7 @@
   "type": "coin",
   "name": "Filecoin",
   "symbol": "FIL",
-  "decimals": null,
+  "decimals": 4,
   "logo": "filecoin.svg",
   "supported": false,
   "changelly": {
