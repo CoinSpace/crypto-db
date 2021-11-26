@@ -996,6 +996,7 @@
 <td><ul>
 <li><a href="https://www.coingecko.com/en/coins/iota">coingecko</a></li>
 <li><a href="https://coinmarketcap.com/currencies/iota/">coinmarketcap</a></li>
+<li><a href="https://changelly.com/exchange/iota">changelly</a></li>
 <li><a href="https://buy.moonpay.io/?defaultCurrencyCode=miota">moonpay</a></li>
 </td></ul>
 </tr>
@@ -4979,13 +4980,13 @@
 <td><img src="logo/ton-crystal.png" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: ton-crystal@ton</li>
-<li>Name: TON Crystal</li>
+<li>Name: Everscale</li>
 <li>Symbol: EVER</li>
 <li>Platform: ton</li>
 </td></ul>
 <td><ul>
 <li><a href="https://www.coingecko.com/en/coins/ton-crystal">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/ton-crystal/">coinmarketcap</a></li>
+<li><a href="https://coinmarketcap.com/currencies/everscale/">coinmarketcap</a></li>
 <li><a href="https://changelly.com/exchange/ton">changelly</a></li>
 </td></ul>
 </tr>
