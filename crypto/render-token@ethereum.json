@@ -7,7 +7,10 @@
   "symbol": "RNDR",
   "address": "0x6de037ef9ad2725eb40118bb1702ebb27e4aeb24",
   "decimals": 18,
-  "logo": "render-token.jpg",
+  "logo": "render-token.png",
+  "changelly": {
+    "ticker": "rndr"
+  },
   "coingecko": {
     "id": "render-token",
     "platform": "ethereum"

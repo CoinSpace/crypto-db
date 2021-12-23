@@ -8,6 +8,9 @@
   "address": "0xc7283b66eb1eb5fb86327f08e1b5816b0720212b",
   "decimals": 18,
   "logo": "tribe.png",
+  "changelly": {
+    "ticker": "tribe"
+  },
   "coingecko": {
     "id": "tribe-2",
     "platform": "ethereum"

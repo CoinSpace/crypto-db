@@ -1,0 +1,22 @@
+{
+  "_id": "biconomy@ethereum",
+  "asset": "biconomy",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Biconomy",
+  "symbol": "BICO",
+  "address": "0xf17e65822b568b3903685a7c9f496cf7656cc6c2",
+  "decimals": 18,
+  "logo": "biconomy.jpg",
+  "changelly": {
+    "ticker": "bico"
+  },
+  "coingecko": {
+    "id": "biconomy",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 9543,
+    "slug": "biconomy"
+  }
+}

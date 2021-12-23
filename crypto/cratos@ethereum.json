@@ -1,0 +1,19 @@
+{
+  "_id": "cratos@ethereum",
+  "asset": "cratos",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Cratos",
+  "symbol": "CRTS",
+  "address": "0x678e840c640f619e17848045d23072844224dd37",
+  "decimals": 18,
+  "logo": "cratos.png",
+  "coingecko": {
+    "id": "cratos",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 12064,
+    "slug": "cratos"
+  }
+}

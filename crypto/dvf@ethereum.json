@@ -1,0 +1,19 @@
+{
+  "_id": "dvf@ethereum",
+  "asset": "dvf",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "DVF",
+  "symbol": "DVF",
+  "address": "0xdddddd4301a082e62e84e43f474f044423921918",
+  "decimals": 18,
+  "logo": "dvf.png",
+  "coingecko": {
+    "id": "dvf",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 10759,
+    "slug": "deversifi"
+  }
+}

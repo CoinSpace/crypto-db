@@ -8,6 +8,9 @@
   "address": "0xdbdb4d16eda451d0503b854cf79d55697f90c8df",
   "decimals": 18,
   "logo": "alchemix.png",
+  "changelly": {
+    "ticker": "alcx"
+  },
   "coingecko": {
     "id": "alchemix",
     "platform": "ethereum"

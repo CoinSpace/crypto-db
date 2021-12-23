@@ -1,0 +1,19 @@
+{
+  "_id": "veritaseum@ethereum",
+  "asset": "veritaseum",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Veritaseum",
+  "symbol": "VERI",
+  "address": "0x8f3470a7388c05ee4e7af3d01d8c722b0ff52374",
+  "decimals": 18,
+  "logo": "veritaseum.svg",
+  "coingecko": {
+    "id": "veritaseum",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 1710,
+    "slug": "veritaseum"
+  }
+}

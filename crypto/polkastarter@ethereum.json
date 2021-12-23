@@ -8,6 +8,9 @@
   "address": "0x83e6f1e41cdd28eaceb20cb649155049fac3d5aa",
   "decimals": 18,
   "logo": "polkastarter.png",
+  "changelly": {
+    "ticker": "pols"
+  },
   "coingecko": {
     "id": "polkastarter",
     "platform": "ethereum"

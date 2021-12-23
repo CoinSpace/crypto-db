@@ -1,0 +1,19 @@
+{
+  "_id": "coinex-token@ethereum",
+  "asset": "coinex-token",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "CoinEx Token",
+  "symbol": "CET",
+  "address": "0x081f67afa0ccf8c7b17540767bbe95df2ba8d97f",
+  "decimals": 18,
+  "logo": "coinex-token.png",
+  "coingecko": {
+    "id": "coinex-token",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 2941,
+    "slug": "coinex-token"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "_id": "shiba-inu@binance-smart-chain",
+  "asset": "shiba-inu",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Shiba Inu",
+  "symbol": "SHIB",
+  "address": "0x2859e4544c4bb03966803b044a93563bd2d0dd4d",
+  "decimals": 18,
+  "logo": "shiba-inu.svg",
+  "coingecko": {
+    "id": "shiba-inu",
+    "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 5994,
+    "slug": "shiba-inu"
+  }
+}

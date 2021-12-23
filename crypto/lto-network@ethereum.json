@@ -5,7 +5,7 @@
   "type": "token",
   "name": "LTO Network",
   "symbol": "LTO",
-  "address": "0x3db6ba6ab6f95efed1a6e794cad492faaabf294d",
+  "address": "0xd01409314acb3b245cea9500ece3f6fd4d70ea30",
   "decimals": 8,
   "logo": "lto-network.svg",
   "coingecko": {

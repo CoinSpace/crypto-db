@@ -1,0 +1,19 @@
+{
+  "_id": "reflexer-ungovernance-token@ethereum",
+  "asset": "reflexer-ungovernance-token",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Reflexer Ungovernance Token",
+  "symbol": "FLX",
+  "address": "0x6243d8cea23066d098a15582d81a598b4e8391f4",
+  "decimals": 18,
+  "logo": "reflexer-ungovernance-token.jpg",
+  "coingecko": {
+    "id": "reflexer-ungovernance-token",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 9493,
+    "slug": "reflexer-ungovernance-token"
+  }
+}

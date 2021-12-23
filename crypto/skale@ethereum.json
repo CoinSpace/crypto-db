@@ -8,6 +8,9 @@
   "address": "0x00c83aecc790e8a4453e5dd3b0b4b3680501a7a7",
   "decimals": 18,
   "logo": "skale.png",
+  "changelly": {
+    "ticker": "skl"
+  },
   "coingecko": {
     "id": "skale",
     "platform": "ethereum"

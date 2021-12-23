@@ -8,6 +8,9 @@
   "address": "0x8f8221afbb33998d8584a2b05749ba73c37a938a",
   "decimals": 18,
   "logo": "request.svg",
+  "changelly": {
+    "ticker": "req"
+  },
   "coingecko": {
     "id": "request-network",
     "platform": "ethereum"

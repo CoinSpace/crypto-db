@@ -1,0 +1,19 @@
+{
+  "_id": "ribbon-finance@ethereum",
+  "asset": "ribbon-finance",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Ribbon Finance",
+  "symbol": "RBN",
+  "address": "0x6123b0049f904d730db3c36a31167d9d4121fa6b",
+  "decimals": 18,
+  "logo": "ribbon-finance.png",
+  "coingecko": {
+    "id": "ribbon-finance",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 12387,
+    "slug": "ribbon-finance"
+  }
+}

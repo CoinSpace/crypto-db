@@ -1,0 +1,19 @@
+{
+  "_id": "boba-network@ethereum",
+  "asset": "boba-network",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Boba Network",
+  "symbol": "BOBA",
+  "address": "0x42bbfa2e77757c645eeaad1655e0911a7553efbc",
+  "decimals": 18,
+  "logo": "boba-network.png",
+  "coingecko": {
+    "id": "boba-network",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 14556,
+    "slug": "boba-network"
+  }
+}

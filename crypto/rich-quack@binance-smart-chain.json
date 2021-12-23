@@ -1,0 +1,19 @@
+{
+  "_id": "rich-quack@binance-smart-chain",
+  "asset": "rich-quack",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Rich Quack",
+  "symbol": "QUACK",
+  "address": "0xd74b782e05aa25c50e7330af541d46e18f36661c",
+  "decimals": 9,
+  "logo": "rich-quack.png",
+  "coingecko": {
+    "id": "richquack",
+    "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 10641,
+    "slug": "richquack-com"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "_id": "guildfi@ethereum",
+  "asset": "guildfi",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "GuildFi",
+  "symbol": "GF",
+  "address": "0xaaef88cea01475125522e117bfe45cf32044e238",
+  "decimals": 18,
+  "logo": "guildfi.png",
+  "coingecko": {
+    "id": "guildfi",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 15585,
+    "slug": "guildfi"
+  }
+}
