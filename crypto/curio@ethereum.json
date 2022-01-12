@@ -11,10 +11,6 @@
   "changelly": {
     "ticker": "cur"
   },
-  "coingecko": {
-    "id": "curio",
-    "platform": "ethereum"
-  },
   "coinmarketcap": {
     "id": 5083,
     "slug": "curio"
