@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "kardiachain@ethereum",
   "asset": "kardiachain",
   "platform": "ethereum",
