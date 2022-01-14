@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "phoenix@binance-chain",
   "asset": "phoenix",
   "platform": "binance-chain",
