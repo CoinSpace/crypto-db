@@ -8,9 +8,6 @@
   "decimals": 9,
   "logo": "ton-crystal.png",
   "supported": false,
-  "changelly": {
-    "ticker": "ton"
-  },
   "coingecko": {
     "id": "ton-crystal"
   },
