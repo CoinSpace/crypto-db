@@ -8,6 +8,9 @@
   "address": "0x09a3ecafa817268f77be1283176b946c4ff2e608",
   "decimals": 18,
   "logo": "mirror-protocol.svg",
+  "changelly": {
+    "ticker": "mir"
+  },
   "coingecko": {
     "id": "mirror-protocol",
     "platform": "ethereum"
