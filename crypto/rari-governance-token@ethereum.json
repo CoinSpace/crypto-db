@@ -8,6 +8,9 @@
   "address": "0xd291e7a03283640fdc51b121ac401383a46cc623",
   "decimals": 18,
   "logo": "rari-governance-token.png",
+  "changelly": {
+    "ticker": "rgt"
+  },
   "coingecko": {
     "id": "rari-governance-token",
     "platform": "ethereum"
