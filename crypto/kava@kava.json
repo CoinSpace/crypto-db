@@ -8,6 +8,9 @@
   "decimals": 8,
   "logo": "kava.svg",
   "supported": false,
+  "changelly": {
+    "ticker": "kava"
+  },
   "coingecko": {
     "id": "kava"
   },
