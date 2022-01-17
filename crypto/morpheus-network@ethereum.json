@@ -6,7 +6,7 @@
   "name": "Morpheus Network",
   "symbol": "MNW",
   "address": "0xd3e4ba569045546d09cf021ecc5dfe42b1d7f6e4",
-  "decimals": 4,
+  "decimals": 18,
   "logo": "morpheus-network.png",
   "coingecko": {
     "id": "morpheus-network",
