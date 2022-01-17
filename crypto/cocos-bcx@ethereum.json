@@ -8,6 +8,9 @@
   "address": "0xc4c7ea4fab34bd9fb9a5e1b1a98df76e26e6407c",
   "decimals": 18,
   "logo": "cocos-bcx.jpg",
+  "changelly": {
+    "ticker": "cocos"
+  },
   "coingecko": {
     "id": "cocos-bcx",
     "platform": "ethereum"
