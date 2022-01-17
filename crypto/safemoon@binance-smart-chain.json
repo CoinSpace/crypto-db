@@ -5,15 +5,15 @@
   "type": "token",
   "name": "SafeMoon",
   "symbol": "SAFEMOON",
-  "address": "0x8076c74c5e3f5852037f31ff0093eeb8c8add8d3",
+  "address": "0x42981d0bfbaf196529376ee702f2a9eb9092fcb5",
   "decimals": 9,
   "logo": "safemoon.png",
   "coingecko": {
-    "id": "safemoon",
+    "id": "safemoon-2",
     "platform": "binance-smart-chain"
   },
   "coinmarketcap": {
-    "id": 8757,
-    "slug": "safemoon"
+    "id": 16162,
+    "slug": "safemoon-v2"
   }
 }
