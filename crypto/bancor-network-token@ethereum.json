@@ -7,7 +7,7 @@
   "symbol": "BNT",
   "address": "0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c",
   "decimals": 18,
-  "logo": "bancor-network-token.png",
+  "logo": "bancor-network-token.svg",
   "changelly": {
     "ticker": "bnt"
   },
