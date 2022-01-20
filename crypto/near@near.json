@@ -6,7 +6,7 @@
   "name": "Near",
   "symbol": "NEAR",
   "decimals": 24,
-  "logo": "near.png",
+  "logo": "near.svg",
   "supported": false,
   "coingecko": {
     "id": "near"
