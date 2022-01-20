@@ -6,7 +6,7 @@
   "name": "Ambrosus",
   "symbol": "AMB",
   "decimals": 5,
-  "logo": "ambrosus.jpg",
+  "logo": "ambrosus.svg",
   "supported": false,
   "changelly": {
     "ticker": "amb"
