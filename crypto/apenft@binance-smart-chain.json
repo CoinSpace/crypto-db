@@ -7,7 +7,7 @@
   "symbol": "NFT",
   "address": "0x1fc9004ec7e5722891f5f38bae7678efcb11d34d",
   "decimals": 6,
-  "logo": "apenft.jpg",
+  "logo": "apenft.svg",
   "coingecko": {
     "id": "apenft",
     "platform": "binance-smart-chain"
