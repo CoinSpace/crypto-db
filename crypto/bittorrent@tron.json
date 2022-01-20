@@ -9,9 +9,6 @@
   "decimals": 6,
   "logo": "bittorrent.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "btt"
-  },
   "coingecko": {
     "id": "bittorrent-2",
     "platform": "tron"
