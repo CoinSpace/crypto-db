@@ -7,7 +7,7 @@
   "symbol": "FET",
   "address": "0xaea46a60368a7bd060eec7df8cba43b7ef41ad85",
   "decimals": 18,
-  "logo": "fetch-ai.jpg",
+  "logo": "fetch-ai.svg",
   "coingecko": {
     "id": "fetch-ai",
     "platform": "ethereum"
