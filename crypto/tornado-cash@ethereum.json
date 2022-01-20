@@ -7,7 +7,7 @@
   "symbol": "TORN",
   "address": "0x77777feddddffc19ff86db637967013e6c6a116c",
   "decimals": 18,
-  "logo": "tornado-cash.jpg",
+  "logo": "tornado-cash.svg",
   "changelly": {
     "ticker": "torn"
   },

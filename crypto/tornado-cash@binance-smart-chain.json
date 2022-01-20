@@ -7,7 +7,7 @@
   "symbol": "TORN",
   "address": "0x1ba8d3c4c219b124d351f603060663bd1bcd9bbf",
   "decimals": 18,
-  "logo": "tornado-cash.jpg",
+  "logo": "tornado-cash.svg",
   "coingecko": {
     "id": "tornado-cash",
     "platform": "binance-smart-chain"
