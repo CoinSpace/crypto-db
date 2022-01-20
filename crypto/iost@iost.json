@@ -6,7 +6,7 @@
   "name": "IOST",
   "symbol": "IOST",
   "decimals": 8,
-  "logo": "iost.png",
+  "logo": "iost.svg",
   "supported": false,
   "changelly": {
     "ticker": "iost"
