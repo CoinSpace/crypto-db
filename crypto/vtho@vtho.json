@@ -6,7 +6,7 @@
   "name": "VeThor Token",
   "symbol": "VTHO",
   "decimals": 18,
-  "logo": "vtho.png",
+  "logo": "vtho.svg",
   "supported": false,
   "changelly": {
     "ticker": "vtho"
