@@ -7,7 +7,7 @@
   "symbol": "SAFEMOON",
   "address": "0x42981d0bfbaf196529376ee702f2a9eb9092fcb5",
   "decimals": 9,
-  "logo": "safemoon.png",
+  "logo": "safemoon.svg",
   "coingecko": {
     "id": "safemoon-2",
     "platform": "binance-smart-chain"
