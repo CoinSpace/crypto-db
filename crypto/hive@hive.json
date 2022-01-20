@@ -6,7 +6,7 @@
   "name": "Hive",
   "symbol": "HIVE",
   "decimals": 3,
-  "logo": "hive.png",
+  "logo": "hive.svg",
   "supported": false,
   "changelly": {
     "ticker": "hive"
