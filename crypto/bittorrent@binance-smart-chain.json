@@ -9,7 +9,7 @@
   "decimals": 18,
   "logo": "bittorrent.svg",
   "coingecko": {
-    "id": "bittorrent-2",
+    "id": "bittorrent-old",
     "platform": "binance-smart-chain"
   },
   "coinmarketcap": {
