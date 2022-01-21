@@ -8,7 +8,6 @@
   "symbol": "DG",
   "address": "0x9fdc3ae5c814b79dca2556564047c5e7e5449c19",
   "decimals": 18,
-  "logo": "decentral-games.png",
   "coingecko": {
     "id": "decentral-games",
     "platform": "binance-smart-chain"

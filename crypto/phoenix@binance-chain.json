@@ -8,7 +8,6 @@
   "symbol": "PHB",
   "address": "PHB-2DF",
   "decimals": 8,
-  "logo": "phoenix.png",
   "supported": false,
   "changelly": {
     "ticker": "phb"
