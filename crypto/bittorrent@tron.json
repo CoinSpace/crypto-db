@@ -3,15 +3,12 @@
   "asset": "bittorrent",
   "platform": "tron",
   "type": "token",
-  "name": "BitTorrent",
-  "symbol": "BTT",
+  "name": "BitTorrent [OLD]",
+  "symbol": "BTTOLD",
   "address": "1002000",
   "decimals": 6,
   "logo": "bittorrent.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "btt"
-  },
   "coingecko": {
     "id": "bittorrent-old",
     "platform": "tron"
