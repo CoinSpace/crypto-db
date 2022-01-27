@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "my-defi-pet@ethereum",
   "asset": "my-defi-pet",
   "platform": "ethereum",
@@ -7,7 +8,6 @@
   "symbol": "DPET",
   "address": "0xfb62ae373aca027177d1c18ee0862817f9080d08",
   "decimals": 18,
-  "logo": "my-defi-pet.png",
   "coingecko": {
     "id": "my-defi-pet",
     "platform": "ethereum"
