@@ -3,7 +3,7 @@
   "asset": "aurox-token",
   "platform": "ethereum",
   "type": "token",
-  "name": "Aurox Token",
+  "name": "Aurox",
   "symbol": "URUS",
   "address": "0x6c5fbc90e4d78f70cc5025db005b39b03914fc0c",
   "decimals": 18,
