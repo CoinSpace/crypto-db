@@ -1,0 +1,18 @@
+{
+  "_id": "oasis-network@ethereum",
+  "asset": "oasis-network",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Oasis Network",
+  "symbol": "ROSE",
+  "address": "0x26b80fbfc01b71495f477d5237071242e0d959d7",
+  "decimals": 18,
+  "logo": "oasis-network.svg",
+  "coingecko": {
+    "id": "oasis-network"
+  },
+  "coinmarketcap": {
+    "id": 7653,
+    "slug": "oasis-network"
+  }
+}

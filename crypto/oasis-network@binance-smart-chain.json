@@ -1,0 +1,18 @@
+{
+  "_id": "oasis-network@binance-smart-chain",
+  "asset": "oasis-network",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Oasis Network",
+  "symbol": "ROSE",
+  "address": "0x6c6d604d3f07abe287c1a3df0281e999a83495c0",
+  "decimals": 18,
+  "logo": "oasis-network.svg",
+  "coingecko": {
+    "id": "oasis-network"
+  },
+  "coinmarketcap": {
+    "id": 7653,
+    "slug": "oasis-network"
+  }
+}
