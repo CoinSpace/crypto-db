@@ -3,7 +3,7 @@
   "asset": "eden",
   "platform": "ethereum",
   "type": "token",
-  "name": "EDEN",
+  "name": "Eden",
   "symbol": "EDEN",
   "address": "0x1559fa1b8f28238fd5d76d9f434ad86fd20d1559",
   "decimals": 18,
