@@ -3,7 +3,7 @@
   "asset": "mcdex",
   "platform": "binance-smart-chain",
   "type": "token",
-  "name": "MCDEX",
+  "name": "MCDEX Token",
   "symbol": "MCB",
   "address": "0x5fe80d2cd054645b9419657d3d10d26391780a7b",
   "decimals": 18,
