@@ -1,0 +1,21 @@
+{
+  "_id": "near@binance-smart-chain",
+  "asset": "near",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Near",
+  "symbol": "NEAR",
+  "address": "0x1fa4a73a3f0133f0025378af00236f3abdee5d63",
+  "decimals": 18,
+  "logo": "near.svg",
+  "changelly": {
+    "ticker": "near"
+  },
+  "coingecko": {
+    "id": "near"
+  },
+  "coinmarketcap": {
+    "id": 6535,
+    "slug": "near-protocol"
+  }
+}
