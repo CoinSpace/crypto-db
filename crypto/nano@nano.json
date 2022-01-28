@@ -17,9 +17,5 @@
   "coinmarketcap": {
     "id": 1567,
     "slug": "nano"
-  },
-  "moonpay": {
-    "id": "0e0f84ce-5e51-4524-810c-481a9abc3d5e",
-    "code": "nano"
   }
 }
