@@ -3,7 +3,7 @@
   "asset": "lido-dao",
   "platform": "ethereum",
   "type": "token",
-  "name": "Lido DAO",
+  "name": "Lido DAO Token",
   "symbol": "LDO",
   "address": "0x5a98fcbea516cf06857215779fd812ca3bef1b32",
   "decimals": 18,
