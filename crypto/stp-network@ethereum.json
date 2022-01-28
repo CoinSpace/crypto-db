@@ -3,7 +3,7 @@
   "asset": "stp-network",
   "platform": "ethereum",
   "type": "token",
-  "name": "STP Network",
+  "name": "Standard Tokenization Protocol",
   "symbol": "STPT",
   "address": "0xde7d85157d9714eadf595045cc12ca4a5f3e2adb",
   "decimals": 18,
