@@ -1,0 +1,18 @@
+{
+  "_id": "basic-attention-token@binance-smart-chain",
+  "asset": "basic-attention-token",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Basic Attention Token",
+  "symbol": "BAT",
+  "address": "0x101d82428437127bf1608f699cd651e6abf9766e",
+  "decimals": 18,
+  "logo": "basic-attention-token.svg",
+  "coingecko": {
+    "id": "basic-attention-token"
+  },
+  "coinmarketcap": {
+    "id": 1697,
+    "slug": "basic-attention-token"
+  }
+}
