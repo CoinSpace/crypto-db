@@ -3,7 +3,7 @@
   "asset": "btse-token",
   "platform": "ethereum",
   "type": "token",
-  "name": "BTSE Token",
+  "name": "BTSE",
   "symbol": "BTSE",
   "address": "0x666d875c600aa06ac1cf15641361dec3b00432ef",
   "decimals": 8,
