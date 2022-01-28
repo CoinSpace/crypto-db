@@ -1,0 +1,18 @@
+{
+  "_id": "terrausd@binance-smart-chain",
+  "asset": "terrausd",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "TerraUSD",
+  "symbol": "UST",
+  "address": "0x23396cf899ca06c4472205fc903bdb4de249d6fc",
+  "decimals": 18,
+  "logo": "terrausd.png",
+  "coingecko": {
+    "id": "terrausd"
+  },
+  "coinmarketcap": {
+    "id": 7129,
+    "slug": "terrausd"
+  }
+}
