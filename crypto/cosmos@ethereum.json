@@ -1,0 +1,18 @@
+{
+  "_id": "cosmos@ethereum",
+  "asset": "cosmos",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Cosmos",
+  "symbol": "ATOM",
+  "address": "0x8d983cb9388eac77af0474fa441c4815500cb7bb",
+  "decimals": 6,
+  "logo": "cosmos.svg",
+  "coingecko": {
+    "id": "cosmos"
+  },
+  "coinmarketcap": {
+    "id": 3794,
+    "slug": "cosmos"
+  }
+}
