@@ -1,0 +1,18 @@
+{
+  "_id": "yearn-finance@binance-smart-chain",
+  "asset": "yearn-finance",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "yearn.finance",
+  "symbol": "YFI",
+  "address": "0x88f1a5ae2a3bf98aeaf342d26b30a79438c9142e",
+  "decimals": 18,
+  "logo": "yearn-finance.svg",
+  "coingecko": {
+    "id": "yearn-finance"
+  },
+  "coinmarketcap": {
+    "id": 5864,
+    "slug": "yearn-finance"
+  }
+}
