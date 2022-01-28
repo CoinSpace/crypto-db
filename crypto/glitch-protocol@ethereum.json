@@ -3,7 +3,7 @@
   "asset": "glitch-protocol",
   "platform": "ethereum",
   "type": "token",
-  "name": "Glitch Protocol",
+  "name": "Glitch",
   "symbol": "GLCH",
   "address": "0x038a68ff68c393373ec894015816e33ad41bd564",
   "decimals": 18,
