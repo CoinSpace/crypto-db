@@ -17,9 +17,5 @@
   "coinmarketcap": {
     "id": 1376,
     "slug": "neo"
-  },
-  "moonpay": {
-    "id": "1e00d686-6037-4fd4-baee-a3c4f70fb70c",
-    "code": "neo"
   }
 }
