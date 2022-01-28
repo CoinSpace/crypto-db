@@ -1,0 +1,18 @@
+{
+  "_id": "harmony@binance-smart-chain",
+  "asset": "harmony",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Harmony",
+  "symbol": "ONE",
+  "address": "0x03ff0ff224f904be3118461335064bb48df47938",
+  "decimals": 18,
+  "logo": "harmony.svg",
+  "coingecko": {
+    "id": "harmony"
+  },
+  "coinmarketcap": {
+    "id": 3945,
+    "slug": "harmony"
+  }
+}
