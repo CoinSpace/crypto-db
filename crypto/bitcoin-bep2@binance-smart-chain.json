@@ -1,0 +1,18 @@
+{
+  "_id": "bitcoin-bep2@binance-smart-chain",
+  "asset": "bitcoin-bep2",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Bitcoin BEP2",
+  "symbol": "BTCB",
+  "address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+  "decimals": 18,
+  "logo": "bitcoin.svg",
+  "coingecko": {
+    "id": "bitcoin-bep2"
+  },
+  "coinmarketcap": {
+    "id": 4023,
+    "slug": "bitcoin-bep2"
+  }
+}
