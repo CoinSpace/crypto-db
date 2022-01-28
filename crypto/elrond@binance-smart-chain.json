@@ -1,0 +1,18 @@
+{
+  "_id": "elrond@binance-smart-chain",
+  "asset": "elrond",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Elrond",
+  "symbol": "EGLD",
+  "address": "0xbf7c81fff98bbe61b40ed186e4afd6ddd01337fe",
+  "decimals": 18,
+  "logo": "elrond.svg",
+  "coingecko": {
+    "id": "elrond-erd-2"
+  },
+  "coinmarketcap": {
+    "id": 6892,
+    "slug": "elrond-egld"
+  }
+}
