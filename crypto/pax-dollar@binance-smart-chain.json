@@ -1,0 +1,18 @@
+{
+  "_id": "pax-dollar@binance-smart-chain",
+  "asset": "pax-dollar",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Pax Dollar",
+  "symbol": "USDP",
+  "address": "0xb7f8cd00c5a06c0537e2abff0b58033d02e5e094",
+  "decimals": 18,
+  "logo": "pax-dollar.svg",
+  "coingecko": {
+    "id": "paxos-standard"
+  },
+  "coinmarketcap": {
+    "id": 3330,
+    "slug": "paxos-standard"
+  }
+}
