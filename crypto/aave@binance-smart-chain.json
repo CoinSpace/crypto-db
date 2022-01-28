@@ -1,0 +1,18 @@
+{
+  "_id": "aave@binance-smart-chain",
+  "asset": "aave",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Aave",
+  "symbol": "AAVE",
+  "address": "0xfb6115445bff7b52feb98650c87f44907e58f802",
+  "decimals": 18,
+  "logo": "aave.svg",
+  "coingecko": {
+    "id": "aave"
+  },
+  "coinmarketcap": {
+    "id": 7278,
+    "slug": "aave"
+  }
+}
