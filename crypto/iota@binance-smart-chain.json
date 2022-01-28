@@ -1,0 +1,18 @@
+{
+  "_id": "iota@binance-smart-chain",
+  "asset": "iota",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "IOTA",
+  "symbol": "MIOTA",
+  "address": "0xd944f1d1e9d5f9bb90b62f9d45e447d989580782",
+  "decimals": 6,
+  "logo": "iota.svg",
+  "coingecko": {
+    "id": "iota"
+  },
+  "coinmarketcap": {
+    "id": 1720,
+    "slug": "iota"
+  }
+}
