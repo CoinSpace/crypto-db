@@ -1,0 +1,18 @@
+{
+  "_id": "iotex@ethereum",
+  "asset": "iotex",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "IoTeX",
+  "symbol": "IOTX",
+  "address": "0x6fb3e0a217407efff7ca062d46c26e5d60a14d69",
+  "decimals": 18,
+  "logo": "iotex.svg",
+  "coingecko": {
+    "id": "iotex"
+  },
+  "coinmarketcap": {
+    "id": 2777,
+    "slug": "iotex"
+  }
+}
