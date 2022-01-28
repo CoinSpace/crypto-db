@@ -1,0 +1,18 @@
+{
+  "_id": "ethereum-classic@binance-smart-chain",
+  "asset": "ethereum-classic",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Ethereum Classic",
+  "symbol": "ETC",
+  "address": "0x3d6545b08693dae087e957cb1180ee38b9e3c25e",
+  "decimals": 18,
+  "logo": "ethereum-classic.svg",
+  "coingecko": {
+    "id": "ethereum-classic"
+  },
+  "coinmarketcap": {
+    "id": 1321,
+    "slug": "ethereum-classic"
+  }
+}
