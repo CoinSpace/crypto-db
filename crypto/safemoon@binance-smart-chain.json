@@ -4,7 +4,7 @@
   "platform": "binance-smart-chain",
   "type": "token",
   "name": "SafeMoon",
-  "symbol": "SAFEMOON",
+  "symbol": "SFM",
   "address": "0x42981d0bfbaf196529376ee702f2a9eb9092fcb5",
   "decimals": 9,
   "logo": "safemoon.svg",

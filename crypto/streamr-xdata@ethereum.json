@@ -3,14 +3,13 @@
   "asset": "streamr-xdata",
   "platform": "ethereum",
   "type": "token",
-  "name": "Streamr XDATA",
-  "symbol": "XDATA",
-  "address": "0x0cf0ee63788a0849fe5297f3407f701e122cc023",
+  "name": "Streamr",
+  "symbol": "DATA",
+  "address": "0x8f693ca8d21b157107184d29d398a8d082b38b76",
   "decimals": 18,
   "logo": "streamr-xdata.png",
   "coingecko": {
-    "id": "streamr-xdata",
-    "platform": "ethereum"
+    "id": "streamr"
   },
   "coinmarketcap": {
     "id": 2143,
