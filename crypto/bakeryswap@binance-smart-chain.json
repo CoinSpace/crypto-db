@@ -7,7 +7,7 @@
   "symbol": "BAKE",
   "address": "0xe02df9e3e622debdd69fb838bb799e3f168902c5",
   "decimals": 18,
-  "logo": "bakeryswap.jpg",
+  "logo": "bakeryswap.svg",
   "coingecko": {
     "id": "bakerytoken",
     "platform": "binance-smart-chain"
