@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "bnbpay@binance-smart-chain",
   "asset": "bnbpay",
   "platform": "binance-smart-chain",
@@ -7,11 +8,6 @@
   "symbol": "BPAY",
   "address": "0xebc76079da0c245fae7225b58a57a54809b40618",
   "decimals": 9,
-  "logo": "bnbpay.png",
-  "coingecko": {
-    "id": "bnbpay",
-    "platform": "binance-smart-chain"
-  },
   "coinmarketcap": {
     "id": 12062,
     "slug": "bnbpay"
