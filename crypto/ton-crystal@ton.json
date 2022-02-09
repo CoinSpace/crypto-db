@@ -8,6 +8,9 @@
   "decimals": 9,
   "logo": "ton-crystal.png",
   "supported": false,
+  "changelly": {
+    "ticker": "ever"
+  },
   "coingecko": {
     "id": "everscale"
   },
