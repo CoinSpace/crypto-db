@@ -4,7 +4,7 @@
   "platform": "tron",
   "type": "token",
   "name": "BitTorrent",
-  "symbol": "BTT",
+  "symbol": "BTTOLD",
   "address": "1002000",
   "decimals": 6,
   "logo": "bittorrent.svg",
