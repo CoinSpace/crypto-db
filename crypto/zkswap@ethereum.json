@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "zkswap.png",
   "coingecko": {
-    "id": "zkswap",
-    "platform": "ethereum"
+    "id": "zkspace"
   },
   "coinmarketcap": {
     "id": 8202,
