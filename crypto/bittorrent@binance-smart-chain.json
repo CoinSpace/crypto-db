@@ -4,7 +4,7 @@
   "platform": "binance-smart-chain",
   "type": "token",
   "name": "BitTorrent",
-  "symbol": "BTT",
+  "symbol": "BTTOLD",
   "address": "0x8595f9da7b868b1822194faed312235e43007b49",
   "decimals": 18,
   "logo": "bittorrent.svg",
