@@ -1,0 +1,18 @@
+{
+  "_id": "bittorrent-new@binance-smart-chain",
+  "asset": "bittorrent-new",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "BitTorrent",
+  "symbol": "BTT",
+  "address": "0x352cb5e19b12fc216548a2677bd0fce83bae434b",
+  "decimals": 18,
+  "logo": "bittorrent-new.png",
+  "coingecko": {
+    "id": "bittorrent"
+  },
+  "coinmarketcap": {
+    "id": 16086,
+    "slug": "bittorrent-new"
+  }
+}
