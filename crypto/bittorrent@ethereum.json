@@ -1,11 +1,11 @@
 {
-  "_id": "bittorrent@binance-smart-chain",
+  "_id": "bittorrent@ethereum",
   "asset": "bittorrent",
-  "platform": "binance-smart-chain",
+  "platform": "ethereum",
   "type": "token",
   "name": "BitTorrent",
   "symbol": "BTT",
-  "address": "0x352Cb5E19b12FC216548a2677bD0fce83BaE434B",
+  "address": "0xc669928185dbce49d2230cc9b0979be6dc797957",
   "decimals": 18,
   "logo": "bittorrent.svg",
   "coingecko": {

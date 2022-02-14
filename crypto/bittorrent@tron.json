@@ -5,16 +5,15 @@
   "type": "token",
   "name": "BitTorrent",
   "symbol": "BTT",
-  "address": "1002000",
-  "decimals": 6,
+  "address": "TAFjULxiVgT4qWk6UZwjqwZXTSaGaqnVp4",
+  "decimals": 18,
   "logo": "bittorrent.svg",
   "supported": false,
   "coingecko": {
-    "id": "bittorrent-old",
-    "platform": "tron"
+    "id": "bittorrent"
   },
   "coinmarketcap": {
-    "id": 3718,
-    "slug": "bittorrent"
+    "id": 16086,
+    "slug": "bittorrent-new"
   }
 }
