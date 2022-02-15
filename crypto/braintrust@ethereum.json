@@ -7,7 +7,7 @@
   "symbol": "BTRST",
   "address": "0x799ebfabe77a6e34311eeee9825190b9ece32824",
   "decimals": 18,
-  "logo": "braintrust.png",
+  "logo": "braintrust.svg",
   "changelly": {
     "ticker": "btrst"
   },
