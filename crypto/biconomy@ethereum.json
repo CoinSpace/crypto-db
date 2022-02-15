@@ -7,7 +7,7 @@
   "symbol": "BICO",
   "address": "0xf17e65822b568b3903685a7c9f496cf7656cc6c2",
   "decimals": 18,
-  "logo": "biconomy.jpg",
+  "logo": "biconomy.svg",
   "changelly": {
     "ticker": "bico"
   },
