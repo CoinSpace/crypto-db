@@ -7,7 +7,7 @@
   "symbol": "FX",
   "address": "0x8c15ef5b4b21951d50e53e4fbda8298ffad25057",
   "decimals": 18,
-  "logo": "function-x.jpg",
+  "logo": "function-x.svg",
   "coingecko": {
     "id": "fx-coin",
     "platform": "ethereum"
