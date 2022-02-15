@@ -6,7 +6,7 @@
   "name": "Everscale",
   "symbol": "EVER",
   "decimals": 9,
-  "logo": "ton-crystal.png",
+  "logo": "ton-crystal.svg",
   "supported": false,
   "changelly": {
     "ticker": "ever"
