@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2048 2048">
+  <defs>
+    <linearGradient id="a" x1="14.558%" x2="85.346%" y1="85.397%" y2="14.609%">
+      <stop offset="0%" stop-color="#102054"/>
+      <stop offset="100%" stop-color="#1A45B8"/>
+    </linearGradient>
+    <linearGradient id="b" x1="49.812%" x2="49.812%" y1="-.281%" y2="101.169%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".6"/>
+    </linearGradient>
+    <linearGradient id="c" x1="49.858%" x2="49.858%" y1="100.462%" y2=".901%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".6"/>
+    </linearGradient>
+  </defs>
+  <circle cx="1023.791" cy="1023.791" r="1023.791" fill="url(#a)"/>
+  <path fill="url(#b)" d="M1023.791 403.816v406.19l73.637 182.905-73.637-61.76v194.782l2.376 2.375c118.77 147.274 266.043 270.794 432.32 361.06L1023.791 403.815Z"/>
+  <path fill="url(#c)" d="M1023.791 403.816v406.19l-73.637 182.905 73.637-61.76v194.782l-2.375 2.375c-118.77 147.274-266.043 270.794-432.32 361.06L1023.79 403.815Z"/>
+  <circle cx="1023.791" cy="1277.958" r="99.766" fill="#F5CC02"/>
+</svg>
