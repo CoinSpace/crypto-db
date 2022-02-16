@@ -7,7 +7,7 @@
   "symbol": "GLM",
   "address": "0x7dd9c5cba05e151c895fde1cf355c9a1d5da6429",
   "decimals": 18,
-  "logo": "golem.png",
+  "logo": "golem.svg",
   "changelly": {
     "ticker": "glm"
   },
