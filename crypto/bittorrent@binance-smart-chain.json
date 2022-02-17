@@ -5,7 +5,7 @@
   "type": "token",
   "name": "BitTorrent",
   "symbol": "BTT",
-  "address": "0x352Cb5E19b12FC216548a2677bD0fce83BaE434B",
+  "address": "0x352cb5e19b12fc216548a2677bd0fce83bae434b",
   "decimals": 18,
   "logo": "bittorrent.svg",
   "coingecko": {
