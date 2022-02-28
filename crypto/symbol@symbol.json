@@ -6,7 +6,7 @@
   "name": "Symbol",
   "symbol": "XYM",
   "decimals": 6,
-  "logo": "symbol.png",
+  "logo": "symbol.svg",
   "supported": false,
   "changelly": {
     "ticker": "xym"
