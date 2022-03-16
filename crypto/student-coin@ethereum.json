@@ -11,6 +11,9 @@
   "changelly": {
     "ticker": "stc"
   },
+  "coingecko": {
+    "id": "student-coin"
+  },
   "coinmarketcap": {
     "id": 5966,
     "slug": "student-coin"
