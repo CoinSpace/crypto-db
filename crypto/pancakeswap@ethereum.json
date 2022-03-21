@@ -1,0 +1,18 @@
+{
+  "_id": "pancakeswap@ethereum",
+  "asset": "pancakeswap",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "PancakeSwap",
+  "symbol": "CAKE",
+  "address": "0x7c8161545717a334f3196e765d9713f8042ef338",
+  "decimals": 18,
+  "logo": "pancakeswap.svg",
+  "coingecko": {
+    "id": "pancakeswap-token"
+  },
+  "coinmarketcap": {
+    "id": 7186,
+    "slug": "pancakeswap"
+  }
+}
