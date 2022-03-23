@@ -7,6 +7,7 @@
   "symbol": "ADA",
   "decimals": 6,
   "logo": "cardano.svg",
+  "scheme": "cardano",
   "supported": false,
   "changelly": {
     "ticker": "ada"
