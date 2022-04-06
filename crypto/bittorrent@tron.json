@@ -15,5 +15,9 @@
   "coinmarketcap": {
     "id": 16086,
     "slug": "bittorrent-new"
+  },
+  "moonpay": {
+    "id": "0c1299fa-c080-4a66-a5dd-15950188a4b9",
+    "code": "bttc"
   }
 }
