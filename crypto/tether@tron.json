@@ -1,22 +1,25 @@
 {
-  "_id": "tether@omni",
+  "_id": "tether@tron",
   "asset": "tether",
-  "platform": "omni",
+  "platform": "tron",
   "type": "token",
   "name": "Tether",
   "symbol": "USDT",
-  "decimals": 8,
+  "decimals": 6,
   "logo": "tether.svg",
   "supported": false,
   "changelly": {
-    "ticker": "usdt"
+    "ticker": "usdtrx"
   },
   "coingecko": {
-    "id": "tether",
-    "platform": "omni"
+    "id": "tether"
   },
   "coinmarketcap": {
     "id": 825,
     "slug": "tether"
+  },
+  "moonpay": {
+    "id": "da65fff3-02e3-4f89-9df4-648097ed9573",
+    "code": "usdt_trx"
   }
 }

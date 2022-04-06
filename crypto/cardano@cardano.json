@@ -8,7 +8,6 @@
   "decimals": 6,
   "logo": "cardano.svg",
   "scheme": "cardano",
-  "supported": true,
   "changelly": {
     "ticker": "ada"
   },
