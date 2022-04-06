@@ -1,0 +1,26 @@
+{
+  "_id": "apecoin@ethereum",
+  "asset": "apecoin",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "ApeCoin",
+  "symbol": "APE",
+  "address": "0x4d224452801aced8b2f0aebe155379bb5d594381",
+  "decimals": 18,
+  "logo": "apecoin.svg",
+  "changelly": {
+    "ticker": "ape"
+  },
+  "coingecko": {
+    "id": "apecoin",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 18876,
+    "slug": "apecoin-ape"
+  },
+  "moonpay": {
+    "id": "c9b85b12-ce50-4533-9f92-96d79428a002",
+    "code": "ape"
+  }
+}
