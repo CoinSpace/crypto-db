@@ -5,6 +5,7 @@
   "type": "token",
   "name": "Tether",
   "symbol": "USDT",
+  "address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
   "decimals": 6,
   "logo": "tether.svg",
   "supported": false,
