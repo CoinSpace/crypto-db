@@ -1,0 +1,18 @@
+{
+  "_id": "stepn@binance-smart-chain",
+  "asset": "stepn",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "STEPN",
+  "symbol": "GMT",
+  "address": "0x3019bf2a2ef8040c242c9a4c5c4bd4c81678b2a1",
+  "decimals": 8,
+  "logo": "stepn.png",
+  "coingecko": {
+    "id": "stepn"
+  },
+  "coinmarketcap": {
+    "id": 18069,
+    "slug": "green-metaverse-token"
+  }
+}
