@@ -5,7 +5,7 @@
   "type": "token",
   "name": "APENFT",
   "symbol": "NFT",
-  "address": "0x1fc9004ec7e5722891f5f38bae7678efcb11d34d",
+  "address": "0x20ee7b720f4e4c4ffcb00c4065cdae55271aecca",
   "decimals": 6,
   "logo": "apenft.svg",
   "coingecko": {
