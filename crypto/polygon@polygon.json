@@ -8,6 +8,9 @@
   "decimals": 18,
   "logo": "polygon.svg",
   "supported": false,
+  "changelly": {
+    "ticker": "maticpolygon"
+  },
   "coingecko": {
     "id": "matic-network"
   },
