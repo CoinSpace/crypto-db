@@ -1,0 +1,18 @@
+{
+  "_id": "vechain@binance-smart-chain",
+  "asset": "vechain",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "VeChain",
+  "symbol": "VET",
+  "address": "0x6fdcdfef7c496407ccb0cec90f9c5aaa1cc8d888",
+  "decimals": 18,
+  "logo": "vechain.svg",
+  "coingecko": {
+    "id": "vechain"
+  },
+  "coinmarketcap": {
+    "id": 3077,
+    "slug": "vechain"
+  }
+}
