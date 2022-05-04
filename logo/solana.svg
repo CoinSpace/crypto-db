@@ -1,17 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 397.7 311.7">
-  <linearGradient id="a" x1="360.879" x2="141.213" y1="351.455" y2="-69.294" gradientTransform="matrix(1 0 0 -1 0 314)" gradientUnits="userSpaceOnUse">
-    <stop offset="0" stop-color="#00ffa3"/>
-    <stop offset="1" stop-color="#dc1fff"/>
-  </linearGradient>
-  <path fill="url(#a)" d="M64.6 237.9c2.4-2.4 5.7-3.8 9.2-3.8h317.4c5.8 0 8.7 7 4.6 11.1l-62.7 62.7c-2.4 2.4-5.7 3.8-9.2 3.8H6.5c-5.8 0-8.7-7-4.6-11.1l62.7-62.7z"/>
-  <linearGradient id="b" x1="264.829" x2="45.163" y1="401.601" y2="-19.148" gradientTransform="matrix(1 0 0 -1 0 314)" gradientUnits="userSpaceOnUse">
-    <stop offset="0" stop-color="#00ffa3"/>
-    <stop offset="1" stop-color="#dc1fff"/>
-  </linearGradient>
-  <path fill="url(#b)" d="M64.6 3.8C67.1 1.4 70.4 0 73.8 0h317.4c5.8 0 8.7 7 4.6 11.1l-62.7 62.7c-2.4 2.4-5.7 3.8-9.2 3.8H6.5c-5.8 0-8.7-7-4.6-11.1L64.6 3.8z"/>
-  <linearGradient id="c" x1="312.548" x2="92.882" y1="376.688" y2="-44.061" gradientTransform="matrix(1 0 0 -1 0 314)" gradientUnits="userSpaceOnUse">
-    <stop offset="0" stop-color="#00ffa3"/>
-    <stop offset="1" stop-color="#dc1fff"/>
-  </linearGradient>
-  <path fill="url(#c)" d="M333.1 120.1c-2.4-2.4-5.7-3.8-9.2-3.8H6.5c-5.8 0-8.7 7-4.6 11.1l62.7 62.7c2.4 2.4 5.7 3.8 9.2 3.8h317.4c5.8 0 8.7-7 4.6-11.1l-62.7-62.7z"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+  <defs>
+    <linearGradient id="b" x1="197.56" x2="602.44" y1="199.56" y2="604.44" gradientTransform="matrix(1 0 0 -1 0 802)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9945ff"/>
+      <stop offset=".2" stop-color="#7962e7"/>
+      <stop offset="1" stop-color="#00d18c"/>
+    </linearGradient>
+    <clipPath id="a">
+      <path fill="none" d="M178.3 206.01h443.4v387.97H178.3z"/>
+    </clipPath>
+  </defs>
+  <circle cx="400" cy="400" r="369.5"/>
+  <g clip-path="url(#a)">
+    <path fill="url(#b)" d="M258.52 501.85a14.86 14.86 0 0 1 5-3.59 15.13 15.13 0 0 1 6-1.27l338.61.28a7.44 7.44 0 0 1 5.49 12.46l-72.11 79.4a14.86 14.86 0 0 1-11 4.86l-338.6-.28a7.45 7.45 0 0 1-5.49-12.46Zm355.07-66.09a7.44 7.44 0 0 1-5.49 12.46l-338.6.28a14.86 14.86 0 0 1-11-4.86l-72.09-79.44a7.47 7.47 0 0 1-1.84-3.82 7.43 7.43 0 0 1 3.27-7.43 7.52 7.52 0 0 1 4.06-1.22l338.61-.27a14.81 14.81 0 0 1 11 4.86ZM258.52 210.87a14.81 14.81 0 0 1 11-4.86l338.61.28a7.44 7.44 0 0 1 6.8 4.44 7.42 7.42 0 0 1-1.31 8l-72.11 79.4a14.86 14.86 0 0 1-11 4.86l-338.6-.28a7.42 7.42 0 0 1-6.8-4.45 7.46 7.46 0 0 1 1.31-8Z"/>
+  </g>
 </svg>
