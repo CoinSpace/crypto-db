@@ -1,0 +1,18 @@
+{
+  "_id": "pax-gold@binance-smart-chain",
+  "asset": "pax-gold",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "PAX Gold",
+  "symbol": "PAXG",
+  "address": "0x7950865a9140cb519342433146ed5b40c6f210f7",
+  "decimals": 18,
+  "logo": "pax-gold.svg",
+  "coingecko": {
+    "id": "pax-gold"
+  },
+  "coinmarketcap": {
+    "id": 4705,
+    "slug": "pax-gold"
+  }
+}
