@@ -9,8 +9,7 @@
   "decimals": 8,
   "logo": "firo.png",
   "coingecko": {
-    "id": "binance-peg-firo",
-    "platform": "binance-smart-chain"
+    "id": "zcoin"
   },
   "coinmarketcap": {
     "id": 1414,
