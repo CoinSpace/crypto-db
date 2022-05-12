@@ -1,0 +1,18 @@
+{
+  "_id": "lido-dao@binance-smart-chain",
+  "asset": "lido-dao",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Lido DAO",
+  "symbol": "LDO",
+  "address": "0x986854779804799c1d68867f5e03e601e781e41b",
+  "decimals": 18,
+  "logo": "lido-dao.png",
+  "coingecko": {
+    "id": "lido-dao"
+  },
+  "coinmarketcap": {
+    "id": 8000,
+    "slug": "lido-dao"
+  }
+}
