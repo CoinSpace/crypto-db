@@ -1,0 +1,22 @@
+{
+  "_id": "stepn@solana",
+  "asset": "stepn",
+  "platform": "solana",
+  "type": "token",
+  "name": "STEPN",
+  "symbol": "GMT",
+  "address": "7i5KKsX2weiTkry7jA4ZwSuXGhs5eJBEjY8vVxR4pfRx",
+  "decimals": 9,
+  "logo": "stepn.png",
+  "supported": false,
+  "changelly": {
+    "ticker": "gmt"
+  },
+  "coingecko": {
+    "id": "stepn"
+  },
+  "coinmarketcap": {
+    "id": 18069,
+    "slug": "green-metaverse-token"
+  }
+}
