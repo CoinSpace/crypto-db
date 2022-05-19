@@ -1,0 +1,21 @@
+{
+  "_id": "tether@solana",
+  "asset": "tether",
+  "platform": "solana",
+  "type": "token",
+  "name": "Tether",
+  "symbol": "USDT",
+  "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+  "decimals": 6,
+  "logo": "tether.svg",
+  "changelly": {
+    "ticker": "usdtsol"
+  },
+  "coingecko": {
+    "id": "tether"
+  },
+  "coinmarketcap": {
+    "id": 825,
+    "slug": "tether"
+  }
+}
