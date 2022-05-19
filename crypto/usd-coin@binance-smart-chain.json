@@ -8,6 +8,9 @@
   "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
   "decimals": 18,
   "logo": "usd-coin.svg",
+  "changelly": {
+    "ticker": "usdcbsc"
+  },
   "coingecko": {
     "id": "usd-coin",
     "platform": "binance-smart-chain"
