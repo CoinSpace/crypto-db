@@ -18,10 +18,8 @@
     "db"
   ],
   "devDependencies": {
-    "@babel/core": "^7.15.5",
-    "@babel/eslint-parser": "^7.15.4",
-    "eslint": "^8.3.0",
-    "eslint-config-coinspace": "^1.1.4"
+    "eslint": "^8.15.0",
+    "eslint-config-coinspace": "^1.2.2"
   },
   "eslintConfig": {
     "extends": [
@@ -30,9 +28,10 @@
     "env": {
       "node": true
     },
-    "parser": "@babel/eslint-parser",
     "parserOptions": {
-      "requireConfigFile": false
+      "ecmaVersion": 2022,
+      "requireConfigFile": false,
+      "sourceType": "module"
     }
   }
 }
