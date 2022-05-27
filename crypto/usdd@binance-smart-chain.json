@@ -1,0 +1,18 @@
+{
+  "_id": "usdd@binance-smart-chain",
+  "asset": "usdd",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "USDD",
+  "symbol": "USDD",
+  "address": "0xd17479997f34dd9156deef8f95a52d81d265be9c",
+  "decimals": 18,
+  "logo": "usdd.png",
+  "coingecko": {
+    "id": "usdd"
+  },
+  "coinmarketcap": {
+    "id": 19891,
+    "slug": "usdd"
+  }
+}
