@@ -1,13 +1,13 @@
 {
-  "_id": "avalanche@binance-smart-chain",
+  "_id": "avalanche@c-chain",
   "asset": "avalanche",
-  "platform": "binance-smart-chain",
-  "type": "token",
+  "platform": "c-chain",
+  "type": "coin",
   "name": "Avalanche",
   "symbol": "AVAX",
-  "address": "0x1ce0c2827e2ef14d5c4f29a091d735a204794041",
   "decimals": 18,
   "logo": "avalanche.svg",
+  "supported": false,
   "coingecko": {
     "id": "avalanche-2"
   },
