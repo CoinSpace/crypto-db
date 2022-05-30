@@ -1,0 +1,18 @@
+{
+  "_id": "wrapped-bitcoin@avalanche-c-chain",
+  "asset": "wrapped-bitcoin",
+  "platform": "avalanche-c-chain",
+  "type": "token",
+  "name": "Wrapped Bitcoin",
+  "symbol": "WBTC",
+  "address": "0x408d4cd0adb7cebd1f1a1c33a0ba2098e1295bab",
+  "decimals": 8,
+  "logo": "wrapped-bitcoin.svg",
+  "coingecko": {
+    "id": "wrapped-bitcoin"
+  },
+  "coinmarketcap": {
+    "id": 3717,
+    "slug": "wrapped-bitcoin"
+  }
+}

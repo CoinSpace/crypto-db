@@ -1,0 +1,18 @@
+{
+  "_id": "dai@avalanche-c-chain",
+  "asset": "dai",
+  "platform": "avalanche-c-chain",
+  "type": "token",
+  "name": "Dai",
+  "symbol": "DAI",
+  "address": "0xd586e7f844cea2f87f50152665bcbc2c279d8d70",
+  "decimals": 18,
+  "logo": "dai.svg",
+  "coingecko": {
+    "id": "dai"
+  },
+  "coinmarketcap": {
+    "id": 4943,
+    "slug": "multi-collateral-dai"
+  }
+}

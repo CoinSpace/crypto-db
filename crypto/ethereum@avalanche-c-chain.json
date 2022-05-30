@@ -1,0 +1,18 @@
+{
+  "_id": "ethereum@avalanche-c-chain",
+  "asset": "ethereum",
+  "platform": "avalanche-c-chain",
+  "type": "token",
+  "name": "Ethereum",
+  "symbol": "ETH",
+  "address": "0xf20d962a6c8f70c731bd838a3a388d7d48fa6e15",
+  "decimals": 18,
+  "logo": "ethereum.svg",
+  "coingecko": {
+    "id": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 1027,
+    "slug": "ethereum"
+  }
+}

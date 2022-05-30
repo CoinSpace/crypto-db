@@ -1,0 +1,18 @@
+{
+  "_id": "1inch@avalanche-c-chain",
+  "asset": "1inch",
+  "platform": "avalanche-c-chain",
+  "type": "token",
+  "name": "1inch Network",
+  "symbol": "1INCH",
+  "address": "0xd501281565bf7789224523144fe5d98e8b28f267",
+  "decimals": 18,
+  "logo": "1inch.svg",
+  "coingecko": {
+    "id": "1inch"
+  },
+  "coinmarketcap": {
+    "id": 8104,
+    "slug": "1inch"
+  }
+}

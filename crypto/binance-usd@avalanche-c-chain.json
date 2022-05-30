@@ -1,0 +1,18 @@
+{
+  "_id": "binance-usd@avalanche-c-chain",
+  "asset": "binance-usd",
+  "platform": "avalanche-c-chain",
+  "type": "token",
+  "name": "Binance USD",
+  "symbol": "BUSD",
+  "address": "0x19860ccb0a68fd4213ab9d8266f7bbf05a8dde98",
+  "decimals": 18,
+  "logo": "binance-usd.svg",
+  "coingecko": {
+    "id": "binance-usd"
+  },
+  "coinmarketcap": {
+    "id": 4687,
+    "slug": "binance-usd"
+  }
+}

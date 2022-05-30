@@ -1,0 +1,18 @@
+{
+  "_id": "aave@avalanche-c-chain",
+  "asset": "aave",
+  "platform": "avalanche-c-chain",
+  "type": "token",
+  "name": "Aave",
+  "symbol": "AAVE",
+  "address": "0x8ce2dee54bb9921a2ae0a63dbb2df8ed88b91dd9",
+  "decimals": 18,
+  "logo": "aave.svg",
+  "coingecko": {
+    "id": "aave"
+  },
+  "coinmarketcap": {
+    "id": 7278,
+    "slug": "aave"
+  }
+}

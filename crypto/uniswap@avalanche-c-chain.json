@@ -1,0 +1,18 @@
+{
+  "_id": "uniswap@avalanche-c-chain",
+  "asset": "uniswap",
+  "platform": "avalanche-c-chain",
+  "type": "token",
+  "name": "Uniswap",
+  "symbol": "UNI",
+  "address": "0x8ebaf22b6f053dffeaf46f4dd9efa95d89ba8580",
+  "decimals": 18,
+  "logo": "uniswap.svg",
+  "coingecko": {
+    "id": "uniswap"
+  },
+  "coinmarketcap": {
+    "id": 7083,
+    "slug": "uniswap"
+  }
+}

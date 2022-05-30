@@ -1,0 +1,18 @@
+{
+  "_id": "maker@avalanche-c-chain",
+  "asset": "maker",
+  "platform": "avalanche-c-chain",
+  "type": "token",
+  "name": "Maker",
+  "symbol": "MKR",
+  "address": "0x88128fd4b259552a9a1d457f435a6527aab72d42",
+  "decimals": 18,
+  "logo": "maker.svg",
+  "coingecko": {
+    "id": "maker"
+  },
+  "coinmarketcap": {
+    "id": 1518,
+    "slug": "maker"
+  }
+}

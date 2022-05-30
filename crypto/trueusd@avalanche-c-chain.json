@@ -1,0 +1,18 @@
+{
+  "_id": "trueusd@avalanche-c-chain",
+  "asset": "trueusd",
+  "platform": "avalanche-c-chain",
+  "type": "token",
+  "name": "TrueUSD",
+  "symbol": "TUSD",
+  "address": "0x1c20e891bab6b1727d14da358fae2984ed9b59eb",
+  "decimals": 18,
+  "logo": "trueusd.svg",
+  "coingecko": {
+    "id": "true-usd"
+  },
+  "coinmarketcap": {
+    "id": 2563,
+    "slug": "trueusd"
+  }
+}

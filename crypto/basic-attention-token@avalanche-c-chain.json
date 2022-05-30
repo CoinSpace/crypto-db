@@ -1,0 +1,18 @@
+{
+  "_id": "basic-attention-token@avalanche-c-chain",
+  "asset": "basic-attention-token",
+  "platform": "avalanche-c-chain",
+  "type": "token",
+  "name": "Basic Attention Token",
+  "symbol": "BAT",
+  "address": "0x98443b96ea4b0858fdf3219cd13e98c7a4690588",
+  "decimals": 18,
+  "logo": "basic-attention-token.svg",
+  "coingecko": {
+    "id": "basic-attention-token"
+  },
+  "coinmarketcap": {
+    "id": 1697,
+    "slug": "basic-attention-token"
+  }
+}
