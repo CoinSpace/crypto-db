@@ -8,11 +8,18 @@
   "decimals": 18,
   "logo": "avalanche.svg",
   "supported": false,
+  "changelly": {
+    "ticker": "avaxc"
+  },
   "coingecko": {
     "id": "avalanche-2"
   },
   "coinmarketcap": {
     "id": 5805,
     "slug": "avalanche"
+  },
+  "moonpay": {
+    "id": "38b1f272-af74-4f61-a425-62219aea25d9",
+    "code": "avax_cchain"
   }
 }
