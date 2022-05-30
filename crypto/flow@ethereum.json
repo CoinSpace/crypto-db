@@ -1,0 +1,18 @@
+{
+  "_id": "flow@ethereum",
+  "asset": "flow",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Flow",
+  "symbol": "FLOW",
+  "address": "0x5c147e74d63b1d31aa3fd78eb229b65161983b2b",
+  "decimals": 18,
+  "logo": "flow.svg",
+  "coingecko": {
+    "id": "flow"
+  },
+  "coinmarketcap": {
+    "id": 4558,
+    "slug": "flow"
+  }
+}

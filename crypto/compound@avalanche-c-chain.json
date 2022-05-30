@@ -1,0 +1,18 @@
+{
+  "_id": "compound@avalanche-c-chain",
+  "asset": "compound",
+  "platform": "avalanche-c-chain",
+  "type": "token",
+  "name": "Compound",
+  "symbol": "COMP",
+  "address": "0xc3048e19e76cb9a3aa9d77d8c03c29fc906e2437",
+  "decimals": 18,
+  "logo": "compound.svg",
+  "coingecko": {
+    "id": "compound-governance-token"
+  },
+  "coinmarketcap": {
+    "id": 5692,
+    "slug": "compound"
+  }
+}
