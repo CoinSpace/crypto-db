@@ -1,0 +1,18 @@
+{
+  "_id": "oasis-network@avalanche-c-chain",
+  "asset": "oasis-network",
+  "platform": "avalanche-c-chain",
+  "type": "token",
+  "name": "Oasis Network",
+  "symbol": "ROSE",
+  "address": "0x12af5c1a232675f62f405b5812a80e7a6f75d746",
+  "decimals": 18,
+  "logo": "oasis-network.svg",
+  "coingecko": {
+    "id": "oasis-network"
+  },
+  "coinmarketcap": {
+    "id": 7653,
+    "slug": "oasis-network"
+  }
+}
