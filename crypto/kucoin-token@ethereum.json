@@ -8,6 +8,9 @@
   "address": "0xf34960d9d60be18cc1d5afc1a6f012a723a28811",
   "decimals": 6,
   "logo": "kucoin-token.svg",
+  "changelly": {
+    "ticker": "kcs"
+  },
   "coingecko": {
     "id": "kucoin-shares",
     "platform": "ethereum"
