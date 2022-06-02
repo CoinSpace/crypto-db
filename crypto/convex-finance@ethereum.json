@@ -8,6 +8,9 @@
   "address": "0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b",
   "decimals": 18,
   "logo": "convex-finance.svg",
+  "changelly": {
+    "ticker": "cvx"
+  },
   "coingecko": {
     "id": "convex-finance",
     "platform": "ethereum"
