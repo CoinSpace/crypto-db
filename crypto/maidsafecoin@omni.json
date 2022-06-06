@@ -12,10 +12,6 @@
   "changelly": {
     "ticker": "maid"
   },
-  "coingecko": {
-    "id": "maidsafecoin",
-    "platform": "omni"
-  },
   "coinmarketcap": {
     "id": 291,
     "slug": "maidsafecoin"
