@@ -9,8 +9,7 @@
   "decimals": 4,
   "logo": "alien-worlds.jpg",
   "coingecko": {
-    "id": "alien-worlds",
-    "platform": "ethereum"
+    "id": "alien-worlds"
   },
   "coinmarketcap": {
     "id": 9119,

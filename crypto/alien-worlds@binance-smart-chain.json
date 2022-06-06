@@ -12,8 +12,7 @@
     "ticker": "tlm"
   },
   "coingecko": {
-    "id": "alien-worlds-bsc",
-    "platform": "binance-smart-chain"
+    "id": "alien-worlds"
   },
   "coinmarketcap": {
     "id": 9119,
