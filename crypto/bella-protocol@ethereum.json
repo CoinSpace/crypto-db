@@ -8,6 +8,9 @@
   "address": "0xa91ac63d040deb1b7a5e4d4134ad23eb0ba07e14",
   "decimals": 18,
   "logo": "bella-protocol.png",
+  "changelly": {
+    "ticker": "bel"
+  },
   "coingecko": {
     "id": "bella-protocol",
     "platform": "ethereum"
