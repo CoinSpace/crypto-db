@@ -7,7 +7,6 @@
   "symbol": "SOL",
   "decimals": 9,
   "logo": "solana.svg",
-  "supported": false,
   "changelly": {
     "ticker": "sol"
   },
