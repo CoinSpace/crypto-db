@@ -1,0 +1,18 @@
+{
+  "_id": "usdd@tron",
+  "asset": "usdd",
+  "platform": "tron",
+  "type": "token",
+  "name": "USDD",
+  "symbol": "USDD",
+  "address": "TPYmHEhy5n8TCEfYGqW2rPxsghSfzghPDn",
+  "decimals": 18,
+  "logo": "usdd.png",
+  "coingecko": {
+    "id": "usdd"
+  },
+  "coinmarketcap": {
+    "id": 19891,
+    "slug": "usdd"
+  }
+}

@@ -7,7 +7,6 @@
   "symbol": "TRX",
   "decimals": 6,
   "logo": "tron.svg",
-  "supported": false,
   "changelly": {
     "ticker": "trx"
   },

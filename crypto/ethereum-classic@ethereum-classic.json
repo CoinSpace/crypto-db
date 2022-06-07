@@ -7,7 +7,6 @@
   "symbol": "ETC",
   "decimals": 18,
   "logo": "ethereum-classic.svg",
-  "supported": false,
   "coingecko": {
     "id": "ethereum-classic"
   },
