@@ -8,6 +8,9 @@
   "address": "0x18aaa7115705e8be94bffebde57af9bfc265b998",
   "decimals": 18,
   "logo": "audius.png",
+  "changelly": {
+    "ticker": "audio"
+  },
   "coingecko": {
     "id": "audius",
     "platform": "ethereum"
