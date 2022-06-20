@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "reef-finance.png",
   "coingecko": {
-    "id": "reef-finance",
-    "platform": "binance-smart-chain"
+    "id": "reef"
   },
   "coinmarketcap": {
     "id": 6951,
