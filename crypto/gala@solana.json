@@ -1,0 +1,18 @@
+{
+  "_id": "gala@solana",
+  "asset": "gala",
+  "platform": "solana",
+  "type": "token",
+  "name": "Gala",
+  "symbol": "GALA",
+  "address": "AuGz22orMknxQHTVGwAu7e3dJikTJKgcjFwMNDikEKmF",
+  "decimals": 8,
+  "logo": "gala.svg",
+  "coingecko": {
+    "id": "gala"
+  },
+  "coinmarketcap": {
+    "id": 7080,
+    "slug": "gala"
+  }
+}

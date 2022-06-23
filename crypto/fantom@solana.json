@@ -1,0 +1,18 @@
+{
+  "_id": "fantom@solana",
+  "asset": "fantom",
+  "platform": "solana",
+  "type": "token",
+  "name": "Fantom",
+  "symbol": "FTM",
+  "address": "8gC27rQF4NEDYfyf5aS8ZmQJUum5gufowKGYRRba4ENN",
+  "decimals": 8,
+  "logo": "fantom.svg",
+  "coingecko": {
+    "id": "fantom"
+  },
+  "coinmarketcap": {
+    "id": 3513,
+    "slug": "fantom"
+  }
+}

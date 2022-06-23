@@ -1,0 +1,18 @@
+{
+  "_id": "binance-usd@solana",
+  "asset": "binance-usd",
+  "platform": "solana",
+  "type": "token",
+  "name": "Binance USD",
+  "symbol": "BUSD",
+  "address": "33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX",
+  "decimals": 8,
+  "logo": "binance-usd.svg",
+  "coingecko": {
+    "id": "binance-usd"
+  },
+  "coinmarketcap": {
+    "id": 4687,
+    "slug": "binance-usd"
+  }
+}

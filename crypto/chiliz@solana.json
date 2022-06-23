@@ -1,0 +1,18 @@
+{
+  "_id": "chiliz@solana",
+  "asset": "chiliz",
+  "platform": "solana",
+  "type": "token",
+  "name": "Chiliz",
+  "symbol": "CHZ",
+  "address": "5TtSKAamFq88grN1QGrEaZ1AjjyciqnCya1aiMhAgFvG",
+  "decimals": 8,
+  "logo": "chiliz.svg",
+  "coingecko": {
+    "id": "chiliz"
+  },
+  "coinmarketcap": {
+    "id": 4066,
+    "slug": "chiliz"
+  }
+}

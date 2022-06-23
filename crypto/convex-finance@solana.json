@@ -1,0 +1,18 @@
+{
+  "_id": "convex-finance@solana",
+  "asset": "convex-finance",
+  "platform": "solana",
+  "type": "token",
+  "name": "Convex Finance",
+  "symbol": "CVX",
+  "address": "BLvmrccP4g1B6SpiVvmQrLUDya1nZ4B2D1nm9jzKF7sz",
+  "decimals": 8,
+  "logo": "convex-finance.svg",
+  "coingecko": {
+    "id": "convex-finance"
+  },
+  "coinmarketcap": {
+    "id": 9903,
+    "slug": "convex-finance"
+  }
+}

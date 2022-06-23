@@ -1,0 +1,18 @@
+{
+  "_id": "synthetix-network-token@solana",
+  "asset": "synthetix-network-token",
+  "platform": "solana",
+  "type": "token",
+  "name": "Synthetix",
+  "symbol": "SNX",
+  "address": "8cTNUtcV2ueC3royJ642uRnvTxorJAWLZc58gxAo7y56",
+  "decimals": 8,
+  "logo": "synthetix-network-token.svg",
+  "coingecko": {
+    "id": "havven"
+  },
+  "coinmarketcap": {
+    "id": 2586,
+    "slug": "synthetix-network-token"
+  }
+}

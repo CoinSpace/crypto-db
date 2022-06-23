@@ -1,0 +1,18 @@
+{
+  "_id": "curve-dao-token@solana",
+  "asset": "curve-dao-token",
+  "platform": "solana",
+  "type": "token",
+  "name": "Curve DAO Token",
+  "symbol": "CRV",
+  "address": "7gjNiPun3AzEazTZoFEjZgcBMeuaXdpjHq2raZTmTrfs",
+  "decimals": 8,
+  "logo": "curve-dao-token.svg",
+  "coingecko": {
+    "id": "curve-dao-token"
+  },
+  "coinmarketcap": {
+    "id": 6538,
+    "slug": "curve-dao-token"
+  }
+}

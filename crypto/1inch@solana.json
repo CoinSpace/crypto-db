@@ -1,0 +1,18 @@
+{
+  "_id": "1inch@solana",
+  "asset": "1inch",
+  "platform": "solana",
+  "type": "token",
+  "name": "1inch Network",
+  "symbol": "1INCH",
+  "address": "AjkPkq3nsyDe1yKcbyZT7N4aK4Evv9om9tzhQD3wsRC",
+  "decimals": 8,
+  "logo": "1inch.svg",
+  "coingecko": {
+    "id": "1inch"
+  },
+  "coinmarketcap": {
+    "id": 8104,
+    "slug": "1inch"
+  }
+}

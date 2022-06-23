@@ -1,0 +1,18 @@
+{
+  "_id": "the-sandbox@solana",
+  "asset": "the-sandbox",
+  "platform": "solana",
+  "type": "token",
+  "name": "The Sandbox",
+  "symbol": "SAND",
+  "address": "49c7WuCZkQgc3M4qH8WuEUNXfgwupZf1xqWkDQ7gjRGt",
+  "decimals": 8,
+  "logo": "the-sandbox.svg",
+  "coingecko": {
+    "id": "the-sandbox"
+  },
+  "coinmarketcap": {
+    "id": 6210,
+    "slug": "the-sandbox"
+  }
+}

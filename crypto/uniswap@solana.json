@@ -1,0 +1,18 @@
+{
+  "_id": "uniswap@solana",
+  "asset": "uniswap",
+  "platform": "solana",
+  "type": "token",
+  "name": "Uniswap",
+  "symbol": "UNI",
+  "address": "8FU95xFJhUUkyyCLU13HSzDLs7oC4QZdXQHL6SCeab36",
+  "decimals": 8,
+  "logo": "uniswap.svg",
+  "coingecko": {
+    "id": "uniswap"
+  },
+  "coinmarketcap": {
+    "id": 7083,
+    "slug": "uniswap"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "loopring@solana",
+  "asset": "loopring",
+  "platform": "solana",
+  "type": "token",
+  "name": "Loopring",
+  "symbol": "LRC",
+  "address": "HCTVFTzHL21a1dPzKxAUeWwqbE8QMUyvgChFDL4XYoi1",
+  "decimals": 8,
+  "logo": "loopring.svg",
+  "coingecko": {
+    "id": "loopring"
+  },
+  "coinmarketcap": {
+    "id": 1934,
+    "slug": "loopring"
+  }
+}

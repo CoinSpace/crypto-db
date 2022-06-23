@@ -1,0 +1,18 @@
+{
+  "_id": "polygon@solana",
+  "asset": "polygon",
+  "platform": "solana",
+  "type": "token",
+  "name": "Polygon",
+  "symbol": "MATIC",
+  "address": "C7NNPWuZCNjZBfW5p6JvGsR8pUdsRpEdP1ZAhnoDwj7h",
+  "decimals": 8,
+  "logo": "polygon.svg",
+  "coingecko": {
+    "id": "matic-network"
+  },
+  "coinmarketcap": {
+    "id": 3890,
+    "slug": "polygon"
+  }
+}

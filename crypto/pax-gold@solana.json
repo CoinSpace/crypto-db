@@ -1,0 +1,18 @@
+{
+  "_id": "pax-gold@solana",
+  "asset": "pax-gold",
+  "platform": "solana",
+  "type": "token",
+  "name": "PAX Gold",
+  "symbol": "PAXG",
+  "address": "C6oFsE8nXRDThzrMEQ5SxaNFGKoyyfWDDVPw37JKvPTe",
+  "decimals": 8,
+  "logo": "pax-gold.svg",
+  "coingecko": {
+    "id": "pax-gold"
+  },
+  "coinmarketcap": {
+    "id": 4705,
+    "slug": "pax-gold"
+  }
+}

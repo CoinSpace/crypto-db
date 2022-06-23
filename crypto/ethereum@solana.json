@@ -1,0 +1,18 @@
+{
+  "_id": "ethereum@solana",
+  "asset": "ethereum",
+  "platform": "solana",
+  "type": "token",
+  "name": "Ethereum",
+  "symbol": "ETH",
+  "address": "2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk",
+  "decimals": 6,
+  "logo": "ethereum.svg",
+  "coingecko": {
+    "id": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 1027,
+    "slug": "ethereum"
+  }
+}

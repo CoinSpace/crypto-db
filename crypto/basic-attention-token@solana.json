@@ -1,0 +1,18 @@
+{
+  "_id": "basic-attention-token@solana",
+  "asset": "basic-attention-token",
+  "platform": "solana",
+  "type": "token",
+  "name": "Basic Attention Token",
+  "symbol": "BAT",
+  "address": "EPeUFDgHRxs9xxEPVaL6kfGQvCon7jmAWKVUHuux1Tpz",
+  "decimals": 8,
+  "logo": "basic-attention-token.svg",
+  "coingecko": {
+    "id": "basic-attention-token"
+  },
+  "coinmarketcap": {
+    "id": 1697,
+    "slug": "basic-attention-token"
+  }
+}

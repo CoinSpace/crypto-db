@@ -1,0 +1,18 @@
+{
+  "_id": "the-graph@solana",
+  "asset": "the-graph",
+  "platform": "solana",
+  "type": "token",
+  "name": "The Graph",
+  "symbol": "GRT",
+  "address": "HGsLG4PnZ28L8A4R5nPqKgZd86zUUdmfnkTRnuFJ5dAX",
+  "decimals": 8,
+  "logo": "the-graph.svg",
+  "coingecko": {
+    "id": "the-graph"
+  },
+  "coinmarketcap": {
+    "id": 6719,
+    "slug": "the-graph"
+  }
+}

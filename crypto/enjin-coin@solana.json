@@ -1,0 +1,18 @@
+{
+  "_id": "enjin-coin@solana",
+  "asset": "enjin-coin",
+  "platform": "solana",
+  "type": "token",
+  "name": "Enjin Coin",
+  "symbol": "ENJ",
+  "address": "EXExWvT6VyYxEjFzF5BrUxt5GZMPVZnd48y3iWrRefMq",
+  "decimals": 8,
+  "logo": "enjin-coin.svg",
+  "coingecko": {
+    "id": "enjincoin"
+  },
+  "coinmarketcap": {
+    "id": 2130,
+    "slug": "enjin-coin"
+  }
+}

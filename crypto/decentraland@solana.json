@@ -1,0 +1,18 @@
+{
+  "_id": "decentraland@solana",
+  "asset": "decentraland",
+  "platform": "solana",
+  "type": "token",
+  "name": "Decentraland",
+  "symbol": "MANA",
+  "address": "7dgHoN8wBZCc5wbnQ2C47TDnBMAxG4Q5L3KjP67z8kNi",
+  "decimals": 8,
+  "logo": "decentraland.svg",
+  "coingecko": {
+    "id": "decentraland"
+  },
+  "coinmarketcap": {
+    "id": 1966,
+    "slug": "decentraland"
+  }
+}

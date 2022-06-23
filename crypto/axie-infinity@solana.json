@@ -1,0 +1,18 @@
+{
+  "_id": "axie-infinity@solana",
+  "asset": "axie-infinity",
+  "platform": "solana",
+  "type": "token",
+  "name": "Axie Infinity",
+  "symbol": "AXS",
+  "address": "HysWcbHiYY9888pHbaqhwLYZQeZrcQMXKQWRqS7zcPK5",
+  "decimals": 8,
+  "logo": "axie-infinity.svg",
+  "coingecko": {
+    "id": "axie-infinity"
+  },
+  "coinmarketcap": {
+    "id": 6783,
+    "slug": "axie-infinity"
+  }
+}

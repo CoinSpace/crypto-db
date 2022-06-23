@@ -1,0 +1,18 @@
+{
+  "_id": "amp@solana",
+  "asset": "amp",
+  "platform": "solana",
+  "type": "token",
+  "name": "Amp",
+  "symbol": "AMP",
+  "address": "D559HwgjYGDYsXpmFUKxhFTEwutvS9sya1kXiyCVogCV",
+  "decimals": 8,
+  "logo": "amp.svg",
+  "coingecko": {
+    "id": "amp-token"
+  },
+  "coinmarketcap": {
+    "id": 6945,
+    "slug": "amp"
+  }
+}

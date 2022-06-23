@@ -1,0 +1,18 @@
+{
+  "_id": "gatetoken@solana",
+  "asset": "gatetoken",
+  "platform": "solana",
+  "type": "token",
+  "name": "GateToken",
+  "symbol": "GT",
+  "address": "ABAq2R9gSpDDGguQxBk4u13s4ZYW6zbwKVBx15mCMG8",
+  "decimals": 8,
+  "logo": "gatetoken.png",
+  "coingecko": {
+    "id": "gatechain-token"
+  },
+  "coinmarketcap": {
+    "id": 4269,
+    "slug": "gatetoken"
+  }
+}

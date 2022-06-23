@@ -1,0 +1,18 @@
+{
+  "_id": "crypto-com-coin@solana",
+  "asset": "crypto-com-coin",
+  "platform": "solana",
+  "type": "token",
+  "name": "Cronos",
+  "symbol": "CRO",
+  "address": "DvjMYMVeXgKxaixGKpzQThLoG98nc7HSU7eanzsdCboA",
+  "decimals": 8,
+  "logo": "crypto-com-coin.svg",
+  "coingecko": {
+    "id": "crypto-com-chain"
+  },
+  "coinmarketcap": {
+    "id": 3635,
+    "slug": "cronos"
+  }
+}
