@@ -8,6 +8,7 @@
   "address": "uusd",
   "decimals": 6,
   "logo": "terrausd.png",
+  "supported": false,
   "coingecko": {
     "id": "terrausd",
     "platform": "terra"

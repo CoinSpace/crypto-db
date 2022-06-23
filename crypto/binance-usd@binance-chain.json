@@ -8,6 +8,7 @@
   "address": "BUSD-BD1",
   "decimals": 18,
   "logo": "binance-usd.svg",
+  "supported": false,
   "coingecko": {
     "id": "binance-usd"
   },

@@ -8,7 +8,6 @@
   "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
   "decimals": 6,
   "logo": "tether.svg",
-  "supported": false,
   "changelly": {
     "ticker": "usdtsol"
   },
