@@ -1,0 +1,18 @@
+{
+  "_id": "synthetix-network-token@avalanche-c-chain",
+  "asset": "synthetix-network-token",
+  "platform": "avalanche-c-chain",
+  "type": "token",
+  "name": "Synthetix",
+  "symbol": "SNX",
+  "address": "0xbec243c995409e6520d7c41e404da5deba4b209b",
+  "decimals": 18,
+  "logo": "synthetix-network-token.svg",
+  "coingecko": {
+    "id": "havven"
+  },
+  "coinmarketcap": {
+    "id": 2586,
+    "slug": "synthetix-network-token"
+  }
+}
