@@ -12,6 +12,9 @@
   "changelly": {
     "ticker": "maid"
   },
+  "coingecko": {
+    "id": "maidsafecoin"
+  },
   "coinmarketcap": {
     "id": 291,
     "slug": "maidsafecoin"
