@@ -5,7 +5,7 @@
   "type": "token",
   "name": "Ontology Gas",
   "symbol": "ONG",
-  "address": "",
+  "address": "0200000000000000000000000000000000000000",
   "decimals": 9,
   "logo": "ong.png",
   "supported": false,
@@ -16,9 +16,5 @@
   "coinmarketcap": {
     "id": 3217,
     "slug": "ontology-gas"
-  },
-  "moonpay": {
-    "id": "745db781-ec1c-4f97-acf4-59bdec2c6c30",
-    "code": "ong"
   }
 }
