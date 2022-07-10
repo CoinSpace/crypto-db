@@ -17,9 +17,5 @@
   "coinmarketcap": {
     "id": 1437,
     "slug": "zcash"
-  },
-  "moonpay": {
-    "id": "61421c7a-21ed-4d2d-af8c-56cd88ae2078",
-    "code": "zec"
   }
 }
