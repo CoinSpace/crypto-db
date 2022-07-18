@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "dvf.png",
   "coingecko": {
-    "id": "dvf",
-    "platform": "ethereum"
+    "id": "rhinofi"
   },
   "coinmarketcap": {
     "id": 10759,
