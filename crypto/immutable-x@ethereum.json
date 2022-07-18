@@ -8,6 +8,9 @@
   "address": "0xf57e7e7c23978c3caec3c3548e3d615c346e79ff",
   "decimals": 18,
   "logo": "immutable-x.svg",
+  "changelly": {
+    "ticker": "imx"
+  },
   "coingecko": {
     "id": "immutable-x",
     "platform": "ethereum"
