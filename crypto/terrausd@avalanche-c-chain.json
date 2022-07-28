@@ -1,0 +1,18 @@
+{
+  "_id": "terrausd@avalanche-c-chain",
+  "asset": "terrausd",
+  "platform": "avalanche-c-chain",
+  "type": "token",
+  "name": "TerraUSD",
+  "symbol": "UST",
+  "address": "0xb599c3590f42f8f995ecfa0f85d2980b76862fc1",
+  "decimals": 6,
+  "logo": "terrausd.png",
+  "coingecko": {
+    "id": "terrausd"
+  },
+  "coinmarketcap": {
+    "id": 7129,
+    "slug": "terrausd"
+  }
+}
