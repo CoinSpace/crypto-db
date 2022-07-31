@@ -1,0 +1,18 @@
+{
+  "_id": "stepn@ethereum",
+  "asset": "stepn",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "STEPN",
+  "symbol": "GMT",
+  "address": "0xe3c408bd53c31c085a1746af401a4042954ff740",
+  "decimals": 8,
+  "logo": "stepn.png",
+  "coingecko": {
+    "id": "stepn"
+  },
+  "coinmarketcap": {
+    "id": 18069,
+    "slug": "green-metaverse-token"
+  }
+}
