@@ -1,0 +1,18 @@
+{
+  "_id": "yearn-finance@avalanche-c-chain",
+  "asset": "yearn-finance",
+  "platform": "avalanche-c-chain",
+  "type": "token",
+  "name": "yearn.finance",
+  "symbol": "YFI",
+  "address": "0x9eaac1b23d935365bd7b542fe22ceee2922f52dc",
+  "decimals": 18,
+  "logo": "yearn-finance.svg",
+  "coingecko": {
+    "id": "yearn-finance"
+  },
+  "coinmarketcap": {
+    "id": 5864,
+    "slug": "yearn-finance"
+  }
+}
