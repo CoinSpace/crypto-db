@@ -3,13 +3,13 @@
   "asset": "terra",
   "platform": "terra",
   "type": "coin",
-  "name": "Terra",
-  "symbol": "LUNA",
+  "name": "Terra Classic",
+  "symbol": "LUNC",
   "decimals": 6,
   "logo": "terra.svg",
   "supported": false,
   "changelly": {
-    "ticker": "luna"
+    "ticker": "lunc"
   },
   "coingecko": {
     "id": "terra-luna"
@@ -17,9 +17,5 @@
   "coinmarketcap": {
     "id": 4172,
     "slug": "terra-luna"
-  },
-  "moonpay": {
-    "id": "46a97077-0ef3-4610-b677-2e6e9b8c74d0",
-    "code": "luna"
   }
 }
