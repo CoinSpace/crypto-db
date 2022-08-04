@@ -3,8 +3,8 @@
   "asset": "terrausd",
   "platform": "terra",
   "type": "token",
-  "name": "TerraUSD",
-  "symbol": "UST",
+  "name": "TerraClassicUSD",
+  "symbol": "USTC",
   "address": "uusd",
   "decimals": 6,
   "logo": "terrausd.png",
@@ -16,9 +16,5 @@
   "coinmarketcap": {
     "id": 7129,
     "slug": "terrausd"
-  },
-  "moonpay": {
-    "id": "0c5451d5-3bbc-4c8d-8bb3-26f30c92093b",
-    "code": "ust"
   }
 }
