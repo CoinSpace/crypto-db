@@ -8,6 +8,9 @@
   "address": "0x0b38210ea11411557c13457d4da7dc6ea731b88a",
   "decimals": 18,
   "logo": "api3.jpg",
+  "changelly": {
+    "ticker": "api3"
+  },
   "coingecko": {
     "id": "api3",
     "platform": "ethereum"
