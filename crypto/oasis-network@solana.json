@@ -1,0 +1,18 @@
+{
+  "_id": "oasis-network@solana",
+  "asset": "oasis-network",
+  "platform": "solana",
+  "type": "token",
+  "name": "Oasis Network",
+  "symbol": "ROSE",
+  "address": "S3SQfD6RheMXQ3EEYn1Z5sJsbtwfXdt7tSAVXPQFtYo",
+  "decimals": 8,
+  "logo": "oasis-network.svg",
+  "coingecko": {
+    "id": "oasis-network"
+  },
+  "coinmarketcap": {
+    "id": 7653,
+    "slug": "oasis-network"
+  }
+}

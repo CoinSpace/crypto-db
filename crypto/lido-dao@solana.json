@@ -1,0 +1,18 @@
+{
+  "_id": "lido-dao@solana",
+  "asset": "lido-dao",
+  "platform": "solana",
+  "type": "token",
+  "name": "Lido DAO",
+  "symbol": "LDO",
+  "address": "HZRCwxP2Vq9PCpPXooayhJ2bxTpo5xfpQrwB1svh332p",
+  "decimals": 8,
+  "logo": "lido-dao.png",
+  "coingecko": {
+    "id": "lido-dao"
+  },
+  "coinmarketcap": {
+    "id": 8000,
+    "slug": "lido-dao"
+  }
+}

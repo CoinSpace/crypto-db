@@ -1,0 +1,18 @@
+{
+  "_id": "trust-wallet-token@solana",
+  "asset": "trust-wallet-token",
+  "platform": "solana",
+  "type": "token",
+  "name": "Trust Wallet Token",
+  "symbol": "TWT",
+  "address": "HZNpqL7RT9gxf9eWoWsWzC5DfjzQ41XTQgEA7p3VzaaD",
+  "decimals": 8,
+  "logo": "trust-wallet-token.png",
+  "coingecko": {
+    "id": "trust-wallet-token"
+  },
+  "coinmarketcap": {
+    "id": 5964,
+    "slug": "trust-wallet-token"
+  }
+}
