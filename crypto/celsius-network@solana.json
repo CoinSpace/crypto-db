@@ -1,0 +1,18 @@
+{
+  "_id": "celsius-network@solana",
+  "asset": "celsius-network",
+  "platform": "solana",
+  "type": "token",
+  "name": "Celsius",
+  "symbol": "CEL",
+  "address": "nRtfwU9G82CSHhHGJNxFhtn7FLvWP2rqvQvje1WtL69",
+  "decimals": 4,
+  "logo": "celsius-network.svg",
+  "coingecko": {
+    "id": "celsius-degree-token"
+  },
+  "coinmarketcap": {
+    "id": 2700,
+    "slug": "celsius"
+  }
+}
