@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "tornado-cash@ethereum",
   "asset": "tornado-cash",
   "platform": "ethereum",
@@ -7,7 +8,6 @@
   "symbol": "TORN",
   "address": "0x77777feddddffc19ff86db637967013e6c6a116c",
   "decimals": 18,
-  "logo": "tornado-cash.svg",
   "changelly": {
     "ticker": "torn"
   },
