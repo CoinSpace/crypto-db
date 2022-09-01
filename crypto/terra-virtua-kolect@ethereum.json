@@ -8,6 +8,9 @@
   "address": "0xd084b83c305dafd76ae3e1b4e1f1fe2ecccb3988",
   "decimals": 18,
   "logo": "terra-virtua-kolect.png",
+  "changelly": {
+    "ticker": "tvk"
+  },
   "coingecko": {
     "id": "the-virtua-kolect"
   },
