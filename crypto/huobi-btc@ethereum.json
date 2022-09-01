@@ -8,6 +8,9 @@
   "address": "0x0316eb71485b0ab14103307bf65a021042c6d380",
   "decimals": 18,
   "logo": "huobi-btc.png",
+  "changelly": {
+    "ticker": "hbtc"
+  },
   "coingecko": {
     "id": "huobi-btc",
     "platform": "ethereum"
