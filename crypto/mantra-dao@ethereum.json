@@ -3,7 +3,7 @@
   "asset": "mantra-dao",
   "platform": "ethereum",
   "type": "token",
-  "name": "MANTRA DAO",
+  "name": "MANTRA",
   "symbol": "OM",
   "address": "0x3593d125a4f7849a1b059e64f4517a86dd60c95d",
   "decimals": 18,
@@ -14,7 +14,7 @@
   },
   "coinmarketcap": {
     "id": 6536,
-    "slug": "mantra-dao"
+    "slug": "mantra"
   },
   "moonpay": {
     "id": "8a12b2e9-b953-48dc-a028-927a1817236b",
