@@ -1,0 +1,18 @@
+{
+  "_id": "ankr@solana",
+  "asset": "ankr",
+  "platform": "solana",
+  "type": "token",
+  "name": "Ankr",
+  "symbol": "ANKR",
+  "address": "Gq2norJ1kBemBp3mPfkgAUMhMMmnFmY4zEyi26tRcxFB",
+  "decimals": 8,
+  "logo": "ankr.svg",
+  "coingecko": {
+    "id": "ankr"
+  },
+  "coinmarketcap": {
+    "id": 3783,
+    "slug": "ankr"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "ankr@avalanche-c-chain",
+  "asset": "ankr",
+  "platform": "avalanche-c-chain",
+  "type": "token",
+  "name": "Ankr",
+  "symbol": "ANKR",
+  "address": "0x20cf1b6e9d856321ed4686877cf4538f2c84b4de",
+  "decimals": 18,
+  "logo": "ankr.svg",
+  "coingecko": {
+    "id": "ankr"
+  },
+  "coinmarketcap": {
+    "id": 3783,
+    "slug": "ankr"
+  }
+}
