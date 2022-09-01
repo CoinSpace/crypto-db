@@ -8,6 +8,9 @@
   "address": "0x4c19596f5aaff459fa38b0f7ed92f11ae6543784",
   "decimals": 8,
   "logo": "truefi.png",
+  "changelly": {
+    "ticker": "tru"
+  },
   "coingecko": {
     "id": "truefi",
     "platform": "ethereum"
