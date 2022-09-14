@@ -7,6 +7,9 @@
   "symbol": "ETC",
   "decimals": 18,
   "logo": "ethereum-classic.svg",
+  "changelly": {
+    "ticker": "etc"
+  },
   "coingecko": {
     "id": "ethereum-classic"
   },
