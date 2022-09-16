@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "shopping-io@ethereum",
   "asset": "shopping-io",
   "platform": "ethereum",
@@ -7,7 +8,6 @@
   "symbol": "SPI",
   "address": "0x9b02dd390a603add5c07f9fd9175b7dabe8d63b7",
   "decimals": 18,
-  "logo": "shopping-io.png",
   "coingecko": {
     "id": "shopping-io",
     "platform": "ethereum"
