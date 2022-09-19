@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "paid-network@ethereum",
   "asset": "paid-network",
   "platform": "ethereum",
@@ -7,7 +8,6 @@
   "symbol": "PAID",
   "address": "0x1614f18fc94f47967a3fbe5ffcd46d4e7da3d787",
   "decimals": 18,
-  "logo": "paid-network.png",
   "coingecko": {
     "id": "paid-network",
     "platform": "ethereum"

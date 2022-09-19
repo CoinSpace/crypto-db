@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "belt@binance-smart-chain",
   "asset": "belt",
   "platform": "binance-smart-chain",
@@ -7,7 +8,6 @@
   "symbol": "BELT",
   "address": "0xe0e514c71282b6f4e823703a39374cf58dc3ea4f",
   "decimals": 18,
-  "logo": "belt.jpg",
   "coingecko": {
     "id": "belt",
     "platform": "binance-smart-chain"
