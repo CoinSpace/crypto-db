@@ -1,0 +1,18 @@
+{
+  "_id": "ethereum-name-service@solana",
+  "asset": "ethereum-name-service",
+  "platform": "solana",
+  "type": "token",
+  "name": "Ethereum Name Service",
+  "symbol": "ENS",
+  "address": "CLQsDGoGibdNPnVCFp8BAsN2unvyvb41Jd5USYwAnzAg",
+  "decimals": 8,
+  "logo": "ethereum-name-service.svg",
+  "coingecko": {
+    "id": "ethereum-name-service"
+  },
+  "coinmarketcap": {
+    "id": 13855,
+    "slug": "ethereum-name-service"
+  }
+}
