@@ -8,6 +8,9 @@
   "address": "0xa0246c9032bc3a600820415ae600c6388619a14d",
   "decimals": 18,
   "logo": "harvest-finance.png",
+  "changelly": {
+    "ticker": "farm"
+  },
   "coingecko": {
     "id": "harvest-finance",
     "platform": "ethereum"
