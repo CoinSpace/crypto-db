@@ -1,0 +1,18 @@
+{
+  "_id": "reserve-rights-token@solana",
+  "asset": "reserve-rights-token",
+  "platform": "solana",
+  "type": "token",
+  "name": "Reserve Rights",
+  "symbol": "RSR",
+  "address": "DkbE8U4gSRuGHcVMA1LwyZPYUjYbfEbjW8DMR3iSXBzr",
+  "decimals": 8,
+  "logo": "reserve-rights-token.svg",
+  "coingecko": {
+    "id": "reserve-rights-token"
+  },
+  "coinmarketcap": {
+    "id": 3964,
+    "slug": "reserve-rights"
+  }
+}
