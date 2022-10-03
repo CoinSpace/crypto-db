@@ -8,9 +8,6 @@
   "decimals": 0,
   "logo": "neo.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "neo"
-  },
   "coingecko": {
     "id": "neo"
   },
