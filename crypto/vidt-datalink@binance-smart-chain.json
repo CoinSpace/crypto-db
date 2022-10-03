@@ -3,9 +3,9 @@
   "asset": "vidt-datalink",
   "platform": "binance-smart-chain",
   "type": "token",
-  "name": "VIDT Datalink",
+  "name": "VIDT DAO",
   "symbol": "VIDT",
-  "address": "0x3f515f0a8e93f2e2f891ceeb3db4e62e202d7110",
+  "address": "0x9c4a515cd72d27a4710571aca94858a53d9278d5",
   "decimals": 18,
   "logo": "vidt-datalink.png",
   "coingecko": {
