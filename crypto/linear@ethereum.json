@@ -8,6 +8,9 @@
   "address": "0x3e9bc21c9b189c09df3ef1b824798658d5011937",
   "decimals": 18,
   "logo": "linear.jpg",
+  "changelly": {
+    "ticker": "lina"
+  },
   "coingecko": {
     "id": "linear",
     "platform": "ethereum"
