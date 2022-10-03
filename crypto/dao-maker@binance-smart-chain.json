@@ -5,7 +5,7 @@
   "type": "token",
   "name": "DAO Maker",
   "symbol": "DAO",
-  "address": "0x22f3997a5df5a80e29871fed24fe3e85741f5e82",
+  "address": "0x4d2d32d8652058bf98c772953e1df5c5c85d9f45",
   "decimals": 18,
   "logo": "dao-maker.png",
   "coingecko": {
