@@ -1,0 +1,18 @@
+{
+  "_id": "toncoin@binance-smart-chain",
+  "asset": "toncoin",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Toncoin",
+  "symbol": "TON",
+  "address": "0x76a797a59ba2c17726896976b7b3747bfd1d220f",
+  "decimals": 9,
+  "logo": "toncoin.png",
+  "coingecko": {
+    "id": "tontoken"
+  },
+  "coinmarketcap": {
+    "id": 11419,
+    "slug": "toncoin"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "toncoin@ethereum",
+  "asset": "toncoin",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Toncoin",
+  "symbol": "TON",
+  "address": "0x582d872a1b094fc48f5de31d3b73f2d9be47def1",
+  "decimals": 9,
+  "logo": "toncoin.png",
+  "coingecko": {
+    "id": "tontoken"
+  },
+  "coinmarketcap": {
+    "id": 11419,
+    "slug": "toncoin"
+  }
+}
