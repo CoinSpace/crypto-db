@@ -3,7 +3,7 @@
   "asset": "ambrosus",
   "platform": "ambrosus",
   "type": "coin",
-  "name": "Ambrosus",
+  "name": "AirDAO",
   "symbol": "AMB",
   "decimals": 5,
   "logo": "ambrosus.svg",
@@ -16,6 +16,6 @@
   },
   "coinmarketcap": {
     "id": 2081,
-    "slug": "amber"
+    "slug": "airdao"
   }
 }
