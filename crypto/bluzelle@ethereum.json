@@ -8,6 +8,9 @@
   "address": "0x5732046a883704404f284ce41ffadd5b007fd668",
   "decimals": 18,
   "logo": "bluzelle.svg",
+  "changelly": {
+    "ticker": "blz"
+  },
   "coingecko": {
     "id": "bluzelle",
     "platform": "ethereum"
