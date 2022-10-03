@@ -5,7 +5,7 @@
   "type": "token",
   "name": "Binance USD",
   "symbol": "BUSD",
-  "address": "0x19860ccb0a68fd4213ab9d8266f7bbf05a8dde98",
+  "address": "0x9c9e5fd8bbc25984b178fdce6117defa39d2db39",
   "decimals": 18,
   "logo": "binance-usd.svg",
   "coingecko": {
