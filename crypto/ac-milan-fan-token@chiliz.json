@@ -5,7 +5,7 @@
   "type": "token",
   "name": "AC Milan Fan Token",
   "symbol": "ACM",
-  "address": "0xea6a3e367e96521fd9e8296425a44efa6aee82da",
+  "address": "0xEA6A3E367e96521fD9E8296425a44EFa6aee82da",
   "decimals": 0,
   "logo": "ac-milan-fan-token.png",
   "supported": false,
