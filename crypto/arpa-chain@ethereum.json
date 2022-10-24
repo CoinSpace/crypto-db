@@ -12,8 +12,7 @@
     "ticker": "arpa"
   },
   "coingecko": {
-    "id": "arpa-chain",
-    "platform": "ethereum"
+    "id": "arpa"
   },
   "coinmarketcap": {
     "id": 4039,
