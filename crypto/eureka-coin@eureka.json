@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "eureka-coin@eureka",
   "asset": "eureka-coin",
   "platform": "eureka",
@@ -6,7 +7,6 @@
   "name": "Eureka Coin",
   "symbol": "ERK",
   "decimals": 8,
-  "logo": "eureka-coin.png",
   "supported": false,
   "changelly": {
     "ticker": "erk"
