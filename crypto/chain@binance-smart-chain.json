@@ -1,0 +1,18 @@
+{
+  "_id": "chain@binance-smart-chain",
+  "asset": "chain",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Chain",
+  "symbol": "XCN",
+  "address": "0x7324c7c0d95cebc73eea7e85cbaac0dbdf88a05b",
+  "decimals": 18,
+  "logo": "chain.png",
+  "coingecko": {
+    "id": "chain-2"
+  },
+  "coinmarketcap": {
+    "id": 18679,
+    "slug": "chain"
+  }
+}

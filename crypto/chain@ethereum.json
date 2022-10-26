@@ -1,0 +1,18 @@
+{
+  "_id": "chain@ethereum",
+  "asset": "chain",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Chain",
+  "symbol": "XCN",
+  "address": "0xa2cd3d43c775978a96bdbf12d733d5a1ed94fb18",
+  "decimals": 18,
+  "logo": "chain.png",
+  "coingecko": {
+    "id": "chain-2"
+  },
+  "coinmarketcap": {
+    "id": 18679,
+    "slug": "chain"
+  }
+}
