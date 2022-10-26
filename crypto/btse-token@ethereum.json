@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "btse-token@ethereum",
   "asset": "btse-token",
   "platform": "ethereum",
@@ -7,7 +8,6 @@
   "symbol": "BTSE",
   "address": "0x666d875c600aa06ac1cf15641361dec3b00432ef",
   "decimals": 8,
-  "logo": "btse-token.jpg",
   "coingecko": {
     "id": "btse-token",
     "platform": "ethereum"

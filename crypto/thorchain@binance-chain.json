@@ -9,9 +9,6 @@
   "decimals": 8,
   "logo": "thorchain.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "rune"
-  },
   "coingecko": {
     "id": "thorchain",
     "platform": "binancecoin"

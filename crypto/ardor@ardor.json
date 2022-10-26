@@ -8,9 +8,6 @@
   "decimals": 8,
   "logo": "ardor.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "ardr"
-  },
   "coingecko": {
     "id": "ardor"
   },

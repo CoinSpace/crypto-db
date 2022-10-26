@@ -8,9 +8,6 @@
   "decimals": 8,
   "logo": "flow.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "flow"
-  },
   "coingecko": {
     "id": "flow"
   },

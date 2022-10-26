@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "crust-network@ethereum",
   "asset": "crust-network",
   "platform": "ethereum",
@@ -7,7 +8,6 @@
   "symbol": "CRU",
   "address": "0x32a7c02e79c4ea1008dd6564b35f131428673c41",
   "decimals": 18,
-  "logo": "crust-network.jpg",
   "coingecko": {
     "id": "crust-network",
     "platform": "ethereum"

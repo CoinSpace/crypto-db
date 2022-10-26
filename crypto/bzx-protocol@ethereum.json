@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "bzx-protocol@ethereum",
   "asset": "bzx-protocol",
   "platform": "ethereum",
@@ -7,7 +8,6 @@
   "symbol": "BZRX",
   "address": "0x56d811088235f11c8920698a204a5010a788f4b3",
   "decimals": 18,
-  "logo": "bzx-protocol.svg",
   "coingecko": {
     "id": "bzx-protocol",
     "platform": "ethereum"

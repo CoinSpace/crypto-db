@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "polkadex@ethereum",
   "asset": "polkadex",
   "platform": "ethereum",
@@ -7,7 +8,6 @@
   "symbol": "PDEX",
   "address": "0xf59ae934f6fe444afc309586cc60a84a0f89aaea",
   "decimals": 18,
-  "logo": "polkadex.jpg",
   "coingecko": {
     "id": "polkadex",
     "platform": "ethereum"

@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "ignis@ardor",
   "asset": "ignis",
   "platform": "ardor",
@@ -7,11 +8,7 @@
   "symbol": "IGNIS",
   "address": "",
   "decimals": 8,
-  "logo": "ignis.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "ignis"
-  },
   "coingecko": {
     "id": "ignis",
     "platform": "ardor"

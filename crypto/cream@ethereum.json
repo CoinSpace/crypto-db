@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "cream@ethereum",
   "asset": "cream",
   "platform": "ethereum",
@@ -7,7 +8,6 @@
   "symbol": "CREAM",
   "address": "0x2ba592f78db6436527729929aaf6c908497cb200",
   "decimals": 18,
-  "logo": "cream.svg",
   "coingecko": {
     "id": "cream-2",
     "platform": "ethereum"

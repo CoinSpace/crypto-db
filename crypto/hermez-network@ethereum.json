@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "hermez-network@ethereum",
   "asset": "hermez-network",
   "platform": "ethereum",
@@ -7,7 +8,6 @@
   "symbol": "HEZ",
   "address": "0xeef9f339514298c6a857efcfc1a762af84438dee",
   "decimals": 18,
-  "logo": "hermez-network.png",
   "coingecko": {
     "id": "hermez-network-token",
     "platform": "ethereum"

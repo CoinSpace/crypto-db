@@ -8,9 +8,6 @@
   "decimals": 8,
   "logo": "tomochain.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "tomo"
-  },
   "coingecko": {
     "id": "tomochain"
   },

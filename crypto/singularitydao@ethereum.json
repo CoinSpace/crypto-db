@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "singularitydao@ethereum",
   "asset": "singularitydao",
   "platform": "ethereum",
@@ -7,7 +8,6 @@
   "symbol": "SDAO",
   "address": "0x993864e43caa7f7f12953ad6feb1d1ca635b875f",
   "decimals": 18,
-  "logo": "singularitydao.png",
   "coingecko": {
     "id": "singularitydao",
     "platform": "ethereum"

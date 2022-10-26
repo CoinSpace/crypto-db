@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "fio-protocol@fio-protocol",
   "asset": "fio-protocol",
   "platform": "fio-protocol",
@@ -6,11 +7,7 @@
   "name": "FIO Protocol",
   "symbol": "FIO",
   "decimals": 9,
-  "logo": "fio-protocol.png",
   "supported": false,
-  "changelly": {
-    "ticker": "fio"
-  },
   "coingecko": {
     "id": "fio-protocol"
   },

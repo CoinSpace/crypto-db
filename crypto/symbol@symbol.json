@@ -8,9 +8,6 @@
   "decimals": 6,
   "logo": "symbol.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "xym"
-  },
   "coingecko": {
     "id": "symbol"
   },

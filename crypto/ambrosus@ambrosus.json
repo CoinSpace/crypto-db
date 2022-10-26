@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "ambrosus@ambrosus",
   "asset": "ambrosus",
   "platform": "ambrosus",
@@ -6,11 +7,7 @@
   "name": "AirDAO",
   "symbol": "AMB",
   "decimals": 5,
-  "logo": "ambrosus.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "amb"
-  },
   "coingecko": {
     "id": "amber"
   },

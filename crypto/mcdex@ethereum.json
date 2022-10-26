@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "mcdex@ethereum",
   "asset": "mcdex",
   "platform": "ethereum",
@@ -7,7 +8,6 @@
   "symbol": "MCB",
   "address": "0x4e352cf164e64adcbad318c3a1e222e9eba4ce42",
   "decimals": 18,
-  "logo": "mcdex.png",
   "coingecko": {
     "id": "mcdex",
     "platform": "ethereum"

@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "nftx@ethereum",
   "asset": "nftx",
   "platform": "ethereum",
@@ -7,7 +8,6 @@
   "symbol": "NFTX",
   "address": "0x87d73e916d7057945c9bcd8cdd94e42a6f47f776",
   "decimals": 18,
-  "logo": "nftx.jpg",
   "coingecko": {
     "id": "nftx",
     "platform": "ethereum"

@@ -8,9 +8,6 @@
   "decimals": 8,
   "logo": "internet-computer.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "icp"
-  },
   "coingecko": {
     "id": "internet-computer"
   },

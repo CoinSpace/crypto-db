@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "xdai-stake@ethereum",
   "asset": "xdai-stake",
   "platform": "ethereum",
@@ -7,7 +8,6 @@
   "symbol": "STAKE",
   "address": "0x0ae055097c6d159879521c384f1d2123d1f195e6",
   "decimals": 18,
-  "logo": "xdai-stake.svg",
   "coingecko": {
     "id": "xdai-stake",
     "platform": "ethereum"

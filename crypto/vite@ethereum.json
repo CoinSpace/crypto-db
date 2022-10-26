@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "vite@ethereum",
   "asset": "vite",
   "platform": "ethereum",
@@ -7,7 +8,6 @@
   "symbol": "VITE",
   "address": "0xadd5e881984783dd432f80381fb52f45b53f3e70",
   "decimals": 18,
-  "logo": "vite.svg",
   "coingecko": {
     "id": "vite",
     "platform": "ethereum"

@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "parsiq@ethereum",
   "asset": "parsiq",
   "platform": "ethereum",
@@ -7,7 +8,6 @@
   "symbol": "PRQ",
   "address": "0x362bc847a3a9637d3af6624eec853618a43ed7d2",
   "decimals": 18,
-  "logo": "parsiq.svg",
   "coingecko": {
     "id": "parsiq",
     "platform": "ethereum"

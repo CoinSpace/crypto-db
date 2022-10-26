@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "wilder-world@ethereum",
   "asset": "wilder-world",
   "platform": "ethereum",
@@ -7,7 +8,6 @@
   "symbol": "WILD",
   "address": "0x2a3bff78b79a009976eea096a51a948a3dc00e34",
   "decimals": 18,
-  "logo": "wilder-world.png",
   "coingecko": {
     "id": "wilder-world",
     "platform": "ethereum"

@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "phantasma@ethereum",
   "asset": "phantasma",
   "platform": "ethereum",
@@ -7,7 +8,6 @@
   "symbol": "SOUL",
   "address": "0x75858677e27c930fb622759feaffee2b754af07f",
   "decimals": 8,
-  "logo": "phantasma.svg",
   "coingecko": {
     "id": "phantasma",
     "platform": "ethereum"

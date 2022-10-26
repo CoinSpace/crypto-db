@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "quick@ethereum",
   "asset": "quick",
   "platform": "ethereum",
@@ -7,7 +8,6 @@
   "symbol": "QUICK",
   "address": "0x6c28aef8977c9b773996d0e8376d2ee379446f2f",
   "decimals": 18,
-  "logo": "quick.png",
   "coingecko": {
     "id": "quick",
     "platform": "ethereum"

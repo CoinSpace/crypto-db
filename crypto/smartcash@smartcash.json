@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "smartcash@smartcash",
   "asset": "smartcash",
   "platform": "smartcash",
@@ -6,11 +7,7 @@
   "name": "SmartCash",
   "symbol": "SMART",
   "decimals": 8,
-  "logo": "smartcash.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "smart"
-  },
   "coingecko": {
     "id": "smartcash"
   },

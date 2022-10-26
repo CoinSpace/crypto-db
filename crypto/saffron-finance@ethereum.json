@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "saffron-finance@ethereum",
   "asset": "saffron-finance",
   "platform": "ethereum",
@@ -7,7 +8,6 @@
   "symbol": "SFI",
   "address": "0xb753428af26e81097e7fd17f40c88aaa3e04902c",
   "decimals": 18,
-  "logo": "saffron-finance.svg",
   "coingecko": {
     "id": "saffron-finance",
     "platform": "ethereum"

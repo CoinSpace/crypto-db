@@ -8,9 +8,6 @@
   "decimals": 6,
   "logo": "stacks.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "stx"
-  },
   "coingecko": {
     "id": "blockstack"
   },

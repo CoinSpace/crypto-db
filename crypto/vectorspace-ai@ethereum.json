@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "vectorspace-ai@ethereum",
   "asset": "vectorspace-ai",
   "platform": "ethereum",
@@ -7,7 +8,6 @@
   "symbol": "VXV",
   "address": "0x7d29a64504629172a429e64183d6673b9dacbfce",
   "decimals": 18,
-  "logo": "vectorspace-ai.svg",
   "coingecko": {
     "id": "vectorspace",
     "platform": "ethereum"

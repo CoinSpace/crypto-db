@@ -9,9 +9,6 @@
   "decimals": 15,
   "logo": "sologenic.png",
   "supported": false,
-  "changelly": {
-    "ticker": "solo"
-  },
   "coingecko": {
     "id": "solo-coin",
     "platform": "xrp"

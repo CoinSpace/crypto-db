@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "aurox-token@ethereum",
   "asset": "aurox-token",
   "platform": "ethereum",
@@ -7,7 +8,6 @@
   "symbol": "URUS",
   "address": "0xc6dddb5bc6e61e0841c54f3e723ae1f3a807260b",
   "decimals": 18,
-  "logo": "aurox-token.png",
   "coingecko": {
     "id": "urus-token",
     "platform": "ethereum"

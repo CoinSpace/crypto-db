@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "aion@aion",
   "asset": "aion",
   "platform": "aion",
@@ -6,11 +7,7 @@
   "name": "Aion",
   "symbol": "AION",
   "decimals": 16,
-  "logo": "aion.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "aion"
-  },
   "coingecko": {
     "id": "aion"
   },

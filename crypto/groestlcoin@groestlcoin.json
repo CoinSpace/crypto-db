@@ -8,9 +8,6 @@
   "decimals": 8,
   "logo": "groestlcoin.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "grs"
-  },
   "coingecko": {
     "id": "groestlcoin"
   },

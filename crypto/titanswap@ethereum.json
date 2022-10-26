@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "titanswap@ethereum",
   "asset": "titanswap",
   "platform": "ethereum",
@@ -7,7 +8,6 @@
   "symbol": "TITAN",
   "address": "0x3a8cccb969a61532d1e6005e2ce12c200caece87",
   "decimals": 18,
-  "logo": "titanswap.png",
   "coingecko": {
     "id": "titanswap",
     "platform": "ethereum"

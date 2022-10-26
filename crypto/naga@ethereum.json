@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "naga@ethereum",
   "asset": "naga",
   "platform": "ethereum",
@@ -7,7 +8,6 @@
   "symbol": "NGC",
   "address": "0x72dd4b6bd852a3aa172be4d6c5a6dbec588cf131",
   "decimals": 18,
-  "logo": "naga.svg",
   "changelly": {
     "ticker": "ngc"
   },

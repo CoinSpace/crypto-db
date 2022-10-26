@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "wabi@ethereum",
   "asset": "wabi",
   "platform": "ethereum",
@@ -7,10 +8,6 @@
   "symbol": "WABI",
   "address": "0x286bda1413a2df81731d4930ce2f862a35a609fe",
   "decimals": 18,
-  "logo": "wabi.png",
-  "changelly": {
-    "ticker": "wabi"
-  },
   "coingecko": {
     "id": "wabi",
     "platform": "ethereum"

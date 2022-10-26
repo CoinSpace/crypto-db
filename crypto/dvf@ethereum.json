@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "dvf@ethereum",
   "asset": "dvf",
   "platform": "ethereum",
@@ -7,7 +8,6 @@
   "symbol": "DVF",
   "address": "0xdddddd4301a082e62e84e43f474f044423921918",
   "decimals": 18,
-  "logo": "dvf.png",
   "coingecko": {
     "id": "rhinofi"
   },

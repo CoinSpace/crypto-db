@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "hoge-finance@ethereum",
   "asset": "hoge-finance",
   "platform": "ethereum",
@@ -7,7 +8,6 @@
   "symbol": "HOGE",
   "address": "0xfad45e47083e4607302aa43c65fb3106f1cd7607",
   "decimals": 9,
-  "logo": "hoge-finance.jpg",
   "coingecko": {
     "id": "hoge-finance",
     "platform": "ethereum"

@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "trustswap@ethereum",
   "asset": "trustswap",
   "platform": "ethereum",
@@ -7,7 +8,6 @@
   "symbol": "SWAP",
   "address": "0xcc4304a31d09258b0029ea7fe63d032f52e44efe",
   "decimals": 18,
-  "logo": "trustswap.png",
   "coingecko": {
     "id": "trustswap",
     "platform": "ethereum"

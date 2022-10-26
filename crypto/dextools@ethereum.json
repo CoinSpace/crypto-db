@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "dextools@ethereum",
   "asset": "dextools",
   "platform": "ethereum",
@@ -7,7 +8,6 @@
   "symbol": "DEXT",
   "address": "0xfb7b4564402e5500db5bb6d63ae671302777c75a",
   "decimals": 18,
-  "logo": "dextools.png",
   "coingecko": {
     "id": "dextools",
     "platform": "ethereum"

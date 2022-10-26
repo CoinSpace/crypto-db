@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "zkswap@ethereum",
   "asset": "zkswap",
   "platform": "ethereum",
@@ -7,7 +8,6 @@
   "symbol": "ZKS",
   "address": "0xe4815ae53b124e7263f08dcdbbb757d41ed658c6",
   "decimals": 18,
-  "logo": "zkswap.png",
   "coingecko": {
     "id": "zkspace"
   },

@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "token-pocket@ethereum",
   "asset": "token-pocket",
   "platform": "ethereum",
@@ -7,7 +8,6 @@
   "symbol": "TPT",
   "address": "0x4161725d019690a3e0de50f6be67b07a86a9fae1",
   "decimals": 4,
-  "logo": "token-pocket.jpg",
   "coingecko": {
     "id": "token-pocket",
     "platform": "ethereum"

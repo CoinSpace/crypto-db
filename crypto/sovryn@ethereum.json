@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "sovryn@ethereum",
   "asset": "sovryn",
   "platform": "ethereum",
@@ -7,7 +8,6 @@
   "symbol": "SOV",
   "address": "0xbdab72602e9ad40fc6a6852caf43258113b8f7a5",
   "decimals": 18,
-  "logo": "sovryn.png",
   "coingecko": {
     "id": "sovryn",
     "platform": "ethereum"

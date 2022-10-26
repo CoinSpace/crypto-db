@@ -8,9 +8,6 @@
   "decimals": 4,
   "logo": "eos.svg",
   "scheme": "eos",
-  "changelly": {
-    "ticker": "eos"
-  },
   "coingecko": {
     "id": "eos"
   },

@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "tokocrypto@binance-smart-chain",
   "asset": "tokocrypto",
   "platform": "binance-smart-chain",
@@ -7,7 +8,6 @@
   "symbol": "TKO",
   "address": "0x9f589e3eabe42ebc94a44727b3f3531c0c877809",
   "decimals": 18,
-  "logo": "tokocrypto.png",
   "coingecko": {
     "id": "tokocrypto",
     "platform": "binance-smart-chain"

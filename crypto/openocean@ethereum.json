@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "openocean@ethereum",
   "asset": "openocean",
   "platform": "ethereum",
@@ -7,7 +8,6 @@
   "symbol": "OOE",
   "address": "0x7778360f035c589fce2f4ea5786cbd8b36e5396b",
   "decimals": 18,
-  "logo": "openocean.png",
   "coingecko": {
     "id": "openocean",
     "platform": "ethereum"
