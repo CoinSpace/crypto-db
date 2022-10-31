@@ -8,6 +8,9 @@
   "address": "0x55d398326f99059ff775485246999027b3197955",
   "decimals": 18,
   "logo": "tether.svg",
+  "changelly": {
+    "ticker": "usdtbsc"
+  },
   "coingecko": {
     "id": "tether",
     "platform": "binance-smart-chain"
