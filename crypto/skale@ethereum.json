@@ -3,7 +3,7 @@
   "asset": "skale",
   "platform": "ethereum",
   "type": "token",
-  "name": "SKALE Network",
+  "name": "SKALE",
   "symbol": "SKL",
   "address": "0x00c83aecc790e8a4453e5dd3b0b4b3680501a7a7",
   "decimals": 18,
