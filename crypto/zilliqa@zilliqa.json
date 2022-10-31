@@ -8,6 +8,9 @@
   "decimals": 8,
   "logo": "zilliqa.svg",
   "supported": false,
+  "changelly": {
+    "ticker": "zil"
+  },
   "coingecko": {
     "id": "zilliqa"
   },
