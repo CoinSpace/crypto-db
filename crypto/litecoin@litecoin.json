@@ -8,6 +8,11 @@
   "decimals": 8,
   "logo": "litecoin.svg",
   "scheme": "litecoin",
+  "btcdirect": {
+    "currencyPair": [
+      "LTC-EUR"
+    ]
+  },
   "changelly": {
     "ticker": "ltc"
   },

@@ -8,6 +8,11 @@
   "decimals": 8,
   "logo": "bitcoin-cash.svg",
   "scheme": "bitcoincash",
+  "btcdirect": {
+    "currencyPair": [
+      "BCH-EUR"
+    ]
+  },
   "changelly": {
     "ticker": "bch"
   },

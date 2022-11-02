@@ -8,6 +8,11 @@
   "decimals": 6,
   "logo": "algorand.svg",
   "supported": false,
+  "btcdirect": {
+    "currencyPair": [
+      "ALGO-EUR"
+    ]
+  },
   "changelly": {
     "ticker": "algo"
   },

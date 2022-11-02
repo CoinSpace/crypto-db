@@ -8,6 +8,11 @@
   "decimals": 6,
   "logo": "xrp.svg",
   "scheme": "ripple",
+  "btcdirect": {
+    "currencyPair": [
+      "XRP-EUR"
+    ]
+  },
   "changelly": {
     "ticker": "xrp"
   },
