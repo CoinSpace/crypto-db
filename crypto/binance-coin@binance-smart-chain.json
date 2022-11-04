@@ -20,5 +20,8 @@
   "moonpay": {
     "id": "7ddb22ce-792b-401d-a8ea-62260f59bc62",
     "code": "bnb_bsc"
+  },
+  "onramper": {
+    "id": "BNB_BEP20"
   }
 }

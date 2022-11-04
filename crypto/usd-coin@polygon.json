@@ -20,5 +20,8 @@
   "moonpay": {
     "id": "1501ea35-9c89-4c1e-ae57-4a19d5a635db",
     "code": "usdc_polygon"
+  },
+  "onramper": {
+    "id": "USDC_POLYGON"
   }
 }

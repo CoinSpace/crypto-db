@@ -22,5 +22,8 @@
   "moonpay": {
     "id": "b5e8a120-0fad-40f2-8376-03dd52722817",
     "code": "busd_bsc"
+  },
+  "onramper": {
+    "id": "BUSD_BEP20"
   }
 }

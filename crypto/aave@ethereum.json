@@ -22,5 +22,8 @@
   "moonpay": {
     "id": "3c28b499-2066-4890-8b58-79c52994362f",
     "code": "aave"
+  },
+  "onramper": {
+    "id": "AAVE_ERC20"
   }
 }

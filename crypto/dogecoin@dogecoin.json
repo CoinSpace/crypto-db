@@ -21,5 +21,8 @@
   "moonpay": {
     "id": "af950192-8e01-4a84-9807-27f16d88450e",
     "code": "doge"
+  },
+  "onramper": {
+    "id": "DOGE"
   }
 }

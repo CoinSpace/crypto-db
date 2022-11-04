@@ -21,5 +21,8 @@
   "moonpay": {
     "id": "1440a41c-d03d-4047-a3b3-a6ddac63598e",
     "code": "ada"
+  },
+  "onramper": {
+    "id": "ADA"
   }
 }

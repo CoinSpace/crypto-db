@@ -22,5 +22,8 @@
   "moonpay": {
     "id": "90ea8961-9e67-4f60-8f14-ac9cd6c85056",
     "code": "axs"
+  },
+  "onramper": {
+    "id": "AXS"
   }
 }

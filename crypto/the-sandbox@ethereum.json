@@ -22,5 +22,8 @@
   "moonpay": {
     "id": "614c5d2a-0b2f-464a-9569-3dcf0ca0342e",
     "code": "sand"
+  },
+  "onramper": {
+    "id": "SAND"
   }
 }

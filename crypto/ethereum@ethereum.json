@@ -26,5 +26,8 @@
   "moonpay": {
     "id": "8d305f63-1fd7-4e01-a220-8445e591aec4",
     "code": "eth"
+  },
+  "onramper": {
+    "id": "ETH"
   }
 }

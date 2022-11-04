@@ -27,5 +27,8 @@
   "moonpay": {
     "id": "aaefa32f-161b-42c8-8115-debcbf3d6a2d",
     "code": "usdc"
+  },
+  "onramper": {
+    "id": "USDC"
   }
 }

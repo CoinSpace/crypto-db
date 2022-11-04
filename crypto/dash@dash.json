@@ -17,5 +17,8 @@
   "coinmarketcap": {
     "id": 131,
     "slug": "dash"
+  },
+  "onramper": {
+    "id": "DASH"
   }
 }

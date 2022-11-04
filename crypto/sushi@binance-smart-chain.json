@@ -15,5 +15,8 @@
   "coinmarketcap": {
     "id": 6758,
     "slug": "sushiswap"
+  },
+  "onramper": {
+    "id": "SUSHI_BEP20"
   }
 }

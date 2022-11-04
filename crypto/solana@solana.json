@@ -20,5 +20,8 @@
   "moonpay": {
     "id": "df3cc2d2-6ea5-4b61-9309-5923c0767a54",
     "code": "sol"
+  },
+  "onramper": {
+    "id": "SOL"
   }
 }

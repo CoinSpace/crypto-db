@@ -26,5 +26,8 @@
   "moonpay": {
     "id": "b01f8f58-f915-491b-aadb-7ba6b966c861",
     "code": "bch"
+  },
+  "onramper": {
+    "id": "BCH"
   }
 }

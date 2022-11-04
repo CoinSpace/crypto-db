@@ -22,5 +22,8 @@
   "moonpay": {
     "id": "0c9480ef-2fab-4d31-9037-da4b29ecc16f",
     "code": "dai"
+  },
+  "onramper": {
+    "id": "DAI_ERC20"
   }
 }

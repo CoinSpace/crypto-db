@@ -21,5 +21,8 @@
   "moonpay": {
     "id": "c8b1ef20-3703-4a66-9ea1-c13ce0d893bf",
     "code": "xlm"
+  },
+  "onramper": {
+    "id": "XLM"
   }
 }
