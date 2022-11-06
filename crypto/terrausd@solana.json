@@ -1,0 +1,18 @@
+{
+  "_id": "terrausd@solana",
+  "asset": "terrausd",
+  "platform": "solana",
+  "type": "token",
+  "name": "TerraClassicUSD",
+  "symbol": "USTC",
+  "address": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
+  "decimals": 6,
+  "logo": "terrausd.png",
+  "coingecko": {
+    "id": "terrausd"
+  },
+  "coinmarketcap": {
+    "id": 7129,
+    "slug": "terrausd"
+  }
+}
