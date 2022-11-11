@@ -15,5 +15,9 @@
   "coinmarketcap": {
     "id": 5444,
     "slug": "cartesi"
+  },
+  "guardarian": {
+    "ticker": "CTSI",
+    "network": "BSC"
   }
 }

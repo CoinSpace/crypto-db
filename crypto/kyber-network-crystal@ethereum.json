@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 9444,
     "slug": "kyber-network-crystal-v2"
+  },
+  "guardarian": {
+    "ticker": "KNC",
+    "network": "ETH"
   }
 }

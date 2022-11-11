@@ -17,5 +17,9 @@
   "coinmarketcap": {
     "id": 6535,
     "slug": "near-protocol"
+  },
+  "guardarian": {
+    "ticker": "NEAR",
+    "network": "BSC"
   }
 }

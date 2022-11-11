@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 3724,
     "slug": "solve"
+  },
+  "guardarian": {
+    "ticker": "SOLVE",
+    "network": "ETH"
   }
 }

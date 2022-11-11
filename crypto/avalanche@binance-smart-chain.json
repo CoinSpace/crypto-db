@@ -14,5 +14,9 @@
   "coinmarketcap": {
     "id": 5805,
     "slug": "avalanche"
+  },
+  "guardarian": {
+    "ticker": "AVAX",
+    "network": "BSC"
   }
 }

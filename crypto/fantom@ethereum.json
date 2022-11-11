@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 3513,
     "slug": "fantom"
+  },
+  "guardarian": {
+    "ticker": "FTM",
+    "network": "ETH"
   }
 }

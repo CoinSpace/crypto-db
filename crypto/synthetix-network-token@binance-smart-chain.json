@@ -14,5 +14,9 @@
   "coinmarketcap": {
     "id": 2586,
     "slug": "synthetix"
+  },
+  "guardarian": {
+    "ticker": "SNX",
+    "network": "BSC"
   }
 }

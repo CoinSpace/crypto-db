@@ -19,6 +19,10 @@
     "id": 1518,
     "slug": "maker"
   },
+  "guardarian": {
+    "ticker": "MKR",
+    "network": "ETH"
+  },
   "moonpay": {
     "id": "7a2bed64-917a-446f-b6ae-6c385c0c2923",
     "code": "mkr"

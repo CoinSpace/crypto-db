@@ -15,5 +15,9 @@
   "coinmarketcap": {
     "id": 8438,
     "slug": "hoge-finance"
+  },
+  "guardarian": {
+    "ticker": "HOGE",
+    "network": "ETH"
   }
 }

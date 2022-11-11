@@ -15,6 +15,10 @@
     "id": 3408,
     "slug": "usd-coin"
   },
+  "guardarian": {
+    "ticker": "USDC",
+    "network": "TRX"
+  },
   "onramper": {
     "id": "USDC_TRC20"
   }

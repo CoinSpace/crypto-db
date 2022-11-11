@@ -19,6 +19,10 @@
     "id": 5692,
     "slug": "compound"
   },
+  "guardarian": {
+    "ticker": "COMP",
+    "network": "ETH"
+  },
   "moonpay": {
     "id": "32a496d4-755f-4f2a-91e1-2ce31fbe6c34",
     "code": "comp"

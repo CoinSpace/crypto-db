@@ -15,5 +15,9 @@
   "coinmarketcap": {
     "id": 7678,
     "slug": "keeperdao"
+  },
+  "guardarian": {
+    "ticker": "ROOK",
+    "network": "ETH"
   }
 }

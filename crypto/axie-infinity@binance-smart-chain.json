@@ -15,5 +15,9 @@
   "coinmarketcap": {
     "id": 6783,
     "slug": "axie-infinity"
+  },
+  "guardarian": {
+    "ticker": "AXS",
+    "network": "BSC"
   }
 }

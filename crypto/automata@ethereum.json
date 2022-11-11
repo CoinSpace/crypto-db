@@ -15,5 +15,9 @@
   "coinmarketcap": {
     "id": 10188,
     "slug": "automata-network"
+  },
+  "guardarian": {
+    "ticker": "ATA",
+    "network": "ETH"
   }
 }

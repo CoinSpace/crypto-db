@@ -24,6 +24,10 @@
     "id": 1975,
     "slug": "chainlink"
   },
+  "guardarian": {
+    "ticker": "LINK",
+    "network": "ETH"
+  },
   "moonpay": {
     "id": "d5a202d2-fb36-49bb-93d5-2c2e5d6d000f",
     "code": "link"

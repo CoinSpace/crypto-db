@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 5964,
     "slug": "trust-wallet-token"
+  },
+  "guardarian": {
+    "ticker": "TWT",
+    "network": "BSC"
   }
 }

@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 1772,
     "slug": "storj"
+  },
+  "guardarian": {
+    "ticker": "STORJ",
+    "network": "ETH"
   }
 }

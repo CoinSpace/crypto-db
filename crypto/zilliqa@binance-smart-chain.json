@@ -15,5 +15,9 @@
   "coinmarketcap": {
     "id": 2469,
     "slug": "zilliqa"
+  },
+  "guardarian": {
+    "ticker": "ZIL",
+    "network": "BSC"
   }
 }

@@ -19,6 +19,10 @@
     "id": 1697,
     "slug": "basic-attention-token"
   },
+  "guardarian": {
+    "ticker": "BAT",
+    "network": "ETH"
+  },
   "moonpay": {
     "id": "1faa158e-8433-4bae-bdb8-b5eb768f767d",
     "code": "bat"

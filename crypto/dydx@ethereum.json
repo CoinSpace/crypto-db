@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 11156,
     "slug": "dydx"
+  },
+  "guardarian": {
+    "ticker": "DYDX",
+    "network": "ETH"
   }
 }

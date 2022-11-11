@@ -15,5 +15,9 @@
   "coinmarketcap": {
     "id": 74,
     "slug": "dogecoin"
+  },
+  "guardarian": {
+    "ticker": "DOGE",
+    "network": "BSC"
   }
 }

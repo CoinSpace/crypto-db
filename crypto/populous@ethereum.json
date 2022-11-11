@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 1789,
     "slug": "populous"
+  },
+  "guardarian": {
+    "ticker": "PPT",
+    "network": "ETH"
   }
 }

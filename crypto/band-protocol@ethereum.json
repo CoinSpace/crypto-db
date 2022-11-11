@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 4679,
     "slug": "band-protocol"
+  },
+  "guardarian": {
+    "ticker": "BAND",
+    "network": "ETH"
   }
 }

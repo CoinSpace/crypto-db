@@ -15,5 +15,9 @@
   "coinmarketcap": {
     "id": 7208,
     "slug": "polkastarter"
+  },
+  "guardarian": {
+    "ticker": "POLS",
+    "network": "BSC"
   }
 }

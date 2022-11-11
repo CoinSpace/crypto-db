@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 1816,
     "slug": "civic"
+  },
+  "guardarian": {
+    "ticker": "CVC",
+    "network": "ETH"
   }
 }

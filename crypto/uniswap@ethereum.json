@@ -24,6 +24,10 @@
     "id": 7083,
     "slug": "uniswap"
   },
+  "guardarian": {
+    "ticker": "UNI",
+    "network": "ETH"
+  },
   "moonpay": {
     "id": "3140e0a0-5a54-4ee4-8b5c-39c7bbfa1643",
     "code": "uni"

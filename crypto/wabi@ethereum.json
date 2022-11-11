@@ -15,5 +15,9 @@
   "coinmarketcap": {
     "id": 2267,
     "slug": "wabi"
+  },
+  "guardarian": {
+    "ticker": "WABI",
+    "network": "ETH"
   }
 }

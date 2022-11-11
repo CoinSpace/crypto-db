@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 1659,
     "slug": "gnosis-gno"
+  },
+  "guardarian": {
+    "ticker": "GNO",
+    "network": "ETH"
   }
 }

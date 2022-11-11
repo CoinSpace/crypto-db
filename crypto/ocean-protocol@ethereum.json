@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 3911,
     "slug": "ocean-protocol"
+  },
+  "guardarian": {
+    "ticker": "OCEAN",
+    "network": "ETH"
   }
 }

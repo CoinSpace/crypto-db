@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 1680,
     "slug": "aragon"
+  },
+  "guardarian": {
+    "ticker": "ANT",
+    "network": "ETH"
   }
 }

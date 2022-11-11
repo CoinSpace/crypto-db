@@ -19,6 +19,10 @@
     "id": 1896,
     "slug": "0x"
   },
+  "guardarian": {
+    "ticker": "ZRX",
+    "network": "ETH"
+  },
   "moonpay": {
     "id": "9c244f90-6c08-4a77-ab27-8e1cfff2388e",
     "code": "zrx"

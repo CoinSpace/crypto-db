@@ -14,5 +14,9 @@
   "coinmarketcap": {
     "id": 18069,
     "slug": "green-metaverse-token"
+  },
+  "guardarian": {
+    "ticker": "GMT",
+    "network": "ETH"
   }
 }

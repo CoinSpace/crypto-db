@@ -16,6 +16,10 @@
     "id": 6758,
     "slug": "sushiswap"
   },
+  "guardarian": {
+    "ticker": "SUSHI",
+    "network": "BSC"
+  },
   "onramper": {
     "id": "SUSHI_BEP20"
   }

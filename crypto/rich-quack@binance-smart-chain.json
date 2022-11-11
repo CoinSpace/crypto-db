@@ -15,5 +15,9 @@
   "coinmarketcap": {
     "id": 10641,
     "slug": "richquack-com"
+  },
+  "guardarian": {
+    "ticker": "QUACK",
+    "network": "BSC"
   }
 }

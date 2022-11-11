@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 5728,
     "slug": "balancer"
+  },
+  "guardarian": {
+    "ticker": "BAL",
+    "network": "ETH"
   }
 }

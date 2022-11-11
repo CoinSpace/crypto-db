@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 2682,
     "slug": "holo"
+  },
+  "guardarian": {
+    "ticker": "HOT",
+    "network": "ETH"
   }
 }

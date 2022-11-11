@@ -15,5 +15,9 @@
   "coinmarketcap": {
     "id": 3978,
     "slug": "chromia"
+  },
+  "guardarian": {
+    "ticker": "CHR",
+    "network": "BSC"
   }
 }

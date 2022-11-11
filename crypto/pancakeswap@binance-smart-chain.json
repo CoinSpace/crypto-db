@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 7186,
     "slug": "pancakeswap"
+  },
+  "guardarian": {
+    "ticker": "CAKE",
+    "network": "BSC"
   }
 }

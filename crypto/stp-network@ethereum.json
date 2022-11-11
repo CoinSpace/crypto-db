@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 4006,
     "slug": "standard-tokenization-protocol"
+  },
+  "guardarian": {
+    "ticker": "STPT",
+    "network": "ETH"
   }
 }

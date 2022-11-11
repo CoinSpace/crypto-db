@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 8000,
     "slug": "lido-dao"
+  },
+  "guardarian": {
+    "ticker": "LDO",
+    "network": "ETH"
   }
 }

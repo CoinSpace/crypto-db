@@ -15,5 +15,9 @@
   "coinmarketcap": {
     "id": 2927,
     "slug": "susd"
+  },
+  "guardarian": {
+    "ticker": "SUSD",
+    "network": "ETH"
   }
 }

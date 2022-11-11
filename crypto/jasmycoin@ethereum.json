@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 8425,
     "slug": "jasmy"
+  },
+  "guardarian": {
+    "ticker": "JASMY",
+    "network": "ETH"
   }
 }

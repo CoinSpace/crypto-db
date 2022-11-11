@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 6958,
     "slug": "alchemy-pay"
+  },
+  "guardarian": {
+    "ticker": "ACH",
+    "network": "ETH"
   }
 }

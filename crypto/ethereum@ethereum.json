@@ -23,6 +23,10 @@
     "id": 1027,
     "slug": "ethereum"
   },
+  "guardarian": {
+    "ticker": "ETH",
+    "network": "ETH"
+  },
   "moonpay": {
     "id": "8d305f63-1fd7-4e01-a220-8445e591aec4",
     "code": "eth"

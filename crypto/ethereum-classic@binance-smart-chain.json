@@ -14,5 +14,9 @@
   "coinmarketcap": {
     "id": 1321,
     "slug": "ethereum-classic"
+  },
+  "guardarian": {
+    "ticker": "ETC",
+    "network": "BSC"
   }
 }

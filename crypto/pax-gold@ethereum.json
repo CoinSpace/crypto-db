@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 4705,
     "slug": "pax-gold"
+  },
+  "guardarian": {
+    "ticker": "PAXG",
+    "network": "ETH"
   }
 }

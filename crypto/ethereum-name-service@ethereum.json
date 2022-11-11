@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 13855,
     "slug": "ethereum-name-service"
+  },
+  "guardarian": {
+    "ticker": "ENS",
+    "network": "ETH"
   }
 }

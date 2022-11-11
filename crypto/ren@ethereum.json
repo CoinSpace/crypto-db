@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 2539,
     "slug": "ren"
+  },
+  "guardarian": {
+    "ticker": "REN",
+    "network": "ETH"
   }
 }

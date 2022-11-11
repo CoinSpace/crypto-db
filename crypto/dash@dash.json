@@ -18,6 +18,10 @@
     "id": 131,
     "slug": "dash"
   },
+  "guardarian": {
+    "ticker": "DASH",
+    "network": "DASH"
+  },
   "onramper": {
     "id": "DASH"
   }

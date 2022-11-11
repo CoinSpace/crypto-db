@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 1637,
     "slug": "rlc"
+  },
+  "guardarian": {
+    "ticker": "RLC",
+    "network": "ETH"
   }
 }

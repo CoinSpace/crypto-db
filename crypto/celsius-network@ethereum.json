@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 2700,
     "slug": "celsius"
+  },
+  "guardarian": {
+    "ticker": "CEL",
+    "network": "ETH"
   }
 }

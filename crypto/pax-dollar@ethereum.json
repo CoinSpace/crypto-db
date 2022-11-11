@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 3330,
     "slug": "paxos-standard"
+  },
+  "guardarian": {
+    "ticker": "USDP",
+    "network": "ETH"
   }
 }

@@ -15,5 +15,9 @@
   "coinmarketcap": {
     "id": 1788,
     "slug": "metal"
+  },
+  "guardarian": {
+    "ticker": "MTL",
+    "network": "ETH"
   }
 }

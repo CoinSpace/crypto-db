@@ -15,5 +15,9 @@
   "coinmarketcap": {
     "id": 2765,
     "slug": "xyo"
+  },
+  "guardarian": {
+    "ticker": "XYO",
+    "network": "ETH"
   }
 }

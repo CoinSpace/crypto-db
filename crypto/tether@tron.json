@@ -18,6 +18,10 @@
     "id": 825,
     "slug": "tether"
   },
+  "guardarian": {
+    "ticker": "USDT",
+    "network": "TRX"
+  },
   "moonpay": {
     "id": "da65fff3-02e3-4f89-9df4-648097ed9573",
     "code": "usdt_trx"

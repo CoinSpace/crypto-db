@@ -15,5 +15,9 @@
   "coinmarketcap": {
     "id": 7501,
     "slug": "wootrade"
+  },
+  "guardarian": {
+    "ticker": "WOO",
+    "network": "BSC"
   }
 }

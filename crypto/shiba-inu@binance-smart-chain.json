@@ -15,5 +15,9 @@
   "coinmarketcap": {
     "id": 5994,
     "slug": "shiba-inu"
+  },
+  "guardarian": {
+    "ticker": "SHIB",
+    "network": "BSC"
   }
 }

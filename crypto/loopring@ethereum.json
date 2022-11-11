@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 1934,
     "slug": "loopring"
+  },
+  "guardarian": {
+    "ticker": "LRC",
+    "network": "ETH"
   }
 }

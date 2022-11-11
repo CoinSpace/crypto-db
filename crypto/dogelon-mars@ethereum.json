@@ -15,5 +15,9 @@
   "coinmarketcap": {
     "id": 9436,
     "slug": "dogelon"
+  },
+  "guardarian": {
+    "ticker": "ELON",
+    "network": "ETH"
   }
 }

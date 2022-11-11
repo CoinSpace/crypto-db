@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 2096,
     "slug": "ripio-credit-network"
+  },
+  "guardarian": {
+    "ticker": "RCN",
+    "network": "ETH"
   }
 }

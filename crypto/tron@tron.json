@@ -17,6 +17,10 @@
     "id": 1958,
     "slug": "tron"
   },
+  "guardarian": {
+    "ticker": "TRX",
+    "network": "TRX"
+  },
   "moonpay": {
     "id": "6761f845-9619-45d3-9159-8a3a73edcc11",
     "code": "trx"

@@ -15,5 +15,9 @@
   "coinmarketcap": {
     "id": 8616,
     "slug": "urus"
+  },
+  "guardarian": {
+    "ticker": "URUS",
+    "network": "ETH"
   }
 }

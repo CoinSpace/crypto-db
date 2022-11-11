@@ -15,5 +15,9 @@
   "coinmarketcap": {
     "id": 11346,
     "slug": "radio-caca"
+  },
+  "guardarian": {
+    "ticker": "RACA",
+    "network": "BSC"
   }
 }

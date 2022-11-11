@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 6719,
     "slug": "the-graph"
+  },
+  "guardarian": {
+    "ticker": "GRT",
+    "network": "ETH"
   }
 }

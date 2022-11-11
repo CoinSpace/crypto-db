@@ -19,6 +19,10 @@
     "id": 2320,
     "slug": "utrust"
   },
+  "guardarian": {
+    "ticker": "UTK",
+    "network": "ETH"
+  },
   "moonpay": {
     "id": "e5626cbd-0559-4624-8df2-7353b93856ad",
     "code": "utk"

@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 5015,
     "slug": "hex"
+  },
+  "guardarian": {
+    "ticker": "HEX",
+    "network": "ETH"
   }
 }

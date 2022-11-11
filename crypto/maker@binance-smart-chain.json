@@ -14,5 +14,9 @@
   "coinmarketcap": {
     "id": 1518,
     "slug": "maker"
+  },
+  "guardarian": {
+    "ticker": "MKR",
+    "network": "BSC"
   }
 }

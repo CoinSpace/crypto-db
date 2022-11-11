@@ -15,5 +15,9 @@
   "coinmarketcap": {
     "id": 6636,
     "slug": "polkadot-new"
+  },
+  "guardarian": {
+    "ticker": "DOT",
+    "network": "BSC"
   }
 }

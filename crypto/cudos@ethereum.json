@@ -15,5 +15,9 @@
   "coinmarketcap": {
     "id": 8258,
     "slug": "cudos"
+  },
+  "guardarian": {
+    "ticker": "CUDOS",
+    "network": "ETH"
   }
 }

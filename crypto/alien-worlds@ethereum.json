@@ -14,5 +14,9 @@
   "coinmarketcap": {
     "id": 9119,
     "slug": "alien-worlds"
+  },
+  "guardarian": {
+    "ticker": "TLM",
+    "network": "ETH"
   }
 }

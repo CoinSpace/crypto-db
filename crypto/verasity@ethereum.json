@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 3816,
     "slug": "verasity"
+  },
+  "guardarian": {
+    "ticker": "VRA",
+    "network": "ETH"
   }
 }

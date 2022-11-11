@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 2502,
     "slug": "huobi-token"
+  },
+  "guardarian": {
+    "ticker": "HT",
+    "network": "ETH"
   }
 }

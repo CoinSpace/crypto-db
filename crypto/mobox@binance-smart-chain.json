@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 9175,
     "slug": "mobox"
+  },
+  "guardarian": {
+    "ticker": "MBOX",
+    "network": "BSC"
   }
 }

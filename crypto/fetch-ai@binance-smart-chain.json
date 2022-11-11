@@ -15,5 +15,9 @@
   "coinmarketcap": {
     "id": 3773,
     "slug": "fetch"
+  },
+  "guardarian": {
+    "ticker": "FET",
+    "network": "BSC"
   }
 }

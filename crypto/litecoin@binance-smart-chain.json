@@ -15,5 +15,9 @@
   "coinmarketcap": {
     "id": 2,
     "slug": "litecoin"
+  },
+  "guardarian": {
+    "ticker": "LTC",
+    "network": "BSC"
   }
 }

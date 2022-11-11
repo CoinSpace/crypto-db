@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 2505,
     "slug": "bluzelle"
+  },
+  "guardarian": {
+    "ticker": "BLZ",
+    "network": "ETH"
   }
 }

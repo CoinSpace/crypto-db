@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 5617,
     "slug": "uma"
+  },
+  "guardarian": {
+    "ticker": "UMA",
+    "network": "ETH"
   }
 }

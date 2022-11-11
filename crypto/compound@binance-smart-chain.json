@@ -15,5 +15,9 @@
   "coinmarketcap": {
     "id": 5692,
     "slug": "compound"
+  },
+  "guardarian": {
+    "ticker": "COMP",
+    "network": "BSC"
   }
 }

@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 6945,
     "slug": "amp"
+  },
+  "guardarian": {
+    "ticker": "AMP",
+    "network": "ETH"
   }
 }

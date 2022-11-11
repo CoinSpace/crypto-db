@@ -15,5 +15,9 @@
   "coinmarketcap": {
     "id": 2010,
     "slug": "cardano"
+  },
+  "guardarian": {
+    "ticker": "ADA",
+    "network": "BSC"
   }
 }

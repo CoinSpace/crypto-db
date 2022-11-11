@@ -15,5 +15,9 @@
   "coinmarketcap": {
     "id": 6138,
     "slug": "dia"
+  },
+  "guardarian": {
+    "ticker": "DIA",
+    "network": "ETH"
   }
 }

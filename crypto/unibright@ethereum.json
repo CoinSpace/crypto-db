@@ -15,5 +15,9 @@
   "coinmarketcap": {
     "id": 2758,
     "slug": "unibright"
+  },
+  "guardarian": {
+    "ticker": "UBT",
+    "network": "ETH"
   }
 }

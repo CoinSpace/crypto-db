@@ -16,6 +16,10 @@
     "id": 6187,
     "slug": "serum"
   },
+  "guardarian": {
+    "ticker": "SRM",
+    "network": "ETH"
+  },
   "moonpay": {
     "id": "82d5aae4-6ffa-4a2f-ab0e-9c6afea22174",
     "code": "srm"

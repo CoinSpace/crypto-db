@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 1727,
     "slug": "bancor"
+  },
+  "guardarian": {
+    "ticker": "BNT",
+    "network": "ETH"
   }
 }

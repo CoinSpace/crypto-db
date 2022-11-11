@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 4189,
     "slug": "ultra"
+  },
+  "guardarian": {
+    "ticker": "UOS",
+    "network": "ETH"
   }
 }

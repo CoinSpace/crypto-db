@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 8719,
     "slug": "illuvium"
+  },
+  "guardarian": {
+    "ticker": "ILV",
+    "network": "ETH"
   }
 }

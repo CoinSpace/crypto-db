@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 825,
     "slug": "tether"
+  },
+  "guardarian": {
+    "ticker": "USDT",
+    "network": "BSC"
   }
 }

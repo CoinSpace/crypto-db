@@ -15,5 +15,9 @@
   "coinmarketcap": {
     "id": 10903,
     "slug": "coin98"
+  },
+  "guardarian": {
+    "ticker": "C98",
+    "network": "BSC"
   }
 }

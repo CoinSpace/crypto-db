@@ -15,5 +15,9 @@
   "coinmarketcap": {
     "id": 9020,
     "slug": "tokocrypto"
+  },
+  "guardarian": {
+    "ticker": "TKO",
+    "network": "BSC"
   }
 }

@@ -15,5 +15,9 @@
   "coinmarketcap": {
     "id": 8730,
     "slug": "belt"
+  },
+  "guardarian": {
+    "ticker": "BELT",
+    "network": "BSC"
   }
 }

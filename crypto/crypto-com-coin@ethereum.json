@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 3635,
     "slug": "cronos"
+  },
+  "guardarian": {
+    "ticker": "CRO",
+    "network": "ETH"
   }
 }

@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 4195,
     "slug": "ftx-token"
+  },
+  "guardarian": {
+    "ticker": "FTT",
+    "network": "ETH"
   }
 }

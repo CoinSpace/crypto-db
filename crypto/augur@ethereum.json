@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 1104,
     "slug": "augur"
+  },
+  "guardarian": {
+    "ticker": "REP",
+    "network": "ETH"
   }
 }

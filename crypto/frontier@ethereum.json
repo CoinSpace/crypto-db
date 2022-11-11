@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 5893,
     "slug": "frontier"
+  },
+  "guardarian": {
+    "ticker": "FRONT",
+    "network": "ETH"
   }
 }

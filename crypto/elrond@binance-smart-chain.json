@@ -14,5 +14,9 @@
   "coinmarketcap": {
     "id": 6892,
     "slug": "elrond-egld"
+  },
+  "guardarian": {
+    "ticker": "EGLD",
+    "network": "BSC"
   }
 }

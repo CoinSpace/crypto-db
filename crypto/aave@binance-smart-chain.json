@@ -14,5 +14,9 @@
   "coinmarketcap": {
     "id": 7278,
     "slug": "aave"
+  },
+  "guardarian": {
+    "ticker": "AAVE",
+    "network": "BSC"
   }
 }

@@ -15,5 +15,9 @@
   "coinmarketcap": {
     "id": 5802,
     "slug": "sora"
+  },
+  "guardarian": {
+    "ticker": "XOR",
+    "network": "ETH"
   }
 }

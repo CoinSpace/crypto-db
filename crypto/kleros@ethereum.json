@@ -15,5 +15,9 @@
   "coinmarketcap": {
     "id": 3581,
     "slug": "kleros"
+  },
+  "guardarian": {
+    "ticker": "PNK",
+    "network": "ETH"
   }
 }

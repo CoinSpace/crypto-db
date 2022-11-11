@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 5864,
     "slug": "yearn-finance"
+  },
+  "guardarian": {
+    "ticker": "YFI",
+    "network": "ETH"
   }
 }

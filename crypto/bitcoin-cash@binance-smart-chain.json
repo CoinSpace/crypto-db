@@ -15,5 +15,9 @@
   "coinmarketcap": {
     "id": 1831,
     "slug": "bitcoin-cash"
+  },
+  "guardarian": {
+    "ticker": "BCH",
+    "network": "BSC"
   }
 }

@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 9903,
     "slug": "convex-finance"
+  },
+  "guardarian": {
+    "ticker": "CVX",
+    "network": "ETH"
   }
 }

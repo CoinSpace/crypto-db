@@ -17,5 +17,9 @@
   "coinmarketcap": {
     "id": 4039,
     "slug": "arpa-chain"
+  },
+  "guardarian": {
+    "ticker": "ARPA",
+    "network": "ETH"
   }
 }

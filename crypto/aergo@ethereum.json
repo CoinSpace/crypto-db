@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 3637,
     "slug": "aergo"
+  },
+  "guardarian": {
+    "ticker": "AERGO",
+    "network": "ETH"
   }
 }

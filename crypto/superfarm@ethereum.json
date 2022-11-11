@@ -15,5 +15,9 @@
   "coinmarketcap": {
     "id": 8290,
     "slug": "superfarm"
+  },
+  "guardarian": {
+    "ticker": "SUPER",
+    "network": "ETH"
   }
 }

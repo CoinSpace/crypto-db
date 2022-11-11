@@ -15,5 +15,9 @@
   "coinmarketcap": {
     "id": 8085,
     "slug": "steth"
+  },
+  "guardarian": {
+    "ticker": "STETH",
+    "network": "ETH"
   }
 }

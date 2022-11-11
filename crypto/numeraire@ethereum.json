@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 1732,
     "slug": "numeraire"
+  },
+  "guardarian": {
+    "ticker": "NMR",
+    "network": "ETH"
   }
 }

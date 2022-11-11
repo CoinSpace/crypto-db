@@ -19,6 +19,10 @@
     "id": 3717,
     "slug": "wrapped-bitcoin"
   },
+  "guardarian": {
+    "ticker": "WBTC",
+    "network": "ETH"
+  },
   "moonpay": {
     "id": "fec58310-c00f-4874-8509-2ccbf4249eb1",
     "code": "wbtc"

@@ -15,5 +15,9 @@
   "coinmarketcap": {
     "id": 10746,
     "slug": "biswap"
+  },
+  "guardarian": {
+    "ticker": "BSW",
+    "network": "BSC"
   }
 }

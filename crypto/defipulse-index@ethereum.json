@@ -15,5 +15,9 @@
   "coinmarketcap": {
     "id": 7055,
     "slug": "defi-pulse-index"
+  },
+  "guardarian": {
+    "ticker": "DPI",
+    "network": "ETH"
   }
 }

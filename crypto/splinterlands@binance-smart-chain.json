@@ -15,5 +15,9 @@
   "coinmarketcap": {
     "id": 11035,
     "slug": "splintershards"
+  },
+  "guardarian": {
+    "ticker": "SPS",
+    "network": "BSC"
   }
 }

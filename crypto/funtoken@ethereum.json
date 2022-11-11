@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 1757,
     "slug": "funtoken"
+  },
+  "guardarian": {
+    "ticker": "FUN",
+    "network": "ETH"
   }
 }

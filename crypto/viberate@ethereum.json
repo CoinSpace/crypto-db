@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 2019,
     "slug": "viberate"
+  },
+  "guardarian": {
+    "ticker": "VIB",
+    "network": "ETH"
   }
 }

@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 3155,
     "slug": "quant"
+  },
+  "guardarian": {
+    "ticker": "QNT",
+    "network": "ETH"
   }
 }

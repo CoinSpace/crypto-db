@@ -16,6 +16,10 @@
     "id": 6536,
     "slug": "mantra"
   },
+  "guardarian": {
+    "ticker": "OM",
+    "network": "ETH"
+  },
   "moonpay": {
     "id": "8a12b2e9-b953-48dc-a028-927a1817236b",
     "code": "om"

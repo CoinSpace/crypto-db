@@ -15,5 +15,9 @@
   "coinmarketcap": {
     "id": 4041,
     "slug": "mx-token"
+  },
+  "guardarian": {
+    "ticker": "MX",
+    "network": "ETH"
   }
 }

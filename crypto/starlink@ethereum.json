@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 10821,
     "slug": "star-link"
+  },
+  "guardarian": {
+    "ticker": "STARL",
+    "network": "ETH"
   }
 }

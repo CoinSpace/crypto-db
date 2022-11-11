@@ -15,5 +15,9 @@
   "coinmarketcap": {
     "id": 8766,
     "slug": "myneighboralice"
+  },
+  "guardarian": {
+    "ticker": "ALICE",
+    "network": "BSC"
   }
 }

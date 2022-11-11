@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 4092,
     "slug": "dusk-network"
+  },
+  "guardarian": {
+    "ticker": "DUSK",
+    "network": "ETH"
   }
 }

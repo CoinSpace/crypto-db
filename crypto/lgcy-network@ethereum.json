@@ -15,5 +15,9 @@
   "coinmarketcap": {
     "id": 6665,
     "slug": "lgcy-network"
+  },
+  "guardarian": {
+    "ticker": "LGCY",
+    "network": "ETH"
   }
 }

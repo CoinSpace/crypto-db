@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 5117,
     "slug": "origin-protocol"
+  },
+  "guardarian": {
+    "ticker": "OGN",
+    "network": "ETH"
   }
 }

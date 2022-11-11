@@ -15,5 +15,9 @@
   "coinmarketcap": {
     "id": 1759,
     "slug": "status"
+  },
+  "guardarian": {
+    "ticker": "SNT",
+    "network": "ETH"
   }
 }

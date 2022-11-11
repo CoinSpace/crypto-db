@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 8707,
     "slug": "alpaca-finance"
+  },
+  "guardarian": {
+    "ticker": "ALPACA",
+    "network": "BSC"
   }
 }

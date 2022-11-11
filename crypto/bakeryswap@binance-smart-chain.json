@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 7064,
     "slug": "bakerytoken"
+  },
+  "guardarian": {
+    "ticker": "BAKE",
+    "network": "BSC"
   }
 }

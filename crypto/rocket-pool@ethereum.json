@@ -15,5 +15,9 @@
   "coinmarketcap": {
     "id": 2943,
     "slug": "rocket-pool"
+  },
+  "guardarian": {
+    "ticker": "RPL",
+    "network": "ETH"
   }
 }

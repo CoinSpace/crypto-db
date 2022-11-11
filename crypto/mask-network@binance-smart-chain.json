@@ -15,5 +15,9 @@
   "coinmarketcap": {
     "id": 8536,
     "slug": "mask-network"
+  },
+  "guardarian": {
+    "ticker": "MASK",
+    "network": "BSC"
   }
 }

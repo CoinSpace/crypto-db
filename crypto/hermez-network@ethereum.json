@@ -15,5 +15,9 @@
   "coinmarketcap": {
     "id": 7424,
     "slug": "hermez-network"
+  },
+  "guardarian": {
+    "ticker": "HEZ",
+    "network": "ETH"
   }
 }

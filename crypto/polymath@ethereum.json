@@ -15,5 +15,9 @@
   "coinmarketcap": {
     "id": 2496,
     "slug": "polymath-network"
+  },
+  "guardarian": {
+    "ticker": "POLY",
+    "network": "ETH"
   }
 }

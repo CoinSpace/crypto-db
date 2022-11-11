@@ -15,5 +15,9 @@
   "coinmarketcap": {
     "id": 3853,
     "slug": "multivac"
+  },
+  "guardarian": {
+    "ticker": "MTV",
+    "network": "ETH"
   }
 }

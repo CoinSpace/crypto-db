@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 2132,
     "slug": "power-ledger"
+  },
+  "guardarian": {
+    "ticker": "POWR",
+    "network": "ETH"
   }
 }

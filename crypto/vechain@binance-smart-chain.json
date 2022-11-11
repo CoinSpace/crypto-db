@@ -14,5 +14,9 @@
   "coinmarketcap": {
     "id": 3077,
     "slug": "vechain"
+  },
+  "guardarian": {
+    "ticker": "VET",
+    "network": "BSC"
   }
 }

@@ -15,5 +15,9 @@
   "coinmarketcap": {
     "id": 10729,
     "slug": "ufo-gaming"
+  },
+  "guardarian": {
+    "ticker": "UFO",
+    "network": "ETH"
   }
 }

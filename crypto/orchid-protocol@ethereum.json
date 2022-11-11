@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 5026,
     "slug": "orchid"
+  },
+  "guardarian": {
+    "ticker": "OXT",
+    "network": "ETH"
   }
 }

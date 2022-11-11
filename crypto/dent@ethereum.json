@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 1886,
     "slug": "dent"
+  },
+  "guardarian": {
+    "ticker": "DENT",
+    "network": "ETH"
   }
 }

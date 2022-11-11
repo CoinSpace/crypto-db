@@ -14,5 +14,9 @@
   "coinmarketcap": {
     "id": 2011,
     "slug": "tezos"
+  },
+  "guardarian": {
+    "ticker": "XTZ",
+    "network": "BSC"
   }
 }

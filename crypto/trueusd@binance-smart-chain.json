@@ -15,5 +15,9 @@
   "coinmarketcap": {
     "id": 2563,
     "slug": "trueusd"
+  },
+  "guardarian": {
+    "ticker": "TUSD",
+    "network": "BSC"
   }
 }
