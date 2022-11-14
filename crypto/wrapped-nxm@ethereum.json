@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "wrapped-nxm@ethereum",
   "asset": "wrapped-nxm",
   "platform": "ethereum",
@@ -7,7 +8,6 @@
   "symbol": "WNXM",
   "address": "0x0d438f3b5175bebc262bf23753c1e53d03432bde",
   "decimals": 18,
-  "logo": "wrapped-nxm.jpg",
   "coingecko": {
     "id": "wrapped-nxm",
     "platform": "ethereum"

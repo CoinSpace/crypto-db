@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "sentinel-protocol@ethereum",
   "asset": "sentinel-protocol",
   "platform": "ethereum",
@@ -7,7 +8,6 @@
   "symbol": "UPP",
   "address": "0xc86d054809623432210c107af2e3f619dcfbf652",
   "decimals": 18,
-  "logo": "sentinel-protocol.jpg",
   "coingecko": {
     "id": "sentinel-protocol",
     "platform": "ethereum"
