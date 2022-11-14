@@ -1,0 +1,18 @@
+{
+  "_id": "osmosis@ethereum",
+  "asset": "osmosis",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Osmosis",
+  "symbol": "OSMO",
+  "address": "0x93a62ccfcf1efcb5f60317981f71ed6fb39f4ba2",
+  "decimals": 6,
+  "logo": "osmosis.png",
+  "coingecko": {
+    "id": "osmosis"
+  },
+  "coinmarketcap": {
+    "id": 12220,
+    "slug": "osmosis"
+  }
+}
