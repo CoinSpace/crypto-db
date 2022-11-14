@@ -8,6 +8,9 @@
   "address": "0xec67005c4e498ec7f55e092bd1d35cbc47c91892",
   "decimals": 18,
   "logo": "enzyme.svg",
+  "changelly": {
+    "ticker": "mln"
+  },
   "coingecko": {
     "id": "melon",
     "platform": "ethereum"
