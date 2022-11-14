@@ -1,0 +1,18 @@
+{
+  "_id": "gmx@avalanche-c-chain",
+  "asset": "gmx",
+  "platform": "avalanche-c-chain",
+  "type": "token",
+  "name": "GMX",
+  "symbol": "GMX",
+  "address": "0x62edc0692bd897d2295872a9ffcac5425011c661",
+  "decimals": 18,
+  "logo": "gmx.png",
+  "coingecko": {
+    "id": "gmx"
+  },
+  "coinmarketcap": {
+    "id": 11857,
+    "slug": "gmx"
+  }
+}
