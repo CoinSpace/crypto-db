@@ -1,0 +1,21 @@
+{
+  "_id": "binaryx@binance-smart-chain",
+  "asset": "binaryx",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "BinaryX",
+  "symbol": "BNX",
+  "address": "0x8c851d1a123ff703bd1f9dabe631b69902df5f97",
+  "decimals": 18,
+  "logo": "binaryx.png",
+  "changelly": {
+    "ticker": "bnx"
+  },
+  "coingecko": {
+    "id": "binaryx"
+  },
+  "coinmarketcap": {
+    "id": 9891,
+    "slug": "binaryx"
+  }
+}
