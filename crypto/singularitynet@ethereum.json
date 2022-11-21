@@ -8,6 +8,9 @@
   "address": "0x5b7533812759b45c2b44c19e320ba2cd2681b542",
   "decimals": 8,
   "logo": "singularitynet.svg",
+  "changelly": {
+    "ticker": "agix"
+  },
   "coingecko": {
     "id": "singularitynet",
     "platform": "ethereum"
