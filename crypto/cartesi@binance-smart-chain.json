@@ -8,6 +8,9 @@
   "address": "0x8da443f84fea710266c8eb6bc34b71702d033ef2",
   "decimals": 18,
   "logo": "cartesi.svg",
+  "changelly": {
+    "ticker": "ctsi"
+  },
   "coingecko": {
     "id": "cartesi",
     "platform": "binance-smart-chain"
