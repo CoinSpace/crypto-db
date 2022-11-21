@@ -3,9 +3,9 @@
   "asset": "vidt-datalink",
   "platform": "ethereum",
   "type": "token",
-  "name": "VIDT DAO",
+  "name": "VIDT Datalink",
   "symbol": "VIDT",
-  "address": "0x3be7bf1a5f23bd8336787d0289b70602f1940875",
+  "address": "0xfef4185594457050cc9c23980d301908fe057bb1",
   "decimals": 18,
   "logo": "vidt-datalink.png",
   "changelly": {
