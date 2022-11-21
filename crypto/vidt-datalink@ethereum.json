@@ -12,8 +12,7 @@
     "ticker": "vidt"
   },
   "coingecko": {
-    "id": "v-id-blockchain",
-    "platform": "ethereum"
+    "id": "vidt-dao"
   },
   "coinmarketcap": {
     "id": 3845,

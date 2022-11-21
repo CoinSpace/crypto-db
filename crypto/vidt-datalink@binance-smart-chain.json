@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "vidt-datalink.png",
   "coingecko": {
-    "id": "v-id-blockchain",
-    "platform": "binance-smart-chain"
+    "id": "vidt-dao"
   },
   "coinmarketcap": {
     "id": 3845,
