@@ -8,6 +8,9 @@
   "address": "0x0fd10b9899882a6f2fcb5c371e17e70fdee00c38",
   "decimals": 18,
   "logo": "pundi-x.svg",
+  "changelly": {
+    "ticker": "pundix"
+  },
   "coingecko": {
     "id": "pundi-x-2",
     "platform": "ethereum"
