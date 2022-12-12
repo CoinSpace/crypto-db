@@ -22,5 +22,9 @@
   "guardarian": {
     "ticker": "LRC",
     "network": "ETH"
+  },
+  "moonpay": {
+    "id": "ab392862-4eaa-42d6-ae75-732957d76214",
+    "code": "lrc"
   }
 }
