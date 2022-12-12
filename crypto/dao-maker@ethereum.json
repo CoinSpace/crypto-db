@@ -8,6 +8,9 @@
   "address": "0x0f51bb10119727a7e5ea3538074fb341f56b09ad",
   "decimals": 18,
   "logo": "dao-maker.png",
+  "changelly": {
+    "ticker": "dao"
+  },
   "coingecko": {
     "id": "dao-maker",
     "platform": "ethereum"
