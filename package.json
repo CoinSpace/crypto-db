@@ -19,7 +19,7 @@
   ],
   "devDependencies": {
     "eslint": "^8.15.0",
-    "eslint-config-coinspace": "^1.2.2"
+    "eslint-config-coinspace": "^2.0.0"
   },
   "eslintConfig": {
     "extends": [
