@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "deapcoin@ethereum",
   "asset": "deapcoin",
   "platform": "ethereum",
@@ -7,7 +8,6 @@
   "symbol": "DEP",
   "address": "0x1a3496c18d558bd9c6c8f609e1b129f67ab08163",
   "decimals": 18,
-  "logo": "deapcoin.png",
   "coingecko": {
     "id": "deapcoin",
     "platform": "ethereum"

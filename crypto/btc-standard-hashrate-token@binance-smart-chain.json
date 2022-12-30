@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "btc-standard-hashrate-token@binance-smart-chain",
   "asset": "btc-standard-hashrate-token",
   "platform": "binance-smart-chain",
@@ -7,7 +8,6 @@
   "symbol": "BTCST",
   "address": "0x78650b139471520656b9e7aa7a5e9276814a38e9",
   "decimals": 17,
-  "logo": "btc-standard-hashrate-token.png",
   "coingecko": {
     "id": "btc-standard-hashrate-token",
     "platform": "binance-smart-chain"

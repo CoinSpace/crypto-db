@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "swarm@ethereum",
   "asset": "swarm",
   "platform": "ethereum",
@@ -7,7 +8,6 @@
   "symbol": "BZZ",
   "address": "0x19062190b1925b5b6689d7073fdfc8c2976ef8cb",
   "decimals": 16,
-  "logo": "swarm.png",
   "coingecko": {
     "id": "swarm-bzz",
     "platform": "ethereum"

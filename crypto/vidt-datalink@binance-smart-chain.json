@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "vidt-datalink@binance-smart-chain",
   "asset": "vidt-datalink",
   "platform": "binance-smart-chain",
@@ -7,7 +8,6 @@
   "symbol": "VIDT",
   "address": "0x3f515f0a8e93f2e2f891ceeb3db4e62e202d7110",
   "decimals": 18,
-  "logo": "vidt-datalink.png",
   "coingecko": {
     "id": "vidt-dao"
   },

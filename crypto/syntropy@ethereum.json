@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "syntropy@ethereum",
   "asset": "syntropy",
   "platform": "ethereum",
@@ -7,7 +8,6 @@
   "symbol": "NOIA",
   "address": "0xa8c8cfb141a3bb59fea1e2ea6b79b5ecbcd7b6ca",
   "decimals": 18,
-  "logo": "syntropy.svg",
   "coingecko": {
     "id": "noia-network",
     "platform": "ethereum"
