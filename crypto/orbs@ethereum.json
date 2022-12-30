@@ -8,6 +8,9 @@
   "address": "0xff56cc6b1e6ded347aa0b7676c85ab0b3d08b0fa",
   "decimals": 18,
   "logo": "orbs.svg",
+  "changelly": {
+    "ticker": "orbs"
+  },
   "coingecko": {
     "id": "orbs",
     "platform": "ethereum"
