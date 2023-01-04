@@ -8,6 +8,9 @@
   "address": "0xa2cd3d43c775978a96bdbf12d733d5a1ed94fb18",
   "decimals": 18,
   "logo": "chain.png",
+  "changelly": {
+    "ticker": "xcn"
+  },
   "coingecko": {
     "id": "chain-2"
   },
