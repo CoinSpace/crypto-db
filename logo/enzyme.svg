@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 473 470">
   <style>
-    @keyframes e5ojfxdzkgl73_to__to{0%,60%{transform:translate(299.623519px,330.25237px)}}@keyframes e5ojfxdzkgl74_to__to{0%,35%{transform:translate(168.927002px,296.314011px)}77.5%{transform:translate(365.96632px,313.012259px)}}@keyframes e5ojfxdzkgl75_to__to{0%{transform:translate(251.5px,76.5px)}47.5%{transform:translate(119.027238px,134.853682px)}}
+    @keyframes e5ojfxdzkgl73_to__to{0%,60%{transform:translate(299.623519px,330.25237px)}to{transform:translate(79.206655px,274.591545px)}}@keyframes e5ojfxdzkgl74_to__to{0%,35%{transform:translate(168.927002px,296.314011px)}77.5%,to{transform:translate(365.96632px,313.012259px)}}@keyframes e5ojfxdzkgl75_to__to{0%{transform:translate(251.5px,76.5px)}47.5%,to{transform:translate(119.027238px,134.853682px)}}
   </style>
   <defs>
     <linearGradient id="b" x1="156.478" x2="-180.436" y1="0" y2="19.723" gradientUnits="userSpaceOnUse" spreadMethod="pad">
