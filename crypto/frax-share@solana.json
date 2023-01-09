@@ -1,0 +1,18 @@
+{
+  "_id": "frax-share@solana",
+  "asset": "frax-share",
+  "platform": "solana",
+  "type": "token",
+  "name": "Frax Share",
+  "symbol": "FXS",
+  "address": "6LX8BhMQ4Sy2otmAWj7Y5sKd9YTVVUgfMsBzT6B9W7ct",
+  "decimals": 8,
+  "logo": "frax-share.svg",
+  "coingecko": {
+    "id": "frax-share"
+  },
+  "coinmarketcap": {
+    "id": 6953,
+    "slug": "frax-share"
+  }
+}

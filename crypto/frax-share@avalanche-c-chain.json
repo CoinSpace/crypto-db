@@ -1,0 +1,18 @@
+{
+  "_id": "frax-share@avalanche-c-chain",
+  "asset": "frax-share",
+  "platform": "avalanche-c-chain",
+  "type": "token",
+  "name": "Frax Share",
+  "symbol": "FXS",
+  "address": "0xd67de0e0a0fd7b15dc8348bb9be742f3c5850454",
+  "decimals": 18,
+  "logo": "frax-share.svg",
+  "coingecko": {
+    "id": "frax-share"
+  },
+  "coinmarketcap": {
+    "id": 6953,
+    "slug": "frax-share"
+  }
+}
