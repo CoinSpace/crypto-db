@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "hifi-finance@ethereum",
   "asset": "hifi-finance",
   "platform": "ethereum",
@@ -7,7 +8,6 @@
   "symbol": "MFT",
   "address": "0xdf2c7238198ad8b389666574f2d8bc411a4b7428",
   "decimals": 18,
-  "logo": "hifi-finance.png",
   "changelly": {
     "ticker": "mft"
   },

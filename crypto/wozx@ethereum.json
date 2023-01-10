@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "wozx@ethereum",
   "asset": "wozx",
   "platform": "ethereum",
@@ -7,7 +8,6 @@
   "symbol": "WOZX",
   "address": "0x34950ff2b487d9e5282c5ab342d08a2f712eb79f",
   "decimals": 18,
-  "logo": "wozx.jpg",
   "coingecko": {
     "id": "wozx",
     "platform": "ethereum"
