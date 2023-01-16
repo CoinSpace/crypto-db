@@ -8,6 +8,9 @@
   "address": "0xccc8cb5229b0ac8069c51fd58367fd1e622afd97",
   "decimals": 18,
   "logo": "gods-unchained.png",
+  "changelly": {
+    "ticker": "gods"
+  },
   "coingecko": {
     "id": "gods-unchained",
     "platform": "ethereum"
