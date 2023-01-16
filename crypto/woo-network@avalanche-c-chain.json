@@ -1,0 +1,18 @@
+{
+  "_id": "woo-network@avalanche-c-chain",
+  "asset": "woo-network",
+  "platform": "avalanche-c-chain",
+  "type": "token",
+  "name": "WOO Network",
+  "symbol": "WOO",
+  "address": "0xabc9547b534519ff73921b1fba6e672b5f58d083",
+  "decimals": 18,
+  "logo": "woo-network.svg",
+  "coingecko": {
+    "id": "woo-network"
+  },
+  "coinmarketcap": {
+    "id": 7501,
+    "slug": "wootrade"
+  }
+}

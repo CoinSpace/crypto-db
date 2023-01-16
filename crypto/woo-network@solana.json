@@ -1,0 +1,18 @@
+{
+  "_id": "woo-network@solana",
+  "asset": "woo-network",
+  "platform": "solana",
+  "type": "token",
+  "name": "WOO Network",
+  "symbol": "WOO",
+  "address": "E5rk3nmgLUuKUiS94gg4bpWwWwyjCMtddsAXkTFLtHEy",
+  "decimals": 6,
+  "logo": "woo-network.svg",
+  "coingecko": {
+    "id": "woo-network"
+  },
+  "coinmarketcap": {
+    "id": 7501,
+    "slug": "wootrade"
+  }
+}
