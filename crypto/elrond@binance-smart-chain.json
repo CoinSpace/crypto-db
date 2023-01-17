@@ -3,7 +3,7 @@
   "asset": "elrond",
   "platform": "binance-smart-chain",
   "type": "token",
-  "name": "MultiversX (Elrond)",
+  "name": "MultiversX",
   "symbol": "EGLD",
   "address": "0xbf7c81fff98bbe61b40ed186e4afd6ddd01337fe",
   "decimals": 18,
