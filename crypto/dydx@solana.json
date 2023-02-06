@@ -1,0 +1,18 @@
+{
+  "_id": "dydx@solana",
+  "asset": "dydx",
+  "platform": "solana",
+  "type": "token",
+  "name": "dYdX",
+  "symbol": "DYDX",
+  "address": "4Hx6Bj56eGyw8EJrrheM6LBQAvVYRikYCWsALeTrwyRU",
+  "decimals": 8,
+  "logo": "dydx.jpg",
+  "coingecko": {
+    "id": "dydx"
+  },
+  "coinmarketcap": {
+    "id": 11156,
+    "slug": "dydx"
+  }
+}
