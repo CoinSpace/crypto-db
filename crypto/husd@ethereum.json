@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "husd@ethereum",
   "asset": "husd",
   "platform": "ethereum",
@@ -7,7 +8,6 @@
   "symbol": "HUSD",
   "address": "0xdf574c24545e5ffecb9a659c229253d4111d87e1",
   "decimals": 8,
-  "logo": "husd.svg",
   "coingecko": {
     "id": "husd",
     "platform": "ethereum"

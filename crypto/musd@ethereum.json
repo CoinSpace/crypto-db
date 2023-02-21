@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "musd@ethereum",
   "asset": "musd",
   "platform": "ethereum",
@@ -7,7 +8,6 @@
   "symbol": "MUSD",
   "address": "0xe2f2a5c287993345a840db3b0845fbc70f5935a5",
   "decimals": 18,
-  "logo": "musd.png",
   "coingecko": {
     "id": "musd",
     "platform": "ethereum"
