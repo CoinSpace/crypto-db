@@ -3,7 +3,7 @@
   "asset": "neutrino-usd",
   "platform": "ethereum",
   "type": "token",
-  "name": "Neutrino USD",
+  "name": "Neutrino Index",
   "symbol": "XTN",
   "address": "0x674c6ad92fd080e4004b2312b45f796a192d27a0",
   "decimals": 18,
