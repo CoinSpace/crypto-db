@@ -3,7 +3,7 @@
   "asset": "binaryx",
   "platform": "binance-smart-chain",
   "type": "token",
-  "name": "BinaryX",
+  "name": "BinaryX (old)",
   "symbol": "BNX",
   "address": "0x8c851d1a123ff703bd1f9dabe631b69902df5f97",
   "decimals": 18,
