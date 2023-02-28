@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "pumapay@ethereum",
   "asset": "pumapay",
   "platform": "ethereum",
@@ -7,7 +8,6 @@
   "symbol": "PMA",
   "address": "0x846c66cf71c43f80403b51fe3906b3599d63336f",
   "decimals": 18,
-  "logo": "pumapay.svg",
   "changelly": {
     "ticker": "pma"
   },

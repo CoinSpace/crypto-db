@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "substratum@ethereum",
   "asset": "substratum",
   "platform": "ethereum",
@@ -7,7 +8,6 @@
   "symbol": "SUB",
   "address": "0x8d75959f1e61ec2571aa72798237101f084de63a",
   "decimals": 18,
-  "logo": "substratum.svg",
   "changelly": {
     "ticker": "sub"
   },

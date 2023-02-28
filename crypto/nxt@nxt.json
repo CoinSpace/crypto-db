@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "nxt@nxt",
   "asset": "nxt",
   "platform": "nxt",
@@ -6,7 +7,6 @@
   "name": "Nxt",
   "symbol": "NXT",
   "decimals": 8,
-  "logo": "nxt.svg",
   "supported": false,
   "changelly": {
     "ticker": "nxt"

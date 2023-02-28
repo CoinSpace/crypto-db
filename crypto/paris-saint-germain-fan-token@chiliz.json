@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "paris-saint-germain-fan-token@chiliz",
   "asset": "paris-saint-germain-fan-token",
   "platform": "chiliz",
@@ -7,7 +8,6 @@
   "symbol": "PSG",
   "address": "0x6fc212cdE3b420733A88496CbdbB15d85beAb1Ca",
   "decimals": 0,
-  "logo": "paris-saint-germain-fan-token.png",
   "supported": false,
   "changelly": {
     "ticker": "psg"

@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "pillar@ethereum",
   "asset": "pillar",
   "platform": "ethereum",
@@ -7,7 +8,6 @@
   "symbol": "PLR",
   "address": "0xe3818504c1b32bf1557b16c238b2e01fd3149c17",
   "decimals": 18,
-  "logo": "pillar.svg",
   "changelly": {
     "ticker": "plr"
   },
