@@ -8,9 +8,6 @@
   "decimals": 4,
   "logo": "filecoin.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "fil"
-  },
   "coingecko": {
     "id": "filecoin"
   },
