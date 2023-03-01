@@ -1,0 +1,21 @@
+{
+  "_id": "ssv-network@ethereum",
+  "asset": "ssv-network",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "ssv.network",
+  "symbol": "SSV",
+  "address": "0x9d65ff81a3c488d585bbfb0bfe3c7707c7917f54",
+  "decimals": 18,
+  "logo": "ssv-network.png",
+  "changelly": {
+    "ticker": "ssv"
+  },
+  "coingecko": {
+    "id": "ssv-network"
+  },
+  "coinmarketcap": {
+    "id": 12999,
+    "slug": "ssv-network"
+  }
+}
