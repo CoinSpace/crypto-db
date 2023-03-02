@@ -8,9 +8,6 @@
   "decimals": 8,
   "logo": "nervos-network.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "ckb"
-  },
   "coingecko": {
     "id": "nervos-network"
   },
