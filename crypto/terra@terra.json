@@ -8,9 +8,6 @@
   "decimals": 6,
   "logo": "terra.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "lunc"
-  },
   "coingecko": {
     "id": "terra-luna"
   },
