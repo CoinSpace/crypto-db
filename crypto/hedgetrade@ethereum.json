@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "hedgetrade@ethereum",
   "asset": "hedgetrade",
   "platform": "ethereum",
@@ -7,7 +8,6 @@
   "symbol": "HEDG",
   "address": "0xf1290473e210b2108a85237fbcd7b6eb42cc654f",
   "decimals": 18,
-  "logo": "hedgetrade.svg",
   "changelly": {
     "ticker": "hedg"
   },
