@@ -1,0 +1,21 @@
+{
+  "_id": "ton-crystal@ethereum",
+  "asset": "ton-crystal",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Everscale",
+  "symbol": "EVER",
+  "address": "0x29d578cec46b50fa5c88a99c6a4b70184c062953",
+  "decimals": 9,
+  "logo": "ton-crystal.svg",
+  "changelly": {
+    "ticker": "wever"
+  },
+  "coingecko": {
+    "id": "everscale"
+  },
+  "coinmarketcap": {
+    "id": 7505,
+    "slug": "everscale"
+  }
+}

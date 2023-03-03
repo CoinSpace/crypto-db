@@ -1,0 +1,18 @@
+{
+  "_id": "celer-network@binance-smart-chain",
+  "asset": "celer-network",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Celer Network",
+  "symbol": "CELR",
+  "address": "0x1f9f6a696c6fd109cd3956f45dc709d2b3902163",
+  "decimals": 18,
+  "logo": "celer-network.png",
+  "coingecko": {
+    "id": "celer-network"
+  },
+  "coinmarketcap": {
+    "id": 3814,
+    "slug": "celer-network"
+  }
+}

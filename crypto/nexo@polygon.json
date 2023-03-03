@@ -1,0 +1,18 @@
+{
+  "_id": "nexo@polygon",
+  "asset": "nexo",
+  "platform": "polygon",
+  "type": "token",
+  "name": "Nexo",
+  "symbol": "NEXO",
+  "address": "0x41b3966b4ff7b427969ddf5da3627d6aeae9a48e",
+  "decimals": 18,
+  "logo": "nexo.svg",
+  "coingecko": {
+    "id": "nexo"
+  },
+  "coinmarketcap": {
+    "id": 2694,
+    "slug": "nexo"
+  }
+}

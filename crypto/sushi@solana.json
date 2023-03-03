@@ -1,0 +1,18 @@
+{
+  "_id": "sushi@solana",
+  "asset": "sushi",
+  "platform": "solana",
+  "type": "token",
+  "name": "SushiSwap",
+  "symbol": "SUSHI",
+  "address": "AR1Mtgh7zAtxuxGd2XPovXPVjcSdY3i4rQYisNadjfKy",
+  "decimals": 6,
+  "logo": "sushi.svg",
+  "coingecko": {
+    "id": "sushi"
+  },
+  "coinmarketcap": {
+    "id": 6758,
+    "slug": "sushiswap"
+  }
+}

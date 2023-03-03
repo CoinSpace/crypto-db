@@ -1,0 +1,21 @@
+{
+  "_id": "apenft@tron",
+  "asset": "apenft",
+  "platform": "tron",
+  "type": "token",
+  "name": "APENFT",
+  "symbol": "NFT",
+  "address": "TFczxzPhnThNSqr5by8tvxsdCFRRz6cPNq",
+  "decimals": 6,
+  "logo": "apenft.svg",
+  "changelly": {
+    "ticker": "nft"
+  },
+  "coingecko": {
+    "id": "apenft"
+  },
+  "coinmarketcap": {
+    "id": 9816,
+    "slug": "apenft"
+  }
+}

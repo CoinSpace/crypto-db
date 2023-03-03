@@ -1,0 +1,18 @@
+{
+  "_id": "golem@polygon",
+  "asset": "golem",
+  "platform": "polygon",
+  "type": "token",
+  "name": "Golem",
+  "symbol": "GLM",
+  "address": "0x0b220b82f3ea3b7f6d9a1d8ab58930c064a2b5bf",
+  "decimals": 18,
+  "logo": "golem.svg",
+  "coingecko": {
+    "id": "golem"
+  },
+  "coinmarketcap": {
+    "id": 1455,
+    "slug": "golem-network-tokens"
+  }
+}

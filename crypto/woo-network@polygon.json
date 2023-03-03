@@ -1,0 +1,18 @@
+{
+  "_id": "woo-network@polygon",
+  "asset": "woo-network",
+  "platform": "polygon",
+  "type": "token",
+  "name": "WOO Network",
+  "symbol": "WOO",
+  "address": "0x1b815d120b3ef02039ee11dc2d33de7aa4a8c603",
+  "decimals": 18,
+  "logo": "woo-network.svg",
+  "coingecko": {
+    "id": "woo-network"
+  },
+  "coinmarketcap": {
+    "id": 7501,
+    "slug": "wootrade"
+  }
+}

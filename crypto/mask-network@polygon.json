@@ -1,0 +1,18 @@
+{
+  "_id": "mask-network@polygon",
+  "asset": "mask-network",
+  "platform": "polygon",
+  "type": "token",
+  "name": "Mask Network",
+  "symbol": "MASK",
+  "address": "0x2b9e7ccdf0f4e5b24757c1e1a80e311e34cb10c7",
+  "decimals": 18,
+  "logo": "mask-network.svg",
+  "coingecko": {
+    "id": "mask-network"
+  },
+  "coinmarketcap": {
+    "id": 8536,
+    "slug": "mask-network"
+  }
+}

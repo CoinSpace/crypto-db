@@ -1,0 +1,18 @@
+{
+  "_id": "ontology@ethereum",
+  "asset": "ontology",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Ontology",
+  "symbol": "ONT",
+  "address": "0xcb46c550539ac3db72dc7af7c89b11c306c727c2",
+  "decimals": 9,
+  "logo": "ontology.svg",
+  "coingecko": {
+    "id": "ontology"
+  },
+  "coinmarketcap": {
+    "id": 2566,
+    "slug": "ontology"
+  }
+}

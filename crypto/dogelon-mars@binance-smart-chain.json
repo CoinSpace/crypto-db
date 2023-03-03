@@ -1,0 +1,18 @@
+{
+  "_id": "dogelon-mars@binance-smart-chain",
+  "asset": "dogelon-mars",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Dogelon Mars",
+  "symbol": "ELON",
+  "address": "0x7bd6fabd64813c48545c9c0e312a0099d9be2540",
+  "decimals": 18,
+  "logo": "dogelon-mars.jpg",
+  "coingecko": {
+    "id": "dogelon-mars"
+  },
+  "coinmarketcap": {
+    "id": 9436,
+    "slug": "dogelon"
+  }
+}

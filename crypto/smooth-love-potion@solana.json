@@ -1,0 +1,18 @@
+{
+  "_id": "smooth-love-potion@solana",
+  "asset": "smooth-love-potion",
+  "platform": "solana",
+  "type": "token",
+  "name": "Smooth Love Potion",
+  "symbol": "SLP",
+  "address": "4hpngEp1v3CXpeKB81Gw4sv7YvwUVRKvY3SGag9ND8Q4",
+  "decimals": 8,
+  "logo": "smooth-love-potion.svg",
+  "coingecko": {
+    "id": "smooth-love-potion"
+  },
+  "coinmarketcap": {
+    "id": 5824,
+    "slug": "smooth-love-potion"
+  }
+}

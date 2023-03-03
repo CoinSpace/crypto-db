@@ -1,0 +1,18 @@
+{
+  "_id": "uma@avalanche-c-chain",
+  "asset": "uma",
+  "platform": "avalanche-c-chain",
+  "type": "token",
+  "name": "UMA",
+  "symbol": "UMA",
+  "address": "0x3bd2b1c7ed8d396dbb98ded3aebb41350a5b2339",
+  "decimals": 18,
+  "logo": "uma.svg",
+  "coingecko": {
+    "id": "uma"
+  },
+  "coinmarketcap": {
+    "id": 5617,
+    "slug": "uma"
+  }
+}

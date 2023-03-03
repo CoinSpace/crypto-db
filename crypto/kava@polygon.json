@@ -1,0 +1,18 @@
+{
+  "_id": "kava@polygon",
+  "asset": "kava",
+  "platform": "polygon",
+  "type": "token",
+  "name": "Kava",
+  "symbol": "KAVA",
+  "address": "0x87d32f2c0a3d6d091772890c81e321026454a125",
+  "decimals": 6,
+  "logo": "kava.svg",
+  "coingecko": {
+    "id": "kava"
+  },
+  "coinmarketcap": {
+    "id": 4846,
+    "slug": "kava"
+  }
+}

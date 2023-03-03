@@ -1,0 +1,18 @@
+{
+  "_id": "alchemy-pay@binance-smart-chain",
+  "asset": "alchemy-pay",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Alchemy Pay",
+  "symbol": "ACH",
+  "address": "0xbc7d6b50616989655afd682fb42743507003056d",
+  "decimals": 8,
+  "logo": "alchemy-pay.svg",
+  "coingecko": {
+    "id": "alchemy-pay"
+  },
+  "coinmarketcap": {
+    "id": 6958,
+    "slug": "alchemy-pay"
+  }
+}

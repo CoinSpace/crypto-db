@@ -1,0 +1,18 @@
+{
+  "_id": "audius@solana",
+  "asset": "audius",
+  "platform": "solana",
+  "type": "token",
+  "name": "Audius",
+  "symbol": "AUDIO",
+  "address": "9LzCMqDgTKYz9Drzqnpgee3SGa89up3a247ypMj2xrqM",
+  "decimals": 8,
+  "logo": "audius.png",
+  "coingecko": {
+    "id": "audius"
+  },
+  "coinmarketcap": {
+    "id": 7455,
+    "slug": "audius"
+  }
+}

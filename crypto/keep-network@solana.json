@@ -1,0 +1,18 @@
+{
+  "_id": "keep-network@solana",
+  "asset": "keep-network",
+  "platform": "solana",
+  "type": "token",
+  "name": "Keep Network",
+  "symbol": "KEEP",
+  "address": "64L6o4G2H7Ln1vN7AHZsUMW4pbFciHyuwn4wUdSbcFxh",
+  "decimals": 8,
+  "logo": "keep-network.svg",
+  "coingecko": {
+    "id": "keep-network"
+  },
+  "coinmarketcap": {
+    "id": 5566,
+    "slug": "keep-network"
+  }
+}

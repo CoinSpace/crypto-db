@@ -1,0 +1,18 @@
+{
+  "_id": "ton-crystal@binance-smart-chain",
+  "asset": "ton-crystal",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Everscale",
+  "symbol": "EVER",
+  "address": "0x0a7e7d210c45c4abba183c1d0551b53ad1756eca",
+  "decimals": 9,
+  "logo": "ton-crystal.svg",
+  "coingecko": {
+    "id": "everscale"
+  },
+  "coinmarketcap": {
+    "id": 7505,
+    "slug": "everscale"
+  }
+}

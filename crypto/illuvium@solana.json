@@ -1,0 +1,18 @@
+{
+  "_id": "illuvium@solana",
+  "asset": "illuvium",
+  "platform": "solana",
+  "type": "token",
+  "name": "Illuvium",
+  "symbol": "ILV",
+  "address": "8UJbtpsEubDVkY53rk7d61hNYKkvouicczB2XmuwiG4g",
+  "decimals": 8,
+  "logo": "illuvium.jpg",
+  "coingecko": {
+    "id": "illuvium"
+  },
+  "coinmarketcap": {
+    "id": 8719,
+    "slug": "illuvium"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "smooth-love-potion@binance-smart-chain",
+  "asset": "smooth-love-potion",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Smooth Love Potion",
+  "symbol": "SLP",
+  "address": "0x070a08beef8d36734dd67a491202ff35a6a16d97",
+  "decimals": 18,
+  "logo": "smooth-love-potion.svg",
+  "coingecko": {
+    "id": "smooth-love-potion"
+  },
+  "coinmarketcap": {
+    "id": 5824,
+    "slug": "smooth-love-potion"
+  }
+}

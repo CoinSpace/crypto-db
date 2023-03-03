@@ -1,0 +1,18 @@
+{
+  "_id": "dogelon-mars@solana",
+  "asset": "dogelon-mars",
+  "platform": "solana",
+  "type": "token",
+  "name": "Dogelon Mars",
+  "symbol": "ELON",
+  "address": "6nKUU36URHkewHg5GGGAgxs6szkE4VTioGUT5txQqJFU",
+  "decimals": 8,
+  "logo": "dogelon-mars.jpg",
+  "coingecko": {
+    "id": "dogelon-mars"
+  },
+  "coinmarketcap": {
+    "id": 9436,
+    "slug": "dogelon"
+  }
+}

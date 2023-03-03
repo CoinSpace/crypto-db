@@ -1,0 +1,18 @@
+{
+  "_id": "0x@solana",
+  "asset": "0x",
+  "platform": "solana",
+  "type": "token",
+  "name": "0x",
+  "symbol": "ZRX",
+  "address": "GJa1VeEYLTRoHbaeqcxfzHmjGCGtZGF3CUqxv9znZZAY",
+  "decimals": 8,
+  "logo": "0x.svg",
+  "coingecko": {
+    "id": "0x"
+  },
+  "coinmarketcap": {
+    "id": 1896,
+    "slug": "0x"
+  }
+}

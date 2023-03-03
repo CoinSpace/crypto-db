@@ -1,0 +1,18 @@
+{
+  "_id": "ontology@polygon",
+  "asset": "ontology",
+  "platform": "polygon",
+  "type": "token",
+  "name": "Ontology",
+  "symbol": "ONT",
+  "address": "0xd4814770065f634003a8d8d70b4743e0c3f334ad",
+  "decimals": 9,
+  "logo": "ontology.svg",
+  "coingecko": {
+    "id": "ontology"
+  },
+  "coinmarketcap": {
+    "id": 2566,
+    "slug": "ontology"
+  }
+}

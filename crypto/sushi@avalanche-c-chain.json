@@ -1,0 +1,18 @@
+{
+  "_id": "sushi@avalanche-c-chain",
+  "asset": "sushi",
+  "platform": "avalanche-c-chain",
+  "type": "token",
+  "name": "SushiSwap",
+  "symbol": "SUSHI",
+  "address": "0x39cf1bd5f15fb22ec3d9ff86b0727afc203427cc",
+  "decimals": 18,
+  "logo": "sushi.svg",
+  "coingecko": {
+    "id": "sushi"
+  },
+  "coinmarketcap": {
+    "id": 6758,
+    "slug": "sushiswap"
+  }
+}

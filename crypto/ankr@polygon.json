@@ -1,0 +1,18 @@
+{
+  "_id": "ankr@polygon",
+  "asset": "ankr",
+  "platform": "polygon",
+  "type": "token",
+  "name": "Ankr",
+  "symbol": "ANKR",
+  "address": "0x101a023270368c0d50bffb62780f4afd4ea79c35",
+  "decimals": 18,
+  "logo": "ankr.svg",
+  "coingecko": {
+    "id": "ankr"
+  },
+  "coinmarketcap": {
+    "id": 3783,
+    "slug": "ankr"
+  }
+}
