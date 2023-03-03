@@ -8,6 +8,9 @@
   "address": "TEkxiTehnzSmSe2XqrBj4w32RUN966rdz8",
   "decimals": 6,
   "logo": "usd-coin.svg",
+  "changelly": {
+    "ticker": "usdctrx"
+  },
   "coingecko": {
     "id": "usd-coin"
   },

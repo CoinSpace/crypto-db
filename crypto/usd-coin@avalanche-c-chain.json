@@ -8,6 +8,9 @@
   "address": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
   "decimals": 6,
   "logo": "usd-coin.svg",
+  "changelly": {
+    "ticker": "usdcavac"
+  },
   "coingecko": {
     "id": "usd-coin"
   },
