@@ -9,6 +9,9 @@
   "decimals": 18,
   "logo": "binance-usd.svg",
   "supported": false,
+  "changelly": {
+    "ticker": "busdbnb"
+  },
   "coingecko": {
     "id": "binance-usd"
   },

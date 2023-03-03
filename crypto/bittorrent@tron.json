@@ -8,6 +8,9 @@
   "address": "TAFjULxiVgT4qWk6UZwjqwZXTSaGaqnVp4",
   "decimals": 18,
   "logo": "bittorrent.svg",
+  "changelly": {
+    "ticker": "btt"
+  },
   "coingecko": {
     "id": "bittorrent"
   },
