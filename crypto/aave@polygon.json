@@ -1,0 +1,18 @@
+{
+  "_id": "aave@polygon",
+  "asset": "aave",
+  "platform": "polygon",
+  "type": "token",
+  "name": "Aave",
+  "symbol": "AAVE",
+  "address": "0xd6df932a45c0f255f85145f286ea0b292b21c90b",
+  "decimals": 18,
+  "logo": "aave.svg",
+  "coingecko": {
+    "id": "aave"
+  },
+  "coinmarketcap": {
+    "id": 7278,
+    "slug": "aave"
+  }
+}

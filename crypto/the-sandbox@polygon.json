@@ -1,0 +1,22 @@
+{
+  "_id": "the-sandbox@polygon",
+  "asset": "the-sandbox",
+  "platform": "polygon",
+  "type": "token",
+  "name": "The Sandbox",
+  "symbol": "SAND",
+  "address": "0xbbba073c31bf03b8acf7c28ef0738decf3695683",
+  "decimals": 18,
+  "logo": "the-sandbox.svg",
+  "coingecko": {
+    "id": "the-sandbox"
+  },
+  "coinmarketcap": {
+    "id": 6210,
+    "slug": "the-sandbox"
+  },
+  "moonpay": {
+    "id": "7b14e8de-b142-4fb1-ad4e-9a9609932efd",
+    "code": "sand_polygon"
+  }
+}

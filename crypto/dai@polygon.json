@@ -1,0 +1,18 @@
+{
+  "_id": "dai@polygon",
+  "asset": "dai",
+  "platform": "polygon",
+  "type": "token",
+  "name": "Dai",
+  "symbol": "DAI",
+  "address": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+  "decimals": 18,
+  "logo": "dai.svg",
+  "coingecko": {
+    "id": "dai"
+  },
+  "coinmarketcap": {
+    "id": 4943,
+    "slug": "multi-collateral-dai"
+  }
+}

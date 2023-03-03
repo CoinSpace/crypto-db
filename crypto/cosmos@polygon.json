@@ -1,0 +1,18 @@
+{
+  "_id": "cosmos@polygon",
+  "asset": "cosmos",
+  "platform": "polygon",
+  "type": "token",
+  "name": "Cosmos",
+  "symbol": "ATOM",
+  "address": "0xac51c4c48dc3116487ed4bc16542e27b5694da1b",
+  "decimals": 6,
+  "logo": "cosmos.svg",
+  "coingecko": {
+    "id": "cosmos"
+  },
+  "coinmarketcap": {
+    "id": 3794,
+    "slug": "cosmos"
+  }
+}

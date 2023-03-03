@@ -1,0 +1,18 @@
+{
+  "_id": "chainlink@polygon",
+  "asset": "chainlink",
+  "platform": "polygon",
+  "type": "token",
+  "name": "Chainlink",
+  "symbol": "LINK",
+  "address": "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39",
+  "decimals": 18,
+  "logo": "chainlink.svg",
+  "coingecko": {
+    "id": "chainlink"
+  },
+  "coinmarketcap": {
+    "id": 1975,
+    "slug": "chainlink"
+  }
+}

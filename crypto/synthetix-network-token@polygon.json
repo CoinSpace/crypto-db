@@ -1,0 +1,18 @@
+{
+  "_id": "synthetix-network-token@polygon",
+  "asset": "synthetix-network-token",
+  "platform": "polygon",
+  "type": "token",
+  "name": "Synthetix",
+  "symbol": "SNX",
+  "address": "0x50b728d8d964fd00c2d0aad81718b71311fef68a",
+  "decimals": 18,
+  "logo": "synthetix-network-token.svg",
+  "coingecko": {
+    "id": "havven"
+  },
+  "coinmarketcap": {
+    "id": 2586,
+    "slug": "synthetix"
+  }
+}
