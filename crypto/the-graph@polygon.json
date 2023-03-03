@@ -1,0 +1,18 @@
+{
+  "_id": "the-graph@polygon",
+  "asset": "the-graph",
+  "platform": "polygon",
+  "type": "token",
+  "name": "The Graph",
+  "symbol": "GRT",
+  "address": "0x5fe2b58c013d7601147dcdd68c143a77499f5531",
+  "decimals": 18,
+  "logo": "the-graph.svg",
+  "coingecko": {
+    "id": "the-graph"
+  },
+  "coinmarketcap": {
+    "id": 6719,
+    "slug": "the-graph"
+  }
+}

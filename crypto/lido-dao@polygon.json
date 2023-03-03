@@ -1,0 +1,18 @@
+{
+  "_id": "lido-dao@polygon",
+  "asset": "lido-dao",
+  "platform": "polygon",
+  "type": "token",
+  "name": "Lido DAO",
+  "symbol": "LDO",
+  "address": "0xc3c7d422809852031b44ab29eec9f1eff2a58756",
+  "decimals": 8,
+  "logo": "lido-dao.png",
+  "coingecko": {
+    "id": "lido-dao"
+  },
+  "coinmarketcap": {
+    "id": 8000,
+    "slug": "lido-dao"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "crypto-com-coin@polygon",
+  "asset": "crypto-com-coin",
+  "platform": "polygon",
+  "type": "token",
+  "name": "Cronos",
+  "symbol": "CRO",
+  "address": "0xada58df0f643d959c2a47c9d4d4c1a4defe3f11c",
+  "decimals": 8,
+  "logo": "crypto-com-coin.svg",
+  "coingecko": {
+    "id": "crypto-com-chain"
+  },
+  "coinmarketcap": {
+    "id": 3635,
+    "slug": "cronos"
+  }
+}

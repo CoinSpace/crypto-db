@@ -1,0 +1,18 @@
+{
+  "_id": "wrapped-bitcoin@tron",
+  "asset": "wrapped-bitcoin",
+  "platform": "tron",
+  "type": "token",
+  "name": "Wrapped Bitcoin",
+  "symbol": "WBTC",
+  "address": "TXpw8XeWYeTUd4quDskoUqeQPowRh4jY65",
+  "decimals": 8,
+  "logo": "wrapped-bitcoin.svg",
+  "coingecko": {
+    "id": "wrapped-bitcoin"
+  },
+  "coinmarketcap": {
+    "id": 3717,
+    "slug": "wrapped-bitcoin"
+  }
+}

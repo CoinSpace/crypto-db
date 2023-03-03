@@ -1,0 +1,21 @@
+{
+  "_id": "leo-token@polygon",
+  "asset": "leo-token",
+  "platform": "polygon",
+  "type": "token",
+  "name": "UNUS SED LEO",
+  "symbol": "LEO",
+  "address": "0x06d02e9d62a13fc76bb229373fb3bbbd1101d2fc",
+  "decimals": 18,
+  "logo": "leo-token.svg",
+  "changelly": {
+    "ticker": "leo"
+  },
+  "coingecko": {
+    "id": "leo-token"
+  },
+  "coinmarketcap": {
+    "id": 3957,
+    "slug": "unus-sed-leo"
+  }
+}

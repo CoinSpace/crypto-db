@@ -1,0 +1,18 @@
+{
+  "_id": "apecoin@polygon",
+  "asset": "apecoin",
+  "platform": "polygon",
+  "type": "token",
+  "name": "ApeCoin",
+  "symbol": "APE",
+  "address": "0xb7b31a6bc18e48888545ce79e83e06003be70930",
+  "decimals": 18,
+  "logo": "apecoin.svg",
+  "coingecko": {
+    "id": "apecoin"
+  },
+  "coinmarketcap": {
+    "id": 18876,
+    "slug": "apecoin-ape"
+  }
+}

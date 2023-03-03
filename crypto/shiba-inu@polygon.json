@@ -1,0 +1,18 @@
+{
+  "_id": "shiba-inu@polygon",
+  "asset": "shiba-inu",
+  "platform": "polygon",
+  "type": "token",
+  "name": "Shiba Inu",
+  "symbol": "SHIB",
+  "address": "0x6f8a06447ff6fcf75d803135a7de15ce88c1d4ec",
+  "decimals": 18,
+  "logo": "shiba-inu.svg",
+  "coingecko": {
+    "id": "shiba-inu"
+  },
+  "coinmarketcap": {
+    "id": 5994,
+    "slug": "shiba-inu"
+  }
+}

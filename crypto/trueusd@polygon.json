@@ -1,0 +1,18 @@
+{
+  "_id": "trueusd@polygon",
+  "asset": "trueusd",
+  "platform": "polygon",
+  "type": "token",
+  "name": "TrueUSD",
+  "symbol": "TUSD",
+  "address": "0x2e1ad108ff1d8c782fcbbb89aad783ac49586756",
+  "decimals": 18,
+  "logo": "trueusd.svg",
+  "coingecko": {
+    "id": "true-usd"
+  },
+  "coinmarketcap": {
+    "id": 2563,
+    "slug": "trueusd"
+  }
+}
