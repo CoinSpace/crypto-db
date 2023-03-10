@@ -1,0 +1,18 @@
+{
+  "_id": "tribe@solana",
+  "asset": "tribe",
+  "platform": "solana",
+  "type": "token",
+  "name": "Tribe",
+  "symbol": "TRIBE",
+  "address": "DPgNKZJAG2w1S6vfYHDBT62R4qrWWH5f45CnxtbQduZE",
+  "decimals": 8,
+  "logo": "tribe.svg",
+  "coingecko": {
+    "id": "tribe-2"
+  },
+  "coinmarketcap": {
+    "id": 9025,
+    "slug": "tribe"
+  }
+}
