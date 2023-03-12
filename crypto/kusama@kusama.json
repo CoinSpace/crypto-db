@@ -8,9 +8,6 @@
   "decimals": 12,
   "logo": "kusama.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "ksm"
-  },
   "coingecko": {
     "id": "kusama"
   },
