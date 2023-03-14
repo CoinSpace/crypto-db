@@ -1,0 +1,18 @@
+{
+  "_id": "loom-network@binance-smart-chain",
+  "asset": "loom-network",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Loom Network",
+  "symbol": "LOOM",
+  "address": "0xe6ce27025f13f5213bbc560dc275e292965a392f",
+  "decimals": 18,
+  "logo": "loom-network.svg",
+  "coingecko": {
+    "id": "loom-network-new"
+  },
+  "coinmarketcap": {
+    "id": 2588,
+    "slug": "loom-network"
+  }
+}
