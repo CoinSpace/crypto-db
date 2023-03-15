@@ -8,9 +8,6 @@
   "address": "0xd4fa1460f537bb9085d22c7bccb5dd450ef28e3a",
   "decimals": 8,
   "logo": "populous.svg",
-  "changelly": {
-    "ticker": "ppt"
-  },
   "coingecko": {
     "id": "populous",
     "platform": "ethereum"
