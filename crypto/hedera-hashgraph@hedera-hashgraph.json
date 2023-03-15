@@ -8,9 +8,6 @@
   "decimals": 8,
   "logo": "hedera-hashgraph.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "hbar"
-  },
   "coingecko": {
     "id": "hedera-hashgraph"
   },
