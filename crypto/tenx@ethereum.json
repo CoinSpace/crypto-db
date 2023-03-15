@@ -8,9 +8,6 @@
   "address": "0xb97048628db6b661d4c2aa833e95dbe1a905b280",
   "decimals": 18,
   "logo": "tenx.svg",
-  "changelly": {
-    "ticker": "pay"
-  },
   "coingecko": {
     "id": "tenx",
     "platform": "ethereum"
