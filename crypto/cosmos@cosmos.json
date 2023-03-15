@@ -8,9 +8,6 @@
   "decimals": 8,
   "logo": "cosmos.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "atom"
-  },
   "coingecko": {
     "id": "cosmos"
   },
