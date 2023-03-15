@@ -13,9 +13,6 @@
       "ALGO-EUR"
     ]
   },
-  "changelly": {
-    "ticker": "algo"
-  },
   "coingecko": {
     "id": "algorand"
   },
