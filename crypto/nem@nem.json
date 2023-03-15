@@ -8,9 +8,6 @@
   "decimals": 6,
   "logo": "nem.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "xem"
-  },
   "coingecko": {
     "id": "nem"
   },
