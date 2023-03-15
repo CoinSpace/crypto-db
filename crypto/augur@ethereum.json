@@ -8,9 +8,6 @@
   "address": "0x1985365e9f78359a9b6ad760e32412f4a445e862",
   "decimals": 18,
   "logo": "augur.svg",
-  "changelly": {
-    "ticker": "rep"
-  },
   "coingecko": {
     "id": "augur",
     "platform": "ethereum"
