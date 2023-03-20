@@ -1,0 +1,18 @@
+{
+  "_id": "playdapp@polygon",
+  "asset": "playdapp",
+  "platform": "polygon",
+  "type": "token",
+  "name": "PlayDapp",
+  "symbol": "PLA",
+  "address": "0x8765f05adce126d70bcdf1b0a48db573316662eb",
+  "decimals": 18,
+  "logo": "playdapp.png",
+  "coingecko": {
+    "id": "playdapp"
+  },
+  "coinmarketcap": {
+    "id": 7461,
+    "slug": "playdapp"
+  }
+}
