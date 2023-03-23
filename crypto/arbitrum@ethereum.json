@@ -1,0 +1,18 @@
+{
+  "_id": "arbitrum@ethereum",
+  "asset": "arbitrum",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Arbitrum",
+  "symbol": "ARB",
+  "address": "0xb50721bcf8d664c30412cfbc6cf7a15145234ad1",
+  "decimals": 18,
+  "logo": "arbitrum.svg",
+  "coingecko": {
+    "id": "arbitrum"
+  },
+  "coinmarketcap": {
+    "id": 11841,
+    "slug": "arbitrum"
+  }
+}

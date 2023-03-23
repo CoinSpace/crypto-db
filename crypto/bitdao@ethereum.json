@@ -1,0 +1,18 @@
+{
+  "_id": "bitdao@ethereum",
+  "asset": "bitdao",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "BitDAO",
+  "symbol": "BIT",
+  "address": "0x1a4b46696b2bb4794eb3d4c26f1c55f9170fa4c5",
+  "decimals": 18,
+  "logo": "bitdao.svg",
+  "coingecko": {
+    "id": "bitdao"
+  },
+  "coinmarketcap": {
+    "id": 11221,
+    "slug": "bitdao"
+  }
+}
