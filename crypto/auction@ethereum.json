@@ -3,7 +3,7 @@
   "asset": "auction",
   "platform": "ethereum",
   "type": "token",
-  "name": "Bounce Governance Token",
+  "name": "Bounce Token",
   "symbol": "AUCTION",
   "address": "0xa9b1eb5908cfc3cdf91f9b8b3a74108598009096",
   "decimals": 18,
