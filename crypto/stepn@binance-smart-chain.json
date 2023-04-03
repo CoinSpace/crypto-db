@@ -8,6 +8,9 @@
   "address": "0x3019bf2a2ef8040c242c9a4c5c4bd4c81678b2a1",
   "decimals": 8,
   "logo": "stepn.png",
+  "changelly": {
+    "ticker": "gmtbsc"
+  },
   "coingecko": {
     "id": "stepn"
   },
