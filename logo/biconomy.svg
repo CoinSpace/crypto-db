@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
-  <linearGradient id="a" x1="0" x2="200" y1="199.89" y2="-.11" gradientTransform="matrix(1 0 0 -1 0 199.89)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="biconomy_svg__a" x1="0" x2="200" y1="199.89" y2="-.11" gradientTransform="matrix(1 0 0 -1 0 199.89)" gradientUnits="userSpaceOnUse">
     <stop offset="0" stop-color="#8d3308"/>
     <stop offset="1" stop-color="#8d3308"/>
   </linearGradient>
-  <path fill="url(#a)" d="M0 0h200v200H0z"/>
+  <path fill="url(#biconomy_svg__a)" d="M0 0h200v200H0z"/>
   <path d="M10 10h180v180H10z"/>
   <path fill="#d85111" d="M113 49.4c-3.7-2.1-8-3.4-12.5-3.4h-25C82.4 46 88 51.6 88 58.5V96h12.5c4.6 0 8.8-1.2 12.5-3.4 2.8-1.6 5.2-3.7 7.1-6.2 3.4-4.3 5.4-9.6 5.4-15.5 0-9.1-5-17.2-12.5-21.5z"/>
   <path fill="#fff" d="M120.1 86.5c-2 2.5-4.4 4.6-7.1 6.2-3.7 2.1-8 3.4-12.5 3.4H88V58.5C88 51.6 82.4 46 75.5 46S63 51.6 63 58.5V146h43.7c2.2 0 4.2-.2 6.2-.6 14.3-2.9 25-15.5 25-30.6.1-12.5-7.2-23.3-17.8-28.3z"/>

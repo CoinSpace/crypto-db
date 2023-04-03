@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
   <defs>
-    <mask id="a" width="93.1" height="20" x="10" y="6" maskUnits="userSpaceOnUse">
+    <mask id="fantom_svg__a" width="93.1" height="20" x="10" y="6" maskUnits="userSpaceOnUse">
       <path fill="#fff" fill-rule="evenodd" d="M10 6h93.1v20H10Z"/>
     </mask>
   </defs>
   <circle cx="16" cy="16" r="16" fill="#13b5ec"/>
-  <g mask="url(#a)">
+  <g mask="url(#fantom_svg__a)">
     <path fill="#fff" fill-rule="evenodd" d="m17.2 12.9 3.6-2.1V15Zm3.6 9L16 24.7l-4.8-2.8V17l4.8 2.8 4.8-2.8Zm-9.6-11.1 3.6 2.1-3.6 2.1Zm5.4 3.1 3.6 2.1-3.6 2.1Zm-1.2 4.2L11.8 16l3.6-2.1Zm4.8-8.3L16 12.2l-4.2-2.4L16 7.3ZM10 9.4v13.1l6 3.4 6-3.4V9.4L16 6Z"/>
   </g>
 </svg>
