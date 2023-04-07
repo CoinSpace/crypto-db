@@ -1,0 +1,18 @@
+{
+  "_id": "kyber-network-crystal@polygon",
+  "asset": "kyber-network-crystal",
+  "platform": "polygon",
+  "type": "token",
+  "name": "Kyber Network Crystal",
+  "symbol": "KNC",
+  "address": "0x1c954e8fe737f99f68fa1ccda3e51ebdb291948c",
+  "decimals": 18,
+  "logo": "kyber-network-crystal.svg",
+  "coingecko": {
+    "id": "kyber-network-crystal"
+  },
+  "coinmarketcap": {
+    "id": 9444,
+    "slug": "kyber-network-crystal-v2"
+  }
+}
