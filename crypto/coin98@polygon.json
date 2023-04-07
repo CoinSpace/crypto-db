@@ -1,0 +1,18 @@
+{
+  "_id": "coin98@polygon",
+  "asset": "coin98",
+  "platform": "polygon",
+  "type": "token",
+  "name": "Coin98",
+  "symbol": "C98",
+  "address": "0x77f56cf9365955486b12c4816992388ee8606f0e",
+  "decimals": 18,
+  "logo": "coin98.svg",
+  "coingecko": {
+    "id": "coin98"
+  },
+  "coinmarketcap": {
+    "id": 10903,
+    "slug": "coin98"
+  }
+}

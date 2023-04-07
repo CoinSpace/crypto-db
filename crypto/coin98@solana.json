@@ -1,0 +1,18 @@
+{
+  "_id": "coin98@solana",
+  "asset": "coin98",
+  "platform": "solana",
+  "type": "token",
+  "name": "Coin98",
+  "symbol": "C98",
+  "address": "C98A4nkJXhpVZNAZdHUA95RpTF3T4whtQubL3YobiUX9",
+  "decimals": 6,
+  "logo": "coin98.svg",
+  "coingecko": {
+    "id": "coin98"
+  },
+  "coinmarketcap": {
+    "id": 10903,
+    "slug": "coin98"
+  }
+}
