@@ -1,0 +1,18 @@
+{
+  "_id": "binance-usd@tron",
+  "asset": "binance-usd",
+  "platform": "tron",
+  "type": "token",
+  "name": "Binance USD",
+  "symbol": "BUSD",
+  "address": "TMz2SWatiAtZVVcH2ebpsbVtYwUPT9EdjH",
+  "decimals": 18,
+  "logo": "binance-usd.svg",
+  "coingecko": {
+    "id": "binance-usd"
+  },
+  "coinmarketcap": {
+    "id": 4687,
+    "slug": "binance-usd"
+  }
+}
