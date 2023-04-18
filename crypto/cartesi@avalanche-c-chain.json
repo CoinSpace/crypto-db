@@ -1,0 +1,18 @@
+{
+  "_id": "cartesi@avalanche-c-chain",
+  "asset": "cartesi",
+  "platform": "avalanche-c-chain",
+  "type": "token",
+  "name": "Cartesi",
+  "symbol": "CTSI",
+  "address": "0x6b289cceaa8639e3831095d75a3e43520fabf552",
+  "decimals": 18,
+  "logo": "cartesi.svg",
+  "coingecko": {
+    "id": "cartesi"
+  },
+  "coinmarketcap": {
+    "id": 5444,
+    "slug": "cartesi"
+  }
+}
