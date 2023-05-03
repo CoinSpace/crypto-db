@@ -7,7 +7,7 @@
   "symbol": "OSMO",
   "address": "0x8c7a56f2f2fd97da0f5b4fade180fa8dc3fbea8d",
   "decimals": 6,
-  "logo": "osmosis.png",
+  "logo": "osmosis.svg",
   "coingecko": {
     "id": "osmosis"
   },
