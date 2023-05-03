@@ -7,7 +7,7 @@
   "symbol": "PLA",
   "address": "0x8765f05adce126d70bcdf1b0a48db573316662eb",
   "decimals": 18,
-  "logo": "playdapp.png",
+  "logo": "playdapp.svg",
   "coingecko": {
     "id": "playdapp"
   },
