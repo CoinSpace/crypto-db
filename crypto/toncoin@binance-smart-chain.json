@@ -7,7 +7,7 @@
   "symbol": "TON",
   "address": "0x76a797a59ba2c17726896976b7b3747bfd1d220f",
   "decimals": 9,
-  "logo": "toncoin.png",
+  "logo": "toncoin.svg",
   "coingecko": {
     "id": "tontoken"
   },
