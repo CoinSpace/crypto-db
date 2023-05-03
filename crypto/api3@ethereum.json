@@ -7,7 +7,7 @@
   "symbol": "API3",
   "address": "0x0b38210ea11411557c13457d4da7dc6ea731b88a",
   "decimals": 18,
-  "logo": "api3.jpg",
+  "logo": "api3.svg",
   "changelly": {
     "ticker": "api3"
   },
