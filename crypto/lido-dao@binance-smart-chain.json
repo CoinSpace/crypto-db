@@ -7,7 +7,7 @@
   "symbol": "LDO",
   "address": "0x986854779804799c1d68867f5e03e601e781e41b",
   "decimals": 18,
-  "logo": "lido-dao.png",
+  "logo": "lido-dao.svg",
   "coingecko": {
     "id": "lido-dao"
   },
