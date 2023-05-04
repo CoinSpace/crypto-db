@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 5824,
     "slug": "smooth-love-potion"
+  },
+  "moonpay": {
+    "id": "ed35ab11-5b56-40fc-9b7d-ef9b74565e1e",
+    "code": "slp"
   }
 }
