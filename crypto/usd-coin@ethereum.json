@@ -33,6 +33,6 @@
     "code": "usdc"
   },
   "onramper": {
-    "id": "USDC"
+    "id": "USDC_ETHEREUM"
   }
 }

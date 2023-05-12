@@ -24,6 +24,6 @@
     "network": "ETH"
   },
   "onramper": {
-    "id": "BUSD"
+    "id": "BUSD_ETHEREUM"
   }
 }

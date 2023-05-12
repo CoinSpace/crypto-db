@@ -28,6 +28,6 @@
     "code": "dai"
   },
   "onramper": {
-    "id": "DAI_ERC20"
+    "id": "DAI_ETHEREUM"
   }
 }

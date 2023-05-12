@@ -24,6 +24,6 @@
     "network": "ETH"
   },
   "onramper": {
-    "id": "SUSHI_ERC20"
+    "id": "SUSHI_ETHEREUM"
   }
 }

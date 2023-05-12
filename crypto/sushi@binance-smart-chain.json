@@ -21,6 +21,6 @@
     "network": "BSC"
   },
   "onramper": {
-    "id": "SUSHI_BEP20"
+    "id": "SUSHI_BSC"
   }
 }
