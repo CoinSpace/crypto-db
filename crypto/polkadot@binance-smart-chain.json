@@ -19,5 +19,8 @@
   "guardarian": {
     "ticker": "DOT",
     "network": "BSC"
+  },
+  "onramper": {
+    "id": "DOT_BSC"
   }
 }

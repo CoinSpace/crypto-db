@@ -18,5 +18,8 @@
   "guardarian": {
     "ticker": "AVAX",
     "network": "BSC"
+  },
+  "onramper": {
+    "id": "AVAX_BSC"
   }
 }

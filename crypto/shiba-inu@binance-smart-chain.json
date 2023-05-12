@@ -19,5 +19,8 @@
   "guardarian": {
     "ticker": "SHIB",
     "network": "BSC"
+  },
+  "onramper": {
+    "id": "SHIB_BSC"
   }
 }

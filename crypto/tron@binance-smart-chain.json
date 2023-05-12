@@ -18,5 +18,8 @@
   "guardarian": {
     "ticker": "TRX",
     "network": "BSC"
+  },
+  "onramper": {
+    "id": "TRX_BSC"
   }
 }

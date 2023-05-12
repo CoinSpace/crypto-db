@@ -18,5 +18,8 @@
   "guardarian": {
     "ticker": "ETC",
     "network": "BSC"
+  },
+  "onramper": {
+    "id": "ETC_BSC"
   }
 }

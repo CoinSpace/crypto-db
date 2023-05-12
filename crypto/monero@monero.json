@@ -21,5 +21,8 @@
   "guardarian": {
     "ticker": "XMR",
     "network": "XMR"
+  },
+  "onramper": {
+    "id": "XMR_MONERO"
   }
 }

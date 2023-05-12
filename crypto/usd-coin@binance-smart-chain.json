@@ -22,5 +22,8 @@
   "guardarian": {
     "ticker": "USDC",
     "network": "BSC"
+  },
+  "onramper": {
+    "id": "USDC_BSC"
   }
 }

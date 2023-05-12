@@ -19,5 +19,8 @@
   "guardarian": {
     "ticker": "MATIC",
     "network": "BSC"
+  },
+  "onramper": {
+    "id": "MATIC_BSC"
   }
 }

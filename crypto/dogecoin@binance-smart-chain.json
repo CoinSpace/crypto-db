@@ -19,5 +19,8 @@
   "guardarian": {
     "ticker": "DOGE",
     "network": "BSC"
+  },
+  "onramper": {
+    "id": "DOGE_BSC"
   }
 }

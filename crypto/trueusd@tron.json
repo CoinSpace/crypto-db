@@ -18,5 +18,8 @@
   "guardarian": {
     "ticker": "TUSD",
     "network": "TRX"
+  },
+  "onramper": {
+    "id": "TUSD_TRON"
   }
 }

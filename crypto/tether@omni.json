@@ -18,5 +18,8 @@
   "coinmarketcap": {
     "id": 825,
     "slug": "tether"
+  },
+  "onramper": {
+    "id": "USDT_OMNI"
   }
 }

@@ -15,5 +15,8 @@
   "coinmarketcap": {
     "id": 1975,
     "slug": "chainlink"
+  },
+  "onramper": {
+    "id": "LINK_BSC"
   }
 }

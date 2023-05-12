@@ -19,5 +19,8 @@
   "guardarian": {
     "ticker": "ADA",
     "network": "BSC"
+  },
+  "onramper": {
+    "id": "ADA_BSC"
   }
 }
