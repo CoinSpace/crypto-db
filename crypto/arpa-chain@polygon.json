@@ -1,0 +1,18 @@
+{
+  "_id": "arpa-chain@polygon",
+  "asset": "arpa-chain",
+  "platform": "polygon",
+  "type": "token",
+  "name": "ARPA",
+  "symbol": "ARPA",
+  "address": "0xee800b277a96b0f490a1a732e1d6395fad960a26",
+  "decimals": 18,
+  "logo": "arpa-chain.svg",
+  "coingecko": {
+    "id": "arpa"
+  },
+  "coinmarketcap": {
+    "id": 4039,
+    "slug": "arpa-chain"
+  }
+}
