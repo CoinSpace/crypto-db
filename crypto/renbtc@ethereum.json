@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "renbtc@ethereum",
   "asset": "renbtc",
   "platform": "ethereum",
@@ -7,7 +8,6 @@
   "symbol": "RENBTC",
   "address": "0xeb4c2781e4eba804ce9a9803c67d0893436bb27d",
   "decimals": 8,
-  "logo": "renbtc.jpg",
   "coingecko": {
     "id": "renbtc",
     "platform": "ethereum"
