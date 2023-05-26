@@ -1,0 +1,18 @@
+{
+  "_id": "arpa-chain@binance-smart-chain",
+  "asset": "arpa-chain",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "ARPA",
+  "symbol": "ARPA",
+  "address": "0x6f769e65c14ebd1f68817f5f1dcdb61cfa2d6f7e",
+  "decimals": 18,
+  "logo": "arpa-chain.svg",
+  "coingecko": {
+    "id": "arpa"
+  },
+  "coinmarketcap": {
+    "id": 4039,
+    "slug": "arpa-chain"
+  }
+}
