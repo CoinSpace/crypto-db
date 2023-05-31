@@ -1,0 +1,21 @@
+{
+  "_id": "pepe@ethereum",
+  "asset": "pepe",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Pepe",
+  "symbol": "PEPE",
+  "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+  "decimals": 18,
+  "logo": "pepe.svg",
+  "changelly": {
+    "ticker": "pepe"
+  },
+  "coingecko": {
+    "id": "pepe"
+  },
+  "coinmarketcap": {
+    "id": 24478,
+    "slug": "pepe"
+  }
+}
