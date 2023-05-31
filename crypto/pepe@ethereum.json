@@ -17,5 +17,9 @@
   "coinmarketcap": {
     "id": 24478,
     "slug": "pepe"
+  },
+  "moonpay": {
+    "id": "0a4de0be-50a4-4dc8-a059-4f8953175a80",
+    "code": "pepe"
   }
 }
