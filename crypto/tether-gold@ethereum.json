@@ -8,6 +8,9 @@
   "address": "0x68749665ff8d2d112fa859aa293f07a622782f38",
   "decimals": 6,
   "logo": "tether-gold.svg",
+  "changelly": {
+    "ticker": "xaut"
+  },
   "coingecko": {
     "id": "tether-gold",
     "platform": "ethereum"
