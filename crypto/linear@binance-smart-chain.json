@@ -1,0 +1,18 @@
+{
+  "_id": "linear@binance-smart-chain",
+  "asset": "linear",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Linear Finance",
+  "symbol": "LINA",
+  "address": "0x762539b45a1dcce3d36d080f74d1aed37844b878",
+  "decimals": 18,
+  "logo": "linear.jpg",
+  "coingecko": {
+    "id": "linear"
+  },
+  "coinmarketcap": {
+    "id": 7102,
+    "slug": "linear"
+  }
+}
