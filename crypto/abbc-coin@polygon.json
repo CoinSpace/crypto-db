@@ -1,0 +1,18 @@
+{
+  "_id": "abbc-coin@polygon",
+  "asset": "abbc-coin",
+  "platform": "polygon",
+  "type": "token",
+  "name": "ABBC Coin",
+  "symbol": "ABBC",
+  "address": "0xe83ce6bfb580583bd6a62b4be7b34fc25f02910d",
+  "decimals": 8,
+  "logo": "abbc-coin.svg",
+  "coingecko": {
+    "id": "alibabacoin"
+  },
+  "coinmarketcap": {
+    "id": 3437,
+    "slug": "abbc-coin"
+  }
+}
