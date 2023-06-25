@@ -1,0 +1,18 @@
+{
+  "_id": "alpha-finance@avalanche-c-chain",
+  "asset": "alpha-finance",
+  "platform": "avalanche-c-chain",
+  "type": "token",
+  "name": "Stella",
+  "symbol": "ALPHA",
+  "address": "0x2147efff675e4a4ee1c2f918d181cdbd7a8e208f",
+  "decimals": 18,
+  "logo": "alpha-finance.svg",
+  "coingecko": {
+    "id": "alpha-finance"
+  },
+  "coinmarketcap": {
+    "id": 7232,
+    "slug": "alpha-finance-lab"
+  }
+}
