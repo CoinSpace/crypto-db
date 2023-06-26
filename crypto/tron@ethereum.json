@@ -1,0 +1,18 @@
+{
+  "_id": "tron@ethereum",
+  "asset": "tron",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "TRON",
+  "symbol": "TRX",
+  "address": "0x50327c6c5a14dcade707abad2e27eb517df87ab5",
+  "decimals": 6,
+  "logo": "tron.svg",
+  "coingecko": {
+    "id": "tron"
+  },
+  "coinmarketcap": {
+    "id": 1958,
+    "slug": "tron"
+  }
+}
