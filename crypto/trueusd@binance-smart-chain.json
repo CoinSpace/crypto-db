@@ -5,7 +5,7 @@
   "type": "token",
   "name": "TrueUSD",
   "symbol": "TUSD",
-  "address": "0x14016e85a25aeb13065688cafb43044c2ef86784",
+  "address": "0x40af3827f39d0eacbf4a168f8d4ee67c121d11c9",
   "decimals": 18,
   "logo": "trueusd.svg",
   "coingecko": {
