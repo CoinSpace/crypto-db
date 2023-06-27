@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "vertcoin@vertcoin",
   "asset": "vertcoin",
   "platform": "vertcoin",
@@ -6,7 +7,6 @@
   "name": "Vertcoin",
   "symbol": "VTC",
   "decimals": 8,
-  "logo": "vertcoin.svg",
   "supported": false,
   "changelly": {
     "ticker": "vtc"
