@@ -3,9 +3,9 @@
   "asset": "cocos-bcx",
   "platform": "ethereum",
   "type": "token",
-  "name": "Cocos-BCX",
-  "symbol": "COCOS",
-  "address": "0xc4c7ea4fab34bd9fb9a5e1b1a98df76e26e6407c",
+  "name": "COMBO",
+  "symbol": "COMBO",
+  "address": "0xc03fbf20a586fa89c2a5f6f941458e1fbc40c661",
   "decimals": 18,
   "logo": "cocos-bcx.jpg",
   "changelly": {
@@ -17,6 +17,6 @@
   },
   "coinmarketcap": {
     "id": 4275,
-    "slug": "cocos-bcx"
+    "slug": "combo-network"
   }
 }
