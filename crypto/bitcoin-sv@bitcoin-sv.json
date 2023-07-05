@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "bitcoin-sv@bitcoin-sv",
   "asset": "bitcoin-sv",
   "platform": "bitcoin-sv",
