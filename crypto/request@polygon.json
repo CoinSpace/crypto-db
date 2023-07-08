@@ -1,0 +1,18 @@
+{
+  "_id": "request@polygon",
+  "asset": "request",
+  "platform": "polygon",
+  "type": "token",
+  "name": "Request",
+  "symbol": "REQ",
+  "address": "0xb25e20de2f2ebb4cffd4d16a55c7b395e8a94762",
+  "decimals": 18,
+  "logo": "request.svg",
+  "coingecko": {
+    "id": "request-network"
+  },
+  "coinmarketcap": {
+    "id": 2071,
+    "slug": "request"
+  }
+}
