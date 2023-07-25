@@ -3,7 +3,7 @@
   "asset": "render-token",
   "platform": "polygon",
   "type": "token",
-  "name": "Render Token",
+  "name": "Render",
   "symbol": "RNDR",
   "address": "0x61299774020da444af134c82fa83e3810b309991",
   "decimals": 18,
@@ -13,6 +13,6 @@
   },
   "coinmarketcap": {
     "id": 5690,
-    "slug": "render-token"
+    "slug": "render"
   }
 }
