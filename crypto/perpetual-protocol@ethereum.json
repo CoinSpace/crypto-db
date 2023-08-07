@@ -7,7 +7,7 @@
   "symbol": "PERP",
   "address": "0xbc396689893d065f41bc2c6ecbee5e0085233447",
   "decimals": 18,
-  "logo": "perpetual-protocol.png",
+  "logo": "perpetual-protocol.svg",
   "changelly": {
     "ticker": "perp"
   },
