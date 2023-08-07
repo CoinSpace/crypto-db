@@ -1,0 +1,18 @@
+{
+  "_id": "yield-guild-games@solana",
+  "asset": "yield-guild-games",
+  "platform": "solana",
+  "type": "token",
+  "name": "Yield Guild Games",
+  "symbol": "YGG",
+  "address": "EzZp7LRN1xwu3QsB2RJRrWwEGjJGsuWzuMCeQDB3NSPK",
+  "decimals": 8,
+  "logo": "yield-guild-games.jpg",
+  "coingecko": {
+    "id": "yield-guild-games"
+  },
+  "coinmarketcap": {
+    "id": 10688,
+    "slug": "yield-guild-games"
+  }
+}
