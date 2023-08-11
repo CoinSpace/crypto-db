@@ -9,6 +9,7 @@
   "decimals": 8,
   "logo": "bitcoin-sv.svg",
   "scheme": "bitcoinsv",
+  "supported": false,
   "changelly": {
     "ticker": "bsv"
   },

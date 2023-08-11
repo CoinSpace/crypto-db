@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "ripio-credit-network@ethereum",
   "asset": "ripio-credit-network",
   "platform": "ethereum",

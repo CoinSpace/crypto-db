@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "barnbridge@ethereum",
   "asset": "barnbridge",
   "platform": "ethereum",

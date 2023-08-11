@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "velas@ethereum",
   "asset": "velas",
   "platform": "ethereum",

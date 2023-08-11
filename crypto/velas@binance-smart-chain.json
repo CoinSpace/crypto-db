@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "velas@binance-smart-chain",
   "asset": "velas",
   "platform": "binance-smart-chain",

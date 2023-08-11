@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "nucypher@ethereum",
   "asset": "nucypher",
   "platform": "ethereum",
