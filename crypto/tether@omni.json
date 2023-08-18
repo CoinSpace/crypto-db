@@ -3,7 +3,7 @@
   "asset": "tether",
   "platform": "omni",
   "type": "token",
-  "name": "Tether",
+  "name": "Tether USDt",
   "symbol": "USDT",
   "decimals": 8,
   "logo": "tether.svg",
