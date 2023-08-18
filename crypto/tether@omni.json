@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "tether@omni",
   "asset": "tether",
   "platform": "omni",
