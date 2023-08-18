@@ -8,6 +8,9 @@
   "decimals": 3,
   "logo": "hive.svg",
   "supported": false,
+  "changelly": {
+    "ticker": "hive"
+  },
   "coingecko": {
     "id": "hive"
   },
