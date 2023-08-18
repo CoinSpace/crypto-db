@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "riodefi@ethereum",
   "asset": "riodefi",
   "platform": "ethereum",
@@ -7,7 +8,6 @@
   "symbol": "RFUEL",
   "address": "0xaf9f549774ecedbd0966c52f250acc548d3f36e5",
   "decimals": 18,
-  "logo": "riodefi.png",
   "coingecko": {
     "id": "rio-defi",
     "platform": "ethereum"
