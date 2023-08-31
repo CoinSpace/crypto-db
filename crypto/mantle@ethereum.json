@@ -8,6 +8,9 @@
   "address": "0x3c3a81e81dc49a522a592e7622a7e711c06bf354",
   "decimals": 18,
   "logo": "mantle.svg",
+  "changelly": {
+    "ticker": "mnt"
+  },
   "coingecko": {
     "id": "mantle"
   },
