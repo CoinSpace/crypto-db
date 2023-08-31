@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "lto-network@ethereum",
   "asset": "lto-network",
   "platform": "ethereum",

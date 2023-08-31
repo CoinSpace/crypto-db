@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "lto-network@binance-smart-chain",
   "asset": "lto-network",
   "platform": "binance-smart-chain",
