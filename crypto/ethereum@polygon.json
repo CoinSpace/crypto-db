@@ -1,0 +1,22 @@
+{
+  "_id": "ethereum@polygon",
+  "asset": "ethereum",
+  "platform": "polygon",
+  "type": "token",
+  "name": "Ethereum",
+  "symbol": "ETH",
+  "address": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+  "decimals": 18,
+  "logo": "ethereum.svg",
+  "coingecko": {
+    "id": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 1027,
+    "slug": "ethereum"
+  },
+  "moonpay": {
+    "id": "e149d940-85e2-4909-8d44-31a1c91b7a6f",
+    "code": "eth_polygon"
+  }
+}

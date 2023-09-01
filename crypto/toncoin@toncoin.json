@@ -1,18 +1,24 @@
 {
-  "_id": "toncoin@binance-smart-chain",
+  "_id": "toncoin@toncoin",
   "asset": "toncoin",
-  "platform": "binance-smart-chain",
-  "type": "token",
+  "platform": "toncoin",
+  "type": "coin",
   "name": "Toncoin",
   "symbol": "TON",
-  "address": "0x76a797a59ba2c17726896976b7b3747bfd1d220f",
   "decimals": 9,
   "logo": "toncoin.svg",
+  "changelly": {
+    "ticker": "ton"
+  },
   "coingecko": {
     "id": "the-open-network"
   },
   "coinmarketcap": {
     "id": 11419,
     "slug": "toncoin"
+  },
+  "moonpay": {
+    "id": "09ab99b8-15de-4f67-870f-6012cd5f69ef",
+    "code": "ton"
   }
 }
