@@ -1,4 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 54.2 54.2">
+  <style>
+    .biswap_svg__st2{fill:url(#biswap_svg__SVGID_00000176742620248492217850000008941572123143446409_)}
+  </style>
   <path fill="#fff" d="M27.1 54.2c15 0 27.1-12.1 27.1-27.1C54.2 12.1 42 0 27.1 0 12.1 0 0 12.1 0 27.1 0 42 12.1 54.2 27.1 54.2z"/>
   <linearGradient id="biswap_svg__a" x1="36.781" x2="30.393" y1="39.801" y2="4.609" gradientTransform="matrix(1 0 0 -1 0 55.89)" gradientUnits="userSpaceOnUse">
     <stop offset="0" stop-color="#ff496a"/>
