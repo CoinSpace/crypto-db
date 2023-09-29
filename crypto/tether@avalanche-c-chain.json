@@ -3,7 +3,7 @@
   "asset": "tether",
   "platform": "avalanche-c-chain",
   "type": "token",
-  "name": "Tether",
+  "name": "Tether USDt",
   "symbol": "USDT",
   "address": "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7",
   "decimals": 6,
