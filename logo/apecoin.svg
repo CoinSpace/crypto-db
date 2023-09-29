@@ -1,4 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 185.6 185.6">
+  <style>
+    .apecoin_svg__st2{clip-path:url(#apecoin_svg__SVGID_00000044141760761020611380000014920724805358450861_)}.apecoin_svg__st4{opacity:.8;fill:none;stroke:url(#apecoin_svg__SVGID_00000137132198576349032230000016209738196934323592_);stroke-miterlimit:10;enable-background:new}.apecoin_svg__st4,.apecoin_svg__st5{stroke-width:1.0554}.apecoin_svg__st5,.apecoin_svg__st6,.apecoin_svg__st7,.apecoin_svg__st8,.apecoin_svg__st9{opacity:.8;fill:none;stroke-miterlimit:10;enable-background:new}.apecoin_svg__st5{stroke:url(#apecoin_svg__SVGID_00000006687254865981556760000000530147127117927586_)}.apecoin_svg__st6{stroke:url(#apecoin_svg__SVGID_00000035517379965928027430000010010271205085670824_);stroke-width:.9894}.apecoin_svg__st7{stroke:url(#apecoin_svg__SVGID_00000080917806582070322240000003155992228992681353_);stroke-width:.9235}.apecoin_svg__st8,.apecoin_svg__st9{stroke:url(#apecoin_svg__SVGID_00000167363094587770395830000008658354487576327589_);stroke-width:.8575}.apecoin_svg__st9{stroke:url(#apecoin_svg__SVGID_00000005988563050017086460000007686233232170268041_)}
+  </style>
   <radialGradient id="apecoin_svg__a" cx="-109.707" cy="-1.113" r="1" gradientTransform="rotate(90 -5780.492 5757.271) scale(104.235)" gradientUnits="userSpaceOnUse">
     <stop offset=".167" stop-color="#073183"/>
     <stop offset="1" stop-color="#0054f9"/>
