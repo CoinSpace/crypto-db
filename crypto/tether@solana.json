@@ -3,7 +3,7 @@
   "asset": "tether",
   "platform": "solana",
   "type": "token",
-  "name": "Tether",
+  "name": "Tether USDt",
   "symbol": "USDT",
   "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
   "decimals": 6,
