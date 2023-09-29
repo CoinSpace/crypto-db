@@ -3,7 +3,7 @@
   "asset": "binance-usd",
   "platform": "tron",
   "type": "token",
-  "name": "Binance USD",
+  "name": "BUSD",
   "symbol": "BUSD",
   "address": "TMz2SWatiAtZVVcH2ebpsbVtYwUPT9EdjH",
   "decimals": 18,
