@@ -3,7 +3,7 @@
   "asset": "binance-usd",
   "platform": "binance-chain",
   "type": "token",
-  "name": "Binance USD",
+  "name": "BUSD",
   "symbol": "BUSD",
   "address": "BUSD-BD1",
   "decimals": 18,
