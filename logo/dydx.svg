@@ -1,7 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2500 2500">
-  <style>
-    .dydx_svg__st2{fill:url(#dydx_svg__SVGID_00000175315604839803723990000000878196240202454419_)}.dydx_svg__st3{fill:url(#dydx_svg__SVGID_00000166649871648300457750000016403012521363818629_)}
-  </style>
   <linearGradient id="dydx_svg__a" x1="502.106" x2="317.62" y1="2631.649" y2="1858.615" gradientTransform="matrix(3.2895 0 0 -3.2895 0 8223.685)" gradientUnits="userSpaceOnUse">
     <stop offset="0" stop-color="#2c2c3d"/>
     <stop offset="1" stop-color="#1a1a27"/>

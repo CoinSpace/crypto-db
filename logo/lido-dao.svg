@@ -1,8 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2500 2500">
-  <style>
-    .lido-dao_svg__st1{clip-path:url(#lido-dao_svg__SVGID_00000175323500588710242480000010409320418089475220_)}.lido-dao_svg__st3{fill:url(#lido-dao_svg__SVGID_00000044889847098847693360000003610436166394470064_)}.lido-dao_svg__st4{clip-path:url(#lido-dao_svg__SVGID_00000132060139772894435250000012028383138600074161_)}.lido-dao_svg__st5{fill-rule:evenodd;clip-rule:evenodd;fill:url(#lido-dao_svg__SVGID_00000102511534257884174120000005995613096072189056_)}.lido-dao_svg__st6{fill:url(#lido-dao_svg__SVGID_00000047035653201721046440000013437142730650075042_)}.lido-dao_svg__st7{fill:url(#lido-dao_svg__SVGID_00000044171817386892203900000009737351172183354244_)}.lido-dao_svg__st8{fill:url(#lido-dao_svg__SVGID_00000085962081573399893610000001228047778553261499_)}.lido-dao_svg__st9{fill:url(#lido-dao_svg__SVGID_00000058554585950608509210000006868345997990463903_)}
-  </style>
-  <path fill="none" d="M1250 0c690 0 1250 560 1250 1250s-560 1250-1250 1250S0 1940 0 1250 560 0 1250 0z"/>
   <defs>
     <path id="lido-dao_svg__a" d="M1250 0c690 0 1250 560 1250 1250s-560 1250-1250 1250S0 1940 0 1250 560 0 1250 0z"/>
   </defs>
@@ -30,7 +26,6 @@
     </radialGradient>
     <circle cx="1249" cy="1541" r="679" fill="url(#lido-dao_svg__f)" fill-rule="evenodd" clip-rule="evenodd"/>
   </g>
-  <path fill="none" d="m1249 1472-557-318-15 23c-171 263-133 607 92 828 265 260 695 260 960 0 225-221 263-565 92-828l-15-23-557 318z"/>
   <radialGradient id="lido-dao_svg__g" cx="1249" cy="-620" r="24" gradientTransform="translate(0 1656)" gradientUnits="userSpaceOnUse">
     <stop offset="0" stop-color="#06f" stop-opacity="0"/>
     <stop offset="1" stop-color="#00c2ff" stop-opacity=".4"/>

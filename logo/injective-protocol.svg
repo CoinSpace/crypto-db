@@ -1,7 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
-  <style>
-    .injective-protocol_svg__st1{fill:url(#injective-protocol_svg__SVGID_00000086676275963215266160000010661415873992010152_)}
-  </style>
   <linearGradient id="injective-protocol_svg__a" x1="0" x2="400" y1="182.253" y2="182.253" gradientTransform="matrix(1 0 0 -1 0 399.89)" gradientUnits="userSpaceOnUse">
     <stop offset="0" stop-color="#0082fa"/>
     <stop offset="1" stop-color="#00f2fe"/>
