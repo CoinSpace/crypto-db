@@ -1,0 +1,18 @@
+{
+  "_id": "safepal@ethereum",
+  "asset": "safepal",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "SafePal",
+  "symbol": "SFP",
+  "address": "0x12e2b8033420270db2f3b328e32370cb5b2ca134",
+  "decimals": 18,
+  "logo": "safepal.svg",
+  "coingecko": {
+    "id": "safepal"
+  },
+  "coinmarketcap": {
+    "id": 8119,
+    "slug": "safepal"
+  }
+}
