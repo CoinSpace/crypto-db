@@ -3,7 +3,7 @@
   "asset": "binance-usd",
   "platform": "solana",
   "type": "token",
-  "name": "Binance USD",
+  "name": "BUSD",
   "symbol": "BUSD",
   "address": "33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX",
   "decimals": 8,
