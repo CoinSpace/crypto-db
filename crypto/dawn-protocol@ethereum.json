@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "dawn-protocol@ethereum",
   "asset": "dawn-protocol",
   "platform": "ethereum",
@@ -7,7 +8,6 @@
   "symbol": "DAWN",
   "address": "0x580c8520deda0a441522aeae0f9f7a5f29629afa",
   "decimals": 18,
-  "logo": "dawn-protocol.png",
   "coingecko": {
     "id": "dawn-protocol",
     "platform": "ethereum"
