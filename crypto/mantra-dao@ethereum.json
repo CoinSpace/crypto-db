@@ -8,6 +8,9 @@
   "address": "0x3593d125a4f7849a1b059e64f4517a86dd60c95d",
   "decimals": 18,
   "logo": "mantra-dao.svg",
+  "changelly": {
+    "ticker": "om"
+  },
   "coingecko": {
     "id": "mantra-dao",
     "platform": "ethereum"
