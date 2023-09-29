@@ -3,7 +3,7 @@
   "asset": "tether",
   "platform": "tron",
   "type": "token",
-  "name": "Tether",
+  "name": "Tether USDt",
   "symbol": "USDT",
   "address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
   "decimals": 6,
