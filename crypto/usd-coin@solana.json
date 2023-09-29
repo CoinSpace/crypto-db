@@ -3,7 +3,7 @@
   "asset": "usd-coin",
   "platform": "solana",
   "type": "token",
-  "name": "USD Coin",
+  "name": "USDC",
   "symbol": "USDC",
   "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
   "decimals": 6,
