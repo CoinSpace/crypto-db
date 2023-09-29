@@ -3,7 +3,7 @@
   "asset": "tether",
   "platform": "binance-smart-chain",
   "type": "token",
-  "name": "Tether",
+  "name": "Tether USDt",
   "symbol": "USDT",
   "address": "0x55d398326f99059ff775485246999027b3197955",
   "decimals": 18,
