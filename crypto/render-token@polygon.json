@@ -7,7 +7,7 @@
   "symbol": "RNDR",
   "address": "0x61299774020da444af134c82fa83e3810b309991",
   "decimals": 18,
-  "logo": "render-token.png",
+  "logo": "render-token.svg",
   "coingecko": {
     "id": "render-token"
   },

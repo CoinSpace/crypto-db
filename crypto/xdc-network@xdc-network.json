@@ -6,7 +6,7 @@
   "name": "XDC Network",
   "symbol": "XDC",
   "decimals": 18,
-  "logo": "xdc-network.png",
+  "logo": "xdc-network.svg",
   "supported": false,
   "changelly": {
     "ticker": "xdc"
