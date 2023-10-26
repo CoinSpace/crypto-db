@@ -23,6 +23,10 @@
     "ticker": "USDT",
     "network": "BSC"
   },
+  "moonpay": {
+    "id": "bb34e21c-8545-4b01-ad08-63cc6eab03b8",
+    "code": "usdt_bsc"
+  },
   "onramper": {
     "id": "USDT_BSC"
   }
