@@ -4,7 +4,7 @@
   "platform": "iota",
   "type": "coin",
   "name": "IOTA",
-  "symbol": "MIOTA",
+  "symbol": "IOTA",
   "decimals": 6,
   "logo": "iota.svg",
   "supported": false,
