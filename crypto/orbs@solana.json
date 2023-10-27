@@ -1,0 +1,18 @@
+{
+  "_id": "orbs@solana",
+  "asset": "orbs",
+  "platform": "solana",
+  "type": "token",
+  "name": "Orbs",
+  "symbol": "ORBS",
+  "address": "7JnHPPJBBKSTJ7iEmsiGSBcPJgbcKw28uCRXtQgimncp",
+  "decimals": 8,
+  "logo": "orbs.svg",
+  "coingecko": {
+    "id": "orbs"
+  },
+  "coinmarketcap": {
+    "id": 3835,
+    "slug": "orbs"
+  }
+}
