@@ -8,6 +8,9 @@
   "address": "TUpMhErZL2fhh4sVNULAbNKLokS4GjC1F4",
   "decimals": 18,
   "logo": "trueusd.svg",
+  "changelly": {
+    "ticker": "tusdtrx"
+  },
   "coingecko": {
     "id": "true-usd"
   },
