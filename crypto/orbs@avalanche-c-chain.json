@@ -1,0 +1,18 @@
+{
+  "_id": "orbs@avalanche-c-chain",
+  "asset": "orbs",
+  "platform": "avalanche-c-chain",
+  "type": "token",
+  "name": "Orbs",
+  "symbol": "ORBS",
+  "address": "0x340fe1d898eccaad394e2ba0fc1f93d27c7b717a",
+  "decimals": 18,
+  "logo": "orbs.svg",
+  "coingecko": {
+    "id": "orbs"
+  },
+  "coinmarketcap": {
+    "id": 3835,
+    "slug": "orbs"
+  }
+}
