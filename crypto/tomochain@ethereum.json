@@ -4,7 +4,7 @@
   "platform": "ethereum",
   "type": "token",
   "name": "TomoChain",
-  "symbol": "TOMO",
+  "symbol": "VIC",
   "address": "0x05d3606d5c81eb9b7b18530995ec9b29da05faba",
   "decimals": 18,
   "logo": "tomochain.svg",
@@ -14,7 +14,7 @@
   },
   "coinmarketcap": {
     "id": 2570,
-    "slug": "tomochain"
+    "slug": "viction"
   },
   "moonpay": {
     "id": "9248983e-60dc-45ac-b77b-8315fff4d09e",
