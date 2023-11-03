@@ -3,8 +3,8 @@
   "asset": "dydx",
   "platform": "ethereum",
   "type": "token",
-  "name": "dYdX",
-  "symbol": "DYDX",
+  "name": "dYdX (ethDYDX)",
+  "symbol": "ETHDYDX",
   "address": "0x92d6c1e31e14520e676a687f0a93788b716beff5",
   "decimals": 18,
   "logo": "dydx.svg",
@@ -17,7 +17,7 @@
   },
   "coinmarketcap": {
     "id": 11156,
-    "slug": "dydx"
+    "slug": "dydx-ethdydx"
   },
   "guardarian": {
     "ticker": "DYDX",
