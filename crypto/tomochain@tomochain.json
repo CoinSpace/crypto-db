@@ -3,8 +3,8 @@
   "asset": "tomochain",
   "platform": "tomochain",
   "type": "coin",
-  "name": "TomoChain",
-  "symbol": "TOMO",
+  "name": "Viction",
+  "symbol": "VIC",
   "decimals": 8,
   "logo": "tomochain.svg",
   "supported": false,
@@ -13,6 +13,6 @@
   },
   "coinmarketcap": {
     "id": 2570,
-    "slug": "tomochain"
+    "slug": "viction"
   }
 }
