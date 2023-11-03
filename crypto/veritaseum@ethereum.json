@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "veritaseum@ethereum",
   "asset": "veritaseum",
   "platform": "ethereum",
