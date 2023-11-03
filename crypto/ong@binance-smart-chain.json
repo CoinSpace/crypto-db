@@ -1,0 +1,18 @@
+{
+  "_id": "ong@binance-smart-chain",
+  "asset": "ong",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Ontology Gas",
+  "symbol": "ONG",
+  "address": "0x308bfaeaac8bdab6e9fc5ead8edcb5f95b0599d9",
+  "decimals": 9,
+  "logo": "ong.png",
+  "coingecko": {
+    "id": "ong"
+  },
+  "coinmarketcap": {
+    "id": 3217,
+    "slug": "ontology-gas"
+  }
+}
