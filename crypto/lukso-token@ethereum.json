@@ -3,7 +3,7 @@
   "asset": "lukso-token",
   "platform": "ethereum",
   "type": "token",
-  "name": "LUKSO",
+  "name": "LUKSO (Old)",
   "symbol": "LYXE",
   "address": "0xa8b919680258d369114910511cc87595aec0be6d",
   "decimals": 18,
