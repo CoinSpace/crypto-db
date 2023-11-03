@@ -4,12 +4,12 @@
   "platform": "ethereum",
   "type": "token",
   "name": "SwissBorg",
-  "symbol": "CHSB",
-  "address": "0xba9d4199fab4f26efe3551d490e3821486f135ba",
-  "decimals": 8,
+  "symbol": "BORG",
+  "address": "0x64d0f55cd8c7133a9d7102b13987235f486f2224",
+  "decimals": 18,
   "logo": "swissborg.svg",
   "changelly": {
-    "ticker": "chsb"
+    "ticker": "borg"
   },
   "coingecko": {
     "id": "swissborg",
