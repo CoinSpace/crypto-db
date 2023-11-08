@@ -1,0 +1,21 @@
+{
+  "_id": "blur@ethereum",
+  "asset": "blur",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Blur",
+  "symbol": "BLUR",
+  "address": "0x5283d291dbcf85356a21ba090e6db59121208b44",
+  "decimals": 18,
+  "logo": "blur.svg",
+  "changelly": {
+    "ticker": "blur"
+  },
+  "coingecko": {
+    "id": "blur"
+  },
+  "coinmarketcap": {
+    "id": 23121,
+    "slug": "blur-token"
+  }
+}
