@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "xsgd@ethereum",
   "asset": "xsgd",
   "platform": "ethereum",
@@ -7,7 +8,6 @@
   "symbol": "XSGD",
   "address": "0x70e8de73ce538da2beed35d14187f6959a8eca96",
   "decimals": 6,
-  "logo": "xsgd.png",
   "coingecko": {
     "id": "xsgd",
     "platform": "ethereum"

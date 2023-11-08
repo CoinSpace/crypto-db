@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "bitcoin-diamond@bitcoin-diamond",
   "asset": "bitcoin-diamond",
   "platform": "bitcoin-diamond",
