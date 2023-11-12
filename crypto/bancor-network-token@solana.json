@@ -1,0 +1,18 @@
+{
+  "_id": "bancor-network-token@solana",
+  "asset": "bancor-network-token",
+  "platform": "solana",
+  "type": "token",
+  "name": "Bancor",
+  "symbol": "BNT",
+  "address": "EDVVEYW4fPJ6vKw5LZXRGUSPzxoHrv6eWvTqhCr8oShs",
+  "decimals": 8,
+  "logo": "bancor-network-token.svg",
+  "coingecko": {
+    "id": "bancor"
+  },
+  "coinmarketcap": {
+    "id": 1727,
+    "slug": "bancor"
+  }
+}
