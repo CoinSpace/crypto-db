@@ -1,0 +1,18 @@
+{
+  "_id": "render-token@solana",
+  "asset": "render-token",
+  "platform": "solana",
+  "type": "token",
+  "name": "Render",
+  "symbol": "RNDR",
+  "address": "rndrizKT3MK1iimdxRdWabcF7Zg7AR5T4nud4EkHBof",
+  "decimals": 8,
+  "logo": "render-token.svg",
+  "coingecko": {
+    "id": "render-token"
+  },
+  "coinmarketcap": {
+    "id": 5690,
+    "slug": "render"
+  }
+}
