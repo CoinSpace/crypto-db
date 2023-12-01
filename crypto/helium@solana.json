@@ -1,0 +1,18 @@
+{
+  "_id": "helium@solana",
+  "asset": "helium",
+  "platform": "solana",
+  "type": "token",
+  "name": "Helium",
+  "symbol": "HNT",
+  "address": "hntyVP6YFm1Hg25TN9WGLqM12b8TQmcknKrdu1oxWux",
+  "decimals": 8,
+  "logo": "helium.svg",
+  "coingecko": {
+    "id": "helium"
+  },
+  "coinmarketcap": {
+    "id": 5665,
+    "slug": "helium"
+  }
+}
