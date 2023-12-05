@@ -1,0 +1,18 @@
+{
+  "_id": "superfarm@polygon",
+  "asset": "superfarm",
+  "platform": "polygon",
+  "type": "token",
+  "name": "SuperVerse",
+  "symbol": "SUPER",
+  "address": "0xa1428174f516f527fafdd146b883bb4428682737",
+  "decimals": 18,
+  "logo": "superfarm.png",
+  "coingecko": {
+    "id": "superfarm"
+  },
+  "coinmarketcap": {
+    "id": 8290,
+    "slug": "superfarm"
+  }
+}
