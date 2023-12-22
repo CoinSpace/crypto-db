@@ -5,8 +5,8 @@
   "type": "token",
   "name": "Dogelon Mars",
   "symbol": "ELON",
-  "address": "6nKUU36URHkewHg5GGGAgxs6szkE4VTioGUT5txQqJFU",
-  "decimals": 8,
+  "address": "7ZCm8WBN9aLa3o47SoYctU6iLdj7wkGG5SV2hE5CgtD5",
+  "decimals": 4,
   "logo": "dogelon-mars.jpg",
   "coingecko": {
     "id": "dogelon-mars"
