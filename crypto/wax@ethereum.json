@@ -1,0 +1,18 @@
+{
+  "_id": "wax@ethereum",
+  "asset": "wax",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "WAX",
+  "symbol": "WAXP",
+  "address": "0x2a79324c19ef2b89ea98b23bc669b7e7c9f8a517",
+  "decimals": 8,
+  "logo": "wax.svg",
+  "coingecko": {
+    "id": "wax"
+  },
+  "coinmarketcap": {
+    "id": 2300,
+    "slug": "wax"
+  }
+}
