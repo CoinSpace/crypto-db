@@ -1,16 +1,13 @@
 {
-  "_id": "tellor@ethereum",
+  "_id": "tellor@polygon",
   "asset": "tellor",
-  "platform": "ethereum",
+  "platform": "polygon",
   "type": "token",
   "name": "Tellor",
   "symbol": "TRB",
-  "address": "0x88df592f8eb5d7bd38bfef7deb0fbc02cf3778a0",
+  "address": "0xe3322702bedaaed36cddab233360b939775ae5f1",
   "decimals": 18,
   "logo": "tellor.svg",
-  "changelly": {
-    "ticker": "trb"
-  },
   "coingecko": {
     "id": "tellor"
   },
