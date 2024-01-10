@@ -1,0 +1,18 @@
+{
+  "_id": "axelar@polygon",
+  "asset": "axelar",
+  "platform": "polygon",
+  "type": "token",
+  "name": "Axelar",
+  "symbol": "AXL",
+  "address": "0x6e4e624106cb12e168e6533f8ec7c82263358940",
+  "decimals": 6,
+  "logo": "axelar.svg",
+  "coingecko": {
+    "id": "axelar"
+  },
+  "coinmarketcap": {
+    "id": 17799,
+    "slug": "axelar"
+  }
+}
