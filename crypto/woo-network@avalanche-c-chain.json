@@ -3,7 +3,7 @@
   "asset": "woo-network",
   "platform": "avalanche-c-chain",
   "type": "token",
-  "name": "WOO Network",
+  "name": "WOO",
   "symbol": "WOO",
   "address": "0xabc9547b534519ff73921b1fba6e672b5f58d083",
   "decimals": 18,
