@@ -3,11 +3,10 @@
   "asset": "ethereum",
   "platform": "arbitrum",
   "type": "coin",
-  "name": "Ethereum",
+  "name": "Arbitrum",
   "symbol": "ETH",
   "decimals": 18,
-  "logo": "ethereum.svg",
-  "scheme": "ethereum",
+  "logo": "arbitrum.svg",
   "coingecko": {
     "id": "ethereum"
   },
