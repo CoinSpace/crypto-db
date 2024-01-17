@@ -1,0 +1,18 @@
+{
+  "_id": "balancer@arbitrum",
+  "asset": "balancer",
+  "platform": "arbitrum",
+  "type": "token",
+  "name": "Balancer",
+  "symbol": "BAL",
+  "address": "0x040d1edc9569d4bab2d15287dc5a4f10f56a56b8",
+  "decimals": 18,
+  "logo": "balancer.svg",
+  "coingecko": {
+    "id": "balancer"
+  },
+  "coinmarketcap": {
+    "id": 5728,
+    "slug": "balancer"
+  }
+}

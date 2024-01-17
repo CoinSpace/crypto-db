@@ -1,0 +1,18 @@
+{
+  "_id": "yearn-finance@arbitrum",
+  "asset": "yearn-finance",
+  "platform": "arbitrum",
+  "type": "token",
+  "name": "yearn.finance",
+  "symbol": "YFI",
+  "address": "0x82e3a8f066a6989666b031d916c43672085b1582",
+  "decimals": 18,
+  "logo": "yearn-finance.svg",
+  "coingecko": {
+    "id": "yearn-finance"
+  },
+  "coinmarketcap": {
+    "id": 5864,
+    "slug": "yearn-finance"
+  }
+}

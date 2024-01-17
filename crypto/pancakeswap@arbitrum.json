@@ -1,0 +1,18 @@
+{
+  "_id": "pancakeswap@arbitrum",
+  "asset": "pancakeswap",
+  "platform": "arbitrum",
+  "type": "token",
+  "name": "PancakeSwap",
+  "symbol": "CAKE",
+  "address": "0x1b896893dfc86bb67cf57767298b9073d2c1ba2c",
+  "decimals": 18,
+  "logo": "pancakeswap.svg",
+  "coingecko": {
+    "id": "pancakeswap-token"
+  },
+  "coinmarketcap": {
+    "id": 7186,
+    "slug": "pancakeswap"
+  }
+}

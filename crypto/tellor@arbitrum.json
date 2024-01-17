@@ -1,0 +1,18 @@
+{
+  "_id": "tellor@arbitrum",
+  "asset": "tellor",
+  "platform": "arbitrum",
+  "type": "token",
+  "name": "Tellor",
+  "symbol": "TRB",
+  "address": "0xd58d345fd9c82262e087d2d0607624b410d88242",
+  "decimals": 18,
+  "logo": "tellor.svg",
+  "coingecko": {
+    "id": "tellor"
+  },
+  "coinmarketcap": {
+    "id": 4944,
+    "slug": "tellor"
+  }
+}

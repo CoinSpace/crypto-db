@@ -1,0 +1,18 @@
+{
+  "_id": "frax-share@arbitrum",
+  "asset": "frax-share",
+  "platform": "arbitrum",
+  "type": "token",
+  "name": "Frax Share",
+  "symbol": "FXS",
+  "address": "0x9d2f299715d94d8a7e6f5eaa8e654e8c74a988a7",
+  "decimals": 18,
+  "logo": "frax-share.svg",
+  "coingecko": {
+    "id": "frax-share"
+  },
+  "coinmarketcap": {
+    "id": 6953,
+    "slug": "frax-share"
+  }
+}

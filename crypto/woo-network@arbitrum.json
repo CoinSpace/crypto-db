@@ -1,0 +1,18 @@
+{
+  "_id": "woo-network@arbitrum",
+  "asset": "woo-network",
+  "platform": "arbitrum",
+  "type": "token",
+  "name": "WOO",
+  "symbol": "WOO",
+  "address": "0xcafcd85d8ca7ad1e1c6f82f651fa15e33aefd07b",
+  "decimals": 18,
+  "logo": "woo-network.svg",
+  "coingecko": {
+    "id": "woo-network"
+  },
+  "coinmarketcap": {
+    "id": 7501,
+    "slug": "wootrade"
+  }
+}

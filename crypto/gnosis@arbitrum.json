@@ -1,0 +1,18 @@
+{
+  "_id": "gnosis@arbitrum",
+  "asset": "gnosis",
+  "platform": "arbitrum",
+  "type": "token",
+  "name": "Gnosis",
+  "symbol": "GNO",
+  "address": "0xa0b862f60edef4452f25b4160f177db44deb6cf1",
+  "decimals": 18,
+  "logo": "gnosis.svg",
+  "coingecko": {
+    "id": "gnosis"
+  },
+  "coinmarketcap": {
+    "id": 1659,
+    "slug": "gnosis-gno"
+  }
+}

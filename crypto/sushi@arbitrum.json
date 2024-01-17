@@ -1,0 +1,18 @@
+{
+  "_id": "sushi@arbitrum",
+  "asset": "sushi",
+  "platform": "arbitrum",
+  "type": "token",
+  "name": "SushiSwap",
+  "symbol": "SUSHI",
+  "address": "0xd4d42f0b6def4ce0383636770ef773390d85c61a",
+  "decimals": 18,
+  "logo": "sushi.svg",
+  "coingecko": {
+    "id": "sushi"
+  },
+  "coinmarketcap": {
+    "id": 6758,
+    "slug": "sushiswap"
+  }
+}

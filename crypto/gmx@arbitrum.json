@@ -1,0 +1,18 @@
+{
+  "_id": "gmx@arbitrum",
+  "asset": "gmx",
+  "platform": "arbitrum",
+  "type": "token",
+  "name": "GMX",
+  "symbol": "GMX",
+  "address": "0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a",
+  "decimals": 18,
+  "logo": "gmx.png",
+  "coingecko": {
+    "id": "gmx"
+  },
+  "coinmarketcap": {
+    "id": 11857,
+    "slug": "gmx"
+  }
+}
