@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 5690,
     "slug": "render"
+  },
+  "guardarian": {
+    "ticker": "RNDR",
+    "network": "ETH"
   }
 }

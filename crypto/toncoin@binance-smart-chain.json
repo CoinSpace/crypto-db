@@ -14,5 +14,9 @@
   "coinmarketcap": {
     "id": 11419,
     "slug": "toncoin"
+  },
+  "guardarian": {
+    "ticker": "TON",
+    "network": "BSC"
   }
 }

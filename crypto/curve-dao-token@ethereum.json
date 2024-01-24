@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 6538,
     "slug": "curve-dao-token"
+  },
+  "guardarian": {
+    "ticker": "CRV",
+    "network": "ETH"
   }
 }

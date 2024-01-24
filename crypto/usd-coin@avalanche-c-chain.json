@@ -18,6 +18,10 @@
     "id": 3408,
     "slug": "usd-coin"
   },
+  "guardarian": {
+    "ticker": "USDC",
+    "network": "AVAXC"
+  },
   "moonpay": {
     "id": "de47a930-f76e-4284-b9d6-c5a6f2a1fc3f",
     "code": "usdc_cchain"

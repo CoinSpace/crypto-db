@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 2087,
     "slug": "kucoin-token"
+  },
+  "guardarian": {
+    "ticker": "KCS",
+    "network": "ETH"
   }
 }

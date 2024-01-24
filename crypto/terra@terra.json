@@ -17,5 +17,9 @@
   "coinmarketcap": {
     "id": 4172,
     "slug": "terra-luna"
+  },
+  "guardarian": {
+    "ticker": "LUNC",
+    "network": "LUNC"
   }
 }

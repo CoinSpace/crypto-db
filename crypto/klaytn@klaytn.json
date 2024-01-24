@@ -18,6 +18,10 @@
     "id": 4256,
     "slug": "klaytn"
   },
+  "guardarian": {
+    "ticker": "KLAY",
+    "network": "KLAY"
+  },
   "moonpay": {
     "id": "e92b92e5-8240-4ee5-b1f9-2ca6efde6567",
     "code": "klay"

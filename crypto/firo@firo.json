@@ -17,5 +17,9 @@
   "coinmarketcap": {
     "id": 1414,
     "slug": "firo"
+  },
+  "guardarian": {
+    "ticker": "FIRO",
+    "network": "FIRO"
   }
 }

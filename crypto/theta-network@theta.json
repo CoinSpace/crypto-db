@@ -17,5 +17,9 @@
   "coinmarketcap": {
     "id": 2416,
     "slug": "theta-network"
+  },
+  "guardarian": {
+    "ticker": "THETA",
+    "network": "THETA"
   }
 }

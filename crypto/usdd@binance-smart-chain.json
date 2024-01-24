@@ -14,5 +14,9 @@
   "coinmarketcap": {
     "id": 19891,
     "slug": "usdd"
+  },
+  "guardarian": {
+    "ticker": "USDD",
+    "network": "BSC"
   }
 }

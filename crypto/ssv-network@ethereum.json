@@ -17,5 +17,9 @@
   "coinmarketcap": {
     "id": 12999,
     "slug": "ssv-network"
+  },
+  "guardarian": {
+    "ticker": "SSV",
+    "network": "ETH"
   }
 }

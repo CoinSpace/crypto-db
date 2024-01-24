@@ -14,5 +14,9 @@
   "coinmarketcap": {
     "id": 1376,
     "slug": "neo"
+  },
+  "guardarian": {
+    "ticker": "NEO",
+    "network": "NEO"
   }
 }

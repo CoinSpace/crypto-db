@@ -15,5 +15,9 @@
   "coinmarketcap": {
     "id": 9566,
     "slug": "liquity-usd"
+  },
+  "guardarian": {
+    "ticker": "LUSD",
+    "network": "ETH"
   }
 }

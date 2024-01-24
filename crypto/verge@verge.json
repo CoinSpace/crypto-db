@@ -17,5 +17,9 @@
   "coinmarketcap": {
     "id": 693,
     "slug": "verge"
+  },
+  "guardarian": {
+    "ticker": "XVG",
+    "network": "XVG"
   }
 }

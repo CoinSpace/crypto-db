@@ -18,6 +18,10 @@
     "id": 1720,
     "slug": "iota"
   },
+  "guardarian": {
+    "ticker": "IOTA",
+    "network": "IOTA"
+  },
   "moonpay": {
     "id": "37025f7b-5611-4f71-bb6c-aed3048e6954",
     "code": "miota"

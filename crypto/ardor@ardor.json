@@ -17,5 +17,9 @@
   "coinmarketcap": {
     "id": 1320,
     "slug": "ardor"
+  },
+  "guardarian": {
+    "ticker": "ARDR",
+    "network": "ARDR"
   }
 }

@@ -18,6 +18,10 @@
     "id": 2577,
     "slug": "ravencoin"
   },
+  "guardarian": {
+    "ticker": "RVN",
+    "network": "RVN"
+  },
   "moonpay": {
     "id": "66523c65-91f2-478a-ab69-a6ee692fd690",
     "code": "rvn"

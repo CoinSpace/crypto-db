@@ -15,5 +15,9 @@
   "coinmarketcap": {
     "id": 4943,
     "slug": "multi-collateral-dai"
+  },
+  "guardarian": {
+    "ticker": "DAI",
+    "network": "BSC"
   }
 }

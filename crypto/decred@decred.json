@@ -17,5 +17,9 @@
   "coinmarketcap": {
     "id": 1168,
     "slug": "decred"
+  },
+  "guardarian": {
+    "ticker": "DCR",
+    "network": "DCR"
   }
 }

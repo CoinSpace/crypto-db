@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 7455,
     "slug": "audius"
+  },
+  "guardarian": {
+    "ticker": "AUDIO",
+    "network": "ETH"
   }
 }

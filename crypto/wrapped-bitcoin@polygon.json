@@ -14,5 +14,9 @@
   "coinmarketcap": {
     "id": 3717,
     "slug": "wrapped-bitcoin"
+  },
+  "guardarian": {
+    "ticker": "WBTC",
+    "network": "MATIC"
   }
 }

@@ -15,5 +15,9 @@
   "coinmarketcap": {
     "id": 6536,
     "slug": "mantra"
+  },
+  "guardarian": {
+    "ticker": "OM",
+    "network": "BSC"
   }
 }

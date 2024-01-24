@@ -18,6 +18,10 @@
     "id": 109,
     "slug": "digibyte"
   },
+  "guardarian": {
+    "ticker": "DGB",
+    "network": "DGB"
+  },
   "moonpay": {
     "id": "47a5dff6-9776-467b-a85e-634f8ffb4a36",
     "code": "dgb"

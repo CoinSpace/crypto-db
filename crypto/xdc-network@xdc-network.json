@@ -17,5 +17,9 @@
   "coinmarketcap": {
     "id": 2634,
     "slug": "xdc-network"
+  },
+  "guardarian": {
+    "ticker": "XDC",
+    "network": "XDC"
   }
 }

@@ -17,5 +17,9 @@
   "coinmarketcap": {
     "id": 1521,
     "slug": "komodo"
+  },
+  "guardarian": {
+    "ticker": "KMD",
+    "network": "KMD"
   }
 }

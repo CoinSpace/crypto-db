@@ -17,5 +17,9 @@
   "coinmarketcap": {
     "id": 11841,
     "slug": "arbitrum"
+  },
+  "guardarian": {
+    "ticker": "ARB",
+    "network": "ARBITRUM"
   }
 }

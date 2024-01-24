@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 8119,
     "slug": "safepal"
+  },
+  "guardarian": {
+    "ticker": "SFP",
+    "network": "BSC"
   }
 }

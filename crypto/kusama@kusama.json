@@ -17,5 +17,9 @@
   "coinmarketcap": {
     "id": 5034,
     "slug": "kusama"
+  },
+  "guardarian": {
+    "ticker": "KSM",
+    "network": "KSM"
   }
 }

@@ -18,6 +18,10 @@
     "id": 2280,
     "slug": "filecoin"
   },
+  "guardarian": {
+    "ticker": "FIL",
+    "network": "FIL"
+  },
   "moonpay": {
     "id": "73e57986-3b74-45db-b8a8-c01bc3e0d8f1",
     "code": "fil"

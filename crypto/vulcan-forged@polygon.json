@@ -14,5 +14,9 @@
   "coinmarketcap": {
     "id": 9308,
     "slug": "vulcan-forged-pyr"
+  },
+  "guardarian": {
+    "ticker": "PYR",
+    "network": "MATIC"
   }
 }

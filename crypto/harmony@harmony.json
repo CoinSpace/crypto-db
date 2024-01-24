@@ -17,5 +17,9 @@
   "coinmarketcap": {
     "id": 3945,
     "slug": "harmony"
+  },
+  "guardarian": {
+    "ticker": "ONE",
+    "network": "ONE"
   }
 }

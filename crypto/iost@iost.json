@@ -17,5 +17,9 @@
   "coinmarketcap": {
     "id": 2405,
     "slug": "iostoken"
+  },
+  "guardarian": {
+    "ticker": "IOST",
+    "network": "IOST"
   }
 }

@@ -15,6 +15,10 @@
     "id": 6210,
     "slug": "the-sandbox"
   },
+  "guardarian": {
+    "ticker": "SAND",
+    "network": "MATIC"
+  },
   "moonpay": {
     "id": "7b14e8de-b142-4fb1-ad4e-9a9609932efd",
     "code": "sand_polygon"

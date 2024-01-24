@@ -17,5 +17,9 @@
   "coinmarketcap": {
     "id": 2099,
     "slug": "icon"
+  },
+  "guardarian": {
+    "ticker": "ICX",
+    "network": "ICX"
   }
 }

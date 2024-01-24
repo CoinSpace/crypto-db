@@ -18,6 +18,10 @@
     "id": 873,
     "slug": "nem"
   },
+  "guardarian": {
+    "ticker": "XEM",
+    "network": "XEM"
+  },
   "moonpay": {
     "id": "66375c19-2cb0-47be-a6fb-8439623538ee",
     "code": "xem"

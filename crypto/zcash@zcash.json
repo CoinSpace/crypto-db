@@ -17,5 +17,9 @@
   "coinmarketcap": {
     "id": 1437,
     "slug": "zcash"
+  },
+  "guardarian": {
+    "ticker": "ZEC",
+    "network": "ZEC"
   }
 }

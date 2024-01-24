@@ -17,5 +17,9 @@
   "coinmarketcap": {
     "id": 1698,
     "slug": "horizen"
+  },
+  "guardarian": {
+    "ticker": "ZEN",
+    "network": "ZEN"
   }
 }

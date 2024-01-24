@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 10974,
     "slug": "tranchess"
+  },
+  "guardarian": {
+    "ticker": "CHESS",
+    "network": "BSC"
   }
 }

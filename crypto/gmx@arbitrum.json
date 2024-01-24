@@ -14,5 +14,9 @@
   "coinmarketcap": {
     "id": 11857,
     "slug": "gmx"
+  },
+  "guardarian": {
+    "ticker": "GMX",
+    "network": "ARBITRUM"
   }
 }

@@ -14,5 +14,9 @@
   "coinmarketcap": {
     "id": 3814,
     "slug": "celer-network"
+  },
+  "guardarian": {
+    "ticker": "CELR",
+    "network": "BSC"
   }
 }

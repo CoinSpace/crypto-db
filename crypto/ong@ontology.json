@@ -16,5 +16,9 @@
   "coinmarketcap": {
     "id": 3217,
     "slug": "ontology-gas"
+  },
+  "guardarian": {
+    "ticker": "ONG",
+    "network": "ONT"
   }
 }

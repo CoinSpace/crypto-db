@@ -17,5 +17,9 @@
   "coinmarketcap": {
     "id": 3822,
     "slug": "theta-fuel"
+  },
+  "guardarian": {
+    "ticker": "TFUEL",
+    "network": "THETA"
   }
 }

@@ -17,5 +17,9 @@
   "coinmarketcap": {
     "id": 2083,
     "slug": "bitcoin-gold"
+  },
+  "guardarian": {
+    "ticker": "BTG",
+    "network": "BTG"
   }
 }

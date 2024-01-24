@@ -17,6 +17,10 @@
     "id": 5805,
     "slug": "avalanche"
   },
+  "guardarian": {
+    "ticker": "AVAX",
+    "network": "CCHAIN"
+  },
   "moonpay": {
     "id": "38b1f272-af74-4f61-a425-62219aea25d9",
     "code": "avax_cchain"

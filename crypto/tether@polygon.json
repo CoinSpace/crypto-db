@@ -15,6 +15,10 @@
     "id": 825,
     "slug": "tether"
   },
+  "guardarian": {
+    "ticker": "USDT",
+    "network": "MATIC"
+  },
   "moonpay": {
     "id": "41b793aa-1252-44a7-b79b-6789628fb864",
     "code": "usdt_polygon"

@@ -18,6 +18,10 @@
     "id": 825,
     "slug": "tether"
   },
+  "guardarian": {
+    "ticker": "USDT",
+    "network": "SOL"
+  },
   "onramper": {
     "id": "USDT_SOLANA"
   }

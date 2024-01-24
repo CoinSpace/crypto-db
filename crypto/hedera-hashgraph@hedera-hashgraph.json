@@ -18,6 +18,10 @@
     "id": 4642,
     "slug": "hedera"
   },
+  "guardarian": {
+    "ticker": "HBAR",
+    "network": "HBAR"
+  },
   "moonpay": {
     "id": "c58a008b-2f93-4faf-b6d3-83e004d23d4a",
     "code": "hbar"

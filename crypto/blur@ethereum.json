@@ -17,5 +17,9 @@
   "coinmarketcap": {
     "id": 23121,
     "slug": "blur-token"
+  },
+  "guardarian": {
+    "ticker": "BLUR",
+    "network": "ETH"
   }
 }

@@ -18,6 +18,10 @@
     "id": 3794,
     "slug": "cosmos"
   },
+  "guardarian": {
+    "ticker": "ATOM",
+    "network": "ATOM"
+  },
   "moonpay": {
     "id": "7545c52d-3a9d-40d4-aae5-8fcf42b0f17b",
     "code": "atom"

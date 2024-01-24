@@ -18,6 +18,10 @@
     "id": 1567,
     "slug": "nano"
   },
+  "guardarian": {
+    "ticker": "XNO",
+    "network": "NANO"
+  },
   "moonpay": {
     "id": "3ade3ef2-f8bb-46e6-a52b-c23795da726d",
     "code": "xno"

@@ -15,6 +15,10 @@
     "id": 2563,
     "slug": "trueusd"
   },
+  "guardarian": {
+    "ticker": "TUSD",
+    "network": "AVAXC"
+  },
   "onramper": {
     "id": "TUSD_AVAXC"
   }

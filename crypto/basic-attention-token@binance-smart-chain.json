@@ -14,5 +14,9 @@
   "coinmarketcap": {
     "id": 1697,
     "slug": "basic-attention-token"
+  },
+  "guardarian": {
+    "ticker": "BAT",
+    "network": "BSC"
   }
 }

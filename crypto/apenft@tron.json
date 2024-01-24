@@ -17,5 +17,9 @@
   "coinmarketcap": {
     "id": 9816,
     "slug": "apenft"
+  },
+  "guardarian": {
+    "ticker": "NFT",
+    "network": "TRX"
   }
 }

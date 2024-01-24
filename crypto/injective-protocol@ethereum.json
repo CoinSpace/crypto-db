@@ -15,5 +15,9 @@
   "coinmarketcap": {
     "id": 7226,
     "slug": "injective"
+  },
+  "guardarian": {
+    "ticker": "INJ",
+    "network": "ETH"
   }
 }

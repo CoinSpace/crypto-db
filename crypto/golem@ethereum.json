@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 1455,
     "slug": "golem-network-tokens"
+  },
+  "guardarian": {
+    "ticker": "GLM",
+    "network": "ETH"
   }
 }

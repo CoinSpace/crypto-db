@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 8104,
     "slug": "1inch"
+  },
+  "guardarian": {
+    "ticker": "1INCH",
+    "network": "ETH"
   }
 }

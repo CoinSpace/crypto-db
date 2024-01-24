@@ -17,5 +17,9 @@
   "coinmarketcap": {
     "id": 8916,
     "slug": "internet-computer"
+  },
+  "guardarian": {
+    "ticker": "ICP",
+    "network": "ICP"
   }
 }

@@ -17,5 +17,9 @@
   "coinmarketcap": {
     "id": 1586,
     "slug": "ark"
+  },
+  "guardarian": {
+    "ticker": "ARK",
+    "network": "ARK"
   }
 }

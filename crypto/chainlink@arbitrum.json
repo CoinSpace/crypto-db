@@ -14,5 +14,9 @@
   "coinmarketcap": {
     "id": 1975,
     "slug": "chainlink"
+  },
+  "guardarian": {
+    "ticker": "LINK",
+    "network": "ARBITRUM"
   }
 }

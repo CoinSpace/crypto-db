@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 3783,
     "slug": "ankr"
+  },
+  "guardarian": {
+    "ticker": "ANKR",
+    "network": "ETH"
   }
 }

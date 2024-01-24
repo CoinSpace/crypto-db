@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 2424,
     "slug": "singularitynet"
+  },
+  "guardarian": {
+    "ticker": "AGIX",
+    "network": "ETH"
   }
 }
