@@ -1,0 +1,25 @@
+{
+  "_id": "paypal-usd@ethereum",
+  "asset": "paypal-usd",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "PayPal USD",
+  "symbol": "PYUSD",
+  "address": "0x6c3ea9036406852006290770bedfcaba0e23a0e8",
+  "decimals": 6,
+  "logo": "paypal-usd.svg",
+  "changelly": {
+    "ticker": "pyusd"
+  },
+  "coingecko": {
+    "id": "paypal-usd"
+  },
+  "coinmarketcap": {
+    "id": 27772,
+    "slug": "paypal-usd"
+  },
+  "guardarian": {
+    "ticker": "PYUSD",
+    "network": "ETH"
+  }
+}
