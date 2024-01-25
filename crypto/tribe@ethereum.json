@@ -18,9 +18,5 @@
   "coinmarketcap": {
     "id": 9025,
     "slug": "tribe"
-  },
-  "guardarian": {
-    "ticker": "TRIBE",
-    "network": "ETH"
   }
 }

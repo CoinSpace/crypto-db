@@ -15,9 +15,5 @@
   "coinmarketcap": {
     "id": 7857,
     "slug": "mirror-protocol"
-  },
-  "guardarian": {
-    "ticker": "MIR",
-    "network": "ETH"
   }
 }

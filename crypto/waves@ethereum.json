@@ -15,9 +15,5 @@
   "coinmarketcap": {
     "id": 1274,
     "slug": "waves"
-  },
-  "guardarian": {
-    "ticker": "WAVES",
-    "network": "ETH"
   }
 }

@@ -16,10 +16,6 @@
     "id": 4687,
     "slug": "binance-usd"
   },
-  "guardarian": {
-    "ticker": "BUSD",
-    "network": "ETH"
-  },
   "onramper": {
     "id": "BUSD_ETHEREUM"
   }

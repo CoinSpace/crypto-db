@@ -15,9 +15,5 @@
   "coinmarketcap": {
     "id": 2502,
     "slug": "htx-token"
-  },
-  "guardarian": {
-    "ticker": "HT",
-    "network": "ETH"
   }
 }

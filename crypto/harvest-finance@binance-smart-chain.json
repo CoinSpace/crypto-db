@@ -15,9 +15,5 @@
   "coinmarketcap": {
     "id": 6859,
     "slug": "harvest-finance"
-  },
-  "guardarian": {
-    "ticker": "FARM",
-    "network": "BSC"
   }
 }

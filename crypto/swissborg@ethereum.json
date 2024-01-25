@@ -18,9 +18,5 @@
   "coinmarketcap": {
     "id": 2499,
     "slug": "swissborg"
-  },
-  "guardarian": {
-    "ticker": "CHSB",
-    "network": "ETH"
   }
 }

@@ -18,9 +18,5 @@
   "coinmarketcap": {
     "id": 1758,
     "slug": "tenx"
-  },
-  "guardarian": {
-    "ticker": "PAY",
-    "network": "ETH"
   }
 }

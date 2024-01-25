@@ -15,9 +15,5 @@
   "coinmarketcap": {
     "id": 3306,
     "slug": "gemini-dollar"
-  },
-  "guardarian": {
-    "ticker": "GUSD",
-    "network": "ETH"
   }
 }

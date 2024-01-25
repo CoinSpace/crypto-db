@@ -15,9 +15,5 @@
   "coinmarketcap": {
     "id": 13523,
     "slug": "merit-circle"
-  },
-  "guardarian": {
-    "ticker": "MC",
-    "network": "BSC"
   }
 }
