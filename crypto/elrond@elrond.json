@@ -8,6 +8,9 @@
   "decimals": 18,
   "logo": "elrond.svg",
   "supported": false,
+  "changelly": {
+    "ticker": "egld"
+  },
   "coingecko": {
     "id": "elrond-erd-2"
   },

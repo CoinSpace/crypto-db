@@ -8,6 +8,9 @@
   "address": "0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",
   "decimals": 18,
   "logo": "enjin-coin.svg",
+  "changelly": {
+    "ticker": "enjold"
+  },
   "coingecko": {
     "id": "enjincoin",
     "platform": "ethereum"

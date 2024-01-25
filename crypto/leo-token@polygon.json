@@ -8,9 +8,6 @@
   "address": "0x06d02e9d62a13fc76bb229373fb3bbbd1101d2fc",
   "decimals": 18,
   "logo": "leo-token.svg",
-  "changelly": {
-    "ticker": "leo"
-  },
   "coingecko": {
     "id": "leo-token"
   },
