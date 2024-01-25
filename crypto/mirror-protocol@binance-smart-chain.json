@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "mirror-protocol@binance-smart-chain",
   "asset": "mirror-protocol",
   "platform": "binance-smart-chain",

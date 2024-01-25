@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "mirror-protocol@ethereum",
   "asset": "mirror-protocol",
   "platform": "ethereum",
