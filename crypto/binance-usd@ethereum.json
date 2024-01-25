@@ -8,9 +8,6 @@
   "address": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
   "decimals": 18,
   "logo": "binance-usd.svg",
-  "changelly": {
-    "ticker": "busd"
-  },
   "coingecko": {
     "id": "binance-usd",
     "platform": "ethereum"

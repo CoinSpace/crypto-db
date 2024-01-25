@@ -8,9 +8,6 @@
   "address": "0x9aab071b4129b083b01cb5a0cb513ce7eca26fa5",
   "decimals": 18,
   "logo": "hunt.png",
-  "changelly": {
-    "ticker": "hunt"
-  },
   "coingecko": {
     "id": "hunt-token",
     "platform": "ethereum"

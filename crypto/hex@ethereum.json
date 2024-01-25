@@ -8,9 +8,6 @@
   "address": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
   "decimals": 8,
   "logo": "hex.svg",
-  "changelly": {
-    "ticker": "hex"
-  },
   "coingecko": {
     "id": "hex",
     "platform": "ethereum"

@@ -8,9 +8,6 @@
   "decimals": 5,
   "logo": "nimiq.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "nim"
-  },
   "coingecko": {
     "id": "nimiq-2"
   },

@@ -8,9 +8,6 @@
   "decimals": 4,
   "logo": "icon.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "icx"
-  },
   "coingecko": {
     "id": "icon"
   },
