@@ -7,6 +7,9 @@
   "symbol": "TRX",
   "decimals": 6,
   "logo": "tron.svg",
+  "bitnovo": {
+    "id": "TRX"
+  },
   "changelly": {
     "ticker": "trx"
   },

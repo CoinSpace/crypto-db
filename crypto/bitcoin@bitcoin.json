@@ -8,6 +8,9 @@
   "decimals": 8,
   "logo": "bitcoin.svg",
   "scheme": "bitcoin",
+  "bitnovo": {
+    "id": "BTC"
+  },
   "btcdirect": {
     "currencyPair": [
       "BTC-EUR"

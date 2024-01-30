@@ -8,6 +8,9 @@
   "decimals": 8,
   "logo": "litecoin.svg",
   "scheme": "litecoin",
+  "bitnovo": {
+    "id": "LTC"
+  },
   "btcdirect": {
     "currencyPair": [
       "LTC-EUR"

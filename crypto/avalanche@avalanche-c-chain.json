@@ -7,6 +7,9 @@
   "symbol": "AVAX",
   "decimals": 18,
   "logo": "avalanche.svg",
+  "bitnovo": {
+    "id": "AVAX_CCHAIN"
+  },
   "changelly": {
     "ticker": "avaxc"
   },

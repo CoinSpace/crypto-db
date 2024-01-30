@@ -8,6 +8,9 @@
   "decimals": 18,
   "logo": "ethereum.svg",
   "scheme": "ethereum",
+  "bitnovo": {
+    "id": "ETH"
+  },
   "btcdirect": {
     "currencyPair": [
       "ETH-EUR"

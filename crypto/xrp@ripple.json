@@ -8,6 +8,9 @@
   "decimals": 6,
   "logo": "xrp.svg",
   "scheme": "ripple",
+  "bitnovo": {
+    "id": "XRP"
+  },
   "btcdirect": {
     "currencyPair": [
       "XRP-EUR"

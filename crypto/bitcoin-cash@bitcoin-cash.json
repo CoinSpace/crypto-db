@@ -8,6 +8,9 @@
   "decimals": 8,
   "logo": "bitcoin-cash.svg",
   "scheme": "bitcoincash",
+  "bitnovo": {
+    "id": "BCH"
+  },
   "btcdirect": {
     "currencyPair": [
       "BCH-EUR"

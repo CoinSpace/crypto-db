@@ -8,6 +8,9 @@
   "decimals": 12,
   "logo": "monero.svg",
   "scheme": "monero",
+  "bitnovo": {
+    "id": "XMR"
+  },
   "changelly": {
     "ticker": "xmr"
   },

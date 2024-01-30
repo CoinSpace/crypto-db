@@ -7,6 +7,9 @@
   "symbol": "MATIC",
   "decimals": 18,
   "logo": "polygon.svg",
+  "bitnovo": {
+    "id": "MATIC"
+  },
   "changelly": {
     "ticker": "maticpolygon"
   },

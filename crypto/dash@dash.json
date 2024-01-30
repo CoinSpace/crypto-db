@@ -8,6 +8,9 @@
   "decimals": 8,
   "logo": "dash.svg",
   "scheme": "dash",
+  "bitnovo": {
+    "id": "DASH"
+  },
   "changelly": {
     "ticker": "dash"
   },

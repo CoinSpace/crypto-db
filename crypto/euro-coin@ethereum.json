@@ -1,0 +1,21 @@
+{
+  "_id": "euro-coin@ethereum",
+  "asset": "euro-coin",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "EURC",
+  "symbol": "EURC",
+  "address": "0x1abaea1f7c830bd89acc67ec4af516284b1bc33c",
+  "decimals": 6,
+  "logo": "euro-coin.svg",
+  "bitnovo": {
+    "id": "EUROC"
+  },
+  "coingecko": {
+    "id": "euro-coin"
+  },
+  "coinmarketcap": {
+    "id": 20641,
+    "slug": "euro-coin"
+  }
+}

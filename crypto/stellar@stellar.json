@@ -8,6 +8,9 @@
   "decimals": 7,
   "logo": "stellar.svg",
   "scheme": "stellar",
+  "bitnovo": {
+    "id": "XLM"
+  },
   "changelly": {
     "ticker": "xlm"
   },

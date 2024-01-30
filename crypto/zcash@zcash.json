@@ -8,6 +8,9 @@
   "decimals": 8,
   "logo": "zcash.svg",
   "supported": false,
+  "bitnovo": {
+    "id": "ZEC"
+  },
   "changelly": {
     "ticker": "zec"
   },
