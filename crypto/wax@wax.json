@@ -15,6 +15,10 @@
     "id": 2300,
     "slug": "wax"
   },
+  "guardarian": {
+    "ticker": "WAXP",
+    "network": "WAXP"
+  },
   "moonpay": {
     "id": "3d6b67b6-744b-464e-b300-d447b010e456",
     "code": "waxp"
