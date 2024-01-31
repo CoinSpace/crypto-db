@@ -1,0 +1,18 @@
+{
+  "_id": "cartesi@arbitrum",
+  "asset": "cartesi",
+  "platform": "arbitrum",
+  "type": "token",
+  "name": "Cartesi",
+  "symbol": "CTSI",
+  "address": "0x319f865b287fcc10b30d8ce6144e8b6d1b476999",
+  "decimals": 18,
+  "logo": "cartesi.svg",
+  "coingecko": {
+    "id": "cartesi"
+  },
+  "coinmarketcap": {
+    "id": 5444,
+    "slug": "cartesi"
+  }
+}
