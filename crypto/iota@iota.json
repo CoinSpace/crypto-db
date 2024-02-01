@@ -8,9 +8,6 @@
   "decimals": 6,
   "logo": "iota.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "iota"
-  },
   "coingecko": {
     "id": "iota"
   },
