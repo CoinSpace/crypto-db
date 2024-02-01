@@ -8,6 +8,9 @@
   "decimals": 4,
   "logo": "lisk.svg",
   "supported": false,
+  "changelly": {
+    "ticker": "lsk"
+  },
   "coingecko": {
     "id": "lisk"
   },
