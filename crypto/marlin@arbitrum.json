@@ -1,0 +1,18 @@
+{
+  "_id": "marlin@arbitrum",
+  "asset": "marlin",
+  "platform": "arbitrum",
+  "type": "token",
+  "name": "Marlin",
+  "symbol": "POND",
+  "address": "0xda0a57b710768ae17941a9fa33f8b720c8bd9ddd",
+  "decimals": 18,
+  "logo": "marlin.png",
+  "coingecko": {
+    "id": "marlin"
+  },
+  "coinmarketcap": {
+    "id": 7497,
+    "slug": "marlin"
+  }
+}
