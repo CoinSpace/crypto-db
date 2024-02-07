@@ -8,9 +8,6 @@
   "decimals": 8,
   "logo": "ark.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "ark"
-  },
   "coingecko": {
     "id": "ark"
   },
