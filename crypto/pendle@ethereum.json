@@ -1,0 +1,21 @@
+{
+  "_id": "pendle@ethereum",
+  "asset": "pendle",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Pendle",
+  "symbol": "PENDLE",
+  "address": "0x808507121b80c02388fad14726482e061b8da827",
+  "decimals": 18,
+  "logo": "pendle.png",
+  "changelly": {
+    "ticker": "pendle"
+  },
+  "coingecko": {
+    "id": "pendle"
+  },
+  "coinmarketcap": {
+    "id": 9481,
+    "slug": "pendle"
+  }
+}
