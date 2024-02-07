@@ -8,9 +8,6 @@
   "address": "EchesyfXePKdLtoiZSL8pBe8Myagyy8ZRqsACNCFGnvp",
   "decimals": 6,
   "logo": "bonfida.png",
-  "changelly": {
-    "ticker": "fida"
-  },
   "coingecko": {
     "id": "bonfida",
     "platform": "solana"
