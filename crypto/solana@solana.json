@@ -8,9 +8,6 @@
   "decimals": 9,
   "logo": "solana.svg",
   "scheme": "solana",
-  "changelly": {
-    "ticker": "sol"
-  },
   "coingecko": {
     "id": "solana"
   },
