@@ -1,0 +1,18 @@
+{
+  "_id": "pendle@binance-smart-chain",
+  "asset": "pendle",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Pendle",
+  "symbol": "PENDLE",
+  "address": "0xb3ed0a426155b79b898849803e3b36552f7ed507",
+  "decimals": 18,
+  "logo": "pendle.svg",
+  "coingecko": {
+    "id": "pendle"
+  },
+  "coinmarketcap": {
+    "id": 9481,
+    "slug": "pendle"
+  }
+}

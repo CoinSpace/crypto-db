@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 60 60">
+  <circle cx="23.059" cy="41.106" r="9.059" fill="#1E4480"/>
+  <mask id="pendle_svg__a" width="3" height="26" x="22" y="9" maskUnits="userSpaceOnUse" style="mask-type:alpha">
+    <path fill="#fff" fill-rule="evenodd" d="M22.062 34.212V9.934h2.02v24.278h-2.02Z" clip-rule="evenodd"/>
+  </mask>
+  <g mask="url(#pendle_svg__a)">
+    <path fill="#fff" d="M46.933 25.467c0 9.094-7.372 16.466-16.466 16.466C21.373 41.933 14 34.561 14 25.467 14 16.372 21.372 9 30.467 9c9.094 0 16.466 7.372 16.466 16.467Z"/>
+  </g>
+  <circle cx="30.467" cy="25.467" r="16.467" fill="#DEDEDE"/>
+  <mask id="pendle_svg__b" width="33" height="33" x="14" y="9" maskUnits="userSpaceOnUse" style="mask-type:alpha">
+    <circle cx="30.467" cy="25.467" r="16.467" fill="#DEDEDE"/>
+  </mask>
+  <g mask="url(#pendle_svg__b)">
+    <circle cx="23.059" cy="41.106" r="9.059" fill="#152E51"/>
+    <mask id="pendle_svg__c" width="3" height="26" x="22" y="9" maskUnits="userSpaceOnUse" style="mask-type:alpha">
+      <path fill="#152E51" fill-rule="evenodd" d="M22.062 34.212V9.934h2.02v24.278h-2.02Z" clip-rule="evenodd"/>
+    </mask>
+    <g mask="url(#pendle_svg__c)">
+      <path fill="#152E51" d="M46.933 25.467c0 9.094-7.372 16.466-16.466 16.466C21.373 41.933 14 34.561 14 25.467 14 16.372 21.372 9 30.467 9c9.094 0 16.466 7.372 16.466 16.467Z"/>
+    </g>
+  </g>
+</svg>

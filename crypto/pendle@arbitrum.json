@@ -1,0 +1,18 @@
+{
+  "_id": "pendle@arbitrum",
+  "asset": "pendle",
+  "platform": "arbitrum",
+  "type": "token",
+  "name": "Pendle",
+  "symbol": "PENDLE",
+  "address": "0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8",
+  "decimals": 18,
+  "logo": "pendle.svg",
+  "coingecko": {
+    "id": "pendle"
+  },
+  "coinmarketcap": {
+    "id": 9481,
+    "slug": "pendle"
+  }
+}
