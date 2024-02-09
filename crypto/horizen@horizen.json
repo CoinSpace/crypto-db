@@ -8,9 +8,6 @@
   "decimals": 8,
   "logo": "horizen.png",
   "supported": false,
-  "changelly": {
-    "ticker": "zen"
-  },
   "coingecko": {
     "id": "zencash"
   },
