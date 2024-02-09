@@ -22,9 +22,5 @@
   "guardarian": {
     "ticker": "SNX",
     "network": "ETH"
-  },
-  "moonpay": {
-    "id": "b64c1c0c-3896-4192-8c84-c12eeb440a8b",
-    "code": "snx"
   }
 }
