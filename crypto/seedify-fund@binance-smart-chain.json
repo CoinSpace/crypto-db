@@ -8,9 +8,6 @@
   "address": "0x477bc8d23c634c154061869478bce96be6045d12",
   "decimals": 18,
   "logo": "seedify-fund.png",
-  "changelly": {
-    "ticker": "sfund"
-  },
   "coingecko": {
     "id": "seedify-fund",
     "platform": "binance-smart-chain"
