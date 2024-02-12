@@ -8,9 +8,6 @@
   "decimals": 18,
   "logo": "harmony.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "one"
-  },
   "coingecko": {
     "id": "harmony"
   },
