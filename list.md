@@ -1206,35 +1206,6 @@
 </ul></td>
 </tr>
 <tr>
-<td><img src="logo/leo-token.svg" width="128px" height="128px"/></td>
-<td><ul>
-<li>ID: leo-token@ethereum</li>
-<li>Name: UNUS SED LEO</li>
-<li>Symbol: LEO</li>
-<li>Platform: ethereum</li>
-</ul></td>
-<td><ul>
-<li><a href="https://etherscan.io/token/0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3">etherscan</a></li>
-<li><a href="https://www.coingecko.com/en/coins/leo-token">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/unus-sed-leo/">coinmarketcap</a></li>
-<li><a href="https://changelly.com/exchange/leo">changelly</a></li>
-<li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22LEO%22%2C%22network%22%3A%22ETH%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
-</ul></td>
-</tr>
-<tr>
-<td><img src="logo/leo-token.svg" width="128px" height="128px"/></td>
-<td><ul>
-<li>ID: leo-token@polygon</li>
-<li>Name: UNUS SED LEO</li>
-<li>Symbol: LEO</li>
-<li>Platform: polygon</li>
-</ul></td>
-<td><ul>
-<li><a href="https://www.coingecko.com/en/coins/leo-token">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/unus-sed-leo/">coinmarketcap</a></li>
-</ul></td>
-</tr>
-<tr>
 <td><img src="logo/ethereum-classic.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: ethereum-classic@ethereum-classic</li>
@@ -1265,6 +1236,35 @@
 <li><a href="https://coinmarketcap.com/currencies/ethereum-classic/">coinmarketcap</a></li>
 <li><a href="https://buy.onramper.com/?defaultCrypto=ETC_BSC&onlyCryptos=ETC_BSC">onramper</a></li>
 <li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22ETC%22%2C%22network%22%3A%22BSC%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
+</ul></td>
+</tr>
+<tr>
+<td><img src="logo/leo-token.svg" width="128px" height="128px"/></td>
+<td><ul>
+<li>ID: leo-token@ethereum</li>
+<li>Name: UNUS SED LEO</li>
+<li>Symbol: LEO</li>
+<li>Platform: ethereum</li>
+</ul></td>
+<td><ul>
+<li><a href="https://etherscan.io/token/0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3">etherscan</a></li>
+<li><a href="https://www.coingecko.com/en/coins/leo-token">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/unus-sed-leo/">coinmarketcap</a></li>
+<li><a href="https://changelly.com/exchange/leo">changelly</a></li>
+<li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22LEO%22%2C%22network%22%3A%22ETH%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
+</ul></td>
+</tr>
+<tr>
+<td><img src="logo/leo-token.svg" width="128px" height="128px"/></td>
+<td><ul>
+<li>ID: leo-token@polygon</li>
+<li>Name: UNUS SED LEO</li>
+<li>Symbol: LEO</li>
+<li>Platform: polygon</li>
+</ul></td>
+<td><ul>
+<li><a href="https://www.coingecko.com/en/coins/leo-token">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/unus-sed-leo/">coinmarketcap</a></li>
 </ul></td>
 </tr>
 <tr>
@@ -1409,7 +1409,7 @@
 </ul></td>
 </tr>
 <tr>
-<td><img src="logo/first-digital-usd.png" width="128px" height="128px"/></td>
+<td><img src="logo/first-digital-usd.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: first-digital-usd@binance-smart-chain</li>
 <li>Name: First Digital USD</li>
@@ -1424,7 +1424,7 @@
 </ul></td>
 </tr>
 <tr>
-<td><img src="logo/first-digital-usd.png" width="128px" height="128px"/></td>
+<td><img src="logo/first-digital-usd.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: first-digital-usd@ethereum</li>
 <li>Name: First Digital USD</li>
@@ -1583,23 +1583,6 @@
 </ul></td>
 </tr>
 <tr>
-<td><img src="logo/monero.svg" width="128px" height="128px"/></td>
-<td><ul>
-<li>ID: monero@monero</li>
-<li>Name: Monero</li>
-<li>Symbol: XMR</li>
-<li>Platform: monero</li>
-</ul></td>
-<td><ul>
-<li><a href="https://www.coingecko.com/en/coins/monero">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/monero/">coinmarketcap</a></li>
-<li><a href="https://changelly.com/exchange/xmr">changelly</a></li>
-<li><a href="https://buy.onramper.com/?defaultCrypto=XMR_MONERO&onlyCryptos=XMR_MONERO">onramper</a></li>
-<li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22XMR%22%2C%22network%22%3A%22XMR%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
-<li><a href="https://ramp.bitnovo.com/?defaultCrypto=XMR&onlyCryptos=XMR">bitnovo</a></li>
-</ul></td>
-</tr>
-<tr>
 <td><img src="logo/vechain.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: vechain@vechain</li>
@@ -1631,18 +1614,20 @@
 </ul></td>
 </tr>
 <tr>
-<td><img src="logo/mantle.svg" width="128px" height="128px"/></td>
+<td><img src="logo/monero.svg" width="128px" height="128px"/></td>
 <td><ul>
-<li>ID: mantle@ethereum</li>
-<li>Name: Mantle</li>
-<li>Symbol: MNT</li>
-<li>Platform: ethereum</li>
+<li>ID: monero@monero</li>
+<li>Name: Monero</li>
+<li>Symbol: XMR</li>
+<li>Platform: monero</li>
 </ul></td>
 <td><ul>
-<li><a href="https://etherscan.io/token/0x3c3a81e81dc49a522a592e7622a7e711c06bf354">etherscan</a></li>
-<li><a href="https://www.coingecko.com/en/coins/mantle">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/mantle/">coinmarketcap</a></li>
-<li><a href="https://changelly.com/exchange/mnt">changelly</a></li>
+<li><a href="https://www.coingecko.com/en/coins/monero">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/monero/">coinmarketcap</a></li>
+<li><a href="https://changelly.com/exchange/xmr">changelly</a></li>
+<li><a href="https://buy.onramper.com/?defaultCrypto=XMR_MONERO&onlyCryptos=XMR_MONERO">onramper</a></li>
+<li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22XMR%22%2C%22network%22%3A%22XMR%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
+<li><a href="https://ramp.bitnovo.com/?defaultCrypto=XMR&onlyCryptos=XMR">bitnovo</a></li>
 </ul></td>
 </tr>
 <tr>
@@ -1684,6 +1669,21 @@
 <td><ul>
 <li><a href="https://www.coingecko.com/en/coins/crypto-com-chain">coingecko</a></li>
 <li><a href="https://coinmarketcap.com/currencies/cronos/">coinmarketcap</a></li>
+</ul></td>
+</tr>
+<tr>
+<td><img src="logo/mantle.svg" width="128px" height="128px"/></td>
+<td><ul>
+<li>ID: mantle@ethereum</li>
+<li>Name: Mantle</li>
+<li>Symbol: MNT</li>
+<li>Platform: ethereum</li>
+</ul></td>
+<td><ul>
+<li><a href="https://etherscan.io/token/0x3c3a81e81dc49a522a592e7622a7e711c06bf354">etherscan</a></li>
+<li><a href="https://www.coingecko.com/en/coins/mantle">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/mantle/">coinmarketcap</a></li>
+<li><a href="https://changelly.com/exchange/mnt">changelly</a></li>
 </ul></td>
 </tr>
 <tr>
@@ -2314,52 +2314,6 @@
 </ul></td>
 </tr>
 <tr>
-<td><img src="logo/axie-infinity.svg" width="128px" height="128px"/></td>
-<td><ul>
-<li>ID: axie-infinity@binance-smart-chain</li>
-<li>Name: Axie Infinity</li>
-<li>Symbol: AXS</li>
-<li>Platform: binance-smart-chain</li>
-</ul></td>
-<td><ul>
-<li><a href="https://bscscan.com/token/0x715d400f88c167884bbcc41c5fea407ed4d2f8a0">bscscan</a></li>
-<li><a href="https://www.coingecko.com/en/coins/axie-infinity">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/axie-infinity/">coinmarketcap</a></li>
-<li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22AXS%22%2C%22network%22%3A%22BSC%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
-</ul></td>
-</tr>
-<tr>
-<td><img src="logo/axie-infinity.svg" width="128px" height="128px"/></td>
-<td><ul>
-<li>ID: axie-infinity@ethereum</li>
-<li>Name: Axie Infinity</li>
-<li>Symbol: AXS</li>
-<li>Platform: ethereum</li>
-</ul></td>
-<td><ul>
-<li><a href="https://etherscan.io/token/0xbb0e17ef65f82ab018d8edd776e8dd940327b28b">etherscan</a></li>
-<li><a href="https://www.coingecko.com/en/coins/axie-infinity">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/axie-infinity/">coinmarketcap</a></li>
-<li><a href="https://changelly.com/exchange/axs">changelly</a></li>
-<li><a href="https://buy.moonpay.io/?defaultCurrencyCode=axs">moonpay</a></li>
-<li><a href="https://buy.onramper.com/?defaultCrypto=AXS_ETHEREUM&onlyCryptos=AXS_ETHEREUM">onramper</a></li>
-<li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22AXS%22%2C%22network%22%3A%22ETH%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
-</ul></td>
-</tr>
-<tr>
-<td><img src="logo/axie-infinity.svg" width="128px" height="128px"/></td>
-<td><ul>
-<li>ID: axie-infinity@solana</li>
-<li>Name: Axie Infinity</li>
-<li>Symbol: AXS</li>
-<li>Platform: solana</li>
-</ul></td>
-<td><ul>
-<li><a href="https://www.coingecko.com/en/coins/axie-infinity">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/axie-infinity/">coinmarketcap</a></li>
-</ul></td>
-</tr>
-<tr>
 <td><img src="logo/the-sandbox.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: the-sandbox@ethereum</li>
@@ -2403,6 +2357,52 @@
 <td><ul>
 <li><a href="https://www.coingecko.com/en/coins/the-sandbox">coingecko</a></li>
 <li><a href="https://coinmarketcap.com/currencies/the-sandbox/">coinmarketcap</a></li>
+</ul></td>
+</tr>
+<tr>
+<td><img src="logo/axie-infinity.svg" width="128px" height="128px"/></td>
+<td><ul>
+<li>ID: axie-infinity@binance-smart-chain</li>
+<li>Name: Axie Infinity</li>
+<li>Symbol: AXS</li>
+<li>Platform: binance-smart-chain</li>
+</ul></td>
+<td><ul>
+<li><a href="https://bscscan.com/token/0x715d400f88c167884bbcc41c5fea407ed4d2f8a0">bscscan</a></li>
+<li><a href="https://www.coingecko.com/en/coins/axie-infinity">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/axie-infinity/">coinmarketcap</a></li>
+<li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22AXS%22%2C%22network%22%3A%22BSC%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
+</ul></td>
+</tr>
+<tr>
+<td><img src="logo/axie-infinity.svg" width="128px" height="128px"/></td>
+<td><ul>
+<li>ID: axie-infinity@ethereum</li>
+<li>Name: Axie Infinity</li>
+<li>Symbol: AXS</li>
+<li>Platform: ethereum</li>
+</ul></td>
+<td><ul>
+<li><a href="https://etherscan.io/token/0xbb0e17ef65f82ab018d8edd776e8dd940327b28b">etherscan</a></li>
+<li><a href="https://www.coingecko.com/en/coins/axie-infinity">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/axie-infinity/">coinmarketcap</a></li>
+<li><a href="https://changelly.com/exchange/axs">changelly</a></li>
+<li><a href="https://buy.moonpay.io/?defaultCurrencyCode=axs">moonpay</a></li>
+<li><a href="https://buy.onramper.com/?defaultCrypto=AXS_ETHEREUM&onlyCryptos=AXS_ETHEREUM">onramper</a></li>
+<li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22AXS%22%2C%22network%22%3A%22ETH%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
+</ul></td>
+</tr>
+<tr>
+<td><img src="logo/axie-infinity.svg" width="128px" height="128px"/></td>
+<td><ul>
+<li>ID: axie-infinity@solana</li>
+<li>Name: Axie Infinity</li>
+<li>Symbol: AXS</li>
+<li>Platform: solana</li>
+</ul></td>
+<td><ul>
+<li><a href="https://www.coingecko.com/en/coins/axie-infinity">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/axie-infinity/">coinmarketcap</a></li>
 </ul></td>
 </tr>
 <tr>
@@ -2453,21 +2453,6 @@
 </ul></td>
 </tr>
 <tr>
-<td><img src="logo/bitget-token.svg" width="128px" height="128px"/></td>
-<td><ul>
-<li>ID: bitget-token@ethereum</li>
-<li>Name: Bitget Token</li>
-<li>Symbol: BGB</li>
-<li>Platform: ethereum</li>
-</ul></td>
-<td><ul>
-<li><a href="https://etherscan.io/token/0x19de6b897ed14a376dda0fe53a5420d2ac828a28">etherscan</a></li>
-<li><a href="https://www.coingecko.com/en/coins/bitget-token">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/bitget-token-new/">coinmarketcap</a></li>
-<li><a href="https://changelly.com/exchange/bgb">changelly</a></li>
-</ul></td>
-</tr>
-<tr>
 <td><img src="logo/dydx.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: dydx@ethereum</li>
@@ -2494,6 +2479,21 @@
 <td><ul>
 <li><a href="https://www.coingecko.com/en/coins/dydx">coingecko</a></li>
 <li><a href="https://coinmarketcap.com/currencies/dydx-ethdydx/">coinmarketcap</a></li>
+</ul></td>
+</tr>
+<tr>
+<td><img src="logo/bitget-token.svg" width="128px" height="128px"/></td>
+<td><ul>
+<li>ID: bitget-token@ethereum</li>
+<li>Name: Bitget Token</li>
+<li>Symbol: BGB</li>
+<li>Platform: ethereum</li>
+</ul></td>
+<td><ul>
+<li><a href="https://etherscan.io/token/0x19de6b897ed14a376dda0fe53a5420d2ac828a28">etherscan</a></li>
+<li><a href="https://www.coingecko.com/en/coins/bitget-token">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/bitget-token-new/">coinmarketcap</a></li>
+<li><a href="https://changelly.com/exchange/bgb">changelly</a></li>
 </ul></td>
 </tr>
 <tr>
@@ -3118,6 +3118,35 @@
 </ul></td>
 </tr>
 <tr>
+<td><img src="logo/ethereum-name-service.svg" width="128px" height="128px"/></td>
+<td><ul>
+<li>ID: ethereum-name-service@ethereum</li>
+<li>Name: Ethereum Name Service</li>
+<li>Symbol: ENS</li>
+<li>Platform: ethereum</li>
+</ul></td>
+<td><ul>
+<li><a href="https://etherscan.io/token/0xc18360217d8f7ab5e7c516566761ea12ce7f9d72">etherscan</a></li>
+<li><a href="https://www.coingecko.com/en/coins/ethereum-name-service">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/ethereum-name-service/">coinmarketcap</a></li>
+<li><a href="https://changelly.com/exchange/ens">changelly</a></li>
+<li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22ENS%22%2C%22network%22%3A%22ETH%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
+</ul></td>
+</tr>
+<tr>
+<td><img src="logo/ethereum-name-service.svg" width="128px" height="128px"/></td>
+<td><ul>
+<li>ID: ethereum-name-service@solana</li>
+<li>Name: Ethereum Name Service</li>
+<li>Symbol: ENS</li>
+<li>Platform: solana</li>
+</ul></td>
+<td><ul>
+<li><a href="https://www.coingecko.com/en/coins/ethereum-name-service">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/ethereum-name-service/">coinmarketcap</a></li>
+</ul></td>
+</tr>
+<tr>
 <td><img src="logo/frax-share.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: frax-share@arbitrum</li>
@@ -3183,35 +3212,6 @@
 <td><ul>
 <li><a href="https://www.coingecko.com/en/coins/frax-share">coingecko</a></li>
 <li><a href="https://coinmarketcap.com/currencies/frax-share/">coinmarketcap</a></li>
-</ul></td>
-</tr>
-<tr>
-<td><img src="logo/ethereum-name-service.svg" width="128px" height="128px"/></td>
-<td><ul>
-<li>ID: ethereum-name-service@ethereum</li>
-<li>Name: Ethereum Name Service</li>
-<li>Symbol: ENS</li>
-<li>Platform: ethereum</li>
-</ul></td>
-<td><ul>
-<li><a href="https://etherscan.io/token/0xc18360217d8f7ab5e7c516566761ea12ce7f9d72">etherscan</a></li>
-<li><a href="https://www.coingecko.com/en/coins/ethereum-name-service">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/ethereum-name-service/">coinmarketcap</a></li>
-<li><a href="https://changelly.com/exchange/ens">changelly</a></li>
-<li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22ENS%22%2C%22network%22%3A%22ETH%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
-</ul></td>
-</tr>
-<tr>
-<td><img src="logo/ethereum-name-service.svg" width="128px" height="128px"/></td>
-<td><ul>
-<li>ID: ethereum-name-service@solana</li>
-<li>Name: Ethereum Name Service</li>
-<li>Symbol: ENS</li>
-<li>Platform: solana</li>
-</ul></td>
-<td><ul>
-<li><a href="https://www.coingecko.com/en/coins/ethereum-name-service">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/ethereum-name-service/">coinmarketcap</a></li>
 </ul></td>
 </tr>
 <tr>
@@ -3341,6 +3341,22 @@
 </ul></td>
 </tr>
 <tr>
+<td><img src="logo/rocket-pool.png" width="128px" height="128px"/></td>
+<td><ul>
+<li>ID: rocket-pool@ethereum</li>
+<li>Name: Rocket Pool</li>
+<li>Symbol: RPL</li>
+<li>Platform: ethereum</li>
+</ul></td>
+<td><ul>
+<li><a href="https://etherscan.io/token/0xd33526068d116ce69f19a9ee46f0bd304f21a51f">etherscan</a></li>
+<li><a href="https://www.coingecko.com/en/coins/rocket-pool">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/rocket-pool/">coinmarketcap</a></li>
+<li><a href="https://changelly.com/exchange/rpl">changelly</a></li>
+<li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22RPL%22%2C%22network%22%3A%22ETH%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
+</ul></td>
+</tr>
+<tr>
 <td><img src="logo/pancakeswap.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: pancakeswap@arbitrum</li>
@@ -3381,22 +3397,6 @@
 <li><a href="https://etherscan.io/token/0x152649ea73beab28c5b49b26eb48f7ead6d4c898">etherscan</a></li>
 <li><a href="https://www.coingecko.com/en/coins/pancakeswap-token">coingecko</a></li>
 <li><a href="https://coinmarketcap.com/currencies/pancakeswap/">coinmarketcap</a></li>
-</ul></td>
-</tr>
-<tr>
-<td><img src="logo/rocket-pool.png" width="128px" height="128px"/></td>
-<td><ul>
-<li>ID: rocket-pool@ethereum</li>
-<li>Name: Rocket Pool</li>
-<li>Symbol: RPL</li>
-<li>Platform: ethereum</li>
-</ul></td>
-<td><ul>
-<li><a href="https://etherscan.io/token/0xd33526068d116ce69f19a9ee46f0bd304f21a51f">etherscan</a></li>
-<li><a href="https://www.coingecko.com/en/coins/rocket-pool">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/rocket-pool/">coinmarketcap</a></li>
-<li><a href="https://changelly.com/exchange/rpl">changelly</a></li>
-<li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22RPL%22%2C%22network%22%3A%22ETH%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
 </ul></td>
 </tr>
 <tr>
@@ -3502,36 +3502,6 @@
 </ul></td>
 </tr>
 <tr>
-<td><img src="logo/apecoin.svg" width="128px" height="128px"/></td>
-<td><ul>
-<li>ID: apecoin@ethereum</li>
-<li>Name: ApeCoin</li>
-<li>Symbol: APE</li>
-<li>Platform: ethereum</li>
-</ul></td>
-<td><ul>
-<li><a href="https://etherscan.io/token/0x4d224452801aced8b2f0aebe155379bb5d594381">etherscan</a></li>
-<li><a href="https://www.coingecko.com/en/coins/apecoin">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/apecoin-ape/">coinmarketcap</a></li>
-<li><a href="https://changelly.com/exchange/ape">changelly</a></li>
-<li><a href="https://buy.moonpay.io/?defaultCurrencyCode=ape">moonpay</a></li>
-<li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22APE%22%2C%22network%22%3A%22ETH%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
-</ul></td>
-</tr>
-<tr>
-<td><img src="logo/apecoin.svg" width="128px" height="128px"/></td>
-<td><ul>
-<li>ID: apecoin@polygon</li>
-<li>Name: ApeCoin</li>
-<li>Symbol: APE</li>
-<li>Platform: polygon</li>
-</ul></td>
-<td><ul>
-<li><a href="https://www.coingecko.com/en/coins/apecoin">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/apecoin-ape/">coinmarketcap</a></li>
-</ul></td>
-</tr>
-<tr>
 <td><img src="logo/nexo.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: nexo@ethereum</li>
@@ -3559,6 +3529,36 @@
 <li><a href="https://www.coingecko.com/en/coins/nexo">coingecko</a></li>
 <li><a href="https://coinmarketcap.com/currencies/nexo/">coinmarketcap</a></li>
 <li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22NEXO%22%2C%22network%22%3A%22MATIC%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
+</ul></td>
+</tr>
+<tr>
+<td><img src="logo/apecoin.svg" width="128px" height="128px"/></td>
+<td><ul>
+<li>ID: apecoin@ethereum</li>
+<li>Name: ApeCoin</li>
+<li>Symbol: APE</li>
+<li>Platform: ethereum</li>
+</ul></td>
+<td><ul>
+<li><a href="https://etherscan.io/token/0x4d224452801aced8b2f0aebe155379bb5d594381">etherscan</a></li>
+<li><a href="https://www.coingecko.com/en/coins/apecoin">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/apecoin-ape/">coinmarketcap</a></li>
+<li><a href="https://changelly.com/exchange/ape">changelly</a></li>
+<li><a href="https://buy.moonpay.io/?defaultCurrencyCode=ape">moonpay</a></li>
+<li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22APE%22%2C%22network%22%3A%22ETH%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
+</ul></td>
+</tr>
+<tr>
+<td><img src="logo/apecoin.svg" width="128px" height="128px"/></td>
+<td><ul>
+<li>ID: apecoin@polygon</li>
+<li>Name: ApeCoin</li>
+<li>Symbol: APE</li>
+<li>Platform: polygon</li>
+</ul></td>
+<td><ul>
+<li><a href="https://www.coingecko.com/en/coins/apecoin">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/apecoin-ape/">coinmarketcap</a></li>
 </ul></td>
 </tr>
 <tr>
@@ -3731,6 +3731,7 @@
 <li><a href="https://etherscan.io/token/0x9e32b13ce7f2e80a01932b42553652e053d6ed8e">etherscan</a></li>
 <li><a href="https://www.coingecko.com/en/coins/metis-token">coingecko</a></li>
 <li><a href="https://coinmarketcap.com/currencies/metisdao/">coinmarketcap</a></li>
+<li><a href="https://changelly.com/exchange/metis">changelly</a></li>
 </ul></td>
 </tr>
 <tr>
@@ -3789,23 +3790,6 @@
 <td><ul>
 <li><a href="https://www.coingecko.com/en/coins/compound-governance-token">coingecko</a></li>
 <li><a href="https://coinmarketcap.com/currencies/compound/">coinmarketcap</a></li>
-</ul></td>
-</tr>
-<tr>
-<td><img src="logo/pepe.svg" width="128px" height="128px"/></td>
-<td><ul>
-<li>ID: pepe@ethereum</li>
-<li>Name: Pepe</li>
-<li>Symbol: PEPE</li>
-<li>Platform: ethereum</li>
-</ul></td>
-<td><ul>
-<li><a href="https://etherscan.io/token/0x6982508145454ce325ddbe47a25d4ec3d2311933">etherscan</a></li>
-<li><a href="https://www.coingecko.com/en/coins/pepe">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/pepe/">coinmarketcap</a></li>
-<li><a href="https://changelly.com/exchange/pepe">changelly</a></li>
-<li><a href="https://buy.moonpay.io/?defaultCurrencyCode=pepe">moonpay</a></li>
-<li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22PEPE%22%2C%22network%22%3A%22ETH%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
 </ul></td>
 </tr>
 <tr>
@@ -3868,6 +3852,23 @@
 </ul></td>
 </tr>
 <tr>
+<td><img src="logo/pepe.svg" width="128px" height="128px"/></td>
+<td><ul>
+<li>ID: pepe@ethereum</li>
+<li>Name: Pepe</li>
+<li>Symbol: PEPE</li>
+<li>Platform: ethereum</li>
+</ul></td>
+<td><ul>
+<li><a href="https://etherscan.io/token/0x6982508145454ce325ddbe47a25d4ec3d2311933">etherscan</a></li>
+<li><a href="https://www.coingecko.com/en/coins/pepe">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/pepe/">coinmarketcap</a></li>
+<li><a href="https://changelly.com/exchange/pepe">changelly</a></li>
+<li><a href="https://buy.moonpay.io/?defaultCurrencyCode=pepe">moonpay</a></li>
+<li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22PEPE%22%2C%22network%22%3A%22ETH%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
+</ul></td>
+</tr>
+<tr>
 <td><img src="logo/gatetoken.png" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: gatetoken@ethereum</li>
@@ -3909,21 +3910,6 @@
 <li><a href="https://coinmarketcap.com/currencies/bitcoin-gold/">coinmarketcap</a></li>
 <li><a href="https://changelly.com/exchange/btg">changelly</a></li>
 <li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22BTG%22%2C%22network%22%3A%22BTG%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
-</ul></td>
-</tr>
-<tr>
-<td><img src="logo/skale.png" width="128px" height="128px"/></td>
-<td><ul>
-<li>ID: skale@ethereum</li>
-<li>Name: SKALE</li>
-<li>Symbol: SKL</li>
-<li>Platform: ethereum</li>
-</ul></td>
-<td><ul>
-<li><a href="https://etherscan.io/token/0x00c83aecc790e8a4453e5dd3b0b4b3680501a7a7">etherscan</a></li>
-<li><a href="https://www.coingecko.com/en/coins/skale">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/skale-network/">coinmarketcap</a></li>
-<li><a href="https://changelly.com/exchange/skl">changelly</a></li>
 </ul></td>
 </tr>
 <tr>
@@ -3970,6 +3956,21 @@
 </ul></td>
 </tr>
 <tr>
+<td><img src="logo/skale.png" width="128px" height="128px"/></td>
+<td><ul>
+<li>ID: skale@ethereum</li>
+<li>Name: SKALE</li>
+<li>Symbol: SKL</li>
+<li>Platform: ethereum</li>
+</ul></td>
+<td><ul>
+<li><a href="https://etherscan.io/token/0x00c83aecc790e8a4453e5dd3b0b4b3680501a7a7">etherscan</a></li>
+<li><a href="https://www.coingecko.com/en/coins/skale">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/skale-network/">coinmarketcap</a></li>
+<li><a href="https://changelly.com/exchange/skl">changelly</a></li>
+</ul></td>
+</tr>
+<tr>
 <td><img src="logo/enjin-coin.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: enjin-coin@ethereum</li>
@@ -3982,6 +3983,7 @@
 <li><a href="https://www.coingecko.com/en/coins/enjincoin">coingecko</a></li>
 <li><a href="https://coinmarketcap.com/currencies/enjin-coin/">coinmarketcap</a></li>
 <li><a href="https://buy.moonpay.io/?defaultCurrencyCode=enj">moonpay</a></li>
+<li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22ENJ%22%2C%22network%22%3A%22ETH%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
 </ul></td>
 </tr>
 <tr>
@@ -4127,6 +4129,20 @@
 </ul></td>
 </tr>
 <tr>
+<td><img src="logo/nervos-network.svg" width="128px" height="128px"/></td>
+<td><ul>
+<li>ID: nervos-network@nervos-ckb</li>
+<li>Name: Nervos Network</li>
+<li>Symbol: CKB</li>
+<li>Platform: nervos-ckb</li>
+</ul></td>
+<td><ul>
+<li><a href="https://www.coingecko.com/en/coins/nervos-network">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/nervos-network/">coinmarketcap</a></li>
+<li><a href="https://changelly.com/exchange/ckb">changelly</a></li>
+</ul></td>
+</tr>
+<tr>
 <td><img src="logo/gmx.png" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: gmx@arbitrum</li>
@@ -4169,20 +4185,6 @@
 <li><a href="https://changelly.com/exchange/celo">changelly</a></li>
 <li><a href="https://buy.moonpay.io/?defaultCurrencyCode=celo">moonpay</a></li>
 <li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22CELO%22%2C%22network%22%3A%22CELO%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
-</ul></td>
-</tr>
-<tr>
-<td><img src="logo/nervos-network.svg" width="128px" height="128px"/></td>
-<td><ul>
-<li>ID: nervos-network@nervos-ckb</li>
-<li>Name: Nervos Network</li>
-<li>Symbol: CKB</li>
-<li>Platform: nervos-ckb</li>
-</ul></td>
-<td><ul>
-<li><a href="https://www.coingecko.com/en/coins/nervos-network">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/nervos-network/">coinmarketcap</a></li>
-<li><a href="https://changelly.com/exchange/ckb">changelly</a></li>
 </ul></td>
 </tr>
 <tr>
@@ -4277,6 +4279,22 @@
 </ul></td>
 </tr>
 <tr>
+<td><img src="logo/holo.svg" width="128px" height="128px"/></td>
+<td><ul>
+<li>ID: holo@ethereum</li>
+<li>Name: Holo</li>
+<li>Symbol: HOT</li>
+<li>Platform: ethereum</li>
+</ul></td>
+<td><ul>
+<li><a href="https://etherscan.io/token/0x6c6ee5e31d828de241282b9606c8e98ea48526e2">etherscan</a></li>
+<li><a href="https://www.coingecko.com/en/coins/holotoken">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/holo/">coinmarketcap</a></li>
+<li><a href="https://changelly.com/exchange/hot">changelly</a></li>
+<li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22HOT%22%2C%22network%22%3A%22ETH%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
+</ul></td>
+</tr>
+<tr>
 <td><img src="logo/basic-attention-token.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: basic-attention-token@avalanche-c-chain</li>
@@ -4332,22 +4350,6 @@
 <td><ul>
 <li><a href="https://www.coingecko.com/en/coins/basic-attention-token">coingecko</a></li>
 <li><a href="https://coinmarketcap.com/currencies/basic-attention-token/">coinmarketcap</a></li>
-</ul></td>
-</tr>
-<tr>
-<td><img src="logo/holo.svg" width="128px" height="128px"/></td>
-<td><ul>
-<li>ID: holo@ethereum</li>
-<li>Name: Holo</li>
-<li>Symbol: HOT</li>
-<li>Platform: ethereum</li>
-</ul></td>
-<td><ul>
-<li><a href="https://etherscan.io/token/0x6c6ee5e31d828de241282b9606c8e98ea48526e2">etherscan</a></li>
-<li><a href="https://www.coingecko.com/en/coins/holotoken">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/holo/">coinmarketcap</a></li>
-<li><a href="https://changelly.com/exchange/hot">changelly</a></li>
-<li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22HOT%22%2C%22network%22%3A%22ETH%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
 </ul></td>
 </tr>
 <tr>
@@ -4485,39 +4487,6 @@
 </ul></td>
 </tr>
 <tr>
-<td><img src="logo/dash.svg" width="128px" height="128px"/></td>
-<td><ul>
-<li>ID: dash@dash</li>
-<li>Name: Dash</li>
-<li>Symbol: DASH</li>
-<li>Platform: dash</li>
-</ul></td>
-<td><ul>
-<li><a href="https://www.coingecko.com/en/coins/dash">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/dash/">coinmarketcap</a></li>
-<li><a href="https://changelly.com/exchange/dash">changelly</a></li>
-<li><a href="https://buy.onramper.com/?defaultCrypto=DASH_DASH&onlyCryptos=DASH_DASH">onramper</a></li>
-<li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22DASH%22%2C%22network%22%3A%22DASH%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
-<li><a href="https://ramp.bitnovo.com/?defaultCrypto=DASH&onlyCryptos=DASH">bitnovo</a></li>
-</ul></td>
-</tr>
-<tr>
-<td><img src="logo/nem.svg" width="128px" height="128px"/></td>
-<td><ul>
-<li>ID: nem@nem</li>
-<li>Name: NEM</li>
-<li>Symbol: XEM</li>
-<li>Platform: nem</li>
-</ul></td>
-<td><ul>
-<li><a href="https://www.coingecko.com/en/coins/nem">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/nem/">coinmarketcap</a></li>
-<li><a href="https://changelly.com/exchange/xem">changelly</a></li>
-<li><a href="https://buy.moonpay.io/?defaultCurrencyCode=xem">moonpay</a></li>
-<li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22XEM%22%2C%22network%22%3A%22XEM%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
-</ul></td>
-</tr>
-<tr>
 <td><img src="logo/loopring.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: loopring@ethereum</li>
@@ -4544,6 +4513,39 @@
 <td><ul>
 <li><a href="https://www.coingecko.com/en/coins/loopring">coingecko</a></li>
 <li><a href="https://coinmarketcap.com/currencies/loopring/">coinmarketcap</a></li>
+</ul></td>
+</tr>
+<tr>
+<td><img src="logo/nem.svg" width="128px" height="128px"/></td>
+<td><ul>
+<li>ID: nem@nem</li>
+<li>Name: NEM</li>
+<li>Symbol: XEM</li>
+<li>Platform: nem</li>
+</ul></td>
+<td><ul>
+<li><a href="https://www.coingecko.com/en/coins/nem">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/nem/">coinmarketcap</a></li>
+<li><a href="https://changelly.com/exchange/xem">changelly</a></li>
+<li><a href="https://buy.moonpay.io/?defaultCurrencyCode=xem">moonpay</a></li>
+<li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22XEM%22%2C%22network%22%3A%22XEM%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
+</ul></td>
+</tr>
+<tr>
+<td><img src="logo/dash.svg" width="128px" height="128px"/></td>
+<td><ul>
+<li>ID: dash@dash</li>
+<li>Name: Dash</li>
+<li>Symbol: DASH</li>
+<li>Platform: dash</li>
+</ul></td>
+<td><ul>
+<li><a href="https://www.coingecko.com/en/coins/dash">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/dash/">coinmarketcap</a></li>
+<li><a href="https://changelly.com/exchange/dash">changelly</a></li>
+<li><a href="https://buy.onramper.com/?defaultCrypto=DASH_DASH&onlyCryptos=DASH_DASH">onramper</a></li>
+<li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22DASH%22%2C%22network%22%3A%22DASH%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
+<li><a href="https://ramp.bitnovo.com/?defaultCrypto=DASH&onlyCryptos=DASH">bitnovo</a></li>
 </ul></td>
 </tr>
 <tr>
@@ -4592,21 +4594,6 @@
 </ul></td>
 </tr>
 <tr>
-<td><img src="logo/api3.svg" width="128px" height="128px"/></td>
-<td><ul>
-<li>ID: api3@ethereum</li>
-<li>Name: API3</li>
-<li>Symbol: API3</li>
-<li>Platform: ethereum</li>
-</ul></td>
-<td><ul>
-<li><a href="https://etherscan.io/token/0x0b38210ea11411557c13457d4da7dc6ea731b88a">etherscan</a></li>
-<li><a href="https://www.coingecko.com/en/coins/api3">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/api3/">coinmarketcap</a></li>
-<li><a href="https://changelly.com/exchange/api3">changelly</a></li>
-</ul></td>
-</tr>
-<tr>
 <td><img src="logo/ssv-network.png" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: ssv-network@ethereum</li>
@@ -4620,6 +4607,21 @@
 <li><a href="https://coinmarketcap.com/currencies/ssv-network/">coinmarketcap</a></li>
 <li><a href="https://changelly.com/exchange/ssv">changelly</a></li>
 <li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22SSV%22%2C%22network%22%3A%22ETH%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
+</ul></td>
+</tr>
+<tr>
+<td><img src="logo/api3.svg" width="128px" height="128px"/></td>
+<td><ul>
+<li>ID: api3@ethereum</li>
+<li>Name: API3</li>
+<li>Symbol: API3</li>
+<li>Platform: ethereum</li>
+</ul></td>
+<td><ul>
+<li><a href="https://etherscan.io/token/0x0b38210ea11411557c13457d4da7dc6ea731b88a">etherscan</a></li>
+<li><a href="https://www.coingecko.com/en/coins/api3">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/api3/">coinmarketcap</a></li>
+<li><a href="https://changelly.com/exchange/api3">changelly</a></li>
 </ul></td>
 </tr>
 <tr>
@@ -4788,6 +4790,64 @@
 </ul></td>
 </tr>
 <tr>
+<td><img src="logo/theta-fuel.svg" width="128px" height="128px"/></td>
+<td><ul>
+<li>ID: theta-fuel@theta</li>
+<li>Name: Theta Fuel</li>
+<li>Symbol: TFUEL</li>
+<li>Platform: theta</li>
+</ul></td>
+<td><ul>
+<li><a href="https://www.coingecko.com/en/coins/theta-fuel">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/theta-fuel/">coinmarketcap</a></li>
+<li><a href="https://changelly.com/exchange/tfuel">changelly</a></li>
+<li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22TFUEL%22%2C%22network%22%3A%22THETA%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
+</ul></td>
+</tr>
+<tr>
+<td><img src="logo/0x.svg" width="128px" height="128px"/></td>
+<td><ul>
+<li>ID: 0x@avalanche-c-chain</li>
+<li>Name: 0x Protocol</li>
+<li>Symbol: ZRX</li>
+<li>Platform: avalanche-c-chain</li>
+</ul></td>
+<td><ul>
+<li><a href="https://www.coingecko.com/en/coins/0x">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/0x/">coinmarketcap</a></li>
+</ul></td>
+</tr>
+<tr>
+<td><img src="logo/0x.svg" width="128px" height="128px"/></td>
+<td><ul>
+<li>ID: 0x@ethereum</li>
+<li>Name: 0x Protocol</li>
+<li>Symbol: ZRX</li>
+<li>Platform: ethereum</li>
+</ul></td>
+<td><ul>
+<li><a href="https://etherscan.io/token/0xe41d2489571d322189246dafa5ebde1f4699f498">etherscan</a></li>
+<li><a href="https://www.coingecko.com/en/coins/0x">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/0x/">coinmarketcap</a></li>
+<li><a href="https://changelly.com/exchange/zrx">changelly</a></li>
+<li><a href="https://buy.moonpay.io/?defaultCurrencyCode=zrx">moonpay</a></li>
+<li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22ZRX%22%2C%22network%22%3A%22ETH%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
+</ul></td>
+</tr>
+<tr>
+<td><img src="logo/0x.svg" width="128px" height="128px"/></td>
+<td><ul>
+<li>ID: 0x@solana</li>
+<li>Name: 0x Protocol</li>
+<li>Symbol: ZRX</li>
+<li>Platform: solana</li>
+</ul></td>
+<td><ul>
+<li><a href="https://www.coingecko.com/en/coins/0x">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/0x/">coinmarketcap</a></li>
+</ul></td>
+</tr>
+<tr>
 <td><img src="logo/sushi.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: sushi@arbitrum</li>
@@ -4870,64 +4930,6 @@
 <td><ul>
 <li><a href="https://www.coingecko.com/en/coins/sushi">coingecko</a></li>
 <li><a href="https://coinmarketcap.com/currencies/sushiswap/">coinmarketcap</a></li>
-</ul></td>
-</tr>
-<tr>
-<td><img src="logo/theta-fuel.svg" width="128px" height="128px"/></td>
-<td><ul>
-<li>ID: theta-fuel@theta</li>
-<li>Name: Theta Fuel</li>
-<li>Symbol: TFUEL</li>
-<li>Platform: theta</li>
-</ul></td>
-<td><ul>
-<li><a href="https://www.coingecko.com/en/coins/theta-fuel">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/theta-fuel/">coinmarketcap</a></li>
-<li><a href="https://changelly.com/exchange/tfuel">changelly</a></li>
-<li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22TFUEL%22%2C%22network%22%3A%22THETA%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
-</ul></td>
-</tr>
-<tr>
-<td><img src="logo/0x.svg" width="128px" height="128px"/></td>
-<td><ul>
-<li>ID: 0x@avalanche-c-chain</li>
-<li>Name: 0x Protocol</li>
-<li>Symbol: ZRX</li>
-<li>Platform: avalanche-c-chain</li>
-</ul></td>
-<td><ul>
-<li><a href="https://www.coingecko.com/en/coins/0x">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/0x/">coinmarketcap</a></li>
-</ul></td>
-</tr>
-<tr>
-<td><img src="logo/0x.svg" width="128px" height="128px"/></td>
-<td><ul>
-<li>ID: 0x@ethereum</li>
-<li>Name: 0x Protocol</li>
-<li>Symbol: ZRX</li>
-<li>Platform: ethereum</li>
-</ul></td>
-<td><ul>
-<li><a href="https://etherscan.io/token/0xe41d2489571d322189246dafa5ebde1f4699f498">etherscan</a></li>
-<li><a href="https://www.coingecko.com/en/coins/0x">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/0x/">coinmarketcap</a></li>
-<li><a href="https://changelly.com/exchange/zrx">changelly</a></li>
-<li><a href="https://buy.moonpay.io/?defaultCurrencyCode=zrx">moonpay</a></li>
-<li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22ZRX%22%2C%22network%22%3A%22ETH%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
-</ul></td>
-</tr>
-<tr>
-<td><img src="logo/0x.svg" width="128px" height="128px"/></td>
-<td><ul>
-<li>ID: 0x@solana</li>
-<li>Name: 0x Protocol</li>
-<li>Symbol: ZRX</li>
-<li>Platform: solana</li>
-</ul></td>
-<td><ul>
-<li><a href="https://www.coingecko.com/en/coins/0x">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/0x/">coinmarketcap</a></li>
 </ul></td>
 </tr>
 <tr>
@@ -5319,86 +5321,6 @@
 </ul></td>
 </tr>
 <tr>
-<td><img src="logo/terrausd.png" width="128px" height="128px"/></td>
-<td><ul>
-<li>ID: terrausd@avalanche-c-chain</li>
-<li>Name: TerraClassicUSD</li>
-<li>Symbol: USTC</li>
-<li>Platform: avalanche-c-chain</li>
-</ul></td>
-<td><ul>
-<li><a href="https://www.coingecko.com/en/coins/terrausd">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/terrausd/">coinmarketcap</a></li>
-</ul></td>
-</tr>
-<tr>
-<td><img src="logo/terrausd.png" width="128px" height="128px"/></td>
-<td><ul>
-<li>ID: terrausd@binance-smart-chain</li>
-<li>Name: TerraClassicUSD</li>
-<li>Symbol: USTC</li>
-<li>Platform: binance-smart-chain</li>
-</ul></td>
-<td><ul>
-<li><a href="https://bscscan.com/token/0x23396cf899ca06c4472205fc903bdb4de249d6fc">bscscan</a></li>
-<li><a href="https://www.coingecko.com/en/coins/terrausd">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/terrausd/">coinmarketcap</a></li>
-</ul></td>
-</tr>
-<tr>
-<td><img src="logo/terrausd.png" width="128px" height="128px"/></td>
-<td><ul>
-<li>ID: terrausd@ethereum</li>
-<li>Name: TerraClassicUSD</li>
-<li>Symbol: USTC</li>
-<li>Platform: ethereum</li>
-</ul></td>
-<td><ul>
-<li><a href="https://etherscan.io/token/0xa47c8bf37f92abed4a126bda807a7b7498661acd">etherscan</a></li>
-<li><a href="https://www.coingecko.com/en/coins/terrausd">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/terrausd/">coinmarketcap</a></li>
-</ul></td>
-</tr>
-<tr>
-<td><img src="logo/terrausd.png" width="128px" height="128px"/></td>
-<td><ul>
-<li>ID: terrausd@polygon</li>
-<li>Name: TerraClassicUSD</li>
-<li>Symbol: USTC</li>
-<li>Platform: polygon</li>
-</ul></td>
-<td><ul>
-<li><a href="https://www.coingecko.com/en/coins/terrausd">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/terrausd/">coinmarketcap</a></li>
-</ul></td>
-</tr>
-<tr>
-<td><img src="logo/terrausd.png" width="128px" height="128px"/></td>
-<td><ul>
-<li>ID: terrausd@solana</li>
-<li>Name: TerraClassicUSD</li>
-<li>Symbol: USTC</li>
-<li>Platform: solana</li>
-</ul></td>
-<td><ul>
-<li><a href="https://www.coingecko.com/en/coins/terrausd">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/terrausd/">coinmarketcap</a></li>
-</ul></td>
-</tr>
-<tr>
-<td><img src="logo/terrausd.png" width="128px" height="128px"/></td>
-<td><ul>
-<li>ID: terrausd@terra</li>
-<li>Name: TerraClassicUSD</li>
-<li>Symbol: USTC</li>
-<li>Platform: terra</li>
-</ul></td>
-<td><ul>
-<li><a href="https://www.coingecko.com/en/coins/terrausd">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/terrausd/">coinmarketcap</a></li>
-</ul></td>
-</tr>
-<tr>
 <td><img src="logo/lido-staked-ether.png" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: lido-staked-ether@ethereum</li>
@@ -5573,6 +5495,86 @@
 </ul></td>
 </tr>
 <tr>
+<td><img src="logo/terrausd.png" width="128px" height="128px"/></td>
+<td><ul>
+<li>ID: terrausd@avalanche-c-chain</li>
+<li>Name: TerraClassicUSD</li>
+<li>Symbol: USTC</li>
+<li>Platform: avalanche-c-chain</li>
+</ul></td>
+<td><ul>
+<li><a href="https://www.coingecko.com/en/coins/terrausd">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/terrausd/">coinmarketcap</a></li>
+</ul></td>
+</tr>
+<tr>
+<td><img src="logo/terrausd.png" width="128px" height="128px"/></td>
+<td><ul>
+<li>ID: terrausd@binance-smart-chain</li>
+<li>Name: TerraClassicUSD</li>
+<li>Symbol: USTC</li>
+<li>Platform: binance-smart-chain</li>
+</ul></td>
+<td><ul>
+<li><a href="https://bscscan.com/token/0x23396cf899ca06c4472205fc903bdb4de249d6fc">bscscan</a></li>
+<li><a href="https://www.coingecko.com/en/coins/terrausd">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/terrausd/">coinmarketcap</a></li>
+</ul></td>
+</tr>
+<tr>
+<td><img src="logo/terrausd.png" width="128px" height="128px"/></td>
+<td><ul>
+<li>ID: terrausd@ethereum</li>
+<li>Name: TerraClassicUSD</li>
+<li>Symbol: USTC</li>
+<li>Platform: ethereum</li>
+</ul></td>
+<td><ul>
+<li><a href="https://etherscan.io/token/0xa47c8bf37f92abed4a126bda807a7b7498661acd">etherscan</a></li>
+<li><a href="https://www.coingecko.com/en/coins/terrausd">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/terrausd/">coinmarketcap</a></li>
+</ul></td>
+</tr>
+<tr>
+<td><img src="logo/terrausd.png" width="128px" height="128px"/></td>
+<td><ul>
+<li>ID: terrausd@polygon</li>
+<li>Name: TerraClassicUSD</li>
+<li>Symbol: USTC</li>
+<li>Platform: polygon</li>
+</ul></td>
+<td><ul>
+<li><a href="https://www.coingecko.com/en/coins/terrausd">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/terrausd/">coinmarketcap</a></li>
+</ul></td>
+</tr>
+<tr>
+<td><img src="logo/terrausd.png" width="128px" height="128px"/></td>
+<td><ul>
+<li>ID: terrausd@solana</li>
+<li>Name: TerraClassicUSD</li>
+<li>Symbol: USTC</li>
+<li>Platform: solana</li>
+</ul></td>
+<td><ul>
+<li><a href="https://www.coingecko.com/en/coins/terrausd">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/terrausd/">coinmarketcap</a></li>
+</ul></td>
+</tr>
+<tr>
+<td><img src="logo/terrausd.png" width="128px" height="128px"/></td>
+<td><ul>
+<li>ID: terrausd@terra</li>
+<li>Name: TerraClassicUSD</li>
+<li>Symbol: USTC</li>
+<li>Platform: terra</li>
+</ul></td>
+<td><ul>
+<li><a href="https://www.coingecko.com/en/coins/terrausd">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/terrausd/">coinmarketcap</a></li>
+</ul></td>
+</tr>
+<tr>
 <td><img src="logo/audius.png" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: audius@ethereum</li>
@@ -5644,20 +5646,6 @@
 <td><ul>
 <li><a href="https://www.coingecko.com/en/coins/mantra-dao">coingecko</a></li>
 <li><a href="https://coinmarketcap.com/currencies/mantra/">coinmarketcap</a></li>
-</ul></td>
-</tr>
-<tr>
-<td><img src="logo/huobi-token.svg" width="128px" height="128px"/></td>
-<td><ul>
-<li>ID: huobi-token@ethereum</li>
-<li>Name: Huobi Token</li>
-<li>Symbol: HT</li>
-<li>Platform: ethereum</li>
-</ul></td>
-<td><ul>
-<li><a href="https://etherscan.io/token/0x6f259637dcd74c767781e37bc6133cd6a68aa161">etherscan</a></li>
-<li><a href="https://www.coingecko.com/en/coins/huobi-token">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/htx-token/">coinmarketcap</a></li>
 </ul></td>
 </tr>
 <tr>
@@ -5773,6 +5761,20 @@
 <td><ul>
 <li><a href="https://www.coingecko.com/en/coins/ontology">coingecko</a></li>
 <li><a href="https://coinmarketcap.com/currencies/ontology/">coinmarketcap</a></li>
+</ul></td>
+</tr>
+<tr>
+<td><img src="logo/huobi-token.svg" width="128px" height="128px"/></td>
+<td><ul>
+<li>ID: huobi-token@ethereum</li>
+<li>Name: Huobi Token</li>
+<li>Symbol: HT</li>
+<li>Platform: ethereum</li>
+</ul></td>
+<td><ul>
+<li><a href="https://etherscan.io/token/0x6f259637dcd74c767781e37bc6133cd6a68aa161">etherscan</a></li>
+<li><a href="https://www.coingecko.com/en/coins/huobi-token">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/htx-token/">coinmarketcap</a></li>
 </ul></td>
 </tr>
 <tr>
@@ -6020,7 +6022,20 @@
 </ul></td>
 </tr>
 <tr>
-<td><img src="logo/marlin.png" width="128px" height="128px"/></td>
+<td><img src="logo/marlin.svg" width="128px" height="128px"/></td>
+<td><ul>
+<li>ID: marlin@arbitrum</li>
+<li>Name: Marlin</li>
+<li>Symbol: POND</li>
+<li>Platform: arbitrum</li>
+</ul></td>
+<td><ul>
+<li><a href="https://www.coingecko.com/en/coins/marlin">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/marlin/">coinmarketcap</a></li>
+</ul></td>
+</tr>
+<tr>
+<td><img src="logo/marlin.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: marlin@ethereum</li>
 <li>Name: Marlin</li>
@@ -6244,34 +6259,33 @@
 </ul></td>
 </tr>
 <tr>
-<td><img src="logo/numeraire.svg" width="128px" height="128px"/></td>
+<td><img src="logo/dao-maker.png" width="128px" height="128px"/></td>
 <td><ul>
-<li>ID: numeraire@ethereum</li>
-<li>Name: Numeraire</li>
-<li>Symbol: NMR</li>
-<li>Platform: ethereum</li>
+<li>ID: dao-maker@binance-smart-chain</li>
+<li>Name: DAO Maker</li>
+<li>Symbol: DAO</li>
+<li>Platform: binance-smart-chain</li>
 </ul></td>
 <td><ul>
-<li><a href="https://etherscan.io/token/0x1776e1f26f98b1a5df9cd347953a26dd3cb46671">etherscan</a></li>
-<li><a href="https://www.coingecko.com/en/coins/numeraire">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/numeraire/">coinmarketcap</a></li>
-<li><a href="https://changelly.com/exchange/nmr">changelly</a></li>
-<li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22NMR%22%2C%22network%22%3A%22ETH%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
+<li><a href="https://bscscan.com/token/0x4d2d32d8652058bf98c772953e1df5c5c85d9f45">bscscan</a></li>
+<li><a href="https://www.coingecko.com/en/coins/dao-maker">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/dao-maker/">coinmarketcap</a></li>
 </ul></td>
 </tr>
 <tr>
-<td><img src="logo/ark.svg" width="128px" height="128px"/></td>
+<td><img src="logo/dao-maker.png" width="128px" height="128px"/></td>
 <td><ul>
-<li>ID: ark@ark</li>
-<li>Name: Ark</li>
-<li>Symbol: ARK</li>
-<li>Platform: ark</li>
+<li>ID: dao-maker@ethereum</li>
+<li>Name: DAO Maker</li>
+<li>Symbol: DAO</li>
+<li>Platform: ethereum</li>
 </ul></td>
 <td><ul>
-<li><a href="https://www.coingecko.com/en/coins/ark">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/ark/">coinmarketcap</a></li>
-<li><a href="https://changelly.com/exchange/ark">changelly</a></li>
-<li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22ARK%22%2C%22network%22%3A%22ARK%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
+<li><a href="https://etherscan.io/token/0x0f51bb10119727a7e5ea3538074fb341f56b09ad">etherscan</a></li>
+<li><a href="https://www.coingecko.com/en/coins/dao-maker">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/dao-maker/">coinmarketcap</a></li>
+<li><a href="https://changelly.com/exchange/dao">changelly</a></li>
+<li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22DAO%22%2C%22network%22%3A%22ETH%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
 </ul></td>
 </tr>
 <tr>
@@ -6304,6 +6318,51 @@
 </ul></td>
 </tr>
 <tr>
+<td><img src="logo/ark.svg" width="128px" height="128px"/></td>
+<td><ul>
+<li>ID: ark@ark</li>
+<li>Name: Ark</li>
+<li>Symbol: ARK</li>
+<li>Platform: ark</li>
+</ul></td>
+<td><ul>
+<li><a href="https://www.coingecko.com/en/coins/ark">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/ark/">coinmarketcap</a></li>
+<li><a href="https://changelly.com/exchange/ark">changelly</a></li>
+<li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22ARK%22%2C%22network%22%3A%22ARK%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
+</ul></td>
+</tr>
+<tr>
+<td><img src="logo/numeraire.svg" width="128px" height="128px"/></td>
+<td><ul>
+<li>ID: numeraire@ethereum</li>
+<li>Name: Numeraire</li>
+<li>Symbol: NMR</li>
+<li>Platform: ethereum</li>
+</ul></td>
+<td><ul>
+<li><a href="https://etherscan.io/token/0x1776e1f26f98b1a5df9cd347953a26dd3cb46671">etherscan</a></li>
+<li><a href="https://www.coingecko.com/en/coins/numeraire">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/numeraire/">coinmarketcap</a></li>
+<li><a href="https://changelly.com/exchange/nmr">changelly</a></li>
+<li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22NMR%22%2C%22network%22%3A%22ETH%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
+</ul></td>
+</tr>
+<tr>
+<td><img src="logo/polymath.svg" width="128px" height="128px"/></td>
+<td><ul>
+<li>ID: polymath@ethereum</li>
+<li>Name: Polymath</li>
+<li>Symbol: POLY</li>
+<li>Platform: ethereum</li>
+</ul></td>
+<td><ul>
+<li><a href="https://etherscan.io/token/0x9992ec3cf6a55b00978cddf2b27bc6882d88d1ec">etherscan</a></li>
+<li><a href="https://www.coingecko.com/en/coins/polymath">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/polymath-network/">coinmarketcap</a></li>
+</ul></td>
+</tr>
+<tr>
 <td><img src="logo/liquity-usd.png" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: liquity-usd@ethereum</li>
@@ -6316,36 +6375,6 @@
 <li><a href="https://www.coingecko.com/en/coins/liquity-usd">coingecko</a></li>
 <li><a href="https://coinmarketcap.com/currencies/liquity-usd/">coinmarketcap</a></li>
 <li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22LUSD%22%2C%22network%22%3A%22ETH%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
-</ul></td>
-</tr>
-<tr>
-<td><img src="logo/dao-maker.png" width="128px" height="128px"/></td>
-<td><ul>
-<li>ID: dao-maker@binance-smart-chain</li>
-<li>Name: DAO Maker</li>
-<li>Symbol: DAO</li>
-<li>Platform: binance-smart-chain</li>
-</ul></td>
-<td><ul>
-<li><a href="https://bscscan.com/token/0x4d2d32d8652058bf98c772953e1df5c5c85d9f45">bscscan</a></li>
-<li><a href="https://www.coingecko.com/en/coins/dao-maker">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/dao-maker/">coinmarketcap</a></li>
-</ul></td>
-</tr>
-<tr>
-<td><img src="logo/dao-maker.png" width="128px" height="128px"/></td>
-<td><ul>
-<li>ID: dao-maker@ethereum</li>
-<li>Name: DAO Maker</li>
-<li>Symbol: DAO</li>
-<li>Platform: ethereum</li>
-</ul></td>
-<td><ul>
-<li><a href="https://etherscan.io/token/0x0f51bb10119727a7e5ea3538074fb341f56b09ad">etherscan</a></li>
-<li><a href="https://www.coingecko.com/en/coins/dao-maker">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/dao-maker/">coinmarketcap</a></li>
-<li><a href="https://changelly.com/exchange/dao">changelly</a></li>
-<li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22DAO%22%2C%22network%22%3A%22ETH%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
 </ul></td>
 </tr>
 <tr>
@@ -6380,35 +6409,6 @@
 </ul></td>
 </tr>
 <tr>
-<td><img src="logo/polymath.svg" width="128px" height="128px"/></td>
-<td><ul>
-<li>ID: polymath@ethereum</li>
-<li>Name: Polymath</li>
-<li>Symbol: POLY</li>
-<li>Platform: ethereum</li>
-</ul></td>
-<td><ul>
-<li><a href="https://etherscan.io/token/0x9992ec3cf6a55b00978cddf2b27bc6882d88d1ec">etherscan</a></li>
-<li><a href="https://www.coingecko.com/en/coins/polymath">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/polymath-network/">coinmarketcap</a></li>
-</ul></td>
-</tr>
-<tr>
-<td><img src="logo/gemini-dollar.svg" width="128px" height="128px"/></td>
-<td><ul>
-<li>ID: gemini-dollar@ethereum</li>
-<li>Name: Gemini Dollar</li>
-<li>Symbol: GUSD</li>
-<li>Platform: ethereum</li>
-</ul></td>
-<td><ul>
-<li><a href="https://etherscan.io/token/0x056fd409e1d7a124bd7017459dfea2f387b6d5cd">etherscan</a></li>
-<li><a href="https://www.coingecko.com/en/coins/gemini-dollar">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/gemini-dollar/">coinmarketcap</a></li>
-<li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22GUSD%22%2C%22network%22%3A%22ETH%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
-</ul></td>
-</tr>
-<tr>
 <td><img src="logo/celer-network.png" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: celer-network@binance-smart-chain</li>
@@ -6440,6 +6440,21 @@
 </ul></td>
 </tr>
 <tr>
+<td><img src="logo/gemini-dollar.svg" width="128px" height="128px"/></td>
+<td><ul>
+<li>ID: gemini-dollar@ethereum</li>
+<li>Name: Gemini Dollar</li>
+<li>Symbol: GUSD</li>
+<li>Platform: ethereum</li>
+</ul></td>
+<td><ul>
+<li><a href="https://etherscan.io/token/0x056fd409e1d7a124bd7017459dfea2f387b6d5cd">etherscan</a></li>
+<li><a href="https://www.coingecko.com/en/coins/gemini-dollar">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/gemini-dollar/">coinmarketcap</a></li>
+<li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22GUSD%22%2C%22network%22%3A%22ETH%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
+</ul></td>
+</tr>
+<tr>
 <td><img src="logo/stratis.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: stratis@ethereum</li>
@@ -6451,22 +6466,6 @@
 <li><a href="https://etherscan.io/token/0xa3c22370de5f9544f0c4de126b1e46ceadf0a51b">etherscan</a></li>
 <li><a href="https://www.coingecko.com/en/coins/stratis">coingecko</a></li>
 <li><a href="https://coinmarketcap.com/currencies/stratis/">coinmarketcap</a></li>
-</ul></td>
-</tr>
-<tr>
-<td><img src="logo/dusk-network.png" width="128px" height="128px"/></td>
-<td><ul>
-<li>ID: dusk-network@ethereum</li>
-<li>Name: Dusk</li>
-<li>Symbol: DUSK</li>
-<li>Platform: ethereum</li>
-</ul></td>
-<td><ul>
-<li><a href="https://etherscan.io/token/0x940a2db1b7008b6c776d4faaca729d6d4a4aa551">etherscan</a></li>
-<li><a href="https://www.coingecko.com/en/coins/dusk-network">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/dusk/">coinmarketcap</a></li>
-<li><a href="https://changelly.com/exchange/dusk">changelly</a></li>
-<li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22DUSK%22%2C%22network%22%3A%22ETH%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
 </ul></td>
 </tr>
 <tr>
@@ -6510,6 +6509,22 @@
 <td><ul>
 <li><a href="https://www.coingecko.com/en/coins/smooth-love-potion">coingecko</a></li>
 <li><a href="https://coinmarketcap.com/currencies/smooth-love-potion/">coinmarketcap</a></li>
+</ul></td>
+</tr>
+<tr>
+<td><img src="logo/dusk-network.png" width="128px" height="128px"/></td>
+<td><ul>
+<li>ID: dusk-network@ethereum</li>
+<li>Name: Dusk</li>
+<li>Symbol: DUSK</li>
+<li>Platform: ethereum</li>
+</ul></td>
+<td><ul>
+<li><a href="https://etherscan.io/token/0x940a2db1b7008b6c776d4faaca729d6d4a4aa551">etherscan</a></li>
+<li><a href="https://www.coingecko.com/en/coins/dusk-network">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/dusk/">coinmarketcap</a></li>
+<li><a href="https://changelly.com/exchange/dusk">changelly</a></li>
+<li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22DUSK%22%2C%22network%22%3A%22ETH%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
 </ul></td>
 </tr>
 <tr>
@@ -6572,35 +6587,6 @@
 </ul></td>
 </tr>
 <tr>
-<td><img src="logo/prometeus.svg" width="128px" height="128px"/></td>
-<td><ul>
-<li>ID: prometeus@binance-smart-chain</li>
-<li>Name: Prom</li>
-<li>Symbol: PROM</li>
-<li>Platform: binance-smart-chain</li>
-</ul></td>
-<td><ul>
-<li><a href="https://bscscan.com/token/0xaf53d56ff99f1322515e54fdde93ff8b3b7dafd5">bscscan</a></li>
-<li><a href="https://www.coingecko.com/en/coins/prometeus">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/prom/">coinmarketcap</a></li>
-<li><a href="https://changelly.com/exchange/prom">changelly</a></li>
-</ul></td>
-</tr>
-<tr>
-<td><img src="logo/prometeus.svg" width="128px" height="128px"/></td>
-<td><ul>
-<li>ID: prometeus@ethereum</li>
-<li>Name: Prom</li>
-<li>Symbol: PROM</li>
-<li>Platform: ethereum</li>
-</ul></td>
-<td><ul>
-<li><a href="https://etherscan.io/token/0xfc82bb4ba86045af6f327323a46e80412b91b27d">etherscan</a></li>
-<li><a href="https://www.coingecko.com/en/coins/prometeus">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/prom/">coinmarketcap</a></li>
-</ul></td>
-</tr>
-<tr>
 <td><img src="logo/bluzelle.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: bluzelle@binance-smart-chain</li>
@@ -6629,6 +6615,35 @@
 <li><a href="https://coinmarketcap.com/currencies/bluzelle/">coinmarketcap</a></li>
 <li><a href="https://changelly.com/exchange/blz">changelly</a></li>
 <li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22BLZ%22%2C%22network%22%3A%22ETH%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
+</ul></td>
+</tr>
+<tr>
+<td><img src="logo/prometeus.svg" width="128px" height="128px"/></td>
+<td><ul>
+<li>ID: prometeus@binance-smart-chain</li>
+<li>Name: Prom</li>
+<li>Symbol: PROM</li>
+<li>Platform: binance-smart-chain</li>
+</ul></td>
+<td><ul>
+<li><a href="https://bscscan.com/token/0xaf53d56ff99f1322515e54fdde93ff8b3b7dafd5">bscscan</a></li>
+<li><a href="https://www.coingecko.com/en/coins/prometeus">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/prom/">coinmarketcap</a></li>
+<li><a href="https://changelly.com/exchange/prom">changelly</a></li>
+</ul></td>
+</tr>
+<tr>
+<td><img src="logo/prometeus.svg" width="128px" height="128px"/></td>
+<td><ul>
+<li>ID: prometeus@ethereum</li>
+<li>Name: Prom</li>
+<li>Symbol: PROM</li>
+<li>Platform: ethereum</li>
+</ul></td>
+<td><ul>
+<li><a href="https://etherscan.io/token/0xfc82bb4ba86045af6f327323a46e80412b91b27d">etherscan</a></li>
+<li><a href="https://www.coingecko.com/en/coins/prometeus">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/prom/">coinmarketcap</a></li>
 </ul></td>
 </tr>
 <tr>
@@ -6663,21 +6678,6 @@
 </ul></td>
 </tr>
 <tr>
-<td><img src="logo/coti.svg" width="128px" height="128px"/></td>
-<td><ul>
-<li>ID: coti@ethereum</li>
-<li>Name: COTI</li>
-<li>Symbol: COTI</li>
-<li>Platform: ethereum</li>
-</ul></td>
-<td><ul>
-<li><a href="https://etherscan.io/token/0xddb3422497e61e13543bea06989c0789117555c5">etherscan</a></li>
-<li><a href="https://www.coingecko.com/en/coins/coti">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/coti/">coinmarketcap</a></li>
-<li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22COTI%22%2C%22network%22%3A%22ETH%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
-</ul></td>
-</tr>
-<tr>
 <td><img src="logo/stasis-euro.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: stasis-euro@ethereum</li>
@@ -6690,6 +6690,21 @@
 <li><a href="https://www.coingecko.com/en/coins/stasis-eurs">coingecko</a></li>
 <li><a href="https://coinmarketcap.com/currencies/stasis-euro/">coinmarketcap</a></li>
 <li><a href="https://changelly.com/exchange/eurs">changelly</a></li>
+</ul></td>
+</tr>
+<tr>
+<td><img src="logo/coti.svg" width="128px" height="128px"/></td>
+<td><ul>
+<li>ID: coti@ethereum</li>
+<li>Name: COTI</li>
+<li>Symbol: COTI</li>
+<li>Platform: ethereum</li>
+</ul></td>
+<td><ul>
+<li><a href="https://etherscan.io/token/0xddb3422497e61e13543bea06989c0789117555c5">etherscan</a></li>
+<li><a href="https://www.coingecko.com/en/coins/coti">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/coti/">coinmarketcap</a></li>
+<li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22COTI%22%2C%22network%22%3A%22ETH%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
 </ul></td>
 </tr>
 <tr>
@@ -7052,35 +7067,6 @@
 </ul></td>
 </tr>
 <tr>
-<td><img src="logo/bancor-network-token.svg" width="128px" height="128px"/></td>
-<td><ul>
-<li>ID: bancor-network-token@ethereum</li>
-<li>Name: Bancor</li>
-<li>Symbol: BNT</li>
-<li>Platform: ethereum</li>
-</ul></td>
-<td><ul>
-<li><a href="https://etherscan.io/token/0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c">etherscan</a></li>
-<li><a href="https://www.coingecko.com/en/coins/bancor">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/bancor/">coinmarketcap</a></li>
-<li><a href="https://changelly.com/exchange/bnt">changelly</a></li>
-<li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22BNT%22%2C%22network%22%3A%22ETH%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
-</ul></td>
-</tr>
-<tr>
-<td><img src="logo/bancor-network-token.svg" width="128px" height="128px"/></td>
-<td><ul>
-<li>ID: bancor-network-token@solana</li>
-<li>Name: Bancor</li>
-<li>Symbol: BNT</li>
-<li>Platform: solana</li>
-</ul></td>
-<td><ul>
-<li><a href="https://www.coingecko.com/en/coins/bancor">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/bancor/">coinmarketcap</a></li>
-</ul></td>
-</tr>
-<tr>
 <td><img src="logo/stp-network.png" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: stp-network@ethereum</li>
@@ -7123,6 +7109,35 @@
 <li><a href="https://www.coingecko.com/en/coins/dodo">coingecko</a></li>
 <li><a href="https://coinmarketcap.com/currencies/dodo/">coinmarketcap</a></li>
 <li><a href="https://changelly.com/exchange/dodo">changelly</a></li>
+</ul></td>
+</tr>
+<tr>
+<td><img src="logo/bancor-network-token.svg" width="128px" height="128px"/></td>
+<td><ul>
+<li>ID: bancor-network-token@ethereum</li>
+<li>Name: Bancor</li>
+<li>Symbol: BNT</li>
+<li>Platform: ethereum</li>
+</ul></td>
+<td><ul>
+<li><a href="https://etherscan.io/token/0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c">etherscan</a></li>
+<li><a href="https://www.coingecko.com/en/coins/bancor">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/bancor/">coinmarketcap</a></li>
+<li><a href="https://changelly.com/exchange/bnt">changelly</a></li>
+<li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22BNT%22%2C%22network%22%3A%22ETH%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
+</ul></td>
+</tr>
+<tr>
+<td><img src="logo/bancor-network-token.svg" width="128px" height="128px"/></td>
+<td><ul>
+<li>ID: bancor-network-token@solana</li>
+<li>Name: Bancor</li>
+<li>Symbol: BNT</li>
+<li>Platform: solana</li>
+</ul></td>
+<td><ul>
+<li><a href="https://www.coingecko.com/en/coins/bancor">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/bancor/">coinmarketcap</a></li>
 </ul></td>
 </tr>
 <tr>
@@ -7184,6 +7199,21 @@
 </ul></td>
 </tr>
 <tr>
+<td><img src="logo/radicle.png" width="128px" height="128px"/></td>
+<td><ul>
+<li>ID: radicle@ethereum</li>
+<li>Name: Radworks</li>
+<li>Symbol: RAD</li>
+<li>Platform: ethereum</li>
+</ul></td>
+<td><ul>
+<li><a href="https://etherscan.io/token/0x31c8eacbffdd875c74b94b077895bd78cf1e64a3">etherscan</a></li>
+<li><a href="https://www.coingecko.com/en/coins/radicle">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/radworks/">coinmarketcap</a></li>
+<li><a href="https://changelly.com/exchange/rad">changelly</a></li>
+</ul></td>
+</tr>
+<tr>
 <td><img src="logo/metal.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: metal@ethereum</li>
@@ -7197,21 +7227,6 @@
 <li><a href="https://coinmarketcap.com/currencies/metal/">coinmarketcap</a></li>
 <li><a href="https://changelly.com/exchange/mtl">changelly</a></li>
 <li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22MTL%22%2C%22network%22%3A%22ETH%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
-</ul></td>
-</tr>
-<tr>
-<td><img src="logo/radicle.png" width="128px" height="128px"/></td>
-<td><ul>
-<li>ID: radicle@ethereum</li>
-<li>Name: Radworks</li>
-<li>Symbol: RAD</li>
-<li>Platform: ethereum</li>
-</ul></td>
-<td><ul>
-<li><a href="https://etherscan.io/token/0x31c8eacbffdd875c74b94b077895bd78cf1e64a3">etherscan</a></li>
-<li><a href="https://www.coingecko.com/en/coins/radicle">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/radworks/">coinmarketcap</a></li>
-<li><a href="https://changelly.com/exchange/rad">changelly</a></li>
 </ul></td>
 </tr>
 <tr>
@@ -7293,6 +7308,22 @@
 </ul></td>
 </tr>
 <tr>
+<td><img src="logo/mobox.png" width="128px" height="128px"/></td>
+<td><ul>
+<li>ID: mobox@binance-smart-chain</li>
+<li>Name: MOBOX</li>
+<li>Symbol: MBOX</li>
+<li>Platform: binance-smart-chain</li>
+</ul></td>
+<td><ul>
+<li><a href="https://bscscan.com/token/0x3203c9e46ca618c8c1ce5dc67e7e9d75f5da2377">bscscan</a></li>
+<li><a href="https://www.coingecko.com/en/coins/mobox">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/mobox/">coinmarketcap</a></li>
+<li><a href="https://changelly.com/exchange/mbox">changelly</a></li>
+<li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22MBOX%22%2C%22network%22%3A%22BSC%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
+</ul></td>
+</tr>
+<tr>
 <td><img src="logo/everipedia.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: everipedia@binance-smart-chain</li>
@@ -7318,22 +7349,6 @@
 <li><a href="https://etherscan.io/token/0x579cea1889991f68acc35ff5c3dd0621ff29b0c9">etherscan</a></li>
 <li><a href="https://www.coingecko.com/en/coins/everipedia">coingecko</a></li>
 <li><a href="https://coinmarketcap.com/currencies/iq/">coinmarketcap</a></li>
-</ul></td>
-</tr>
-<tr>
-<td><img src="logo/mobox.png" width="128px" height="128px"/></td>
-<td><ul>
-<li>ID: mobox@binance-smart-chain</li>
-<li>Name: MOBOX</li>
-<li>Symbol: MBOX</li>
-<li>Platform: binance-smart-chain</li>
-</ul></td>
-<td><ul>
-<li><a href="https://bscscan.com/token/0x3203c9e46ca618c8c1ce5dc67e7e9d75f5da2377">bscscan</a></li>
-<li><a href="https://www.coingecko.com/en/coins/mobox">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/mobox/">coinmarketcap</a></li>
-<li><a href="https://changelly.com/exchange/mbox">changelly</a></li>
-<li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22MBOX%22%2C%22network%22%3A%22BSC%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
 </ul></td>
 </tr>
 <tr>
@@ -7365,21 +7380,6 @@
 </ul></td>
 </tr>
 <tr>
-<td><img src="logo/ardor.svg" width="128px" height="128px"/></td>
-<td><ul>
-<li>ID: ardor@ardor</li>
-<li>Name: Ardor</li>
-<li>Symbol: ARDR</li>
-<li>Platform: ardor</li>
-</ul></td>
-<td><ul>
-<li><a href="https://www.coingecko.com/en/coins/ardor">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/ardor/">coinmarketcap</a></li>
-<li><a href="https://changelly.com/exchange/ardr">changelly</a></li>
-<li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22ARDR%22%2C%22network%22%3A%22ARDR%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
-</ul></td>
-</tr>
-<tr>
 <td><img src="logo/bifrost.png" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: bifrost@ethereum</li>
@@ -7406,6 +7406,21 @@
 <li><a href="https://etherscan.io/token/0x5cf04716ba20127f1e2297addcf4b5035000c9eb">etherscan</a></li>
 <li><a href="https://www.coingecko.com/en/coins/nkn">coingecko</a></li>
 <li><a href="https://coinmarketcap.com/currencies/nkn/">coinmarketcap</a></li>
+</ul></td>
+</tr>
+<tr>
+<td><img src="logo/ardor.svg" width="128px" height="128px"/></td>
+<td><ul>
+<li>ID: ardor@ardor</li>
+<li>Name: Ardor</li>
+<li>Symbol: ARDR</li>
+<li>Platform: ardor</li>
+</ul></td>
+<td><ul>
+<li><a href="https://www.coingecko.com/en/coins/ardor">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/ardor/">coinmarketcap</a></li>
+<li><a href="https://changelly.com/exchange/ardr">changelly</a></li>
+<li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22ARDR%22%2C%22network%22%3A%22ARDR%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
 </ul></td>
 </tr>
 <tr>
@@ -7619,37 +7634,6 @@
 </ul></td>
 </tr>
 <tr>
-<td><img src="logo/polkastarter.png" width="128px" height="128px"/></td>
-<td><ul>
-<li>ID: polkastarter@binance-smart-chain</li>
-<li>Name: Polkastarter</li>
-<li>Symbol: POLS</li>
-<li>Platform: binance-smart-chain</li>
-</ul></td>
-<td><ul>
-<li><a href="https://bscscan.com/token/0x7e624fa0e1c4abfd309cc15719b7e2580887f570">bscscan</a></li>
-<li><a href="https://www.coingecko.com/en/coins/polkastarter">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/polkastarter/">coinmarketcap</a></li>
-<li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22POLS%22%2C%22network%22%3A%22BSC%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
-</ul></td>
-</tr>
-<tr>
-<td><img src="logo/polkastarter.png" width="128px" height="128px"/></td>
-<td><ul>
-<li>ID: polkastarter@ethereum</li>
-<li>Name: Polkastarter</li>
-<li>Symbol: POLS</li>
-<li>Platform: ethereum</li>
-</ul></td>
-<td><ul>
-<li><a href="https://etherscan.io/token/0x83e6f1e41cdd28eaceb20cb649155049fac3d5aa">etherscan</a></li>
-<li><a href="https://www.coingecko.com/en/coins/polkastarter">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/polkastarter/">coinmarketcap</a></li>
-<li><a href="https://changelly.com/exchange/pols">changelly</a></li>
-<li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22POLS%22%2C%22network%22%3A%22ETH%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
-</ul></td>
-</tr>
-<tr>
 <td><img src="logo/my-neighbor-alice.jpg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: my-neighbor-alice@binance-smart-chain</li>
@@ -7678,6 +7662,37 @@
 <li><a href="https://coinmarketcap.com/currencies/myneighboralice/">coinmarketcap</a></li>
 <li><a href="https://changelly.com/exchange/alice">changelly</a></li>
 <li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22ALICE%22%2C%22network%22%3A%22ETH%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
+</ul></td>
+</tr>
+<tr>
+<td><img src="logo/polkastarter.png" width="128px" height="128px"/></td>
+<td><ul>
+<li>ID: polkastarter@binance-smart-chain</li>
+<li>Name: Polkastarter</li>
+<li>Symbol: POLS</li>
+<li>Platform: binance-smart-chain</li>
+</ul></td>
+<td><ul>
+<li><a href="https://bscscan.com/token/0x7e624fa0e1c4abfd309cc15719b7e2580887f570">bscscan</a></li>
+<li><a href="https://www.coingecko.com/en/coins/polkastarter">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/polkastarter/">coinmarketcap</a></li>
+<li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22POLS%22%2C%22network%22%3A%22BSC%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
+</ul></td>
+</tr>
+<tr>
+<td><img src="logo/polkastarter.png" width="128px" height="128px"/></td>
+<td><ul>
+<li>ID: polkastarter@ethereum</li>
+<li>Name: Polkastarter</li>
+<li>Symbol: POLS</li>
+<li>Platform: ethereum</li>
+</ul></td>
+<td><ul>
+<li><a href="https://etherscan.io/token/0x83e6f1e41cdd28eaceb20cb649155049fac3d5aa">etherscan</a></li>
+<li><a href="https://www.coingecko.com/en/coins/polkastarter">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/polkastarter/">coinmarketcap</a></li>
+<li><a href="https://changelly.com/exchange/pols">changelly</a></li>
+<li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22POLS%22%2C%22network%22%3A%22ETH%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
 </ul></td>
 </tr>
 <tr>
@@ -7723,21 +7738,6 @@
 </ul></td>
 </tr>
 <tr>
-<td><img src="logo/perpetual-protocol.svg" width="128px" height="128px"/></td>
-<td><ul>
-<li>ID: perpetual-protocol@ethereum</li>
-<li>Name: Perpetual Protocol</li>
-<li>Symbol: PERP</li>
-<li>Platform: ethereum</li>
-</ul></td>
-<td><ul>
-<li><a href="https://etherscan.io/token/0xbc396689893d065f41bc2c6ecbee5e0085233447">etherscan</a></li>
-<li><a href="https://www.coingecko.com/en/coins/perpetual-protocol">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/perpetual-protocol/">coinmarketcap</a></li>
-<li><a href="https://changelly.com/exchange/perp">changelly</a></li>
-</ul></td>
-</tr>
-<tr>
 <td><img src="logo/xyo-network.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: xyo-network@ethereum</li>
@@ -7751,6 +7751,21 @@
 <li><a href="https://coinmarketcap.com/currencies/xyo/">coinmarketcap</a></li>
 <li><a href="https://changelly.com/exchange/xyo">changelly</a></li>
 <li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22XYO%22%2C%22network%22%3A%22ETH%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
+</ul></td>
+</tr>
+<tr>
+<td><img src="logo/perpetual-protocol.svg" width="128px" height="128px"/></td>
+<td><ul>
+<li>ID: perpetual-protocol@ethereum</li>
+<li>Name: Perpetual Protocol</li>
+<li>Symbol: PERP</li>
+<li>Platform: ethereum</li>
+</ul></td>
+<td><ul>
+<li><a href="https://etherscan.io/token/0xbc396689893d065f41bc2c6ecbee5e0085233447">etherscan</a></li>
+<li><a href="https://www.coingecko.com/en/coins/perpetual-protocol">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/perpetual-protocol/">coinmarketcap</a></li>
+<li><a href="https://changelly.com/exchange/perp">changelly</a></li>
 </ul></td>
 </tr>
 <tr>
@@ -7769,20 +7784,6 @@
 </ul></td>
 </tr>
 <tr>
-<td><img src="logo/terra-virtua-kolect.png" width="128px" height="128px"/></td>
-<td><ul>
-<li>ID: terra-virtua-kolect@ethereum</li>
-<li>Name: Vanar Chain</li>
-<li>Symbol: VANRY</li>
-<li>Platform: ethereum</li>
-</ul></td>
-<td><ul>
-<li><a href="https://etherscan.io/token/0x8de5b80a0c1b02fe4976851d030b36122dbb8624">etherscan</a></li>
-<li><a href="https://www.coingecko.com/en/coins/the-virtua-kolect">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/vanar/">coinmarketcap</a></li>
-</ul></td>
-</tr>
-<tr>
 <td><img src="logo/pha.png" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: pha@ethereum</li>
@@ -7795,6 +7796,20 @@
 <li><a href="https://www.coingecko.com/en/coins/pha">coingecko</a></li>
 <li><a href="https://coinmarketcap.com/currencies/phala-network/">coinmarketcap</a></li>
 <li><a href="https://changelly.com/exchange/pha">changelly</a></li>
+</ul></td>
+</tr>
+<tr>
+<td><img src="logo/terra-virtua-kolect.png" width="128px" height="128px"/></td>
+<td><ul>
+<li>ID: terra-virtua-kolect@ethereum</li>
+<li>Name: Vanar Chain</li>
+<li>Symbol: VANRY</li>
+<li>Platform: ethereum</li>
+</ul></td>
+<td><ul>
+<li><a href="https://etherscan.io/token/0x8de5b80a0c1b02fe4976851d030b36122dbb8624">etherscan</a></li>
+<li><a href="https://www.coingecko.com/en/coins/the-virtua-kolect">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/vanar/">coinmarketcap</a></li>
 </ul></td>
 </tr>
 <tr>
@@ -7899,21 +7914,6 @@
 </ul></td>
 </tr>
 <tr>
-<td><img src="logo/badger-dao.jpg" width="128px" height="128px"/></td>
-<td><ul>
-<li>ID: badger-dao@ethereum</li>
-<li>Name: Badger DAO</li>
-<li>Symbol: BADGER</li>
-<li>Platform: ethereum</li>
-</ul></td>
-<td><ul>
-<li><a href="https://etherscan.io/token/0x3472a5a71965499acd81997a54bba8d852c6e53d">etherscan</a></li>
-<li><a href="https://www.coingecko.com/en/coins/badger-dao">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/badger-dao/">coinmarketcap</a></li>
-<li><a href="https://changelly.com/exchange/badger">changelly</a></li>
-</ul></td>
-</tr>
-<tr>
 <td><img src="logo/verasity.jpg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: verasity@ethereum</li>
@@ -7926,6 +7926,21 @@
 <li><a href="https://www.coingecko.com/en/coins/verasity">coingecko</a></li>
 <li><a href="https://coinmarketcap.com/currencies/verasity/">coinmarketcap</a></li>
 <li><a href="https://changelly.com/exchange/vra">changelly</a></li>
+</ul></td>
+</tr>
+<tr>
+<td><img src="logo/badger-dao.jpg" width="128px" height="128px"/></td>
+<td><ul>
+<li>ID: badger-dao@ethereum</li>
+<li>Name: Badger DAO</li>
+<li>Symbol: BADGER</li>
+<li>Platform: ethereum</li>
+</ul></td>
+<td><ul>
+<li><a href="https://etherscan.io/token/0x3472a5a71965499acd81997a54bba8d852c6e53d">etherscan</a></li>
+<li><a href="https://www.coingecko.com/en/coins/badger-dao">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/badger-dao/">coinmarketcap</a></li>
+<li><a href="https://changelly.com/exchange/badger">changelly</a></li>
 </ul></td>
 </tr>
 <tr>
@@ -7959,22 +7974,6 @@
 </ul></td>
 </tr>
 <tr>
-<td><img src="logo/funtoken.png" width="128px" height="128px"/></td>
-<td><ul>
-<li>ID: funtoken@ethereum</li>
-<li>Name: FUNToken</li>
-<li>Symbol: FUN</li>
-<li>Platform: ethereum</li>
-</ul></td>
-<td><ul>
-<li><a href="https://etherscan.io/token/0x419d0d8bdd9af5e606ae2232ed285aff190e711b">etherscan</a></li>
-<li><a href="https://www.coingecko.com/en/coins/funfair">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/funtoken/">coinmarketcap</a></li>
-<li><a href="https://changelly.com/exchange/fun">changelly</a></li>
-<li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22FUN%22%2C%22network%22%3A%22ETH%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
-</ul></td>
-</tr>
-<tr>
 <td><img src="logo/ren.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: ren@ethereum</li>
@@ -7988,6 +7987,22 @@
 <li><a href="https://coinmarketcap.com/currencies/ren/">coinmarketcap</a></li>
 <li><a href="https://changelly.com/exchange/ren">changelly</a></li>
 <li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22REN%22%2C%22network%22%3A%22ETH%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
+</ul></td>
+</tr>
+<tr>
+<td><img src="logo/funtoken.png" width="128px" height="128px"/></td>
+<td><ul>
+<li>ID: funtoken@ethereum</li>
+<li>Name: FUNToken</li>
+<li>Symbol: FUN</li>
+<li>Platform: ethereum</li>
+</ul></td>
+<td><ul>
+<li><a href="https://etherscan.io/token/0x419d0d8bdd9af5e606ae2232ed285aff190e711b">etherscan</a></li>
+<li><a href="https://www.coingecko.com/en/coins/funfair">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/funtoken/">coinmarketcap</a></li>
+<li><a href="https://changelly.com/exchange/fun">changelly</a></li>
+<li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22FUN%22%2C%22network%22%3A%22ETH%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
 </ul></td>
 </tr>
 <tr>
@@ -8018,6 +8033,21 @@
 <li><a href="https://coinmarketcap.com/currencies/aergo/">coinmarketcap</a></li>
 <li><a href="https://changelly.com/exchange/aergo">changelly</a></li>
 <li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22AERGO%22%2C%22network%22%3A%22ETH%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
+</ul></td>
+</tr>
+<tr>
+<td><img src="logo/truefi.png" width="128px" height="128px"/></td>
+<td><ul>
+<li>ID: truefi@ethereum</li>
+<li>Name: TrueFi</li>
+<li>Symbol: TRU</li>
+<li>Platform: ethereum</li>
+</ul></td>
+<td><ul>
+<li><a href="https://etherscan.io/token/0x4c19596f5aaff459fa38b0f7ed92f11ae6543784">etherscan</a></li>
+<li><a href="https://www.coingecko.com/en/coins/truefi">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/truefi-token/">coinmarketcap</a></li>
+<li><a href="https://changelly.com/exchange/tru">changelly</a></li>
 </ul></td>
 </tr>
 <tr>
@@ -8075,36 +8105,6 @@
 </ul></td>
 </tr>
 <tr>
-<td><img src="logo/truefi.png" width="128px" height="128px"/></td>
-<td><ul>
-<li>ID: truefi@ethereum</li>
-<li>Name: TrueFi</li>
-<li>Symbol: TRU</li>
-<li>Platform: ethereum</li>
-</ul></td>
-<td><ul>
-<li><a href="https://etherscan.io/token/0x4c19596f5aaff459fa38b0f7ed92f11ae6543784">etherscan</a></li>
-<li><a href="https://www.coingecko.com/en/coins/truefi">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/truefi-token/">coinmarketcap</a></li>
-<li><a href="https://changelly.com/exchange/tru">changelly</a></li>
-</ul></td>
-</tr>
-<tr>
-<td><img src="logo/verge.svg" width="128px" height="128px"/></td>
-<td><ul>
-<li>ID: verge@verge</li>
-<li>Name: Verge</li>
-<li>Symbol: XVG</li>
-<li>Platform: verge</li>
-</ul></td>
-<td><ul>
-<li><a href="https://www.coingecko.com/en/coins/verge">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/verge/">coinmarketcap</a></li>
-<li><a href="https://changelly.com/exchange/xvg">changelly</a></li>
-<li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22XVG%22%2C%22network%22%3A%22XVG%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
-</ul></td>
-</tr>
-<tr>
 <td><img src="logo/alien-worlds.jpg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: alien-worlds@binance-smart-chain</li>
@@ -8136,18 +8136,33 @@
 </ul></td>
 </tr>
 <tr>
-<td><img src="logo/defipulse-index.svg" width="128px" height="128px"/></td>
+<td><img src="logo/verge.svg" width="128px" height="128px"/></td>
 <td><ul>
-<li>ID: defipulse-index@ethereum</li>
-<li>Name: DeFi Pulse Index</li>
-<li>Symbol: DPI</li>
+<li>ID: verge@verge</li>
+<li>Name: Verge</li>
+<li>Symbol: XVG</li>
+<li>Platform: verge</li>
+</ul></td>
+<td><ul>
+<li><a href="https://www.coingecko.com/en/coins/verge">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/verge/">coinmarketcap</a></li>
+<li><a href="https://changelly.com/exchange/xvg">changelly</a></li>
+<li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22XVG%22%2C%22network%22%3A%22XVG%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
+</ul></td>
+</tr>
+<tr>
+<td><img src="logo/alchemix.png" width="128px" height="128px"/></td>
+<td><ul>
+<li>ID: alchemix@ethereum</li>
+<li>Name: Alchemix</li>
+<li>Symbol: ALCX</li>
 <li>Platform: ethereum</li>
 </ul></td>
 <td><ul>
-<li><a href="https://etherscan.io/token/0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b">etherscan</a></li>
-<li><a href="https://www.coingecko.com/en/coins/defipulse-index">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/defi-pulse-index/">coinmarketcap</a></li>
-<li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22DPI%22%2C%22network%22%3A%22ETH%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
+<li><a href="https://etherscan.io/token/0xdbdb4d16eda451d0503b854cf79d55697f90c8df">etherscan</a></li>
+<li><a href="https://www.coingecko.com/en/coins/alchemix">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/alchemix/">coinmarketcap</a></li>
+<li><a href="https://changelly.com/exchange/alcx">changelly</a></li>
 </ul></td>
 </tr>
 <tr>
@@ -8197,21 +8212,6 @@
 </ul></td>
 </tr>
 <tr>
-<td><img src="logo/alchemix.png" width="128px" height="128px"/></td>
-<td><ul>
-<li>ID: alchemix@ethereum</li>
-<li>Name: Alchemix</li>
-<li>Symbol: ALCX</li>
-<li>Platform: ethereum</li>
-</ul></td>
-<td><ul>
-<li><a href="https://etherscan.io/token/0xdbdb4d16eda451d0503b854cf79d55697f90c8df">etherscan</a></li>
-<li><a href="https://www.coingecko.com/en/coins/alchemix">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/alchemix/">coinmarketcap</a></li>
-<li><a href="https://changelly.com/exchange/alcx">changelly</a></li>
-</ul></td>
-</tr>
-<tr>
 <td><img src="logo/strike.jpg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: strike@ethereum</li>
@@ -8223,6 +8223,21 @@
 <li><a href="https://etherscan.io/token/0x74232704659ef37c08995e386a2e26cc27a8d7b1">etherscan</a></li>
 <li><a href="https://www.coingecko.com/en/coins/strike">coingecko</a></li>
 <li><a href="https://coinmarketcap.com/currencies/strike/">coinmarketcap</a></li>
+</ul></td>
+</tr>
+<tr>
+<td><img src="logo/defipulse-index.svg" width="128px" height="128px"/></td>
+<td><ul>
+<li>ID: defipulse-index@ethereum</li>
+<li>Name: DeFi Pulse Index</li>
+<li>Symbol: DPI</li>
+<li>Platform: ethereum</li>
+</ul></td>
+<td><ul>
+<li><a href="https://etherscan.io/token/0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b">etherscan</a></li>
+<li><a href="https://www.coingecko.com/en/coins/defipulse-index">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/defi-pulse-index/">coinmarketcap</a></li>
+<li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22DPI%22%2C%22network%22%3A%22ETH%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
 </ul></td>
 </tr>
 <tr>
@@ -8357,22 +8372,6 @@
 </ul></td>
 </tr>
 <tr>
-<td><img src="logo/dia.png" width="128px" height="128px"/></td>
-<td><ul>
-<li>ID: dia@ethereum</li>
-<li>Name: DIA</li>
-<li>Symbol: DIA</li>
-<li>Platform: ethereum</li>
-</ul></td>
-<td><ul>
-<li><a href="https://etherscan.io/token/0x84ca8bc7997272c7cfb4d0cd3d55cd942b3c9419">etherscan</a></li>
-<li><a href="https://www.coingecko.com/en/coins/dia-data">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/dia/">coinmarketcap</a></li>
-<li><a href="https://changelly.com/exchange/dia">changelly</a></li>
-<li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22DIA%22%2C%22network%22%3A%22ETH%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
-</ul></td>
-</tr>
-<tr>
 <td><img src="logo/ampleforth-governance-token.jpg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: ampleforth-governance-token@ethereum</li>
@@ -8388,17 +8387,19 @@
 </ul></td>
 </tr>
 <tr>
-<td><img src="logo/propy.svg" width="128px" height="128px"/></td>
+<td><img src="logo/dia.png" width="128px" height="128px"/></td>
 <td><ul>
-<li>ID: propy@ethereum</li>
-<li>Name: Propy</li>
-<li>Symbol: PRO</li>
+<li>ID: dia@ethereum</li>
+<li>Name: DIA</li>
+<li>Symbol: DIA</li>
 <li>Platform: ethereum</li>
 </ul></td>
 <td><ul>
-<li><a href="https://etherscan.io/token/0x226bb599a12c826476e3a771454697ea52e9e220">etherscan</a></li>
-<li><a href="https://www.coingecko.com/en/coins/propy">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/propy/">coinmarketcap</a></li>
+<li><a href="https://etherscan.io/token/0x84ca8bc7997272c7cfb4d0cd3d55cd942b3c9419">etherscan</a></li>
+<li><a href="https://www.coingecko.com/en/coins/dia-data">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/dia/">coinmarketcap</a></li>
+<li><a href="https://changelly.com/exchange/dia">changelly</a></li>
+<li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22DIA%22%2C%22network%22%3A%22ETH%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
 </ul></td>
 </tr>
 <tr>
@@ -8431,17 +8432,17 @@
 </ul></td>
 </tr>
 <tr>
-<td><img src="logo/hunt.png" width="128px" height="128px"/></td>
+<td><img src="logo/propy.svg" width="128px" height="128px"/></td>
 <td><ul>
-<li>ID: hunt@ethereum</li>
-<li>Name: Hunt Town</li>
-<li>Symbol: HUNT</li>
+<li>ID: propy@ethereum</li>
+<li>Name: Propy</li>
+<li>Symbol: PRO</li>
 <li>Platform: ethereum</li>
 </ul></td>
 <td><ul>
-<li><a href="https://etherscan.io/token/0x9aab071b4129b083b01cb5a0cb513ce7eca26fa5">etherscan</a></li>
-<li><a href="https://www.coingecko.com/en/coins/hunt-token">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/hunt/">coinmarketcap</a></li>
+<li><a href="https://etherscan.io/token/0x226bb599a12c826476e3a771454697ea52e9e220">etherscan</a></li>
+<li><a href="https://www.coingecko.com/en/coins/propy">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/propy/">coinmarketcap</a></li>
 </ul></td>
 </tr>
 <tr>
@@ -8457,6 +8458,20 @@
 <li><a href="https://www.coingecko.com/en/coins/mdex">coingecko</a></li>
 <li><a href="https://coinmarketcap.com/currencies/mdex/">coinmarketcap</a></li>
 <li><a href="https://changelly.com/exchange/mdx">changelly</a></li>
+</ul></td>
+</tr>
+<tr>
+<td><img src="logo/hunt.png" width="128px" height="128px"/></td>
+<td><ul>
+<li>ID: hunt@ethereum</li>
+<li>Name: Hunt Town</li>
+<li>Symbol: HUNT</li>
+<li>Platform: ethereum</li>
+</ul></td>
+<td><ul>
+<li><a href="https://etherscan.io/token/0x9aab071b4129b083b01cb5a0cb513ce7eca26fa5">etherscan</a></li>
+<li><a href="https://www.coingecko.com/en/coins/hunt-token">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/hunt/">coinmarketcap</a></li>
 </ul></td>
 </tr>
 <tr>
@@ -8614,6 +8629,22 @@
 </ul></td>
 </tr>
 <tr>
+<td><img src="logo/orion-protocol.png" width="128px" height="128px"/></td>
+<td><ul>
+<li>ID: orion-protocol@ethereum</li>
+<li>Name: Orion</li>
+<li>Symbol: ORN</li>
+<li>Platform: ethereum</li>
+</ul></td>
+<td><ul>
+<li><a href="https://etherscan.io/token/0x0258f474786ddfd37abce6df6bbb1dd5dfc4434a">etherscan</a></li>
+<li><a href="https://www.coingecko.com/en/coins/orion-protocol">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/orion-xyz/">coinmarketcap</a></li>
+<li><a href="https://changelly.com/exchange/orn">changelly</a></li>
+<li><a href="https://buy.moonpay.io/?defaultCurrencyCode=orn">moonpay</a></li>
+</ul></td>
+</tr>
+<tr>
 <td><img src="logo/komodo.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: komodo@komodo</li>
@@ -8657,22 +8688,6 @@
 </ul></td>
 </tr>
 <tr>
-<td><img src="logo/orion-protocol.png" width="128px" height="128px"/></td>
-<td><ul>
-<li>ID: orion-protocol@ethereum</li>
-<li>Name: Orion</li>
-<li>Symbol: ORN</li>
-<li>Platform: ethereum</li>
-</ul></td>
-<td><ul>
-<li><a href="https://etherscan.io/token/0x0258f474786ddfd37abce6df6bbb1dd5dfc4434a">etherscan</a></li>
-<li><a href="https://www.coingecko.com/en/coins/orion-protocol">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/orion-xyz/">coinmarketcap</a></li>
-<li><a href="https://changelly.com/exchange/orn">changelly</a></li>
-<li><a href="https://buy.moonpay.io/?defaultCurrencyCode=orn">moonpay</a></li>
-</ul></td>
-</tr>
-<tr>
 <td><img src="logo/dfi-money.png" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: dfi-money@ethereum</li>
@@ -8686,20 +8701,6 @@
 <li><a href="https://coinmarketcap.com/currencies/yearn-finance-ii/">coinmarketcap</a></li>
 <li><a href="https://changelly.com/exchange/yfii">changelly</a></li>
 <li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22YFII%22%2C%22network%22%3A%22ETH%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
-</ul></td>
-</tr>
-<tr>
-<td><img src="logo/pirate-chain.svg" width="128px" height="128px"/></td>
-<td><ul>
-<li>ID: pirate-chain@pirate-chain</li>
-<li>Name: Pirate Chain</li>
-<li>Symbol: ARRR</li>
-<li>Platform: pirate-chain</li>
-</ul></td>
-<td><ul>
-<li><a href="https://www.coingecko.com/en/coins/pirate-chain">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/pirate-chain/">coinmarketcap</a></li>
-<li><a href="https://changelly.com/exchange/arrr">changelly</a></li>
 </ul></td>
 </tr>
 <tr>
@@ -8729,6 +8730,20 @@
 <li><a href="https://www.coingecko.com/en/coins/bonfida">coingecko</a></li>
 <li><a href="https://coinmarketcap.com/currencies/bonfida/">coinmarketcap</a></li>
 <li><a href="https://changelly.com/exchange/fida">changelly</a></li>
+</ul></td>
+</tr>
+<tr>
+<td><img src="logo/pirate-chain.svg" width="128px" height="128px"/></td>
+<td><ul>
+<li>ID: pirate-chain@pirate-chain</li>
+<li>Name: Pirate Chain</li>
+<li>Symbol: ARRR</li>
+<li>Platform: pirate-chain</li>
+</ul></td>
+<td><ul>
+<li><a href="https://www.coingecko.com/en/coins/pirate-chain">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/pirate-chain/">coinmarketcap</a></li>
+<li><a href="https://changelly.com/exchange/arrr">changelly</a></li>
 </ul></td>
 </tr>
 <tr>
@@ -9104,20 +9119,6 @@
 <li><a href="https://www.coingecko.com/en/coins/augur">coingecko</a></li>
 <li><a href="https://coinmarketcap.com/currencies/augur/">coinmarketcap</a></li>
 <li><a href="https://guardarian.com/calculator/v1?theme=blue&type=narrow&crypto_currencies_list=%5B%7B%22ticker%22%3A%22REP%22%2C%22network%22%3A%22ETH%22%7D%5D&fiat_currencies_list=%5B%7B%22ticker%22%3A%22USD%22%2C%22network%22%3A%22USD%22%7D%5D">guardarian</a></li>
-</ul></td>
-</tr>
-<tr>
-<td><img src="logo/energi.png" width="128px" height="128px"/></td>
-<td><ul>
-<li>ID: energi@energi</li>
-<li>Name: Energi</li>
-<li>Symbol: NRG</li>
-<li>Platform: energi</li>
-</ul></td>
-<td><ul>
-<li><a href="https://www.coingecko.com/en/coins/energi">coingecko</a></li>
-<li><a href="https://coinmarketcap.com/currencies/energi/">coinmarketcap</a></li>
-<li><a href="https://changelly.com/exchange/nrg">changelly</a></li>
 </ul></td>
 </tr>
 <tr>
