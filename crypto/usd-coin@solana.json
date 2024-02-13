@@ -22,10 +22,6 @@
     "ticker": "USDC",
     "network": "SOL"
   },
-  "moonpay": {
-    "id": "acb9589d-c7cf-41a8-b220-875f2867bd46",
-    "code": "usdc_sol"
-  },
   "onramper": {
     "id": "USDC_SOLANA"
   }
