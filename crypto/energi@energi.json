@@ -8,9 +8,6 @@
   "decimals": 18,
   "logo": "energi.png",
   "supported": false,
-  "changelly": {
-    "ticker": "nrg"
-  },
   "coingecko": {
     "id": "energi"
   },
