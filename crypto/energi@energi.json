@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "energi@energi",
   "asset": "energi",
   "platform": "energi",
@@ -6,11 +7,7 @@
   "name": "Energi",
   "symbol": "NRG",
   "decimals": 18,
-  "logo": "energi.png",
   "supported": false,
-  "changelly": {
-    "ticker": "nrg"
-  },
   "coingecko": {
     "id": "energi"
   },
