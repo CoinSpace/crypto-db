@@ -8,9 +8,6 @@
   "decimals": 6,
   "logo": "tezos.svg",
   "supported": false,
-  "bitnovo": {
-    "id": "XTZ"
-  },
   "changelly": {
     "ticker": "xtz"
   },

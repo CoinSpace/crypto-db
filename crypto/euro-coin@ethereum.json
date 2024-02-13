@@ -9,7 +9,7 @@
   "decimals": 6,
   "logo": "euro-coin.svg",
   "bitnovo": {
-    "id": "EUROC"
+    "id": "EUROC_ETH"
   },
   "coingecko": {
     "id": "euro-coin"

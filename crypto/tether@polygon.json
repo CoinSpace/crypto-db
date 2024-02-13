@@ -9,7 +9,7 @@
   "decimals": 6,
   "logo": "tether.svg",
   "bitnovo": {
-    "id": "USDT_POLYGON"
+    "id": "USDT_MATIC"
   },
   "coingecko": {
     "id": "tether"

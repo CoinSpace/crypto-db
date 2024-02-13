@@ -9,7 +9,7 @@
   "decimals": 6,
   "logo": "usd-coin.svg",
   "bitnovo": {
-    "id": "USDC_ETHEREUM"
+    "id": "USDC_ETH"
   },
   "btcdirect": {
     "currencyPair": [

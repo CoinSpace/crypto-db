@@ -9,7 +9,7 @@
   "decimals": 6,
   "logo": "tether.svg",
   "bitnovo": {
-    "id": "USDT_ETHEREUM"
+    "id": "USDT_ETH"
   },
   "btcdirect": {
     "currencyPair": [
