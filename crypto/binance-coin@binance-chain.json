@@ -8,9 +8,6 @@
   "decimals": 8,
   "logo": "binance-chain.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "bnb"
-  },
   "coingecko": {
     "id": "binancecoin"
   },
