@@ -8,9 +8,6 @@
   "decimals": 18,
   "logo": "celo.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "celo"
-  },
   "coingecko": {
     "id": "celo"
   },
