@@ -8,9 +8,6 @@
   "decimals": 6,
   "logo": "iotex.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "iotx"
-  },
   "coingecko": {
     "id": "iotex"
   },
