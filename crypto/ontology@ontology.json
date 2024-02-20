@@ -17,9 +17,5 @@
   "coinmarketcap": {
     "id": 2566,
     "slug": "ontology"
-  },
-  "guardarian": {
-    "ticker": "ONT",
-    "network": "ONT"
   }
 }
