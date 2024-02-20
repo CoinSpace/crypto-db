@@ -8,9 +8,6 @@
   "decimals": 24,
   "logo": "near.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "nearmainnet"
-  },
   "coingecko": {
     "id": "near"
   },
