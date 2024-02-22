@@ -1,0 +1,18 @@
+{
+  "_id": "starknet@ethereum",
+  "asset": "starknet",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Starknet",
+  "symbol": "STRK",
+  "address": "0xca14007eff0db1f8135f4c25b34de49ab0d42766",
+  "decimals": 18,
+  "logo": "starknet.svg",
+  "coingecko": {
+    "id": "starknet"
+  },
+  "coinmarketcap": {
+    "id": 22691,
+    "slug": "starknet-token"
+  }
+}
