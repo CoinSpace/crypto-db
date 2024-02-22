@@ -5,12 +5,9 @@
   "type": "token",
   "name": "Everscale",
   "symbol": "EVER",
-  "address": "0x29d578cec46b50fa5c88a99c6a4b70184c062953",
+  "address": "0x1ffefd8036409cb6d652bd610de465933b226917",
   "decimals": 9,
   "logo": "ton-crystal.svg",
-  "changelly": {
-    "ticker": "wever"
-  },
   "coingecko": {
     "id": "everscale"
   },
