@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid" viewBox="0 0 600.106 600.106">
+  <defs>
+    <clipPath id="worldcoin_svg__a">
+      <path d="M0 0h800v800H0z"/>
+    </clipPath>
+    <clipPath id="worldcoin_svg__b">
+      <path d="M0 0h1728v1728H0Z"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#worldcoin_svg__a)" transform="translate(-99.69 -99.947)">
+    <g stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="45.481" clip-path="url(#worldcoin_svg__b)" display="block" transform="translate(-668.3 -668.509)scale(1.2367)">
+      <path d="m1050.504 750.335-189.082.3c-62.608 0-113.366 50.757-113.366 113.365s50.758 113.366 113.366 113.366h182.082M646.74 864h436.767" display="block"/>
+      <path d="M863.623 644.117c121.438 0 219.883 98.445 219.883 219.883 0 121.438-98.445 219.883-219.883 219.883-121.438 0-219.883-98.445-219.883-219.883 0-121.438 98.445-219.883 219.883-219.883Z" display="block"/>
+    </g>
+  </g>
+</svg>
