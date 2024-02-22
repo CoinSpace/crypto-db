@@ -8,9 +8,6 @@
   "address": "0x037a54aab062628c9bbae1fdb1583c195585fe41",
   "decimals": 18,
   "logo": "lcx.jpg",
-  "changelly": {
-    "ticker": "lcx"
-  },
   "coingecko": {
     "id": "lcx",
     "platform": "ethereum"
