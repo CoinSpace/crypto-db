@@ -10,9 +10,6 @@
   "bitnovo": {
     "id": "AVAX"
   },
-  "changelly": {
-    "ticker": "avaxc"
-  },
   "coingecko": {
     "id": "avalanche-2"
   },
@@ -23,10 +20,6 @@
   "guardarian": {
     "ticker": "AVAX",
     "network": "CCHAIN"
-  },
-  "moonpay": {
-    "id": "38b1f272-af74-4f61-a425-62219aea25d9",
-    "code": "avax_cchain"
   },
   "onramper": {
     "id": "AVAX_AVAXC"
