@@ -29,5 +29,8 @@
   },
   "onramper": {
     "id": "AAVE_ETHEREUM"
+  },
+  "paybis": {
+    "id": "AAVE"
   }
 }

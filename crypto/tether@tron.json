@@ -31,5 +31,8 @@
   },
   "onramper": {
     "id": "USDT_TRON"
+  },
+  "paybis": {
+    "id": "USDT-TRC20"
   }
 }

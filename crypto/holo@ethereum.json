@@ -22,5 +22,8 @@
   "guardarian": {
     "ticker": "HOT",
     "network": "ETH"
+  },
+  "paybis": {
+    "id": "HOT"
   }
 }

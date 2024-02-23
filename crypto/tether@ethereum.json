@@ -37,5 +37,8 @@
   },
   "onramper": {
     "id": "USDT_ETHEREUM"
+  },
+  "paybis": {
+    "id": "USDT"
   }
 }

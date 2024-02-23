@@ -29,5 +29,8 @@
   },
   "onramper": {
     "id": "SHIB_ETHEREUM"
+  },
+  "paybis": {
+    "id": "SHIB"
   }
 }

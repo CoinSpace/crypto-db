@@ -22,5 +22,8 @@
   "guardarian": {
     "ticker": "NMR",
     "network": "ETH"
+  },
+  "paybis": {
+    "id": "NMR"
   }
 }

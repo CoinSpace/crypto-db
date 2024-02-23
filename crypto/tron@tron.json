@@ -30,5 +30,8 @@
   },
   "onramper": {
     "id": "TRX_TRON"
+  },
+  "paybis": {
+    "id": "TRX"
   }
 }

@@ -18,5 +18,8 @@
   "coinmarketcap": {
     "id": 6950,
     "slug": "perpetual-protocol"
+  },
+  "paybis": {
+    "id": "PERP"
   }
 }

@@ -22,5 +22,8 @@
   "guardarian": {
     "ticker": "CVC",
     "network": "ETH"
+  },
+  "paybis": {
+    "id": "CVC"
   }
 }

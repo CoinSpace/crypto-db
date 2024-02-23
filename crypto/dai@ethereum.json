@@ -32,5 +32,8 @@
   },
   "onramper": {
     "id": "DAI_ETHEREUM"
+  },
+  "paybis": {
+    "id": "DAI"
   }
 }

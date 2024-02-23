@@ -22,5 +22,8 @@
   },
   "onramper": {
     "id": "BUSD_BSC"
+  },
+  "paybis": {
+    "id": "BUSD"
   }
 }

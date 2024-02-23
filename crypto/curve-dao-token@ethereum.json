@@ -22,5 +22,8 @@
   "guardarian": {
     "ticker": "CRV",
     "network": "ETH"
+  },
+  "paybis": {
+    "id": "CRV"
   }
 }

@@ -29,5 +29,8 @@
   },
   "onramper": {
     "id": "AXS_ETHEREUM"
+  },
+  "paybis": {
+    "id": "AXS"
   }
 }

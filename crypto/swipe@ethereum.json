@@ -15,5 +15,8 @@
   "coinmarketcap": {
     "id": 4279,
     "slug": "sxp"
+  },
+  "paybis": {
+    "id": "SXP"
   }
 }

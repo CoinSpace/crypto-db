@@ -25,5 +25,8 @@
   },
   "onramper": {
     "id": "SUSHI_ETHEREUM"
+  },
+  "paybis": {
+    "id": "SUSHI"
   }
 }

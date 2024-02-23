@@ -22,5 +22,8 @@
   "guardarian": {
     "ticker": "BAND",
     "network": "ETH"
+  },
+  "paybis": {
+    "id": "BAND"
   }
 }

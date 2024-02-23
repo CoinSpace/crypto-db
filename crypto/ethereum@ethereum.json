@@ -36,5 +36,8 @@
   },
   "onramper": {
     "id": "ETH"
+  },
+  "paybis": {
+    "id": "ETH"
   }
 }

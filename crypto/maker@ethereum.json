@@ -29,5 +29,8 @@
   },
   "onramper": {
     "id": "MKR_ETHEREUM"
+  },
+  "paybis": {
+    "id": "MKR"
   }
 }

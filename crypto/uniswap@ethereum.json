@@ -34,5 +34,8 @@
   },
   "onramper": {
     "id": "UNI_ETHEREUM"
+  },
+  "paybis": {
+    "id": "UNI"
   }
 }

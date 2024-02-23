@@ -34,5 +34,8 @@
   },
   "onramper": {
     "id": "LINK_ETHEREUM"
+  },
+  "paybis": {
+    "id": "LINK"
   }
 }

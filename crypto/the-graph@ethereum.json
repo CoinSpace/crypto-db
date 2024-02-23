@@ -22,5 +22,8 @@
   "guardarian": {
     "ticker": "GRT",
     "network": "ETH"
+  },
+  "paybis": {
+    "id": "GRT"
   }
 }

@@ -29,5 +29,8 @@
   },
   "onramper": {
     "id": "CHZ_ETHEREUM"
+  },
+  "paybis": {
+    "id": "CHZ"
   }
 }

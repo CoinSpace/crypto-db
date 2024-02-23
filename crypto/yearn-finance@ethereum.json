@@ -22,5 +22,8 @@
   "guardarian": {
     "ticker": "YFI",
     "network": "ETH"
+  },
+  "paybis": {
+    "id": "YFI"
   }
 }

@@ -27,5 +27,8 @@
   },
   "onramper": {
     "id": "BNB_BSC"
+  },
+  "paybis": {
+    "id": "BSC"
   }
 }

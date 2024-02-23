@@ -29,5 +29,8 @@
   },
   "onramper": {
     "id": "SAND_ETHEREUM"
+  },
+  "paybis": {
+    "id": "SAND"
   }
 }

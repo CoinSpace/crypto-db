@@ -22,5 +22,8 @@
   "guardarian": {
     "ticker": "DENT",
     "network": "ETH"
+  },
+  "paybis": {
+    "id": "DENT"
   }
 }
