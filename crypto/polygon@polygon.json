@@ -30,5 +30,8 @@
   },
   "onramper": {
     "id": "MATIC_POLYGON"
+  },
+  "paybis": {
+    "id": "MATIC-POLYGON"
   }
 }

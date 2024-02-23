@@ -36,5 +36,8 @@
   },
   "onramper": {
     "id": "LTC_LITECOIN"
+  },
+  "paybis": {
+    "id": "LTC"
   }
 }

@@ -31,5 +31,8 @@
   },
   "onramper": {
     "id": "ADA_CARDANO"
+  },
+  "paybis": {
+    "id": "ADA"
   }
 }

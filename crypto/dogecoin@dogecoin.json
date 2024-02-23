@@ -28,5 +28,8 @@
   },
   "onramper": {
     "id": "DOGE_DOGECOIN"
+  },
+  "paybis": {
+    "id": "DOGE"
   }
 }

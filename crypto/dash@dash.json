@@ -27,5 +27,8 @@
   },
   "onramper": {
     "id": "DASH_DASH"
+  },
+  "paybis": {
+    "id": "DASH"
   }
 }

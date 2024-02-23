@@ -36,5 +36,8 @@
   },
   "onramper": {
     "id": "XRP_RIPPLE"
+  },
+  "paybis": {
+    "id": "XRP"
   }
 }

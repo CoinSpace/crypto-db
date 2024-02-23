@@ -31,5 +31,8 @@
   },
   "onramper": {
     "id": "XLM_STELLAR"
+  },
+  "paybis": {
+    "id": "XLM"
   }
 }
