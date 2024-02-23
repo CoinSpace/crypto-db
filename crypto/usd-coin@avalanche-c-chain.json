@@ -8,9 +8,6 @@
   "address": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
   "decimals": 6,
   "logo": "usd-coin.svg",
-  "changelly": {
-    "ticker": "usdcavac"
-  },
   "coingecko": {
     "id": "usd-coin"
   },
@@ -21,10 +18,6 @@
   "guardarian": {
     "ticker": "USDC",
     "network": "AVAXC"
-  },
-  "moonpay": {
-    "id": "de47a930-f76e-4284-b9d6-c5a6f2a1fc3f",
-    "code": "usdc_cchain"
   },
   "onramper": {
     "id": "USDC_AVAXC"
