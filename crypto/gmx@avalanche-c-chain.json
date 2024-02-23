@@ -8,9 +8,6 @@
   "address": "0x62edc0692bd897d2295872a9ffcac5425011c661",
   "decimals": 18,
   "logo": "gmx.png",
-  "changelly": {
-    "ticker": "gmx"
-  },
   "coingecko": {
     "id": "gmx"
   },
