@@ -18,9 +18,5 @@
   "coinmarketcap": {
     "id": 3964,
     "slug": "reserve-rights"
-  },
-  "guardarian": {
-    "ticker": "RSR",
-    "network": "ETH"
   }
 }
