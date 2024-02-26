@@ -1,0 +1,22 @@
+{
+  "_id": "coti@binance-smart-chain",
+  "asset": "coti",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "COTI",
+  "symbol": "COTI",
+  "address": "0xadbaf88b39d37dc68775ed1541f1bf83a5a45feb",
+  "decimals": 18,
+  "logo": "coti.svg",
+  "coingecko": {
+    "id": "coti"
+  },
+  "coinmarketcap": {
+    "id": 3992,
+    "slug": "coti"
+  },
+  "guardarian": {
+    "ticker": "COTI",
+    "network": "BSC"
+  }
+}
