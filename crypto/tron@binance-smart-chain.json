@@ -15,10 +15,6 @@
     "id": 1958,
     "slug": "tron"
   },
-  "guardarian": {
-    "ticker": "TRX",
-    "network": "BSC"
-  },
   "onramper": {
     "id": "TRX_BSC"
   }
