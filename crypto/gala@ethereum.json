@@ -18,9 +18,5 @@
   "coinmarketcap": {
     "id": 7080,
     "slug": "gala"
-  },
-  "guardarian": {
-    "ticker": "GALA",
-    "network": "ETH"
   }
 }
