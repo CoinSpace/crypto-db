@@ -18,6 +18,10 @@
     "id": 3408,
     "slug": "usd-coin"
   },
+  "guardarian": {
+    "ticker": "USDC",
+    "network": "ARBITRUM"
+  },
   "moonpay": {
     "id": "f21fd44e-e881-4eb3-9b3a-24ef5af03193",
     "code": "usdc_arbitrum"
