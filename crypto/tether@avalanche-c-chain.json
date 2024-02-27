@@ -18,6 +18,10 @@
     "id": 825,
     "slug": "tether"
   },
+  "guardarian": {
+    "ticker": "USDT",
+    "network": "AVAXC"
+  },
   "onramper": {
     "id": "USDT_AVAXC"
   }
