@@ -4,8 +4,8 @@
   "platform": "ethereum",
   "type": "token",
   "name": "PlayDapp",
-  "symbol": "PLA",
-  "address": "0x3a4f40631a4f906c2bad353ed06de7a5d3fcb430",
+  "symbol": "PDA",
+  "address": "0x0d3cbed3f69ee050668adf3d9ea57241cba33a2b",
   "decimals": 18,
   "logo": "playdapp.svg",
   "coingecko": {
