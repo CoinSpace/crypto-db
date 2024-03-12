@@ -9,6 +9,9 @@
   "decimals": 8,
   "logo": "aptos.svg",
   "supported": false,
+  "changelly": {
+    "ticker": "apt"
+  },
   "coingecko": {
     "id": "aptos"
   },
