@@ -12,8 +12,7 @@
     "ticker": "dao"
   },
   "coingecko": {
-    "id": "dao-maker",
-    "platform": "ethereum"
+    "id": "dao-maker"
   },
   "coinmarketcap": {
     "id": 8420,

@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "dao-maker.png",
   "coingecko": {
-    "id": "dao-maker",
-    "platform": "binance-smart-chain"
+    "id": "dao-maker"
   },
   "coinmarketcap": {
     "id": 8420,

@@ -1,0 +1,21 @@
+{
+  "_id": "beam@ethereum",
+  "asset": "beam",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Beam",
+  "symbol": "BEAM",
+  "address": "0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce",
+  "decimals": 18,
+  "logo": "beam.svg",
+  "changelly": {
+    "ticker": "beamx"
+  },
+  "coingecko": {
+    "id": "beam-2"
+  },
+  "coinmarketcap": {
+    "id": 28298,
+    "slug": "onbeam"
+  }
+}

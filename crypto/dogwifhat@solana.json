@@ -1,0 +1,21 @@
+{
+  "_id": "dogwifhat@solana",
+  "asset": "dogwifhat",
+  "platform": "solana",
+  "type": "token",
+  "name": "dogwifhat",
+  "symbol": "WIF",
+  "address": "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
+  "decimals": 6,
+  "logo": "dogwifhat.png",
+  "changelly": {
+    "ticker": "wif"
+  },
+  "coingecko": {
+    "id": "dogwifcoin"
+  },
+  "coinmarketcap": {
+    "id": 28752,
+    "slug": "dogwifhat"
+  }
+}

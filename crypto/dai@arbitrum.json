@@ -1,11 +1,11 @@
 {
-  "_id": "dai@binance-smart-chain",
+  "_id": "dai@arbitrum",
   "asset": "dai",
-  "platform": "binance-smart-chain",
+  "platform": "arbitrum",
   "type": "token",
   "name": "Dai",
   "symbol": "DAI",
-  "address": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
+  "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
   "decimals": 18,
   "logo": "dai.svg",
   "coingecko": {
@@ -17,6 +17,6 @@
   },
   "guardarian": {
     "ticker": "DAI",
-    "network": "BSC"
+    "network": "ARBITRUM"
   }
 }

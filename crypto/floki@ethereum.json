@@ -1,0 +1,26 @@
+{
+  "_id": "floki@ethereum",
+  "asset": "floki",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "FLOKI",
+  "symbol": "FLOKI",
+  "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
+  "decimals": 9,
+  "logo": "floki.svg",
+  "coingecko": {
+    "id": "floki"
+  },
+  "coinmarketcap": {
+    "id": 10804,
+    "slug": "floki-inu"
+  },
+  "guardarian": {
+    "ticker": "FLOKI",
+    "network": "ETH"
+  },
+  "moonpay": {
+    "id": "991e29f8-8f83-4c75-883b-1399404a6828",
+    "code": "floki"
+  }
+}

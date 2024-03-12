@@ -15,8 +15,7 @@
     "ticker": "dai"
   },
   "coingecko": {
-    "id": "dai",
-    "platform": "ethereum"
+    "id": "dai"
   },
   "coinmarketcap": {
     "id": 4943,
