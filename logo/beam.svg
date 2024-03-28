@@ -1,28 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 29 25">
-  <path fill="url(#beam_svg__a)" d="M0 6.25h28.57v6.25H0V6.25Z"/>
-  <path fill="url(#beam_svg__b)" d="M0 2a2 2 0 0 1 2-2h24.57a2 2 0 0 1 2 2v4.25H0V2Z"/>
-  <path fill="url(#beam_svg__c)" d="M0 18.75h28.57V23a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-4.25Z"/>
-  <path fill="url(#beam_svg__d)" d="M0 12.502h28.57v6.25H0v-6.25Z"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 47 47">
   <defs>
-    <linearGradient id="beam_svg__a" x1="14.2" x2="14.2" y1="9.529" y2="16.501" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#FF6B6B"/>
-      <stop offset=".33" stop-color="#FE1414"/>
-      <stop offset=".6" stop-color="#8E0900"/>
+    <linearGradient id="beam_svg__a" x2="69.924%" y1="50%" y2="50%">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#fff"/>
     </linearGradient>
-    <linearGradient id="beam_svg__b" x1="15.643" x2="15.643" y1="3.279" y2="10.251" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#BBDBFF"/>
-      <stop offset=".33" stop-color="#139EDD"/>
-      <stop offset=".6" stop-color="#B9F7EA"/>
+    <linearGradient id="beam_svg__b" x1="96.834%" x2="32.057%" y1="31.578%" y2="34.803%">
+      <stop offset="0" stop-color="#FD76FD" stop-opacity="0"/>
+      <stop offset="1" stop-color="#FF51FF"/>
     </linearGradient>
-    <linearGradient id="beam_svg__c" x1="14.286" x2="14.286" y1="22.029" y2="29.001" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#BBFFCA"/>
-      <stop offset=".33" stop-color="#48DD13"/>
-      <stop offset=".6" stop-color="#008805"/>
+    <linearGradient id="beam_svg__c" x1="95.948%" x2="45.029%" y1="44.431%" y2="44.431%">
+      <stop offset="0" stop-color="#5300FF" stop-opacity="0"/>
+      <stop offset="1" stop-color="#9D6EFF"/>
     </linearGradient>
-    <linearGradient id="beam_svg__d" x1="14.286" x2="14.286" y1="15.781" y2="22.753" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#F1E869"/>
-      <stop offset=".33" stop-color="#FEA514"/>
-      <stop offset=".6" stop-color="#FF4539"/>
+    <linearGradient id="beam_svg__d" x1="96.966%" x2="44.149%" y1="35.409%" y2="42.312%">
+      <stop offset="0" stop-color="#AE60D6" stop-opacity="0"/>
+      <stop offset="1" stop-color="#AB38E6"/>
     </linearGradient>
   </defs>
+  <g fill-rule="evenodd">
+    <circle cx="23.5" cy="23.5" r="23.5"/>
+    <circle cx="23.5" cy="23.5" r="21.439" stroke="#fff"/>
+    <path fill="#0B76FF" d="M23.39 28.287h7.87l-7.868-13.633v.002-8.263l15.42 26.281H23.39z"/>
+    <path fill="#24C1FF" d="M23.389 28.287v4.387H7.967l15.42-26.281.002 8.263-.001-.002-7.868 13.633z"/>
+    <path fill="#39FFF2" d="M23.39 18.038v8.647l-4.88.01z"/>
+    <path fill="#00E2C2" d="m23.39 18.038 4.878 8.656-4.878-.009z"/>
+    <path fill="url(#beam_svg__a)" d="m.224 9.179 19.043 7.869v1.101L.224 13.428z" transform="translate(4.123 6.184)"/>
+    <path fill="url(#beam_svg__b)" d="M38.309 5.879 19.267 17.048v.302l19.042-7.856z" transform="translate(4.123 6.184)"/>
+    <path fill="url(#beam_svg__c)" d="m38.294 16.733-19.027 1.415v-.313l19.027-4.722z" transform="translate(4.123 6.184)"/>
+    <path fill="url(#beam_svg__d)" d="m38.309 9.645-19.042 7.723v.467l19.042-4.879z" transform="translate(4.123 6.184)"/>
+  </g>
 </svg>
