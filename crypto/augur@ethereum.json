@@ -5,7 +5,7 @@
   "type": "token",
   "name": "Augur",
   "symbol": "REP",
-  "address": "0x221657776846890989a759ba2973e427dff5c9bb",
+  "address": "0x1985365e9f78359a9b6ad760e32412f4a445e862",
   "decimals": 18,
   "logo": "augur.svg",
   "coingecko": {
@@ -15,9 +15,5 @@
   "coinmarketcap": {
     "id": 1104,
     "slug": "augur"
-  },
-  "guardarian": {
-    "ticker": "REP",
-    "network": "ETH"
   }
 }
