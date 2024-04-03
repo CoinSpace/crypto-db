@@ -1,0 +1,25 @@
+{
+  "_id": "worldcoin@optimism",
+  "asset": "worldcoin",
+  "platform": "optimism",
+  "type": "token",
+  "name": "Worldcoin",
+  "symbol": "WLD",
+  "address": "0xdc6ff44d5d932cbd77b52e5612ba0529dc6226f1",
+  "decimals": 18,
+  "logo": "worldcoin.svg",
+  "changelly": {
+    "ticker": "wld"
+  },
+  "coingecko": {
+    "id": "worldcoin-wld"
+  },
+  "coinmarketcap": {
+    "id": 13502,
+    "slug": "worldcoin-org"
+  },
+  "moonpay": {
+    "id": "3c1f95ba-cf50-4862-8d03-29ab39e69a64",
+    "code": "wld_optimism"
+  }
+}

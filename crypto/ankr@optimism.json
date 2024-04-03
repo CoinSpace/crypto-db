@@ -1,0 +1,18 @@
+{
+  "_id": "ankr@optimism",
+  "asset": "ankr",
+  "platform": "optimism",
+  "type": "token",
+  "name": "Ankr",
+  "symbol": "ANKR",
+  "address": "0xaeaeed23478c3a4b798e4ed40d8b7f41366ae861",
+  "decimals": 18,
+  "logo": "ankr.svg",
+  "coingecko": {
+    "id": "ankr"
+  },
+  "coinmarketcap": {
+    "id": 3783,
+    "slug": "ankr"
+  }
+}

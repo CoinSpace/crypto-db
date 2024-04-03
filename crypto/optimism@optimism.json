@@ -1,0 +1,25 @@
+{
+  "_id": "optimism@optimism",
+  "asset": "optimism",
+  "platform": "optimism",
+  "type": "token",
+  "name": "Optimism",
+  "symbol": "OP",
+  "address": "0x4200000000000000000000000000000000000042",
+  "decimals": 18,
+  "logo": "optimism.svg",
+  "changelly": {
+    "ticker": "op"
+  },
+  "coingecko": {
+    "id": "optimism"
+  },
+  "coinmarketcap": {
+    "id": 11840,
+    "slug": "optimism-ethereum"
+  },
+  "guardarian": {
+    "ticker": "OP",
+    "network": "OP"
+  }
+}

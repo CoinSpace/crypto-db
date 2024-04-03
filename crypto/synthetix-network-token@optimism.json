@@ -1,0 +1,22 @@
+{
+  "_id": "synthetix-network-token@optimism",
+  "asset": "synthetix-network-token",
+  "platform": "optimism",
+  "type": "token",
+  "name": "Synthetix",
+  "symbol": "SNX",
+  "address": "0x8700daec35af8ff88c16bdf0418774cb3d7599b4",
+  "decimals": 18,
+  "logo": "synthetix-network-token.svg",
+  "coingecko": {
+    "id": "havven"
+  },
+  "coinmarketcap": {
+    "id": 2586,
+    "slug": "synthetix"
+  },
+  "guardarian": {
+    "ticker": "SNX",
+    "network": "OP"
+  }
+}

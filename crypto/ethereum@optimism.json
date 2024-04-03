@@ -1,0 +1,25 @@
+{
+  "_id": "ethereum@optimism",
+  "asset": "ethereum",
+  "platform": "optimism",
+  "type": "coin",
+  "name": "Optimism",
+  "symbol": "ETH",
+  "decimals": 18,
+  "logo": "optimism.svg",
+  "coingecko": {
+    "id": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 1027,
+    "slug": "ethereum"
+  },
+  "guardarian": {
+    "ticker": "ETH",
+    "network": "OP"
+  },
+  "moonpay": {
+    "id": "621e5943-811c-4de0-b3b1-ef5340d9fcdf",
+    "code": "eth_optimism"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "_id": "usd-coin@optimism",
+  "asset": "usd-coin",
+  "platform": "optimism",
+  "type": "token",
+  "name": "USDC",
+  "symbol": "USDC",
+  "address": "0x0b2c639c533813f4aa9d7837caf62653d097ff85",
+  "decimals": 6,
+  "logo": "usd-coin.svg",
+  "changelly": {
+    "ticker": "usdcop"
+  },
+  "coingecko": {
+    "id": "usd-coin"
+  },
+  "coinmarketcap": {
+    "id": 3408,
+    "slug": "usd-coin"
+  },
+  "guardarian": {
+    "ticker": "USDC",
+    "network": "OP"
+  }
+}

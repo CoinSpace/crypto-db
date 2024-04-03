@@ -1,0 +1,18 @@
+{
+  "_id": "ethena@ethereum",
+  "asset": "ethena",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Ethena",
+  "symbol": "ENA",
+  "address": "0x57e114b691db790c35207b2e685d4a43181e6061",
+  "decimals": 18,
+  "logo": "ethena.svg",
+  "coingecko": {
+    "id": "ethena"
+  },
+  "coinmarketcap": {
+    "id": 30171,
+    "slug": "ethena"
+  }
+}

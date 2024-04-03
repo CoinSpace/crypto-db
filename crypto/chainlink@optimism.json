@@ -1,0 +1,18 @@
+{
+  "_id": "chainlink@optimism",
+  "asset": "chainlink",
+  "platform": "optimism",
+  "type": "token",
+  "name": "Chainlink",
+  "symbol": "LINK",
+  "address": "0x350a791bfc2c21f9ed5d10980dad2e2638ffa7f6",
+  "decimals": 18,
+  "logo": "chainlink.svg",
+  "coingecko": {
+    "id": "chainlink"
+  },
+  "coinmarketcap": {
+    "id": 1975,
+    "slug": "chainlink"
+  }
+}

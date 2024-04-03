@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "stratis@ethereum",
   "asset": "stratis",
   "platform": "ethereum",

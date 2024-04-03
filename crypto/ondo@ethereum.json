@@ -1,0 +1,21 @@
+{
+  "_id": "ondo@ethereum",
+  "asset": "ondo",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Ondo",
+  "symbol": "ONDO",
+  "address": "0xfaba6f8e4a5e8ab82f62fe7c39859fa577269be3",
+  "decimals": 18,
+  "logo": "ondo.svg",
+  "changelly": {
+    "ticker": "ondo"
+  },
+  "coingecko": {
+    "id": "ondo-finance"
+  },
+  "coinmarketcap": {
+    "id": 21159,
+    "slug": "ondo-finance"
+  }
+}

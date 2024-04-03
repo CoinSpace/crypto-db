@@ -1,0 +1,22 @@
+{
+  "_id": "tether@optimism",
+  "asset": "tether",
+  "platform": "optimism",
+  "type": "token",
+  "name": "Tether",
+  "symbol": "USDT",
+  "address": "0x94b008aa00579c1307b0ef2c499ad98a8ce58e58",
+  "decimals": 6,
+  "logo": "tether.svg",
+  "coingecko": {
+    "id": "tether"
+  },
+  "coinmarketcap": {
+    "id": 825,
+    "slug": "tether"
+  },
+  "guardarian": {
+    "ticker": "USDT",
+    "network": "OP"
+  }
+}

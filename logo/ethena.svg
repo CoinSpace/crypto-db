@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 392 391">
+  <path fill="#111" stroke="#111" stroke-width="7.057" d="M196.092 3.529h.007c105.799 0 191.566 85.767 191.566 191.566v.007c0 105.799-85.767 191.566-191.566 191.566h-.007c-105.8 0-191.566-85.767-191.566-191.566v-.007c0-105.8 85.767-191.566 191.566-191.566Z"/>
+  <path fill="url(#ethena_svg__a)" fill-opacity=".7" d="M196.099 0h-.007C88.344 0 .997 87.347.997 195.095v.007c0 107.748 87.347 195.094 195.095 195.094h.007c107.748 0 195.094-87.346 195.094-195.094v-.007C391.193 87.347 303.847 0 196.099 0Z"/>
+  <path stroke="url(#ethena_svg__b)" stroke-width="7.146" d="M196.092 3.573h.007c105.774 0 191.521 85.747 191.521 191.522v.007c0 105.774-85.747 191.521-191.521 191.521h-.007C90.317 386.623 4.57 300.876 4.57 195.102v-.007C4.57 89.32 90.317 3.573 196.092 3.573Z"/>
+  <path fill="#fff" fill-rule="evenodd" d="M153.405 104.362h-4.157l-2.696 3.165-69.584 81.732L72 195.094l4.967 5.834 69.584 81.732 2.696 3.166H287.68v-60.959h-18v42.959h-96.594l57.813-66.845 5.092-5.887-5.092-5.888-57.813-66.844h96.594v42.959h18v-60.959H153.405Zm.053 22.821-57.817 67.911 57.817 67.911 58.735-67.911-58.735-67.911Z" clip-rule="evenodd"/>
+  <defs>
+    <radialGradient id="ethena_svg__a" cx="0" cy="0" r="1" gradientTransform="scale(289.55 411.352)rotate(90 .27 .409)" gradientUnits="userSpaceOnUse">
+      <stop offset=".031" stop-color="#3A3A3A"/>
+      <stop offset="1" stop-color="#1C1C1C"/>
+    </radialGradient>
+    <linearGradient id="ethena_svg__b" x1="196.095" x2="196.095" y1="-3.681" y2="393.878" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff"/>
+      <stop offset="1" stop-color="#111"/>
+    </linearGradient>
+  </defs>
+</svg>
