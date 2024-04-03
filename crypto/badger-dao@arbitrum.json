@@ -1,0 +1,18 @@
+{
+  "_id": "badger-dao@arbitrum",
+  "asset": "badger-dao",
+  "platform": "arbitrum",
+  "type": "token",
+  "name": "Badger DAO",
+  "symbol": "BADGER",
+  "address": "0xbfa641051ba0a0ad1b0acf549a89536a0d76472e",
+  "decimals": 18,
+  "logo": "badger-dao.jpg",
+  "coingecko": {
+    "id": "badger-dao"
+  },
+  "coinmarketcap": {
+    "id": 7859,
+    "slug": "badger-dao"
+  }
+}

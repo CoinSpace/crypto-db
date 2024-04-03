@@ -1,0 +1,18 @@
+{
+  "_id": "bella-protocol@polygon",
+  "asset": "bella-protocol",
+  "platform": "polygon",
+  "type": "token",
+  "name": "Bella Protocol",
+  "symbol": "BEL",
+  "address": "0x28c388fb1f4fa9f9eb445f0579666849ee5eeb42",
+  "decimals": 18,
+  "logo": "bella-protocol.svg",
+  "coingecko": {
+    "id": "bella-protocol"
+  },
+  "coinmarketcap": {
+    "id": 6928,
+    "slug": "bella-protocol"
+  }
+}

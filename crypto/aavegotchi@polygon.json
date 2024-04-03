@@ -1,0 +1,18 @@
+{
+  "_id": "aavegotchi@polygon",
+  "asset": "aavegotchi",
+  "platform": "polygon",
+  "type": "token",
+  "name": "Aavegotchi",
+  "symbol": "GHST",
+  "address": "0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7",
+  "decimals": 18,
+  "logo": "aavegotchi.png",
+  "coingecko": {
+    "id": "aavegotchi"
+  },
+  "coinmarketcap": {
+    "id": 7046,
+    "slug": "aavegotchi"
+  }
+}

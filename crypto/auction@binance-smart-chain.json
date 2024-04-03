@@ -1,0 +1,18 @@
+{
+  "_id": "auction@binance-smart-chain",
+  "asset": "auction",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Bounce Token",
+  "symbol": "AUCTION",
+  "address": "0x1188d953afc697c031851169eef640f23ac8529c",
+  "decimals": 18,
+  "logo": "auction.jpg",
+  "coingecko": {
+    "id": "auction"
+  },
+  "coinmarketcap": {
+    "id": 8602,
+    "slug": "bounce-token"
+  }
+}

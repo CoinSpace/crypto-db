@@ -1,0 +1,18 @@
+{
+  "_id": "everipedia@arbitrum",
+  "asset": "everipedia",
+  "platform": "arbitrum",
+  "type": "token",
+  "name": "IQ",
+  "symbol": "IQ",
+  "address": "0xce4db2ce8cca463f8aa1e2174c244ba4a8d672cb",
+  "decimals": 18,
+  "logo": "everipedia.svg",
+  "coingecko": {
+    "id": "everipedia"
+  },
+  "coinmarketcap": {
+    "id": 2930,
+    "slug": "iq"
+  }
+}

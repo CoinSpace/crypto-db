@@ -1,0 +1,18 @@
+{
+  "_id": "orbs@arbitrum",
+  "asset": "orbs",
+  "platform": "arbitrum",
+  "type": "token",
+  "name": "Orbs",
+  "symbol": "ORBS",
+  "address": "0xf3c091ed43de9c270593445163a41a876a0bb3dd",
+  "decimals": 18,
+  "logo": "orbs.svg",
+  "coingecko": {
+    "id": "orbs"
+  },
+  "coinmarketcap": {
+    "id": 3835,
+    "slug": "orbs"
+  }
+}

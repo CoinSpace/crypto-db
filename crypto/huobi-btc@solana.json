@@ -1,0 +1,18 @@
+{
+  "_id": "huobi-btc@solana",
+  "asset": "huobi-btc",
+  "platform": "solana",
+  "type": "token",
+  "name": "Huobi BTC",
+  "symbol": "HBTC",
+  "address": "7dVH61ChzgmN9BwG4PkzwRP8PbYwPJ7ZPNF2vamKT2H8",
+  "decimals": 8,
+  "logo": "huobi-btc.png",
+  "coingecko": {
+    "id": "huobi-btc"
+  },
+  "coinmarketcap": {
+    "id": 6941,
+    "slug": "huobi-btc"
+  }
+}

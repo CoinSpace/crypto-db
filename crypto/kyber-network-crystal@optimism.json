@@ -1,0 +1,18 @@
+{
+  "_id": "kyber-network-crystal@optimism",
+  "asset": "kyber-network-crystal",
+  "platform": "optimism",
+  "type": "token",
+  "name": "Kyber Network Crystal",
+  "symbol": "KNC",
+  "address": "0xa00e3a3511aac35ca78530c85007afcd31753819",
+  "decimals": 18,
+  "logo": "kyber-network-crystal.svg",
+  "coingecko": {
+    "id": "kyber-network-crystal"
+  },
+  "coinmarketcap": {
+    "id": 9444,
+    "slug": "kyber-network-crystal-v2"
+  }
+}

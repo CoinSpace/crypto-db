@@ -1,0 +1,18 @@
+{
+  "_id": "tellor@optimism",
+  "asset": "tellor",
+  "platform": "optimism",
+  "type": "token",
+  "name": "Tellor",
+  "symbol": "TRB",
+  "address": "0xaf8ca653fa2772d58f4368b0a71980e9e3ceb888",
+  "decimals": 18,
+  "logo": "tellor.svg",
+  "coingecko": {
+    "id": "tellor"
+  },
+  "coinmarketcap": {
+    "id": 4944,
+    "slug": "tellor"
+  }
+}

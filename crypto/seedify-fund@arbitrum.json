@@ -1,0 +1,18 @@
+{
+  "_id": "seedify-fund@arbitrum",
+  "asset": "seedify-fund",
+  "platform": "arbitrum",
+  "type": "token",
+  "name": "Seedify.fund",
+  "symbol": "SFUND",
+  "address": "0x560363bda52bc6a44ca6c8c9b4a5fadbda32fa60",
+  "decimals": 18,
+  "logo": "seedify-fund.png",
+  "coingecko": {
+    "id": "seedify-fund"
+  },
+  "coinmarketcap": {
+    "id": 8972,
+    "slug": "seedify-fund"
+  }
+}

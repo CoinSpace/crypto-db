@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "augur@ethereum",
   "asset": "augur",
   "platform": "ethereum",
@@ -15,9 +16,5 @@
   "coinmarketcap": {
     "id": 1104,
     "slug": "augur"
-  },
-  "guardarian": {
-    "ticker": "REP",
-    "network": "ETH"
   }
 }

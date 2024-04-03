@@ -1,0 +1,18 @@
+{
+  "_id": "insure-defi@avalanche-c-chain",
+  "asset": "insure-defi",
+  "platform": "avalanche-c-chain",
+  "type": "token",
+  "name": "inSure DeFi",
+  "symbol": "SURE",
+  "address": "0x5fc17416925789e0852fbfcd81c490ca4abc51f9",
+  "decimals": 18,
+  "logo": "insure-defi.png",
+  "coingecko": {
+    "id": "insure"
+  },
+  "coinmarketcap": {
+    "id": 5113,
+    "slug": "insure"
+  }
+}

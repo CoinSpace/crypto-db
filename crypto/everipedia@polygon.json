@@ -1,0 +1,18 @@
+{
+  "_id": "everipedia@polygon",
+  "asset": "everipedia",
+  "platform": "polygon",
+  "type": "token",
+  "name": "IQ",
+  "symbol": "IQ",
+  "address": "0xb9638272ad6998708de56bbc0a290a1de534a578",
+  "decimals": 18,
+  "logo": "everipedia.svg",
+  "coingecko": {
+    "id": "everipedia"
+  },
+  "coinmarketcap": {
+    "id": 2930,
+    "slug": "iq"
+  }
+}

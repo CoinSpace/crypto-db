@@ -1,0 +1,18 @@
+{
+  "_id": "mobox@arbitrum",
+  "asset": "mobox",
+  "platform": "arbitrum",
+  "type": "token",
+  "name": "MOBOX",
+  "symbol": "MBOX",
+  "address": "0xda661fa59320b808c5a6d23579fcfedf1fd3cf36",
+  "decimals": 18,
+  "logo": "mobox.png",
+  "coingecko": {
+    "id": "mobox"
+  },
+  "coinmarketcap": {
+    "id": 9175,
+    "slug": "mobox"
+  }
+}

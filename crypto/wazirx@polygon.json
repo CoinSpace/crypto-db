@@ -1,0 +1,18 @@
+{
+  "_id": "wazirx@polygon",
+  "asset": "wazirx",
+  "platform": "polygon",
+  "type": "token",
+  "name": "WazirX",
+  "symbol": "WRX",
+  "address": "0x72d6066f486bd0052eefb9114b66ae40e0a6031a",
+  "decimals": 8,
+  "logo": "wazirx.png",
+  "coingecko": {
+    "id": "wazirx"
+  },
+  "coinmarketcap": {
+    "id": 5161,
+    "slug": "wazirx"
+  }
+}

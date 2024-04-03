@@ -1,0 +1,18 @@
+{
+  "_id": "cartesi@optimism",
+  "asset": "cartesi",
+  "platform": "optimism",
+  "type": "token",
+  "name": "Cartesi",
+  "symbol": "CTSI",
+  "address": "0xec6adef5e1006bb305bb1975333e8fc4071295bf",
+  "decimals": 18,
+  "logo": "cartesi.svg",
+  "coingecko": {
+    "id": "cartesi"
+  },
+  "coinmarketcap": {
+    "id": 5444,
+    "slug": "cartesi"
+  }
+}

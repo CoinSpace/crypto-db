@@ -1,0 +1,22 @@
+{
+  "_id": "wrapped-bitcoin@optimism",
+  "asset": "wrapped-bitcoin",
+  "platform": "optimism",
+  "type": "token",
+  "name": "Wrapped Bitcoin",
+  "symbol": "WBTC",
+  "address": "0x68f180fcce6836688e9084f035309e29bf0a2095",
+  "decimals": 8,
+  "logo": "wrapped-bitcoin.svg",
+  "coingecko": {
+    "id": "wrapped-bitcoin"
+  },
+  "coinmarketcap": {
+    "id": 3717,
+    "slug": "wrapped-bitcoin"
+  },
+  "guardarian": {
+    "ticker": "WBTC",
+    "network": "OP"
+  }
+}
