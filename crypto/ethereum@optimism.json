@@ -3,7 +3,7 @@
   "asset": "ethereum",
   "platform": "optimism",
   "type": "coin",
-  "name": "Optimism",
+  "name": "Ethereum",
   "symbol": "ETH",
   "decimals": 18,
   "logo": "optimism.svg",
