@@ -22,6 +22,10 @@
     "ticker": "USDT",
     "network": "SOL"
   },
+  "moonpay": {
+    "id": "56b78007-185f-4343-8cb5-6903fb1d7865",
+    "code": "usdt_sol"
+  },
   "onramper": {
     "id": "USDT_SOLANA"
   }
