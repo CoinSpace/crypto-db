@@ -1,0 +1,18 @@
+{
+  "_id": "perpetual-protocol@solana",
+  "asset": "perpetual-protocol",
+  "platform": "solana",
+  "type": "token",
+  "name": "Perpetual Protocol",
+  "symbol": "PERP",
+  "address": "9BsnSWDPfbusseZfnXyZ3un14CyPMZYvsKjWY3Y8Gbqn",
+  "decimals": 8,
+  "logo": "perpetual-protocol.svg",
+  "coingecko": {
+    "id": "perpetual-protocol"
+  },
+  "coinmarketcap": {
+    "id": 6950,
+    "slug": "perpetual-protocol"
+  }
+}
