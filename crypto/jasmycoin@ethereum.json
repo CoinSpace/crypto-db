@@ -7,7 +7,7 @@
   "symbol": "JASMY",
   "address": "0x7420b4b9a0110cdc71fb720908340c03f9bc03ec",
   "decimals": 18,
-  "logo": "jasmycoin.jpg",
+  "logo": "jasmycoin.svg",
   "changelly": {
     "ticker": "jasmy"
   },
