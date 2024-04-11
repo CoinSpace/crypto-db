@@ -1,0 +1,18 @@
+{
+  "_id": "wormhole@solana",
+  "asset": "wormhole",
+  "platform": "solana",
+  "type": "token",
+  "name": "Wormhole",
+  "symbol": "W",
+  "address": "85VBFQZC9TZkfaptBWjvUw7YbZjy52A6mjtPGjstQAmQ",
+  "decimals": 6,
+  "logo": "wormhole.svg",
+  "coingecko": {
+    "id": "wormhole"
+  },
+  "coinmarketcap": {
+    "id": 29587,
+    "slug": "wormhole"
+  }
+}
