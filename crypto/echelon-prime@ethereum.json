@@ -1,0 +1,21 @@
+{
+  "_id": "echelon-prime@ethereum",
+  "asset": "echelon-prime",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Echelon Prime",
+  "symbol": "PRIME",
+  "address": "0xb23d80f5fefcddaa212212f028021b41ded428cf",
+  "decimals": 18,
+  "logo": "echelon-prime.png",
+  "changelly": {
+    "ticker": "prime"
+  },
+  "coingecko": {
+    "id": "echelon-prime"
+  },
+  "coinmarketcap": {
+    "id": 23711,
+    "slug": "echelon-prime"
+  }
+}
