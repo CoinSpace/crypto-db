@@ -8,6 +8,11 @@
   "decimals": 9,
   "logo": "solana.svg",
   "scheme": "solana",
+  "btcdirect": {
+    "currencyPair": [
+      "SOL-EUR"
+    ]
+  },
   "changelly": {
     "ticker": "sol"
   },
