@@ -8,6 +8,9 @@
   "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
   "decimals": 18,
   "logo": "ethereum.svg",
+  "changelly": {
+    "ticker": "ethbsc"
+  },
   "coingecko": {
     "id": "ethereum",
     "platform": "binance-smart-chain"
