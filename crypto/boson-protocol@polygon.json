@@ -1,0 +1,18 @@
+{
+  "_id": "boson-protocol@polygon",
+  "asset": "boson-protocol",
+  "platform": "polygon",
+  "type": "token",
+  "name": "Boson Protocol",
+  "symbol": "BOSON",
+  "address": "0x9b3b0703d392321ad24338ff1f846650437a43c9",
+  "decimals": 18,
+  "logo": "boson-protocol.png",
+  "coingecko": {
+    "id": "boson-protocol"
+  },
+  "coinmarketcap": {
+    "id": 8827,
+    "slug": "boson-protocol"
+  }
+}
