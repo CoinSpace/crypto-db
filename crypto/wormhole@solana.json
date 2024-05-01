@@ -8,6 +8,9 @@
   "address": "85VBFQZC9TZkfaptBWjvUw7YbZjy52A6mjtPGjstQAmQ",
   "decimals": 6,
   "logo": "wormhole.svg",
+  "changelly": {
+    "ticker": "w"
+  },
   "coingecko": {
     "id": "wormhole"
   },
