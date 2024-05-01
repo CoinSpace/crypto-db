@@ -20,10 +20,6 @@
     "ticker": "ENJ",
     "network": "ETH"
   },
-  "moonpay": {
-    "id": "50155e79-9f8c-4e07-9366-c4ca4628823d",
-    "code": "enj"
-  },
   "paybis": {
     "id": "ENJ"
   }
