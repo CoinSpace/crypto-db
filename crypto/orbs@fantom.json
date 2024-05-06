@@ -1,0 +1,18 @@
+{
+  "_id": "orbs@fantom",
+  "asset": "orbs",
+  "platform": "fantom",
+  "type": "token",
+  "name": "Orbs",
+  "symbol": "ORBS",
+  "address": "0x43a8cab15d06d3a5fe5854d714c37e7e9246f170",
+  "decimals": 18,
+  "logo": "orbs.svg",
+  "coingecko": {
+    "id": "orbs"
+  },
+  "coinmarketcap": {
+    "id": 3835,
+    "slug": "orbs"
+  }
+}

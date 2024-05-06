@@ -1,0 +1,18 @@
+{
+  "_id": "usd-coin@fantom",
+  "asset": "usd-coin",
+  "platform": "fantom",
+  "type": "token",
+  "name": "USDC",
+  "symbol": "USDC",
+  "address": "0x04068da6c83afcfa0e13ba15a6696662335d5b75",
+  "decimals": 6,
+  "logo": "usd-coin.svg",
+  "coingecko": {
+    "id": "usd-coin"
+  },
+  "coinmarketcap": {
+    "id": 3408,
+    "slug": "usd-coin"
+  }
+}

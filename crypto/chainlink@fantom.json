@@ -1,0 +1,18 @@
+{
+  "_id": "chainlink@fantom",
+  "asset": "chainlink",
+  "platform": "fantom",
+  "type": "token",
+  "name": "Chainlink",
+  "symbol": "LINK",
+  "address": "0xb3654dc3d10ea7645f8319668e8f54d2574fbdc8",
+  "decimals": 18,
+  "logo": "chainlink.svg",
+  "coingecko": {
+    "id": "chainlink"
+  },
+  "coinmarketcap": {
+    "id": 1975,
+    "slug": "chainlink"
+  }
+}

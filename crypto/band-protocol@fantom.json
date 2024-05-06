@@ -1,0 +1,18 @@
+{
+  "_id": "band-protocol@fantom",
+  "asset": "band-protocol",
+  "platform": "fantom",
+  "type": "token",
+  "name": "Band Protocol",
+  "symbol": "BAND",
+  "address": "0x46e7628e8b4350b2716ab470ee0ba1fa9e76c6c5",
+  "decimals": 18,
+  "logo": "band-protocol.svg",
+  "coingecko": {
+    "id": "band-protocol"
+  },
+  "coinmarketcap": {
+    "id": 4679,
+    "slug": "band-protocol"
+  }
+}

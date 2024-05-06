@@ -1,0 +1,18 @@
+{
+  "_id": "frax-share@fantom",
+  "asset": "frax-share",
+  "platform": "fantom",
+  "type": "token",
+  "name": "Frax Share",
+  "symbol": "FXS",
+  "address": "0x82f8cb20c14f134fe6ebf7ac3b903b2117aafa62",
+  "decimals": 18,
+  "logo": "frax-share.svg",
+  "coingecko": {
+    "id": "frax-share"
+  },
+  "coinmarketcap": {
+    "id": 6953,
+    "slug": "frax-share"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "aave@fantom",
+  "asset": "aave",
+  "platform": "fantom",
+  "type": "token",
+  "name": "Aave",
+  "symbol": "AAVE",
+  "address": "0x6a07a792ab2965c72a5b8088d3a069a7ac3a993b",
+  "decimals": 18,
+  "logo": "aave.svg",
+  "coingecko": {
+    "id": "aave"
+  },
+  "coinmarketcap": {
+    "id": 7278,
+    "slug": "aave"
+  }
+}

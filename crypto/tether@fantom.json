@@ -1,0 +1,18 @@
+{
+  "_id": "tether@fantom",
+  "asset": "tether",
+  "platform": "fantom",
+  "type": "token",
+  "name": "Tether",
+  "symbol": "USDT",
+  "address": "0x049d68029688eabf473097a2fc38ef61633a3c7a",
+  "decimals": 6,
+  "logo": "tether.svg",
+  "coingecko": {
+    "id": "tether"
+  },
+  "coinmarketcap": {
+    "id": 825,
+    "slug": "tether"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "sushi@fantom",
+  "asset": "sushi",
+  "platform": "fantom",
+  "type": "token",
+  "name": "SushiSwap",
+  "symbol": "SUSHI",
+  "address": "0xae75a438b2e0cb8bb01ec1e1e376de11d44477cc",
+  "decimals": 18,
+  "logo": "sushi.svg",
+  "coingecko": {
+    "id": "sushi"
+  },
+  "coinmarketcap": {
+    "id": 6758,
+    "slug": "sushiswap"
+  }
+}

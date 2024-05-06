@@ -8,6 +8,9 @@
   "decimals": 8,
   "logo": "wax.svg",
   "supported": false,
+  "changelly": {
+    "ticker": "waxp"
+  },
   "coingecko": {
     "id": "wax"
   },

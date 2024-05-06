@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "fantom.svg",
   "coingecko": {
-    "id": "fantom",
-    "platform": "binance-smart-chain"
+    "id": "fantom"
   },
   "coinmarketcap": {
     "id": 3513,

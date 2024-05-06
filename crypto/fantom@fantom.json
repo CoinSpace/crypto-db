@@ -1,15 +1,14 @@
 {
-  "_id": "fantom@ethereum",
+  "_id": "fantom@fantom",
   "asset": "fantom",
-  "platform": "ethereum",
-  "type": "token",
+  "platform": "fantom",
+  "type": "coin",
   "name": "Fantom",
   "symbol": "FTM",
-  "address": "0x4e15361fd6b4bb609fa63c81a2be19d873717870",
   "decimals": 18,
   "logo": "fantom.svg",
   "changelly": {
-    "ticker": "ftm"
+    "ticker": "ftmmainnet"
   },
   "coingecko": {
     "id": "fantom"
@@ -20,6 +19,6 @@
   },
   "guardarian": {
     "ticker": "FTM",
-    "network": "ETH"
+    "network": "FTM"
   }
 }

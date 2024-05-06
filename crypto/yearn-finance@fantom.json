@@ -1,0 +1,18 @@
+{
+  "_id": "yearn-finance@fantom",
+  "asset": "yearn-finance",
+  "platform": "fantom",
+  "type": "token",
+  "name": "yearn.finance",
+  "symbol": "YFI",
+  "address": "0x29b0da86e484e1c0029b56e817912d778ac0ec69",
+  "decimals": 18,
+  "logo": "yearn-finance.svg",
+  "coingecko": {
+    "id": "yearn-finance"
+  },
+  "coinmarketcap": {
+    "id": 5864,
+    "slug": "yearn-finance"
+  }
+}
