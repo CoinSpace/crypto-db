@@ -7,6 +7,11 @@
   "symbol": "BNB",
   "decimals": 18,
   "logo": "binance-smart-chain.svg",
+  "btcdirect": {
+    "currencyPair": [
+      "BNB-EUR"
+    ]
+  },
   "changelly": {
     "ticker": "bnbbsc"
   },

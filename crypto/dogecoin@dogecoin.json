@@ -8,6 +8,11 @@
   "decimals": 8,
   "logo": "dogecoin.svg",
   "scheme": "dogecoin",
+  "btcdirect": {
+    "currencyPair": [
+      "DOGE-EUR"
+    ]
+  },
   "changelly": {
     "ticker": "doge"
   },
