@@ -5,7 +5,7 @@
   "type": "token",
   "name": "Aave",
   "symbol": "AAVE",
-  "address": "0x6a07a792ab2965c72a5b8088d3a069a7ac3a993b",
+  "address": "0x6a07A792ab2965C72a5B8088d3a069A7aC3a993B",
   "decimals": 18,
   "logo": "aave.svg",
   "coingecko": {
