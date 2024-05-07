@@ -5,7 +5,7 @@
   "type": "token",
   "name": "Synthetix",
   "symbol": "SNX",
-  "address": "0x56ee926bd8c72b2d5fa1af4d9e4cbb515a1e3adc",
+  "address": "0x56ee926bD8c72B2d5fa1aF4d9E4Cbb515a1E3Adc",
   "decimals": 18,
   "logo": "synthetix-network-token.svg",
   "coingecko": {
