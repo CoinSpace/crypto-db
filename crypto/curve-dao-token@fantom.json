@@ -5,7 +5,7 @@
   "type": "token",
   "name": "Curve DAO Token",
   "symbol": "CRV",
-  "address": "0x1e4f97b9f9f913c46f1632781732927b9019c68b",
+  "address": "0x1E4F97b9f9F913c46F1632781732927B9019C68b",
   "decimals": 18,
   "logo": "curve-dao-token.svg",
   "coingecko": {
