@@ -5,7 +5,7 @@
   "type": "token",
   "name": "Axelar",
   "symbol": "AXL",
-  "address": "0x8b1f4432f943c465a973fedc6d7aa50fc96f1f65",
+  "address": "0x8b1f4432F943c465A973FeDC6d7aa50Fc96f1f65",
   "decimals": 6,
   "logo": "axelar.svg",
   "coingecko": {
