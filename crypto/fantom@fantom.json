@@ -7,9 +7,6 @@
   "symbol": "FTM",
   "decimals": 18,
   "logo": "fantom.svg",
-  "changelly": {
-    "ticker": "ftmmainnet"
-  },
   "coingecko": {
     "id": "fantom"
   },
