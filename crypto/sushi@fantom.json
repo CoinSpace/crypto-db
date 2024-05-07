@@ -5,7 +5,7 @@
   "type": "token",
   "name": "SushiSwap",
   "symbol": "SUSHI",
-  "address": "0xae75a438b2e0cb8bb01ec1e1e376de11d44477cc",
+  "address": "0xae75A438b2E0cB8Bb01Ec1E1e376De11D44477CC",
   "decimals": 18,
   "logo": "sushi.svg",
   "coingecko": {
