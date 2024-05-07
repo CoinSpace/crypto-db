@@ -5,7 +5,7 @@
   "type": "token",
   "name": "yearn.finance",
   "symbol": "YFI",
-  "address": "0x29b0da86e484e1c0029b56e817912d778ac0ec69",
+  "address": "0x29b0Da86e484E1C0029B56e817912d778aC0EC69",
   "decimals": 18,
   "logo": "yearn-finance.svg",
   "coingecko": {
