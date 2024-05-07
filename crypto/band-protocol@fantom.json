@@ -5,7 +5,7 @@
   "type": "token",
   "name": "Band Protocol",
   "symbol": "BAND",
-  "address": "0x46e7628e8b4350b2716ab470ee0ba1fa9e76c6c5",
+  "address": "0x46E7628E8b4350b2716ab470eE0bA1fa9e76c6C5",
   "decimals": 18,
   "logo": "band-protocol.svg",
   "coingecko": {
