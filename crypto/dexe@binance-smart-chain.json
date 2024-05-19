@@ -1,0 +1,18 @@
+{
+  "_id": "dexe@binance-smart-chain",
+  "asset": "dexe",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "DeXe",
+  "symbol": "DEXE",
+  "address": "0x6e88056e8376ae7709496ba64d37fa2f8015ce3e",
+  "decimals": 18,
+  "logo": "dexe.png",
+  "coingecko": {
+    "id": "dexe"
+  },
+  "coinmarketcap": {
+    "id": 7326,
+    "slug": "dexe"
+  }
+}

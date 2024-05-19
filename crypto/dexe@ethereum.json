@@ -1,0 +1,21 @@
+{
+  "_id": "dexe@ethereum",
+  "asset": "dexe",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "DeXe",
+  "symbol": "DEXE",
+  "address": "0xde4ee8057785a7e8e800db58f9784845a5c2cbd6",
+  "decimals": 18,
+  "logo": "dexe.png",
+  "changelly": {
+    "ticker": "dexe"
+  },
+  "coingecko": {
+    "id": "dexe"
+  },
+  "coinmarketcap": {
+    "id": 7326,
+    "slug": "dexe"
+  }
+}
