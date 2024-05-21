@@ -1,0 +1,21 @@
+{
+  "_id": "book-of-meme@solana",
+  "asset": "book-of-meme",
+  "platform": "solana",
+  "type": "token",
+  "name": "BOOK OF MEME",
+  "symbol": "BOME",
+  "address": "ukHH6c7mMyiWCf1b9pnWe25TSpkDDt3H5pQZgZ74J82",
+  "decimals": 6,
+  "logo": "book-of-meme.svg",
+  "changelly": {
+    "ticker": "bome"
+  },
+  "coingecko": {
+    "id": "book-of-meme"
+  },
+  "coinmarketcap": {
+    "id": 29870,
+    "slug": "book-of-meme"
+  }
+}
