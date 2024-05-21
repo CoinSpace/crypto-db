@@ -1,5 +1,4 @@
 {
-  "deprecated": true,
   "_id": "aioz-network@ethereum",
   "asset": "aioz-network",
   "platform": "ethereum",
@@ -8,9 +7,12 @@
   "symbol": "AIOZ",
   "address": "0x626e8036deb333b408be468f951bdb42433cbf18",
   "decimals": 18,
+  "logo": "aioz-network.png",
+  "changelly": {
+    "ticker": "aioz"
+  },
   "coingecko": {
-    "id": "aioz-network",
-    "platform": "ethereum"
+    "id": "aioz-network"
   },
   "coinmarketcap": {
     "id": 9104,
