@@ -1,0 +1,18 @@
+{
+  "_id": "swissborg@solana",
+  "asset": "swissborg",
+  "platform": "solana",
+  "type": "token",
+  "name": "SwissBorg",
+  "symbol": "BORG",
+  "address": "3dQTr7ror2QPKQ3GbBCokJUmjErGg8kTJzdnYjNfvi3Z",
+  "decimals": 9,
+  "logo": "swissborg.svg",
+  "coingecko": {
+    "id": "swissborg"
+  },
+  "coinmarketcap": {
+    "id": 2499,
+    "slug": "swissborg"
+  }
+}
