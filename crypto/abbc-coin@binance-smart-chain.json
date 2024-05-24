@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "abbc-coin@binance-smart-chain",
   "asset": "abbc-coin",
   "platform": "binance-smart-chain",

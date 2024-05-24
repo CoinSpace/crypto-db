@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "carry@ethereum",
   "asset": "carry",
   "platform": "ethereum",
@@ -7,7 +8,6 @@
   "symbol": "CRE",
   "address": "0x115ec79f1de567ec68b7ae7eda501b406626478e",
   "decimals": 18,
-  "logo": "carry.png",
   "coingecko": {
     "id": "carry",
     "platform": "ethereum"

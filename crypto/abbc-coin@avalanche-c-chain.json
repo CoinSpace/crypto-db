@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "abbc-coin@avalanche-c-chain",
   "asset": "abbc-coin",
   "platform": "avalanche-c-chain",

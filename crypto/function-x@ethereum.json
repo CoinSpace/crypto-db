@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "function-x@ethereum",
   "asset": "function-x",
   "platform": "ethereum",

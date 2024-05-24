@@ -7,13 +7,13 @@
   "symbol": "TRX",
   "decimals": 6,
   "logo": "tron.svg",
+  "bitnovo": {
+    "id": "TRX"
+  },
   "btcdirect": {
     "currencyPair": [
       "TRX-EUR"
     ]
-  },
-  "bitnovo": {
-    "id": "TRX"
   },
   "changelly": {
     "ticker": "trx"

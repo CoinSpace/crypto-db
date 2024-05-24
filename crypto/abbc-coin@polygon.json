@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "abbc-coin@polygon",
   "asset": "abbc-coin",
   "platform": "polygon",

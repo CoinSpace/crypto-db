@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "huobi-btc@solana",
   "asset": "huobi-btc",
   "platform": "solana",
@@ -7,7 +8,6 @@
   "symbol": "HBTC",
   "address": "7dVH61ChzgmN9BwG4PkzwRP8PbYwPJ7ZPNF2vamKT2H8",
   "decimals": 8,
-  "logo": "huobi-btc.png",
   "coingecko": {
     "id": "huobi-btc"
   },

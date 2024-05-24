@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "polymath@ethereum",
   "asset": "polymath",
   "platform": "ethereum",

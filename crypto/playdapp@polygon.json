@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "playdapp@polygon",
   "asset": "playdapp",
   "platform": "polygon",

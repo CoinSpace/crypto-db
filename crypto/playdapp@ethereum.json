@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "playdapp@ethereum",
   "asset": "playdapp",
   "platform": "ethereum",

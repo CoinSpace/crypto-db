@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "populous@ethereum",
   "asset": "populous",
   "platform": "ethereum",

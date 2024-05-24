@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "student-coin@ethereum",
   "asset": "student-coin",
   "platform": "ethereum",

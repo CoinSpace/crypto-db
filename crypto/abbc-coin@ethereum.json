@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "abbc-coin@ethereum",
   "asset": "abbc-coin",
   "platform": "ethereum",

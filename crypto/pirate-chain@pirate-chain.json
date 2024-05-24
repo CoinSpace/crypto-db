@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "pirate-chain@pirate-chain",
   "asset": "pirate-chain",
   "platform": "pirate-chain",

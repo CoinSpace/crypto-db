@@ -7,13 +7,13 @@
   "symbol": "MATIC",
   "decimals": 18,
   "logo": "polygon.svg",
+  "bitnovo": {
+    "id": "MATIC"
+  },
   "btcdirect": {
     "currencyPair": [
       "MATIC-EUR"
     ]
-  },
-  "bitnovo": {
-    "id": "MATIC"
   },
   "changelly": {
     "ticker": "maticpolygon"

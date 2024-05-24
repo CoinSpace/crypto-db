@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "tomochain@ethereum",
   "asset": "tomochain",
   "platform": "ethereum",
