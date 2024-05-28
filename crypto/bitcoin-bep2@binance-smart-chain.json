@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "bitcoin-bep2@binance-smart-chain",
   "asset": "bitcoin-bep2",
   "platform": "binance-smart-chain",
