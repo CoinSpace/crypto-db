@@ -1,0 +1,21 @@
+{
+  "_id": "aevo@ethereum",
+  "asset": "aevo",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Aevo",
+  "symbol": "AEVO",
+  "address": "0xb528edbef013aff855ac3c50b381f253af13b997",
+  "decimals": 18,
+  "logo": "aevo.png",
+  "changelly": {
+    "ticker": "aevo"
+  },
+  "coingecko": {
+    "id": "aevo-exchange"
+  },
+  "coinmarketcap": {
+    "id": 29676,
+    "slug": "aevo"
+  }
+}
