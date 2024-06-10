@@ -17,5 +17,9 @@
   "coinmarketcap": {
     "id": 29870,
     "slug": "book-of-meme"
+  },
+  "guardarian": {
+    "ticker": "BOME",
+    "network": "SOL"
   }
 }
