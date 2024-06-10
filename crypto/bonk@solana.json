@@ -17,5 +17,9 @@
   "coinmarketcap": {
     "id": 23095,
     "slug": "bonk1"
+  },
+  "guardarian": {
+    "ticker": "BONK",
+    "network": "SOL"
   }
 }
