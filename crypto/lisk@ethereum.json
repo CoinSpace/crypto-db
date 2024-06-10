@@ -1,0 +1,18 @@
+{
+  "_id": "lisk@ethereum",
+  "asset": "lisk",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Lisk",
+  "symbol": "LSK",
+  "address": "0x6033f7f88332b8db6ad452b7c6d5bb643990ae3f",
+  "decimals": 18,
+  "logo": "lisk.svg",
+  "coingecko": {
+    "id": "lisk"
+  },
+  "coinmarketcap": {
+    "id": 1214,
+    "slug": "lisk"
+  }
+}
