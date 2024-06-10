@@ -17,5 +17,9 @@
   "coinmarketcap": {
     "id": 28752,
     "slug": "dogwifhat"
+  },
+  "guardarian": {
+    "ticker": "WIF",
+    "network": "SOL"
   }
 }
