@@ -11,6 +11,11 @@
   "bitnovo": {
     "id": "ADA"
   },
+  "btcdirect": {
+    "currencyPair": [
+      "ADA-EUR"
+    ]
+  },
   "changelly": {
     "ticker": "ada"
   },

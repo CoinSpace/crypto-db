@@ -11,6 +11,11 @@
   "bitnovo": {
     "id": "XLM"
   },
+  "btcdirect": {
+    "currencyPair": [
+      "XLM-EUR"
+    ]
+  },
   "changelly": {
     "ticker": "xlm"
   },
