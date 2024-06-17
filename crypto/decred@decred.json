@@ -8,6 +8,9 @@
   "decimals": 8,
   "logo": "decred.svg",
   "supported": false,
+  "changelly": {
+    "ticker": "dcr"
+  },
   "coingecko": {
     "id": "decred"
   },
