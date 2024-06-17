@@ -1,0 +1,18 @@
+{
+  "_id": "venus@arbitrum",
+  "asset": "venus",
+  "platform": "arbitrum",
+  "type": "token",
+  "name": "Venus",
+  "symbol": "XVS",
+  "address": "0xc1eb7689147c81ac840d4ff0d298489fc7986d52",
+  "decimals": 18,
+  "logo": "venus.png",
+  "coingecko": {
+    "id": "venus"
+  },
+  "coinmarketcap": {
+    "id": 7288,
+    "slug": "venus"
+  }
+}
