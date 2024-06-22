@@ -1,0 +1,18 @@
+{
+  "_id": "orion-protocol@binance-smart-chain",
+  "asset": "orion-protocol",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Orion",
+  "symbol": "ORN",
+  "address": "0xe4ca1f75eca6214393fce1c1b316c237664eaa8e",
+  "decimals": 8,
+  "logo": "orion-protocol.png",
+  "coingecko": {
+    "id": "orion-protocol"
+  },
+  "coinmarketcap": {
+    "id": 5631,
+    "slug": "orion-xyz"
+  }
+}
