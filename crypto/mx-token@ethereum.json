@@ -3,7 +3,7 @@
   "asset": "mx-token",
   "platform": "ethereum",
   "type": "token",
-  "name": "MX TOKEN",
+  "name": "MX Token",
   "symbol": "MX",
   "address": "0x11eef04c884e24d9b7b4760e7476d06ddf797f36",
   "decimals": 18,
