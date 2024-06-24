@@ -1,0 +1,18 @@
+{
+  "_id": "layerzero@avalanche-c-chain",
+  "asset": "layerzero",
+  "platform": "avalanche-c-chain",
+  "type": "token",
+  "name": "LayerZero",
+  "symbol": "ZRO",
+  "address": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+  "decimals": 18,
+  "logo": "layerzero.png",
+  "coingecko": {
+    "id": "layerzero"
+  },
+  "coinmarketcap": {
+    "id": 26997,
+    "slug": "layerzero"
+  }
+}
