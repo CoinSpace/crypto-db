@@ -14,5 +14,9 @@
   "coinmarketcap": {
     "id": 1214,
     "slug": "lisk"
+  },
+  "guardarian": {
+    "ticker": "LSK",
+    "network": "ETH"
   }
 }
