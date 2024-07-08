@@ -14,5 +14,9 @@
   "coinmarketcap": {
     "id": 1958,
     "slug": "tron"
+  },
+  "guardarian": {
+    "ticker": "TRX",
+    "network": "ETH"
   }
 }
