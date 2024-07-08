@@ -5,12 +5,9 @@
   "type": "token",
   "name": "Bitget Token",
   "symbol": "BGB",
-  "address": "0x19de6b897ed14a376dda0fe53a5420d2ac828a28",
+  "address": "0x54d2252757e1672eead234d27b1270728ff90581",
   "decimals": 18,
   "logo": "bitget-token.svg",
-  "changelly": {
-    "ticker": "bgb"
-  },
   "coingecko": {
     "id": "bitget-token"
   },
