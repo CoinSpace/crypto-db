@@ -1,0 +1,21 @@
+{
+  "_id": "notcoin@toncoin",
+  "asset": "notcoin",
+  "platform": "toncoin",
+  "type": "token",
+  "name": "Notcoin",
+  "symbol": "NOT",
+  "address": "EQAvlWFDxGF2lXm67y4yzC17wYKD9A0guwPkMs1gOsM__NOT",
+  "decimals": 9,
+  "logo": "notcoin.svg",
+  "changelly": {
+    "ticker": "not"
+  },
+  "coingecko": {
+    "id": "notcoin"
+  },
+  "coinmarketcap": {
+    "id": 28850,
+    "slug": "notcoin"
+  }
+}

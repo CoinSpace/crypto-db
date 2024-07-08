@@ -1,0 +1,25 @@
+{
+  "_id": "tether@toncoin",
+  "asset": "tether",
+  "platform": "toncoin",
+  "type": "token",
+  "name": "Tether",
+  "symbol": "USDT",
+  "address": "EQCxE6mUtQJKFnGfaROTKOt1lZbDiiX1kCixRv7Nw2Id_sDs",
+  "decimals": 6,
+  "logo": "tether.svg",
+  "changelly": {
+    "ticker": "usdton"
+  },
+  "coingecko": {
+    "id": "tether"
+  },
+  "coinmarketcap": {
+    "id": 825,
+    "slug": "tether"
+  },
+  "moonpay": {
+    "id": "83e816a9-7d83-4cb4-bb18-a67653a37c7d",
+    "code": "usdt_ton"
+  }
+}
