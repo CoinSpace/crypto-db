@@ -1,0 +1,18 @@
+{
+  "_id": "enzyme@polygon",
+  "asset": "enzyme",
+  "platform": "polygon",
+  "type": "token",
+  "name": "Enzyme",
+  "symbol": "MLN",
+  "address": "0xa9f37d84c856fda3812ad0519dad44fa0a3fe207",
+  "decimals": 18,
+  "logo": "enzyme.svg",
+  "coingecko": {
+    "id": "melon"
+  },
+  "coinmarketcap": {
+    "id": 1552,
+    "slug": "enzyme"
+  }
+}
