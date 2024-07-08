@@ -8,6 +8,9 @@
   "address": "hntyVP6YFm1Hg25TN9WGLqM12b8TQmcknKrdu1oxWux",
   "decimals": 8,
   "logo": "helium.svg",
+  "changelly": {
+    "ticker": "hnt"
+  },
   "coingecko": {
     "id": "helium"
   },
