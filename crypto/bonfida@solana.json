@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 7978,
     "slug": "bonfida"
+  },
+  "guardarian": {
+    "ticker": "FIDA",
+    "network": "SOL"
   }
 }
