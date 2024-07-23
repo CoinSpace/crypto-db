@@ -4,7 +4,7 @@
   "platform": "polygon",
   "type": "token",
   "name": "Render",
-  "symbol": "RNDR",
+  "symbol": "RENDER",
   "address": "0x61299774020da444af134c82fa83e3810b309991",
   "decimals": 18,
   "logo": "render-token.svg",

@@ -17,5 +17,9 @@
   "coinmarketcap": {
     "id": 28850,
     "slug": "notcoin"
+  },
+  "moonpay": {
+    "id": "96b29cde-972b-458c-95e9-fc620741583c",
+    "code": "not_ton"
   }
 }

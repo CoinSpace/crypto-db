@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "metal@ethereum",
   "asset": "metal",
   "platform": "ethereum",

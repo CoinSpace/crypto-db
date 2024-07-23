@@ -22,9 +22,5 @@
   "guardarian": {
     "ticker": "OMG",
     "network": "ETH"
-  },
-  "moonpay": {
-    "id": "132caa7a-0c8f-4f16-b45d-df7b3d32f4f1",
-    "code": "omg"
   }
 }

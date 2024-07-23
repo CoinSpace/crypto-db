@@ -4,7 +4,7 @@
   "platform": "solana",
   "type": "token",
   "name": "Render",
-  "symbol": "RNDR",
+  "symbol": "RENDER",
   "address": "rndrizKT3MK1iimdxRdWabcF7Zg7AR5T4nud4EkHBof",
   "decimals": 8,
   "logo": "render-token.svg",
