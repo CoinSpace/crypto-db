@@ -1,0 +1,21 @@
+{
+  "_id": "cat-in-a-dogs-world@solana",
+  "asset": "cat-in-a-dogs-world",
+  "platform": "solana",
+  "type": "token",
+  "name": "cat in a dogs world",
+  "symbol": "MEW",
+  "address": "MEW1gQWJ3nEXg2qgERiKu7FAFj79PHvQVREQUzScPP5",
+  "decimals": 5,
+  "logo": "cat-in-a-dogs-world.svg",
+  "changelly": {
+    "ticker": "mew"
+  },
+  "coingecko": {
+    "id": "cat-in-a-dogs-world"
+  },
+  "coinmarketcap": {
+    "id": 30126,
+    "slug": "mew"
+  }
+}
