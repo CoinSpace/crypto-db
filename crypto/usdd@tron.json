@@ -8,6 +8,9 @@
   "address": "TPYmHEhy5n8TCEfYGqW2rPxsghSfzghPDn",
   "decimals": 18,
   "logo": "usdd.svg",
+  "changelly": {
+    "ticker": "usdd"
+  },
   "coingecko": {
     "id": "usdd"
   },
