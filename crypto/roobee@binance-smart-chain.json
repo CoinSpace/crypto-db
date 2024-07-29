@@ -1,0 +1,18 @@
+{
+  "_id": "roobee@binance-smart-chain",
+  "asset": "roobee",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "ROOBEE",
+  "symbol": "ROOBEE",
+  "address": "0xf77351d8f4ee853135961a936bb8d2e4ffa75f9d",
+  "decimals": 18,
+  "logo": "roobee.png",
+  "coingecko": {
+    "id": "roobee"
+  },
+  "coinmarketcap": {
+    "id": 4804,
+    "slug": "roobee"
+  }
+}

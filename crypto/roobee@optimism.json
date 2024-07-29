@@ -1,0 +1,18 @@
+{
+  "_id": "roobee@optimism",
+  "asset": "roobee",
+  "platform": "optimism",
+  "type": "token",
+  "name": "ROOBEE",
+  "symbol": "ROOBEE",
+  "address": "0xb12c13e66ade1f72f71834f2fc5082db8c091358",
+  "decimals": 18,
+  "logo": "roobee.png",
+  "coingecko": {
+    "id": "roobee"
+  },
+  "coinmarketcap": {
+    "id": 4804,
+    "slug": "roobee"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "dfi-money@binance-smart-chain",
+  "asset": "dfi-money",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "DFI.Money",
+  "symbol": "YFII",
+  "address": "0x7f70642d88cf1c4a3a7abb072b53b929b653eda5",
+  "decimals": 18,
+  "logo": "dfi-money.png",
+  "coingecko": {
+    "id": "yfii-finance"
+  },
+  "coinmarketcap": {
+    "id": 5957,
+    "slug": "yearn-finance-ii"
+  }
+}

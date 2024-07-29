@@ -1,0 +1,18 @@
+{
+  "_id": "sologenic@binance-smart-chain",
+  "asset": "sologenic",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Sologenic",
+  "symbol": "SOLO",
+  "address": "0xc2c28b58db223da89b567a0a98197fc17c115148",
+  "decimals": 15,
+  "logo": "sologenic.png",
+  "coingecko": {
+    "id": "solo-coin"
+  },
+  "coinmarketcap": {
+    "id": 5279,
+    "slug": "sologenic"
+  }
+}

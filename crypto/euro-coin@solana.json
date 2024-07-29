@@ -1,0 +1,18 @@
+{
+  "_id": "euro-coin@solana",
+  "asset": "euro-coin",
+  "platform": "solana",
+  "type": "token",
+  "name": "EURC",
+  "symbol": "EURC",
+  "address": "HzwqbKZw8HxMN6bF2yFZNrht3c2iXXzpKcFu7uBEDKtr",
+  "decimals": 6,
+  "logo": "euro-coin.svg",
+  "coingecko": {
+    "id": "euro-coin"
+  },
+  "coinmarketcap": {
+    "id": 20641,
+    "slug": "euro-coin"
+  }
+}

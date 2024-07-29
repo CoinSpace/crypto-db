@@ -1,0 +1,22 @@
+{
+  "_id": "dia@binance-smart-chain",
+  "asset": "dia",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "DIA",
+  "symbol": "DIA",
+  "address": "0x99956d38059cf7beda96ec91aa7bb2477e0901dd",
+  "decimals": 18,
+  "logo": "dia.png",
+  "coingecko": {
+    "id": "dia-data"
+  },
+  "coinmarketcap": {
+    "id": 6138,
+    "slug": "dia"
+  },
+  "guardarian": {
+    "ticker": "DIA",
+    "network": "BSC"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "wrapped-solana@ethereum",
+  "asset": "wrapped-solana",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Wrapped Solana",
+  "symbol": "SOL",
+  "address": "0xd31a59c85ae9d8edefec411d448f90841571b89c",
+  "decimals": 9,
+  "logo": "solana.svg",
+  "coingecko": {
+    "id": "wrapped-solana"
+  },
+  "coinmarketcap": {
+    "id": 16116,
+    "slug": "wrapped-solana"
+  }
+}

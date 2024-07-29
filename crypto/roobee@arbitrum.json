@@ -1,0 +1,18 @@
+{
+  "_id": "roobee@arbitrum",
+  "asset": "roobee",
+  "platform": "arbitrum",
+  "type": "token",
+  "name": "ROOBEE",
+  "symbol": "ROOBEE",
+  "address": "0x3bd2dfd03bc7c3011ed7fb8c4d0949b382726cee",
+  "decimals": 18,
+  "logo": "roobee.png",
+  "coingecko": {
+    "id": "roobee"
+  },
+  "coinmarketcap": {
+    "id": 4804,
+    "slug": "roobee"
+  }
+}

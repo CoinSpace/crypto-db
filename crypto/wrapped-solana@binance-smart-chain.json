@@ -1,0 +1,22 @@
+{
+  "_id": "wrapped-solana@binance-smart-chain",
+  "asset": "wrapped-solana",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Wrapped Solana",
+  "symbol": "SOL",
+  "address": "0x570a5d26f7765ecb712c0924e4de545b89fd43df",
+  "decimals": 18,
+  "logo": "solana.svg",
+  "coingecko": {
+    "id": "wrapped-solana"
+  },
+  "coinmarketcap": {
+    "id": 16116,
+    "slug": "wrapped-solana"
+  },
+  "guardarian": {
+    "ticker": "SOL",
+    "network": "BSC"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "roobee@avalanche-c-chain",
+  "asset": "roobee",
+  "platform": "avalanche-c-chain",
+  "type": "token",
+  "name": "ROOBEE",
+  "symbol": "ROOBEE",
+  "address": "0x4036f3d9c45a20f44f0b8b85dd6ca33005ff9654",
+  "decimals": 18,
+  "logo": "roobee.png",
+  "coingecko": {
+    "id": "roobee"
+  },
+  "coinmarketcap": {
+    "id": 4804,
+    "slug": "roobee"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "ufo-gaming@solana",
+  "asset": "ufo-gaming",
+  "platform": "solana",
+  "type": "token",
+  "name": "UFO Gaming",
+  "symbol": "UFO",
+  "address": "GWdkYFnXnSJAsCBvmsqFLiPPe2tpvXynZcJdxf11Fu3U",
+  "decimals": 8,
+  "logo": "ufo-gaming.jpg",
+  "coingecko": {
+    "id": "ufo-gaming"
+  },
+  "coinmarketcap": {
+    "id": 10729,
+    "slug": "ufo-gaming"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "euro-coin@avalanche-c-chain",
+  "asset": "euro-coin",
+  "platform": "avalanche-c-chain",
+  "type": "token",
+  "name": "EURC",
+  "symbol": "EURC",
+  "address": "0xc891eb4cbdeff6e073e859e987815ed1505c2acd",
+  "decimals": 6,
+  "logo": "euro-coin.svg",
+  "coingecko": {
+    "id": "euro-coin"
+  },
+  "coinmarketcap": {
+    "id": 20641,
+    "slug": "euro-coin"
+  }
+}

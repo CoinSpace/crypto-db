@@ -1,0 +1,18 @@
+{
+  "_id": "cocos-bcx@binance-smart-chain",
+  "asset": "cocos-bcx",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "COMBO",
+  "symbol": "COMBO",
+  "address": "0xc03fbf20a586fa89c2a5f6f941458e1fbc40c661",
+  "decimals": 18,
+  "logo": "cocos-bcx.jpg",
+  "coingecko": {
+    "id": "cocos-bcx"
+  },
+  "coinmarketcap": {
+    "id": 4275,
+    "slug": "combo-network"
+  }
+}

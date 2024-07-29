@@ -1,0 +1,18 @@
+{
+  "_id": "selfkey@polygon",
+  "asset": "selfkey",
+  "platform": "polygon",
+  "type": "token",
+  "name": "SelfKey",
+  "symbol": "KEY",
+  "address": "0x32dc2dd3c2be453a369625e6fe0e438aed814919",
+  "decimals": 18,
+  "logo": "selfkey.png",
+  "coingecko": {
+    "id": "selfkey"
+  },
+  "coinmarketcap": {
+    "id": 2398,
+    "slug": "selfkey"
+  }
+}
