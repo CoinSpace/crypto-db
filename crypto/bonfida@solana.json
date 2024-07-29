@@ -3,7 +3,7 @@
   "asset": "bonfida",
   "platform": "solana",
   "type": "token",
-  "name": "Bonfida",
+  "name": "Solana Name Service",
   "symbol": "FIDA",
   "address": "EchesyfXePKdLtoiZSL8pBe8Myagyy8ZRqsACNCFGnvp",
   "decimals": 6,
@@ -17,7 +17,7 @@
   },
   "coinmarketcap": {
     "id": 7978,
-    "slug": "bonfida"
+    "slug": "solana-name-service"
   },
   "guardarian": {
     "ticker": "FIDA",
