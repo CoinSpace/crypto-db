@@ -18,5 +18,9 @@
   "guardarian": {
     "ticker": "USDT",
     "network": "ARBITRUM"
+  },
+  "moonpay": {
+    "id": "cf9b4454-9d81-4c8b-b376-59c3d6aab9f8",
+    "code": "usdt_arbitrum"
   }
 }
