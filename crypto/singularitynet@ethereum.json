@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "singularitynet@ethereum",
   "asset": "singularitynet",
   "platform": "ethereum",
