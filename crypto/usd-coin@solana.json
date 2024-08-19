@@ -8,6 +8,9 @@
   "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
   "decimals": 6,
   "logo": "usd-coin.svg",
+  "bitnovo": {
+    "id": "USDC_SOL"
+  },
   "changelly": {
     "ticker": "usdcsol"
   },

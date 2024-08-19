@@ -8,6 +8,9 @@
   "decimals": 8,
   "logo": "dogecoin.svg",
   "scheme": "dogecoin",
+  "bitnovo": {
+    "id": "DOGE"
+  },
   "btcdirect": {
     "currencyPair": [
       "DOGE-EUR"
