@@ -1,0 +1,18 @@
+{
+  "_id": "curve-dao-token@optimism",
+  "asset": "curve-dao-token",
+  "platform": "optimism",
+  "type": "token",
+  "name": "Curve DAO Token",
+  "symbol": "CRV",
+  "address": "0x0994206dfe8de6ec6920ff4d779b0d950605fb53",
+  "decimals": 18,
+  "logo": "curve-dao-token.svg",
+  "coingecko": {
+    "id": "curve-dao-token"
+  },
+  "coinmarketcap": {
+    "id": 6538,
+    "slug": "curve-dao-token"
+  }
+}
