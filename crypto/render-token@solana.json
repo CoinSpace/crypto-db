@@ -8,6 +8,9 @@
   "address": "rndrizKT3MK1iimdxRdWabcF7Zg7AR5T4nud4EkHBof",
   "decimals": 8,
   "logo": "render-token.svg",
+  "changelly": {
+    "ticker": "render"
+  },
   "coingecko": {
     "id": "render-token"
   },
