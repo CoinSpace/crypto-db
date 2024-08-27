@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 29 25">
-  <path fill="url(#beam_svg__a)" d="M0 6.25h28.57v6.25H0V6.25Z"/>
-  <path fill="url(#beam_svg__b)" d="M0 2a2 2 0 0 1 2-2h24.57a2 2 0 0 1 2 2v4.25H0V2Z"/>
-  <path fill="url(#beam_svg__c)" d="M0 18.75h28.57V23a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-4.25Z"/>
-  <path fill="url(#beam_svg__d)" d="M0 12.502h28.57v6.25H0v-6.25Z"/>
+  <path fill="url(#beam_svg__a)" d="M0 6.25h28.57v6.25H0z"/>
+  <path fill="url(#beam_svg__b)" d="M0 2a2 2 0 0 1 2-2h24.57a2 2 0 0 1 2 2v4.25H0z"/>
+  <path fill="url(#beam_svg__c)" d="M0 18.75h28.57V23a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2z"/>
+  <path fill="url(#beam_svg__d)" d="M0 12.502h28.57v6.25H0z"/>
   <defs>
     <linearGradient id="beam_svg__a" x1="14.2" x2="14.2" y1="9.529" y2="16.501" gradientUnits="userSpaceOnUse">
       <stop stop-color="#FF6B6B"/>

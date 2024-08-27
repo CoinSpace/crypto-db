@@ -8,7 +8,7 @@
     <stop offset=".549" stop-color="#fdfdfd"/>
     <stop offset="1" stop-color="#fff"/>
   </linearGradient>
-  <path fill="url(#api3_svg__a)" fill-rule="evenodd" d="M318 2075h377l346-1311-738 1285c-10 10 0 26 16 26h-1z" clip-rule="evenodd"/>
+  <path fill="url(#api3_svg__a)" fill-rule="evenodd" d="M318 2075h377l346-1311-738 1285c-10 10 0 26 16 26z" clip-rule="evenodd"/>
   <linearGradient id="api3_svg__b" x1="952.201" x2="951.526" y1="1550.033" y2="1548.005" gradientTransform="matrix(1512.0037 0 0 -346 -1437785.5 538038.375)" gradientUnits="userSpaceOnUse">
     <stop offset="0" stop-color="#c3c4c3"/>
     <stop offset=".09" stop-color="#d8d8d8"/>
@@ -17,7 +17,7 @@
     <stop offset=".549" stop-color="#fdfdfd"/>
     <stop offset="1" stop-color="#fff"/>
   </linearGradient>
-  <path fill="url(#api3_svg__b)" fill-rule="evenodd" d="M2011 1729 690 2075h1492c16 0 26-16 16-26l-186-320h-1z" clip-rule="evenodd"/>
+  <path fill="url(#api3_svg__b)" fill-rule="evenodd" d="M2011 1729 690 2075h1492c16 0 26-16 16-26l-186-320z" clip-rule="evenodd"/>
   <linearGradient id="api3_svg__c" x1="951.023" x2="952.21" y1="1547.713" y2="1547.31" gradientTransform="matrix(975 0 0 -1303.5 -926212 2018251.25)" gradientUnits="userSpaceOnUse">
     <stop offset="0" stop-color="#c3c4c3"/>
     <stop offset=".09" stop-color="#d8d8d8"/>
@@ -26,7 +26,7 @@
     <stop offset=".549" stop-color="#fdfdfd"/>
     <stop offset="1" stop-color="#fff"/>
   </linearGradient>
-  <path fill="url(#api3_svg__c)" fill-rule="evenodd" d="m1810 1528 201 201-753-1296c-5-10-26-10-31 0l-191 330 774 764v1z" clip-rule="evenodd"/>
+  <path fill="url(#api3_svg__c)" fill-rule="evenodd" d="m1810 1528 201 201-753-1296c-5-10-26-10-31 0l-191 330 774 764z" clip-rule="evenodd"/>
   <linearGradient id="api3_svg__d" x1="949.215" x2="948.837" y1="1547.216" y2="1548.177" gradientTransform="matrix(274 0 0 -1033 -259206 1600329.625)" gradientUnits="userSpaceOnUse">
     <stop offset="0" stop-color="#b7b8b8"/>
     <stop offset=".11" stop-color="#c9caca"/>
@@ -134,7 +134,7 @@
     <stop offset=".549" stop-color="#fdfdfd"/>
     <stop offset="1" stop-color="#fff"/>
   </linearGradient>
-  <path fill="url(#api3_svg__p)" fill-rule="evenodd" d="M318 2075h377l341-1312-734 1286c-10 10 0 26 16 26z" clip-rule="evenodd"/>
+  <path fill="url(#api3_svg__p)" fill-rule="evenodd" d="M318 2075h377l341-1312-734 1286c-10 10 0 26 16 26" clip-rule="evenodd"/>
   <linearGradient id="api3_svg__q" x1="952.201" x2="951.526" y1="1550.033" y2="1548.005" gradientTransform="matrix(1512.0037 0 0 -346 -1437785.5 538038.375)" gradientUnits="userSpaceOnUse">
     <stop offset="0" stop-color="#c3c4c3"/>
     <stop offset=".09" stop-color="#d8d8d8"/>
@@ -143,7 +143,7 @@
     <stop offset=".549" stop-color="#fdfdfd"/>
     <stop offset="1" stop-color="#fff"/>
   </linearGradient>
-  <path fill="url(#api3_svg__q)" fill-rule="evenodd" d="M2011 1729 690 2075h1492c16 0 26-16 16-26l-186-320h-1z" clip-rule="evenodd"/>
+  <path fill="url(#api3_svg__q)" fill-rule="evenodd" d="M2011 1729 690 2075h1492c16 0 26-16 16-26l-186-320z" clip-rule="evenodd"/>
   <linearGradient id="api3_svg__r" x1="951.023" x2="952.21" y1="1547.713" y2="1547.31" gradientTransform="matrix(975 0 0 -1303.5 -926212 2018251.25)" gradientUnits="userSpaceOnUse">
     <stop offset="0" stop-color="#c3c4c3"/>
     <stop offset=".09" stop-color="#d8d8d8"/>
@@ -152,7 +152,7 @@
     <stop offset=".549" stop-color="#fdfdfd"/>
     <stop offset="1" stop-color="#fff"/>
   </linearGradient>
-  <path fill="url(#api3_svg__r)" fill-rule="evenodd" d="m1810 1528 201 201-753-1296c-5-10-26-10-31 0l-191 330 774 764v1z" clip-rule="evenodd"/>
+  <path fill="url(#api3_svg__r)" fill-rule="evenodd" d="m1810 1528 201 201-753-1296c-5-10-26-10-31 0l-191 330 774 764z" clip-rule="evenodd"/>
   <linearGradient id="api3_svg__s" x1="949.215" x2="948.837" y1="1547.216" y2="1548.177" gradientTransform="matrix(274 0 0 -1033 -259206 1600329.625)" gradientUnits="userSpaceOnUse">
     <stop offset="0" stop-color="#b7b8b8"/>
     <stop offset=".11" stop-color="#c9caca"/>

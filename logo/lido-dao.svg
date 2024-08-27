@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2500 2500">
   <defs>
-    <path id="lido-dao_svg__a" d="M1250 0c690 0 1250 560 1250 1250s-560 1250-1250 1250S0 1940 0 1250 560 0 1250 0z"/>
+    <path id="lido-dao_svg__a" d="M1250 0c690 0 1250 560 1250 1250s-560 1250-1250 1250S0 1940 0 1250 560 0 1250 0"/>
   </defs>
   <clipPath id="lido-dao_svg__b">
     <use xlink:href="#lido-dao_svg__a" overflow="visible"/>
@@ -12,9 +12,9 @@
     <stop offset="0" stop-color="#f89791"/>
     <stop offset="1" stop-color="#f7c882"/>
   </linearGradient>
-  <path fill="url(#lido-dao_svg__c)" d="M1250 0c690 0 1250 560 1250 1250s-560 1250-1250 1250S0 1940 0 1250 560 0 1250 0z"/>
+  <path fill="url(#lido-dao_svg__c)" d="M1250 0c690 0 1250 560 1250 1250s-560 1250-1250 1250S0 1940 0 1250 560 0 1250 0"/>
   <defs>
-    <path id="lido-dao_svg__d" d="m1249 1472-557-318-15 23c-171 263-133 607 92 828 265 260 695 260 960 0 225-221 263-565 92-828l-15-23-557 318z"/>
+    <path id="lido-dao_svg__d" d="m1249 1472-557-318-15 23c-171 263-133 607 92 828 265 260 695 260 960 0 225-221 263-565 92-828l-15-23z"/>
   </defs>
   <clipPath id="lido-dao_svg__e">
     <use xlink:href="#lido-dao_svg__d" overflow="visible"/>

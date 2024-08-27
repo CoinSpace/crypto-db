@@ -3,7 +3,7 @@
     <stop offset="0" stop-color="#2c2c3d"/>
     <stop offset="1" stop-color="#1a1a27"/>
   </linearGradient>
-  <path fill="url(#dydx_svg__a)" d="M511.2 0h1477.6C2272.4 0 2500 227.6 2500 511.2v1477.6c0 283.6-227.6 511.2-511.2 511.2H511.2A509.58 509.58 0 0 1 0 1988.8V511.2C0 227.6 227.6 0 511.2 0z"/>
+  <path fill="url(#dydx_svg__a)" d="M511.2 0h1477.6C2272.4 0 2500 227.6 2500 511.2v1477.6c0 283.6-227.6 511.2-511.2 511.2H511.2A509.58 509.58 0 0 1 0 1988.8V511.2C0 227.6 227.6 0 511.2 0"/>
   <path fill="#fff" d="M1573.2 567.3 600.3 1932.7h296.8l976.3-1365.4z"/>
   <linearGradient id="dydx_svg__b" x1="250.5" x2="372.822" y1="2296.482" y2="2150.097" gradientTransform="matrix(3.2895 0 0 -3.2895 0 8223.685)" gradientUnits="userSpaceOnUse">
     <stop offset="0" stop-color="#fff"/>

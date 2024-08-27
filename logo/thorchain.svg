@@ -3,5 +3,5 @@
     <stop offset="0" stop-color="#0cf"/>
     <stop offset="1" stop-color="#3f9"/>
   </linearGradient>
-  <path fill="url(#thorchain_svg__a)" d="m0 290.5 202.8-85.4-64.2-65.1L0 290.5zM74.5 75l64.2 65L253.3 0 74.5 75z"/>
+  <path fill="url(#thorchain_svg__a)" d="m0 290.5 202.8-85.4-64.2-65.1zM74.5 75l64.2 65L253.3 0z"/>
 </svg>

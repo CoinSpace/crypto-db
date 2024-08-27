@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120.1 138.8">
-  <path fill="#002d74" d="M60.1 0 0 34.7v69.4l60.1 34.7 60-34.7V34.7L60.1 0zm42.2 93.8L60 118.2 17.8 93.8V45l42.3-24.4L102.3 45v48.8z"/>
+  <path fill="#002d74" d="M60.1 0 0 34.7v69.4l60.1 34.7 60-34.7V34.7zm42.2 93.8L60 118.2 17.8 93.8V45l42.3-24.4L102.3 45z"/>
   <linearGradient id="crypto-com-coin_svg__a" x1="90.117" x2="90.117" y1="1.087" y2="70.488" gradientTransform="matrix(1 0 0 -1 0 139.89)" gradientUnits="userSpaceOnUse">
     <stop offset="0" stop-color="#002d74"/>
     <stop offset="1" stop-color="#002d74" stop-opacity="0"/>
@@ -9,6 +9,6 @@
     <stop offset="0" stop-color="#002d74"/>
     <stop offset="1" stop-color="#002d74" stop-opacity="0"/>
   </linearGradient>
-  <path fill="url(#crypto-com-coin_svg__b)" d="M60 0 0 34.7v69.4l60 34.7v-20.6L17.8 93.8V44.9L60 20.6V0z"/>
-  <path fill="#002d74" d="m88.1 85.6-28 16.2L32 85.6V53.2L60.1 37l28 16.2L76.4 60 60 50.5 43.7 60v18.9l16.4 9.5 16.4-9.5 11.6 6.7z"/>
+  <path fill="url(#crypto-com-coin_svg__b)" d="M60 0 0 34.7v69.4l60 34.7v-20.6L17.8 93.8V44.9L60 20.6z"/>
+  <path fill="#002d74" d="m88.1 85.6-28 16.2L32 85.6V53.2L60.1 37l28 16.2L76.4 60 60 50.5 43.7 60v18.9l16.4 9.5 16.4-9.5z"/>
 </svg>
