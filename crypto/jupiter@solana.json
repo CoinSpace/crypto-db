@@ -1,0 +1,21 @@
+{
+  "_id": "jupiter@solana",
+  "asset": "jupiter",
+  "platform": "solana",
+  "type": "token",
+  "name": "Jupiter",
+  "symbol": "JUP",
+  "address": "JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN",
+  "decimals": 6,
+  "logo": "jupiter.svg",
+  "changelly": {
+    "ticker": "jup"
+  },
+  "coingecko": {
+    "id": "jupiter-exchange-solana"
+  },
+  "coinmarketcap": {
+    "id": 29210,
+    "slug": "jupiter-ag"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "frax@polygon",
+  "asset": "frax",
+  "platform": "polygon",
+  "type": "token",
+  "name": "Frax",
+  "symbol": "FRAX",
+  "address": "0x45c32fa6df82ead1e2ef74d17b76547eddfaff89",
+  "decimals": 18,
+  "logo": "frax.svg",
+  "coingecko": {
+    "id": "frax"
+  },
+  "coinmarketcap": {
+    "id": 6952,
+    "slug": "frax"
+  }
+}

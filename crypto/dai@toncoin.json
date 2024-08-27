@@ -1,0 +1,18 @@
+{
+  "_id": "dai@toncoin",
+  "asset": "dai",
+  "platform": "toncoin",
+  "type": "token",
+  "name": "Dai",
+  "symbol": "DAI",
+  "address": "EQDo_ZJyQ_YqBzBwbVpMmhbhIddKtRP99HugZJ14aFscxi7B",
+  "decimals": 18,
+  "logo": "dai.svg",
+  "coingecko": {
+    "id": "dai"
+  },
+  "coinmarketcap": {
+    "id": 4943,
+    "slug": "multi-collateral-dai"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "frax@fantom",
+  "asset": "frax",
+  "platform": "fantom",
+  "type": "token",
+  "name": "Frax",
+  "symbol": "FRAX",
+  "address": "0xdc301622e621166bd8e82f2ca0a26c13ad0be355",
+  "decimals": 18,
+  "logo": "frax.svg",
+  "coingecko": {
+    "id": "frax"
+  },
+  "coinmarketcap": {
+    "id": 6952,
+    "slug": "frax"
+  }
+}

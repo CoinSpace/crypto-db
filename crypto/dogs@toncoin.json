@@ -14,5 +14,9 @@
   "coinmarketcap": {
     "id": 32698,
     "slug": "dogs"
+  },
+  "guardarian": {
+    "ticker": "DOGS",
+    "network": "TON"
   }
 }

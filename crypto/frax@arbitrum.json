@@ -1,0 +1,18 @@
+{
+  "_id": "frax@arbitrum",
+  "asset": "frax",
+  "platform": "arbitrum",
+  "type": "token",
+  "name": "Frax",
+  "symbol": "FRAX",
+  "address": "0x17fc002b466eec40dae837fc4be5c67993ddbd6f",
+  "decimals": 18,
+  "logo": "frax.svg",
+  "coingecko": {
+    "id": "frax"
+  },
+  "coinmarketcap": {
+    "id": 6952,
+    "slug": "frax"
+  }
+}

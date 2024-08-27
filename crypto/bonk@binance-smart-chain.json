@@ -1,0 +1,18 @@
+{
+  "_id": "bonk@binance-smart-chain",
+  "asset": "bonk",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Bonk",
+  "symbol": "BONK",
+  "address": "0xa697e272a73744b343528c3bc4702f2565b2f422",
+  "decimals": 5,
+  "logo": "bonk.svg",
+  "coingecko": {
+    "id": "bonk"
+  },
+  "coinmarketcap": {
+    "id": 23095,
+    "slug": "bonk1"
+  }
+}
