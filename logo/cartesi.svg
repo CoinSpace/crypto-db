@@ -1,6 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 49.3 50.1">
-  <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M11.4 17 26 1l6 16m-.3 22.8-8.5 9.3-6-16"/>
-  <path fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2" d="m37.9 33-6.2 6.7"/>
-  <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M31.9 17h10.4l6 16H27.7l-6-16H1l6 16h10.3"/>
-  <path fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2" d="M31.9 17 17.2 33"/>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.0" viewBox="0 0 810 810">
+  <defs>
+    <clipPath id="cartesi_svg__a">
+      <path d="M311 437h262v287.727H311Zm0 0"/>
+    </clipPath>
+  </defs>
+  <path fill="#fff" d="M-81-81h972v972H-81z"/>
+  <path fill="#fff" d="M-81-81h972v972H-81z"/>
+  <path fill="#00f6ff" d="M-81-81h972v972H-81z"/>
+  <g clip-path="url(#cartesi_svg__a)">
+    <path d="m311.324 527.238 80.863 197.047 179.946-183.488h-136.45L399.25 437.539Zm0 0"/>
+  </g>
+  <path d="M529.934 304.379 426.762 409.496l33.832 95.828H732L661.176 304.38Zm-448.934 0 70.824 200.945h131.242l102.985-104.93-33.832-96.015Zm0 0"/>
+  <path d="M420.813 85.414 240.867 268.906h136.45l36.433 103.258 87.926-89.516Zm0 0"/>
 </svg>
