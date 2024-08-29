@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "hex@ethereum",
   "asset": "hex",
   "platform": "ethereum",
