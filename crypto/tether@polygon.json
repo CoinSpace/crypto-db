@@ -11,6 +11,9 @@
   "bitnovo": {
     "id": "USDT_MATIC"
   },
+  "changelly": {
+    "ticker": "usdtpolygon"
+  },
   "coingecko": {
     "id": "tether"
   },
