@@ -8,6 +8,9 @@
   "address": "EQCvxJy4eG8hyHBFsZ7eePxrRsUQSFE_jpptRAYBmcG_DOGS",
   "decimals": 9,
   "logo": "dogs.svg",
+  "changelly": {
+    "ticker": "dogs"
+  },
   "coingecko": {
     "id": "dogs-2"
   },
