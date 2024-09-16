@@ -3,40 +3,27 @@
   "asset": "polygon",
   "platform": "polygon",
   "type": "coin",
-  "name": "Polygon",
-  "symbol": "MATIC",
+  "name": "POL",
+  "symbol": "POL",
   "decimals": 18,
   "logo": "polygon.svg",
   "bitnovo": {
-    "id": "MATIC"
+    "id": "POL_MATIC"
   },
   "btcdirect": {
     "currencyPair": [
       "MATIC-EUR"
     ]
   },
-  "changelly": {
-    "ticker": "maticpolygon"
-  },
   "coingecko": {
-    "id": "matic-network"
+    "id": "polygon-ecosystem-token"
   },
   "coinmarketcap": {
-    "id": 3890,
-    "slug": "polygon"
-  },
-  "guardarian": {
-    "ticker": "MATIC",
-    "network": "MATIC"
+    "id": 28321,
+    "slug": "polygon-ecosystem-token"
   },
   "moonpay": {
-    "id": "34c3ed5f-0f60-497d-b31a-04065047aa2c",
-    "code": "matic_polygon"
-  },
-  "onramper": {
-    "id": "MATIC_POLYGON"
-  },
-  "paybis": {
-    "id": "MATIC-POLYGON"
+    "id": "f9b4adee-95e0-4d31-b22e-86a61b1040fd",
+    "code": "pol_polygon"
   }
 }

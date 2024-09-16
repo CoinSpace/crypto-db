@@ -3,31 +3,20 @@
   "asset": "polygon",
   "platform": "ethereum",
   "type": "token",
-  "name": "Polygon",
-  "symbol": "MATIC",
-  "address": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
+  "name": "POL",
+  "symbol": "POL",
+  "address": "0x455e53cbb86018ac2b8092fdcd39d8444affc3f6",
   "decimals": 18,
   "logo": "polygon.svg",
-  "changelly": {
-    "ticker": "matic"
-  },
   "coingecko": {
-    "id": "matic-network",
-    "platform": "ethereum"
+    "id": "polygon-ecosystem-token"
   },
   "coinmarketcap": {
-    "id": 3890,
-    "slug": "polygon"
-  },
-  "guardarian": {
-    "ticker": "MATIC",
-    "network": "ETH"
+    "id": 28321,
+    "slug": "polygon-ecosystem-token"
   },
   "moonpay": {
-    "id": "b1f332ac-0cf8-421d-9ce5-1f6934ebca26",
-    "code": "matic"
-  },
-  "onramper": {
-    "id": "MATIC_ETHEREUM"
+    "id": "3dc0d50d-b3a0-4aec-b1d6-6d00f7b70830",
+    "code": "pol"
   }
 }
