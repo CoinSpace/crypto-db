@@ -16,10 +16,6 @@
     "id": 3890,
     "slug": "polygon"
   },
-  "guardarian": {
-    "ticker": "MATIC",
-    "network": "BSC"
-  },
   "onramper": {
     "id": "MATIC_BSC"
   }
