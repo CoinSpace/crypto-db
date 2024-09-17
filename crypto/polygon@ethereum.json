@@ -15,6 +15,10 @@
     "id": 28321,
     "slug": "polygon-ecosystem-token"
   },
+  "guardarian": {
+    "ticker": "POL",
+    "network": "ETH"
+  },
   "moonpay": {
     "id": "3dc0d50d-b3a0-4aec-b1d6-6d00f7b70830",
     "code": "pol"
