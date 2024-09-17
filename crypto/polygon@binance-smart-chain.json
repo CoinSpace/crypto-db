@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "polygon@binance-smart-chain",
   "asset": "polygon",
   "platform": "binance-smart-chain",
@@ -9,18 +10,10 @@
   "decimals": 18,
   "logo": "polygon.svg",
   "coingecko": {
-    "id": "matic-network",
-    "platform": "binance-smart-chain"
+    "id": "matic-network"
   },
   "coinmarketcap": {
     "id": 3890,
     "slug": "polygon"
-  },
-  "guardarian": {
-    "ticker": "MATIC",
-    "network": "BSC"
-  },
-  "onramper": {
-    "id": "MATIC_BSC"
   }
 }
