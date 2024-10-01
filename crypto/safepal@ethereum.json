@@ -8,11 +8,18 @@
   "address": "0x12e2b8033420270db2f3b328e32370cb5b2ca134",
   "decimals": 18,
   "logo": "safepal.svg",
+  "changelly": {
+    "ticker": "sfpeth"
+  },
   "coingecko": {
     "id": "safepal"
   },
   "coinmarketcap": {
     "id": 8119,
     "slug": "safepal"
+  },
+  "moonpay": {
+    "id": "e0626884-05d7-449e-9d69-cb5eaeeec056",
+    "code": "sfp_bsc"
   }
 }
