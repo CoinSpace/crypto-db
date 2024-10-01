@@ -21,5 +21,9 @@
   "guardarian": {
     "ticker": "PYTH",
     "network": "SOL"
+  },
+  "moonpay": {
+    "id": "c7151875-66f1-44ab-8562-97af553d51e0",
+    "code": "pyth"
   }
 }
