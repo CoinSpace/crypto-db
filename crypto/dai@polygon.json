@@ -8,6 +8,9 @@
   "address": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
   "decimals": 18,
   "logo": "dai.svg",
+  "bitnovo": {
+    "id": "DAI_MATIC"
+  },
   "coingecko": {
     "id": "dai"
   },
