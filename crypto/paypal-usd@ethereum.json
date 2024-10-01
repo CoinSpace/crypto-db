@@ -21,5 +21,9 @@
   "guardarian": {
     "ticker": "PYUSD",
     "network": "ETH"
+  },
+  "moonpay": {
+    "id": "befc32c0-6a33-4dcc-9f8f-db81117ccecf",
+    "code": "pyusd"
   }
 }
