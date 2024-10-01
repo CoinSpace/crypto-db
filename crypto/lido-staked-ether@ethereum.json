@@ -22,5 +22,9 @@
   "guardarian": {
     "ticker": "STETH",
     "network": "ETH"
+  },
+  "moonpay": {
+    "id": "77a956eb-0748-47ef-a065-601090c330f0",
+    "code": "steth"
   }
 }
