@@ -10,6 +10,9 @@
   "bitnovo": {
     "id": "POL_MATIC"
   },
+  "changelly": {
+    "ticker": "pol"
+  },
   "coingecko": {
     "id": "polygon-ecosystem-token"
   },
