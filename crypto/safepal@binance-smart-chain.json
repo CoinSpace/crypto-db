@@ -22,9 +22,5 @@
   "guardarian": {
     "ticker": "SFP",
     "network": "BSC"
-  },
-  "moonpay": {
-    "id": "df8613c0-a03c-43f0-94e2-2c4f14d713cf",
-    "code": "sfp"
   }
 }
