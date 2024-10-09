@@ -8,6 +8,11 @@
   "decimals": 24,
   "logo": "near.svg",
   "supported": false,
+  "btcdirect": {
+    "currencyPair": [
+      "NEAR-EUR"
+    ]
+  },
   "changelly": {
     "ticker": "nearmainnet"
   },

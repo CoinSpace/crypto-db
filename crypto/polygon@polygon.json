@@ -10,6 +10,11 @@
   "bitnovo": {
     "id": "POL_MATIC"
   },
+  "btcdirect": {
+    "currencyPair": [
+      "POL-EUR"
+    ]
+  },
   "changelly": {
     "ticker": "pol"
   },

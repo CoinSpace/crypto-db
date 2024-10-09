@@ -7,6 +7,11 @@
   "symbol": "TON",
   "decimals": 9,
   "logo": "toncoin.svg",
+  "btcdirect": {
+    "currencyPair": [
+      "TON-EUR"
+    ]
+  },
   "changelly": {
     "ticker": "ton"
   },

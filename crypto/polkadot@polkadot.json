@@ -8,6 +8,11 @@
   "decimals": 10,
   "logo": "polkadot.svg",
   "supported": false,
+  "btcdirect": {
+    "currencyPair": [
+      "DOT-EUR"
+    ]
+  },
   "changelly": {
     "ticker": "dot"
   },

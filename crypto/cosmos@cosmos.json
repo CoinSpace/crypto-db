@@ -8,6 +8,11 @@
   "decimals": 8,
   "logo": "cosmos.svg",
   "supported": false,
+  "btcdirect": {
+    "currencyPair": [
+      "ATOM-EUR"
+    ]
+  },
   "changelly": {
     "ticker": "atom"
   },
