@@ -1,0 +1,18 @@
+{
+  "_id": "eigenlayer@ethereum",
+  "asset": "eigenlayer",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "EigenLayer",
+  "symbol": "EIGEN",
+  "address": "0xec53bf9167f50cdeb3ae105f56099aaab9061f83",
+  "decimals": 18,
+  "logo": "eigenlayer.png",
+  "coingecko": {
+    "id": "eigenlayer"
+  },
+  "coinmarketcap": {
+    "id": 30494,
+    "slug": "eigenlayer"
+  }
+}
