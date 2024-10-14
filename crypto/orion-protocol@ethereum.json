@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "orion-protocol@ethereum",
   "asset": "orion-protocol",
   "platform": "ethereum",
@@ -7,7 +8,6 @@
   "symbol": "ORN",
   "address": "0x0258f474786ddfd37abce6df6bbb1dd5dfc4434a",
   "decimals": 8,
-  "logo": "orion-protocol.png",
   "changelly": {
     "ticker": "orn"
   },
