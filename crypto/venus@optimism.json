@@ -1,0 +1,18 @@
+{
+  "_id": "venus@optimism",
+  "asset": "venus",
+  "platform": "optimism",
+  "type": "token",
+  "name": "Venus",
+  "symbol": "XVS",
+  "address": "0x4a971e87ad1f61f7f3081645f52a99277ae917cf",
+  "decimals": 18,
+  "logo": "venus.png",
+  "coingecko": {
+    "id": "venus"
+  },
+  "coinmarketcap": {
+    "id": 7288,
+    "slug": "venus"
+  }
+}
