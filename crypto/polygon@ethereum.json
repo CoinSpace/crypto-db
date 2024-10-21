@@ -8,6 +8,9 @@
   "address": "0x455e53cbb86018ac2b8092fdcd39d8444affc3f6",
   "decimals": 18,
   "logo": "polygon.svg",
+  "changelly": {
+    "ticker": "poleth"
+  },
   "coingecko": {
     "id": "polygon-ecosystem-token"
   },
