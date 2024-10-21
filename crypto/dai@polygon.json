@@ -11,6 +11,9 @@
   "bitnovo": {
     "id": "DAI_MATIC"
   },
+  "changelly": {
+    "ticker": "daipolygon"
+  },
   "coingecko": {
     "id": "dai"
   },
