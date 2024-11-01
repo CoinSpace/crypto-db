@@ -8,6 +8,9 @@
   "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
   "decimals": 6,
   "logo": "usd-coin.svg",
+  "bitnovo": {
+    "id": "USDC_ARB"
+  },
   "changelly": {
     "ticker": "usdcarb"
   },

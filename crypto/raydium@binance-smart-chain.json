@@ -1,0 +1,18 @@
+{
+  "_id": "raydium@binance-smart-chain",
+  "asset": "raydium",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Raydium",
+  "symbol": "RAY",
+  "address": "0x13b6a55662f6591f8b8408af1c73b017e32eedb8",
+  "decimals": 6,
+  "logo": "raydium.svg",
+  "coingecko": {
+    "id": "raydium"
+  },
+  "coinmarketcap": {
+    "id": 8526,
+    "slug": "raydium"
+  }
+}

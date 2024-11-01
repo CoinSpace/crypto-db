@@ -8,6 +8,9 @@
   "address": "0x94b008aa00579c1307b0ef2c499ad98a8ce58e58",
   "decimals": 6,
   "logo": "tether.svg",
+  "bitnovo": {
+    "id": "USDT_OP"
+  },
   "changelly": {
     "ticker": "usdtop"
   },

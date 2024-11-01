@@ -8,6 +8,9 @@
   "address": "0x0b2c639c533813f4aa9d7837caf62653d097ff85",
   "decimals": 6,
   "logo": "usd-coin.svg",
+  "bitnovo": {
+    "id": "USDC_OP"
+  },
   "changelly": {
     "ticker": "usdcop"
   },
