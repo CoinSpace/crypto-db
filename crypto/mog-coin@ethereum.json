@@ -1,0 +1,18 @@
+{
+  "_id": "mog-coin@ethereum",
+  "asset": "mog-coin",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Mog Coin",
+  "symbol": "MOG",
+  "address": "0xaaee1a9723aadb7afa2810263653a34ba2c21c7a",
+  "decimals": 18,
+  "logo": "mog-coin.png",
+  "coingecko": {
+    "id": "mog-coin"
+  },
+  "coinmarketcap": {
+    "id": 27659,
+    "slug": "mog-coin"
+  }
+}
