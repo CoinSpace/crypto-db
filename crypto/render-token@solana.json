@@ -17,5 +17,9 @@
   "coinmarketcap": {
     "id": 5690,
     "slug": "render"
+  },
+  "moonpay": {
+    "id": "794c61b1-ce3c-4021-961e-49bb6077f7bc",
+    "code": "render_sol"
   }
 }
