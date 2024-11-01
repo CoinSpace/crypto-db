@@ -1,0 +1,29 @@
+{
+  "_id": "raydium@solana",
+  "asset": "raydium",
+  "platform": "solana",
+  "type": "token",
+  "name": "Raydium",
+  "symbol": "RAY",
+  "address": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
+  "decimals": 6,
+  "logo": "raydium.png",
+  "changelly": {
+    "ticker": "ray"
+  },
+  "coingecko": {
+    "id": "raydium"
+  },
+  "coinmarketcap": {
+    "id": 8526,
+    "slug": "raydium"
+  },
+  "guardarian": {
+    "ticker": "RAY",
+    "network": "SOL"
+  },
+  "moonpay": {
+    "id": "73a76d42-d1e6-47e0-981c-647bed4bf09a",
+    "code": "ray_sol"
+  }
+}
