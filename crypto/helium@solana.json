@@ -17,5 +17,9 @@
   "coinmarketcap": {
     "id": 5665,
     "slug": "helium"
+  },
+  "moonpay": {
+    "id": "7bc09bc0-22a7-426b-a282-bc6ea6aeaaa5",
+    "code": "hnt_sol"
   }
 }
