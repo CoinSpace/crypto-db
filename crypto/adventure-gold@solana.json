@@ -1,0 +1,18 @@
+{
+  "_id": "adventure-gold@solana",
+  "asset": "adventure-gold",
+  "platform": "solana",
+  "type": "token",
+  "name": "Adventure Gold",
+  "symbol": "AGLD",
+  "address": "7dnMwS2yE6NE1PX81B9Xpm7zUhFXmQABqUiHHzWXiEBn",
+  "decimals": 8,
+  "logo": "adventure-gold.jpg",
+  "coingecko": {
+    "id": "adventure-gold"
+  },
+  "coinmarketcap": {
+    "id": 11568,
+    "slug": "adventure-gold"
+  }
+}
