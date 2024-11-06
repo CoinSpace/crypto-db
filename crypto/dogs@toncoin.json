@@ -21,5 +21,9 @@
   "guardarian": {
     "ticker": "DOGS",
     "network": "TON"
+  },
+  "moonpay": {
+    "id": "6466c11f-cc7e-4a19-8472-9ac48ce8abb2",
+    "code": "dogs_ton"
   }
 }
