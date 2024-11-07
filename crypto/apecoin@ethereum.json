@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "ape"
   },
+  "changenow": {
+    "ticker": "ape",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "apecoin",
     "platform": "ethereum"

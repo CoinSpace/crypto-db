@@ -8,6 +8,10 @@
   "address": "0x172370d5cd63279efa6d502dab29171933a610af",
   "decimals": 18,
   "logo": "curve-dao-token.svg",
+  "changenow": {
+    "ticker": "crv",
+    "network": "matic"
+  },
   "coingecko": {
     "id": "curve-dao-token"
   },

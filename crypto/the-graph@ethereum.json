@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "grt"
   },
+  "changenow": {
+    "ticker": "grt",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "the-graph",
     "platform": "ethereum"

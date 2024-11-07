@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "dent"
   },
+  "changenow": {
+    "ticker": "dent",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "dent",
     "platform": "ethereum"

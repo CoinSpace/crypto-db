@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "ksm"
   },
+  "changenow": {
+    "ticker": "ksm",
+    "network": "ksm"
+  },
   "coingecko": {
     "id": "kusama"
   },

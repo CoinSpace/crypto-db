@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "sushi"
   },
+  "changenow": {
+    "ticker": "sushi",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "sushi",
     "platform": "ethereum"

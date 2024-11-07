@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "crv"
   },
+  "changenow": {
+    "ticker": "crv",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "curve-dao-token",
     "platform": "ethereum"

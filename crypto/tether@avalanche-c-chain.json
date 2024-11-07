@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "usdtavac"
   },
+  "changenow": {
+    "ticker": "usdt",
+    "network": "avaxc"
+  },
   "coingecko": {
     "id": "tether"
   },

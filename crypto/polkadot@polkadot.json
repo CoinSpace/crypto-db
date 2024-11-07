@@ -16,6 +16,10 @@
   "changelly": {
     "ticker": "dot"
   },
+  "changenow": {
+    "ticker": "dot",
+    "network": "dot"
+  },
   "coingecko": {
     "id": "polkadot"
   },

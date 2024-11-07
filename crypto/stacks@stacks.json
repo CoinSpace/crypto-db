@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "stx"
   },
+  "changenow": {
+    "ticker": "stx",
+    "network": "stx"
+  },
   "coingecko": {
     "id": "blockstack"
   },

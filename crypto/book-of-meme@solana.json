@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "bome"
   },
+  "changenow": {
+    "ticker": "bome",
+    "network": "sol"
+  },
   "coingecko": {
     "id": "book-of-meme"
   },

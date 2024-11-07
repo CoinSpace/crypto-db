@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "paxg"
   },
+  "changenow": {
+    "ticker": "paxg",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "pax-gold",
     "platform": "ethereum"

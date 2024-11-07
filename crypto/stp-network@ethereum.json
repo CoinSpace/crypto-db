@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "stpt"
   },
+  "changenow": {
+    "ticker": "stpt",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "stp-network",
     "platform": "ethereum"

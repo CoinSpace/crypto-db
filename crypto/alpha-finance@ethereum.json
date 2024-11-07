@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "alpha"
   },
+  "changenow": {
+    "ticker": "alpha",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "alpha-finance",
     "platform": "ethereum"

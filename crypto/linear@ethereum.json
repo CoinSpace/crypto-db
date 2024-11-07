@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "lina"
   },
+  "changenow": {
+    "ticker": "lina",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "linear",
     "platform": "ethereum"

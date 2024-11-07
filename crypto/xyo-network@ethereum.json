@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "xyo"
   },
+  "changenow": {
+    "ticker": "xyo",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "xyo-network",
     "platform": "ethereum"

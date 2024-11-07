@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "bal"
   },
+  "changenow": {
+    "ticker": "bal",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "balancer",
     "platform": "ethereum"

@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "storj"
   },
+  "changenow": {
+    "ticker": "storj",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "storj",
     "platform": "ethereum"

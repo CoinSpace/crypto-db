@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "zro"
   },
+  "changenow": {
+    "ticker": "zro",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "layerzero"
   },

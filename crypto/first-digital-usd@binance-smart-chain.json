@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "fdusd"
   },
+  "changenow": {
+    "ticker": "fdusd",
+    "network": "bsc"
+  },
   "coingecko": {
     "id": "first-digital-usd"
   },

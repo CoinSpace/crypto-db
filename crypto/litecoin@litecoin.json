@@ -19,6 +19,10 @@
   "changelly": {
     "ticker": "ltc"
   },
+  "changenow": {
+    "ticker": "ltc",
+    "network": "ltc"
+  },
   "coingecko": {
     "id": "litecoin"
   },

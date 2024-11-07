@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "perp"
   },
+  "changenow": {
+    "ticker": "perp",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "perpetual-protocol",
     "platform": "ethereum"

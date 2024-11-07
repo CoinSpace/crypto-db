@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "starl"
   },
+  "changenow": {
+    "ticker": "starl",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "starlink",
     "platform": "ethereum"

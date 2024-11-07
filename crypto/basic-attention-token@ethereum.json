@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "bat"
   },
+  "changenow": {
+    "ticker": "bat",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "basic-attention-token",
     "platform": "ethereum"

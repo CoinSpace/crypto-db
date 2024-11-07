@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "loom"
   },
+  "changenow": {
+    "ticker": "loom",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "loom-network-new",
     "platform": "ethereum"

@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "api3"
   },
+  "changenow": {
+    "ticker": "api3",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "api3",
     "platform": "ethereum"

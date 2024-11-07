@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "rpl"
   },
+  "changenow": {
+    "ticker": "rpl",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "rocket-pool",
     "platform": "ethereum"

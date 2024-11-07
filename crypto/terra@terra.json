@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "lunc"
   },
+  "changenow": {
+    "ticker": "lunc",
+    "network": "lunc"
+  },
   "coingecko": {
     "id": "terra-luna"
   },

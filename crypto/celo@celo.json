@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "celo"
   },
+  "changenow": {
+    "ticker": "celo",
+    "network": "celo"
+  },
   "coingecko": {
     "id": "celo"
   },

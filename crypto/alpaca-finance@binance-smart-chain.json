@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "alpaca"
   },
+  "changenow": {
+    "ticker": "alpaca",
+    "network": "bsc"
+  },
   "coingecko": {
     "id": "alpaca-finance",
     "platform": "binance-smart-chain"

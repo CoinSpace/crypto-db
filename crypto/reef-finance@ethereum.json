@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "reef"
   },
+  "changenow": {
+    "ticker": "reef",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "reef"
   },

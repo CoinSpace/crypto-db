@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "metis"
   },
+  "changenow": {
+    "ticker": "metis",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "metis-token",
     "platform": "ethereum"

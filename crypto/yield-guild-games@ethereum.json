@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "ygg"
   },
+  "changenow": {
+    "ticker": "ygg",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "yield-guild-games",
     "platform": "ethereum"

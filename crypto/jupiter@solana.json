@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "jup"
   },
+  "changenow": {
+    "ticker": "jup",
+    "network": "sol"
+  },
   "coingecko": {
     "id": "jupiter-exchange-solana"
   },

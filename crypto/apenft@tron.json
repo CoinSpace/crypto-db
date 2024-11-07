@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "nft"
   },
+  "changenow": {
+    "ticker": "nft",
+    "network": "trx"
+  },
   "coingecko": {
     "id": "apenft"
   },

@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "ilv"
   },
+  "changenow": {
+    "ticker": "ilv",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "illuvium",
     "platform": "ethereum"

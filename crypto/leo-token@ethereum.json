@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "leo"
   },
+  "changenow": {
+    "ticker": "leo",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "leo-token",
     "platform": "ethereum"

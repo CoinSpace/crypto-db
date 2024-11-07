@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "bnx"
   },
+  "changenow": {
+    "ticker": "bnx",
+    "network": "bsc"
+  },
   "coingecko": {
     "id": "binaryx-2"
   },

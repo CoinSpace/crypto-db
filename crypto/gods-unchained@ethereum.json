@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "gods"
   },
+  "changenow": {
+    "ticker": "gods",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "gods-unchained",
     "platform": "ethereum"

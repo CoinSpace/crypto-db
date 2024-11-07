@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "lrc"
   },
+  "changenow": {
+    "ticker": "lrc",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "loopring",
     "platform": "ethereum"

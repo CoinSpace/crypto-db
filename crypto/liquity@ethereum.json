@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "lqty"
   },
+  "changenow": {
+    "ticker": "lqty",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "liquity",
     "platform": "ethereum"

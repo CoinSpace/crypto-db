@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "snx"
   },
+  "changenow": {
+    "ticker": "snx",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "havven",
     "platform": "ethereum"

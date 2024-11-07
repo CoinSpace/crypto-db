@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "mew"
   },
+  "changenow": {
+    "ticker": "mew",
+    "network": "sol"
+  },
   "coingecko": {
     "id": "cat-in-a-dogs-world"
   },

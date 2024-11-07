@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "audio"
   },
+  "changenow": {
+    "ticker": "audio",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "audius",
     "platform": "ethereum"

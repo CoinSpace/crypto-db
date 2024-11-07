@@ -8,6 +8,10 @@
   "address": "0x935a544bf5816e3a7c13db2efe3009ffda0acda2",
   "decimals": 18,
   "logo": "bluzelle.svg",
+  "changenow": {
+    "ticker": "blz",
+    "network": "bsc"
+  },
   "coingecko": {
     "id": "bluzelle",
     "platform": "binance-smart-chain"

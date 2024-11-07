@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "ethbsc"
   },
+  "changenow": {
+    "ticker": "eth",
+    "network": "bsc"
+  },
   "coingecko": {
     "id": "ethereum",
     "platform": "binance-smart-chain"

@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "fun"
   },
+  "changenow": {
+    "ticker": "fun",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "funfair",
     "platform": "ethereum"

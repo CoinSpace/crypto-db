@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "aave"
   },
+  "changenow": {
+    "ticker": "aave",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "aave",
     "platform": "ethereum"

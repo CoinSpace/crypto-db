@@ -7,6 +7,10 @@
   "symbol": "ETH",
   "decimals": 18,
   "logo": "arbitrum.svg",
+  "changenow": {
+    "ticker": "eth",
+    "network": "arbitrum"
+  },
   "coingecko": {
     "id": "ethereum"
   },

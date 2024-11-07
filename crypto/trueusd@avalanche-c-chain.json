@@ -8,6 +8,10 @@
   "address": "0x1c20e891bab6b1727d14da358fae2984ed9b59eb",
   "decimals": 18,
   "logo": "trueusd.svg",
+  "changenow": {
+    "ticker": "tusd",
+    "network": "avaxc"
+  },
   "coingecko": {
     "id": "true-usd"
   },

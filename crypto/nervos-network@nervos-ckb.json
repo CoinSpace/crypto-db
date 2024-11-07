@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "ckb"
   },
+  "changenow": {
+    "ticker": "ckb",
+    "network": "ckb"
+  },
   "coingecko": {
     "id": "nervos-network"
   },

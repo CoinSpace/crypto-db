@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "raca"
   },
+  "changenow": {
+    "ticker": "raca",
+    "network": "bsc"
+  },
   "coingecko": {
     "id": "radio-caca",
     "platform": "binance-smart-chain"

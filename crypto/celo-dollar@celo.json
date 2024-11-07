@@ -9,6 +9,10 @@
   "decimals": 18,
   "logo": "celo-dollar.png",
   "supported": false,
+  "changenow": {
+    "ticker": "cusd",
+    "network": "celo"
+  },
   "coingecko": {
     "id": "celo-dollar",
     "platform": "celo"

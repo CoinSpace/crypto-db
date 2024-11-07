@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "gt"
   },
+  "changenow": {
+    "ticker": "gt",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "gatechain-token",
     "platform": "ethereum"

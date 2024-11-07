@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "c98"
   },
+  "changenow": {
+    "ticker": "c98",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "coin98",
     "platform": "ethereum"

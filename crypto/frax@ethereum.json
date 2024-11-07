@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "frax"
   },
+  "changenow": {
+    "ticker": "frax",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "frax",
     "platform": "ethereum"

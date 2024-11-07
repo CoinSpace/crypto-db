@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "req"
   },
+  "changenow": {
+    "ticker": "req",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "request-network",
     "platform": "ethereum"

@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "powr"
   },
+  "changenow": {
+    "ticker": "powr",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "power-ledger",
     "platform": "ethereum"

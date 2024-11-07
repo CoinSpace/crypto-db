@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "nmr"
   },
+  "changenow": {
+    "ticker": "nmr",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "numeraire",
     "platform": "ethereum"

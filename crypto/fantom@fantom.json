@@ -10,6 +10,10 @@
   "changelly": {
     "ticker": "ftmmainnet"
   },
+  "changenow": {
+    "ticker": "ftm",
+    "network": "ftm"
+  },
   "coingecko": {
     "id": "fantom"
   },

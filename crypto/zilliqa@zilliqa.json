@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "zil"
   },
+  "changenow": {
+    "ticker": "zil",
+    "network": "zil"
+  },
   "coingecko": {
     "id": "zilliqa"
   },

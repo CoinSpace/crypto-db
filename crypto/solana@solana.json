@@ -19,6 +19,10 @@
   "changelly": {
     "ticker": "sol"
   },
+  "changenow": {
+    "ticker": "sol",
+    "network": "sol"
+  },
   "coingecko": {
     "id": "solana"
   },

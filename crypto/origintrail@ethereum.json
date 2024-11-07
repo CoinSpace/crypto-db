@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "trac"
   },
+  "changenow": {
+    "ticker": "trac",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "origintrail",
     "platform": "ethereum"

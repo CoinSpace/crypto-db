@@ -8,6 +8,10 @@
   "address": "0x070a08beef8d36734dd67a491202ff35a6a16d97",
   "decimals": 18,
   "logo": "smooth-love-potion.svg",
+  "changenow": {
+    "ticker": "slp",
+    "network": "bsc"
+  },
   "coingecko": {
     "id": "smooth-love-potion"
   },

@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "twt"
   },
+  "changenow": {
+    "ticker": "twt",
+    "network": "bsc"
+  },
   "coingecko": {
     "id": "trust-wallet-token",
     "platform": "binance-smart-chain"

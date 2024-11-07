@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "tel"
   },
+  "changenow": {
+    "ticker": "tel",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "telcoin",
     "platform": "ethereum"

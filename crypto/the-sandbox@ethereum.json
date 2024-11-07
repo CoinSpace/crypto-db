@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "sand"
   },
+  "changenow": {
+    "ticker": "sand",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "the-sandbox",
     "platform": "ethereum"

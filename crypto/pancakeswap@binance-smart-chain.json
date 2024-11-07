@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "cake"
   },
+  "changenow": {
+    "ticker": "cake",
+    "network": "bsc"
+  },
   "coingecko": {
     "id": "pancakeswap-token",
     "platform": "binance-smart-chain"

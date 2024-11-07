@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "orbs"
   },
+  "changenow": {
+    "ticker": "orbs",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "orbs",
     "platform": "ethereum"

@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "rsr"
   },
+  "changenow": {
+    "ticker": "rsr",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "reserve-rights-token",
     "platform": "ethereum"

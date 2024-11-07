@@ -10,6 +10,10 @@
   "changelly": {
     "ticker": "etc"
   },
+  "changenow": {
+    "ticker": "etc",
+    "network": "etc"
+  },
   "coingecko": {
     "id": "ethereum-classic"
   },

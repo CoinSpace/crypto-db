@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "oxt"
   },
+  "changenow": {
+    "ticker": "oxt",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "orchid-protocol",
     "platform": "ethereum"

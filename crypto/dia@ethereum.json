@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "dia"
   },
+  "changenow": {
+    "ticker": "dia",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "dia-data",
     "platform": "ethereum"

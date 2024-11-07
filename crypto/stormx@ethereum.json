@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "stmx"
   },
+  "changenow": {
+    "ticker": "stmx",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "storm",
     "platform": "ethereum"

@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "ata"
   },
+  "changenow": {
+    "ticker": "ata",
+    "network": "bsc"
+  },
   "coingecko": {
     "id": "automata",
     "platform": "binance-smart-chain"

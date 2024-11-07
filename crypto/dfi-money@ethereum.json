@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "yfii"
   },
+  "changenow": {
+    "ticker": "yfii",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "yfii-finance",
     "platform": "ethereum"

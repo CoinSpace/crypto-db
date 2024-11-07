@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "hnt"
   },
+  "changenow": {
+    "ticker": "hnt",
+    "network": "sol"
+  },
   "coingecko": {
     "id": "helium"
   },

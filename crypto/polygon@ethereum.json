@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "poleth"
   },
+  "changenow": {
+    "ticker": "pol",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "polygon-ecosystem-token"
   },

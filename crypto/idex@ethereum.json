@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "idex"
   },
+  "changenow": {
+    "ticker": "idex",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "aurora-dao",
     "platform": "ethereum"

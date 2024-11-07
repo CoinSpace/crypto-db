@@ -8,6 +8,10 @@
   "address": "0x7e624fa0e1c4abfd309cc15719b7e2580887f570",
   "decimals": 18,
   "logo": "polkastarter.png",
+  "changenow": {
+    "ticker": "pols",
+    "network": "bsc"
+  },
   "coingecko": {
     "id": "polkastarter",
     "platform": "binance-smart-chain"

@@ -8,6 +8,10 @@
   "address": "0x41b3966b4ff7b427969ddf5da3627d6aeae9a48e",
   "decimals": 18,
   "logo": "nexo.svg",
+  "changenow": {
+    "ticker": "nexo",
+    "network": "matic"
+  },
   "coingecko": {
     "id": "nexo"
   },

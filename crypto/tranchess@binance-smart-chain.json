@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "chess"
   },
+  "changenow": {
+    "ticker": "chess",
+    "network": "bsc"
+  },
   "coingecko": {
     "id": "tranchess",
     "platform": "binance-smart-chain"

@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "usdton"
   },
+  "changenow": {
+    "ticker": "usdt",
+    "network": "ton"
+  },
   "coingecko": {
     "id": "tether"
   },

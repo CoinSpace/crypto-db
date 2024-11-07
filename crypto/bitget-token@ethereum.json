@@ -8,6 +8,10 @@
   "address": "0x54d2252757e1672eead234d27b1270728ff90581",
   "decimals": 18,
   "logo": "bitget-token.svg",
+  "changenow": {
+    "ticker": "bgb",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "bitget-token"
   },

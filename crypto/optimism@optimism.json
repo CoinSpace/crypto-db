@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "op"
   },
+  "changenow": {
+    "ticker": "op",
+    "network": "op"
+  },
   "coingecko": {
     "id": "optimism"
   },

@@ -8,6 +8,10 @@
   "address": "0xfc82bb4ba86045af6f327323a46e80412b91b27d",
   "decimals": 18,
   "logo": "prometeus.svg",
+  "changenow": {
+    "ticker": "prom",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "prometeus",
     "platform": "ethereum"

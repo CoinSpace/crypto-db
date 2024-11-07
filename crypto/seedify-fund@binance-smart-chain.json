@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "sfund"
   },
+  "changenow": {
+    "ticker": "sfund",
+    "network": "bsc"
+  },
   "coingecko": {
     "id": "seedify-fund",
     "platform": "binance-smart-chain"

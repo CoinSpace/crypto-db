@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "comp"
   },
+  "changenow": {
+    "ticker": "comp",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "compound-governance-token",
     "platform": "ethereum"

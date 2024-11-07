@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "uma"
   },
+  "changenow": {
+    "ticker": "uma",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "uma",
     "platform": "ethereum"

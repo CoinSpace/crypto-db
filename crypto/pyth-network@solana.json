@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "pyth"
   },
+  "changenow": {
+    "ticker": "pyth",
+    "network": "sol"
+  },
   "coingecko": {
     "id": "pyth-network"
   },

@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "ren"
   },
+  "changenow": {
+    "ticker": "ren",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "republic-protocol",
     "platform": "ethereum"

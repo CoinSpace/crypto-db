@@ -19,6 +19,10 @@
   "changelly": {
     "ticker": "btc"
   },
+  "changenow": {
+    "ticker": "btc",
+    "network": "btc"
+  },
   "coingecko": {
     "id": "bitcoin"
   },

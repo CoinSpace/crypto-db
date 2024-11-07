@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "dusk"
   },
+  "changenow": {
+    "ticker": "dusk",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "dusk-network",
     "platform": "ethereum"

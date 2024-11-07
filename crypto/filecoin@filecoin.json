@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "fil"
   },
+  "changenow": {
+    "ticker": "fil",
+    "network": "fil"
+  },
   "coingecko": {
     "id": "filecoin"
   },

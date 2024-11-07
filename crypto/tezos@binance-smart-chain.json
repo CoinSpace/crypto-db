@@ -8,6 +8,10 @@
   "address": "0x16939ef78684453bfdfb47825f8a5f714f12623a",
   "decimals": 18,
   "logo": "tezos.svg",
+  "changenow": {
+    "ticker": "xtz",
+    "network": "bsc"
+  },
   "coingecko": {
     "id": "tezos"
   },

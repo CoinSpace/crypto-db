@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "amp"
   },
+  "changenow": {
+    "ticker": "amp",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "amp-token",
     "platform": "ethereum"

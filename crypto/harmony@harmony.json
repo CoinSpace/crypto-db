@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "one"
   },
+  "changenow": {
+    "ticker": "one",
+    "network": "one"
+  },
   "coingecko": {
     "id": "harmony"
   },

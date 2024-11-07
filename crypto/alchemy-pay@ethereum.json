@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "ach"
   },
+  "changenow": {
+    "ticker": "ach",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "alchemy-pay",
     "platform": "ethereum"

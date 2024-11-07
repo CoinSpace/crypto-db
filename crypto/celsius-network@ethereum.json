@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "cel"
   },
+  "changenow": {
+    "ticker": "cel",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "celsius-degree-token",
     "platform": "ethereum"

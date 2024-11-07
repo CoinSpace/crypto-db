@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "skl"
   },
+  "changenow": {
+    "ticker": "skl",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "skale",
     "platform": "ethereum"

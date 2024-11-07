@@ -8,6 +8,10 @@
   "address": "0x031b41e504677879370e9dbcf937283a8691fa7f",
   "decimals": 18,
   "logo": "fetch-ai.svg",
+  "changenow": {
+    "ticker": "fet",
+    "network": "bsc"
+  },
   "coingecko": {
     "id": "fetch-ai",
     "platform": "binance-smart-chain"

@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "mbox"
   },
+  "changenow": {
+    "ticker": "mbox",
+    "network": "bsc"
+  },
   "coingecko": {
     "id": "mobox",
     "platform": "binance-smart-chain"

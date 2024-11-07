@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "fida"
   },
+  "changenow": {
+    "ticker": "fida",
+    "network": "sol"
+  },
   "coingecko": {
     "id": "bonfida",
     "platform": "solana"

@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "rly"
   },
+  "changenow": {
+    "ticker": "rly",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "rally-2",
     "platform": "ethereum"

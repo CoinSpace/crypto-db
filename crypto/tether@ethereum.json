@@ -19,6 +19,10 @@
   "changelly": {
     "ticker": "usdt20"
   },
+  "changenow": {
+    "ticker": "usdt",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "tether",
     "platform": "ethereum"

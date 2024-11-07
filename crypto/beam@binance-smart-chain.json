@@ -8,6 +8,10 @@
   "address": "0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce",
   "decimals": 18,
   "logo": "beam.svg",
+  "changenow": {
+    "ticker": "beamx",
+    "network": "bsc"
+  },
   "coingecko": {
     "id": "beam-2"
   },

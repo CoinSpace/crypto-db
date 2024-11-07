@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "xem"
   },
+  "changenow": {
+    "ticker": "xem",
+    "network": "xem"
+  },
   "coingecko": {
     "id": "nem"
   },

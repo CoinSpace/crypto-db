@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "w"
   },
+  "changenow": {
+    "ticker": "w",
+    "network": "sol"
+  },
   "coingecko": {
     "id": "wormhole"
   },

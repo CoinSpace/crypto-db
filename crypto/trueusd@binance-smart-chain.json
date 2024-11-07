@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "tusdbsc"
   },
+  "changenow": {
+    "ticker": "tusd",
+    "network": "bsc"
+  },
   "coingecko": {
     "id": "true-usd",
     "platform": "binance-smart-chain"

@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "usdcavac"
   },
+  "changenow": {
+    "ticker": "usdc",
+    "network": "avaxc"
+  },
   "coingecko": {
     "id": "usd-coin"
   },

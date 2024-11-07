@@ -8,6 +8,10 @@
   "address": "0x446c9033e7516d820cc9a2ce2d0b7328b579406f",
   "decimals": 8,
   "logo": "solve.png",
+  "changenow": {
+    "ticker": "solve",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "solve-care",
     "platform": "ethereum"

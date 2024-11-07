@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "vanry"
   },
+  "changenow": {
+    "ticker": "vanry",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "vanar-chain"
   },

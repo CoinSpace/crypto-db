@@ -19,6 +19,10 @@
   "changelly": {
     "ticker": "xrp"
   },
+  "changenow": {
+    "ticker": "xrp",
+    "network": "xrp"
+  },
   "coingecko": {
     "id": "ripple"
   },

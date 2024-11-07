@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "blz"
   },
+  "changenow": {
+    "ticker": "blz",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "bluzelle",
     "platform": "ethereum"

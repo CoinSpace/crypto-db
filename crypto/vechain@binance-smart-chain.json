@@ -8,6 +8,10 @@
   "address": "0x6fdcdfef7c496407ccb0cec90f9c5aaa1cc8d888",
   "decimals": 18,
   "logo": "vechain.svg",
+  "changenow": {
+    "ticker": "vet",
+    "network": "bsc"
+  },
   "coingecko": {
     "id": "vechain"
   },

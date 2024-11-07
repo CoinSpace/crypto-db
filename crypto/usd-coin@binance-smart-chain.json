@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "usdcbsc"
   },
+  "changenow": {
+    "ticker": "usdc",
+    "network": "bsc"
+  },
   "coingecko": {
     "id": "usd-coin",
     "platform": "binance-smart-chain"

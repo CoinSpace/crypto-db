@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "usdtbsc"
   },
+  "changenow": {
+    "ticker": "usdt",
+    "network": "bsc"
+  },
   "coingecko": {
     "id": "tether",
     "platform": "binance-smart-chain"

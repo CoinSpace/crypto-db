@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "sui"
   },
+  "changenow": {
+    "ticker": "sui",
+    "network": "sui"
+  },
   "coingecko": {
     "id": "sui"
   },

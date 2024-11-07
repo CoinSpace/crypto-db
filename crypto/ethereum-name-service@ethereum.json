@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "ens"
   },
+  "changenow": {
+    "ticker": "ens",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "ethereum-name-service",
     "platform": "ethereum"

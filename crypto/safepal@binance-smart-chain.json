@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "sfp"
   },
+  "changenow": {
+    "ticker": "sfp",
+    "network": "bsc"
+  },
   "coingecko": {
     "id": "safepal",
     "platform": "binance-smart-chain"

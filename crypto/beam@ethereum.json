@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "beamx"
   },
+  "changenow": {
+    "ticker": "beamx",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "beam-2"
   },

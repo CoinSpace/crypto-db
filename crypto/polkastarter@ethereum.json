@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "pols"
   },
+  "changenow": {
+    "ticker": "pols",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "polkastarter",
     "platform": "ethereum"

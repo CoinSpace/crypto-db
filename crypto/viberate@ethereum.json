@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "vib"
   },
+  "changenow": {
+    "ticker": "vib",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "viberate",
     "platform": "ethereum"

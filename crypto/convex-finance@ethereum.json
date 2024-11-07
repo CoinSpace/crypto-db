@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "cvx"
   },
+  "changenow": {
+    "ticker": "cvx",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "convex-finance",
     "platform": "ethereum"

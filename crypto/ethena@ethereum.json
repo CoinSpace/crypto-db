@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "ena"
   },
+  "changenow": {
+    "ticker": "ena",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "ethena"
   },

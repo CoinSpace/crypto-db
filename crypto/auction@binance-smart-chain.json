@@ -8,6 +8,10 @@
   "address": "0x1188d953afc697c031851169eef640f23ac8529c",
   "decimals": 18,
   "logo": "auction.jpg",
+  "changenow": {
+    "ticker": "auction",
+    "network": "bsc"
+  },
   "coingecko": {
     "id": "auction"
   },

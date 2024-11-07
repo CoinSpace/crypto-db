@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "xvg"
   },
+  "changenow": {
+    "ticker": "xvg",
+    "network": "xvg"
+  },
   "coingecko": {
     "id": "verge"
   },

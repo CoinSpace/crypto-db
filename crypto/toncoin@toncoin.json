@@ -15,6 +15,10 @@
   "changelly": {
     "ticker": "ton"
   },
+  "changenow": {
+    "ticker": "ton",
+    "network": "ton"
+  },
   "coingecko": {
     "id": "the-open-network"
   },

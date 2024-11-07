@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "vet"
   },
+  "changenow": {
+    "ticker": "vet",
+    "network": "vet"
+  },
   "coingecko": {
     "id": "vechain"
   },

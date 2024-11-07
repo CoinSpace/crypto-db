@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "pepe"
   },
+  "changenow": {
+    "ticker": "pepe",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "pepe"
   },

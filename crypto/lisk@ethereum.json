@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "lsk"
   },
+  "changenow": {
+    "ticker": "lsk",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "lisk"
   },

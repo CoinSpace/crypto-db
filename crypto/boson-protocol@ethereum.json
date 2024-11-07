@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "boson"
   },
+  "changenow": {
+    "ticker": "boson",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "boson-protocol",
     "platform": "ethereum"

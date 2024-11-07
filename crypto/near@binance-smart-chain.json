@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "near"
   },
+  "changenow": {
+    "ticker": "near",
+    "network": "bsc"
+  },
   "coingecko": {
     "id": "near"
   },

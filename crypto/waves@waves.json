@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "waves"
   },
+  "changenow": {
+    "ticker": "waves",
+    "network": "waves"
+  },
   "coingecko": {
     "id": "waves"
   },

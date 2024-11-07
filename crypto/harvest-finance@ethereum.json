@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "farm"
   },
+  "changenow": {
+    "ticker": "farm",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "harvest-finance",
     "platform": "ethereum"

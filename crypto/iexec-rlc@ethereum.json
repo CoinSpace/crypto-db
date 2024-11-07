@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "rlc"
   },
+  "changenow": {
+    "ticker": "rlc",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "iexec-rlc",
     "platform": "ethereum"

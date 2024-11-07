@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "prom"
   },
+  "changenow": {
+    "ticker": "prom",
+    "network": "bsc"
+  },
   "coingecko": {
     "id": "prometeus"
   },

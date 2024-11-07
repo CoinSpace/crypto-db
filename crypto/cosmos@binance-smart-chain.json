@@ -8,6 +8,10 @@
   "address": "0x0eb3a705fc54725037cc9e008bdede697f62f335",
   "decimals": 18,
   "logo": "cosmos.svg",
+  "changenow": {
+    "ticker": "atom",
+    "network": "bsc"
+  },
   "coingecko": {
     "id": "cosmos",
     "platform": "binance-smart-chain"

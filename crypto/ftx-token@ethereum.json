@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "ftt"
   },
+  "changenow": {
+    "ticker": "ftt",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "ftx-token",
     "platform": "ethereum"

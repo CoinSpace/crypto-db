@@ -14,6 +14,10 @@
   "changelly": {
     "ticker": "usdtsol"
   },
+  "changenow": {
+    "ticker": "usdt",
+    "network": "sol"
+  },
   "coingecko": {
     "id": "tether"
   },

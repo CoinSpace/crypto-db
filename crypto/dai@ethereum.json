@@ -14,6 +14,10 @@
   "changelly": {
     "ticker": "dai"
   },
+  "changenow": {
+    "ticker": "dai",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "dai"
   },

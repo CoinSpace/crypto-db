@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "srmsol"
   },
+  "changenow": {
+    "ticker": "srm",
+    "network": "sol"
+  },
   "coingecko": {
     "id": "serum"
   },

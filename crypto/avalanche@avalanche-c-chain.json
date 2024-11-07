@@ -13,6 +13,10 @@
   "changelly": {
     "ticker": "avaxc"
   },
+  "changenow": {
+    "ticker": "avax",
+    "network": "cchain"
+  },
   "coingecko": {
     "id": "avalanche-2"
   },

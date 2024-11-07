@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "glm"
   },
+  "changenow": {
+    "ticker": "glm",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "golem",
     "platform": "ethereum"

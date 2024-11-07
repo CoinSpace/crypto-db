@@ -8,6 +8,10 @@
   "address": "0x2003f7ba57ea956b05b85c60b4b2ceea9b111256",
   "decimals": 18,
   "logo": "komodo.svg",
+  "changenow": {
+    "ticker": "kmd",
+    "network": "bsc"
+  },
   "coingecko": {
     "id": "komodo"
   },

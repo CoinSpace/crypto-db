@@ -8,6 +8,10 @@
   "address": "0x352cb5e19b12fc216548a2677bd0fce83bae434b",
   "decimals": 18,
   "logo": "bittorrent.svg",
+  "changenow": {
+    "ticker": "bttc",
+    "network": "bsc"
+  },
   "coingecko": {
     "id": "bittorrent"
   },

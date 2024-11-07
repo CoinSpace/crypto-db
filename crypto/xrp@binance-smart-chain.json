@@ -8,6 +8,10 @@
   "address": "0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe",
   "decimals": 18,
   "logo": "xrp.svg",
+  "changenow": {
+    "ticker": "xrp",
+    "network": "bsc"
+  },
   "coingecko": {
     "id": "binance-peg-xrp",
     "platform": "binance-smart-chain"

@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "ray"
   },
+  "changenow": {
+    "ticker": "ray",
+    "network": "sol"
+  },
   "coingecko": {
     "id": "raydium"
   },

@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "agld"
   },
+  "changenow": {
+    "ticker": "agld",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "adventure-gold",
     "platform": "ethereum"

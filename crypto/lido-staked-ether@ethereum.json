@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "steth"
   },
+  "changenow": {
+    "ticker": "steth",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "staked-ether",
     "platform": "ethereum"

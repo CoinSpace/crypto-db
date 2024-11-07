@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "combo"
   },
+  "changenow": {
+    "ticker": "combo",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "cocos-bcx",
     "platform": "ethereum"

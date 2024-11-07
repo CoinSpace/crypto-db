@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "arpa"
   },
+  "changenow": {
+    "ticker": "arpa",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "arpa"
   },

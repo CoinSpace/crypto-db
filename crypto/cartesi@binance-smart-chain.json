@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "ctsi"
   },
+  "changenow": {
+    "ticker": "ctsi",
+    "network": "bsc"
+  },
   "coingecko": {
     "id": "cartesi",
     "platform": "binance-smart-chain"

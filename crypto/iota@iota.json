@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "iota"
   },
+  "changenow": {
+    "ticker": "iota",
+    "network": "iota"
+  },
   "coingecko": {
     "id": "iota"
   },

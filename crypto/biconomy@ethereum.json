@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "bico"
   },
+  "changenow": {
+    "ticker": "bico",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "biconomy",
     "platform": "ethereum"

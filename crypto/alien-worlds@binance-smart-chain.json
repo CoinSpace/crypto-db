@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "tlm"
   },
+  "changenow": {
+    "ticker": "tlm",
+    "network": "bsc"
+  },
   "coingecko": {
     "id": "alien-worlds"
   },

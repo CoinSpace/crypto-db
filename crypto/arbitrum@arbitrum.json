@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "arb"
   },
+  "changenow": {
+    "ticker": "arb",
+    "network": "arbitrum"
+  },
   "coingecko": {
     "id": "arbitrum"
   },

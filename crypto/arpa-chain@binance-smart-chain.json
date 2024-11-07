@@ -8,6 +8,10 @@
   "address": "0x6f769e65c14ebd1f68817f5f1dcdb61cfa2d6f7e",
   "decimals": 18,
   "logo": "arpa-chain.svg",
+  "changenow": {
+    "ticker": "arpa",
+    "network": "bsc"
+  },
   "coingecko": {
     "id": "arpa"
   },

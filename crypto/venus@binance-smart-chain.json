@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "xvs"
   },
+  "changenow": {
+    "ticker": "xvs",
+    "network": "bsc"
+  },
   "coingecko": {
     "id": "venus",
     "platform": "binance-smart-chain"

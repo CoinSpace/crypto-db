@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "xtz"
   },
+  "changenow": {
+    "ticker": "xtz",
+    "network": "xtz"
+  },
   "coingecko": {
     "id": "tezos"
   },

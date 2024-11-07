@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "usdd"
   },
+  "changenow": {
+    "ticker": "usdd",
+    "network": "trx"
+  },
   "coingecko": {
     "id": "usdd"
   },

@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "btt"
   },
+  "changenow": {
+    "ticker": "bttc",
+    "network": "trx"
+  },
   "coingecko": {
     "id": "bittorrent"
   },

@@ -11,6 +11,10 @@
   "bitnovo": {
     "id": "DAI_ARB"
   },
+  "changenow": {
+    "ticker": "dai",
+    "network": "arbitrum"
+  },
   "coingecko": {
     "id": "dai"
   },

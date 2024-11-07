@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "not"
   },
+  "changenow": {
+    "ticker": "not",
+    "network": "ton"
+  },
   "coingecko": {
     "id": "notcoin"
   },

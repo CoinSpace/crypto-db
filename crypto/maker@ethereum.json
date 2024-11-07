@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "mkr"
   },
+  "changenow": {
+    "ticker": "mkr",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "maker",
     "platform": "ethereum"

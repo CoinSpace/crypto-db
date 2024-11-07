@@ -16,6 +16,10 @@
   "changelly": {
     "ticker": "uni"
   },
+  "changenow": {
+    "ticker": "uni",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "uniswap",
     "platform": "ethereum"

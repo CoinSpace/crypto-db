@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "pyusd"
   },
+  "changenow": {
+    "ticker": "pyusd",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "paypal-usd"
   },

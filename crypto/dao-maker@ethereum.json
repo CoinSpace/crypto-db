@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "dao"
   },
+  "changenow": {
+    "ticker": "dao",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "dao-maker"
   },

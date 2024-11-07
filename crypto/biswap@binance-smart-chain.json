@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "bsw"
   },
+  "changenow": {
+    "ticker": "bsw",
+    "network": "bsc"
+  },
   "coingecko": {
     "id": "biswap",
     "platform": "binance-smart-chain"

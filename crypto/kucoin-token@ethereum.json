@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "kcs"
   },
+  "changenow": {
+    "ticker": "kcs",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "kucoin-shares",
     "platform": "ethereum"

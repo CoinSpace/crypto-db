@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "fxs"
   },
+  "changenow": {
+    "ticker": "fxs",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "frax-share",
     "platform": "ethereum"

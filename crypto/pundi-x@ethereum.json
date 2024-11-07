@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "pundix"
   },
+  "changenow": {
+    "ticker": "pundix",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "pundi-x-2",
     "platform": "ethereum"

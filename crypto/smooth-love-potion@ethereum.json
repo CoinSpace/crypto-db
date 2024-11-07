@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "slp"
   },
+  "changenow": {
+    "ticker": "slp",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "smooth-love-potion",
     "platform": "ethereum"

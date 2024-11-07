@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "axs"
   },
+  "changenow": {
+    "ticker": "axs",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "axie-infinity",
     "platform": "ethereum"

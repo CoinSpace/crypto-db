@@ -19,6 +19,10 @@
   "changelly": {
     "ticker": "usdc"
   },
+  "changenow": {
+    "ticker": "usdc",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "usd-coin",
     "platform": "ethereum"

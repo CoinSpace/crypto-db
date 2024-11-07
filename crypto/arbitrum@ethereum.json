@@ -8,6 +8,10 @@
   "address": "0xb50721bcf8d664c30412cfbc6cf7a15145234ad1",
   "decimals": 18,
   "logo": "arbitrum.svg",
+  "changenow": {
+    "ticker": "arb",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "arbitrum"
   },

@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "axl"
   },
+  "changenow": {
+    "ticker": "waxl",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "axelar"
   },

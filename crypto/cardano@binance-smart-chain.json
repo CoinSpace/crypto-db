@@ -8,6 +8,10 @@
   "address": "0x3ee2200efb3400fabb9aacf31297cbdd1d435d47",
   "decimals": 18,
   "logo": "cardano.svg",
+  "changenow": {
+    "ticker": "ada",
+    "network": "bsc"
+  },
   "coingecko": {
     "id": "binance-peg-cardano",
     "platform": "binance-smart-chain"

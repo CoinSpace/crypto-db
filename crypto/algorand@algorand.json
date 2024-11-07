@@ -16,6 +16,10 @@
   "changelly": {
     "ticker": "algo"
   },
+  "changenow": {
+    "ticker": "algo",
+    "network": "algo"
+  },
   "coingecko": {
     "id": "algorand"
   },

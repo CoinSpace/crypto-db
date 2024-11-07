@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "xdc"
   },
+  "changenow": {
+    "ticker": "xdc",
+    "network": "xdc"
+  },
   "coingecko": {
     "id": "xdce-crowd-sale"
   },

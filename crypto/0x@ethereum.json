@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "zrx"
   },
+  "changenow": {
+    "ticker": "zrx",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "0x",
     "platform": "ethereum"

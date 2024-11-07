@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "floki"
   },
+  "changenow": {
+    "ticker": "floki",
+    "network": "bsc"
+  },
   "coingecko": {
     "id": "floki"
   },

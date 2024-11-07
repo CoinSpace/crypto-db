@@ -8,6 +8,10 @@
   "address": "0x76a797a59ba2c17726896976b7b3747bfd1d220f",
   "decimals": 9,
   "logo": "toncoin.svg",
+  "changenow": {
+    "ticker": "ton",
+    "network": "bsc"
+  },
   "coingecko": {
     "id": "the-open-network"
   },

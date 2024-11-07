@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "ldo"
   },
+  "changenow": {
+    "ticker": "ldo",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "lido-dao",
     "platform": "ethereum"

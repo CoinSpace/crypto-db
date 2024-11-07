@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "ogn"
   },
+  "changenow": {
+    "ticker": "ogn",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "origin-protocol",
     "platform": "ethereum"

@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "bel"
   },
+  "changenow": {
+    "ticker": "bel",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "bella-protocol",
     "platform": "ethereum"

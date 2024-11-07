@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "hot"
   },
+  "changenow": {
+    "ticker": "hot",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "holotoken",
     "platform": "ethereum"

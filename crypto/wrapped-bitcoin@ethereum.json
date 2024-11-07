@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "wbtc"
   },
+  "changenow": {
+    "ticker": "wbtc",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "wrapped-bitcoin",
     "platform": "ethereum"

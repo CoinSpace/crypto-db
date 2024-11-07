@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "bonk"
   },
+  "changenow": {
+    "ticker": "bonk",
+    "network": "sol"
+  },
   "coingecko": {
     "id": "bonk"
   },

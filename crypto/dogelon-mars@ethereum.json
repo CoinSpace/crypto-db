@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "elon"
   },
+  "changenow": {
+    "ticker": "elon",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "dogelon-mars",
     "platform": "ethereum"

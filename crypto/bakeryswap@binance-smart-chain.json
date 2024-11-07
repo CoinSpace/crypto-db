@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "bake"
   },
+  "changenow": {
+    "ticker": "bake",
+    "network": "bsc"
+  },
   "coingecko": {
     "id": "bakerytoken",
     "platform": "binance-smart-chain"

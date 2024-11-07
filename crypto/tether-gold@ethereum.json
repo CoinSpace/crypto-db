@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "xaut"
   },
+  "changenow": {
+    "ticker": "xaut",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "tether-gold",
     "platform": "ethereum"

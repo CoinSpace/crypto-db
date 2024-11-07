@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "render"
   },
+  "changenow": {
+    "ticker": "render",
+    "network": "sol"
+  },
   "coingecko": {
     "id": "render-token"
   },

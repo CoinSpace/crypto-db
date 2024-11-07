@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "beta"
   },
+  "changenow": {
+    "ticker": "beta",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "beta-finance",
     "platform": "ethereum"

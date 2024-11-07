@@ -8,6 +8,10 @@
   "address": "0xe28b3b32b6c345a34ff64674606124dd5aceca30",
   "decimals": 18,
   "logo": "injective-protocol.svg",
+  "changenow": {
+    "ticker": "inj",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "injective-protocol",
     "platform": "ethereum"

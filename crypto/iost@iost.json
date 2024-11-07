@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "iost"
   },
+  "changenow": {
+    "ticker": "iost",
+    "network": "iost"
+  },
   "coingecko": {
     "id": "iostoken"
   },

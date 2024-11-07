@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "usdp"
   },
+  "changenow": {
+    "ticker": "usdp",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "paxos-standard",
     "platform": "ethereum"

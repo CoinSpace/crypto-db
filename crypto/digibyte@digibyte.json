@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "dgb"
   },
+  "changenow": {
+    "ticker": "dgb",
+    "network": "dgb"
+  },
   "coingecko": {
     "id": "digibyte"
   },

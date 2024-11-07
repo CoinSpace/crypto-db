@@ -8,6 +8,10 @@
   "address": "0x13ad51ed4f1b7e9dc168d8a00cb3f4ddd85efa60",
   "decimals": 18,
   "logo": "lido-dao.svg",
+  "changenow": {
+    "ticker": "ldo",
+    "network": "arbitrum"
+  },
   "coingecko": {
     "id": "lido-dao"
   },

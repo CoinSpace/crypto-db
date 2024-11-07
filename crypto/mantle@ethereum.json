@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "mnt"
   },
+  "changenow": {
+    "ticker": "mnt",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "mantle"
   },

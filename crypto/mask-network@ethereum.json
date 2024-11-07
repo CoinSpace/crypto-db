@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "mask"
   },
+  "changenow": {
+    "ticker": "mask",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "mask-network",
     "platform": "ethereum"

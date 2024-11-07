@@ -14,6 +14,10 @@
   "changelly": {
     "ticker": "usdcsol"
   },
+  "changenow": {
+    "ticker": "usdc",
+    "network": "sol"
+  },
   "coingecko": {
     "id": "usd-coin"
   },

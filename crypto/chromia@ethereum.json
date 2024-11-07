@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "chr"
   },
+  "changenow": {
+    "ticker": "chr",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "chromaway",
     "platform": "ethereum"

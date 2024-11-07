@@ -8,6 +8,10 @@
   "address": "0xfe56d5892bdffc7bf58f2e84be1b2c32d21c308b",
   "decimals": 18,
   "logo": "kyber-network-crystal.svg",
+  "changenow": {
+    "ticker": "knc",
+    "network": "bsc"
+  },
   "coingecko": {
     "id": "kyber-network-crystal",
     "platform": "binance-smart-chain"

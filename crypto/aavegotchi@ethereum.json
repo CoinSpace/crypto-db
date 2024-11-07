@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "ghst"
   },
+  "changenow": {
+    "ticker": "ghst",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "aavegotchi",
     "platform": "ethereum"

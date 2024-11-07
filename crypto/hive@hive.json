@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "hive"
   },
+  "changenow": {
+    "ticker": "hive",
+    "network": "hive"
+  },
   "coingecko": {
     "id": "hive"
   },

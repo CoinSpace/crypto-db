@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "chz"
   },
+  "changenow": {
+    "ticker": "chz",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "chiliz",
     "platform": "ethereum"

@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "pond"
   },
+  "changenow": {
+    "ticker": "pond",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "marlin",
     "platform": "ethereum"

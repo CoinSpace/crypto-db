@@ -16,6 +16,10 @@
   "changelly": {
     "ticker": "nearmainnet"
   },
+  "changenow": {
+    "ticker": "near",
+    "network": "near"
+  },
   "coingecko": {
     "id": "near"
   },

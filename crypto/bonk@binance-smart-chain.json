@@ -8,6 +8,10 @@
   "address": "0xa697e272a73744b343528c3bc4702f2565b2f422",
   "decimals": 5,
   "logo": "bonk.svg",
+  "changenow": {
+    "ticker": "bonk",
+    "network": "bsc"
+  },
   "coingecko": {
     "id": "bonk"
   },

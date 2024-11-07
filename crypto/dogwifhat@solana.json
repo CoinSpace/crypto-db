@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "wif"
   },
+  "changenow": {
+    "ticker": "wif",
+    "network": "sol"
+  },
   "coingecko": {
     "id": "dogwifcoin"
   },

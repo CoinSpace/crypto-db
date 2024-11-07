@@ -16,6 +16,10 @@
   "changelly": {
     "ticker": "link"
   },
+  "changenow": {
+    "ticker": "link",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "chainlink",
     "platform": "ethereum"

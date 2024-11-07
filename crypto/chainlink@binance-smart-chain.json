@@ -8,6 +8,10 @@
   "address": "0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd",
   "decimals": 18,
   "logo": "chainlink.svg",
+  "changenow": {
+    "ticker": "link",
+    "network": "bsc"
+  },
   "coingecko": {
     "id": "chainlink",
     "platform": "binance-smart-chain"

@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "blur"
   },
+  "changenow": {
+    "ticker": "blur",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "blur"
   },

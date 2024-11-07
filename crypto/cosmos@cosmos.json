@@ -16,6 +16,10 @@
   "changelly": {
     "ticker": "atom"
   },
+  "changenow": {
+    "ticker": "atom",
+    "network": "atom"
+  },
   "coingecko": {
     "id": "cosmos"
   },

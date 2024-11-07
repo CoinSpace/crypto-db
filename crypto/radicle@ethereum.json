@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "rad"
   },
+  "changenow": {
+    "ticker": "rad",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "radicle",
     "platform": "ethereum"

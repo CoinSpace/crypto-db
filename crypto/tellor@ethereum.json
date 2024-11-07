@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "trb"
   },
+  "changenow": {
+    "ticker": "trb",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "tellor"
   },

@@ -8,6 +8,10 @@
   "address": "0xbc7d6b50616989655afd682fb42743507003056d",
   "decimals": 8,
   "logo": "alchemy-pay.svg",
+  "changenow": {
+    "ticker": "ach",
+    "network": "bsc"
+  },
   "coingecko": {
     "id": "alchemy-pay"
   },

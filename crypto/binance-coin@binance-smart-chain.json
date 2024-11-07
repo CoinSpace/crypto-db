@@ -15,6 +15,10 @@
   "changelly": {
     "ticker": "bnbbsc"
   },
+  "changenow": {
+    "ticker": "bnb",
+    "network": "bsc"
+  },
   "coingecko": {
     "id": "binancecoin"
   },

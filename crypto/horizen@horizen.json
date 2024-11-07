@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "zen"
   },
+  "changenow": {
+    "ticker": "zen",
+    "network": "zen"
+  },
   "coingecko": {
     "id": "zencash"
   },

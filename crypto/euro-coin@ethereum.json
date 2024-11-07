@@ -11,6 +11,10 @@
   "bitnovo": {
     "id": "EUROC_ETH"
   },
+  "changenow": {
+    "ticker": "eurc",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "euro-coin"
   },

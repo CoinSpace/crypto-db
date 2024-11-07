@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "tia"
   },
+  "changenow": {
+    "ticker": "tia",
+    "network": "tia"
+  },
   "coingecko": {
     "id": "celestia"
   },

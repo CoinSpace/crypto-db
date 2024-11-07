@@ -18,6 +18,10 @@
   "changelly": {
     "ticker": "trx"
   },
+  "changenow": {
+    "ticker": "trx",
+    "network": "trx"
+  },
   "coingecko": {
     "id": "tron"
   },

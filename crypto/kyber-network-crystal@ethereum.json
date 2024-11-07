@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "knc"
   },
+  "changenow": {
+    "ticker": "knc",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "kyber-network-crystal",
     "platform": "ethereum"

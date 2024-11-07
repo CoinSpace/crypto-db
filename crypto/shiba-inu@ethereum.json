@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "shib"
   },
+  "changenow": {
+    "ticker": "shib",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "shiba-inu",
     "platform": "ethereum"

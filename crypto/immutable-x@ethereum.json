@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "imx"
   },
+  "changenow": {
+    "ticker": "imx",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "immutable-x",
     "platform": "ethereum"

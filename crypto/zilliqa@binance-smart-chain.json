@@ -8,6 +8,10 @@
   "address": "0xb86abcb37c3a4b64f74f59301aff131a1becc787",
   "decimals": 12,
   "logo": "zilliqa.svg",
+  "changenow": {
+    "ticker": "zil",
+    "network": "bsc"
+  },
   "coingecko": {
     "id": "zilliqa",
     "platform": "binance-smart-chain"

@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "forth"
   },
+  "changenow": {
+    "ticker": "forth",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "ampleforth-governance-token",
     "platform": "ethereum"

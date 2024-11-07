@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "rare"
   },
+  "changenow": {
+    "ticker": "rare",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "superrare",
     "platform": "ethereum"

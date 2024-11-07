@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "gmtbsc"
   },
+  "changenow": {
+    "ticker": "gmt",
+    "network": "bsc"
+  },
   "coingecko": {
     "id": "stepn"
   },

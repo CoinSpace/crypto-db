@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "dcr"
   },
+  "changenow": {
+    "ticker": "dcr",
+    "network": "dcr"
+  },
   "coingecko": {
     "id": "decred"
   },

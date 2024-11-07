@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "tusd"
   },
+  "changenow": {
+    "ticker": "tusd",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "true-usd",
     "platform": "ethereum"

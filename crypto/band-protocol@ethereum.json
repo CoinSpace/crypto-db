@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "band"
   },
+  "changenow": {
+    "ticker": "band",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "band-protocol",
     "platform": "ethereum"

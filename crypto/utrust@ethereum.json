@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "utk"
   },
+  "changenow": {
+    "ticker": "utk",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "utrust",
     "platform": "ethereum"
