@@ -7,7 +7,7 @@
   "symbol": "DAO",
   "address": "0x4d2d32d8652058bf98c772953e1df5c5c85d9f45",
   "decimals": 18,
-  "logo": "dao-maker.png",
+  "logo": "dao-maker.svg",
   "coingecko": {
     "id": "dao-maker"
   },

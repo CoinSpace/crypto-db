@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
+  <circle cx="10" cy="10" r="10" fill="url(#rally_svg__a)"/>
+  <path fill="#fff" fill-rule="evenodd" d="m10.108 3.219 5.845 3.312v6.723l-5.845 3.215-5.749-3.215V6.53zM6.308 7.7l3.8-2.24 3.8 2.24-1.755 1.072-2.046-1.266-1.85 1.266v4.482l-1.95-1.17z" clip-rule="evenodd"/>
+  <defs>
+    <linearGradient id="rally_svg__a" x1="10" x2="10" y1="0" y2="20" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF4600"/>
+      <stop offset="1" stop-color="#FFCB04"/>
+    </linearGradient>
+  </defs>
+</svg>

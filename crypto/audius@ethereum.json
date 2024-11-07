@@ -7,7 +7,7 @@
   "symbol": "AUDIO",
   "address": "0x18aaa7115705e8be94bffebde57af9bfc265b998",
   "decimals": 18,
-  "logo": "audius.png",
+  "logo": "audius.svg",
   "changelly": {
     "ticker": "audio"
   },

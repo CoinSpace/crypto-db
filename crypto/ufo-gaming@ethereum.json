@@ -7,7 +7,7 @@
   "symbol": "UFO",
   "address": "0x249e38ea4102d0cf8264d3701f1a0e39c4f2dc3b",
   "decimals": 18,
-  "logo": "ufo-gaming.jpg",
+  "logo": "ufo-gaming.svg",
   "changenow": {
     "ticker": "ufo",
     "network": "eth"

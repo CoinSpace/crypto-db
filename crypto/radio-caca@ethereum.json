@@ -7,7 +7,7 @@
   "symbol": "RACA",
   "address": "0x12bb890508c125661e03b09ec06e404bc9289040",
   "decimals": 18,
-  "logo": "radio-caca.jpg",
+  "logo": "radio-caca.svg",
   "changenow": {
     "ticker": "raca",
     "network": "eth"

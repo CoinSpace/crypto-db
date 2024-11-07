@@ -7,7 +7,7 @@
   "symbol": "CELR",
   "address": "0x1f9f6a696c6fd109cd3956f45dc709d2b3902163",
   "decimals": 18,
-  "logo": "celer-network.png",
+  "logo": "celer-network.svg",
   "changenow": {
     "ticker": "celr",
     "network": "bsc"

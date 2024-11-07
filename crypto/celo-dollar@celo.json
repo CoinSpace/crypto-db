@@ -7,7 +7,7 @@
   "symbol": "CUSD",
   "address": "0x765de816845861e75a25fca122bb6898b8b1282a",
   "decimals": 18,
-  "logo": "celo-dollar.png",
+  "logo": "celo-dollar.svg",
   "supported": false,
   "changenow": {
     "ticker": "cusd",

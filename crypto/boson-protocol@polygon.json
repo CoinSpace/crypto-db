@@ -7,7 +7,7 @@
   "symbol": "BOSON",
   "address": "0x9b3b0703d392321ad24338ff1f846650437a43c9",
   "decimals": 18,
-  "logo": "boson-protocol.png",
+  "logo": "boson-protocol.svg",
   "coingecko": {
     "id": "boson-protocol"
   },

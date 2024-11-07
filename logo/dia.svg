@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 100 100">
+  <g clip-path="url(#dia_svg__a)">
+    <path fill="url(#dia_svg__b)" d="M50 100c27.615 0 50-22.385 50-50S77.615 0 50 0 0 22.386 0 50s22.386 50 50 50"/>
+    <path fill="url(#dia_svg__c)" d="m31.472 24.396 9.451-6.216v49.924c9.264-.563 23.167-3.23 24.583-16.91 0 0 2.167 8.396-2.805 15.118-5.306 7.167-17.646 12.035-31.23 12.035V24.39z"/>
+    <path fill="url(#dia_svg__d)" d="M50.438 29.834v8.313c3.854 1.055 12.708 4.451 15.09 13.118 0 0 .021.132.077.382.013.062.02.132.034.194.382 1.986 1.257 8.736-2.93 14.473-5.16 7.083-17.813 12.034-31.23 12.034l11.667 5.104s24.89-.368 32.466-22.263c.708-2.042 1.09-4.021 1.16-5.945-.688-15.458-13.376-24.02-26.327-25.424z"/>
+    <path fill="url(#dia_svg__e)" d="M71.368 30.584C66.056 23.598 54.23 18.19 40.931 18.19v49.923a56 56 0 0 0 5.493-.583 37 37 0 0 0 2.708-.514 37 37 0 0 0 1.313-.32v-36.86c12.95 1.402 25.729 10.013 26.326 25.534 0 0 3.076-13.646-5.396-24.785z"/>
+  </g>
+  <defs>
+    <linearGradient id="dia_svg__b" x1="50" x2="50" y1="103.514" y2=".007" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#000D30"/>
+      <stop offset=".65" stop-color="#152E84"/>
+      <stop offset="1" stop-color="#1D39BE"/>
+    </linearGradient>
+    <linearGradient id="dia_svg__c" x1="18.159" x2="71.368" y1="40.444" y2="63.528" gradientUnits="userSpaceOnUse">
+      <stop offset=".02" stop-color="#BBF0C6" stop-opacity=".9"/>
+      <stop offset=".11" stop-color="#BBF0C6" stop-opacity=".87"/>
+      <stop offset=".24" stop-color="#BBF0C6" stop-opacity=".78"/>
+      <stop offset=".4" stop-color="#BBF0C6" stop-opacity=".63"/>
+      <stop offset=".59" stop-color="#BBF0C6" stop-opacity=".43"/>
+      <stop offset=".61" stop-color="#BBF0C6" stop-opacity=".4"/>
+      <stop offset=".82" stop-color="#BBF0C6" stop-opacity=".27"/>
+      <stop offset=".96" stop-color="#BBF0C6" stop-opacity=".2"/>
+    </linearGradient>
+    <linearGradient id="dia_svg__d" x1="67.778" x2="41.924" y1="39.438" y2="77.772" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#BBF0C6" stop-opacity=".2"/>
+      <stop offset=".05" stop-color="#BBF0C6" stop-opacity=".29"/>
+      <stop offset=".14" stop-color="#BBF0C6" stop-opacity=".47"/>
+      <stop offset=".24" stop-color="#BBF0C6" stop-opacity=".62"/>
+      <stop offset=".34" stop-color="#BBF0C6" stop-opacity=".74"/>
+      <stop offset=".46" stop-color="#BBF0C6" stop-opacity=".83"/>
+      <stop offset=".57" stop-color="#BBF0C6" stop-opacity=".9"/>
+      <stop offset=".71" stop-color="#BBF0C6" stop-opacity=".94"/>
+      <stop offset=".89" stop-color="#BBF0C6" stop-opacity=".95"/>
+    </linearGradient>
+    <linearGradient id="dia_svg__e" x1="27.32" x2="74.438" y1="49.126" y2="31.973" gradientUnits="userSpaceOnUse">
+      <stop offset=".3" stop-color="#BBF0C6"/>
+      <stop offset=".41" stop-color="#BBF0C6" stop-opacity=".98"/>
+      <stop offset=".51" stop-color="#BBF0C6" stop-opacity=".94"/>
+      <stop offset=".6" stop-color="#BBF0C6" stop-opacity=".86"/>
+      <stop offset=".7" stop-color="#BBF0C6" stop-opacity=".75"/>
+      <stop offset=".79" stop-color="#BBF0C6" stop-opacity=".61"/>
+      <stop offset=".89" stop-color="#BBF0C6" stop-opacity=".43"/>
+      <stop offset=".95" stop-color="#BBF0C6" stop-opacity=".3"/>
+    </linearGradient>
+    <clipPath id="dia_svg__a">
+      <path fill="#fff" d="M0 0h100v100H0z"/>
+    </clipPath>
+  </defs>
+</svg>

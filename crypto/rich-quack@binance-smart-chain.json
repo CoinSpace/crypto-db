@@ -7,7 +7,7 @@
   "symbol": "QUACK",
   "address": "0xd74b782e05aa25c50e7330af541d46e18f36661c",
   "decimals": 9,
-  "logo": "rich-quack.png",
+  "logo": "rich-quack.svg",
   "changenow": {
     "ticker": "quack",
     "network": "bsc"

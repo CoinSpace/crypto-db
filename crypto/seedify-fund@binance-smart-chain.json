@@ -7,7 +7,7 @@
   "symbol": "SFUND",
   "address": "0x477bc8d23c634c154061869478bce96be6045d12",
   "decimals": 18,
-  "logo": "seedify-fund.png",
+  "logo": "seedify-fund.svg",
   "changelly": {
     "ticker": "sfund"
   },

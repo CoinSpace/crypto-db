@@ -7,7 +7,7 @@
   "symbol": "ONG",
   "address": "0200000000000000000000000000000000000000",
   "decimals": 9,
-  "logo": "ong.png",
+  "logo": "ong.svg",
   "supported": false,
   "changenow": {
     "ticker": "ong",

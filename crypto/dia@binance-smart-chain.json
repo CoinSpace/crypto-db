@@ -7,7 +7,7 @@
   "symbol": "DIA",
   "address": "0x99956d38059cf7beda96ec91aa7bb2477e0901dd",
   "decimals": 18,
-  "logo": "dia.png",
+  "logo": "dia.svg",
   "changenow": {
     "ticker": "dia",
     "network": "bsc"

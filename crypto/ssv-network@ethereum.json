@@ -7,7 +7,7 @@
   "symbol": "SSV",
   "address": "0x9d65ff81a3c488d585bbfb0bfe3c7707c7917f54",
   "decimals": 18,
-  "logo": "ssv-network.png",
+  "logo": "ssv-network.svg",
   "changelly": {
     "ticker": "ssv"
   },

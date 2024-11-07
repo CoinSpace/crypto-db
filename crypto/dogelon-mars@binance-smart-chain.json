@@ -7,7 +7,7 @@
   "symbol": "ELON",
   "address": "0x7bd6fabd64813c48545c9c0e312a0099d9be2540",
   "decimals": 18,
-  "logo": "dogelon-mars.jpg",
+  "logo": "dogelon-mars.svg",
   "coingecko": {
     "id": "dogelon-mars"
   },

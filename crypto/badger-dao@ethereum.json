@@ -7,7 +7,7 @@
   "symbol": "BADGER",
   "address": "0x3472a5a71965499acd81997a54bba8d852c6e53d",
   "decimals": 18,
-  "logo": "badger-dao.jpg",
+  "logo": "badger-dao.svg",
   "changelly": {
     "ticker": "badger"
   },

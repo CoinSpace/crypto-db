@@ -7,7 +7,7 @@
   "symbol": "XVS",
   "address": "0x4a971e87ad1f61f7f3081645f52a99277ae917cf",
   "decimals": 18,
-  "logo": "venus.png",
+  "logo": "venus.svg",
   "coingecko": {
     "id": "venus"
   },

@@ -7,7 +7,7 @@
   "symbol": "MBOX",
   "address": "0xda661fa59320b808c5a6d23579fcfedf1fd3cf36",
   "decimals": 18,
-  "logo": "mobox.png",
+  "logo": "mobox.svg",
   "coingecko": {
     "id": "mobox"
   },

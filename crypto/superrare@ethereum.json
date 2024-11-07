@@ -7,7 +7,7 @@
   "symbol": "RARE",
   "address": "0xba5bde662c17e2adff1075610382b9b691296350",
   "decimals": 18,
-  "logo": "superrare.jpg",
+  "logo": "superrare.svg",
   "changelly": {
     "ticker": "rare"
   },

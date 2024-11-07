@@ -7,7 +7,7 @@
   "symbol": "TWT",
   "address": "HZNpqL7RT9gxf9eWoWsWzC5DfjzQ41XTQgEA7p3VzaaD",
   "decimals": 8,
-  "logo": "trust-wallet-token.png",
+  "logo": "trust-wallet-token.svg",
   "coingecko": {
     "id": "trust-wallet-token"
   },

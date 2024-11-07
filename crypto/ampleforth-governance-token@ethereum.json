@@ -7,7 +7,7 @@
   "symbol": "FORTH",
   "address": "0x77fba179c79de5b7653f68b5039af940ada60ce0",
   "decimals": 18,
-  "logo": "ampleforth-governance-token.jpg",
+  "logo": "ampleforth-governance-token.svg",
   "changelly": {
     "ticker": "forth"
   },

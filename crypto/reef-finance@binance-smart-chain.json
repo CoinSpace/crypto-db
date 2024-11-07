@@ -7,7 +7,7 @@
   "symbol": "REEF",
   "address": "0xf21768ccbc73ea5b6fd3c687208a7c2def2d966e",
   "decimals": 18,
-  "logo": "reef-finance.png",
+  "logo": "reef-finance.svg",
   "changenow": {
     "ticker": "reef",
     "network": "bsc"

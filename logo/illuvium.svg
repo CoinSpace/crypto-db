@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 2000 2001">
+  <g filter="url(#illuvium_svg__a)">
+    <rect width="2000" height="2000" y=".021" fill="url(#illuvium_svg__b)" rx="999.999"/>
+  </g>
+  <path fill="url(#illuvium_svg__c)" fill-rule="evenodd" d="M1000 1995c-549.523 0-995-445.47-995-995C5 450.48 450.477 5.004 1000 5.004c549.52 0 995 445.476 995 994.996 0 549.53-445.48 995-995 995m0-1969.996C461.522 25.004 25 461.526 25 1000c0 538.48 436.522 975 975 975 538.48 0 975-436.52 975-975 0-538.474-436.52-974.996-975-974.996" clip-rule="evenodd"/>
+  <path fill="url(#illuvium_svg__d)" d="M25 1000c0-538.474 436.522-974.996 975-974.996 538.48 0 975 436.522 975 974.996 0 538.48-436.52 975-975 975-538.478 0-975-436.52-975-975"/>
+  <path fill="url(#illuvium_svg__e)" fill-rule="evenodd" d="M30 1000c0 535.72 434.284 970 970 970 535.72 0 970-434.28 970-970 0-535.712-434.28-969.996-970-969.996-535.716 0-970 434.284-970 969.996m970-974.996C461.522 25.004 25 461.526 25 1000c0 538.48 436.522 975 975 975 538.48 0 975-436.52 975-975 0-538.474-436.52-974.996-975-974.996" clip-rule="evenodd"/>
+  <path fill="url(#illuvium_svg__f)" d="M132.776 720.459C289.298 241.424 804.52-20.024 1283.55 136.498c479.04 156.522 740.49 671.744 583.97 1150.782-156.53 479.03-671.75 740.48-1150.784 583.96-479.035-156.53-740.483-671.75-583.96-1150.781" opacity=".8" style="mix-blend-mode:screen"/>
+  <g filter="url(#illuvium_svg__g)">
+    <rect width="1800" height="1800" x="99.999" y="100.004" fill="url(#illuvium_svg__h)" rx="900"/>
+    <g filter="url(#illuvium_svg__i)">
+      <path fill="#fff" d="M1000.68 533.223c-6.661 206.95-6.458 429.712 0 637.937 5.73-208.156 5.92-430.98 0-637.937M776.064 1628.4l.452 1.6c1.959-.97 3.992-1.84 5.913-2.92 40.084-22.58 82.684-39.19 126.082-53.62 55.283-18.36 111.399-20.39 167.449-4.64 48.42 13.58 95.24 32.55 139.61 56.56 2.77 1.49 5.09 4.46 9.13 3.6-.39-.76-.88-1.46-1.46-2.09q-104.73-82.23-209.46-164.49c-9.83-7.77-17.78-6.98-27.391.67a66676 66676 0 0 1-210.325 165.33m-41.477-784.906c-4.564 5.992-2.425 10.474 2.011 15.242 16.796 18.207 26.911 40.157 33.87 63.779 8.587 29.105 11.87 59.043 13.219 89.285 2.078 46.45 1.431 92.91.595 139.37a7040 7040 0 0 0-.934 185.81c.565 68.34-8.677 134.89-30.022 199.76-8.33 25.29-16.645 50.6-28.327 77.4 1.883-.63 3.713-1.4 5.476-2.33 60.932-50.12 121.6-100.62 185.085-147.4 8.172-6.01 8.24-13.58 3.262-21.35a240 240 0 0 0-16.299-22.36c-16.916-20.61-23.605-44.67-24.011-70.98-.528-34.45-1.19-68.9-1.597-103.32-1.461-126.96-.527-253.898-2.034-380.933-1.92-162.941-1.943-325.906-2.786-488.839v-6.539h-2.283c-7.004 64.688-14.159 129.214-26.27 193.086-18.973 100.348-47.375 197.053-108.955 280.319M1126.8 665.449c-1.94 145.874-.22 291.786-2.5 437.661-1.19 75.83-.96 151.72-.73 227.63.11 38.49-7.65 73.7-34.5 102.6-2.49 2.89-4.75 6-6.73 9.28-5.95 9.02-4.57 16.12 4.36 22.69 60.99 45 119.45 93.31 177.94 141.56 2.69 2.32 5.04 5.69 10.36 5.01-19.49-44.69-32.73-90.59-43.92-137.27-4.34-18.03-8.63-36.12-10.16-54.68-3.79-45.55-2.7-91.26-3.56-136.9-1.46-78.14-.73-156.32-1.07-234.6-.28-26.7 1.32-53.39 4.77-79.858 4.84-35.559 13.12-70.033 34.85-99.462 14.2-19.255 14.41-19.178.53-39.48-48.19-70.596-74.39-150.218-92.38-233.183-16.18-74.708-24.99-150.472-32.47-226.443h-2.91c-.96 98.553-.57 196.991-1.88 295.445"/>
+    </g>
+  </g>
+  <path fill="url(#illuvium_svg__j)" fill-rule="evenodd" d="M999.999 1905c-499.818 0-905-405.18-905-905 0-499.814 405.182-904.996 905-904.996C1499.82 95.004 1905 500.186 1905 1000c0 499.82-405.18 905-905.001 905m0-1804.996c-497.056 0-900 402.943-900 899.996 0 497.06 402.944 900 900 900C1497.06 1900 1900 1497.06 1900 1000c0-497.053-402.94-899.996-900.001-899.996" clip-rule="evenodd"/>
+  <defs>
+    <linearGradient id="illuvium_svg__b" x1="1516.25" x2="-324.797" y1="-413.728" y2="572.887" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A6FAFF"/>
+      <stop offset=".123" stop-color="#08CE01"/>
+      <stop offset=".307" stop-color="#CEEF00"/>
+      <stop offset=".417" stop-color="#51F980"/>
+      <stop offset=".604" stop-color="#2D51ED"/>
+      <stop offset=".724" stop-color="#0060F1"/>
+      <stop offset=".875" stop-color="#F100D9"/>
+      <stop offset="1" stop-color="#9A24EC"/>
+    </linearGradient>
+    <linearGradient id="illuvium_svg__c" x1="25" x2="1548.75" y1="25.004" y2="1975" gradientUnits="userSpaceOnUse">
+      <stop stop-opacity=".48"/>
+      <stop offset=".419" stop-opacity=".4"/>
+      <stop offset="1" stop-opacity=".24"/>
+    </linearGradient>
+    <linearGradient id="illuvium_svg__d" x1="1841.25" x2="-347.901" y1="-283.747" y2="39.279" gradientUnits="userSpaceOnUse">
+      <stop offset=".023" stop-color="#A6FAFF"/>
+      <stop offset=".117" stop-color="#08CE01"/>
+      <stop offset=".287" stop-color="#CEEF00"/>
+      <stop offset=".42" stop-color="#51F980"/>
+      <stop offset=".565" stop-color="#2D51ED"/>
+      <stop offset=".737" stop-color="#560E8B"/>
+      <stop offset=".83" stop-color="#CF00F1"/>
+      <stop offset=".917" stop-color="#EB1079"/>
+      <stop offset="1" stop-color="#8824EC"/>
+    </linearGradient>
+    <linearGradient id="illuvium_svg__e" x1="25" x2="1975" y1="25.004" y2="1975" gradientUnits="userSpaceOnUse">
+      <stop offset=".073" stop-color="#fff" stop-opacity=".08"/>
+      <stop offset=".372" stop-color="#fff" stop-opacity=".6"/>
+      <stop offset="1" stop-color="#fff" stop-opacity=".16"/>
+    </linearGradient>
+    <linearGradient id="illuvium_svg__f" x1="2121.69" x2="110.55" y1="106.362" y2="-379.262" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A6FAFF"/>
+      <stop offset=".09" stop-color="#08CE01"/>
+      <stop offset=".25" stop-color="#CEEF00"/>
+      <stop offset=".372" stop-color="#51F980"/>
+      <stop offset=".49" stop-color="#2D51ED"/>
+      <stop offset=".669" stop-color="#411171"/>
+      <stop offset=".751" stop-color="#F10082"/>
+      <stop offset=".817" stop-color="#EB105F"/>
+      <stop offset=".966" stop-color="#8824EC"/>
+    </linearGradient>
+    <linearGradient id="illuvium_svg__h" x1="999.999" x2="999.999" y1="100.004" y2="1900" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2B0099" stop-opacity=".64"/>
+      <stop offset=".38" stop-color="#22007A" stop-opacity=".72"/>
+      <stop offset="1" stop-color="#0E0033"/>
+    </linearGradient>
+    <linearGradient id="illuvium_svg__j" x1="99.999" x2="1900" y1="100.004" y2="1900" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" stop-opacity=".24"/>
+      <stop offset="1" stop-color="#fff" stop-opacity=".4"/>
+    </linearGradient>
+    <filter id="illuvium_svg__a" width="2000" height="2000" x="0" y=".021" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+      <feOffset dy="1"/>
+      <feComposite in2="hardAlpha" k2="-1" k3="1" operator="arithmetic"/>
+      <feColorMatrix values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.1 0"/>
+      <feBlend in2="shape" result="effect1_innerShadow_389_6075"/>
+      <feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+      <feOffset dy="-1"/>
+      <feComposite in2="hardAlpha" k2="-1" k3="1" operator="arithmetic"/>
+      <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
+      <feBlend in2="effect1_innerShadow_389_6075" result="effect2_innerShadow_389_6075"/>
+    </filter>
+    <filter id="illuvium_svg__g" width="1832" height="1832" x="83.999" y="84.004" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feGaussianBlur in="BackgroundImageFix" stdDeviation="8"/>
+      <feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_389_6075"/>
+      <feBlend in="SourceGraphic" in2="effect1_backgroundBlur_389_6075" result="shape"/>
+      <feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+      <feOffset dx="2" dy="2"/>
+      <feGaussianBlur stdDeviation="2"/>
+      <feComposite in2="hardAlpha" k2="-1" k3="1" operator="arithmetic"/>
+      <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.16 0"/>
+      <feBlend in2="shape" result="effect2_innerShadow_389_6075"/>
+    </filter>
+    <filter id="illuvium_svg__i" width="554" height="1274" x="722.999" y="370.004" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+      <feOffset dy="12"/>
+      <feGaussianBlur stdDeviation="1"/>
+      <feComposite in2="hardAlpha" operator="out"/>
+      <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.16 0"/>
+      <feBlend in2="BackgroundImageFix" result="effect1_dropShadow_389_6075"/>
+      <feBlend in="SourceGraphic" in2="effect1_dropShadow_389_6075" result="shape"/>
+    </filter>
+  </defs>
+</svg>

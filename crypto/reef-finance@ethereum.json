@@ -7,7 +7,7 @@
   "symbol": "REEF",
   "address": "0xfe3e6a25e6b192a42a44ecddcd13796471735acf",
   "decimals": 18,
-  "logo": "reef-finance.png",
+  "logo": "reef-finance.svg",
   "changelly": {
     "ticker": "reef"
   },

@@ -7,7 +7,7 @@
   "symbol": "ZRO",
   "address": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
   "decimals": 18,
-  "logo": "layerzero.png",
+  "logo": "layerzero.svg",
   "changelly": {
     "ticker": "zro"
   },

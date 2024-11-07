@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
+  <circle cx="10" cy="10" r="10" fill="#fff"/>
+  <path fill="url(#dao-maker_svg__a)" d="m2.576 15.162 5.55-10.353 4.893-2.172L7.47 12.99z"/>
+  <path fill="url(#dao-maker_svg__b)" d="m8.11 12.796 4.217-7.865 2.393 2.367-4.159 7.886z"/>
+  <path fill="url(#dao-maker_svg__c)" d="m15.188 7.536 3.121 1.14-1.557 2.871-3.783.13z"/>
+  <defs>
+    <linearGradient id="dao-maker_svg__a" x1="2.657" x2="18.917" y1="15.137" y2="2.88" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#48D5FF"/>
+      <stop offset="1" stop-color="#4086FF"/>
+    </linearGradient>
+    <linearGradient id="dao-maker_svg__b" x1="2.657" x2="18.917" y1="15.137" y2="2.88" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#48D5FF"/>
+      <stop offset="1" stop-color="#4086FF"/>
+    </linearGradient>
+    <linearGradient id="dao-maker_svg__c" x1="2.657" x2="18.917" y1="15.137" y2="2.88" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#48D5FF"/>
+      <stop offset="1" stop-color="#4086FF"/>
+    </linearGradient>
+  </defs>
+</svg>

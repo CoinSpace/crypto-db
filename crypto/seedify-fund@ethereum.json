@@ -7,7 +7,7 @@
   "symbol": "SFUND",
   "address": "0x560363bda52bc6a44ca6c8c9b4a5fadbda32fa60",
   "decimals": 18,
-  "logo": "seedify-fund.png",
+  "logo": "seedify-fund.svg",
   "coingecko": {
     "id": "seedify-fund"
   },

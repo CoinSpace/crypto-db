@@ -7,7 +7,7 @@
   "symbol": "GMT",
   "address": "0x714db550b574b3e927af3d93e26127d15721d4c2",
   "decimals": 8,
-  "logo": "stepn.png",
+  "logo": "stepn.svg",
   "coingecko": {
     "id": "stepn"
   },

@@ -7,7 +7,7 @@
   "symbol": "AUCTION",
   "address": "0xa9b1eb5908cfc3cdf91f9b8b3a74108598009096",
   "decimals": 18,
-  "logo": "auction.jpg",
+  "logo": "auction.svg",
   "changelly": {
     "ticker": "auction"
   },

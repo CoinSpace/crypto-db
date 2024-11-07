@@ -7,7 +7,7 @@
   "symbol": "YFII",
   "address": "0x7f70642d88cf1c4a3a7abb072b53b929b653eda5",
   "decimals": 18,
-  "logo": "dfi-money.png",
+  "logo": "dfi-money.svg",
   "coingecko": {
     "id": "yfii-finance"
   },
