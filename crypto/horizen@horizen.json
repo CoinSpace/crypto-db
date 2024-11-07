@@ -6,7 +6,7 @@
   "name": "Horizen",
   "symbol": "ZEN",
   "decimals": 8,
-  "logo": "horizen.png",
+  "logo": "horizen.svg",
   "supported": false,
   "changelly": {
     "ticker": "zen"

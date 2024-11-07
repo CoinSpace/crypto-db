@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
+  <circle cx="10" cy="10" r="10" fill="#041742"/>
+  <path fill="url(#horizen_svg__a)" d="M15.69 5.926 14.545 7.7a5.094 5.094 0 0 1-6.842 6.846L5.93 15.694A7 7 0 0 0 17.001 10a6.98 6.98 0 0 0-1.31-4.074"/>
+  <path fill="url(#horizen_svg__b)" d="M10 13.506a3.52 3.52 0 0 0 3.457-2.877 8 8 0 0 0-1.691-.18 8 8 0 0 0-4.683 1.505A3.51 3.51 0 0 0 10 13.506"/>
+  <path fill="#fff" d="M11.733 9.81c.612 0 1.208.067 1.783.192a3.515 3.515 0 1 0-7 .47c-.886.673-1.306 1.206-1.319 1.223a5.094 5.094 0 0 1 7.093-6.243l1.775-1.147A6.95 6.95 0 0 0 10 3a7 7 0 0 0-5.632 11.155c.331-.6.735-1.154 1.196-1.652 0 0 .691-.72 1.22-1.082a8.38 8.38 0 0 1 4.949-1.61"/>
+  <defs>
+    <radialGradient id="horizen_svg__a" cx="0" cy="0" r="1" gradientTransform="translate(15.692 5.918)scale(11.7779)" gradientUnits="userSpaceOnUse">
+      <stop offset=".099" stop-color="#26DB8D"/>
+      <stop offset=".263" stop-color="#23D29A"/>
+      <stop offset=".564" stop-color="#1ABBBB"/>
+      <stop offset=".886" stop-color="#0E9DE5"/>
+    </radialGradient>
+    <radialGradient id="horizen_svg__b" cx="0" cy="0" r="1" gradientTransform="translate(15.692 5.918)scale(11.7779)" gradientUnits="userSpaceOnUse">
+      <stop offset=".099" stop-color="#26DB8D"/>
+      <stop offset=".263" stop-color="#23D29A"/>
+      <stop offset=".564" stop-color="#1ABBBB"/>
+      <stop offset=".886" stop-color="#0E9DE5"/>
+    </radialGradient>
+  </defs>
+</svg>

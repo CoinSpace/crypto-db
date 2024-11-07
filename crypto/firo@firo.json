@@ -6,7 +6,7 @@
   "name": "Firo",
   "symbol": "FIRO",
   "decimals": 8,
-  "logo": "firo.png",
+  "logo": "firo.svg",
   "supported": false,
   "changelly": {
     "ticker": "firo"
