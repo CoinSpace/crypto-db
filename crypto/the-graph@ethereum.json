@@ -27,6 +27,10 @@
     "ticker": "GRT",
     "network": "ETH"
   },
+  "moonpay": {
+    "id": "bf5bc858-5ddf-4de6-b4c1-176ee12516e3",
+    "code": "grt"
+  },
   "paybis": {
     "id": "GRT"
   }
