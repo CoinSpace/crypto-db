@@ -21,5 +21,9 @@
   "coinmarketcap": {
     "id": 28782,
     "slug": "popcat-sol"
+  },
+  "guardarian": {
+    "ticker": "POPCAT",
+    "network": "SOL"
   }
 }
