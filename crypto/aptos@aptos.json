@@ -12,6 +12,10 @@
   "changelly": {
     "ticker": "apt"
   },
+  "changenow": {
+    "ticker": "apt",
+    "network": "apt"
+  },
   "coingecko": {
     "id": "aptos"
   },

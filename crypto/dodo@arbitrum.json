@@ -1,0 +1,18 @@
+{
+  "_id": "dodo@arbitrum",
+  "asset": "dodo",
+  "platform": "arbitrum",
+  "type": "token",
+  "name": "DODO",
+  "symbol": "DODO",
+  "address": "0x69eb4fa4a2fbd498c257c57ea8b7655a2559a581",
+  "decimals": 18,
+  "logo": "dodo.svg",
+  "coingecko": {
+    "id": "dodo"
+  },
+  "coinmarketcap": {
+    "id": 7224,
+    "slug": "dodo"
+  }
+}
