@@ -22,5 +22,9 @@
   "guardarian": {
     "ticker": "GRT",
     "network": "MATIC"
+  },
+  "moonpay": {
+    "id": "18f9d598-8a46-4406-995e-e71cb8022d52",
+    "code": "grt_polygon"
   }
 }
