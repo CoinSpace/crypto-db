@@ -9,10 +9,6 @@
   "decimals": 9,
   "logo": "ong.svg",
   "supported": false,
-  "changenow": {
-    "ticker": "ong",
-    "network": "ont"
-  },
   "coingecko": {
     "id": "ong",
     "platform": "ontology"
