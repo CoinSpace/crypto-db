@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
+  <mask id="superfarm_svg__a" width="20" height="20" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:luminance">
+    <path fill="#fff" d="M0 0h20v20H0z"/>
+  </mask>
+  <g mask="url(#superfarm_svg__a)">
+    <path fill="#72F395" d="M10 20c5.523 0 10-4.477 10-10S15.523 0 10 0 0 4.477 0 10s4.477 10 10 10"/>
+    <path fill="#000" d="M10 0C4.479 0 0 4.476 0 10c0 5.521 4.476 10 10 10 5.521 0 10-4.476 10-10 0-5.521-4.476-10-10-10M5.454 13.219H2.678v-2.777l1.017-1.016V5.348L5.92 3.123h2.776v2.776L7.622 6.973v4.077l-2.165 2.166zm2.779 3.363H5.457v-2.776l2.58-2.58V7.15l3.727-3.729h2.777v2.777l-2.58 2.58v4.077zM17.32 9.56l-1.015 1.014v4.078l-2.227 2.228H11.3v-2.776l1.077-1.077V8.95l2.165-2.166h2.777z"/>
+  </g>
+</svg>

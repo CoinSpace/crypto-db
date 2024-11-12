@@ -18,6 +18,10 @@
   "changelly": {
     "ticker": "pol"
   },
+  "changenow": {
+    "ticker": "matic",
+    "network": "matic"
+  },
   "coingecko": {
     "id": "polygon-ecosystem-token"
   },

@@ -7,7 +7,7 @@
   "symbol": "SUPER",
   "address": "0xa1428174f516f527fafdd146b883bb4428682737",
   "decimals": 18,
-  "logo": "superfarm.png",
+  "logo": "superfarm.svg",
   "coingecko": {
     "id": "superfarm"
   },
