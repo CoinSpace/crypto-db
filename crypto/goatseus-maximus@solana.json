@@ -1,0 +1,22 @@
+{
+  "_id": "goatseus-maximus@solana",
+  "asset": "goatseus-maximus",
+  "platform": "solana",
+  "type": "token",
+  "name": "Goatseus Maximus",
+  "symbol": "GOAT",
+  "address": "CzLSujWBLFsSjncfkh59rUFqvafWcY5tzedWJSuypump",
+  "decimals": 6,
+  "logo": "goatseus-maximus.svg",
+  "changenow": {
+    "ticker": "goat",
+    "network": "sol"
+  },
+  "coingecko": {
+    "id": "goatseus-maximus"
+  },
+  "coinmarketcap": {
+    "id": 33440,
+    "slug": "goatseus-maximus"
+  }
+}
