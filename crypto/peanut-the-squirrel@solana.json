@@ -1,0 +1,22 @@
+{
+  "_id": "peanut-the-squirrel@solana",
+  "asset": "peanut-the-squirrel",
+  "platform": "solana",
+  "type": "token",
+  "name": "Peanut the Squirrel",
+  "symbol": "PNUT",
+  "address": "2qEHjDLDLbuBgRYvsxhc5D6uDWAivNFZGan56P1tpump",
+  "decimals": 6,
+  "logo": "peanut-the-squirrel.svg",
+  "changenow": {
+    "ticker": "pnut",
+    "network": "sol"
+  },
+  "coingecko": {
+    "id": "peanut-the-squirrel"
+  },
+  "coinmarketcap": {
+    "id": 33788,
+    "slug": "peanut-the-squirrel"
+  }
+}
