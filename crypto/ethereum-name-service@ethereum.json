@@ -26,5 +26,9 @@
   "guardarian": {
     "ticker": "ENS",
     "network": "ETH"
+  },
+  "moonpay": {
+    "id": "3f7c5cc7-52a9-482e-aa26-f46162d6775c",
+    "code": "ens"
   }
 }
