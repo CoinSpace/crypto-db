@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "klaytn@klaytn",
   "asset": "klaytn",
   "platform": "klaytn",

@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "fei-protocol@ethereum",
   "asset": "fei-protocol",
   "platform": "ethereum",
