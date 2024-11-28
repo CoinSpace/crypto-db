@@ -22,5 +22,9 @@
   "guardarian": {
     "ticker": "GMT",
     "network": "ETH"
+  },
+  "moonpay": {
+    "id": "1f733dff-1934-42f0-bdc9-78668f380f13",
+    "code": "gmt_eth"
   }
 }
