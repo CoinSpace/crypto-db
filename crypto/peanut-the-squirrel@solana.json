@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 33788,
     "slug": "peanut-the-squirrel"
+  },
+  "moonpay": {
+    "id": "3f5a1c56-a95b-4fda-89c9-81b19f92d108",
+    "code": "pnut_sol"
   }
 }
