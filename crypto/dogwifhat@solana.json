@@ -25,5 +25,9 @@
   "guardarian": {
     "ticker": "WIF",
     "network": "SOL"
+  },
+  "moonpay": {
+    "id": "5a066ef8-c321-4c16-b47e-83a77aa26565",
+    "code": "wif_sol"
   }
 }
