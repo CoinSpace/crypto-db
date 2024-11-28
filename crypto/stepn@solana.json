@@ -25,5 +25,9 @@
   "guardarian": {
     "ticker": "GMT",
     "network": "SOL"
+  },
+  "moonpay": {
+    "id": "994488bc-f7f2-44da-afe9-b6074e44ad35",
+    "code": "gmt_sol"
   }
 }
