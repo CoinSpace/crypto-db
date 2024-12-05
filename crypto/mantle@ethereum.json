@@ -21,5 +21,9 @@
   "coinmarketcap": {
     "id": 27075,
     "slug": "mantle"
+  },
+  "moonpay": {
+    "id": "8ca9cdf0-7b2a-4b70-99b0-3b2eca0dc2b4",
+    "code": "mnt_eth"
   }
 }
