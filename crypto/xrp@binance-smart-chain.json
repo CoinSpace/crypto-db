@@ -19,5 +19,9 @@
   "coinmarketcap": {
     "id": 52,
     "slug": "xrp"
+  },
+  "guardarian": {
+    "ticker": "XRP",
+    "network": "BSC"
   }
 }
