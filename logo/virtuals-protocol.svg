@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
+  <g clip-path="url(#virtuals-protocol_svg__a)">
+    <circle cx="10" cy="10" r="10" fill="url(#virtuals-protocol_svg__b)"/>
+    <path fill="url(#virtuals-protocol_svg__c)" fill-rule="evenodd" d="M13.514 10.832c1.105-.386 2.146-1.044 2.942-1.759l.001.001a.172.172 0 0 0-.207-.272 9.8 9.8 0 0 1-2.582 1.087 5 5 0 0 0-.024-1.034c-.102-.763-.361-1.526-.9-2.108-.597-.66-1.577-.907-2.423-.643-1.016.303-1.863 1.219-1.896 2.312-.041 1.439 1.299 2.612 2.663 2.744q.24.026.48.026a9.5 9.5 0 0 1-.926 1.561c-1.072-1.769-2.68-3.218-4.59-4.011a8 8 0 0 0-1.379-.44 5 5 0 0 0-.483-.082.174.174 0 0 0-.172.25.18.18 0 0 0 .088.082 11.5 11.5 0 0 1 2.9 2.043 11.05 11.05 0 0 1 2.564 3.773c.257.613 1.062.837 1.601.443q.125-.091.226-.21a10 10 0 0 0 1.268-1.712 7.7 7.7 0 0 0 .849-2.051m-2.391 2.805.014.029zm.822-3.53c.085-.361.127-.728.113-1.097-.035-.662-.29-1.598-1.078-1.613-.678-.008-1.301.633-1.107 1.314.287.993 1.144 1.355 2.072 1.395" clip-rule="evenodd"/>
+  </g>
+  <defs>
+    <linearGradient id="virtuals-protocol_svg__b" x1="3" x2="24" y1="2" y2="21.5" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E2FCFD"/>
+      <stop offset="1" stop-color="#FEF8D9"/>
+    </linearGradient>
+    <linearGradient id="virtuals-protocol_svg__c" x1="4" x2="7.354" y1="4.734" y2="24.705" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#44BCC3"/>
+      <stop offset="1" stop-color="#236D66"/>
+    </linearGradient>
+    <clipPath id="virtuals-protocol_svg__a">
+      <path fill="#fff" d="M0 0h20v20H0z"/>
+    </clipPath>
+  </defs>
+</svg>

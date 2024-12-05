@@ -1,0 +1,22 @@
+{
+  "_id": "virtuals-protocol@ethereum",
+  "asset": "virtuals-protocol",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Virtuals Protocol",
+  "symbol": "VIRTUAL",
+  "address": "0x44ff8620b8ca30902395a7bd3f2407e1a091bf73",
+  "decimals": 18,
+  "logo": "virtuals-protocol.svg",
+  "changenow": {
+    "ticker": "virtual",
+    "network": "eth"
+  },
+  "coingecko": {
+    "id": "virtual-protocol"
+  },
+  "coinmarketcap": {
+    "id": 29420,
+    "slug": "virtual-protocol"
+  }
+}
