@@ -1,18 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
   <g clip-path="url(#polkastarter_svg__a)">
     <mask id="polkastarter_svg__b" width="20" height="20" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:luminance">
-      <path fill="#fff" d="M0 0h20v20H0z"/>
+      <path fill="#fff" d="M19.961 10.022c0-5.51-4.466-9.976-9.976-9.976S.009 4.513.009 10.022 4.475 20 9.985 20s9.976-4.467 9.976-9.977"/>
     </mask>
     <g mask="url(#polkastarter_svg__b)">
-      <mask id="polkastarter_svg__c" width="20" height="20" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:luminance">
-        <path fill="#fff" d="M19.961 10.022c0-5.51-4.466-9.976-9.976-9.976S.009 4.513.009 10.022 4.475 20 9.985 20s9.976-4.468 9.976-9.978"/>
-      </mask>
-      <g mask="url(#polkastarter_svg__c)">
-        <path fill="#0BF" d="M19.961 10.022c0-5.51-4.466-9.976-9.976-9.976S.009 4.513.009 10.022 4.475 20 9.985 20s9.976-4.468 9.976-9.978"/>
-        <path fill="#fff" d="M6.479 4.41h4.63c2.697 0 4.13 1.45 4.13 3.6 0 2.323-1.496 3.648-4.13 3.648H9.814c-.686 0-1.154-.375-1.154-1.044s.468-1.043 1.154-1.043h1.06c1.154 0 1.808-.515 1.808-1.559 0-1.043-.701-1.51-1.807-1.51h-1.84V8.2c0 1.621-1.808 1.184-1.808 2.415s1.808.827 1.808 2.416v2.602H6.479z"/>
-        <path stroke="#132F3D" stroke-width=".589" d="M-5-1v22h35V-1z" opacity=".9" style="mix-blend-mode:soft-light"/>
-      </g>
+      <path fill="#0BF" d="M19.961 10.022c0-5.51-4.466-9.976-9.976-9.976S.009 4.513.009 10.022 4.475 20 9.985 20s9.976-4.467 9.976-9.977"/>
+      <path fill="#fff" d="M6.479 4.41h4.63c2.697 0 4.13 1.45 4.13 3.6 0 2.323-1.496 3.648-4.13 3.648H9.814c-.686 0-1.154-.375-1.154-1.044s.468-1.043 1.154-1.043h1.06c1.154 0 1.808-.515 1.808-1.559 0-1.043-.701-1.51-1.807-1.51h-1.84V8.2c0 1.621-1.808 1.184-1.808 2.415s1.808.827 1.808 2.416v2.602H6.479z"/>
+      <path stroke="#132F3D" stroke-width=".589" d="M-5-1v22h35V-1z" opacity=".9" style="mix-blend-mode:soft-light"/>
     </g>
+    <path fill="#E68F7B" d="m17.031 10 3.04 5.023-3.029-1.294z"/>
+    <path fill="#F8EC7C" d="M14 15.023 17.031 10l.012 3.729z"/>
+    <path fill="#6EB87D" d="M17.031 16.875 14 15.023l3.043-1.294z"/>
+    <path fill="#946BA7" d="m20.071 15.023-3.029-1.294-.01 3.146z"/>
+    <path fill="#697CB9" d="m17.031 17.513 3.04-1.802-3.04 4.283z"/>
+    <path fill="#4FADD0" d="M17.031 17.513 14 15.71l3.031 4.283z"/>
   </g>
   <defs>
     <clipPath id="polkastarter_svg__a">
