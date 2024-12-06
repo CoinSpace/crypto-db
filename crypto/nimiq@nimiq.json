@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "nimiq@nimiq",
   "asset": "nimiq",
   "platform": "nimiq",
