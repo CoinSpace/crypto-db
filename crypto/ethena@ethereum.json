@@ -21,5 +21,9 @@
   "coinmarketcap": {
     "id": 30171,
     "slug": "ethena"
+  },
+  "moonpay": {
+    "id": "85ca16a3-debf-4b2e-823a-83ef7f99c350",
+    "code": "ena_eth"
   }
 }

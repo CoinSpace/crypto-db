@@ -23,5 +23,9 @@
   "guardarian": {
     "ticker": "CRO",
     "network": "ETH"
+  },
+  "moonpay": {
+    "id": "c38d3c6a-5a0a-422b-9eb0-940b35a75a5f",
+    "code": "cro_eth"
   }
 }
