@@ -24,5 +24,9 @@
   "guardarian": {
     "ticker": "FTM",
     "network": "FTM"
+  },
+  "moonpay": {
+    "id": "7277b225-72c2-4b34-acb6-24b59ed160bb",
+    "code": "ftm_ftm"
   }
 }
