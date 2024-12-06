@@ -1,28 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 40 40">
-  <path fill="url(#raydium_svg__a)" d="M34.33 15.866V28.75L20 37.021 5.662 28.749V12.198L20 3.918l11.013 6.362 1.662-.96L20 2 4 11.239v18.47l16 9.238 16-9.239v-14.8z"/>
-  <path fill="url(#raydium_svg__b)" d="M15.988 28.757H13.59v-8.04h7.992a2.877 2.877 0 0 0 2.633-3.959 2.7 2.7 0 0 0-.627-.916 2.77 2.77 0 0 0-2.006-.839H13.59v-2.446h8a5.32 5.32 0 0 1 5.291 5.291 5.14 5.14 0 0 1-.935 2.997 5.2 5.2 0 0 1-2.302 1.886 9.2 9.2 0 0 1-2.86.432h-4.796z"/>
-  <path fill="url(#raydium_svg__c)" d="M26.825 28.557h-2.797l-2.158-3.764a9.1 9.1 0 0 0 2.502-.511z"/>
-  <path fill="url(#raydium_svg__d)" d="m32.66 13.189 1.654.919 1.654-.92v-1.941l-1.654-.96-1.655.96z"/>
-  <defs>
-    <linearGradient id="raydium_svg__a" x1="35.972" x2="2.043" y1="11.249" y2="24.817" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#C200FB"/>
-      <stop offset=".49" stop-color="#3772FF"/>
-      <stop offset="1" stop-color="#5AC4BE"/>
-    </linearGradient>
-    <linearGradient id="raydium_svg__b" x1="35.972" x2="2.043" y1="11.249" y2="24.817" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#C200FB"/>
-      <stop offset=".49" stop-color="#3772FF"/>
-      <stop offset="1" stop-color="#5AC4BE"/>
-    </linearGradient>
-    <linearGradient id="raydium_svg__c" x1="35.972" x2="2.043" y1="11.249" y2="24.817" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#C200FB"/>
-      <stop offset=".49" stop-color="#3772FF"/>
-      <stop offset="1" stop-color="#5AC4BE"/>
-    </linearGradient>
-    <linearGradient id="raydium_svg__d" x1="35.972" x2="2.043" y1="11.249" y2="24.817" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#C200FB"/>
-      <stop offset=".49" stop-color="#3772FF"/>
-      <stop offset="1" stop-color="#5AC4BE"/>
-    </linearGradient>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 36.9">
+  <linearGradient id="raydium_svg__a" x1="32.95" x2="-.979" y1="26.305" y2="12.737" gradientTransform="matrix(1 0 0 -1 0 38)" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#c200fb"/>
+    <stop offset=".49" stop-color="#3772ff"/>
+    <stop offset="1" stop-color="#5ac4be"/>
+  </linearGradient>
+  <path fill="url(#raydium_svg__a)" d="M30.3 13.9v12.9L16 35 1.7 26.7V10.2L16 1.9l11 6.4 1.7-1L16 0 0 9.2v18.5l16 9.2 16-9.2V12.9z"/>
+  <linearGradient id="raydium_svg__b" x1="32.295" x2="-1.634" y1="27.943" y2="14.375" gradientTransform="matrix(1 0 0 -1 0 38)" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#c200fb"/>
+    <stop offset=".49" stop-color="#3772ff"/>
+    <stop offset="1" stop-color="#5ac4be"/>
+  </linearGradient>
+  <path fill="url(#raydium_svg__b)" d="M12 26.8H9.6v-8h8c.8 0 1.5-.3 2-.9.5-.5.8-1.3.8-2 0-.4-.1-.7-.2-1.1-.1-.3-.4-.7-.6-.9q-.45-.45-.9-.6c-.45-.15-.7-.3-1.1-.3h-8v-2.4h8c1.4 0 2.7.6 3.7 1.6s1.6 2.3 1.6 3.7q0 1.65-.9 3c-.6.8-1.4 1.5-2.3 1.9-.9.3-1.9.4-2.9.4H12z"/>
+  <linearGradient id="raydium_svg__c" x1="35.688" x2="1.759" y1="19.459" y2="5.891" gradientTransform="matrix(1 0 0 -1 0 38)" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#c200fb"/>
+    <stop offset=".49" stop-color="#3772ff"/>
+    <stop offset="1" stop-color="#5ac4be"/>
+  </linearGradient>
+  <path fill="url(#raydium_svg__c)" d="M22.8 26.6H20l-2.2-3.8c.9-.1 1.7-.2 2.5-.5z"/>
+  <linearGradient id="raydium_svg__d" x1="32.068" x2="-1.861" y1="28.504" y2="14.936" gradientTransform="matrix(1 0 0 -1 0 38)" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#c200fb"/>
+    <stop offset=".49" stop-color="#3772ff"/>
+    <stop offset="1" stop-color="#5ac4be"/>
+  </linearGradient>
+  <path fill="url(#raydium_svg__d)" d="m28.7 11.2 1.7.9 1.7-.9v-2l-1.7-1-1.7 1z"/>
 </svg>
