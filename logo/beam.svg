@@ -1,28 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 29 25">
-  <path fill="url(#beam_svg__a)" d="M0 6.25h28.57v6.25H0z"/>
-  <path fill="url(#beam_svg__b)" d="M0 2a2 2 0 0 1 2-2h24.57a2 2 0 0 1 2 2v4.25H0z"/>
-  <path fill="url(#beam_svg__c)" d="M0 18.75h28.57V23a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2z"/>
-  <path fill="url(#beam_svg__d)" d="M0 12.502h28.57v6.25H0z"/>
-  <defs>
-    <linearGradient id="beam_svg__a" x1="14.2" x2="14.2" y1="9.529" y2="16.501" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#FF6B6B"/>
-      <stop offset=".33" stop-color="#FE1414"/>
-      <stop offset=".6" stop-color="#8E0900"/>
-    </linearGradient>
-    <linearGradient id="beam_svg__b" x1="15.643" x2="15.643" y1="3.279" y2="10.251" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#BBDBFF"/>
-      <stop offset=".33" stop-color="#139EDD"/>
-      <stop offset=".6" stop-color="#B9F7EA"/>
-    </linearGradient>
-    <linearGradient id="beam_svg__c" x1="14.286" x2="14.286" y1="22.029" y2="29.001" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#BBFFCA"/>
-      <stop offset=".33" stop-color="#48DD13"/>
-      <stop offset=".6" stop-color="#008805"/>
-    </linearGradient>
-    <linearGradient id="beam_svg__d" x1="14.286" x2="14.286" y1="15.781" y2="22.753" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#F1E869"/>
-      <stop offset=".33" stop-color="#FEA514"/>
-      <stop offset=".6" stop-color="#FF4539"/>
-    </linearGradient>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <path fill="#27a4e0" d="M256 0C161.7 0 79.2 51 34.8 127h442.3C432.8 51 350.3 0 256 0"/>
+  <path fill="#f81515" d="M0 255.9h512c0-46.9-12.7-90.9-34.7-128.7H34.7C12.7 165 0 209 0 255.9"/>
+  <path fill="#fbb92b" d="M34.7 384.8h442.5C499.3 347 512 303 512 256.1H0C0 303 12.7 347 34.7 384.8"/>
+  <path fill="#54e226" d="M256 512c94.3 0 176.8-51 221.2-127H34.8C79.2 461 161.7 512 256 512"/>
 </svg>
