@@ -1,8 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 374 352">
-  <path fill="#0293d6" d="M85 309a127 127 0 0 0 88 43 80 80 0 0 0 53-24 922 922 0 0 1 87-66l17-7c7-3 19-10 30-23 12-16 14-33 14-39a110 110 0 0 0-18-53A332 332 0 0 1 85 309"/>
-  <path fill="#ebe638" d="M123 25a80 80 0 0 1 58-25 52 52 0 0 1 38 13 174 174 0 0 0 98 32c9 1 27 4 39 19 9 12 10 25 10 31a139 139 0 0 1-10 45z"/>
-  <path fill="#bad147" d="M85 309c-9-1-21-4-35-10s-31-13-42-32c-7-12-8-24-8-32a138 138 0 0 1 15-61 282 282 0 0 0 19-73l5-20c3-10 5-20 12-30l11-12a95 95 0 0 1 61-14 312 312 0 0 0-38 284"/>
-  <path fill="#78b650" d="M123 25c-1 0 54 3 88 15l28 12c-11-1-81-4-134 49-67 68-45 161-44 166a102 102 0 0 1-22-69 240 240 0 0 1 84-173"/>
-  <path fill="#2f8260" d="M257 272a200 200 0 0 0-18-220 137 137 0 0 1 76 40c12 10 27 25 41 48a295 295 0 0 1-99 132"/>
-  <path fill="#085229" d="M289 96c-16-27-39-39-49-44-8-2-83-14-140 41-46 44-49 101-49 112a171 171 0 0 0 36 104 238 238 0 0 0 90 0c15-3 50-9 80-35 4-4 48-45 51-110 0-11 0-39-19-68m-36 145a99 99 0 0 1-73 32c-6 0-46-1-74-34-4-5-24-29-23-65 2-48 40-76 48-82 7-5 24-16 49-17 6-1 27-2 48 10 46 25 48 85 48 89 0 11 0 41-23 67"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 392 392">
+  <circle cx="196" cy="196" r="196" fill="#00a64f"/>
+  <radialGradient id="pax-dollar_svg__a" cx="17.139" cy="-121.296" r="313.582" gradientTransform="matrix(1 0 0 -1 0 183.4)" gradientUnits="userSpaceOnUse">
+    <stop offset=".09" stop-color="#00522c"/>
+    <stop offset="1" stop-color="#00522c" stop-opacity="0"/>
+  </radialGradient>
+  <circle cx="196" cy="196" r="196" fill="url(#pax-dollar_svg__a)"/>
+  <radialGradient id="pax-dollar_svg__b" cx="-1230.153" cy="332.373" r="313.582" gradientTransform="scale(-1 1)rotate(-82.82 -762.58 -166.37)" gradientUnits="userSpaceOnUse">
+    <stop offset=".09" stop-color="#00a64f"/>
+    <stop offset="1" stop-color="#00a64f" stop-opacity="0"/>
+  </radialGradient>
+  <circle cx="196" cy="196" r="196" fill="url(#pax-dollar_svg__b)"/>
+  <radialGradient id="pax-dollar_svg__c" cx="377.743" cy="114.671" r="260.362" fx="364.088" fy="117.858" gradientTransform="matrix(1 0 0 -1 0 183.4)" gradientUnits="userSpaceOnUse">
+    <stop offset=".098" stop-color="#8ad137"/>
+    <stop offset="1" stop-color="#8ad137" stop-opacity="0"/>
+  </radialGradient>
+  <circle cx="196" cy="196" r="196" fill="url(#pax-dollar_svg__c)"/>
+  <path fill="#fff" d="M231.4 180.8h-16.7v-48.9h72.6v-30h-72.6V55h-37.4v47.1h-15.8c-34.1 0-62.6 17.2-62.6 54.9 0 32.9 25 53.6 61.7 53.6h16.7v48.9h-72.6v30h72.6v46.9h37.4v-47.1h15.8c34.2 0 62.6-17.2 62.6-54.9 0-32.9-25-53.6-61.7-53.6m-54.1 29.8v-29.8h-11.9c-15.9 0-28.8-6.7-28.8-24.5 0-17.6 12.3-24.3 29.6-24.3h11.1v48.9h37.4v29.8zm48.5 48.9h-11.1v-48.9h11.9c15.9 0 28.8 6.7 28.8 24.5 0 17.7-12.3 24.4-29.6 24.4"/>
 </svg>
