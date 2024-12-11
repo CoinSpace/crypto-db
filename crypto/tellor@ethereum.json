@@ -21,5 +21,9 @@
   "coinmarketcap": {
     "id": 4944,
     "slug": "tellor"
+  },
+  "moonpay": {
+    "id": "1c1fb538-1a4a-432e-bc3f-6b9e830fbffc",
+    "code": "trb_eth"
   }
 }
