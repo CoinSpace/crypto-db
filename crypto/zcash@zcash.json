@@ -28,5 +28,9 @@
   "guardarian": {
     "ticker": "ZEC",
     "network": "ZEC"
+  },
+  "moonpay": {
+    "id": "b0b6f417-ed87-4f7f-b7e7-6282b97e9027",
+    "code": "zec_zec"
   }
 }
