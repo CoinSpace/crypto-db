@@ -1,0 +1,22 @@
+{
+  "_id": "movement@ethereum",
+  "asset": "movement",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Movement",
+  "symbol": "MOVE",
+  "address": "0x3073f7aaa4db83f95e9fff17424f71d4751a3073",
+  "decimals": 8,
+  "logo": "movement.svg",
+  "changenow": {
+    "ticker": "move",
+    "network": "eth"
+  },
+  "coingecko": {
+    "id": "movement"
+  },
+  "coinmarketcap": {
+    "id": 32452,
+    "slug": "movement"
+  }
+}
