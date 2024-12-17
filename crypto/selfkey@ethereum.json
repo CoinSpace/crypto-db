@@ -18,9 +18,5 @@
   "coinmarketcap": {
     "id": 2398,
     "slug": "selfkey"
-  },
-  "moonpay": {
-    "id": "a10fca99-b2a9-4f76-9c91-55db46b1b016",
-    "code": "key"
   }
 }
