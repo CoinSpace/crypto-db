@@ -21,5 +21,9 @@
   "coinmarketcap": {
     "id": 21159,
     "slug": "ondo-finance"
+  },
+  "moonpay": {
+    "id": "a44f8a3e-ad77-4b21-997c-f86a36b5270c",
+    "code": "ondo_eth"
   }
 }
