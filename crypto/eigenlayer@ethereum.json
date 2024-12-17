@@ -1,0 +1,29 @@
+{
+  "_id": "eigenlayer@ethereum",
+  "asset": "eigenlayer",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "EigenLayer",
+  "symbol": "EIGEN",
+  "address": "0xec53bf9167f50cdeb3ae105f56099aaab9061f83",
+  "decimals": 18,
+  "logo": "eigenlayer.svg",
+  "changelly": {
+    "ticker": "eigen"
+  },
+  "changenow": {
+    "ticker": "eigen",
+    "network": "eth"
+  },
+  "coingecko": {
+    "id": "eigenlayer"
+  },
+  "coinmarketcap": {
+    "id": 30494,
+    "slug": "eigenlayer"
+  },
+  "moonpay": {
+    "id": "f3df281d-5cd2-4d9e-a8da-9ff4ca2b605e",
+    "code": "eigen_eth"
+  }
+}
