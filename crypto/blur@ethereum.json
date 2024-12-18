@@ -25,5 +25,9 @@
   "guardarian": {
     "ticker": "BLUR",
     "network": "ETH"
+  },
+  "moonpay": {
+    "id": "0549f740-86ed-4d51-9c7c-71a0ecc4c693",
+    "code": "blur_eth"
   }
 }
