@@ -22,5 +22,9 @@
   "coinmarketcap": {
     "id": 3640,
     "slug": "livepeer"
+  },
+  "moonpay": {
+    "id": "2cd82573-87c8-42e5-ad1b-731ee1ceecd8",
+    "code": "lpt_eth"
   }
 }
