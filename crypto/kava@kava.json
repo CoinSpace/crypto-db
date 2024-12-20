@@ -25,9 +25,5 @@
   "guardarian": {
     "ticker": "KAVA",
     "network": "KAVA"
-  },
-  "moonpay": {
-    "id": "df7964ab-181f-40cf-bdf9-9995484eea3d",
-    "code": "kava"
   }
 }
