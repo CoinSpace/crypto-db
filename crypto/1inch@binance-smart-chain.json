@@ -23,5 +23,9 @@
   "guardarian": {
     "ticker": "1INCH",
     "network": "BSC"
+  },
+  "moonpay": {
+    "id": "13d41bc4-3391-4b0d-a93b-29213fda1ac8",
+    "code": "1inch_bsc"
   }
 }
