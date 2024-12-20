@@ -26,5 +26,9 @@
   "guardarian": {
     "ticker": "1INCH",
     "network": "ETH"
+  },
+  "moonpay": {
+    "id": "352111d3-4745-4ddc-a1d3-1cfeee0f4450",
+    "code": "1inch_eth"
   }
 }
