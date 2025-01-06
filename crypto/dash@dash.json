@@ -29,10 +29,6 @@
     "ticker": "DASH",
     "network": "DASH"
   },
-  "moonpay": {
-    "id": "fdc552b0-e45c-4295-afc1-2ff12272e303",
-    "code": "dash_dash"
-  },
   "onramper": {
     "id": "DASH_DASH"
   },
