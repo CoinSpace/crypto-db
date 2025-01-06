@@ -1,0 +1,26 @@
+{
+  "_id": "spx6900@ethereum",
+  "asset": "spx6900",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "SPX6900",
+  "symbol": "SPX",
+  "address": "0xe0f63a424a4439cbe457d80e4f4b51ad25b2c56c",
+  "decimals": 8,
+  "logo": "spx6900.svg",
+  "changenow": {
+    "ticker": "spx",
+    "network": "eth"
+  },
+  "coingecko": {
+    "id": "spx6900"
+  },
+  "coinmarketcap": {
+    "id": 28081,
+    "slug": "spx6900"
+  },
+  "guardarian": {
+    "ticker": "SPX",
+    "network": "ETH"
+  }
+}

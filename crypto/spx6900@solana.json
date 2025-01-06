@@ -1,0 +1,18 @@
+{
+  "_id": "spx6900@solana",
+  "asset": "spx6900",
+  "platform": "solana",
+  "type": "token",
+  "name": "SPX6900",
+  "symbol": "SPX",
+  "address": "J3NKxxXZcnNiMjKw9hYb2K4LUxgwB6t1FtPtQVsv3KFr",
+  "decimals": 8,
+  "logo": "spx6900.svg",
+  "coingecko": {
+    "id": "spx6900"
+  },
+  "coinmarketcap": {
+    "id": 28081,
+    "slug": "spx6900"
+  }
+}
