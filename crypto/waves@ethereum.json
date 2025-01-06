@@ -5,8 +5,8 @@
   "type": "token",
   "name": "Waves",
   "symbol": "WAVES",
-  "address": "0x1cf4592ebffd730c7dc92c1bdffdfc3b9efcf29a",
-  "decimals": 18,
+  "address": "0x7296eaa225804451a91616b29d040cab05435f0d",
+  "decimals": 8,
   "logo": "waves.svg",
   "coingecko": {
     "id": "waves",
@@ -15,9 +15,5 @@
   "coinmarketcap": {
     "id": 1274,
     "slug": "waves"
-  },
-  "guardarian": {
-    "ticker": "WAVES",
-    "network": "ETH"
   }
 }
