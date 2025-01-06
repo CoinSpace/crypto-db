@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "ton-crystal@binance-smart-chain",
   "asset": "ton-crystal",
   "platform": "binance-smart-chain",

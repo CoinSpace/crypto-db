@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "ton-crystal@ethereum",
   "asset": "ton-crystal",
   "platform": "ethereum",

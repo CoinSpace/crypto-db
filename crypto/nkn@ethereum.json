@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "nkn@ethereum",
   "asset": "nkn",
   "platform": "ethereum",
