@@ -18,9 +18,5 @@
   "coinmarketcap": {
     "id": 26081,
     "slug": "first-digital-usd"
-  },
-  "moonpay": {
-    "id": "8e66df0a-328a-4ed1-9fd4-59c6da8b70c0",
-    "code": "fdusd_eth"
   }
 }
