@@ -1,0 +1,26 @@
+{
+  "_id": "changenow@ethereum",
+  "asset": "changenow",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "ChangeNOW",
+  "symbol": "NOW",
+  "address": "0xe9a95d175a5f4c9369f3b74222402eb1b837693b",
+  "decimals": 8,
+  "logo": "changenow.svg",
+  "changenow": {
+    "ticker": "now",
+    "network": "eth"
+  },
+  "coingecko": {
+    "id": "changenow"
+  },
+  "coinmarketcap": {
+    "id": 3893,
+    "slug": "now-token"
+  },
+  "guardarian": {
+    "ticker": "NOW",
+    "network": "ETH"
+  }
+}
