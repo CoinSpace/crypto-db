@@ -7,7 +7,7 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "lint": "eslint index.js"
+    "lint": "eslint --report-unused-disable-directives ."
   },
   "repository": {
     "type": "git",
@@ -18,20 +18,7 @@
     "db"
   ],
   "devDependencies": {
-    "eslint": "^8.15.0",
-    "eslint-config-coinspace": "^2.0.0"
-  },
-  "eslintConfig": {
-    "extends": [
-      "coinspace"
-    ],
-    "env": {
-      "node": true
-    },
-    "parserOptions": {
-      "ecmaVersion": 2022,
-      "requireConfigFile": false,
-      "sourceType": "module"
-    }
+    "eslint": "^9.0.0",
+    "eslint-config-coinspace": "^3.0.0"
   }
 }
