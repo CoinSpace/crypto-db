@@ -1,0 +1,18 @@
+{
+  "_id": "susd@fantom",
+  "asset": "susd",
+  "platform": "fantom",
+  "type": "token",
+  "name": "sUSD",
+  "symbol": "SUSD",
+  "address": "0x0e1694483ebb3b74d3054e383840c6cf011e518e",
+  "decimals": 18,
+  "logo": "susd.svg",
+  "coingecko": {
+    "id": "nusd"
+  },
+  "coinmarketcap": {
+    "id": 2927,
+    "slug": "susd"
+  }
+}
