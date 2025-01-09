@@ -1,0 +1,18 @@
+{
+  "_id": "ethena-usde@optimism",
+  "asset": "ethena-usde",
+  "platform": "optimism",
+  "type": "token",
+  "name": "Ethena USDe",
+  "symbol": "USDE",
+  "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+  "decimals": 18,
+  "logo": "ethena-usde.svg",
+  "coingecko": {
+    "id": "ethena-usde"
+  },
+  "coinmarketcap": {
+    "id": 29470,
+    "slug": "ethena-usde"
+  }
+}

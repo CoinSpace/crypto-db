@@ -8,6 +8,9 @@
   "address": "0xe0f63a424a4439cbe457d80e4f4b51ad25b2c56c",
   "decimals": 8,
   "logo": "spx6900.svg",
+  "changelly": {
+    "ticker": "spx"
+  },
   "changenow": {
     "ticker": "spx",
     "network": "eth"

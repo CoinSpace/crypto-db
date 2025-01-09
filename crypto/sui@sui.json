@@ -7,7 +7,6 @@
   "symbol": "SUI",
   "decimals": 9,
   "logo": "sui.svg",
-  "supported": false,
   "changelly": {
     "ticker": "sui"
   },

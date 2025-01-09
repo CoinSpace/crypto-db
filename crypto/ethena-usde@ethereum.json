@@ -1,0 +1,25 @@
+{
+  "_id": "ethena-usde@ethereum",
+  "asset": "ethena-usde",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Ethena USDe",
+  "symbol": "USDE",
+  "address": "0x4c9edd5852cd905f086c759e8383e09bff1e68b3",
+  "decimals": 18,
+  "logo": "ethena-usde.svg",
+  "changelly": {
+    "ticker": "usde"
+  },
+  "changenow": {
+    "ticker": "usde",
+    "network": "eth"
+  },
+  "coingecko": {
+    "id": "ethena-usde"
+  },
+  "coinmarketcap": {
+    "id": 29470,
+    "slug": "ethena-usde"
+  }
+}
