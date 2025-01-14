@@ -14,10 +14,6 @@
   "changelly": {
     "ticker": "dash"
   },
-  "changenow": {
-    "ticker": "dash",
-    "network": "dash"
-  },
   "coingecko": {
     "id": "dash"
   },
