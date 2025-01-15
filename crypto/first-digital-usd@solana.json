@@ -1,0 +1,18 @@
+{
+  "_id": "first-digital-usd@solana",
+  "asset": "first-digital-usd",
+  "platform": "solana",
+  "type": "token",
+  "name": "First Digital USD",
+  "symbol": "FDUSD",
+  "address": "9zNQRsGLjNKwCUU5Gq5LR8beUCPzQMVMqKAi3SSZh54u",
+  "decimals": 6,
+  "logo": "first-digital-usd.svg",
+  "coingecko": {
+    "id": "first-digital-usd"
+  },
+  "coinmarketcap": {
+    "id": 26081,
+    "slug": "first-digital-usd"
+  }
+}
