@@ -8,6 +8,9 @@
   "address": "0x226bb599a12c826476e3a771454697ea52e9e220",
   "decimals": 8,
   "logo": "propy.svg",
+  "changelly": {
+    "ticker": "pro"
+  },
   "coingecko": {
     "id": "propy",
     "platform": "ethereum"
