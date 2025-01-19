@@ -1,0 +1,26 @@
+{
+  "_id": "official-trump@solana",
+  "asset": "official-trump",
+  "platform": "solana",
+  "type": "token",
+  "name": "OFFICIAL TRUMP",
+  "symbol": "TRUMP",
+  "address": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
+  "decimals": 6,
+  "logo": "official-trump.svg",
+  "changenow": {
+    "ticker": "trump",
+    "network": "sol"
+  },
+  "coingecko": {
+    "id": "official-trump"
+  },
+  "coinmarketcap": {
+    "id": 35336,
+    "slug": "official-trump"
+  },
+  "guardarian": {
+    "ticker": "TRUMP",
+    "network": "SOL"
+  }
+}
