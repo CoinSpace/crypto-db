@@ -1,0 +1,18 @@
+{
+  "_id": "melania-meme@solana",
+  "asset": "melania-meme",
+  "platform": "solana",
+  "type": "token",
+  "name": "Melania Meme",
+  "symbol": "MELANIA",
+  "address": "FUAfBo2jgks6gB4Z4LfZkqSZgzNucisEHqnNebaRxM1P",
+  "decimals": 6,
+  "logo": "melania-meme.png",
+  "coingecko": {
+    "id": "melania-meme"
+  },
+  "coinmarketcap": {
+    "id": 35347,
+    "slug": "melania-meme"
+  }
+}
