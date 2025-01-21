@@ -1,0 +1,29 @@
+{
+  "_id": "jito@solana",
+  "asset": "jito",
+  "platform": "solana",
+  "type": "token",
+  "name": "Jito",
+  "symbol": "JTO",
+  "address": "jtojtomepa8beP8AuQc6eXt5FriJwfFMwQx2v2f9mCL",
+  "decimals": 9,
+  "logo": "jito.svg",
+  "changelly": {
+    "ticker": "jto"
+  },
+  "changenow": {
+    "ticker": "jto",
+    "network": "sol"
+  },
+  "coingecko": {
+    "id": "jito-governance-token"
+  },
+  "coinmarketcap": {
+    "id": 28541,
+    "slug": "jito"
+  },
+  "moonpay": {
+    "id": "e03a5e53-2518-4611-9e4c-5e0c59a76262",
+    "code": "jto_sol"
+  }
+}
