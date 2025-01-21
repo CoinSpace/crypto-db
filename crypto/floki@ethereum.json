@@ -8,6 +8,9 @@
   "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
   "decimals": 9,
   "logo": "floki.svg",
+  "changelly": {
+    "ticker": "flokieth"
+  },
   "changenow": {
     "ticker": "floki",
     "network": "eth"
