@@ -8,6 +8,9 @@
   "address": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
   "decimals": 6,
   "logo": "official-trump.svg",
+  "changelly": {
+    "ticker": "trump"
+  },
   "changenow": {
     "ticker": "trump",
     "network": "sol"
@@ -22,5 +25,9 @@
   "guardarian": {
     "ticker": "TRUMP",
     "network": "SOL"
+  },
+  "moonpay": {
+    "id": "b269b0c2-469d-4b97-8d5d-419115f8d984",
+    "code": "trump_sol"
   }
 }
