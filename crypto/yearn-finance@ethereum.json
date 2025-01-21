@@ -16,8 +16,7 @@
     "network": "eth"
   },
   "coingecko": {
-    "id": "yearn-finance",
-    "platform": "ethereum"
+    "id": "yearn-finance"
   },
   "coinmarketcap": {
     "id": 5864,
@@ -26,8 +25,5 @@
   "guardarian": {
     "ticker": "YFI",
     "network": "ETH"
-  },
-  "paybis": {
-    "id": "YFI"
   }
 }
