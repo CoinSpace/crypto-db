@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "roobee@polygon",
   "asset": "roobee",
   "platform": "polygon",
@@ -7,7 +8,6 @@
   "symbol": "ROOBEE",
   "address": "0xfafa220145dfa5c3ec85b6fa8a75aee2451cde5e",
   "decimals": 18,
-  "logo": "roobee.png",
   "coingecko": {
     "id": "roobee"
   },

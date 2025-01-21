@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "insure-defi@ethereum",
   "asset": "insure-defi",
   "platform": "ethereum",
@@ -7,7 +8,6 @@
   "symbol": "SURE",
   "address": "0xcb86c6a22cb56b6cf40cafedb06ba0df188a416e",
   "decimals": 18,
-  "logo": "insure-defi.png",
   "coingecko": {
     "id": "insure",
     "platform": "ethereum"

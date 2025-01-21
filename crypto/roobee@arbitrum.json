@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "roobee@arbitrum",
   "asset": "roobee",
   "platform": "arbitrum",
@@ -7,7 +8,6 @@
   "symbol": "ROOBEE",
   "address": "0x3bd2dfd03bc7c3011ed7fb8c4d0949b382726cee",
   "decimals": 18,
-  "logo": "roobee.png",
   "coingecko": {
     "id": "roobee"
   },
