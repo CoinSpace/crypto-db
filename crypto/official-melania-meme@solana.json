@@ -1,0 +1,25 @@
+{
+  "_id": "official-melania-meme@solana",
+  "asset": "official-melania-meme",
+  "platform": "solana",
+  "type": "token",
+  "name": "Official Melania Meme",
+  "symbol": "MELANIA",
+  "address": "FUAfBo2jgks6gB4Z4LfZkqSZgzNucisEHqnNebaRxM1P",
+  "decimals": 6,
+  "logo": "official-melania-meme.svg",
+  "changelly": {
+    "ticker": "melania"
+  },
+  "changenow": {
+    "ticker": "melania",
+    "network": "sol"
+  },
+  "coingecko": {
+    "id": "melania-meme"
+  },
+  "coinmarketcap": {
+    "id": 35347,
+    "slug": "melania-meme"
+  }
+}
