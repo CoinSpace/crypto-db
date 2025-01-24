@@ -1,5 +1,4 @@
 {
-  "deprecated": true,
   "_id": "bitcoin-sv@bitcoin-sv",
   "asset": "bitcoin-sv",
   "platform": "bitcoin-sv",
@@ -13,11 +12,19 @@
   "changelly": {
     "ticker": "bsv"
   },
+  "changenow": {
+    "ticker": "bsv",
+    "network": "bsv"
+  },
   "coingecko": {
     "id": "bitcoin-cash-sv"
   },
   "coinmarketcap": {
     "id": 3602,
     "slug": "bitcoin-sv"
+  },
+  "guardarian": {
+    "ticker": "BSV",
+    "network": "BSV"
   }
 }
