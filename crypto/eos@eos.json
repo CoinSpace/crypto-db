@@ -11,10 +11,6 @@
   "changelly": {
     "ticker": "eos"
   },
-  "changenow": {
-    "ticker": "eos",
-    "network": "eos"
-  },
   "coingecko": {
     "id": "eos"
   },
