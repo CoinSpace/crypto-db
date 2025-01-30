@@ -8,6 +8,7 @@
   "decimals": 18,
   "logo": "ethereum.svg",
   "scheme": "ethereum",
+  "original": true,
   "bitnovo": {
     "id": "ETH"
   },
