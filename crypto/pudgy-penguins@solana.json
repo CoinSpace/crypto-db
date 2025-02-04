@@ -8,6 +8,9 @@
   "address": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
   "decimals": 6,
   "logo": "pudgy-penguins.svg",
+  "changelly": {
+    "ticker": "pengu"
+  },
   "changenow": {
     "ticker": "pengu",
     "network": "sol"
