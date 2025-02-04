@@ -8,6 +8,9 @@
   "address": "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump",
   "decimals": 6,
   "logo": "fartcoin.svg",
+  "changelly": {
+    "ticker": "fartcoin"
+  },
   "changenow": {
     "ticker": "fartcoin",
     "network": "sol"
