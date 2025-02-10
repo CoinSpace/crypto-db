@@ -1,0 +1,25 @@
+{
+  "_id": "ethereum@base",
+  "asset": "ethereum",
+  "platform": "base",
+  "type": "coin",
+  "name": "Base",
+  "symbol": "ETH",
+  "decimals": 18,
+  "logo": "base.svg",
+  "changenow": {
+    "ticker": "eth",
+    "network": "base"
+  },
+  "coingecko": {
+    "id": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 1027,
+    "slug": "ethereum"
+  },
+  "moonpay": {
+    "id": "cdc83701-1799-4556-ae9a-da3266621101",
+    "code": "eth_base"
+  }
+}
