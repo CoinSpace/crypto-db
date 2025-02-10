@@ -1,0 +1,22 @@
+{
+  "_id": "mog-coin@base",
+  "asset": "mog-coin",
+  "platform": "base",
+  "type": "token",
+  "name": "Mog Coin",
+  "symbol": "MOG",
+  "address": "0x2da56acb9ea78330f947bd57c54119debda7af71",
+  "decimals": 18,
+  "logo": "mog-coin.svg",
+  "changenow": {
+    "ticker": "mog",
+    "network": "base"
+  },
+  "coingecko": {
+    "id": "mog-coin"
+  },
+  "coinmarketcap": {
+    "id": 27659,
+    "slug": "mog-coin"
+  }
+}

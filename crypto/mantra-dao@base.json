@@ -1,0 +1,18 @@
+{
+  "_id": "mantra-dao@base",
+  "asset": "mantra-dao",
+  "platform": "base",
+  "type": "token",
+  "name": "MANTRA",
+  "symbol": "OM",
+  "address": "0x3992b27da26848c2b19cea6fd25ad5568b68ab98",
+  "decimals": 18,
+  "logo": "mantra-dao.svg",
+  "coingecko": {
+    "id": "mantra-dao"
+  },
+  "coinmarketcap": {
+    "id": 6536,
+    "slug": "mantra"
+  }
+}

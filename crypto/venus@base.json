@@ -1,0 +1,18 @@
+{
+  "_id": "venus@base",
+  "asset": "venus",
+  "platform": "base",
+  "type": "token",
+  "name": "Venus",
+  "symbol": "XVS",
+  "address": "0xebb7873213c8d1d9913d8ea39aa12d74cb107995",
+  "decimals": 18,
+  "logo": "venus.svg",
+  "coingecko": {
+    "id": "venus"
+  },
+  "coinmarketcap": {
+    "id": 7288,
+    "slug": "venus"
+  }
+}

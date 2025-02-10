@@ -1,0 +1,25 @@
+{
+  "_id": "layerzero@base",
+  "asset": "layerzero",
+  "platform": "base",
+  "type": "token",
+  "name": "LayerZero",
+  "symbol": "ZRO",
+  "address": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+  "decimals": 18,
+  "logo": "layerzero.svg",
+  "changelly": {
+    "ticker": "zrobase"
+  },
+  "changenow": {
+    "ticker": "zro",
+    "network": "base"
+  },
+  "coingecko": {
+    "id": "layerzero"
+  },
+  "coinmarketcap": {
+    "id": 26997,
+    "slug": "layerzero"
+  }
+}

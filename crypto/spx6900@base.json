@@ -1,0 +1,18 @@
+{
+  "_id": "spx6900@base",
+  "asset": "spx6900",
+  "platform": "base",
+  "type": "token",
+  "name": "SPX6900",
+  "symbol": "SPX",
+  "address": "0x50da645f148798f68ef2d7db7c1cb22a6819bb2c",
+  "decimals": 8,
+  "logo": "spx6900.svg",
+  "coingecko": {
+    "id": "spx6900"
+  },
+  "coinmarketcap": {
+    "id": 28081,
+    "slug": "spx6900"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "_id": "onyxcoin@base",
+  "asset": "onyxcoin",
+  "platform": "base",
+  "type": "token",
+  "name": "Onyxcoin",
+  "symbol": "XCN",
+  "address": "0x9c632e6aaa3ea73f91554f8a3cb2ed2f29605e0c",
+  "decimals": 18,
+  "logo": "onyxcoin.svg",
+  "changenow": {
+    "ticker": "xcn",
+    "network": "base"
+  },
+  "coingecko": {
+    "id": "chain-2"
+  },
+  "coinmarketcap": {
+    "id": 18679,
+    "slug": "onyxcoin"
+  }
+}

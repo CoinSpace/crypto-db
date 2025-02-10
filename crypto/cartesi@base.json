@@ -1,0 +1,18 @@
+{
+  "_id": "cartesi@base",
+  "asset": "cartesi",
+  "platform": "base",
+  "type": "token",
+  "name": "Cartesi",
+  "symbol": "CTSI",
+  "address": "0x259fac10c5cbfefe3e710e1d9467f70a76138d45",
+  "decimals": 18,
+  "logo": "cartesi.svg",
+  "coingecko": {
+    "id": "cartesi"
+  },
+  "coinmarketcap": {
+    "id": 5444,
+    "slug": "cartesi"
+  }
+}

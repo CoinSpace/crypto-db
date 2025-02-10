@@ -1,0 +1,18 @@
+{
+  "_id": "propy@base",
+  "asset": "propy",
+  "platform": "base",
+  "type": "token",
+  "name": "Propy",
+  "symbol": "PRO",
+  "address": "0x18dd5b087bca9920562aff7a0199b96b9230438b",
+  "decimals": 8,
+  "logo": "propy.svg",
+  "coingecko": {
+    "id": "propy"
+  },
+  "coinmarketcap": {
+    "id": 1974,
+    "slug": "propy"
+  }
+}
