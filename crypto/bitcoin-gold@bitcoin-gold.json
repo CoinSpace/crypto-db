@@ -11,10 +11,6 @@
   "changelly": {
     "ticker": "btg"
   },
-  "changenow": {
-    "ticker": "btg",
-    "network": "btg"
-  },
   "coingecko": {
     "id": "bitcoin-gold"
   },
