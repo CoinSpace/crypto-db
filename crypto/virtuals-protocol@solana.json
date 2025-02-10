@@ -1,0 +1,18 @@
+{
+  "_id": "virtuals-protocol@solana",
+  "asset": "virtuals-protocol",
+  "platform": "solana",
+  "type": "token",
+  "name": "Virtuals Protocol",
+  "symbol": "VIRTUAL",
+  "address": "3iQL8BFS2vE7mww4ehAqQHAsbmRNCrPxizWAT2Zfyr9y",
+  "decimals": 9,
+  "logo": "virtuals-protocol.svg",
+  "coingecko": {
+    "id": "virtual-protocol"
+  },
+  "coinmarketcap": {
+    "id": 29420,
+    "slug": "virtual-protocol"
+  }
+}
