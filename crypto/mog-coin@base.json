@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 27659,
     "slug": "mog-coin"
+  },
+  "guardarian": {
+    "ticker": "MOG",
+    "network": "BASE"
   }
 }

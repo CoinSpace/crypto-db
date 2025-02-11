@@ -7,6 +7,9 @@
   "symbol": "ETH",
   "decimals": 18,
   "logo": "optimism.svg",
+  "changelly": {
+    "ticker": "ethop"
+  },
   "changenow": {
     "ticker": "eth",
     "network": "op"

@@ -5,22 +5,14 @@
   "type": "token",
   "name": "USDD",
   "symbol": "USDD",
-  "address": "0x0c10bf8fcb7bf5412187a595ab97a3609160b5c6",
+  "address": "0x3d7975eccfc61a2102b08925cbba0a4d4dbb6555",
   "decimals": 18,
   "logo": "usdd.svg",
-  "changenow": {
-    "ticker": "usdd",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "usdd"
   },
   "coinmarketcap": {
     "id": 19891,
     "slug": "usdd"
-  },
-  "guardarian": {
-    "ticker": "USDD",
-    "network": "ETH"
   }
 }

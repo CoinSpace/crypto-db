@@ -7,6 +7,9 @@
   "symbol": "ETH",
   "decimals": 18,
   "logo": "base.svg",
+  "changelly": {
+    "ticker": "ethbase"
+  },
   "changenow": {
     "ticker": "eth",
     "network": "base"
@@ -17,6 +20,10 @@
   "coinmarketcap": {
     "id": 1027,
     "slug": "ethereum"
+  },
+  "guardarian": {
+    "ticker": "ETH",
+    "network": "BASE"
   },
   "moonpay": {
     "id": "cdc83701-1799-4556-ae9a-da3266621101",

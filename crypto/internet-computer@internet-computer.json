@@ -25,5 +25,9 @@
   "guardarian": {
     "ticker": "ICP",
     "network": "ICP"
+  },
+  "moonpay": {
+    "id": "024a55e8-da0f-49aa-b27e-5dc68b942e2b",
+    "code": "icp_icp"
   }
 }

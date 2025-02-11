@@ -5,22 +5,14 @@
   "type": "token",
   "name": "USDD",
   "symbol": "USDD",
-  "address": "0xd17479997f34dd9156deef8f95a52d81d265be9c",
+  "address": "0x392004bee213f1ff580c867359c246924f21e6ad",
   "decimals": 18,
   "logo": "usdd.svg",
-  "changenow": {
-    "ticker": "usdd",
-    "network": "bsc"
-  },
   "coingecko": {
     "id": "usdd"
   },
   "coinmarketcap": {
     "id": 19891,
     "slug": "usdd"
-  },
-  "guardarian": {
-    "ticker": "USDD",
-    "network": "BSC"
   }
 }
