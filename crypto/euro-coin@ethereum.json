@@ -21,5 +21,9 @@
   "coinmarketcap": {
     "id": 20641,
     "slug": "euro-coin"
+  },
+  "guardarian": {
+    "ticker": "EURC",
+    "network": "ETH"
   }
 }
