@@ -3,17 +3,13 @@
   "asset": "fantom",
   "platform": "ethereum",
   "type": "token",
-  "name": "Fantom",
+  "name": "Fantom (Migrated to Sonic)",
   "symbol": "FTM",
   "address": "0x4e15361fd6b4bb609fa63c81a2be19d873717870",
   "decimals": 18,
   "logo": "fantom.svg",
   "changelly": {
     "ticker": "ftm"
-  },
-  "changenow": {
-    "ticker": "ftm",
-    "network": "eth"
   },
   "coingecko": {
     "id": "fantom"
