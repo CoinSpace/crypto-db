@@ -3,16 +3,12 @@
   "asset": "fantom",
   "platform": "fantom",
   "type": "coin",
-  "name": "Fantom",
+  "name": "Fantom (Migrated to Sonic)",
   "symbol": "FTM",
   "decimals": 18,
   "logo": "fantom.svg",
   "changelly": {
     "ticker": "ftmmainnet"
-  },
-  "changenow": {
-    "ticker": "ftm",
-    "network": "ftm"
   },
   "coingecko": {
     "id": "fantom"
