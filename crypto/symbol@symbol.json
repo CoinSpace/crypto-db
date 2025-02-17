@@ -11,10 +11,6 @@
   "changelly": {
     "ticker": "xym"
   },
-  "changenow": {
-    "ticker": "xym",
-    "network": "xym"
-  },
   "coingecko": {
     "id": "symbol"
   },
