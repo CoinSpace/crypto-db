@@ -8,10 +8,6 @@
   "address": "0xad29abb318791d579433d831ed122afeaf29dcfe",
   "decimals": 18,
   "logo": "fantom.svg",
-  "changenow": {
-    "ticker": "ftm",
-    "network": "bsc"
-  },
   "coingecko": {
     "id": "fantom"
   },

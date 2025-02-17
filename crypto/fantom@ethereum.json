@@ -8,13 +8,6 @@
   "address": "0x4e15361fd6b4bb609fa63c81a2be19d873717870",
   "decimals": 18,
   "logo": "fantom.svg",
-  "changelly": {
-    "ticker": "ftm"
-  },
-  "changenow": {
-    "ticker": "ftm",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "fantom"
   },
@@ -25,9 +18,5 @@
   "guardarian": {
     "ticker": "FTM",
     "network": "ETH"
-  },
-  "moonpay": {
-    "id": "b7fcdf2a-91c4-4c50-9bdd-8759b5e43c88",
-    "code": "ftm_eth"
   }
 }

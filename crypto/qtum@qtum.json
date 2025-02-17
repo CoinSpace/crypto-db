@@ -11,10 +11,6 @@
   "changelly": {
     "ticker": "qtum"
   },
-  "changenow": {
-    "ticker": "qtum",
-    "network": "qtum"
-  },
   "coingecko": {
     "id": "qtum"
   },

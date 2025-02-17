@@ -11,10 +11,6 @@
   "changelly": {
     "ticker": "icp"
   },
-  "changenow": {
-    "ticker": "icp",
-    "network": "icp"
-  },
   "coingecko": {
     "id": "internet-computer"
   },
