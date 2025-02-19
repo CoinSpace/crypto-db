@@ -13,8 +13,7 @@
     "network": "bsc"
   },
   "coingecko": {
-    "id": "binance-peg-xrp",
-    "platform": "binance-smart-chain"
+    "id": "binance-peg-xrp"
   },
   "coinmarketcap": {
     "id": 52,
