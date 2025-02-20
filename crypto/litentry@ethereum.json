@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "litentry@ethereum",
   "asset": "litentry",
   "platform": "ethereum",
