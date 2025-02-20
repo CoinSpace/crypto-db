@@ -11,10 +11,6 @@
   "changelly": {
     "ticker": "lit"
   },
-  "changenow": {
-    "ticker": "lit",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "litentry",
     "platform": "ethereum"

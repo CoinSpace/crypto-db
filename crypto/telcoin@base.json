@@ -1,0 +1,18 @@
+{
+  "_id": "telcoin@base",
+  "asset": "telcoin",
+  "platform": "base",
+  "type": "token",
+  "name": "Telcoin",
+  "symbol": "TEL",
+  "address": "0x09be1692ca16e06f536f0038ff11d1da8524adb1",
+  "decimals": 2,
+  "logo": "telcoin.svg",
+  "coingecko": {
+    "id": "telcoin"
+  },
+  "coinmarketcap": {
+    "id": 2394,
+    "slug": "telcoin"
+  }
+}
