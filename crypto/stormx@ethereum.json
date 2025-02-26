@@ -26,9 +26,5 @@
   "guardarian": {
     "ticker": "STMX",
     "network": "ETH"
-  },
-  "moonpay": {
-    "id": "6b47d48b-5c96-465a-9d76-88c2dd33131a",
-    "code": "stmx"
   }
 }
