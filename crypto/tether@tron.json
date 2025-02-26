@@ -37,6 +37,7 @@
     "id": "USDT_TRON"
   },
   "paybis": {
-    "id": "USDT-TRC20"
+    "id": "USDT-TRC20",
+    "sell": true
   }
 }

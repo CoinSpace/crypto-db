@@ -26,5 +26,8 @@
   "guardarian": {
     "ticker": "RPL",
     "network": "ETH"
+  },
+  "paybis": {
+    "id": "RPL"
   }
 }

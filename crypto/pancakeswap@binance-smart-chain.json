@@ -26,5 +26,8 @@
   "guardarian": {
     "ticker": "CAKE",
     "network": "BSC"
+  },
+  "paybis": {
+    "id": "CAKE"
   }
 }

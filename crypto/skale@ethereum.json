@@ -22,5 +22,8 @@
   "coinmarketcap": {
     "id": 5691,
     "slug": "skale-network"
+  },
+  "paybis": {
+    "id": "SKL"
   }
 }

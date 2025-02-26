@@ -34,5 +34,8 @@
   },
   "onramper": {
     "id": "AVAX_AVAXC"
+  },
+  "paybis": {
+    "id": "AVAX"
   }
 }

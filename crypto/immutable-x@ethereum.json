@@ -30,5 +30,8 @@
   "moonpay": {
     "id": "35d2dea8-c349-4024-8e79-8faf77c2668a",
     "code": "imx"
+  },
+  "paybis": {
+    "id": "IMX"
   }
 }

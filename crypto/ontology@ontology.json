@@ -25,5 +25,8 @@
   "guardarian": {
     "ticker": "ONT",
     "network": "ONT"
+  },
+  "paybis": {
+    "id": "ONT"
   }
 }

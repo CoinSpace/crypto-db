@@ -21,5 +21,8 @@
   "coinmarketcap": {
     "id": 23635,
     "slug": "binaryx-new"
+  },
+  "paybis": {
+    "id": "BNX"
   }
 }

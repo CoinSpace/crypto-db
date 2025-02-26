@@ -42,6 +42,7 @@
     "id": "BTC"
   },
   "paybis": {
-    "id": "BTC"
+    "id": "BTC",
+    "sell": true
   }
 }

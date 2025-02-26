@@ -1,0 +1,22 @@
+{
+  "_id": "kaito@base",
+  "asset": "kaito",
+  "platform": "base",
+  "type": "token",
+  "name": "KAITO",
+  "symbol": "KAITO",
+  "address": "0x98d0baa52b2d063e780de12f615f963fe8537553",
+  "decimals": 18,
+  "logo": "kaito.svg",
+  "changenow": {
+    "ticker": "kaito",
+    "network": "base"
+  },
+  "coingecko": {
+    "id": "kaito"
+  },
+  "coinmarketcap": {
+    "id": 35763,
+    "slug": "kaito"
+  }
+}

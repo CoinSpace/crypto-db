@@ -26,5 +26,8 @@
   "guardarian": {
     "ticker": "NEXO",
     "network": "ETH"
+  },
+  "paybis": {
+    "id": "NEXO"
   }
 }

@@ -25,5 +25,8 @@
   "guardarian": {
     "ticker": "SSV",
     "network": "ETH"
+  },
+  "paybis": {
+    "id": "SSV"
   }
 }

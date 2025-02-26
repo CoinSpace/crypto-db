@@ -26,5 +26,8 @@
   "guardarian": {
     "ticker": "WOO",
     "network": "ETH"
+  },
+  "paybis": {
+    "id": "WOO"
   }
 }

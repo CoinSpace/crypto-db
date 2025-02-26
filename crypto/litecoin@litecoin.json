@@ -42,6 +42,7 @@
     "id": "LTC_LITECOIN"
   },
   "paybis": {
-    "id": "LTC"
+    "id": "LTC",
+    "sell": true
   }
 }

@@ -26,5 +26,8 @@
   "guardarian": {
     "ticker": "MASK",
     "network": "ETH"
+  },
+  "paybis": {
+    "id": "MASK"
   }
 }

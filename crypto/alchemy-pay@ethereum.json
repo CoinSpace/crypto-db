@@ -26,5 +26,8 @@
   "guardarian": {
     "ticker": "ACH",
     "network": "ETH"
+  },
+  "paybis": {
+    "id": "ACH"
   }
 }

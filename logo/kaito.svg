@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
+  <mask id="kaito_svg__a" width="20" height="20" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:alpha">
+    <circle cx="10" cy="10" r="10" fill="#130D27"/>
+  </mask>
+  <g mask="url(#kaito_svg__a)">
+    <circle cx="10" cy="10" r="10" fill="#020202"/>
+    <g filter="url(#kaito_svg__b)" opacity=".3">
+      <path fill="#32FFDC" d="M5 22.878 20.76 9l7.27 8.255-15.76 13.879z"/>
+    </g>
+    <g filter="url(#kaito_svg__c)" opacity=".3">
+      <path fill="#32FFDC" d="M-13 5.416 9.048-14l10.17 11.55-22.046 19.415z"/>
+    </g>
+  </g>
+  <path fill="#32FFDC" fill-rule="evenodd" d="M4 5.513c0-.56.486-1.013 1.084-1.013h2.35c.598 0 1.084.454 1.084 1.013v1.386c0 .56.485 1.013 1.084 1.013h1.544c.284 0 .557-.104.76-.29l.77-.705A.98.98 0 0 0 13 6.194v-.681c0-.56.486-1.013 1.084-1.013h.832c.599 0 1.084.454 1.084 1.013v.724c0 .56-.485 1.013-1.084 1.013h-.73c-.284 0-.556.104-.759.29l-.86.789a.98.98 0 0 0-.326.723v1.911a.98.98 0 0 0 .325.723l.844.774c.203.186.476.29.76.29h.746c.599 0 1.084.453 1.084 1.013v.724c0 .56-.485 1.013-1.084 1.013h-.832c-.598 0-1.084-.454-1.084-1.013v-.666a.98.98 0 0 0-.325-.723l-.823-.754a1.13 1.13 0 0 0-.759-.29h-1.49c-.6 0-1.085.453-1.085 1.013v1.42c0 .56-.486 1.013-1.084 1.013h-2.35C4.485 15.5 4 15.047 4 14.487v-2.116c0-.559.485-1.012 1.084-1.012H6.64c.599 0 1.084-.454 1.084-1.013v-.692c0-.559-.485-1.013-1.084-1.013H5.084C4.486 8.641 4 8.188 4 7.628z" clip-rule="evenodd"/>
+  <defs>
+    <filter id="kaito_svg__b" width="43.093" height="42.196" x="-5.031" y="-1.031" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feGaussianBlur result="effect1_foregroundBlur_11156_13532" stdDeviation="5.016"/>
+    </filter>
+    <filter id="kaito_svg__c" width="52.281" height="51.027" x="-23.031" y="-24.031" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feGaussianBlur result="effect1_foregroundBlur_11156_13532" stdDeviation="5.016"/>
+    </filter>
+  </defs>
+</svg>

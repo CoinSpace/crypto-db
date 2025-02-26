@@ -26,5 +26,8 @@
   "guardarian": {
     "ticker": "AUDIO",
     "network": "ETH"
+  },
+  "paybis": {
+    "id": "AUDIO"
   }
 }

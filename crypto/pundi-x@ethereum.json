@@ -22,5 +22,8 @@
   "coinmarketcap": {
     "id": 9040,
     "slug": "pundix-new"
+  },
+  "paybis": {
+    "id": "PUNDIX"
   }
 }

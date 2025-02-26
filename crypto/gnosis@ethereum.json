@@ -26,5 +26,8 @@
   "guardarian": {
     "ticker": "GNO",
     "network": "ETH"
+  },
+  "paybis": {
+    "id": "GNO"
   }
 }

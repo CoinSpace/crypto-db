@@ -42,6 +42,7 @@
     "id": "ADA_CARDANO"
   },
   "paybis": {
-    "id": "ADA"
+    "id": "ADA",
+    "sell": true
   }
 }

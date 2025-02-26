@@ -43,6 +43,7 @@
     "id": "USDC_ETHEREUM"
   },
   "paybis": {
-    "id": "USDC"
+    "id": "USDC",
+    "sell": true
   }
 }

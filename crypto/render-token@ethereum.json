@@ -18,5 +18,8 @@
   "coinmarketcap": {
     "id": 5690,
     "slug": "render"
+  },
+  "paybis": {
+    "id": "RNDR"
   }
 }

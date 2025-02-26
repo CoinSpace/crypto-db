@@ -26,5 +26,8 @@
   "guardarian": {
     "ticker": "STORJ",
     "network": "ETH"
+  },
+  "paybis": {
+    "id": "STORJ"
   }
 }

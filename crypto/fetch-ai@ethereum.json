@@ -27,5 +27,8 @@
   "moonpay": {
     "id": "978a3e8a-9c51-47cb-98bc-802d0a2a67ab",
     "code": "fet_eth"
+  },
+  "paybis": {
+    "id": "FET"
   }
 }

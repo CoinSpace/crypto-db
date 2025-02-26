@@ -22,5 +22,8 @@
   "coinmarketcap": {
     "id": 6953,
     "slug": "frax-share"
+  },
+  "paybis": {
+    "id": "FXS"
   }
 }

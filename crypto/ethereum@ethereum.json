@@ -43,6 +43,7 @@
     "id": "ETH"
   },
   "paybis": {
-    "id": "ETH"
+    "id": "ETH",
+    "sell": true
   }
 }

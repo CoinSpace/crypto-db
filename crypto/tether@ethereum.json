@@ -43,6 +43,7 @@
     "id": "USDT_ETHEREUM"
   },
   "paybis": {
-    "id": "USDT"
+    "id": "USDT",
+    "sell": true
   }
 }

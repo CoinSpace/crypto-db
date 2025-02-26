@@ -26,5 +26,8 @@
   "guardarian": {
     "ticker": "TWT",
     "network": "BSC"
+  },
+  "paybis": {
+    "id": "TWT"
   }
 }

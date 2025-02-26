@@ -36,5 +36,9 @@
   },
   "onramper": {
     "id": "USDC_POLYGON"
+  },
+  "paybis": {
+    "id": "USDC-POLYGON",
+    "sell": true
   }
 }

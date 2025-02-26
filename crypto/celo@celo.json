@@ -29,5 +29,8 @@
   "moonpay": {
     "id": "ef3f48ee-120e-4b74-b1a3-086cb4230184",
     "code": "celo"
+  },
+  "paybis": {
+    "id": "CELO"
   }
 }

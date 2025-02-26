@@ -30,5 +30,8 @@
   "moonpay": {
     "id": "3cf64771-3a6b-4775-a47e-71496cb52358",
     "code": "qnt_eth"
+  },
+  "paybis": {
+    "id": "QNT"
   }
 }

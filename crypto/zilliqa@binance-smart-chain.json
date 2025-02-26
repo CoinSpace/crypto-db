@@ -23,5 +23,8 @@
   "guardarian": {
     "ticker": "ZIL",
     "network": "BSC"
+  },
+  "paybis": {
+    "id": "ZIL"
   }
 }

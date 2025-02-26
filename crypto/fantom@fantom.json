@@ -17,5 +17,8 @@
   "guardarian": {
     "ticker": "FTM",
     "network": "FTM"
+  },
+  "paybis": {
+    "id": "FTM"
   }
 }

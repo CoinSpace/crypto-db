@@ -26,5 +26,8 @@
   "guardarian": {
     "ticker": "CVX",
     "network": "ETH"
+  },
+  "paybis": {
+    "id": "CVX"
   }
 }

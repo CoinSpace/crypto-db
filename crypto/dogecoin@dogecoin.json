@@ -42,6 +42,7 @@
     "id": "DOGE_DOGECOIN"
   },
   "paybis": {
-    "id": "DOGE"
+    "id": "DOGE",
+    "sell": true
   }
 }
