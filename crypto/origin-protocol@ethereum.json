@@ -26,8 +26,5 @@
   "guardarian": {
     "ticker": "OGN",
     "network": "ETH"
-  },
-  "paybis": {
-    "id": "OGN"
   }
 }

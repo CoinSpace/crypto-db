@@ -26,8 +26,5 @@
   "guardarian": {
     "ticker": "UMA",
     "network": "ETH"
-  },
-  "paybis": {
-    "id": "UMA"
   }
 }

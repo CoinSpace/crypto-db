@@ -26,8 +26,5 @@
   "guardarian": {
     "ticker": "LRC",
     "network": "ETH"
-  },
-  "paybis": {
-    "id": "LRC"
   }
 }
