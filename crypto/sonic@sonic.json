@@ -18,8 +18,15 @@
     "id": 32684,
     "slug": "sonic"
   },
+  "guardarian": {
+    "ticker": "S",
+    "network": "SONIC"
+  },
   "moonpay": {
     "id": "fe299b58-1a2d-48ae-9daf-60f9bcad65e6",
     "code": "s_sonic"
+  },
+  "onramper": {
+    "id": "SONIC_SONIC"
   }
 }
