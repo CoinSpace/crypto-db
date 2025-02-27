@@ -1,3 +1,53 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 309.99 309.99">
-  <path d="m180.26 185.07.03-.02s-.03.02-.05.03h.03Zm-.02.01c-46.81 14.06-85.52 34.57-109.77 58.59l-1.07 1.07c6.45 6.1 13.52 11.56 21.16 16.2l1.64-2.01a310 310 0 0 1 21.11-23.26c19.83-19.76 42.51-36.86 66.93-50.59m5.41-20.84H31.12A123.04 123.04 0 0 0 56.91 231l.67-.67c15.01-14.81 34.55-28.27 58.12-40 20.66-10.29 44.38-19.12 69.95-26.09M126.41 61.2c41.89 41.74 94.61 69.34 152.44 79.81C271.88 79.13 219.21 31 155.21 31c-16.9 0-33.01 3.37-47.72 9.45 5.97 7.19 12.35 14.19 18.92 20.76Zm-55.94 5.11c24.25 24.06 62.98 44.54 109.8 58.63-24.44-13.76-47.14-30.85-66.98-50.62a313 313 0 0 1-21.11-23.26l-1.64-2.01a124.6 124.6 0 0 0-21.13 16.19l1.07 1.07zm55.94 182.47c-6.6 6.57-12.97 13.57-18.92 20.76 14.69 6.08 30.82 9.45 47.72 9.45 64 0 116.67-48.14 123.66-110.04-57.82 10.47-110.54 38.07-152.44 79.81zm-10.74-129.16v.02c-23.55-11.73-43.08-25.2-58.09-39.99l-.67-.67a123.04 123.04 0 0 0-25.79 66.76h154.5c-25.56-6.97-49.26-15.8-69.95-26.12"/>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
+  <circle cx="10" cy="10" r="10" fill="#000"/>
+  <path fill="url(#sonic_svg__a)" d="M11.94 12.305c-3.592 1.077-6.562 2.648-8.421 4.49l-.082.081a9.6 9.6 0 0 0 1.622 1.241l.126-.154a24 24 0 0 1 1.619-1.782 24 24 0 0 1 5.137-3.878z"/>
+  <path fill="#F5F5F5" d="M11.94 12.305c-3.592 1.077-6.562 2.648-8.421 4.49l-.082.081a9.6 9.6 0 0 0 1.622 1.241l.126-.154a24 24 0 0 1 1.619-1.782 24 24 0 0 1 5.137-3.878z"/>
+  <path fill="url(#sonic_svg__b)" d="M.5 10.709a9.4 9.4 0 0 0 1.978 5.115l.051-.051c1.151-1.135 2.65-2.166 4.458-3.065 1.584-.789 3.403-1.465 5.364-1.999z"/>
+  <path fill="#F5F5F5" d="M.5 10.709a9.4 9.4 0 0 0 1.978 5.115l.051-.051c1.151-1.135 2.65-2.166 4.458-3.065 1.584-.789 3.403-1.465 5.364-1.999z"/>
+  <path fill="url(#sonic_svg__c)" d="M7.807 2.814A22.1 22.1 0 0 0 19.498 8.93C18.963 4.188 14.924.5 10.016.5a9.6 9.6 0 0 0-3.66.724c.459.551.947 1.087 1.451 1.59"/>
+  <path fill="#F5F5F5" d="M7.807 2.814A22.1 22.1 0 0 0 19.498 8.93C18.963 4.188 14.924.5 10.016.5a9.6 9.6 0 0 0-3.66.724c.459.551.947 1.087 1.451 1.59"/>
+  <path fill="url(#sonic_svg__d)" d="M3.519 3.206c1.859 1.843 4.83 3.413 8.42 4.492A24 24 0 0 1 6.802 3.82a24 24 0 0 1-1.619-1.782l-.126-.154a9.6 9.6 0 0 0-1.62 1.24z"/>
+  <path fill="#F5F5F5" d="M3.519 3.206c1.859 1.843 4.83 3.413 8.42 4.492A24 24 0 0 1 6.802 3.82a24 24 0 0 1-1.619-1.782l-.126-.154a9.6 9.6 0 0 0-1.62 1.24z"/>
+  <path fill="url(#sonic_svg__e)" d="M7.807 17.186a23 23 0 0 0-1.45 1.59 9.6 9.6 0 0 0 3.659.724c4.908 0 8.948-3.688 9.484-8.43a22.1 22.1 0 0 0-11.69 6.114z"/>
+  <path fill="#F5F5F5" d="M7.807 17.186a23 23 0 0 0-1.45 1.59 9.6 9.6 0 0 0 3.659.724c4.908 0 8.948-3.688 9.484-8.43a22.1 22.1 0 0 0-11.69 6.114z"/>
+  <path fill="url(#sonic_svg__f)" d="M6.987 7.293c-1.808-.899-3.307-1.93-4.458-3.065l-.051-.051A9.4 9.4 0 0 0 .5 9.292h11.85c-1.961-.534-3.779-1.21-5.365-2.001z"/>
+  <path fill="#F5F5F5" d="M6.987 7.293c-1.808-.899-3.307-1.93-4.458-3.065l-.051-.051A9.4 9.4 0 0 0 .5 9.292h11.85c-1.961-.534-3.779-1.21-5.365-2.001z"/>
+  <defs>
+    <radialGradient id="sonic_svg__a" cx="0" cy="0" r="1" gradientTransform="matrix(0 9.50036 -9.50013 0 10 10)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1C294B"/>
+      <stop offset=".317" stop-color="#F43"/>
+      <stop offset=".597" stop-color="#FE9A4C"/>
+      <stop offset="1" stop-color="#E0E0E0"/>
+    </radialGradient>
+    <radialGradient id="sonic_svg__b" cx="0" cy="0" r="1" gradientTransform="matrix(0 9.50036 -9.50013 0 10 10)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1C294B"/>
+      <stop offset=".317" stop-color="#F43"/>
+      <stop offset=".597" stop-color="#FE9A4C"/>
+      <stop offset="1" stop-color="#E0E0E0"/>
+    </radialGradient>
+    <radialGradient id="sonic_svg__c" cx="0" cy="0" r="1" gradientTransform="matrix(0 9.50036 -9.50013 0 10 10)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1C294B"/>
+      <stop offset=".317" stop-color="#F43"/>
+      <stop offset=".597" stop-color="#FE9A4C"/>
+      <stop offset="1" stop-color="#E0E0E0"/>
+    </radialGradient>
+    <radialGradient id="sonic_svg__d" cx="0" cy="0" r="1" gradientTransform="matrix(0 9.50036 -9.50013 0 10 10)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1C294B"/>
+      <stop offset=".317" stop-color="#F43"/>
+      <stop offset=".597" stop-color="#FE9A4C"/>
+      <stop offset="1" stop-color="#E0E0E0"/>
+    </radialGradient>
+    <radialGradient id="sonic_svg__e" cx="0" cy="0" r="1" gradientTransform="matrix(0 9.50036 -9.50013 0 10 10)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1C294B"/>
+      <stop offset=".317" stop-color="#F43"/>
+      <stop offset=".597" stop-color="#FE9A4C"/>
+      <stop offset="1" stop-color="#E0E0E0"/>
+    </radialGradient>
+    <radialGradient id="sonic_svg__f" cx="0" cy="0" r="1" gradientTransform="matrix(0 9.50036 -9.50013 0 10 10)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1C294B"/>
+      <stop offset=".317" stop-color="#F43"/>
+      <stop offset=".597" stop-color="#FE9A4C"/>
+      <stop offset="1" stop-color="#E0E0E0"/>
+    </radialGradient>
+  </defs>
 </svg>
