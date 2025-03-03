@@ -1,0 +1,25 @@
+{
+  "_id": "grass@solana",
+  "asset": "grass",
+  "platform": "solana",
+  "type": "token",
+  "name": "Grass",
+  "symbol": "GRASS",
+  "address": "Grass7B4RdKfBCjTKgSqnXkqjwiGvQyFbuSCUJr3XXjs",
+  "decimals": 9,
+  "logo": "grass.svg",
+  "changelly": {
+    "ticker": "grass"
+  },
+  "changenow": {
+    "ticker": "grass",
+    "network": "sol"
+  },
+  "coingecko": {
+    "id": "grass"
+  },
+  "coinmarketcap": {
+    "id": 32956,
+    "slug": "grass"
+  }
+}
