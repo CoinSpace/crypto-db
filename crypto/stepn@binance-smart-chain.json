@@ -25,9 +25,5 @@
   "guardarian": {
     "ticker": "GMT",
     "network": "BSC"
-  },
-  "moonpay": {
-    "id": "bb93eb9c-dedc-4af3-b274-6cf93296b73a",
-    "code": "gmt_bsc"
   }
 }
