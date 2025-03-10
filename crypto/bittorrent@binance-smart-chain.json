@@ -22,9 +22,5 @@
   "guardarian": {
     "ticker": "BTTC",
     "network": "BSC"
-  },
-  "moonpay": {
-    "id": "228922fd-0ab4-4308-8b7d-e83b4a472bdc",
-    "code": "btt_bsc"
   }
 }
