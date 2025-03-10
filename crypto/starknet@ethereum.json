@@ -14,9 +14,5 @@
   "coinmarketcap": {
     "id": 22691,
     "slug": "starknet-token"
-  },
-  "moonpay": {
-    "id": "10ae164e-d763-410f-84b4-1889a85cf6be",
-    "code": "strk_eth"
   }
 }
