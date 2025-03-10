@@ -27,10 +27,6 @@
     "ticker": "JASMY",
     "network": "ETH"
   },
-  "moonpay": {
-    "id": "81820059-f0ef-4bec-b0cf-6ec273ea77f5",
-    "code": "jasmy_eth"
-  },
   "paybis": {
     "id": "JASMY"
   }
