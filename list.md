@@ -2056,6 +2056,33 @@
 </ul></td>
 </tr>
 <tr>
+<td><img src="logo/rbtc.svg" width="128px" height="128px"/></td>
+<td><ul>
+<li>ID: rbtc@rootstock</li>
+<li>Name: RBTC</li>
+<li>Symbol: RBTC</li>
+<li>Platform: rootstock</li>
+</ul></td>
+<td><ul>
+<li><a href="https://www.coingecko.com/en/coins/rootstock-smart-bitcoin">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/rsk-smart-bitcoin">coinmarketcap</a></li>
+</ul></td>
+</tr>
+<tr>
+<tr>
+<td><img src="logo/rif.svg" width="128px" height="128px"/></td>
+<td><ul>
+<li>ID: rif@rootstock</li>
+<li>Name: RIF</li>
+<li>Symbol: RIF</li>
+<li>Platform: rootstock</li>
+</ul></td>
+<td><ul>
+<li><a href="https://www.coingecko.com/en/coins/rsk-infrastructure-framework">coingecko</a></li>
+<li><a href="https://coinmarketcap.com/currencies/rsk-infrastructure-framework">coinmarketcap</a></li>
+</ul></td>
+</tr>
+<tr>
 <td><img src="logo/tia.svg" width="128px" height="128px"/></td>
 <td><ul>
 <li>ID: tia@tia</li>
