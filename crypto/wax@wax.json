@@ -11,10 +11,6 @@
   "changelly": {
     "ticker": "waxp"
   },
-  "changenow": {
-    "ticker": "waxp",
-    "network": "waxp"
-  },
   "coingecko": {
     "id": "wax"
   },
