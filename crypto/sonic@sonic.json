@@ -7,6 +7,9 @@
   "symbol": "S",
   "decimals": 18,
   "logo": "sonic.svg",
+  "changelly": {
+    "ticker": "s"
+  },
   "changenow": {
     "ticker": "s",
     "network": "sonic"
