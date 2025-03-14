@@ -7,6 +7,9 @@
   "symbol": "ETH",
   "decimals": 18,
   "logo": "arbitrum.svg",
+  "bitnovo": {
+    "id": "ETH_ARB"
+  },
   "changelly": {
     "ticker": "etharb"
   },
