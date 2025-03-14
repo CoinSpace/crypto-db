@@ -27,10 +27,6 @@
     "ticker": "TUSD",
     "network": "ETH"
   },
-  "moonpay": {
-    "id": "6e1400ae-8aa0-42be-9b4a-fb661aaf649c",
-    "code": "tusd"
-  },
   "onramper": {
     "id": "TUSD_ETHEREUM"
   }
