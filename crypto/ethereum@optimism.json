@@ -7,6 +7,9 @@
   "symbol": "ETH",
   "decimals": 18,
   "logo": "optimism.svg",
+  "bitnovo": {
+    "id": "ETH_OP"
+  },
   "changelly": {
     "ticker": "ethop"
   },
