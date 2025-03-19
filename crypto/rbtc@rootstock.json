@@ -1,0 +1,20 @@
+{
+  "_id": "rbtc@rootstock",
+  "asset": "rbtc",
+  "platform": "rootstock",
+  "type": "coin",
+  "name": "Rootstock",
+  "symbol": "rbtc",
+  "decimals": 18,
+  "logo": "rootstock.svg",
+  "coingecko": {
+    "id": "rootstock"
+  },
+  "coinmarketcap": {
+    "id": 3626,
+    "slug": "rootstock smart bitcoin"
+  },
+  "changelly": {
+    "ticker": "rbtc"
+  }
+}
