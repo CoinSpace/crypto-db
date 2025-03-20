@@ -8,9 +8,6 @@
   "decimals": 18,
   "logo": "vtho.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "vtho"
-  },
   "coingecko": {
     "id": "vethor-token"
   },
