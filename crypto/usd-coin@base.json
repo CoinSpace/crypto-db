@@ -32,5 +32,9 @@
   "moonpay": {
     "id": "6bfe9894-3fd6-409c-ab70-a70506207601",
     "code": "usdc_base"
+  },
+  "paybis": {
+    "id": "USDC-BASE",
+    "sell": true
   }
 }
