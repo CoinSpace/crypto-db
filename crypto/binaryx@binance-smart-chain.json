@@ -3,26 +3,16 @@
   "asset": "binaryx",
   "platform": "binance-smart-chain",
   "type": "token",
-  "name": "BinaryX",
-  "symbol": "BNX",
-  "address": "0x5b1f874d0b0c5ee17a495cbb70ab8bf64107a3bd",
+  "name": "Four",
+  "symbol": "FORM",
+  "address": "0x5b73a93b4e5e4f1fd27d8b3f8c97d69908b5e284",
   "decimals": 18,
   "logo": "binaryx.svg",
-  "changelly": {
-    "ticker": "bnx"
-  },
-  "changenow": {
-    "ticker": "bnx",
-    "network": "bsc"
-  },
   "coingecko": {
     "id": "binaryx-2"
   },
   "coinmarketcap": {
     "id": 23635,
     "slug": "binaryx-new"
-  },
-  "paybis": {
-    "id": "BNX"
   }
 }
