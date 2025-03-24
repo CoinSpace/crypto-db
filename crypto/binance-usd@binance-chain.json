@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "binance-usd@binance-chain",
   "asset": "binance-usd",
   "platform": "binance-chain",

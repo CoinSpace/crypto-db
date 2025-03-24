@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "thorchain@binance-chain",
   "asset": "thorchain",
   "platform": "binance-chain",
