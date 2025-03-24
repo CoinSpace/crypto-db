@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "aioz"
   },
+  "changenow": {
+    "ticker": "aioz",
+    "network": "eth"
+  },
   "coingecko": {
     "id": "aioz-network"
   },
