@@ -8,9 +8,6 @@
   "decimals": 8,
   "logo": "zilliqa.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "zil"
-  },
   "changenow": {
     "ticker": "zil",
     "network": "zil"

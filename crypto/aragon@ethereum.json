@@ -8,9 +8,6 @@
   "address": "0xa117000000f279d81a1d3cc75430faa017fa5a2e",
   "decimals": 18,
   "logo": "aragon.svg",
-  "changelly": {
-    "ticker": "ant"
-  },
   "changenow": {
     "ticker": "ant",
     "network": "eth"

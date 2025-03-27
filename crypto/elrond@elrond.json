@@ -8,9 +8,6 @@
   "decimals": 18,
   "logo": "elrond.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "egld"
-  },
   "changenow": {
     "ticker": "egld",
     "network": "egld"

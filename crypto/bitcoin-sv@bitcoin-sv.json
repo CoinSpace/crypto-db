@@ -12,10 +12,6 @@
   "changelly": {
     "ticker": "bsv"
   },
-  "changenow": {
-    "ticker": "bsv",
-    "network": "bsv"
-  },
   "coingecko": {
     "id": "bitcoin-cash-sv"
   },

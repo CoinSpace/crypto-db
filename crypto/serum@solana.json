@@ -8,9 +8,6 @@
   "address": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
   "decimals": 6,
   "logo": "serum.svg",
-  "changelly": {
-    "ticker": "srmsol"
-  },
   "changenow": {
     "ticker": "srm",
     "network": "sol"

@@ -8,9 +8,6 @@
   "decimals": 6,
   "logo": "tia.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "tia"
-  },
   "changenow": {
     "ticker": "tia",
     "network": "tia"

@@ -8,13 +8,6 @@
   "decimals": 18,
   "logo": "celo.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "celo"
-  },
-  "changenow": {
-    "ticker": "celo",
-    "network": "celo"
-  },
   "coingecko": {
     "id": "celo"
   },
