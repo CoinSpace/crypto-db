@@ -1,0 +1,18 @@
+{
+  "_id": "stp-network@base",
+  "asset": "stp-network",
+  "platform": "base",
+  "type": "token",
+  "name": "STP",
+  "symbol": "STPT",
+  "address": "0x4489d0a0345ecb216a3994de780d453c7fa6312c",
+  "decimals": 18,
+  "logo": "stp-network.svg",
+  "coingecko": {
+    "id": "stp-network"
+  },
+  "coinmarketcap": {
+    "id": 4006,
+    "slug": "standard-tokenization-protocol"
+  }
+}
