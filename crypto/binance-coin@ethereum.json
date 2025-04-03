@@ -14,5 +14,9 @@
   "coinmarketcap": {
     "id": 1839,
     "slug": "bnb"
+  },
+  "guardarian": {
+    "ticker": "BNB",
+    "network": "ETH"
   }
 }
