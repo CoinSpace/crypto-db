@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "tfuel"
   },
+  "changenow": {
+    "ticker": "tfuel",
+    "network": "theta"
+  },
   "coingecko": {
     "id": "theta-fuel"
   },
