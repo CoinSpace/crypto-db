@@ -11,10 +11,6 @@
   "changelly": {
     "ticker": "firo"
   },
-  "changenow": {
-    "ticker": "firo",
-    "network": "firo"
-  },
   "coingecko": {
     "id": "zcoin"
   },
