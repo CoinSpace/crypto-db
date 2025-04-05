@@ -8,6 +8,9 @@
   "address": "0x5b73a93b4e5e4f1fd27d8b3f8c97d69908b5e284",
   "decimals": 18,
   "logo": "binaryx.svg",
+  "changelly": {
+    "ticker": "form"
+  },
   "changenow": {
     "ticker": "form",
     "network": "bsc"
