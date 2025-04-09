@@ -8,6 +8,9 @@
   "address": "0x3ee2200efb3400fabb9aacf31297cbdd1d435d47",
   "decimals": 18,
   "logo": "cardano.svg",
+  "changelly": {
+    "ticker": "adabsc"
+  },
   "changenow": {
     "ticker": "ada",
     "network": "bsc"
