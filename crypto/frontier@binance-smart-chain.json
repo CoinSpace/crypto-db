@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "frontier@binance-smart-chain",
   "asset": "frontier",
   "platform": "binance-smart-chain",
@@ -7,7 +8,6 @@
   "symbol": "FRONT",
   "address": "0x928e55dab735aa8260af3cedada18b5f70c72f1b",
   "decimals": 18,
-  "logo": "frontier.png",
   "coingecko": {
     "id": "frontier-token",
     "platform": "binance-smart-chain"
@@ -15,9 +15,5 @@
   "coinmarketcap": {
     "id": 5893,
     "slug": "frontier"
-  },
-  "guardarian": {
-    "ticker": "FRONT",
-    "network": "BSC"
   }
 }

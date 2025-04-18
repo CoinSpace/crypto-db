@@ -7,7 +7,7 @@
   "symbol": "SOLO",
   "address": "rsoLo2S1kiGeCcn6hCUXVrCpGMWLrRrLZz",
   "decimals": 15,
-  "logo": "sologenic.png",
+  "logo": "sologenic.svg",
   "supported": false,
   "changelly": {
     "ticker": "solo"
