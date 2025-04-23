@@ -11,10 +11,6 @@
   "changelly": {
     "ticker": "ark"
   },
-  "changenow": {
-    "ticker": "ark",
-    "network": "ark"
-  },
   "coingecko": {
     "id": "ark"
   },
