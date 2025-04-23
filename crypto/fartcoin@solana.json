@@ -21,5 +21,8 @@
   "coinmarketcap": {
     "id": 33597,
     "slug": "fartcoin"
+  },
+  "onramper": {
+    "id": "fartcoin_solana"
   }
 }

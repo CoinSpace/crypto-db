@@ -25,5 +25,8 @@
   "guardarian": {
     "ticker": "TFUEL",
     "network": "THETA"
+  },
+  "onramper": {
+    "id": "tfuel_theta"
   }
 }

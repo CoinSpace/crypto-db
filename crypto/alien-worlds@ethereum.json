@@ -22,5 +22,8 @@
   "guardarian": {
     "ticker": "TLM",
     "network": "ETH"
+  },
+  "onramper": {
+    "id": "tlm_ethereum"
   }
 }

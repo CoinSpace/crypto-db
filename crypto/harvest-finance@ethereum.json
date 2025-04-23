@@ -26,5 +26,8 @@
   "guardarian": {
     "ticker": "FARM",
     "network": "ETH"
+  },
+  "onramper": {
+    "id": "farm_ethereum"
   }
 }

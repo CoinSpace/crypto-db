@@ -27,6 +27,9 @@
     "ticker": "QNT",
     "network": "ETH"
   },
+  "onramper": {
+    "id": "qnt_ethereum"
+  },
   "paybis": {
     "id": "QNT"
   }

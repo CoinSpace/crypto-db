@@ -23,5 +23,8 @@
   "guardarian": {
     "ticker": "ANKR",
     "network": "BSC"
+  },
+  "onramper": {
+    "id": "ankr_bsc"
   }
 }

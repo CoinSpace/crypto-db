@@ -23,5 +23,8 @@
   "guardarian": {
     "ticker": "SUPER",
     "network": "ETH"
+  },
+  "onramper": {
+    "id": "super_ethereum"
   }
 }

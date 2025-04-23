@@ -23,5 +23,8 @@
   "guardarian": {
     "ticker": "ALICE",
     "network": "BSC"
+  },
+  "onramper": {
+    "id": "alice_bsc"
   }
 }

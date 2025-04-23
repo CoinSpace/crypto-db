@@ -23,6 +23,9 @@
     "id": 6953,
     "slug": "frax-share"
   },
+  "onramper": {
+    "id": "fxs_ethereum"
+  },
   "paybis": {
     "id": "FXS"
   }

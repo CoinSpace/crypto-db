@@ -26,5 +26,8 @@
   "guardarian": {
     "ticker": "BAKE",
     "network": "BSC"
+  },
+  "onramper": {
+    "id": "bake_bsc"
   }
 }

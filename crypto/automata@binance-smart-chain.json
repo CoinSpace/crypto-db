@@ -26,5 +26,8 @@
   "guardarian": {
     "ticker": "ATA",
     "network": "BSC"
+  },
+  "onramper": {
+    "id": "ata_bsc"
   }
 }

@@ -23,5 +23,8 @@
   "guardarian": {
     "ticker": "BEL",
     "network": "BSC"
+  },
+  "onramper": {
+    "id": "bel_bsc"
   }
 }

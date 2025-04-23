@@ -22,5 +22,8 @@
   "guardarian": {
     "ticker": "BTTC",
     "network": "BSC"
+  },
+  "onramper": {
+    "id": "btt_bsc"
   }
 }

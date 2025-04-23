@@ -14,5 +14,8 @@
   "coinmarketcap": {
     "id": 2300,
     "slug": "wax"
+  },
+  "onramper": {
+    "id": "waxp_ethereum"
   }
 }

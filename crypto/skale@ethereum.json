@@ -23,6 +23,9 @@
     "id": 5691,
     "slug": "skale-network"
   },
+  "onramper": {
+    "id": "skl_ethereum"
+  },
   "paybis": {
     "id": "SKL"
   }

@@ -29,5 +29,8 @@
   "moonpay": {
     "id": "af8f6a3e-6d4b-4b68-ae43-e967d3c76e41",
     "code": "theta_theta"
+  },
+  "onramper": {
+    "id": "theta_theta"
   }
 }

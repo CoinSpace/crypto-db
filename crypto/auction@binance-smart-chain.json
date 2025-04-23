@@ -18,5 +18,8 @@
   "coinmarketcap": {
     "id": 8602,
     "slug": "bounce-token"
+  },
+  "onramper": {
+    "id": "auction_bsc"
   }
 }

@@ -22,5 +22,8 @@
   "coinmarketcap": {
     "id": 11568,
     "slug": "adventure-gold"
+  },
+  "onramper": {
+    "id": "agld_ethereum"
   }
 }

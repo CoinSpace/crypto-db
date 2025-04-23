@@ -34,5 +34,8 @@
   "moonpay": {
     "id": "7bbb6187-53ef-4a89-a1a2-e10ccc1d64ca",
     "code": "near"
+  },
+  "onramper": {
+    "id": "near_near"
   }
 }

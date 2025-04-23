@@ -26,5 +26,8 @@
   "guardarian": {
     "ticker": "REN",
     "network": "ETH"
+  },
+  "onramper": {
+    "id": "ren_ethereum"
   }
 }

@@ -26,6 +26,9 @@
     "ticker": "SSV",
     "network": "ETH"
   },
+  "onramper": {
+    "id": "ssv_ethereum"
+  },
   "paybis": {
     "id": "SSV"
   }

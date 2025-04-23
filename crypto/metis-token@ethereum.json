@@ -22,5 +22,8 @@
   "coinmarketcap": {
     "id": 9640,
     "slug": "metisdao"
+  },
+  "onramper": {
+    "id": "metis_ethereum"
   }
 }

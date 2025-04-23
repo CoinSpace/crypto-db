@@ -22,5 +22,8 @@
   "guardarian": {
     "ticker": "YFI",
     "network": "BSC"
+  },
+  "onramper": {
+    "id": "yfi_bsc"
   }
 }

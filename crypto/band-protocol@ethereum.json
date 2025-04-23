@@ -26,5 +26,8 @@
   "guardarian": {
     "ticker": "BAND",
     "network": "ETH"
+  },
+  "onramper": {
+    "id": "band_ethereum"
   }
 }

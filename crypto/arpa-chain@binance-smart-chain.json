@@ -18,5 +18,8 @@
   "coinmarketcap": {
     "id": 4039,
     "slug": "arpa-chain"
+  },
+  "onramper": {
+    "id": "arpa_bsc"
   }
 }

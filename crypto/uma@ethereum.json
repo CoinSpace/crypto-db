@@ -26,5 +26,8 @@
   "guardarian": {
     "ticker": "UMA",
     "network": "ETH"
+  },
+  "onramper": {
+    "id": "uma_ethereum"
   }
 }

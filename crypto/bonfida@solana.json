@@ -26,5 +26,8 @@
   "guardarian": {
     "ticker": "FIDA",
     "network": "SOL"
+  },
+  "onramper": {
+    "id": "fida_solana"
   }
 }

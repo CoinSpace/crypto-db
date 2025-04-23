@@ -26,5 +26,8 @@
   "guardarian": {
     "ticker": "DENT",
     "network": "ETH"
+  },
+  "onramper": {
+    "id": "dent_ethereum"
   }
 }

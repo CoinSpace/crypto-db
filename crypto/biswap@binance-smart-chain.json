@@ -26,5 +26,8 @@
   "guardarian": {
     "ticker": "BSW",
     "network": "BSC"
+  },
+  "onramper": {
+    "id": "bsw_bsc"
   }
 }

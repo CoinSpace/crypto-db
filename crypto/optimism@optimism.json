@@ -25,5 +25,8 @@
   "guardarian": {
     "ticker": "OP",
     "network": "OP"
+  },
+  "onramper": {
+    "id": "op_optimism"
   }
 }

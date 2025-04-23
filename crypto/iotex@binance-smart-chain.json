@@ -19,5 +19,8 @@
   "coinmarketcap": {
     "id": 2777,
     "slug": "iotex"
+  },
+  "onramper": {
+    "id": "iotx_bsc"
   }
 }

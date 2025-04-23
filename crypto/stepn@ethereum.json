@@ -22,5 +22,8 @@
   "guardarian": {
     "ticker": "GMT",
     "network": "ETH"
+  },
+  "onramper": {
+    "id": "gmt_ethereum"
   }
 }

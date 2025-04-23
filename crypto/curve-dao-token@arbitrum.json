@@ -22,5 +22,8 @@
   "guardarian": {
     "ticker": "CRV",
     "network": "ARBITRUM"
+  },
+  "onramper": {
+    "id": "crv_arbitrum"
   }
 }

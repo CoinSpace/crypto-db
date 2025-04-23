@@ -30,5 +30,8 @@
   "moonpay": {
     "id": "f3751fcc-7864-489b-80ca-4fc372b0dab1",
     "code": "okb"
+  },
+  "onramper": {
+    "id": "okb_ethereum"
   }
 }

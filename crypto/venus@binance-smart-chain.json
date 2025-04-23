@@ -22,5 +22,8 @@
   "coinmarketcap": {
     "id": 7288,
     "slug": "venus"
+  },
+  "onramper": {
+    "id": "xvs_bsc"
   }
 }

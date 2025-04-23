@@ -22,5 +22,8 @@
   "guardarian": {
     "ticker": "VET",
     "network": "BSC"
+  },
+  "onramper": {
+    "id": "vet_bsc"
   }
 }

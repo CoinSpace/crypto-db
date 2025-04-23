@@ -32,5 +32,8 @@
   "moonpay": {
     "id": "1e3d1c47-0f93-4e50-a43e-987177f2c53a",
     "code": "usdt_optimism"
+  },
+  "onramper": {
+    "id": "usdt_optimism"
   }
 }

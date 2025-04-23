@@ -26,5 +26,8 @@
   "moonpay": {
     "id": "caba4db6-09f5-4f8d-8231-b036f08d94ae",
     "code": "arb"
+  },
+  "onramper": {
+    "id": "arb_ethereum"
   }
 }

@@ -23,5 +23,8 @@
   "guardarian": {
     "ticker": "ATA",
     "network": "ETH"
+  },
+  "onramper": {
+    "id": "ata_ethereum"
   }
 }

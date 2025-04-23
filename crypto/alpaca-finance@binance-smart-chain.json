@@ -26,5 +26,8 @@
   "guardarian": {
     "ticker": "ALPACA",
     "network": "BSC"
+  },
+  "onramper": {
+    "id": "alpaca_bsc"
   }
 }

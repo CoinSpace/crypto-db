@@ -22,5 +22,8 @@
   "coinmarketcap": {
     "id": 10688,
     "slug": "yield-guild-games"
+  },
+  "onramper": {
+    "id": "ygg_ethereum"
   }
 }

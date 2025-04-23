@@ -27,6 +27,9 @@
     "ticker": "ACH",
     "network": "ETH"
   },
+  "onramper": {
+    "id": "ach_ethereum"
+  },
   "paybis": {
     "id": "ACH"
   }

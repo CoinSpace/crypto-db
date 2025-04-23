@@ -23,5 +23,8 @@
   "guardarian": {
     "ticker": "COMP",
     "network": "BSC"
+  },
+  "onramper": {
+    "id": "comp_bsc"
   }
 }

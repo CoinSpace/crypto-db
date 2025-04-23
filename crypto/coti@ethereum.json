@@ -26,5 +26,8 @@
   "guardarian": {
     "ticker": "COTI",
     "network": "ETH"
+  },
+  "onramper": {
+    "id": "coti_ethereum"
   }
 }

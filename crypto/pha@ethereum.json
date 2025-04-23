@@ -22,5 +22,8 @@
   "coinmarketcap": {
     "id": 6841,
     "slug": "phala-network"
+  },
+  "onramper": {
+    "id": "pha_ethereum"
   }
 }

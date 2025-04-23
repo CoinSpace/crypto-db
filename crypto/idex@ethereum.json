@@ -22,5 +22,8 @@
   "coinmarketcap": {
     "id": 3928,
     "slug": "idex"
+  },
+  "onramper": {
+    "id": "idex_ethereum"
   }
 }

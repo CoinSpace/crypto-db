@@ -19,5 +19,8 @@
   "coinmarketcap": {
     "id": 2280,
     "slug": "filecoin"
+  },
+  "onramper": {
+    "id": "fil_bsc"
   }
 }

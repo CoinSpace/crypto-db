@@ -25,5 +25,8 @@
   "guardarian": {
     "ticker": "XVG",
     "network": "XVG"
+  },
+  "onramper": {
+    "id": "xvg_verge"
   }
 }

@@ -22,5 +22,8 @@
   "coinmarketcap": {
     "id": 9421,
     "slug": "ampleforth-governance-token"
+  },
+  "onramper": {
+    "id": "forth_ethereum"
   }
 }

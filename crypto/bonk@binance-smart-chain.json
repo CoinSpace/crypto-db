@@ -18,5 +18,8 @@
   "coinmarketcap": {
     "id": 23095,
     "slug": "bonk1"
+  },
+  "onramper": {
+    "id": "bonk_bsc"
   }
 }

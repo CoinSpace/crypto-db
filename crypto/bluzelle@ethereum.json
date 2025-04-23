@@ -26,5 +26,8 @@
   "guardarian": {
     "ticker": "BLZ",
     "network": "ETH"
+  },
+  "onramper": {
+    "id": "blz_ethereum"
   }
 }

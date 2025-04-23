@@ -26,6 +26,9 @@
     "ticker": "YFI",
     "network": "ETH"
   },
+  "onramper": {
+    "id": "yfi_ethereum"
+  },
   "paybis": {
     "id": "YFI"
   }

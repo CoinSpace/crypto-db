@@ -21,5 +21,8 @@
   "guardarian": {
     "ticker": "ARDR",
     "network": "ARDR"
+  },
+  "onramper": {
+    "id": "ardr_ardor"
   }
 }

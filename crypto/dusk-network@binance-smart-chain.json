@@ -22,5 +22,8 @@
   "guardarian": {
     "ticker": "DUSK",
     "network": "BSC"
+  },
+  "onramper": {
+    "id": "dusk_bsc"
   }
 }

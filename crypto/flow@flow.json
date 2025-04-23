@@ -22,5 +22,8 @@
   "moonpay": {
     "id": "f1f1ec81-0ab4-4415-a510-14ece659b089",
     "code": "flow"
+  },
+  "onramper": {
+    "id": "flow_flow"
   }
 }

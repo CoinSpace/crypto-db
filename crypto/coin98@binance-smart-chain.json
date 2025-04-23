@@ -23,5 +23,8 @@
   "guardarian": {
     "ticker": "C98",
     "network": "BSC"
+  },
+  "onramper": {
+    "id": "c98_bsc"
   }
 }

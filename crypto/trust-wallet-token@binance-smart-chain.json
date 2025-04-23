@@ -27,6 +27,9 @@
     "ticker": "TWT",
     "network": "BSC"
   },
+  "onramper": {
+    "id": "twt_bsc"
+  },
   "paybis": {
     "id": "TWT"
   }

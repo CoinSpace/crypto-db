@@ -26,5 +26,8 @@
   "guardarian": {
     "ticker": "ALICE",
     "network": "ETH"
+  },
+  "onramper": {
+    "id": "alice_ethereum"
   }
 }

@@ -26,5 +26,8 @@
   "guardarian": {
     "ticker": "DUSK",
     "network": "ETH"
+  },
+  "onramper": {
+    "id": "dusk_ethereum"
   }
 }

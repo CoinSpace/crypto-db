@@ -25,5 +25,8 @@
   "guardarian": {
     "ticker": "IOTX",
     "network": "IOTX"
+  },
+  "onramper": {
+    "id": "iotx_iotex"
   }
 }

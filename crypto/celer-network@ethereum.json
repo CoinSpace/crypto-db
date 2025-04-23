@@ -26,5 +26,8 @@
   "guardarian": {
     "ticker": "CELR",
     "network": "ETH"
+  },
+  "onramper": {
+    "id": "celr_ethereum"
   }
 }

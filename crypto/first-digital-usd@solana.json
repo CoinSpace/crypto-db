@@ -18,5 +18,8 @@
   "coinmarketcap": {
     "id": 26081,
     "slug": "first-digital-usd"
+  },
+  "onramper": {
+    "id": "fdusd_solana"
   }
 }

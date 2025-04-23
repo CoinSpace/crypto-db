@@ -22,5 +22,8 @@
   "guardarian": {
     "ticker": "LDO",
     "network": "ARBITRUM"
+  },
+  "onramper": {
+    "id": "ldo_arbitrum"
   }
 }

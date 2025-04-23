@@ -27,6 +27,9 @@
     "ticker": "JASMY",
     "network": "ETH"
   },
+  "onramper": {
+    "id": "jasmy_ethereum"
+  },
   "paybis": {
     "id": "JASMY"
   }

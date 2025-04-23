@@ -14,5 +14,8 @@
   "coinmarketcap": {
     "id": 7186,
     "slug": "pancakeswap"
+  },
+  "onramper": {
+    "id": "cake_ethereum"
   }
 }

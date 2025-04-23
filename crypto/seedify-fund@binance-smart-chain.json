@@ -26,5 +26,8 @@
   "guardarian": {
     "ticker": "SFUND",
     "network": "BSC"
+  },
+  "onramper": {
+    "id": "sfund_bsc"
   }
 }

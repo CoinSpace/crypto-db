@@ -23,5 +23,8 @@
   "guardarian": {
     "ticker": "BCH",
     "network": "BSC"
+  },
+  "onramper": {
+    "id": "bch_bsc"
   }
 }

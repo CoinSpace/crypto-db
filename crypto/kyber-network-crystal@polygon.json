@@ -14,5 +14,8 @@
   "coinmarketcap": {
     "id": 9444,
     "slug": "kyber-network-crystal-v2"
+  },
+  "onramper": {
+    "id": "knc_polygon"
   }
 }

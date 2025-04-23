@@ -26,5 +26,8 @@
   "guardarian": {
     "ticker": "CHESS",
     "network": "BSC"
+  },
+  "onramper": {
+    "id": "chess_bsc"
   }
 }

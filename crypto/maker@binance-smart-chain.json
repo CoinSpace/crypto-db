@@ -22,5 +22,8 @@
   "guardarian": {
     "ticker": "MKR",
     "network": "BSC"
+  },
+  "onramper": {
+    "id": "mkr_bsc"
   }
 }

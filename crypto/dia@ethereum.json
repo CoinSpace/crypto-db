@@ -26,5 +26,8 @@
   "guardarian": {
     "ticker": "DIA",
     "network": "ETH"
+  },
+  "onramper": {
+    "id": "dia_ethereum"
   }
 }

@@ -25,5 +25,8 @@
   "guardarian": {
     "ticker": "KAVA",
     "network": "KAVA"
+  },
+  "onramper": {
+    "id": "kava_kava"
   }
 }

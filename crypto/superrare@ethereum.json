@@ -22,5 +22,8 @@
   "coinmarketcap": {
     "id": 11294,
     "slug": "superrare"
+  },
+  "onramper": {
+    "id": "rare_ethereum"
   }
 }

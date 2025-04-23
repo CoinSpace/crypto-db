@@ -25,5 +25,8 @@
   "guardarian": {
     "ticker": "NEAR",
     "network": "BSC"
+  },
+  "onramper": {
+    "id": "near_bsc"
   }
 }

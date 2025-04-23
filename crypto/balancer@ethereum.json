@@ -26,5 +26,8 @@
   "guardarian": {
     "ticker": "BAL",
     "network": "ETH"
+  },
+  "onramper": {
+    "id": "bal_ethereum"
   }
 }

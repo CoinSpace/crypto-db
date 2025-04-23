@@ -26,5 +26,8 @@
   "guardarian": {
     "ticker": "ETH",
     "network": "BSC"
+  },
+  "onramper": {
+    "id": "eth_bsc"
   }
 }

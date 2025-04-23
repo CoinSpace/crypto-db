@@ -22,5 +22,8 @@
   "guardarian": {
     "ticker": "WBTC",
     "network": "ARBITRUM"
+  },
+  "onramper": {
+    "id": "wbtc_arbitrum"
   }
 }

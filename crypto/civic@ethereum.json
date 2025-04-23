@@ -26,5 +26,8 @@
   "guardarian": {
     "ticker": "CVC",
     "network": "ETH"
+  },
+  "onramper": {
+    "id": "cvc_ethereum"
   }
 }

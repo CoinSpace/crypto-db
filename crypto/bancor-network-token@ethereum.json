@@ -26,5 +26,8 @@
   "guardarian": {
     "ticker": "BNT",
     "network": "ETH"
+  },
+  "onramper": {
+    "id": "bnt_ethereum"
   }
 }

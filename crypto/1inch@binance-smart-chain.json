@@ -23,5 +23,8 @@
   "guardarian": {
     "ticker": "1INCH",
     "network": "BSC"
+  },
+  "onramper": {
+    "id": "1inch_bsc"
   }
 }

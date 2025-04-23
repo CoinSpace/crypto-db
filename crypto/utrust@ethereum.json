@@ -26,5 +26,8 @@
   "guardarian": {
     "ticker": "UTK",
     "network": "ETH"
+  },
+  "onramper": {
+    "id": "utk_ethereum"
   }
 }

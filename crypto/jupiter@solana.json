@@ -25,5 +25,8 @@
   "moonpay": {
     "id": "0caaf778-13de-4fa3-ba1b-df7f26b09f78",
     "code": "jup_sol"
+  },
+  "onramper": {
+    "id": "jup_solana"
   }
 }

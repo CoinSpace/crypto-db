@@ -25,5 +25,8 @@
   "guardarian": {
     "ticker": "DCR",
     "network": "DCR"
+  },
+  "onramper": {
+    "id": "dcr_decred"
   }
 }

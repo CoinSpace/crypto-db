@@ -20,6 +20,9 @@
     "ticker": "ENJ",
     "network": "ETH"
   },
+  "onramper": {
+    "id": "enj_ethereum"
+  },
   "paybis": {
     "id": "ENJ"
   }

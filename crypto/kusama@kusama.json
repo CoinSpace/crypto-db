@@ -21,5 +21,8 @@
   "guardarian": {
     "ticker": "KSM",
     "network": "KSM"
+  },
+  "onramper": {
+    "id": "ksm_kusama"
   }
 }

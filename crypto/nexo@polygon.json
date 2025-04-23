@@ -22,5 +22,8 @@
   "guardarian": {
     "ticker": "NEXO",
     "network": "MATIC"
+  },
+  "onramper": {
+    "id": "nexo_polygon"
   }
 }

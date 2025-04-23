@@ -22,5 +22,8 @@
   "guardarian": {
     "ticker": "CELR",
     "network": "BSC"
+  },
+  "onramper": {
+    "id": "celr_bsc"
   }
 }

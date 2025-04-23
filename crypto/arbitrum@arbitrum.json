@@ -29,5 +29,8 @@
   "moonpay": {
     "id": "daf2784f-e450-4f79-aa90-7a05247b41c6",
     "code": "arb_arb"
+  },
+  "onramper": {
+    "id": "arb_arbitrum"
   }
 }

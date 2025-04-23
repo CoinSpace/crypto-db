@@ -23,5 +23,8 @@
   "guardarian": {
     "ticker": "KNC",
     "network": "BSC"
+  },
+  "onramper": {
+    "id": "knc_bsc"
   }
 }

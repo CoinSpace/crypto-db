@@ -25,5 +25,8 @@
   "guardarian": {
     "ticker": "GMX",
     "network": "AVAXC"
+  },
+  "onramper": {
+    "id": "gmx_avaxc"
   }
 }

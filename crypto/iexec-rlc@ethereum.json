@@ -27,6 +27,9 @@
     "ticker": "RLC",
     "network": "ETH"
   },
+  "onramper": {
+    "id": "rlc_ethereum"
+  },
   "paybis": {
     "id": "RLC"
   }

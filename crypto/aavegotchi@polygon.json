@@ -18,5 +18,8 @@
   "coinmarketcap": {
     "id": 7046,
     "slug": "aavegotchi"
+  },
+  "onramper": {
+    "id": "ghst_polygon"
   }
 }

@@ -22,5 +22,8 @@
   "guardarian": {
     "ticker": "COTI",
     "network": "BSC"
+  },
+  "onramper": {
+    "id": "coti_bsc"
   }
 }

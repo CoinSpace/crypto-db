@@ -19,5 +19,8 @@
   "coinmarketcap": {
     "id": 7224,
     "slug": "dodo"
+  },
+  "onramper": {
+    "id": "dodo_bsc"
   }
 }

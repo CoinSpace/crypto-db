@@ -22,5 +22,8 @@
   "guardarian": {
     "ticker": "SOL",
     "network": "BSC"
+  },
+  "onramper": {
+    "id": "sol_bsc"
   }
 }

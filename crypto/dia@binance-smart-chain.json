@@ -22,5 +22,8 @@
   "guardarian": {
     "ticker": "DIA",
     "network": "BSC"
+  },
+  "onramper": {
+    "id": "dia_bsc"
   }
 }

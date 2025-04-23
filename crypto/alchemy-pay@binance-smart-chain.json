@@ -22,5 +22,8 @@
   "guardarian": {
     "ticker": "ACH",
     "network": "BSC"
+  },
+  "onramper": {
+    "id": "ach_bsc"
   }
 }

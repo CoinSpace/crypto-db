@@ -22,5 +22,8 @@
   "guardarian": {
     "ticker": "EGLD",
     "network": "BSC"
+  },
+  "onramper": {
+    "id": "egld_bsc"
   }
 }

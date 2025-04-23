@@ -22,5 +22,8 @@
   "coinmarketcap": {
     "id": 7737,
     "slug": "api3"
+  },
+  "onramper": {
+    "id": "api3_ethereum"
   }
 }

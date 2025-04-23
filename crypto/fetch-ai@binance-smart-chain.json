@@ -23,5 +23,8 @@
   "guardarian": {
     "ticker": "FET",
     "network": "BSC"
+  },
+  "onramper": {
+    "id": "fet_bsc"
   }
 }

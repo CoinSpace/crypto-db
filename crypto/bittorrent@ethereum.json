@@ -22,5 +22,8 @@
   "guardarian": {
     "ticker": "BTTC",
     "network": "ETH"
+  },
+  "onramper": {
+    "id": "btt_ethereum"
   }
 }

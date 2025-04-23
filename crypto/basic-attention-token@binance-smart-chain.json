@@ -22,5 +22,8 @@
   "guardarian": {
     "ticker": "BAT",
     "network": "BSC"
+  },
+  "onramper": {
+    "id": "bat_bsc"
   }
 }

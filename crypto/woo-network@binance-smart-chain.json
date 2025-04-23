@@ -23,5 +23,8 @@
   "guardarian": {
     "ticker": "WOO",
     "network": "BSC"
+  },
+  "onramper": {
+    "id": "woo_bsc"
   }
 }

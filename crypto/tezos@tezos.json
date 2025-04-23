@@ -30,6 +30,9 @@
     "id": "dab98182-bcdf-4f6d-be4d-62d57c000089",
     "code": "xtz"
   },
+  "onramper": {
+    "id": "xtz_tezos"
+  },
   "paybis": {
     "id": "XTZ"
   }

@@ -25,5 +25,8 @@
   "moonpay": {
     "id": "1c1fb538-1a4a-432e-bc3f-6b9e830fbffc",
     "code": "trb_eth"
+  },
+  "onramper": {
+    "id": "trb_ethereum"
   }
 }

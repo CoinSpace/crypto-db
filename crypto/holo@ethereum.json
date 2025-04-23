@@ -27,6 +27,9 @@
     "ticker": "HOT",
     "network": "ETH"
   },
+  "onramper": {
+    "id": "hot_ethereum"
+  },
   "paybis": {
     "id": "HOT"
   }

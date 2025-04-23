@@ -26,5 +26,8 @@
   "guardarian": {
     "ticker": "UNI",
     "network": "BSC"
+  },
+  "onramper": {
+    "id": "uni_bsc"
   }
 }

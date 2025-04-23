@@ -22,5 +22,8 @@
   "guardarian": {
     "ticker": "DAI",
     "network": "BSC"
+  },
+  "onramper": {
+    "id": "dai_bsc"
   }
 }

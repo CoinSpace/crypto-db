@@ -18,5 +18,8 @@
   "coinmarketcap": {
     "id": 6951,
     "slug": "reef"
+  },
+  "onramper": {
+    "id": "reef_bsc"
   }
 }

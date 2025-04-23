@@ -23,5 +23,8 @@
   "guardarian": {
     "ticker": "EOS",
     "network": "BSC"
+  },
+  "onramper": {
+    "id": "eos_bsc"
   }
 }

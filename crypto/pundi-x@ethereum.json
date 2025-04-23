@@ -23,6 +23,9 @@
     "id": 9040,
     "slug": "pundix-new"
   },
+  "onramper": {
+    "id": "pundix_ethereum"
+  },
   "paybis": {
     "id": "PUNDIX"
   }

@@ -31,6 +31,9 @@
     "id": "218c76e9-4140-43db-8e25-cab08e12b2df",
     "code": "ldo_eth"
   },
+  "onramper": {
+    "id": "ldo_ethereum"
+  },
   "paybis": {
     "id": "LDO"
   }

@@ -19,5 +19,8 @@
   "coinmarketcap": {
     "id": 2840,
     "slug": "quarkchain"
+  },
+  "onramper": {
+    "id": "qkc_ethereum"
   }
 }

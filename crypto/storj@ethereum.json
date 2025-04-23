@@ -27,6 +27,9 @@
     "ticker": "STORJ",
     "network": "ETH"
   },
+  "onramper": {
+    "id": "storj_ethereum"
+  },
   "paybis": {
     "id": "STORJ"
   }

@@ -27,6 +27,9 @@
     "ticker": "CVX",
     "network": "ETH"
   },
+  "onramper": {
+    "id": "cvx_ethereum"
+  },
   "paybis": {
     "id": "CVX"
   }

@@ -22,5 +22,8 @@
   "moonpay": {
     "id": "653113fb-3e09-4f77-a019-badb1ae4dad7",
     "code": "wld"
+  },
+  "onramper": {
+    "id": "wld_ethereum"
   }
 }

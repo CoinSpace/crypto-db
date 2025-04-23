@@ -25,5 +25,8 @@
   "guardarian": {
     "ticker": "XEM",
     "network": "XEM"
+  },
+  "onramper": {
+    "id": "xem_nem"
   }
 }

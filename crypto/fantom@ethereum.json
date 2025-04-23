@@ -18,5 +18,8 @@
   "guardarian": {
     "ticker": "FTM",
     "network": "ETH"
+  },
+  "onramper": {
+    "id": "ftm_ethereum"
   }
 }

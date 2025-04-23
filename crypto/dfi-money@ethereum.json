@@ -26,5 +26,8 @@
   "guardarian": {
     "ticker": "YFII",
     "network": "ETH"
+  },
+  "onramper": {
+    "id": "yfii_ethereum"
   }
 }

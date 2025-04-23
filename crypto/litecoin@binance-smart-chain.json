@@ -23,5 +23,8 @@
   "guardarian": {
     "ticker": "LTC",
     "network": "BSC"
+  },
+  "onramper": {
+    "id": "ltc_bsc"
   }
 }

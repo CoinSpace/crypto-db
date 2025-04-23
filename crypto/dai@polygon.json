@@ -28,5 +28,8 @@
   "guardarian": {
     "ticker": "DAI",
     "network": "MATIC"
+  },
+  "onramper": {
+    "id": "dai_polygon"
   }
 }

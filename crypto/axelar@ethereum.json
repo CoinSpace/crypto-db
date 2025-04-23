@@ -21,5 +21,8 @@
   "coinmarketcap": {
     "id": 17799,
     "slug": "axelar"
+  },
+  "onramper": {
+    "id": "axl_ethereum"
   }
 }

@@ -18,6 +18,9 @@
     "ticker": "FTM",
     "network": "FTM"
   },
+  "onramper": {
+    "id": "ftm_fantom"
+  },
   "paybis": {
     "id": "FTM"
   }

@@ -21,5 +21,8 @@
   "guardarian": {
     "ticker": "IOST",
     "network": "IOST"
+  },
+  "onramper": {
+    "id": "iost_iost"
   }
 }

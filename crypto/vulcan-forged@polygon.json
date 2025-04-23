@@ -22,5 +22,8 @@
   "guardarian": {
     "ticker": "PYR",
     "network": "MATIC"
+  },
+  "onramper": {
+    "id": "pyr_polygon"
   }
 }

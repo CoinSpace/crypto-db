@@ -25,5 +25,8 @@
   "guardarian": {
     "ticker": "VET",
     "network": "VET"
+  },
+  "onramper": {
+    "id": "vet_vechain"
   }
 }

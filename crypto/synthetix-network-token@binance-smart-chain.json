@@ -22,5 +22,8 @@
   "guardarian": {
     "ticker": "SNX",
     "network": "BSC"
+  },
+  "onramper": {
+    "id": "snx_bsc"
   }
 }

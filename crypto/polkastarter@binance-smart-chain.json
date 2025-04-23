@@ -23,5 +23,8 @@
   "guardarian": {
     "ticker": "POLS",
     "network": "BSC"
+  },
+  "onramper": {
+    "id": "pols_bsc"
   }
 }

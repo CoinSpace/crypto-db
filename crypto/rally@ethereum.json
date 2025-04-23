@@ -22,5 +22,8 @@
   "coinmarketcap": {
     "id": 8075,
     "slug": "rally"
+  },
+  "onramper": {
+    "id": "rly_ethereum"
   }
 }

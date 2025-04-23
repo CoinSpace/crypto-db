@@ -23,5 +23,8 @@
   "guardarian": {
     "ticker": "ONT",
     "network": "BSC"
+  },
+  "onramper": {
+    "id": "ont_bsc"
   }
 }

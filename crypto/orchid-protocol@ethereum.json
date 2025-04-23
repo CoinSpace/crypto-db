@@ -26,5 +26,8 @@
   "guardarian": {
     "ticker": "OXT",
     "network": "ETH"
+  },
+  "onramper": {
+    "id": "oxt_ethereum"
   }
 }

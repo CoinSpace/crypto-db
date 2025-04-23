@@ -23,5 +23,8 @@
   "guardarian": {
     "ticker": "LUSD",
     "network": "ETH"
+  },
+  "onramper": {
+    "id": "lusd_ethereum"
   }
 }

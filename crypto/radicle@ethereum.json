@@ -22,5 +22,8 @@
   "coinmarketcap": {
     "id": 6843,
     "slug": "radworks"
+  },
+  "onramper": {
+    "id": "rad_ethereum"
   }
 }

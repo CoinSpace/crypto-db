@@ -26,5 +26,8 @@
   "guardarian": {
     "ticker": "FUN",
     "network": "ETH"
+  },
+  "onramper": {
+    "id": "fun_ethereum"
   }
 }

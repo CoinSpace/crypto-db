@@ -25,5 +25,8 @@
   "moonpay": {
     "id": "642f2b07-99ef-4e34-8641-c315e4b6909d",
     "code": "pengu_sol"
+  },
+  "onramper": {
+    "id": "pengu_solana"
   }
 }

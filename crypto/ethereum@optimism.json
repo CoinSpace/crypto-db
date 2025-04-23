@@ -31,5 +31,8 @@
   "moonpay": {
     "id": "621e5943-811c-4de0-b3b1-ef5340d9fcdf",
     "code": "eth_optimism"
+  },
+  "onramper": {
+    "id": "eth_optimism"
   }
 }

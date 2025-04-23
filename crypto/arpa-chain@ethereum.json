@@ -25,5 +25,8 @@
   "guardarian": {
     "ticker": "ARPA",
     "network": "ETH"
+  },
+  "onramper": {
+    "id": "arpa_ethereum"
   }
 }

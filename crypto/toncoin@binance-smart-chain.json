@@ -22,5 +22,8 @@
   "guardarian": {
     "ticker": "TON",
     "network": "BSC"
+  },
+  "onramper": {
+    "id": "ton_bsc"
   }
 }

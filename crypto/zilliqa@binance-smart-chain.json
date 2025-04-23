@@ -24,6 +24,9 @@
     "ticker": "ZIL",
     "network": "BSC"
   },
+  "onramper": {
+    "id": "zil_bsc"
+  },
   "paybis": {
     "id": "ZIL"
   }

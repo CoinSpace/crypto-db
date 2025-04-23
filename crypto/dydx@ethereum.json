@@ -19,5 +19,8 @@
   "guardarian": {
     "ticker": "DYDX",
     "network": "ETH"
+  },
+  "onramper": {
+    "id": "dydx_ethereum"
   }
 }

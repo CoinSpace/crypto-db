@@ -27,6 +27,9 @@
     "ticker": "NEXO",
     "network": "ETH"
   },
+  "onramper": {
+    "id": "nexo_ethereum"
+  },
   "paybis": {
     "id": "NEXO"
   }

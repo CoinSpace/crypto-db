@@ -22,5 +22,8 @@
   "guardarian": {
     "ticker": "UNI",
     "network": "ARBITRUM"
+  },
+  "onramper": {
+    "id": "uni_arbitrum"
   }
 }

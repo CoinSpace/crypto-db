@@ -26,5 +26,8 @@
   "guardarian": {
     "ticker": "POLS",
     "network": "ETH"
+  },
+  "onramper": {
+    "id": "pols_ethereum"
   }
 }

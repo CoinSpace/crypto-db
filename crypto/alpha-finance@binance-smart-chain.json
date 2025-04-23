@@ -19,5 +19,8 @@
   "coinmarketcap": {
     "id": 7232,
     "slug": "alpha-finance-lab"
+  },
+  "onramper": {
+    "id": "alpha_bsc"
   }
 }

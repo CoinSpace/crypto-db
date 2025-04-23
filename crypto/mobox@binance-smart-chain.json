@@ -26,5 +26,8 @@
   "guardarian": {
     "ticker": "MBOX",
     "network": "BSC"
+  },
+  "onramper": {
+    "id": "mbox_bsc"
   }
 }

@@ -26,5 +26,8 @@
   "guardarian": {
     "ticker": "CHR",
     "network": "ETH"
+  },
+  "onramper": {
+    "id": "chr_ethereum"
   }
 }

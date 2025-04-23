@@ -26,5 +26,8 @@
   "guardarian": {
     "ticker": "AERGO",
     "network": "ETH"
+  },
+  "onramper": {
+    "id": "aergo_ethereum"
   }
 }

@@ -25,5 +25,8 @@
   "guardarian": {
     "ticker": "WAVES",
     "network": "WAVES"
+  },
+  "onramper": {
+    "id": "waves_waves"
   }
 }

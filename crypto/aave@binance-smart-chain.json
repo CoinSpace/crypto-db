@@ -22,5 +22,8 @@
   "guardarian": {
     "ticker": "AAVE",
     "network": "BSC"
+  },
+  "onramper": {
+    "id": "aave_bsc"
   }
 }

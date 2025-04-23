@@ -34,5 +34,8 @@
   "moonpay": {
     "id": "da2f536f-7991-4b96-ac21-602031044c14",
     "code": "algo"
+  },
+  "onramper": {
+    "id": "algo_algorand"
   }
 }

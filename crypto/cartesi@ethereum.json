@@ -23,5 +23,8 @@
   "guardarian": {
     "ticker": "CTSI",
     "network": "ETH"
+  },
+  "onramper": {
+    "id": "ctsi_ethereum"
   }
 }

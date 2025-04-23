@@ -32,6 +32,9 @@
     "id": "cdc83701-1799-4556-ae9a-da3266621101",
     "code": "eth_base"
   },
+  "onramper": {
+    "id": "eth_base"
+  },
   "paybis": {
     "id": "ETH-BASE"
   }

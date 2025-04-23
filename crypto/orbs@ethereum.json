@@ -22,5 +22,8 @@
   "coinmarketcap": {
     "id": 3835,
     "slug": "orbs"
+  },
+  "onramper": {
+    "id": "orbs_ethereum"
   }
 }

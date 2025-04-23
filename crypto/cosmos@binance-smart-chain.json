@@ -19,5 +19,8 @@
   "coinmarketcap": {
     "id": 3794,
     "slug": "cosmos"
+  },
+  "onramper": {
+    "id": "atom_bsc"
   }
 }

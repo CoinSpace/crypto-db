@@ -26,5 +26,8 @@
   "guardarian": {
     "ticker": "BEL",
     "network": "ETH"
+  },
+  "onramper": {
+    "id": "bel_ethereum"
   }
 }

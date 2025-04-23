@@ -29,5 +29,8 @@
   "moonpay": {
     "id": "991e29f8-8f83-4c75-883b-1399404a6828",
     "code": "floki"
+  },
+  "onramper": {
+    "id": "floki_ethereum"
   }
 }

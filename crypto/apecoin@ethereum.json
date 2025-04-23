@@ -31,6 +31,9 @@
     "id": "c9b85b12-ce50-4533-9f92-96d79428a002",
     "code": "ape"
   },
+  "onramper": {
+    "id": "ape_ethereum"
+  },
   "paybis": {
     "id": "APE"
   }

@@ -18,5 +18,8 @@
   "coinmarketcap": {
     "id": 1720,
     "slug": "iota"
+  },
+  "onramper": {
+    "id": "iota_bsc"
   }
 }

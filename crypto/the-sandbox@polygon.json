@@ -22,5 +22,8 @@
   "guardarian": {
     "ticker": "SAND",
     "network": "MATIC"
+  },
+  "onramper": {
+    "id": "sand_polygon"
   }
 }

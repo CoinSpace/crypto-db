@@ -26,6 +26,9 @@
     "ticker": "ONT",
     "network": "ONT"
   },
+  "onramper": {
+    "id": "ont_ontology"
+  },
   "paybis": {
     "id": "ONT"
   }

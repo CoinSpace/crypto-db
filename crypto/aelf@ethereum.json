@@ -23,5 +23,8 @@
   "guardarian": {
     "ticker": "ELF",
     "network": "ETH"
+  },
+  "onramper": {
+    "id": "elf_ethereum"
   }
 }

@@ -31,5 +31,8 @@
   "moonpay": {
     "id": "3fc99da4-d849-4641-a488-344d60c25a02",
     "code": "eth_arbitrum"
+  },
+  "onramper": {
+    "id": "eth_arbitrum"
   }
 }

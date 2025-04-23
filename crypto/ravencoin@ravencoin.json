@@ -29,5 +29,8 @@
   "moonpay": {
     "id": "66523c65-91f2-478a-ab69-a6ee692fd690",
     "code": "rvn"
+  },
+  "onramper": {
+    "id": "rvn_ravencoin"
   }
 }

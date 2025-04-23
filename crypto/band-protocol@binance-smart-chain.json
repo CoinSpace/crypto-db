@@ -22,5 +22,8 @@
   "guardarian": {
     "ticker": "BAND",
     "network": "BSC"
+  },
+  "onramper": {
+    "id": "band_bsc"
   }
 }

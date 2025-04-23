@@ -26,5 +26,8 @@
   "guardarian": {
     "ticker": "CTSI",
     "network": "BSC"
+  },
+  "onramper": {
+    "id": "ctsi_bsc"
   }
 }

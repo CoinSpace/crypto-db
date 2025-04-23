@@ -25,5 +25,8 @@
   "guardarian": {
     "ticker": "TLM",
     "network": "BSC"
+  },
+  "onramper": {
+    "id": "tlm_bsc"
   }
 }

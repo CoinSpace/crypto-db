@@ -27,6 +27,9 @@
     "ticker": "RPL",
     "network": "ETH"
   },
+  "onramper": {
+    "id": "rpl_ethereum"
+  },
   "paybis": {
     "id": "RPL"
   }

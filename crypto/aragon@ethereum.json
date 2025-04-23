@@ -23,5 +23,8 @@
   "guardarian": {
     "ticker": "ANT",
     "network": "ETH"
+  },
+  "onramper": {
+    "id": "ant_ethereum"
   }
 }

@@ -23,5 +23,8 @@
   "guardarian": {
     "ticker": "AXS",
     "network": "BSC"
+  },
+  "onramper": {
+    "id": "axs_bsc"
   }
 }

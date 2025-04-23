@@ -26,5 +26,8 @@
   "guardarian": {
     "ticker": "FTT",
     "network": "ETH"
+  },
+  "onramper": {
+    "id": "ftt_ethereum"
   }
 }

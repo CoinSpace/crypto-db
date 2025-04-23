@@ -23,6 +23,9 @@
     "id": 6950,
     "slug": "perpetual-protocol"
   },
+  "onramper": {
+    "id": "perp_ethereum"
+  },
   "paybis": {
     "id": "PERP"
   }

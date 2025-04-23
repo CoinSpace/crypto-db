@@ -26,5 +26,8 @@
   "guardarian": {
     "ticker": "STPT",
     "network": "ETH"
+  },
+  "onramper": {
+    "id": "stpt_ethereum"
   }
 }

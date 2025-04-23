@@ -27,6 +27,9 @@
     "ticker": "AUDIO",
     "network": "ETH"
   },
+  "onramper": {
+    "id": "audio_ethereum"
+  },
   "paybis": {
     "id": "AUDIO"
   }

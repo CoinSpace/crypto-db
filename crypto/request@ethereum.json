@@ -22,5 +22,8 @@
   "coinmarketcap": {
     "id": 2071,
     "slug": "request"
+  },
+  "onramper": {
+    "id": "req_ethereum"
   }
 }

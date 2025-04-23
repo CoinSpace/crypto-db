@@ -29,5 +29,8 @@
   "moonpay": {
     "id": "a42c83cc-ac2f-4bdc-a881-ce4f06c2555e",
     "code": "qtum"
+  },
+  "onramper": {
+    "id": "qtum_qtum"
   }
 }

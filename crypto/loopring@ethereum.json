@@ -26,5 +26,8 @@
   "guardarian": {
     "ticker": "LRC",
     "network": "ETH"
+  },
+  "onramper": {
+    "id": "lrc_ethereum"
   }
 }

@@ -26,5 +26,8 @@
   "guardarian": {
     "ticker": "ANKR",
     "network": "ETH"
+  },
+  "onramper": {
+    "id": "ankr_ethereum"
   }
 }

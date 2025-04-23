@@ -23,5 +23,8 @@
   "guardarian": {
     "ticker": "PYR",
     "network": "ETH"
+  },
+  "onramper": {
+    "id": "pyr_ethereum"
   }
 }

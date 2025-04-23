@@ -21,5 +21,8 @@
   "guardarian": {
     "ticker": "ARK",
     "network": "ARK"
+  },
+  "onramper": {
+    "id": "ark_ark"
   }
 }

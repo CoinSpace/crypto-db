@@ -14,5 +14,8 @@
   "coinmarketcap": {
     "id": 28081,
     "slug": "spx6900"
+  },
+  "onramper": {
+    "id": "spx_solana"
   }
 }

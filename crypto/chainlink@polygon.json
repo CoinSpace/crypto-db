@@ -22,5 +22,8 @@
   "guardarian": {
     "ticker": "LINK",
     "network": "MATIC"
+  },
+  "onramper": {
+    "id": "link_polygon"
   }
 }

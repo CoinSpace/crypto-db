@@ -21,5 +21,8 @@
   "coinmarketcap": {
     "id": 4120,
     "slug": "prom"
+  },
+  "onramper": {
+    "id": "prom_bsc"
   }
 }

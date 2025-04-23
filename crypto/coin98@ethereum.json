@@ -26,5 +26,8 @@
   "guardarian": {
     "ticker": "C98",
     "network": "ETH"
+  },
+  "onramper": {
+    "id": "c98_ethereum"
   }
 }

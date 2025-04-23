@@ -26,5 +26,8 @@
   "guardarian": {
     "ticker": "RSR",
     "network": "ETH"
+  },
+  "onramper": {
+    "id": "rsr_ethereum"
   }
 }

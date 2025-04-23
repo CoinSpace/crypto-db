@@ -14,5 +14,8 @@
   "coinmarketcap": {
     "id": 3408,
     "slug": "usd-coin"
+  },
+  "onramper": {
+    "id": "usdc_sui"
   }
 }

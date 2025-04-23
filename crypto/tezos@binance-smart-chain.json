@@ -22,5 +22,8 @@
   "guardarian": {
     "ticker": "XTZ",
     "network": "BSC"
+  },
+  "onramper": {
+    "id": "xtz_bsc"
   }
 }

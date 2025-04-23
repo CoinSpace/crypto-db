@@ -31,6 +31,9 @@
     "id": "fec58310-c00f-4874-8509-2ccbf4249eb1",
     "code": "wbtc"
   },
+  "onramper": {
+    "id": "wbtc_ethereum"
+  },
   "paybis": {
     "id": "WBTC"
   }

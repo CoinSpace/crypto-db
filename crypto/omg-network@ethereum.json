@@ -27,6 +27,9 @@
     "ticker": "OMG",
     "network": "ETH"
   },
+  "onramper": {
+    "id": "omg_ethereum"
+  },
   "paybis": {
     "id": "OMG"
   }

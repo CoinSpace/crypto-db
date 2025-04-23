@@ -22,5 +22,8 @@
   "guardarian": {
     "ticker": "GMX",
     "network": "ARBITRUM"
+  },
+  "onramper": {
+    "id": "gmx_arbitrum"
   }
 }

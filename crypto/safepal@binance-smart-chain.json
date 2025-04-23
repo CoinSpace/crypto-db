@@ -26,5 +26,8 @@
   "guardarian": {
     "ticker": "SFP",
     "network": "BSC"
+  },
+  "onramper": {
+    "id": "sfp_bsc"
   }
 }

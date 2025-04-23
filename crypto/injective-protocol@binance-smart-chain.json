@@ -23,5 +23,8 @@
   "guardarian": {
     "ticker": "INJ",
     "network": "BSC"
+  },
+  "onramper": {
+    "id": "inj_bsc"
   }
 }

@@ -27,6 +27,9 @@
     "ticker": "MASK",
     "network": "ETH"
   },
+  "onramper": {
+    "id": "mask_ethereum"
+  },
   "paybis": {
     "id": "MASK"
   }

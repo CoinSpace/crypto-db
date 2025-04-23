@@ -25,5 +25,8 @@
   "guardarian": {
     "ticker": "GMT",
     "network": "BSC"
+  },
+  "onramper": {
+    "id": "gmt_bsc"
   }
 }

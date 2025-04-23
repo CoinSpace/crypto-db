@@ -21,5 +21,8 @@
   "guardarian": {
     "ticker": "KMD",
     "network": "KMD"
+  },
+  "onramper": {
+    "id": "kmd_komodo"
   }
 }

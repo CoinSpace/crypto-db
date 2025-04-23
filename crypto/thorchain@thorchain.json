@@ -17,5 +17,8 @@
   "coinmarketcap": {
     "id": 4157,
     "slug": "thorchain"
+  },
+  "onramper": {
+    "id": "rune_thorchain"
   }
 }

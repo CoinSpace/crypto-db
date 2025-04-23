@@ -22,5 +22,8 @@
   "guardarian": {
     "ticker": "KMD",
     "network": "BSC"
+  },
+  "onramper": {
+    "id": "kmd_bsc"
   }
 }

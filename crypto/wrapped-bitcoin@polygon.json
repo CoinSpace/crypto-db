@@ -22,5 +22,8 @@
   "guardarian": {
     "ticker": "WBTC",
     "network": "MATIC"
+  },
+  "onramper": {
+    "id": "wbtc_polygon"
   }
 }

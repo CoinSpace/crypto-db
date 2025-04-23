@@ -24,5 +24,8 @@
   "moonpay": {
     "id": "48e69e1a-2466-4218-b2cd-1e6164839595",
     "code": "cusd"
+  },
+  "onramper": {
+    "id": "cusd_celo"
   }
 }

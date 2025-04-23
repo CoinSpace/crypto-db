@@ -25,5 +25,8 @@
   "moonpay": {
     "id": "3c1f95ba-cf50-4862-8d03-29ab39e69a64",
     "code": "wld_optimism"
+  },
+  "onramper": {
+    "id": "wld_optimism"
   }
 }

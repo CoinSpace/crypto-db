@@ -25,5 +25,8 @@
   "guardarian": {
     "ticker": "BTTC",
     "network": "TRX"
+  },
+  "onramper": {
+    "id": "btt_tron"
   }
 }

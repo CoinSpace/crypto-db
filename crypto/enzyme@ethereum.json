@@ -22,5 +22,8 @@
   "coinmarketcap": {
     "id": 1552,
     "slug": "enzyme"
+  },
+  "onramper": {
+    "id": "mln_ethereum"
   }
 }

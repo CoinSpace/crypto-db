@@ -23,5 +23,8 @@
   "guardarian": {
     "ticker": "XRP",
     "network": "BSC"
+  },
+  "onramper": {
+    "id": "xrp_bsc"
   }
 }

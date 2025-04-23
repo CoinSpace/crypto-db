@@ -27,6 +27,9 @@
     "ticker": "WOO",
     "network": "ETH"
   },
+  "onramper": {
+    "id": "woo_ethereum"
+  },
   "paybis": {
     "id": "WOO"
   }

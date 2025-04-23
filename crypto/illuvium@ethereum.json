@@ -26,5 +26,8 @@
   "guardarian": {
     "ticker": "ILV",
     "network": "ETH"
+  },
+  "onramper": {
+    "id": "ilv_ethereum"
   }
 }

@@ -22,5 +22,8 @@
   "coinmarketcap": {
     "id": 9543,
     "slug": "biconomy"
+  },
+  "onramper": {
+    "id": "bico_ethereum"
   }
 }

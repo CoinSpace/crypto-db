@@ -26,5 +26,8 @@
   "guardarian": {
     "ticker": "OGN",
     "network": "ETH"
+  },
+  "onramper": {
+    "id": "ogn_ethereum"
   }
 }

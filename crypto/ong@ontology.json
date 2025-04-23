@@ -24,5 +24,8 @@
   "guardarian": {
     "ticker": "ONG",
     "network": "ONT"
+  },
+  "onramper": {
+    "id": "ong_ontology"
   }
 }

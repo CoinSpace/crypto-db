@@ -26,5 +26,8 @@
   "guardarian": {
     "ticker": "LOOM",
     "network": "ETH"
+  },
+  "onramper": {
+    "id": "loom_ethereum"
   }
 }

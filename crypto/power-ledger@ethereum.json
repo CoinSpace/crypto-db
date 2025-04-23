@@ -26,5 +26,8 @@
   "guardarian": {
     "ticker": "POWR",
     "network": "ETH"
+  },
+  "onramper": {
+    "id": "powr_ethereum"
   }
 }

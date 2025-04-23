@@ -26,5 +26,8 @@
   "guardarian": {
     "ticker": "STMX",
     "network": "ETH"
+  },
+  "onramper": {
+    "id": "stmx_ethereum"
   }
 }

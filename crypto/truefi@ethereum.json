@@ -22,5 +22,8 @@
   "coinmarketcap": {
     "id": 7725,
     "slug": "truefi-token"
+  },
+  "onramper": {
+    "id": "tru_ethereum"
   }
 }

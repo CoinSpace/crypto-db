@@ -27,6 +27,9 @@
     "ticker": "NMR",
     "network": "ETH"
   },
+  "onramper": {
+    "id": "nmr_ethereum"
+  },
   "paybis": {
     "id": "NMR"
   }

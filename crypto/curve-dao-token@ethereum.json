@@ -31,6 +31,9 @@
     "id": "4f5770c9-139e-4f4e-878d-4e40611b3a7b",
     "code": "crv_eth"
   },
+  "onramper": {
+    "id": "crv_ethereum"
+  },
   "paybis": {
     "id": "CRV"
   }

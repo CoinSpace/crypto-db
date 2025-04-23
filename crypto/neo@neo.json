@@ -22,5 +22,8 @@
   "guardarian": {
     "ticker": "NEO",
     "network": "NEO"
+  },
+  "onramper": {
+    "id": "neo_neo"
   }
 }

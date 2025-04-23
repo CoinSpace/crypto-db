@@ -22,5 +22,8 @@
   "guardarian": {
     "ticker": "GRT",
     "network": "MATIC"
+  },
+  "onramper": {
+    "id": "grt_polygon"
   }
 }

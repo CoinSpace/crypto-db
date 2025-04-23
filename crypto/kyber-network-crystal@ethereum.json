@@ -27,6 +27,9 @@
     "ticker": "KNC",
     "network": "ETH"
   },
+  "onramper": {
+    "id": "knc_ethereum"
+  },
   "paybis": {
     "id": "KNC"
   }

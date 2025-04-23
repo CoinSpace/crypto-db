@@ -23,5 +23,8 @@
   "guardarian": {
     "ticker": "MASK",
     "network": "BSC"
+  },
+  "onramper": {
+    "id": "mask_bsc"
   }
 }
