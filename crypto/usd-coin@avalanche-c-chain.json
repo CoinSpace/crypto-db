@@ -31,6 +31,6 @@
     "code": "usdc_cchain"
   },
   "onramper": {
-    "id": "USDC_AVAXC"
+    "id": "usdc_avaxc"
   }
 }

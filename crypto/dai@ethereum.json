@@ -34,7 +34,7 @@
     "code": "dai"
   },
   "onramper": {
-    "id": "DAI_ETHEREUM"
+    "id": "dai_ethereum"
   },
   "paybis": {
     "id": "DAI"

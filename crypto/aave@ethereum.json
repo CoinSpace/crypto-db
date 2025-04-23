@@ -32,7 +32,7 @@
     "code": "aave"
   },
   "onramper": {
-    "id": "AAVE_ETHEREUM"
+    "id": "aave_ethereum"
   },
   "paybis": {
     "id": "AAVE"

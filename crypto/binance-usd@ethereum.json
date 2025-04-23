@@ -19,8 +19,5 @@
   "guardarian": {
     "ticker": "BUSD",
     "network": "ETH"
-  },
-  "onramper": {
-    "id": "BUSD_ETHEREUM"
   }
 }

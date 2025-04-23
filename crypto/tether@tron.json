@@ -34,7 +34,7 @@
     "code": "usdt_trx"
   },
   "onramper": {
-    "id": "USDT_TRON"
+    "id": "usdt_tron"
   },
   "paybis": {
     "id": "USDT-TRC20",

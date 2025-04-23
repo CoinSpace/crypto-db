@@ -28,6 +28,6 @@
     "network": "ETH"
   },
   "onramper": {
-    "id": "TUSD_ETHEREUM"
+    "id": "tusd_ethereum"
   }
 }

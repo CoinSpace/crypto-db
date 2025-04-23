@@ -24,6 +24,6 @@
     "network": "TRX"
   },
   "onramper": {
-    "id": "USDC_TRON"
+    "id": "usdc_tron"
   }
 }

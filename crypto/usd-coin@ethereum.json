@@ -40,7 +40,7 @@
     "code": "usdc"
   },
   "onramper": {
-    "id": "USDC_ETHEREUM"
+    "id": "usdc_ethereum"
   },
   "paybis": {
     "id": "USDC",

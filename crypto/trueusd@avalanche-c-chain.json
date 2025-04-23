@@ -22,8 +22,5 @@
   "guardarian": {
     "ticker": "TUSD",
     "network": "AVAXC"
-  },
-  "onramper": {
-    "id": "TUSD_AVAXC"
   }
 }

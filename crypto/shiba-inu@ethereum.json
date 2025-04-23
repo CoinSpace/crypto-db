@@ -32,7 +32,7 @@
     "code": "shib"
   },
   "onramper": {
-    "id": "SHIB_ETHEREUM"
+    "id": "shib_ethereum"
   },
   "paybis": {
     "id": "SHIB"

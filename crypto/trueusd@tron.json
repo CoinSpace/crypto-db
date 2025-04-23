@@ -27,6 +27,6 @@
     "network": "TRX"
   },
   "onramper": {
-    "id": "TUSD_TRON"
+    "id": "tusd_tron"
   }
 }

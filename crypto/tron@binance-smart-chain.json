@@ -24,6 +24,6 @@
     "network": "BSC"
   },
   "onramper": {
-    "id": "TRX_BSC"
+    "id": "trx_bsc"
   }
 }

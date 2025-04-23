@@ -35,7 +35,7 @@
     "code": "usdc_polygon"
   },
   "onramper": {
-    "id": "USDC_POLYGON"
+    "id": "usdc_polygon"
   },
   "paybis": {
     "id": "USDC-POLYGON",

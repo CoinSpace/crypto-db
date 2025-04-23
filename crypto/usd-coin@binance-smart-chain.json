@@ -28,6 +28,6 @@
     "network": "BSC"
   },
   "onramper": {
-    "id": "USDC_BSC"
+    "id": "usdc_bsc"
   }
 }

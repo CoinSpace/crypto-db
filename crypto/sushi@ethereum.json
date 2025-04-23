@@ -28,7 +28,7 @@
     "network": "ETH"
   },
   "onramper": {
-    "id": "SUSHI_ETHEREUM"
+    "id": "sushi_ethereum"
   },
   "paybis": {
     "id": "SUSHI"
