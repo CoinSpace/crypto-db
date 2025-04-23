@@ -1,0 +1,18 @@
+{
+  "_id": "curve-dao-token@base",
+  "asset": "curve-dao-token",
+  "platform": "base",
+  "type": "token",
+  "name": "Curve DAO Token",
+  "symbol": "CRV",
+  "address": "0x8ee73c484a26e0a5df2ee2a4960b789967dd0415",
+  "decimals": 18,
+  "logo": "curve-dao-token.svg",
+  "coingecko": {
+    "id": "curve-dao-token"
+  },
+  "coinmarketcap": {
+    "id": 6538,
+    "slug": "curve-dao-token"
+  }
+}
