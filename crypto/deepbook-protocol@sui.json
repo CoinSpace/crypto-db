@@ -1,0 +1,18 @@
+{
+  "_id": "deepbook-protocol@sui",
+  "asset": "deepbook-protocol",
+  "platform": "sui",
+  "type": "token",
+  "name": "DeepBook Protocol",
+  "symbol": "DEEP",
+  "address": "0xdeeb7a4662eec9f2f3def03fb937a663dddaa2e215b8078a284d026b7946c270::deep::DEEP",
+  "decimals": 6,
+  "logo": "deepbook-protocol.png",
+  "coingecko": {
+    "id": "deep"
+  },
+  "coinmarketcap": {
+    "id": 33391,
+    "slug": "deepbook-protocol"
+  }
+}
