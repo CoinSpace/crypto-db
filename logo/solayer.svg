@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
+  <g clip-path="url(#solayer_svg__a)">
+    <circle cx="10" cy="10" r="10" fill="#084D3E"/>
+    <path fill="#fff" d="M8.737 5.867h5.409l-.89 1.647H7.847zm-.926 6.588h4.556l-.89 1.646H6.922zm-.83-3.295h7.165l-.878 1.648H6.103zM5.89 7.514h1.957l-.89 1.647H5zm7.366 3.294H15l-.89 1.646h-1.743z"/>
+  </g>
+  <defs>
+    <clipPath id="solayer_svg__a">
+      <path fill="#fff" d="M0 0h20v20H0z"/>
+    </clipPath>
+  </defs>
+</svg>
