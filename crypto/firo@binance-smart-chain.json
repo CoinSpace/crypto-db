@@ -22,8 +22,5 @@
   "guardarian": {
     "ticker": "FIRO",
     "network": "BSC"
-  },
-  "onramper": {
-    "id": "firo_bsc"
   }
 }
