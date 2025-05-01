@@ -1,0 +1,18 @@
+{
+  "_id": "telcoin@arbitrum",
+  "asset": "telcoin",
+  "platform": "arbitrum",
+  "type": "token",
+  "name": "Telcoin",
+  "symbol": "TEL",
+  "address": "0x0419e8bfbbb2623728c3a6129090da4ff4e48113",
+  "decimals": 2,
+  "logo": "telcoin.svg",
+  "coingecko": {
+    "id": "telcoin"
+  },
+  "coinmarketcap": {
+    "id": 2394,
+    "slug": "telcoin"
+  }
+}
