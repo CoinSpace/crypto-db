@@ -22,8 +22,5 @@
   "guardarian": {
     "ticker": "USDC",
     "network": "TRX"
-  },
-  "onramper": {
-    "id": "usdc_tron"
   }
 }
