@@ -26,5 +26,9 @@
   "guardarian": {
     "ticker": "XAUT",
     "network": "ETH"
+  },
+  "moonpay": {
+    "id": "43f6bcdc-427a-49c6-adc1-430d14a2ac0c",
+    "code": "xaut"
   }
 }
