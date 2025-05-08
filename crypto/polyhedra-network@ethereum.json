@@ -1,0 +1,21 @@
+{
+  "_id": "polyhedra-network@ethereum",
+  "asset": "polyhedra-network",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Polyhedra Network",
+  "symbol": "ZKJ",
+  "address": "0xc71b5f631354be6853efe9c3ab6b9590f8302e81",
+  "decimals": 18,
+  "logo": "polyhedra-network.png",
+  "changelly": {
+    "ticker": "zkj"
+  },
+  "coingecko": {
+    "id": "polyhedra-network"
+  },
+  "coinmarketcap": {
+    "id": 29779,
+    "slug": "polyhedra-network"
+  }
+}

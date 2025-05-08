@@ -1,0 +1,18 @@
+{
+  "_id": "polyhedra-network@binance-smart-chain",
+  "asset": "polyhedra-network",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Polyhedra Network",
+  "symbol": "ZKJ",
+  "address": "0xc71b5f631354be6853efe9c3ab6b9590f8302e81",
+  "decimals": 18,
+  "logo": "polyhedra-network.png",
+  "coingecko": {
+    "id": "polyhedra-network"
+  },
+  "coinmarketcap": {
+    "id": 29779,
+    "slug": "polyhedra-network"
+  }
+}
