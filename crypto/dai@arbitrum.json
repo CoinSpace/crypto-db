@@ -25,8 +25,5 @@
   "guardarian": {
     "ticker": "DAI",
     "network": "ARBITRUM"
-  },
-  "onramper": {
-    "id": "dai_arbitrum"
   }
 }
