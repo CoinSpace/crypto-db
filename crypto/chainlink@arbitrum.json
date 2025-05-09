@@ -22,8 +22,5 @@
   "guardarian": {
     "ticker": "LINK",
     "network": "ARBITRUM"
-  },
-  "onramper": {
-    "id": "link_arbitrum"
   }
 }
