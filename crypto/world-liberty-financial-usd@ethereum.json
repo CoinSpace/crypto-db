@@ -1,0 +1,22 @@
+{
+  "_id": "world-liberty-financial-usd@ethereum",
+  "asset": "world-liberty-financial-usd",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "World Liberty Financial USD",
+  "symbol": "USD1",
+  "address": "0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d",
+  "decimals": 18,
+  "logo": "world-liberty-financial-usd.svg",
+  "changenow": {
+    "ticker": "usd1",
+    "network": "eth"
+  },
+  "coingecko": {
+    "id": "usd1-wlfi"
+  },
+  "coinmarketcap": {
+    "id": 36148,
+    "slug": "usd1"
+  }
+}
