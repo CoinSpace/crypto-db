@@ -3,8 +3,8 @@
   "asset": "frax-share",
   "platform": "ethereum",
   "type": "token",
-  "name": "Frax Share",
-  "symbol": "FXS",
+  "name": "Frax (prev. FXS)",
+  "symbol": "FRAX",
   "address": "0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0",
   "decimals": 18,
   "logo": "frax-share.svg",
@@ -25,8 +25,5 @@
   },
   "onramper": {
     "id": "fxs_ethereum"
-  },
-  "paybis": {
-    "id": "FXS"
   }
 }
