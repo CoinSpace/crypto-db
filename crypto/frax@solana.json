@@ -3,7 +3,7 @@
   "asset": "frax",
   "platform": "solana",
   "type": "token",
-  "name": "Frax",
+  "name": "Legacy Frax Dollar",
   "symbol": "FRAX",
   "address": "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
   "decimals": 8,
