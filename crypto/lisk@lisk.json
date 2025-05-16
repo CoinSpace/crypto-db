@@ -22,5 +22,8 @@
   "moonpay": {
     "id": "58cbf7cb-d8bd-4154-a949-ac8c4b6dd825",
     "code": "lsk"
+  },
+  "onramper": {
+    "id": "lsk_lisk"
   }
 }
