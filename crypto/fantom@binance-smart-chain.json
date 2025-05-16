@@ -18,8 +18,5 @@
   "guardarian": {
     "ticker": "FTM",
     "network": "BSC"
-  },
-  "onramper": {
-    "id": "ftm_bsc"
   }
 }
