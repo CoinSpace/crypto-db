@@ -6,7 +6,7 @@
   "name": "Smooth Love Potion",
   "symbol": "SLP",
   "address": "4hpngEp1v3CXpeKB81Gw4sv7YvwUVRKvY3SGag9ND8Q4",
-  "decimals": 8,
+  "decimals": 0,
   "logo": "smooth-love-potion.svg",
   "coingecko": {
     "id": "smooth-love-potion"
