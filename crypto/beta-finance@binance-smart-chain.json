@@ -19,5 +19,8 @@
   "coinmarketcap": {
     "id": 11307,
     "slug": "beta-finance"
+  },
+  "onramper": {
+    "id": "beta_bsc"
   }
 }

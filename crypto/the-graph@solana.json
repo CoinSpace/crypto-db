@@ -14,5 +14,8 @@
   "coinmarketcap": {
     "id": 6719,
     "slug": "the-graph"
+  },
+  "onramper": {
+    "id": "grt_solana"
   }
 }

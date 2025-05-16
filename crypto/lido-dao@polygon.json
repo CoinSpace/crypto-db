@@ -14,5 +14,8 @@
   "coinmarketcap": {
     "id": 8000,
     "slug": "lido-dao"
+  },
+  "onramper": {
+    "id": "ldo_polygon"
   }
 }

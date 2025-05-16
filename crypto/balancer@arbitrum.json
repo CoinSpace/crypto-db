@@ -14,5 +14,8 @@
   "coinmarketcap": {
     "id": 5728,
     "slug": "balancer"
+  },
+  "onramper": {
+    "id": "bal_arbitrum"
   }
 }

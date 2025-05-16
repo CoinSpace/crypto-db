@@ -22,5 +22,8 @@
   "guardarian": {
     "ticker": "ZEC",
     "network": "BSC"
+  },
+  "onramper": {
+    "id": "zec_bsc"
   }
 }

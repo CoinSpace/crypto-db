@@ -14,5 +14,8 @@
   "coinmarketcap": {
     "id": 2930,
     "slug": "iq"
+  },
+  "onramper": {
+    "id": "iq_polygon"
   }
 }

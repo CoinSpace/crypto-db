@@ -14,5 +14,8 @@
   "coinmarketcap": {
     "id": 6536,
     "slug": "mantra"
+  },
+  "onramper": {
+    "id": "om_polygon"
   }
 }

@@ -24,6 +24,9 @@
     "ticker": "BUSD",
     "network": "BSC"
   },
+  "onramper": {
+    "id": "busd_bsc"
+  },
   "paybis": {
     "id": "BUSD"
   }

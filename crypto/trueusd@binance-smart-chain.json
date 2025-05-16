@@ -26,5 +26,8 @@
   "guardarian": {
     "ticker": "TUSD",
     "network": "BSC"
+  },
+  "onramper": {
+    "id": "tusd_bsc"
   }
 }

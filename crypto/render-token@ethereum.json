@@ -16,6 +16,9 @@
     "id": 5690,
     "slug": "render"
   },
+  "onramper": {
+    "id": "rndr_ethereum"
+  },
   "paybis": {
     "id": "RNDR"
   }

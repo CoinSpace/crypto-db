@@ -14,5 +14,8 @@
   "coinmarketcap": {
     "id": 7501,
     "slug": "wootrade"
+  },
+  "onramper": {
+    "id": "woo_polygon"
   }
 }

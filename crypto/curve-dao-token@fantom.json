@@ -14,5 +14,8 @@
   "coinmarketcap": {
     "id": 6538,
     "slug": "curve-dao-token"
+  },
+  "onramper": {
+    "id": "crv_fantom"
   }
 }

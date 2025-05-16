@@ -14,5 +14,8 @@
   "coinmarketcap": {
     "id": 7859,
     "slug": "badger-dao"
+  },
+  "onramper": {
+    "id": "badger_arbitrum"
   }
 }

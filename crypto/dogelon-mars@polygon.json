@@ -14,5 +14,8 @@
   "coinmarketcap": {
     "id": 9436,
     "slug": "dogelon"
+  },
+  "onramper": {
+    "id": "elon_polygon"
   }
 }

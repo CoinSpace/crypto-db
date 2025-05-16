@@ -14,5 +14,8 @@
   "coinmarketcap": {
     "id": 4687,
     "slug": "binance-usd"
+  },
+  "onramper": {
+    "id": "busd_polygon"
   }
 }

@@ -14,5 +14,8 @@
   "coinmarketcap": {
     "id": 2563,
     "slug": "trueusd"
+  },
+  "onramper": {
+    "id": "tusd_polygon"
   }
 }

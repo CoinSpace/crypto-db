@@ -14,5 +14,8 @@
   "coinmarketcap": {
     "id": 8707,
     "slug": "alpaca-finance"
+  },
+  "onramper": {
+    "id": "alpaca_fantom"
   }
 }

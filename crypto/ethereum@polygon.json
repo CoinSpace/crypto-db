@@ -18,5 +18,8 @@
   "moonpay": {
     "id": "e149d940-85e2-4909-8d44-31a1c91b7a6f",
     "code": "eth_polygon"
+  },
+  "onramper": {
+    "id": "weth_polygon"
   }
 }

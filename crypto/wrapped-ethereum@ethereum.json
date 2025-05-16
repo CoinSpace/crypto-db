@@ -21,5 +21,8 @@
   "moonpay": {
     "id": "941511ea-1408-4761-bc97-d7e62f7737c4",
     "code": "weth"
+  },
+  "onramper": {
+    "id": "weth_ethereum"
   }
 }

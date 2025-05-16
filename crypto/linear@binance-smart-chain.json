@@ -18,5 +18,8 @@
   "coinmarketcap": {
     "id": 7102,
     "slug": "linear"
+  },
+  "onramper": {
+    "id": "lina_bsc"
   }
 }

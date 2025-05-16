@@ -14,5 +14,8 @@
   "coinmarketcap": {
     "id": 7278,
     "slug": "aave"
+  },
+  "onramper": {
+    "id": "aave_fantom"
   }
 }

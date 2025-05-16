@@ -14,5 +14,8 @@
   "coinmarketcap": {
     "id": 1975,
     "slug": "chainlink"
+  },
+  "onramper": {
+    "id": "link_fantom"
   }
 }

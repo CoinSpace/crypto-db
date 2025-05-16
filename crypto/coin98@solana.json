@@ -14,5 +14,8 @@
   "coinmarketcap": {
     "id": 10903,
     "slug": "coin98"
+  },
+  "onramper": {
+    "id": "c98_solana"
   }
 }

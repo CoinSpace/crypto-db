@@ -14,5 +14,8 @@
   "coinmarketcap": {
     "id": 5864,
     "slug": "yearn-finance"
+  },
+  "onramper": {
+    "id": "yfi_fantom"
   }
 }

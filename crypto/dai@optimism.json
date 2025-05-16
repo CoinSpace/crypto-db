@@ -18,5 +18,8 @@
   "coinmarketcap": {
     "id": 4943,
     "slug": "multi-collateral-dai"
+  },
+  "onramper": {
+    "id": "dai_optimism"
   }
 }

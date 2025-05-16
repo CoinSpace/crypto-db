@@ -22,5 +22,8 @@
   "guardarian": {
     "ticker": "MOG",
     "network": "BASE"
+  },
+  "onramper": {
+    "id": "mog_base"
   }
 }
