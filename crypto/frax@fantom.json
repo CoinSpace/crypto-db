@@ -3,7 +3,7 @@
   "asset": "frax",
   "platform": "fantom",
   "type": "token",
-  "name": "Frax",
+  "name": "Legacy Frax Dollar",
   "symbol": "FRAX",
   "address": "0xdc301622e621166bd8e82f2ca0a26c13ad0be355",
   "decimals": 18,
@@ -14,5 +14,8 @@
   "coinmarketcap": {
     "id": 6952,
     "slug": "frax"
+  },
+  "onramper": {
+    "id": "frax_fantom"
   }
 }

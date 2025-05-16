@@ -3,7 +3,7 @@
   "asset": "frax",
   "platform": "binance-smart-chain",
   "type": "token",
-  "name": "Frax",
+  "name": "Legacy Frax Dollar",
   "symbol": "FRAX",
   "address": "0x90c97f71e18723b0cf0dfa30ee176ab653e89f40",
   "decimals": 18,
@@ -15,5 +15,8 @@
   "coinmarketcap": {
     "id": 6952,
     "slug": "frax"
+  },
+  "onramper": {
+    "id": "frax_bsc"
   }
 }

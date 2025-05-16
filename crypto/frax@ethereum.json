@@ -3,7 +3,7 @@
   "asset": "frax",
   "platform": "ethereum",
   "type": "token",
-  "name": "Frax",
+  "name": "Legacy Frax Dollar",
   "symbol": "FRAX",
   "address": "0x853d955acef822db058eb8505911ed77f175b99e",
   "decimals": 18,

@@ -3,7 +3,7 @@
   "asset": "frax",
   "platform": "optimism",
   "type": "token",
-  "name": "Frax",
+  "name": "Legacy Frax Dollar",
   "symbol": "FRAX",
   "address": "0x2e3d870790dc77a83dd1d18184acc7439a53f475",
   "decimals": 18,

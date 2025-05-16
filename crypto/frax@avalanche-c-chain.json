@@ -3,7 +3,7 @@
   "asset": "frax",
   "platform": "avalanche-c-chain",
   "type": "token",
-  "name": "Frax",
+  "name": "Legacy Frax Dollar",
   "symbol": "FRAX",
   "address": "0xd24c2ad096400b6fbcd2ad8b24e7acbc21a1da64",
   "decimals": 18,
@@ -14,5 +14,8 @@
   "coinmarketcap": {
     "id": 6952,
     "slug": "frax"
+  },
+  "onramper": {
+    "id": "frax_avaxc"
   }
 }
