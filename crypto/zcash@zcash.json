@@ -28,8 +28,5 @@
   "guardarian": {
     "ticker": "ZEC",
     "network": "ZEC"
-  },
-  "onramper": {
-    "id": "zec_zcash"
   }
 }
