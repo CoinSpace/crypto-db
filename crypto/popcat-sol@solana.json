@@ -25,8 +25,5 @@
   "guardarian": {
     "ticker": "POPCAT",
     "network": "SOL"
-  },
-  "onramper": {
-    "id": "popcat_solana"
   }
 }
