@@ -8,11 +8,19 @@
   "address": "3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh",
   "decimals": 8,
   "logo": "wrapped-bitcoin.svg",
+  "changenow": {
+    "ticker": "wbtc",
+    "network": "sol"
+  },
   "coingecko": {
     "id": "wrapped-bitcoin"
   },
   "coinmarketcap": {
     "id": 3717,
     "slug": "wrapped-bitcoin"
+  },
+  "guardarian": {
+    "ticker": "WBTC",
+    "network": "SOL"
   }
 }
