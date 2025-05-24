@@ -3,9 +3,9 @@
   "asset": "stp-network",
   "platform": "base",
   "type": "token",
-  "name": "STP",
-  "symbol": "STPT",
-  "address": "0x4489d0a0345ecb216a3994de780d453c7fa6312c",
+  "name": "AWE Network",
+  "symbol": "AWE",
+  "address": "0x1b4617734c43f6159f3a70b7e06d883647512778",
   "decimals": 18,
   "logo": "stp-network.svg",
   "coingecko": {
@@ -13,6 +13,6 @@
   },
   "coinmarketcap": {
     "id": 4006,
-    "slug": "standard-tokenization-protocol"
+    "slug": "awe-network"
   }
 }
