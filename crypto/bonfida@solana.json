@@ -3,7 +3,7 @@
   "asset": "bonfida",
   "platform": "solana",
   "type": "token",
-  "name": "Solana Name Service",
+  "name": "Solana Name Service (previously Bonfida)",
   "symbol": "FIDA",
   "address": "EchesyfXePKdLtoiZSL8pBe8Myagyy8ZRqsACNCFGnvp",
   "decimals": 6,
