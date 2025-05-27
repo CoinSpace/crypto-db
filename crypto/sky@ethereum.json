@@ -1,0 +1,18 @@
+{
+  "_id": "sky@ethereum",
+  "asset": "sky",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Sky",
+  "symbol": "SKY",
+  "address": "0x56072c95faa701256059aa122697b133aded9279",
+  "decimals": 18,
+  "logo": "sky.png",
+  "coingecko": {
+    "id": "sky"
+  },
+  "coinmarketcap": {
+    "id": 33038,
+    "slug": "sky"
+  }
+}
