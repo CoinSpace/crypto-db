@@ -1,0 +1,19 @@
+{
+  "_id": "pax-dollar@solana",
+  "asset": "pax-dollar",
+  "platform": "solana",
+  "type": "token",
+  "name": "Pax Dollar",
+  "symbol": "USDP",
+  "address": "HVbpJAQGNpkgBaYBZQBR1t7yFdvaYVp2vCQQfKKEN4tM",
+  "decimals": 6,
+  "logo": "pax-dollar.svg",
+  "supported": "6.12.0",
+  "coingecko": {
+    "id": "paxos-standard"
+  },
+  "coinmarketcap": {
+    "id": 3330,
+    "slug": "paxos-standard"
+  }
+}
