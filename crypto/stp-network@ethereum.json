@@ -1,33 +1,20 @@
 {
+  "deprecated": true,
   "_id": "stp-network@ethereum",
   "asset": "stp-network",
   "platform": "ethereum",
   "type": "token",
-  "name": "STP",
-  "symbol": "STPT",
+  "name": "AWE Network",
+  "symbol": "AWE",
   "address": "0xde7d85157d9714eadf595045cc12ca4a5f3e2adb",
   "decimals": 18,
   "logo": "stp-network.svg",
-  "changelly": {
-    "ticker": "stpt"
-  },
-  "changenow": {
-    "ticker": "stpt",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "stp-network",
     "platform": "ethereum"
   },
   "coinmarketcap": {
     "id": 4006,
-    "slug": "standard-tokenization-protocol"
-  },
-  "guardarian": {
-    "ticker": "STPT",
-    "network": "ETH"
-  },
-  "onramper": {
-    "id": "stpt_ethereum"
+    "slug": "awe-network"
   }
 }
