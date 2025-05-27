@@ -18,5 +18,9 @@
   "coinmarketcap": {
     "id": 36148,
     "slug": "usd1"
+  },
+  "moonpay": {
+    "id": "66272bb4-a6a4-464a-9949-42f094a5faa5",
+    "code": "usd1_bsc"
   }
 }
