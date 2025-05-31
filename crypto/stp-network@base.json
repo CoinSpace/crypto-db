@@ -3,7 +3,7 @@
   "asset": "stp-network",
   "platform": "base",
   "type": "token",
-  "name": "AWE Network",
+  "name": "AWE",
   "symbol": "AWE",
   "address": "0x1b4617734c43f6159f3a70b7e06d883647512778",
   "decimals": 18,
