@@ -11,10 +11,6 @@
   "changelly": {
     "ticker": "stmx"
   },
-  "changenow": {
-    "ticker": "stmx",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "storm",
     "platform": "ethereum"
@@ -26,8 +22,5 @@
   "guardarian": {
     "ticker": "STMX",
     "network": "ETH"
-  },
-  "onramper": {
-    "id": "stmx_ethereum"
   }
 }
