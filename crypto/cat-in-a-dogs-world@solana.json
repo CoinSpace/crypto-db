@@ -22,6 +22,10 @@
     "id": 30126,
     "slug": "mew"
   },
+  "guardarian": {
+    "ticker": "MEW",
+    "network": "SOL"
+  },
   "moonpay": {
     "id": "21c7cf19-f5ea-4862-ae95-21c6ac23a769",
     "code": "mew_sol"
