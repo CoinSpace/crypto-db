@@ -22,5 +22,8 @@
   "guardarian": {
     "ticker": "SRM",
     "network": "SOL"
+  },
+  "onramper": {
+    "id": "srm_solana"
   }
 }
