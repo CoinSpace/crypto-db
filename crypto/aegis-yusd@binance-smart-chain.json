@@ -1,0 +1,18 @@
+{
+  "_id": "aegis-yusd@binance-smart-chain",
+  "asset": "aegis-yusd",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Aegis YUSD",
+  "symbol": "YUSD",
+  "address": "0xab3dbcd9b096c3ff76275038bf58eac10d22c61f",
+  "decimals": 18,
+  "logo": "aegis-yusd.png",
+  "coingecko": {
+    "id": "aegis-yusd"
+  },
+  "coinmarketcap": {
+    "id": 35976,
+    "slug": "aegis-yusd"
+  }
+}
