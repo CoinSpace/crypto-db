@@ -27,6 +27,10 @@
     "ticker": "USDC",
     "network": "BSC"
   },
+  "moonpay": {
+    "id": "14e624cf-28d9-40a7-80c5-60a0e50dae15",
+    "code": "usdc_bsc"
+  },
   "onramper": {
     "id": "usdc_bsc"
   }
