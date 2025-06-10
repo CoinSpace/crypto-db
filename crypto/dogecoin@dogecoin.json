@@ -40,9 +40,5 @@
   },
   "onramper": {
     "id": "doge_dogecoin"
-  },
-  "paybis": {
-    "id": "DOGE",
-    "sell": true
   }
 }
