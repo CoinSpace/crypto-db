@@ -35,9 +35,5 @@
   },
   "onramper": {
     "id": "pol_polygon"
-  },
-  "paybis": {
-    "id": "POL",
-    "sell": true
   }
 }
