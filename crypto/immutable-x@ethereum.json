@@ -33,8 +33,5 @@
   },
   "onramper": {
     "id": "imx_ethereum"
-  },
-  "paybis": {
-    "id": "IMX"
   }
 }
