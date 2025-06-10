@@ -27,5 +27,8 @@
   },
   "onramper": {
     "id": "cusd_celo"
+  },
+  "paybis": {
+    "id": "CUSD"
   }
 }
