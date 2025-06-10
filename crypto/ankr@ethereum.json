@@ -29,5 +29,8 @@
   },
   "onramper": {
     "id": "ankr_ethereum"
+  },
+  "paybis": {
+    "id": "ANKR"
   }
 }

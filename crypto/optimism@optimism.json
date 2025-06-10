@@ -28,5 +28,8 @@
   },
   "onramper": {
     "id": "op_optimism"
+  },
+  "paybis": {
+    "id": "OP"
   }
 }

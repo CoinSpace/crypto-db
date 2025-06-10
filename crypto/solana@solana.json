@@ -42,7 +42,6 @@
     "id": "sol"
   },
   "paybis": {
-    "id": "SOL",
-    "sell": true
+    "id": "SOL"
   }
 }

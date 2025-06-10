@@ -43,7 +43,6 @@
     "id": "usdc_ethereum"
   },
   "paybis": {
-    "id": "USDC",
-    "sell": true
+    "id": "USDC"
   }
 }

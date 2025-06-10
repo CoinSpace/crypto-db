@@ -26,5 +26,8 @@
   },
   "onramper": {
     "id": "ont_bsc"
+  },
+  "paybis": {
+    "id": "ONT"
   }
 }

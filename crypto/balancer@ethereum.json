@@ -29,5 +29,8 @@
   },
   "onramper": {
     "id": "bal_ethereum"
+  },
+  "paybis": {
+    "id": "BAL"
   }
 }

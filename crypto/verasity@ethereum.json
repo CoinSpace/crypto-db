@@ -18,5 +18,8 @@
   "coinmarketcap": {
     "id": 3816,
     "slug": "verasity"
+  },
+  "paybis": {
+    "id": "VRA"
   }
 }

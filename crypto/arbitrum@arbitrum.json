@@ -32,5 +32,8 @@
   },
   "onramper": {
     "id": "arb_arbitrum"
+  },
+  "paybis": {
+    "id": "ARB"
   }
 }

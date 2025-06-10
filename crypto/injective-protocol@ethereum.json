@@ -23,5 +23,8 @@
   "guardarian": {
     "ticker": "INJ",
     "network": "ETH"
+  },
+  "paybis": {
+    "id": "INJ"
   }
 }

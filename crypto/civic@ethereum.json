@@ -29,5 +29,8 @@
   },
   "onramper": {
     "id": "cvc_ethereum"
+  },
+  "paybis": {
+    "id": "CVC"
   }
 }

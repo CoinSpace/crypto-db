@@ -26,5 +26,8 @@
   },
   "onramper": {
     "id": "elf_ethereum"
+  },
+  "paybis": {
+    "id": "ELF"
   }
 }

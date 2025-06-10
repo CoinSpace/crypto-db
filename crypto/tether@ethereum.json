@@ -43,7 +43,6 @@
     "id": "usdt_ethereum"
   },
   "paybis": {
-    "id": "USDT",
-    "sell": true
+    "id": "USDT"
   }
 }

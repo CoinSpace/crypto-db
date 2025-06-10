@@ -31,5 +31,8 @@
   },
   "onramper": {
     "id": "zec_zcash"
+  },
+  "paybis": {
+    "id": "ZEC"
   }
 }

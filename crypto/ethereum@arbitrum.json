@@ -34,5 +34,8 @@
   },
   "onramper": {
     "id": "eth_arbitrum"
+  },
+  "paybis": {
+    "id": "ETH-ARB"
   }
 }

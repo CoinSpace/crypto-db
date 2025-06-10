@@ -29,5 +29,8 @@
   },
   "onramper": {
     "id": "ogn_ethereum"
+  },
+  "paybis": {
+    "id": "OGN"
   }
 }

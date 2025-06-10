@@ -33,5 +33,8 @@
   },
   "onramper": {
     "id": "grt_ethereum"
+  },
+  "paybis": {
+    "id": "GRT"
   }
 }

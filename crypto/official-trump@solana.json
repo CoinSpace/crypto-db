@@ -32,5 +32,8 @@
   },
   "onramper": {
     "id": "trump_solana"
+  },
+  "paybis": {
+    "id": "TRUMP"
   }
 }

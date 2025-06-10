@@ -35,5 +35,8 @@
   },
   "onramper": {
     "id": "usdt_solana"
+  },
+  "paybis": {
+    "id": "USDT-SOL"
   }
 }

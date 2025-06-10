@@ -22,5 +22,8 @@
   "coinmarketcap": {
     "id": 2394,
     "slug": "telcoin"
+  },
+  "paybis": {
+    "id": "TEL"
   }
 }

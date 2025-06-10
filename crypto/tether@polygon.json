@@ -37,7 +37,6 @@
     "id": "usdt_polygon"
   },
   "paybis": {
-    "id": "USDT-POLYGON",
-    "sell": true
+    "id": "USDT-POLYGON"
   }
 }

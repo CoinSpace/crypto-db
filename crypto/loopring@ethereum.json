@@ -29,5 +29,8 @@
   },
   "onramper": {
     "id": "lrc_ethereum"
+  },
+  "paybis": {
+    "id": "LRC"
   }
 }

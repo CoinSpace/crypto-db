@@ -37,7 +37,6 @@
     "id": "usdc_base"
   },
   "paybis": {
-    "id": "USDC-BASE",
-    "sell": true
+    "id": "USDC-BASE"
   }
 }

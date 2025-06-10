@@ -26,5 +26,8 @@
   "guardarian": {
     "ticker": "SNT",
     "network": "ETH"
+  },
+  "paybis": {
+    "id": "SNT"
   }
 }

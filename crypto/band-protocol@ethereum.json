@@ -29,5 +29,8 @@
   },
   "onramper": {
     "id": "band_ethereum"
+  },
+  "paybis": {
+    "id": "BAND"
   }
 }

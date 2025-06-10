@@ -33,5 +33,8 @@
   },
   "onramper": {
     "id": "mana_ethereum"
+  },
+  "paybis": {
+    "id": "MANA"
   }
 }

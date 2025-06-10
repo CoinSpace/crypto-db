@@ -32,5 +32,8 @@
   },
   "onramper": {
     "id": "bonk_solana"
+  },
+  "paybis": {
+    "id": "BONK-SOL"
   }
 }

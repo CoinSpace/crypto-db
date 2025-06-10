@@ -37,7 +37,6 @@
     "id": "pol_polygon"
   },
   "paybis": {
-    "id": "POL",
-    "sell": true
+    "id": "POL"
   }
 }

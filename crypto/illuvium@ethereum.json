@@ -29,5 +29,8 @@
   },
   "onramper": {
     "id": "ilv_ethereum"
+  },
+  "paybis": {
+    "id": "ILV"
   }
 }

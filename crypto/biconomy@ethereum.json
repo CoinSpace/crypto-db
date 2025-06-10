@@ -25,5 +25,8 @@
   },
   "onramper": {
     "id": "bico_ethereum"
+  },
+  "paybis": {
+    "id": "BICO"
   }
 }

@@ -38,7 +38,6 @@
     "id": "usdc_polygon"
   },
   "paybis": {
-    "id": "USDC-POLYGON",
-    "sell": true
+    "id": "USDC-POLYGON"
   }
 }

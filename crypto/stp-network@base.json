@@ -11,6 +11,10 @@
   "changelly": {
     "ticker": "awe"
   },
+  "changenow": {
+    "ticker": "awe",
+    "network": "base"
+  },
   "coingecko": {
     "id": "stp-network"
   },

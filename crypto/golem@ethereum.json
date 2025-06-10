@@ -29,5 +29,8 @@
   },
   "onramper": {
     "id": "glm_ethereum"
+  },
+  "paybis": {
+    "id": "GLM"
   }
 }

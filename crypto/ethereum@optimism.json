@@ -34,5 +34,8 @@
   },
   "onramper": {
     "id": "eth_optimism"
+  },
+  "paybis": {
+    "id": "ETH-OP"
   }
 }

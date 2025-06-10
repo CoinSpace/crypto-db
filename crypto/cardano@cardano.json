@@ -42,7 +42,6 @@
     "id": "ada_cardano"
   },
   "paybis": {
-    "id": "ADA",
-    "sell": true
+    "id": "ADA"
   }
 }

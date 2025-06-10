@@ -22,5 +22,8 @@
   "guardarian": {
     "ticker": "STMX",
     "network": "ETH"
+  },
+  "paybis": {
+    "id": "STMX"
   }
 }

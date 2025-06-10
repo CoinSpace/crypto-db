@@ -31,5 +31,8 @@
   },
   "onramper": {
     "id": "etc_ethereumclassic"
+  },
+  "paybis": {
+    "id": "ETC"
   }
 }
