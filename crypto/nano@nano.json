@@ -11,10 +11,6 @@
   "changelly": {
     "ticker": "xno"
   },
-  "changenow": {
-    "ticker": "xno",
-    "network": "nano"
-  },
   "coingecko": {
     "id": "nano"
   },
