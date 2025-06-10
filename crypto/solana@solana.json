@@ -40,9 +40,5 @@
   },
   "onramper": {
     "id": "sol"
-  },
-  "paybis": {
-    "id": "SOL",
-    "sell": true
   }
 }
