@@ -8,6 +8,9 @@
   "address": "0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d",
   "decimals": 18,
   "logo": "world-liberty-financial-usd.svg",
+  "changelly": {
+    "ticker": "usd1"
+  },
   "changenow": {
     "ticker": "usd1",
     "network": "bsc"
