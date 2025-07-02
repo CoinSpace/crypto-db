@@ -1,0 +1,18 @@
+{
+  "_id": "first-digital-usd@arbitrum",
+  "asset": "first-digital-usd",
+  "platform": "arbitrum",
+  "type": "token",
+  "name": "First Digital USD",
+  "symbol": "FDUSD",
+  "address": "0x93c9932e4afa59201f0b5e63f7d816516f1669fe",
+  "decimals": 18,
+  "logo": "first-digital-usd.svg",
+  "coingecko": {
+    "id": "first-digital-usd"
+  },
+  "coinmarketcap": {
+    "id": 26081,
+    "slug": "first-digital-usd"
+  }
+}
