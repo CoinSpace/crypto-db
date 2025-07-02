@@ -1,0 +1,18 @@
+{
+  "_id": "maple-finance@base",
+  "asset": "maple-finance",
+  "platform": "base",
+  "type": "token",
+  "name": "Maple Finance",
+  "symbol": "SYRUP",
+  "address": "0x688aee022aa544f150678b8e5720b6b96a9e9a2f",
+  "decimals": 18,
+  "logo": "maple-finance.svg",
+  "coingecko": {
+    "id": "syrup"
+  },
+  "coinmarketcap": {
+    "id": 33824,
+    "slug": "maple-finance"
+  }
+}
