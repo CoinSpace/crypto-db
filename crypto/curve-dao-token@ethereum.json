@@ -8,13 +8,6 @@
   "address": "0xd533a949740bb3306d119cc777fa900ba034cd52",
   "decimals": 18,
   "logo": "curve-dao-token.svg",
-  "changelly": {
-    "ticker": "crv"
-  },
-  "changenow": {
-    "ticker": "crv",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "curve-dao-token",
     "platform": "ethereum"
@@ -22,19 +15,5 @@
   "coinmarketcap": {
     "id": 6538,
     "slug": "curve-dao-token"
-  },
-  "guardarian": {
-    "ticker": "CRV",
-    "network": "ETH"
-  },
-  "moonpay": {
-    "id": "4f5770c9-139e-4f4e-878d-4e40611b3a7b",
-    "code": "crv_eth"
-  },
-  "onramper": {
-    "id": "crv_ethereum"
-  },
-  "paybis": {
-    "id": "CRV"
   }
 }

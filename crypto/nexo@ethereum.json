@@ -8,13 +8,6 @@
   "address": "0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206",
   "decimals": 18,
   "logo": "nexo.svg",
-  "changelly": {
-    "ticker": "nexo"
-  },
-  "changenow": {
-    "ticker": "nexo",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "nexo",
     "platform": "ethereum"
@@ -22,15 +15,5 @@
   "coinmarketcap": {
     "id": 2694,
     "slug": "nexo"
-  },
-  "guardarian": {
-    "ticker": "NEXO",
-    "network": "ETH"
-  },
-  "onramper": {
-    "id": "nexo_ethereum"
-  },
-  "paybis": {
-    "id": "NEXO"
   }
 }

@@ -8,16 +8,6 @@
   "address": "0x3c499c542cef5e3811e1192ce70d8cc03d5c3359",
   "decimals": 6,
   "logo": "usd-coin.svg",
-  "bitnovo": {
-    "id": "USDC_MATIC"
-  },
-  "changelly": {
-    "ticker": "usdcmatic"
-  },
-  "changenow": {
-    "ticker": "usdc",
-    "network": "matic"
-  },
   "coingecko": {
     "id": "usd-coin",
     "platform": "polygon-pos"
@@ -25,19 +15,5 @@
   "coinmarketcap": {
     "id": 3408,
     "slug": "usd-coin"
-  },
-  "guardarian": {
-    "ticker": "USDC",
-    "network": "MATIC"
-  },
-  "moonpay": {
-    "id": "1501ea35-9c89-4c1e-ae57-4a19d5a635db",
-    "code": "usdc_polygon"
-  },
-  "onramper": {
-    "id": "usdc_polygon"
-  },
-  "paybis": {
-    "id": "USDC-POLYGON"
   }
 }

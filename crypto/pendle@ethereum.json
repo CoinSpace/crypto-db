@@ -8,13 +8,6 @@
   "address": "0x808507121b80c02388fad14726482e061b8da827",
   "decimals": 18,
   "logo": "pendle.svg",
-  "changelly": {
-    "ticker": "pendle"
-  },
-  "changenow": {
-    "ticker": "pendle",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "pendle"
   },

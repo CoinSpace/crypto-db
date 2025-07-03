@@ -8,19 +8,11 @@
   "address": "0x68f180fcce6836688e9084f035309e29bf0a2095",
   "decimals": 8,
   "logo": "wrapped-bitcoin.svg",
-  "changenow": {
-    "ticker": "wbtc",
-    "network": "op"
-  },
   "coingecko": {
     "id": "wrapped-bitcoin"
   },
   "coinmarketcap": {
     "id": 3717,
     "slug": "wrapped-bitcoin"
-  },
-  "guardarian": {
-    "ticker": "WBTC",
-    "network": "OP"
   }
 }

@@ -8,22 +8,11 @@
   "address": "0x9ac983826058b8a9c7aa1c9171441191232e8404",
   "decimals": 18,
   "logo": "synthetix-network-token.svg",
-  "changenow": {
-    "ticker": "snx",
-    "network": "bsc"
-  },
   "coingecko": {
     "id": "havven"
   },
   "coinmarketcap": {
     "id": 2586,
     "slug": "synthetix"
-  },
-  "guardarian": {
-    "ticker": "SNX",
-    "network": "BSC"
-  },
-  "onramper": {
-    "id": "snx_bsc"
   }
 }

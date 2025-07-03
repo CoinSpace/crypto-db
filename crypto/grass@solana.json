@@ -8,13 +8,6 @@
   "address": "Grass7B4RdKfBCjTKgSqnXkqjwiGvQyFbuSCUJr3XXjs",
   "decimals": 9,
   "logo": "grass.svg",
-  "changelly": {
-    "ticker": "grass"
-  },
-  "changenow": {
-    "ticker": "grass",
-    "network": "sol"
-  },
   "coingecko": {
     "id": "grass"
   },

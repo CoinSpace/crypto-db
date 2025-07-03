@@ -8,13 +8,6 @@
   "address": "0x408e41876cccdc0f92210600ef50372656052a38",
   "decimals": 18,
   "logo": "ren.svg",
-  "changelly": {
-    "ticker": "ren"
-  },
-  "changenow": {
-    "ticker": "ren",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "republic-protocol",
     "platform": "ethereum"
@@ -22,12 +15,5 @@
   "coinmarketcap": {
     "id": 2539,
     "slug": "ren"
-  },
-  "guardarian": {
-    "ticker": "REN",
-    "network": "ETH"
-  },
-  "onramper": {
-    "id": "ren_ethereum"
   }
 }

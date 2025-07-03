@@ -8,13 +8,6 @@
   "address": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942",
   "decimals": 18,
   "logo": "decentraland.svg",
-  "changelly": {
-    "ticker": "mana"
-  },
-  "changenow": {
-    "ticker": "mana",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "decentraland",
     "platform": "ethereum"
@@ -22,19 +15,5 @@
   "coinmarketcap": {
     "id": 1966,
     "slug": "decentraland"
-  },
-  "guardarian": {
-    "ticker": "MANA",
-    "network": "ETH"
-  },
-  "moonpay": {
-    "id": "32376ac6-6f01-4861-9ea4-2a84e983ddab",
-    "code": "mana"
-  },
-  "onramper": {
-    "id": "mana_ethereum"
-  },
-  "paybis": {
-    "id": "MANA"
   }
 }

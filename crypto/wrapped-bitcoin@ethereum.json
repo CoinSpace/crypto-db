@@ -8,13 +8,6 @@
   "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
   "decimals": 8,
   "logo": "wrapped-bitcoin.svg",
-  "changelly": {
-    "ticker": "wbtc"
-  },
-  "changenow": {
-    "ticker": "wbtc",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "wrapped-bitcoin",
     "platform": "ethereum"
@@ -22,19 +15,5 @@
   "coinmarketcap": {
     "id": 3717,
     "slug": "wrapped-bitcoin"
-  },
-  "guardarian": {
-    "ticker": "WBTC",
-    "network": "ETH"
-  },
-  "moonpay": {
-    "id": "fec58310-c00f-4874-8509-2ccbf4249eb1",
-    "code": "wbtc"
-  },
-  "onramper": {
-    "id": "wbtc_ethereum"
-  },
-  "paybis": {
-    "id": "WBTC"
   }
 }

@@ -8,13 +8,6 @@
   "address": "0x0b3e328455c4059eeb9e3f84b5543f74e24e7e1b",
   "decimals": 18,
   "logo": "virtuals-protocol.svg",
-  "changelly": {
-    "ticker": "virtual"
-  },
-  "changenow": {
-    "ticker": "virtual",
-    "network": "base"
-  },
   "coingecko": {
     "id": "virtual-protocol"
   },

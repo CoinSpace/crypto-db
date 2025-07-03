@@ -8,13 +8,6 @@
   "address": "0x58b6a8a3302369daec383334672404ee733ab239",
   "decimals": 18,
   "logo": "livepeer.svg",
-  "changelly": {
-    "ticker": "lpt"
-  },
-  "changenow": {
-    "ticker": "lpt",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "livepeer",
     "platform": "ethereum"
@@ -22,15 +15,5 @@
   "coinmarketcap": {
     "id": 3640,
     "slug": "livepeer"
-  },
-  "moonpay": {
-    "id": "2cd82573-87c8-42e5-ad1b-731ee1ceecd8",
-    "code": "lpt_eth"
-  },
-  "onramper": {
-    "id": "lpt_ethereum"
-  },
-  "paybis": {
-    "id": "LPT"
   }
 }

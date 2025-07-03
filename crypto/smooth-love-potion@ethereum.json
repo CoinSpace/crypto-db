@@ -8,13 +8,6 @@
   "address": "0xcc8fa225d80b9c7d42f96e9570156c65d6caaa25",
   "decimals": 0,
   "logo": "smooth-love-potion.svg",
-  "changelly": {
-    "ticker": "slp"
-  },
-  "changenow": {
-    "ticker": "slp",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "smooth-love-potion",
     "platform": "ethereum"
@@ -22,12 +15,5 @@
   "coinmarketcap": {
     "id": 5824,
     "slug": "smooth-love-potion"
-  },
-  "moonpay": {
-    "id": "ed35ab11-5b56-40fc-9b7d-ef9b74565e1e",
-    "code": "slp"
-  },
-  "onramper": {
-    "id": "slp_ethereum"
   }
 }

@@ -8,13 +8,6 @@
   "address": "0xa91ac63d040deb1b7a5e4d4134ad23eb0ba07e14",
   "decimals": 18,
   "logo": "bella-protocol.svg",
-  "changelly": {
-    "ticker": "bel"
-  },
-  "changenow": {
-    "ticker": "bel",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "bella-protocol",
     "platform": "ethereum"
@@ -22,12 +15,5 @@
   "coinmarketcap": {
     "id": 6928,
     "slug": "bella-protocol"
-  },
-  "guardarian": {
-    "ticker": "BEL",
-    "network": "ETH"
-  },
-  "onramper": {
-    "id": "bel_ethereum"
   }
 }

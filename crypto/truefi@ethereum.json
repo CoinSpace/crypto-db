@@ -8,13 +8,6 @@
   "address": "0x4c19596f5aaff459fa38b0f7ed92f11ae6543784",
   "decimals": 8,
   "logo": "truefi.svg",
-  "changelly": {
-    "ticker": "tru"
-  },
-  "changenow": {
-    "ticker": "tru",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "truefi",
     "platform": "ethereum"
@@ -22,8 +15,5 @@
   "coinmarketcap": {
     "id": 7725,
     "slug": "truefi-token"
-  },
-  "onramper": {
-    "id": "tru_ethereum"
   }
 }

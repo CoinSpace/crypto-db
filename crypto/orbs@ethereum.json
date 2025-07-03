@@ -8,13 +8,6 @@
   "address": "0xff56cc6b1e6ded347aa0b7676c85ab0b3d08b0fa",
   "decimals": 18,
   "logo": "orbs.svg",
-  "changelly": {
-    "ticker": "orbs"
-  },
-  "changenow": {
-    "ticker": "orbs",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "orbs",
     "platform": "ethereum"
@@ -22,8 +15,5 @@
   "coinmarketcap": {
     "id": 3835,
     "slug": "orbs"
-  },
-  "onramper": {
-    "id": "orbs_ethereum"
   }
 }

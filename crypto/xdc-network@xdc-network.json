@@ -8,22 +8,11 @@
   "decimals": 18,
   "logo": "xdc-network.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "xdc"
-  },
-  "changenow": {
-    "ticker": "xdc",
-    "network": "xdc"
-  },
   "coingecko": {
     "id": "xdce-crowd-sale"
   },
   "coinmarketcap": {
     "id": 2634,
     "slug": "xdc-network"
-  },
-  "guardarian": {
-    "ticker": "XDC",
-    "network": "XDC"
   }
 }

@@ -8,13 +8,6 @@
   "address": "0xe41d2489571d322189246dafa5ebde1f4699f498",
   "decimals": 18,
   "logo": "0x.svg",
-  "changelly": {
-    "ticker": "zrx"
-  },
-  "changenow": {
-    "ticker": "zrx",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "0x",
     "platform": "ethereum"
@@ -22,19 +15,5 @@
   "coinmarketcap": {
     "id": 1896,
     "slug": "0x"
-  },
-  "guardarian": {
-    "ticker": "ZRX",
-    "network": "ETH"
-  },
-  "moonpay": {
-    "id": "9c244f90-6c08-4a77-ab27-8e1cfff2388e",
-    "code": "zrx"
-  },
-  "onramper": {
-    "id": "zrx_ethereum"
-  },
-  "paybis": {
-    "id": "ZRX"
   }
 }

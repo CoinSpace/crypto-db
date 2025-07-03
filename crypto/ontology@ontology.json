@@ -8,25 +8,11 @@
   "decimals": 0,
   "logo": "ontology.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "ont"
-  },
-  "changenow": {
-    "ticker": "ont",
-    "network": "ont"
-  },
   "coingecko": {
     "id": "ontology"
   },
   "coinmarketcap": {
     "id": 2566,
     "slug": "ontology"
-  },
-  "guardarian": {
-    "ticker": "ONT",
-    "network": "ONT"
-  },
-  "onramper": {
-    "id": "ont_ontology"
   }
 }

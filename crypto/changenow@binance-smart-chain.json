@@ -8,19 +8,11 @@
   "address": "0x02533c1e9abbafe5816ed8b27c0d22a8731075e0",
   "decimals": 18,
   "logo": "changenow.svg",
-  "changenow": {
-    "ticker": "now",
-    "network": "bsc"
-  },
   "coingecko": {
     "id": "changenow"
   },
   "coinmarketcap": {
     "id": 3893,
     "slug": "now-token"
-  },
-  "guardarian": {
-    "ticker": "NOW",
-    "network": "BSC"
   }
 }

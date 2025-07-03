@@ -8,13 +8,6 @@
   "address": "0x8e870d67f660d95d5be530380d0ec0bd388289e1",
   "decimals": 18,
   "logo": "pax-dollar.svg",
-  "changelly": {
-    "ticker": "usdp"
-  },
-  "changenow": {
-    "ticker": "usdp",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "paxos-standard",
     "platform": "ethereum"
@@ -22,9 +15,5 @@
   "coinmarketcap": {
     "id": 3330,
     "slug": "paxos-standard"
-  },
-  "guardarian": {
-    "ticker": "USDP",
-    "network": "ETH"
   }
 }

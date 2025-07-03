@@ -8,29 +8,11 @@
   "decimals": 4,
   "logo": "theta-network.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "theta"
-  },
-  "changenow": {
-    "ticker": "theta",
-    "network": "theta"
-  },
   "coingecko": {
     "id": "theta-token"
   },
   "coinmarketcap": {
     "id": 2416,
     "slug": "theta-network"
-  },
-  "guardarian": {
-    "ticker": "THETA",
-    "network": "THETA"
-  },
-  "moonpay": {
-    "id": "af8f6a3e-6d4b-4b68-ae43-e967d3c76e41",
-    "code": "theta_theta"
-  },
-  "onramper": {
-    "id": "theta_theta"
   }
 }

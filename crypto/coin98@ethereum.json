@@ -8,13 +8,6 @@
   "address": "0xae12c5930881c53715b369cec7606b70d8eb229f",
   "decimals": 18,
   "logo": "coin98.svg",
-  "changelly": {
-    "ticker": "c98"
-  },
-  "changenow": {
-    "ticker": "c98",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "coin98",
     "platform": "ethereum"
@@ -22,12 +15,5 @@
   "coinmarketcap": {
     "id": 10903,
     "slug": "coin98"
-  },
-  "guardarian": {
-    "ticker": "C98",
-    "network": "ETH"
-  },
-  "onramper": {
-    "id": "c98_ethereum"
   }
 }

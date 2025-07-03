@@ -8,25 +8,11 @@
   "address": "TUpMhErZL2fhh4sVNULAbNKLokS4GjC1F4",
   "decimals": 18,
   "logo": "trueusd.svg",
-  "changelly": {
-    "ticker": "tusdtrx"
-  },
-  "changenow": {
-    "ticker": "tusd",
-    "network": "trx"
-  },
   "coingecko": {
     "id": "true-usd"
   },
   "coinmarketcap": {
     "id": 2563,
     "slug": "trueusd"
-  },
-  "guardarian": {
-    "ticker": "TUSD",
-    "network": "TRX"
-  },
-  "onramper": {
-    "id": "tusd_tron"
   }
 }

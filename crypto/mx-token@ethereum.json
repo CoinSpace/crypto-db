@@ -8,13 +8,6 @@
   "address": "0x11eef04c884e24d9b7b4760e7476d06ddf797f36",
   "decimals": 18,
   "logo": "mx-token.svg",
-  "changelly": {
-    "ticker": "mx"
-  },
-  "changenow": {
-    "ticker": "mx",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "mx-token",
     "platform": "ethereum"
@@ -22,9 +15,5 @@
   "coinmarketcap": {
     "id": 4041,
     "slug": "mx-token"
-  },
-  "guardarian": {
-    "ticker": "MX",
-    "network": "ETH"
   }
 }

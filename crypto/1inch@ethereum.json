@@ -8,13 +8,6 @@
   "address": "0x111111111117dc0aa78b770fa6a738034120c302",
   "decimals": 18,
   "logo": "1inch.svg",
-  "changelly": {
-    "ticker": "1inch"
-  },
-  "changenow": {
-    "ticker": "1inch",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "1inch",
     "platform": "ethereum"
@@ -22,19 +15,5 @@
   "coinmarketcap": {
     "id": 8104,
     "slug": "1inch"
-  },
-  "guardarian": {
-    "ticker": "1INCH",
-    "network": "ETH"
-  },
-  "moonpay": {
-    "id": "352111d3-4745-4ddc-a1d3-1cfeee0f4450",
-    "code": "1inch_eth"
-  },
-  "onramper": {
-    "id": "1inch_ethereum"
-  },
-  "paybis": {
-    "id": "ONEINCH"
   }
 }

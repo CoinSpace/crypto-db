@@ -8,18 +8,6 @@
   "address": "0x514910771af9ca656af840dff83e8264ecf986ca",
   "decimals": 18,
   "logo": "chainlink.svg",
-  "btcdirect": {
-    "currencyPair": [
-      "LINK-EUR"
-    ]
-  },
-  "changelly": {
-    "ticker": "link"
-  },
-  "changenow": {
-    "ticker": "link",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "chainlink",
     "platform": "ethereum"
@@ -27,19 +15,5 @@
   "coinmarketcap": {
     "id": 1975,
     "slug": "chainlink"
-  },
-  "guardarian": {
-    "ticker": "LINK",
-    "network": "ETH"
-  },
-  "moonpay": {
-    "id": "d5a202d2-fb36-49bb-93d5-2c2e5d6d000f",
-    "code": "link"
-  },
-  "onramper": {
-    "id": "link_ethereum"
-  },
-  "paybis": {
-    "id": "LINK"
   }
 }

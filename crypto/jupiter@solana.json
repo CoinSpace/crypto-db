@@ -8,22 +8,11 @@
   "address": "JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN",
   "decimals": 6,
   "logo": "jupiter.svg",
-  "changelly": {
-    "ticker": "jup"
-  },
-  "changenow": {
-    "ticker": "jup",
-    "network": "sol"
-  },
   "coingecko": {
     "id": "jupiter-exchange-solana"
   },
   "coinmarketcap": {
     "id": 29210,
     "slug": "jupiter-ag"
-  },
-  "moonpay": {
-    "id": "0caaf778-13de-4fa3-ba1b-df7f26b09f78",
-    "code": "jup_sol"
   }
 }

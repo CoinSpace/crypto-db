@@ -8,31 +8,11 @@
   "decimals": 8,
   "logo": "zcash.svg",
   "supported": false,
-  "bitnovo": {
-    "id": "ZEC"
-  },
-  "changelly": {
-    "ticker": "zec"
-  },
-  "changenow": {
-    "ticker": "zec",
-    "network": "zec"
-  },
   "coingecko": {
     "id": "zcash"
   },
   "coinmarketcap": {
     "id": 1437,
     "slug": "zcash"
-  },
-  "guardarian": {
-    "ticker": "ZEC",
-    "network": "ZEC"
-  },
-  "onramper": {
-    "id": "zec_zcash"
-  },
-  "paybis": {
-    "id": "ZEC"
   }
 }

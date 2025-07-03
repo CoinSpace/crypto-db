@@ -8,13 +8,6 @@
   "address": "0x32353a6c91143bfd6c7d363b546e62a9a2489a20",
   "decimals": 18,
   "logo": "adventure-gold.svg",
-  "changelly": {
-    "ticker": "agld"
-  },
-  "changenow": {
-    "ticker": "agld",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "adventure-gold",
     "platform": "ethereum"
@@ -22,8 +15,5 @@
   "coinmarketcap": {
     "id": 11568,
     "slug": "adventure-gold"
-  },
-  "onramper": {
-    "id": "agld_ethereum"
   }
 }

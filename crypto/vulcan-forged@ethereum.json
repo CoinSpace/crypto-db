@@ -8,10 +8,6 @@
   "address": "0x430ef9263e76dae63c84292c3409d61c598e9682",
   "decimals": 18,
   "logo": "vulcan-forged.svg",
-  "changenow": {
-    "ticker": "pyr",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "vulcan-forged",
     "platform": "ethereum"
@@ -19,12 +15,5 @@
   "coinmarketcap": {
     "id": 9308,
     "slug": "vulcan-forged-pyr"
-  },
-  "guardarian": {
-    "ticker": "PYR",
-    "network": "ETH"
-  },
-  "onramper": {
-    "id": "pyr_ethereum"
   }
 }

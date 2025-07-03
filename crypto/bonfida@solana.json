@@ -8,13 +8,6 @@
   "address": "EchesyfXePKdLtoiZSL8pBe8Myagyy8ZRqsACNCFGnvp",
   "decimals": 6,
   "logo": "bonfida.svg",
-  "changelly": {
-    "ticker": "fida"
-  },
-  "changenow": {
-    "ticker": "fida",
-    "network": "sol"
-  },
   "coingecko": {
     "id": "bonfida",
     "platform": "solana"
@@ -22,12 +15,5 @@
   "coinmarketcap": {
     "id": 7978,
     "slug": "solana-name-service"
-  },
-  "guardarian": {
-    "ticker": "FIDA",
-    "network": "SOL"
-  },
-  "onramper": {
-    "id": "fida_solana"
   }
 }

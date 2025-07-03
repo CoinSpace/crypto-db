@@ -8,26 +8,11 @@
   "address": "EQCvxJy4eG8hyHBFsZ7eePxrRsUQSFE_jpptRAYBmcG_DOGS",
   "decimals": 9,
   "logo": "dogs.svg",
-  "changelly": {
-    "ticker": "dogs"
-  },
-  "changenow": {
-    "ticker": "dogs",
-    "network": "ton"
-  },
   "coingecko": {
     "id": "dogs-2"
   },
   "coinmarketcap": {
     "id": 32698,
     "slug": "dogs"
-  },
-  "guardarian": {
-    "ticker": "DOGS",
-    "network": "TON"
-  },
-  "moonpay": {
-    "id": "6466c11f-cc7e-4a19-8472-9ac48ce8abb2",
-    "code": "dogs_ton"
   }
 }

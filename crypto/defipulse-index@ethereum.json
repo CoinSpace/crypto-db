@@ -8,10 +8,6 @@
   "address": "0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b",
   "decimals": 18,
   "logo": "defipulse-index.svg",
-  "changenow": {
-    "ticker": "dpi",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "defipulse-index",
     "platform": "ethereum"
@@ -19,9 +15,5 @@
   "coinmarketcap": {
     "id": 7055,
     "slug": "defi-pulse-index"
-  },
-  "guardarian": {
-    "ticker": "DPI",
-    "network": "ETH"
   }
 }

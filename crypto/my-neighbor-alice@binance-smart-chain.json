@@ -8,10 +8,6 @@
   "address": "0xac51066d7bec65dc4589368da368b212745d63e8",
   "decimals": 6,
   "logo": "my-neighbor-alice.svg",
-  "changenow": {
-    "ticker": "alice",
-    "network": "bsc"
-  },
   "coingecko": {
     "id": "my-neighbor-alice",
     "platform": "binance-smart-chain"
@@ -19,12 +15,5 @@
   "coinmarketcap": {
     "id": 8766,
     "slug": "myneighboralice"
-  },
-  "guardarian": {
-    "ticker": "ALICE",
-    "network": "BSC"
-  },
-  "onramper": {
-    "id": "alice_bsc"
   }
 }

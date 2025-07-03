@@ -8,22 +8,11 @@
   "address": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
   "decimals": 8,
   "logo": "wrapped-bitcoin.svg",
-  "changenow": {
-    "ticker": "wbtc",
-    "network": "arbitrum"
-  },
   "coingecko": {
     "id": "wrapped-bitcoin"
   },
   "coinmarketcap": {
     "id": 3717,
     "slug": "wrapped-bitcoin"
-  },
-  "guardarian": {
-    "ticker": "WBTC",
-    "network": "ARBITRUM"
-  },
-  "onramper": {
-    "id": "wbtc_arbitrum"
   }
 }

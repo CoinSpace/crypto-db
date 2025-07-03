@@ -8,13 +8,6 @@
   "address": "0x04fa0d235c4abf4bcf4787af4cf447de572ef828",
   "decimals": 18,
   "logo": "uma.svg",
-  "changelly": {
-    "ticker": "uma"
-  },
-  "changenow": {
-    "ticker": "uma",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "uma",
     "platform": "ethereum"
@@ -22,15 +15,5 @@
   "coinmarketcap": {
     "id": 5617,
     "slug": "uma"
-  },
-  "guardarian": {
-    "ticker": "UMA",
-    "network": "ETH"
-  },
-  "onramper": {
-    "id": "uma_ethereum"
-  },
-  "paybis": {
-    "id": "UMA"
   }
 }

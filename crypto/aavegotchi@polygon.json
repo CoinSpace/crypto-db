@@ -8,18 +8,11 @@
   "address": "0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7",
   "decimals": 18,
   "logo": "aavegotchi.svg",
-  "changenow": {
-    "ticker": "ghst",
-    "network": "matic"
-  },
   "coingecko": {
     "id": "aavegotchi"
   },
   "coinmarketcap": {
     "id": 7046,
     "slug": "aavegotchi"
-  },
-  "onramper": {
-    "id": "ghst_polygon"
   }
 }

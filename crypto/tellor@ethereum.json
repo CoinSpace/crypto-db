@@ -8,25 +8,11 @@
   "address": "0x88df592f8eb5d7bd38bfef7deb0fbc02cf3778a0",
   "decimals": 18,
   "logo": "tellor.svg",
-  "changelly": {
-    "ticker": "trb"
-  },
-  "changenow": {
-    "ticker": "trb",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "tellor"
   },
   "coinmarketcap": {
     "id": 4944,
     "slug": "tellor"
-  },
-  "moonpay": {
-    "id": "1c1fb538-1a4a-432e-bc3f-6b9e830fbffc",
-    "code": "trb_eth"
-  },
-  "onramper": {
-    "id": "trb_ethereum"
   }
 }

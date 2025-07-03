@@ -8,35 +8,11 @@
   "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
   "decimals": 6,
   "logo": "tether.svg",
-  "bitnovo": {
-    "id": "USDT_SOL"
-  },
-  "changelly": {
-    "ticker": "usdtsol"
-  },
-  "changenow": {
-    "ticker": "usdt",
-    "network": "sol"
-  },
   "coingecko": {
     "id": "tether"
   },
   "coinmarketcap": {
     "id": 825,
     "slug": "tether"
-  },
-  "guardarian": {
-    "ticker": "USDT",
-    "network": "SOL"
-  },
-  "moonpay": {
-    "id": "56b78007-185f-4343-8cb5-6903fb1d7865",
-    "code": "usdt_sol"
-  },
-  "onramper": {
-    "id": "usdt_solana"
-  },
-  "paybis": {
-    "id": "USDT-SOL"
   }
 }

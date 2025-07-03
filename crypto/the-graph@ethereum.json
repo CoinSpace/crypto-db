@@ -8,13 +8,6 @@
   "address": "0xc944e90c64b2c07662a292be6244bdf05cda44a7",
   "decimals": 18,
   "logo": "the-graph.svg",
-  "changelly": {
-    "ticker": "grt"
-  },
-  "changenow": {
-    "ticker": "grt",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "the-graph",
     "platform": "ethereum"
@@ -22,19 +15,5 @@
   "coinmarketcap": {
     "id": 6719,
     "slug": "the-graph"
-  },
-  "guardarian": {
-    "ticker": "GRT",
-    "network": "ETH"
-  },
-  "moonpay": {
-    "id": "bf5bc858-5ddf-4de6-b4c1-176ee12516e3",
-    "code": "grt"
-  },
-  "onramper": {
-    "id": "grt_ethereum"
-  },
-  "paybis": {
-    "id": "GRT"
   }
 }

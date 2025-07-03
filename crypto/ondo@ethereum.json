@@ -8,22 +8,11 @@
   "address": "0xfaba6f8e4a5e8ab82f62fe7c39859fa577269be3",
   "decimals": 18,
   "logo": "ondo.svg",
-  "changelly": {
-    "ticker": "ondo"
-  },
-  "changenow": {
-    "ticker": "ondo",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "ondo-finance"
   },
   "coinmarketcap": {
     "id": 21159,
     "slug": "ondo-finance"
-  },
-  "moonpay": {
-    "id": "a44f8a3e-ad77-4b21-997c-f86a36b5270c",
-    "code": "ondo_eth"
   }
 }

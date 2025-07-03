@@ -8,13 +8,6 @@
   "address": "0xbb0e17ef65f82ab018d8edd776e8dd940327b28b",
   "decimals": 18,
   "logo": "axie-infinity.svg",
-  "changelly": {
-    "ticker": "axs"
-  },
-  "changenow": {
-    "ticker": "axs",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "axie-infinity",
     "platform": "ethereum"
@@ -22,19 +15,5 @@
   "coinmarketcap": {
     "id": 6783,
     "slug": "axie-infinity"
-  },
-  "guardarian": {
-    "ticker": "AXS",
-    "network": "ETH"
-  },
-  "moonpay": {
-    "id": "90ea8961-9e67-4f60-8f14-ac9cd6c85056",
-    "code": "axs"
-  },
-  "onramper": {
-    "id": "axs_ethereum"
-  },
-  "paybis": {
-    "id": "AXS"
   }
 }

@@ -8,22 +8,11 @@
   "address": "0x1ba42e5193dfa8b03d15dd1b86a3113bbbef8eeb",
   "decimals": 18,
   "logo": "zcash.svg",
-  "changenow": {
-    "ticker": "zec",
-    "network": "bsc"
-  },
   "coingecko": {
     "id": "zcash"
   },
   "coinmarketcap": {
     "id": 1437,
     "slug": "zcash"
-  },
-  "guardarian": {
-    "ticker": "ZEC",
-    "network": "BSC"
-  },
-  "onramper": {
-    "id": "zec_bsc"
   }
 }

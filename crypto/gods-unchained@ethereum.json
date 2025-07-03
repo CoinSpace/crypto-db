@@ -8,13 +8,6 @@
   "address": "0xccc8cb5229b0ac8069c51fd58367fd1e622afd97",
   "decimals": 18,
   "logo": "gods-unchained.svg",
-  "changelly": {
-    "ticker": "gods"
-  },
-  "changenow": {
-    "ticker": "gods",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "gods-unchained",
     "platform": "ethereum"
@@ -22,9 +15,5 @@
   "coinmarketcap": {
     "id": 10631,
     "slug": "gods-unchained"
-  },
-  "moonpay": {
-    "id": "6375a62b-8c13-4a72-8d1a-2485c45de8c1",
-    "code": "gods"
   }
 }

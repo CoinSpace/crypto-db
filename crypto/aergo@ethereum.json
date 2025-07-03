@@ -8,13 +8,6 @@
   "address": "0x91af0fbb28aba7e31403cb457106ce79397fd4e6",
   "decimals": 18,
   "logo": "aergo.svg",
-  "changelly": {
-    "ticker": "aergo"
-  },
-  "changenow": {
-    "ticker": "aergo",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "aergo",
     "platform": "ethereum"
@@ -22,12 +15,5 @@
   "coinmarketcap": {
     "id": 3637,
     "slug": "aergo"
-  },
-  "guardarian": {
-    "ticker": "AERGO",
-    "network": "ETH"
-  },
-  "onramper": {
-    "id": "aergo_ethereum"
   }
 }

@@ -8,13 +8,6 @@
   "address": "0x3203c9e46ca618c8c1ce5dc67e7e9d75f5da2377",
   "decimals": 18,
   "logo": "mobox.svg",
-  "changelly": {
-    "ticker": "mbox"
-  },
-  "changenow": {
-    "ticker": "mbox",
-    "network": "bsc"
-  },
   "coingecko": {
     "id": "mobox",
     "platform": "binance-smart-chain"
@@ -22,12 +15,5 @@
   "coinmarketcap": {
     "id": 9175,
     "slug": "mobox"
-  },
-  "guardarian": {
-    "ticker": "MBOX",
-    "network": "BSC"
-  },
-  "onramper": {
-    "id": "mbox_bsc"
   }
 }

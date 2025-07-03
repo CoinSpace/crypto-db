@@ -8,13 +8,6 @@
   "address": "0xec67005c4e498ec7f55e092bd1d35cbc47c91892",
   "decimals": 18,
   "logo": "enzyme.svg",
-  "changelly": {
-    "ticker": "mln"
-  },
-  "changenow": {
-    "ticker": "mln",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "melon",
     "platform": "ethereum"
@@ -22,8 +15,5 @@
   "coinmarketcap": {
     "id": 1552,
     "slug": "enzyme"
-  },
-  "onramper": {
-    "id": "mln_ethereum"
   }
 }

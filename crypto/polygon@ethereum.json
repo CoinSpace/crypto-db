@@ -8,26 +8,11 @@
   "address": "0x455e53cbb86018ac2b8092fdcd39d8444affc3f6",
   "decimals": 18,
   "logo": "polygon.svg",
-  "changelly": {
-    "ticker": "poleth"
-  },
-  "changenow": {
-    "ticker": "pol",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "polygon-ecosystem-token"
   },
   "coinmarketcap": {
     "id": 28321,
     "slug": "polygon-ecosystem-token"
-  },
-  "guardarian": {
-    "ticker": "POL",
-    "network": "ETH"
-  },
-  "moonpay": {
-    "id": "3dc0d50d-b3a0-4aec-b1d6-6d00f7b70830",
-    "code": "pol"
   }
 }

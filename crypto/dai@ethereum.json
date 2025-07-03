@@ -8,35 +8,11 @@
   "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
   "decimals": 18,
   "logo": "dai.svg",
-  "bitnovo": {
-    "id": "DAI_ETH"
-  },
-  "changelly": {
-    "ticker": "dai"
-  },
-  "changenow": {
-    "ticker": "dai",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "dai"
   },
   "coinmarketcap": {
     "id": 4943,
     "slug": "multi-collateral-dai"
-  },
-  "guardarian": {
-    "ticker": "DAI",
-    "network": "ETH"
-  },
-  "moonpay": {
-    "id": "0c9480ef-2fab-4d31-9037-da4b29ecc16f",
-    "code": "dai"
-  },
-  "onramper": {
-    "id": "dai_ethereum"
-  },
-  "paybis": {
-    "id": "DAI"
   }
 }

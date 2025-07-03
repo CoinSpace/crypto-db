@@ -7,34 +7,11 @@
   "symbol": "TON",
   "decimals": 9,
   "logo": "toncoin.svg",
-  "btcdirect": {
-    "currencyPair": [
-      "TON-EUR"
-    ]
-  },
-  "changelly": {
-    "ticker": "ton"
-  },
-  "changenow": {
-    "ticker": "ton",
-    "network": "ton"
-  },
   "coingecko": {
     "id": "the-open-network"
   },
   "coinmarketcap": {
     "id": 11419,
     "slug": "toncoin"
-  },
-  "guardarian": {
-    "ticker": "TON",
-    "network": "TON"
-  },
-  "moonpay": {
-    "id": "09ab99b8-15de-4f67-870f-6012cd5f69ef",
-    "code": "ton"
-  },
-  "paybis": {
-    "id": "TON"
   }
 }

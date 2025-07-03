@@ -8,22 +8,11 @@
   "decimals": 0,
   "logo": "neo.svg",
   "supported": false,
-  "changenow": {
-    "ticker": "neo",
-    "network": "neo"
-  },
   "coingecko": {
     "id": "neo"
   },
   "coinmarketcap": {
     "id": 1376,
     "slug": "neo"
-  },
-  "guardarian": {
-    "ticker": "NEO",
-    "network": "NEO"
-  },
-  "onramper": {
-    "id": "neo_neo"
   }
 }

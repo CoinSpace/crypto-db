@@ -8,13 +8,6 @@
   "address": "0x477bc8d23c634c154061869478bce96be6045d12",
   "decimals": 18,
   "logo": "seedify-fund.svg",
-  "changelly": {
-    "ticker": "sfund"
-  },
-  "changenow": {
-    "ticker": "sfund",
-    "network": "bsc"
-  },
   "coingecko": {
     "id": "seedify-fund",
     "platform": "binance-smart-chain"
@@ -22,12 +15,5 @@
   "coinmarketcap": {
     "id": 8972,
     "slug": "seedify-fund"
-  },
-  "guardarian": {
-    "ticker": "SFUND",
-    "network": "BSC"
-  },
-  "onramper": {
-    "id": "sfund_bsc"
   }
 }

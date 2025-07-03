@@ -8,10 +8,6 @@
   "address": "0x491604c0fdf08347dd1fa4ee062a822a5dd06b5d",
   "decimals": 18,
   "logo": "cartesi.svg",
-  "changenow": {
-    "ticker": "ctsi",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "cartesi",
     "platform": "ethereum"
@@ -19,12 +15,5 @@
   "coinmarketcap": {
     "id": 5444,
     "slug": "cartesi"
-  },
-  "guardarian": {
-    "ticker": "CTSI",
-    "network": "ETH"
-  },
-  "onramper": {
-    "id": "ctsi_ethereum"
   }
 }

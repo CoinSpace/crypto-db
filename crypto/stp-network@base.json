@@ -8,13 +8,6 @@
   "address": "0x1b4617734c43f6159f3a70b7e06d883647512778",
   "decimals": 18,
   "logo": "stp-network.svg",
-  "changelly": {
-    "ticker": "awe"
-  },
-  "changenow": {
-    "ticker": "awe",
-    "network": "base"
-  },
   "coingecko": {
     "id": "stp-network"
   },

@@ -8,10 +8,6 @@
   "address": "0x715d400f88c167884bbcc41c5fea407ed4d2f8a0",
   "decimals": 18,
   "logo": "axie-infinity.svg",
-  "changenow": {
-    "ticker": "axs",
-    "network": "bsc"
-  },
   "coingecko": {
     "id": "axie-infinity",
     "platform": "binance-smart-chain"
@@ -19,12 +15,5 @@
   "coinmarketcap": {
     "id": 6783,
     "slug": "axie-infinity"
-  },
-  "guardarian": {
-    "ticker": "AXS",
-    "network": "BSC"
-  },
-  "onramper": {
-    "id": "axs_bsc"
   }
 }

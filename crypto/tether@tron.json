@@ -8,35 +8,11 @@
   "address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
   "decimals": 6,
   "logo": "tether.svg",
-  "bitnovo": {
-    "id": "USDT_TRX"
-  },
-  "changelly": {
-    "ticker": "usdtrx"
-  },
-  "changenow": {
-    "ticker": "usdt",
-    "network": "trx"
-  },
   "coingecko": {
     "id": "tether"
   },
   "coinmarketcap": {
     "id": 825,
     "slug": "tether"
-  },
-  "guardarian": {
-    "ticker": "USDT",
-    "network": "TRX"
-  },
-  "moonpay": {
-    "id": "da65fff3-02e3-4f89-9df4-648097ed9573",
-    "code": "usdt_trx"
-  },
-  "onramper": {
-    "id": "usdt_tron"
-  },
-  "paybis": {
-    "id": "USDT-TRC20"
   }
 }

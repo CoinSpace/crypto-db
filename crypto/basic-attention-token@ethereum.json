@@ -8,13 +8,6 @@
   "address": "0x0d8775f648430679a709e98d2b0cb6250d2887ef",
   "decimals": 18,
   "logo": "basic-attention-token.svg",
-  "changelly": {
-    "ticker": "bat"
-  },
-  "changenow": {
-    "ticker": "bat",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "basic-attention-token",
     "platform": "ethereum"
@@ -22,19 +15,5 @@
   "coinmarketcap": {
     "id": 1697,
     "slug": "basic-attention-token"
-  },
-  "guardarian": {
-    "ticker": "BAT",
-    "network": "ETH"
-  },
-  "moonpay": {
-    "id": "1faa158e-8433-4bae-bdb8-b5eb768f767d",
-    "code": "bat"
-  },
-  "onramper": {
-    "id": "bat_ethereum"
-  },
-  "paybis": {
-    "id": "BAT"
   }
 }

@@ -7,40 +7,11 @@
   "symbol": "TRX",
   "decimals": 6,
   "logo": "tron.svg",
-  "bitnovo": {
-    "id": "TRX"
-  },
-  "btcdirect": {
-    "currencyPair": [
-      "TRX-EUR"
-    ]
-  },
-  "changelly": {
-    "ticker": "trx"
-  },
-  "changenow": {
-    "ticker": "trx",
-    "network": "trx"
-  },
   "coingecko": {
     "id": "tron"
   },
   "coinmarketcap": {
     "id": 1958,
     "slug": "tron"
-  },
-  "guardarian": {
-    "ticker": "TRX",
-    "network": "TRX"
-  },
-  "moonpay": {
-    "id": "6761f845-9619-45d3-9159-8a3a73edcc11",
-    "code": "trx"
-  },
-  "onramper": {
-    "id": "trx_tron"
-  },
-  "paybis": {
-    "id": "TRX"
   }
 }

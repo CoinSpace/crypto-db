@@ -8,40 +8,11 @@
   "decimals": 6,
   "logo": "cardano.svg",
   "scheme": "cardano",
-  "bitnovo": {
-    "id": "ADA"
-  },
-  "btcdirect": {
-    "currencyPair": [
-      "ADA-EUR"
-    ]
-  },
-  "changelly": {
-    "ticker": "ada"
-  },
-  "changenow": {
-    "ticker": "ada",
-    "network": "ada"
-  },
   "coingecko": {
     "id": "cardano"
   },
   "coinmarketcap": {
     "id": 2010,
     "slug": "cardano"
-  },
-  "guardarian": {
-    "ticker": "ADA",
-    "network": "ADA"
-  },
-  "moonpay": {
-    "id": "1440a41c-d03d-4047-a3b3-a6ddac63598e",
-    "code": "ada"
-  },
-  "onramper": {
-    "id": "ada_cardano"
-  },
-  "paybis": {
-    "id": "ADA"
   }
 }

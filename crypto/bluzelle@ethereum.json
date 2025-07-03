@@ -8,13 +8,6 @@
   "address": "0x5732046a883704404f284ce41ffadd5b007fd668",
   "decimals": 18,
   "logo": "bluzelle.svg",
-  "changelly": {
-    "ticker": "blz"
-  },
-  "changenow": {
-    "ticker": "blz",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "bluzelle",
     "platform": "ethereum"
@@ -22,12 +15,5 @@
   "coinmarketcap": {
     "id": 2505,
     "slug": "bluzelle"
-  },
-  "guardarian": {
-    "ticker": "BLZ",
-    "network": "ETH"
-  },
-  "onramper": {
-    "id": "blz_ethereum"
   }
 }

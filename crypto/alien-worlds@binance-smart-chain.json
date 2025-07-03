@@ -8,25 +8,11 @@
   "address": "0x2222227e22102fe3322098e4cbfe18cfebd57c95",
   "decimals": 4,
   "logo": "alien-worlds.svg",
-  "changelly": {
-    "ticker": "tlm"
-  },
-  "changenow": {
-    "ticker": "tlm",
-    "network": "bsc"
-  },
   "coingecko": {
     "id": "alien-worlds"
   },
   "coinmarketcap": {
     "id": 9119,
     "slug": "alien-worlds"
-  },
-  "guardarian": {
-    "ticker": "TLM",
-    "network": "BSC"
-  },
-  "onramper": {
-    "id": "tlm_bsc"
   }
 }

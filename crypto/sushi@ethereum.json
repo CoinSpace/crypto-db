@@ -8,13 +8,6 @@
   "address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
   "decimals": 18,
   "logo": "sushi.svg",
-  "changelly": {
-    "ticker": "sushi"
-  },
-  "changenow": {
-    "ticker": "sushi",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "sushi",
     "platform": "ethereum"
@@ -22,15 +15,5 @@
   "coinmarketcap": {
     "id": 6758,
     "slug": "sushiswap"
-  },
-  "guardarian": {
-    "ticker": "SUSHI",
-    "network": "ETH"
-  },
-  "onramper": {
-    "id": "sushi_ethereum"
-  },
-  "paybis": {
-    "id": "SUSHI"
   }
 }

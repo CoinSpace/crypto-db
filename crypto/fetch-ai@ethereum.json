@@ -8,10 +8,6 @@
   "address": "0xaea46a60368a7bd060eec7df8cba43b7ef41ad85",
   "decimals": 18,
   "logo": "fetch-ai.svg",
-  "changenow": {
-    "ticker": "fet",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "fetch-ai",
     "platform": "ethereum"
@@ -19,19 +15,5 @@
   "coinmarketcap": {
     "id": 3773,
     "slug": "artificial-superintelligence-alliance"
-  },
-  "guardarian": {
-    "ticker": "FET",
-    "network": "ETH"
-  },
-  "moonpay": {
-    "id": "978a3e8a-9c51-47cb-98bc-802d0a2a67ab",
-    "code": "fet_eth"
-  },
-  "onramper": {
-    "id": "fet_ethereum"
-  },
-  "paybis": {
-    "id": "FET"
   }
 }

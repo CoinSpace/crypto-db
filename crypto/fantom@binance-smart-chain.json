@@ -14,12 +14,5 @@
   "coinmarketcap": {
     "id": 3513,
     "slug": "fantom"
-  },
-  "guardarian": {
-    "ticker": "FTM",
-    "network": "BSC"
-  },
-  "onramper": {
-    "id": "ftm_bsc"
   }
 }

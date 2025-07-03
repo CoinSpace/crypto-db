@@ -8,10 +8,6 @@
   "address": "0x52ce071bd9b1c4b00a0b92d298c512478cad67e8",
   "decimals": 18,
   "logo": "compound.svg",
-  "changenow": {
-    "ticker": "comp",
-    "network": "bsc"
-  },
   "coingecko": {
     "id": "compound-governance-token",
     "platform": "binance-smart-chain"
@@ -19,12 +15,5 @@
   "coinmarketcap": {
     "id": 5692,
     "slug": "compound"
-  },
-  "guardarian": {
-    "ticker": "COMP",
-    "network": "BSC"
-  },
-  "onramper": {
-    "id": "comp_bsc"
   }
 }

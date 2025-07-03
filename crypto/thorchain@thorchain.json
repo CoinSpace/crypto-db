@@ -8,17 +8,11 @@
   "decimals": 8,
   "logo": "thorchain.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "rune"
-  },
   "coingecko": {
     "id": "thorchain"
   },
   "coinmarketcap": {
     "id": 4157,
     "slug": "thorchain"
-  },
-  "onramper": {
-    "id": "rune_thorchain"
   }
 }

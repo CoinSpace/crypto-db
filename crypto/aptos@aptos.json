@@ -9,29 +9,11 @@
   "decimals": 8,
   "logo": "aptos.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "apt"
-  },
-  "changenow": {
-    "ticker": "apt",
-    "network": "apt"
-  },
   "coingecko": {
     "id": "aptos"
   },
   "coinmarketcap": {
     "id": 21794,
     "slug": "aptos"
-  },
-  "guardarian": {
-    "ticker": "APT",
-    "network": "APT"
-  },
-  "moonpay": {
-    "id": "ae0b64b5-4f68-41aa-b102-d0860dfc0d35",
-    "code": "apt"
-  },
-  "onramper": {
-    "id": "apt_aptos"
   }
 }

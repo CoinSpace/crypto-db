@@ -8,10 +8,6 @@
   "address": "0xf1f955016ecbcd7321c7266bccfb96c68ea5e49b",
   "decimals": 18,
   "logo": "rally.svg",
-  "changenow": {
-    "ticker": "rly",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "rally-2",
     "platform": "ethereum"
@@ -19,8 +15,5 @@
   "coinmarketcap": {
     "id": 8075,
     "slug": "rally"
-  },
-  "onramper": {
-    "id": "rly_ethereum"
   }
 }

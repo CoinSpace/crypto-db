@@ -8,40 +8,11 @@
   "decimals": 6,
   "logo": "xrp.svg",
   "scheme": "ripple",
-  "bitnovo": {
-    "id": "XRP"
-  },
-  "btcdirect": {
-    "currencyPair": [
-      "XRP-EUR"
-    ]
-  },
-  "changelly": {
-    "ticker": "xrp"
-  },
-  "changenow": {
-    "ticker": "xrp",
-    "network": "xrp"
-  },
   "coingecko": {
     "id": "ripple"
   },
   "coinmarketcap": {
     "id": 52,
     "slug": "xrp"
-  },
-  "guardarian": {
-    "ticker": "XRP",
-    "network": "XRP"
-  },
-  "moonpay": {
-    "id": "d64b5e09-3d1b-452d-ab28-478c4190de7d",
-    "code": "xrp"
-  },
-  "onramper": {
-    "id": "xrp_ripple"
-  },
-  "paybis": {
-    "id": "XRP"
   }
 }

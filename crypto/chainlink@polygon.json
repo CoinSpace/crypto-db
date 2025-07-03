@@ -8,22 +8,11 @@
   "address": "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39",
   "decimals": 18,
   "logo": "chainlink.svg",
-  "changenow": {
-    "ticker": "link",
-    "network": "matic"
-  },
   "coingecko": {
     "id": "chainlink"
   },
   "coinmarketcap": {
     "id": 1975,
     "slug": "chainlink"
-  },
-  "guardarian": {
-    "ticker": "LINK",
-    "network": "MATIC"
-  },
-  "onramper": {
-    "id": "link_polygon"
   }
 }

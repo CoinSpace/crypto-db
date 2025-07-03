@@ -14,12 +14,5 @@
   "coinmarketcap": {
     "id": 3408,
     "slug": "usd-coin"
-  },
-  "guardarian": {
-    "ticker": "USDC",
-    "network": "TRX"
-  },
-  "onramper": {
-    "id": "usdc_tron"
   }
 }

@@ -8,13 +8,6 @@
   "address": "0xa1d0e215a23d7030842fc67ce582a6afa3ccab83",
   "decimals": 18,
   "logo": "dfi-money.svg",
-  "changelly": {
-    "ticker": "yfii"
-  },
-  "changenow": {
-    "ticker": "yfii",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "yfii-finance",
     "platform": "ethereum"
@@ -22,12 +15,5 @@
   "coinmarketcap": {
     "id": 5957,
     "slug": "yearn-finance-ii"
-  },
-  "guardarian": {
-    "ticker": "YFII",
-    "network": "ETH"
-  },
-  "onramper": {
-    "id": "yfii_ethereum"
   }
 }

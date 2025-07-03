@@ -8,22 +8,11 @@
   "decimals": 6,
   "logo": "terra.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "lunc"
-  },
-  "changenow": {
-    "ticker": "lunc",
-    "network": "lunc"
-  },
   "coingecko": {
     "id": "terra-luna"
   },
   "coinmarketcap": {
     "id": 4172,
     "slug": "terra-luna"
-  },
-  "guardarian": {
-    "ticker": "LUNC",
-    "network": "LUNC"
   }
 }

@@ -8,13 +8,6 @@
   "address": "0xba11d00c5f74255f56a5e366f4f77f5a186d7f55",
   "decimals": 18,
   "logo": "band-protocol.svg",
-  "changelly": {
-    "ticker": "band"
-  },
-  "changenow": {
-    "ticker": "band",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "band-protocol",
     "platform": "ethereum"
@@ -22,15 +15,5 @@
   "coinmarketcap": {
     "id": 4679,
     "slug": "band-protocol"
-  },
-  "guardarian": {
-    "ticker": "BAND",
-    "network": "ETH"
-  },
-  "onramper": {
-    "id": "band_ethereum"
-  },
-  "paybis": {
-    "id": "BAND"
   }
 }

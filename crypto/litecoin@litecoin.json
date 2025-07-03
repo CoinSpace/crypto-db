@@ -8,40 +8,11 @@
   "decimals": 8,
   "logo": "litecoin.svg",
   "scheme": "litecoin",
-  "bitnovo": {
-    "id": "LTC"
-  },
-  "btcdirect": {
-    "currencyPair": [
-      "LTC-EUR"
-    ]
-  },
-  "changelly": {
-    "ticker": "ltc"
-  },
-  "changenow": {
-    "ticker": "ltc",
-    "network": "ltc"
-  },
   "coingecko": {
     "id": "litecoin"
   },
   "coinmarketcap": {
     "id": 2,
     "slug": "litecoin"
-  },
-  "guardarian": {
-    "ticker": "LTC",
-    "network": "LTC"
-  },
-  "moonpay": {
-    "id": "84bf7e0f-0a16-4486-8ba7-e80edcf5331e",
-    "code": "ltc"
-  },
-  "onramper": {
-    "id": "ltc_litecoin"
-  },
-  "paybis": {
-    "id": "LTC"
   }
 }

@@ -8,9 +8,6 @@
   "address": "0xa62cc35625b0c8dc1faea39d33625bb4c15bd71c",
   "decimals": 18,
   "logo": "stormx.svg",
-  "changelly": {
-    "ticker": "stmx"
-  },
   "coingecko": {
     "id": "storm",
     "platform": "ethereum"
@@ -18,12 +15,5 @@
   "coinmarketcap": {
     "id": 2297,
     "slug": "stormx"
-  },
-  "guardarian": {
-    "ticker": "STMX",
-    "network": "ETH"
-  },
-  "paybis": {
-    "id": "STMX"
   }
 }

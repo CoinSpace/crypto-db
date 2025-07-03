@@ -8,22 +8,11 @@
   "address": "0xf97f4df75117a78c1a5a0dbb814af92458539fb4",
   "decimals": 18,
   "logo": "chainlink.svg",
-  "changenow": {
-    "ticker": "link",
-    "network": "arbitrum"
-  },
   "coingecko": {
     "id": "chainlink"
   },
   "coinmarketcap": {
     "id": 1975,
     "slug": "chainlink"
-  },
-  "guardarian": {
-    "ticker": "LINK",
-    "network": "ARBITRUM"
-  },
-  "onramper": {
-    "id": "link_arbitrum"
   }
 }

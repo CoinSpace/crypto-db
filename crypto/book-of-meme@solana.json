@@ -8,22 +8,11 @@
   "address": "ukHH6c7mMyiWCf1b9pnWe25TSpkDDt3H5pQZgZ74J82",
   "decimals": 6,
   "logo": "book-of-meme.svg",
-  "changelly": {
-    "ticker": "bome"
-  },
-  "changenow": {
-    "ticker": "bome",
-    "network": "sol"
-  },
   "coingecko": {
     "id": "book-of-meme"
   },
   "coinmarketcap": {
     "id": 29870,
     "slug": "book-of-meme"
-  },
-  "guardarian": {
-    "ticker": "BOME",
-    "network": "SOL"
   }
 }

@@ -8,13 +8,6 @@
   "address": "0x12bb890508c125661e03b09ec06e404bc9289040",
   "decimals": 18,
   "logo": "radio-caca.svg",
-  "changelly": {
-    "ticker": "raca"
-  },
-  "changenow": {
-    "ticker": "raca",
-    "network": "bsc"
-  },
   "coingecko": {
     "id": "radio-caca",
     "platform": "binance-smart-chain"
@@ -22,9 +15,5 @@
   "coinmarketcap": {
     "id": 11346,
     "slug": "radio-caca"
-  },
-  "guardarian": {
-    "ticker": "RACA",
-    "network": "BSC"
   }
 }

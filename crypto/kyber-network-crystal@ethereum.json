@@ -8,13 +8,6 @@
   "address": "0xdefa4e8a7bcba345f687a2f1456f5edd9ce97202",
   "decimals": 18,
   "logo": "kyber-network-crystal.svg",
-  "changelly": {
-    "ticker": "knc"
-  },
-  "changenow": {
-    "ticker": "knc",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "kyber-network-crystal",
     "platform": "ethereum"
@@ -22,15 +15,5 @@
   "coinmarketcap": {
     "id": 9444,
     "slug": "kyber-network-crystal-v2"
-  },
-  "guardarian": {
-    "ticker": "KNC",
-    "network": "ETH"
-  },
-  "onramper": {
-    "id": "knc_ethereum"
-  },
-  "paybis": {
-    "id": "KNC"
   }
 }

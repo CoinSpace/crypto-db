@@ -8,13 +8,6 @@
   "address": "0x68749665ff8d2d112fa859aa293f07a622782f38",
   "decimals": 6,
   "logo": "tether-gold.svg",
-  "changelly": {
-    "ticker": "xaut"
-  },
-  "changenow": {
-    "ticker": "xaut",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "tether-gold",
     "platform": "ethereum"
@@ -22,13 +15,5 @@
   "coinmarketcap": {
     "id": 5176,
     "slug": "tether-gold"
-  },
-  "guardarian": {
-    "ticker": "XAUT",
-    "network": "ETH"
-  },
-  "moonpay": {
-    "id": "43f6bcdc-427a-49c6-adc1-430d14a2ac0c",
-    "code": "xaut"
   }
 }

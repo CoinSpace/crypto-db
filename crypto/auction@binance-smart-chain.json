@@ -8,18 +8,11 @@
   "address": "0x1188d953afc697c031851169eef640f23ac8529c",
   "decimals": 18,
   "logo": "auction.svg",
-  "changenow": {
-    "ticker": "auction",
-    "network": "bsc"
-  },
   "coingecko": {
     "id": "auction"
   },
   "coinmarketcap": {
     "id": 8602,
     "slug": "bounce-token"
-  },
-  "onramper": {
-    "id": "auction_bsc"
   }
 }

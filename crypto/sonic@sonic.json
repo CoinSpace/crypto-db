@@ -7,29 +7,11 @@
   "symbol": "S",
   "decimals": 18,
   "logo": "sonic.svg",
-  "changelly": {
-    "ticker": "s"
-  },
-  "changenow": {
-    "ticker": "s",
-    "network": "sonic"
-  },
   "coingecko": {
     "id": "sonic-3"
   },
   "coinmarketcap": {
     "id": 32684,
     "slug": "sonic"
-  },
-  "guardarian": {
-    "ticker": "S",
-    "network": "SONIC"
-  },
-  "moonpay": {
-    "id": "fe299b58-1a2d-48ae-9daf-60f9bcad65e6",
-    "code": "s_sonic"
-  },
-  "onramper": {
-    "id": "sonic_sonic"
   }
 }

@@ -8,22 +8,11 @@
   "address": "0xfb5b838b6cfeedc2873ab27866079ac55363d37e",
   "decimals": 9,
   "logo": "floki.svg",
-  "changelly": {
-    "ticker": "floki"
-  },
-  "changenow": {
-    "ticker": "floki",
-    "network": "bsc"
-  },
   "coingecko": {
     "id": "floki"
   },
   "coinmarketcap": {
     "id": 10804,
     "slug": "floki-inu"
-  },
-  "guardarian": {
-    "ticker": "FLOKI",
-    "network": "BSC"
   }
 }

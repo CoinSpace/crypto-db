@@ -8,22 +8,11 @@
   "address": "0x8700daec35af8ff88c16bdf0418774cb3d7599b4",
   "decimals": 18,
   "logo": "synthetix-network-token.svg",
-  "changenow": {
-    "ticker": "snx",
-    "network": "op"
-  },
   "coingecko": {
     "id": "havven"
   },
   "coinmarketcap": {
     "id": 2586,
     "slug": "synthetix"
-  },
-  "guardarian": {
-    "ticker": "SNX",
-    "network": "OP"
-  },
-  "onramper": {
-    "id": "snx_optimism"
   }
 }

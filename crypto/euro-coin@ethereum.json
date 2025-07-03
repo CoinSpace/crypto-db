@@ -8,25 +8,11 @@
   "address": "0x1abaea1f7c830bd89acc67ec4af516284b1bc33c",
   "decimals": 6,
   "logo": "euro-coin.svg",
-  "bitnovo": {
-    "id": "EUROC_ETH"
-  },
-  "changenow": {
-    "ticker": "eurc",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "euro-coin"
   },
   "coinmarketcap": {
     "id": 20641,
     "slug": "euro-coin"
-  },
-  "guardarian": {
-    "ticker": "EURC",
-    "network": "ETH"
-  },
-  "onramper": {
-    "id": "euroc_ethereum"
   }
 }

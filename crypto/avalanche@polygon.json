@@ -14,8 +14,5 @@
   "coinmarketcap": {
     "id": 5805,
     "slug": "avalanche"
-  },
-  "onramper": {
-    "id": "avax_polygon"
   }
 }

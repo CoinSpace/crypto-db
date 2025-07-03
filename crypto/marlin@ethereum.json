@@ -8,13 +8,6 @@
   "address": "0x57b946008913b82e4df85f501cbaed910e58d26c",
   "decimals": 18,
   "logo": "marlin.svg",
-  "changelly": {
-    "ticker": "pond"
-  },
-  "changenow": {
-    "ticker": "pond",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "marlin",
     "platform": "ethereum"
@@ -22,8 +15,5 @@
   "coinmarketcap": {
     "id": 7497,
     "slug": "marlin"
-  },
-  "onramper": {
-    "id": "pond_ethereum"
   }
 }

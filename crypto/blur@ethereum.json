@@ -8,26 +8,11 @@
   "address": "0x5283d291dbcf85356a21ba090e6db59121208b44",
   "decimals": 18,
   "logo": "blur.svg",
-  "changelly": {
-    "ticker": "blur"
-  },
-  "changenow": {
-    "ticker": "blur",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "blur"
   },
   "coinmarketcap": {
     "id": 23121,
     "slug": "blur-token"
-  },
-  "guardarian": {
-    "ticker": "BLUR",
-    "network": "ETH"
-  },
-  "moonpay": {
-    "id": "0549f740-86ed-4d51-9c7c-71a0ecc4c693",
-    "code": "blur_eth"
   }
 }

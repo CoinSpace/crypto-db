@@ -8,13 +8,6 @@
   "address": "0x4f9254c83eb525f9fcf346490bbb3ed28a81c667",
   "decimals": 18,
   "logo": "celer-network.svg",
-  "changelly": {
-    "ticker": "celr"
-  },
-  "changenow": {
-    "ticker": "celr",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "celer-network",
     "platform": "ethereum"
@@ -22,15 +15,5 @@
   "coinmarketcap": {
     "id": 3814,
     "slug": "celer-network"
-  },
-  "guardarian": {
-    "ticker": "CELR",
-    "network": "ETH"
-  },
-  "onramper": {
-    "id": "celr_ethereum"
-  },
-  "paybis": {
-    "id": "CELR"
   }
 }

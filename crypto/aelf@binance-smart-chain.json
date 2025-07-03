@@ -14,9 +14,5 @@
   "coinmarketcap": {
     "id": 2299,
     "slug": "aelf"
-  },
-  "guardarian": {
-    "ticker": "ELF",
-    "network": "BSC"
   }
 }

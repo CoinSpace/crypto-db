@@ -8,13 +8,6 @@
   "address": "0x6dea81c8171d0ba574754ef6f8b412f2ed88c54d",
   "decimals": 18,
   "logo": "liquity.svg",
-  "changelly": {
-    "ticker": "lqty"
-  },
-  "changenow": {
-    "ticker": "lqty",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "liquity",
     "platform": "ethereum"
@@ -22,8 +15,5 @@
   "coinmarketcap": {
     "id": 7429,
     "slug": "liquity"
-  },
-  "onramper": {
-    "id": "lqty_ethereum"
   }
 }

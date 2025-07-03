@@ -8,10 +8,6 @@
   "address": "0xaec945e04baf28b135fa7c640f624f8d90f1c3a6",
   "decimals": 18,
   "logo": "coin98.svg",
-  "changenow": {
-    "ticker": "c98",
-    "network": "bsc"
-  },
   "coingecko": {
     "id": "coin98",
     "platform": "binance-smart-chain"
@@ -19,12 +15,5 @@
   "coinmarketcap": {
     "id": 10903,
     "slug": "coin98"
-  },
-  "guardarian": {
-    "ticker": "C98",
-    "network": "BSC"
-  },
-  "onramper": {
-    "id": "c98_bsc"
   }
 }

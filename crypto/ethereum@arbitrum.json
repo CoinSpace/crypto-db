@@ -7,35 +7,11 @@
   "symbol": "ETH",
   "decimals": 18,
   "logo": "arbitrum.svg",
-  "bitnovo": {
-    "id": "ETH_ARB"
-  },
-  "changelly": {
-    "ticker": "etharb"
-  },
-  "changenow": {
-    "ticker": "eth",
-    "network": "arbitrum"
-  },
   "coingecko": {
     "id": "ethereum"
   },
   "coinmarketcap": {
     "id": 1027,
     "slug": "ethereum"
-  },
-  "guardarian": {
-    "ticker": "ETH",
-    "network": "ARBITRUM"
-  },
-  "moonpay": {
-    "id": "3fc99da4-d849-4641-a488-344d60c25a02",
-    "code": "eth_arbitrum"
-  },
-  "onramper": {
-    "id": "eth_arbitrum"
-  },
-  "paybis": {
-    "id": "ETH-ARB"
   }
 }

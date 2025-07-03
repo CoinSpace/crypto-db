@@ -8,13 +8,6 @@
   "address": "0xa9b1eb5908cfc3cdf91f9b8b3a74108598009096",
   "decimals": 18,
   "logo": "auction.svg",
-  "changelly": {
-    "ticker": "auction"
-  },
-  "changenow": {
-    "ticker": "auction",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "auction",
     "platform": "ethereum"
@@ -22,8 +15,5 @@
   "coinmarketcap": {
     "id": 8602,
     "slug": "bounce-token"
-  },
-  "onramper": {
-    "id": "auction_ethereum"
   }
 }

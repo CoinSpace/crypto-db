@@ -8,22 +8,11 @@
   "address": "0x5f0da599bb2cccfcf6fdfd7d81743b6020864350",
   "decimals": 18,
   "logo": "maker.svg",
-  "changenow": {
-    "ticker": "mkr",
-    "network": "bsc"
-  },
   "coingecko": {
     "id": "maker"
   },
   "coinmarketcap": {
     "id": 1518,
     "slug": "maker"
-  },
-  "guardarian": {
-    "ticker": "MKR",
-    "network": "BSC"
-  },
-  "onramper": {
-    "id": "mkr_bsc"
   }
 }

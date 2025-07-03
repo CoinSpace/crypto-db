@@ -8,18 +8,6 @@
   "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
   "decimals": 18,
   "logo": "uniswap.svg",
-  "btcdirect": {
-    "currencyPair": [
-      "UNI-EUR"
-    ]
-  },
-  "changelly": {
-    "ticker": "uni"
-  },
-  "changenow": {
-    "ticker": "uni",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "uniswap",
     "platform": "ethereum"
@@ -27,19 +15,5 @@
   "coinmarketcap": {
     "id": 7083,
     "slug": "uniswap"
-  },
-  "guardarian": {
-    "ticker": "UNI",
-    "network": "ETH"
-  },
-  "moonpay": {
-    "id": "3140e0a0-5a54-4ee4-8b5c-39c7bbfa1643",
-    "code": "uni"
-  },
-  "onramper": {
-    "id": "uni_ethereum"
-  },
-  "paybis": {
-    "id": "UNI"
   }
 }

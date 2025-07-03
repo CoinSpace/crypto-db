@@ -8,10 +8,6 @@
   "address": "0xa117000000f279d81a1d3cc75430faa017fa5a2e",
   "decimals": 18,
   "logo": "aragon.svg",
-  "changenow": {
-    "ticker": "ant",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "aragon",
     "platform": "ethereum"
@@ -19,12 +15,5 @@
   "coinmarketcap": {
     "id": 1680,
     "slug": "aragon"
-  },
-  "guardarian": {
-    "ticker": "ANT",
-    "network": "ETH"
-  },
-  "onramper": {
-    "id": "ant_ethereum"
   }
 }

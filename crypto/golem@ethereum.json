@@ -8,13 +8,6 @@
   "address": "0x7dd9c5cba05e151c895fde1cf355c9a1d5da6429",
   "decimals": 18,
   "logo": "golem.svg",
-  "changelly": {
-    "ticker": "glm"
-  },
-  "changenow": {
-    "ticker": "glm",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "golem",
     "platform": "ethereum"
@@ -22,15 +15,5 @@
   "coinmarketcap": {
     "id": 1455,
     "slug": "golem-network-tokens"
-  },
-  "guardarian": {
-    "ticker": "GLM",
-    "network": "ETH"
-  },
-  "onramper": {
-    "id": "glm_ethereum"
-  },
-  "paybis": {
-    "id": "GLM"
   }
 }

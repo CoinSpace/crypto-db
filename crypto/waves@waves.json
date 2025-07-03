@@ -8,25 +8,11 @@
   "decimals": 8,
   "logo": "waves.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "waves"
-  },
-  "changenow": {
-    "ticker": "waves",
-    "network": "waves"
-  },
   "coingecko": {
     "id": "waves"
   },
   "coinmarketcap": {
     "id": 1274,
     "slug": "waves"
-  },
-  "guardarian": {
-    "ticker": "WAVES",
-    "network": "WAVES"
-  },
-  "onramper": {
-    "id": "waves_waves"
   }
 }

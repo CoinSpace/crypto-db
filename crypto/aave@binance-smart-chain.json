@@ -8,22 +8,11 @@
   "address": "0xfb6115445bff7b52feb98650c87f44907e58f802",
   "decimals": 18,
   "logo": "aave.svg",
-  "changenow": {
-    "ticker": "aave",
-    "network": "bsc"
-  },
   "coingecko": {
     "id": "aave"
   },
   "coinmarketcap": {
     "id": 7278,
     "slug": "aave"
-  },
-  "guardarian": {
-    "ticker": "AAVE",
-    "network": "BSC"
-  },
-  "onramper": {
-    "id": "aave_bsc"
   }
 }

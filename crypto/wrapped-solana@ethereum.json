@@ -8,19 +8,11 @@
   "address": "0xd31a59c85ae9d8edefec411d448f90841571b89c",
   "decimals": 9,
   "logo": "solana.svg",
-  "changenow": {
-    "ticker": "sol",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "wrapped-solana"
   },
   "coinmarketcap": {
     "id": 16116,
     "slug": "wrapped-solana"
-  },
-  "guardarian": {
-    "ticker": "SOL",
-    "network": "ETH"
   }
 }

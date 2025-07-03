@@ -9,10 +9,6 @@
   "decimals": 9,
   "logo": "ong.svg",
   "supported": false,
-  "changenow": {
-    "ticker": "ong",
-    "network": "ont"
-  },
   "coingecko": {
     "id": "ong",
     "platform": "ontology"
@@ -20,12 +16,5 @@
   "coinmarketcap": {
     "id": 3217,
     "slug": "ontology-gas"
-  },
-  "guardarian": {
-    "ticker": "ONG",
-    "network": "ONT"
-  },
-  "onramper": {
-    "id": "ong_ontology"
   }
 }

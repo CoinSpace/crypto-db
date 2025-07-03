@@ -8,13 +8,6 @@
   "address": "0x8f0528ce5ef7b51152a59745befdd91d97091d2f",
   "decimals": 18,
   "logo": "alpaca-finance.svg",
-  "changelly": {
-    "ticker": "alpaca"
-  },
-  "changenow": {
-    "ticker": "alpaca",
-    "network": "bsc"
-  },
   "coingecko": {
     "id": "alpaca-finance",
     "platform": "binance-smart-chain"
@@ -22,12 +15,5 @@
   "coinmarketcap": {
     "id": 8707,
     "slug": "alpaca-finance"
-  },
-  "guardarian": {
-    "ticker": "ALPACA",
-    "network": "BSC"
-  },
-  "onramper": {
-    "id": "alpaca_bsc"
   }
 }

@@ -8,26 +8,11 @@
   "decimals": 8,
   "logo": "zilliqa.svg",
   "supported": false,
-  "changenow": {
-    "ticker": "zil",
-    "network": "zil"
-  },
   "coingecko": {
     "id": "zilliqa"
   },
   "coinmarketcap": {
     "id": 2469,
     "slug": "zilliqa"
-  },
-  "guardarian": {
-    "ticker": "ZIL",
-    "network": "ZIL"
-  },
-  "moonpay": {
-    "id": "2be78a98-df30-4fb6-9cf0-adee76bd8df6",
-    "code": "zil"
-  },
-  "onramper": {
-    "id": "zil_zilliqa"
   }
 }

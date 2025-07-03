@@ -8,13 +8,6 @@
   "address": "0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac",
   "decimals": 8,
   "logo": "storj.svg",
-  "changelly": {
-    "ticker": "storj"
-  },
-  "changenow": {
-    "ticker": "storj",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "storj",
     "platform": "ethereum"
@@ -22,15 +15,5 @@
   "coinmarketcap": {
     "id": 1772,
     "slug": "storj"
-  },
-  "guardarian": {
-    "ticker": "STORJ",
-    "network": "ETH"
-  },
-  "onramper": {
-    "id": "storj_ethereum"
-  },
-  "paybis": {
-    "id": "STORJ"
   }
 }

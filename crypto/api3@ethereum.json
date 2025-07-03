@@ -8,13 +8,6 @@
   "address": "0x0b38210ea11411557c13457d4da7dc6ea731b88a",
   "decimals": 18,
   "logo": "api3.svg",
-  "changelly": {
-    "ticker": "api3"
-  },
-  "changenow": {
-    "ticker": "api3",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "api3",
     "platform": "ethereum"
@@ -22,8 +15,5 @@
   "coinmarketcap": {
     "id": 7737,
     "slug": "api3"
-  },
-  "onramper": {
-    "id": "api3_ethereum"
   }
 }

@@ -8,13 +8,6 @@
   "address": "0xba5bde662c17e2adff1075610382b9b691296350",
   "decimals": 18,
   "logo": "superrare.svg",
-  "changelly": {
-    "ticker": "rare"
-  },
-  "changenow": {
-    "ticker": "rare",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "superrare",
     "platform": "ethereum"
@@ -22,8 +15,5 @@
   "coinmarketcap": {
     "id": 11294,
     "slug": "superrare"
-  },
-  "onramper": {
-    "id": "rare_ethereum"
   }
 }

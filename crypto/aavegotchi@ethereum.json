@@ -8,13 +8,6 @@
   "address": "0x3f382dbd960e3a9bbceae22651e88158d2791550",
   "decimals": 18,
   "logo": "aavegotchi.svg",
-  "changelly": {
-    "ticker": "ghst"
-  },
-  "changenow": {
-    "ticker": "ghst",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "aavegotchi",
     "platform": "ethereum"
@@ -22,8 +15,5 @@
   "coinmarketcap": {
     "id": 7046,
     "slug": "aavegotchi"
-  },
-  "onramper": {
-    "id": "ghst_ethereum"
   }
 }

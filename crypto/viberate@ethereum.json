@@ -8,10 +8,6 @@
   "address": "0x2c974b2d0ba1716e644c1fc59982a89ddd2ff724",
   "decimals": 18,
   "logo": "viberate.svg",
-  "changenow": {
-    "ticker": "vib",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "viberate",
     "platform": "ethereum"
@@ -19,12 +15,5 @@
   "coinmarketcap": {
     "id": 2019,
     "slug": "viberate"
-  },
-  "guardarian": {
-    "ticker": "VIB",
-    "network": "ETH"
-  },
-  "onramper": {
-    "id": "vib_ethereum"
   }
 }

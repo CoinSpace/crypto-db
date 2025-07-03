@@ -8,10 +8,6 @@
   "address": "0xf307910a4c7bbc79691fd374889b36d8531b08e3",
   "decimals": 18,
   "logo": "ankr.svg",
-  "changenow": {
-    "ticker": "ankr",
-    "network": "bsc"
-  },
   "coingecko": {
     "id": "ankr",
     "platform": "binance-smart-chain"
@@ -19,12 +15,5 @@
   "coinmarketcap": {
     "id": 3783,
     "slug": "ankr"
-  },
-  "guardarian": {
-    "ticker": "ANKR",
-    "network": "BSC"
-  },
-  "onramper": {
-    "id": "ankr_bsc"
   }
 }

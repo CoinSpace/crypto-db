@@ -8,23 +8,11 @@
   "address": "0xaaee1a9723aadb7afa2810263653a34ba2c21c7a",
   "decimals": 18,
   "logo": "mog-coin.svg",
-  "changenow": {
-    "ticker": "mog",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "mog-coin"
   },
   "coinmarketcap": {
     "id": 27659,
     "slug": "mog-coin"
-  },
-  "guardarian": {
-    "ticker": "MOG",
-    "network": "ETH"
-  },
-  "moonpay": {
-    "id": "138ef47f-a8d1-472c-83bf-f2bd46bfd83e",
-    "code": "mog_eth"
   }
 }

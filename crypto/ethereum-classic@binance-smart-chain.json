@@ -8,22 +8,11 @@
   "address": "0x3d6545b08693dae087e957cb1180ee38b9e3c25e",
   "decimals": 18,
   "logo": "ethereum-classic.svg",
-  "changenow": {
-    "ticker": "etc",
-    "network": "bsc"
-  },
   "coingecko": {
     "id": "ethereum-classic"
   },
   "coinmarketcap": {
     "id": 1321,
     "slug": "ethereum-classic"
-  },
-  "guardarian": {
-    "ticker": "ETC",
-    "network": "BSC"
-  },
-  "onramper": {
-    "id": "etc_bsc"
   }
 }

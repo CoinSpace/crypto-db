@@ -8,10 +8,6 @@
   "address": "0xa2b726b1145a4773f68593cf171187d8ebe4d495",
   "decimals": 18,
   "logo": "injective-protocol.svg",
-  "changenow": {
-    "ticker": "inj",
-    "network": "bsc"
-  },
   "coingecko": {
     "id": "injective-protocol",
     "platform": "binance-smart-chain"
@@ -19,12 +15,5 @@
   "coinmarketcap": {
     "id": 7226,
     "slug": "injective"
-  },
-  "guardarian": {
-    "ticker": "INJ",
-    "network": "BSC"
-  },
-  "onramper": {
-    "id": "inj_bsc"
   }
 }

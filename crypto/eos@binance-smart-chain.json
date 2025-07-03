@@ -15,12 +15,5 @@
   "coinmarketcap": {
     "id": 1765,
     "slug": "eos"
-  },
-  "guardarian": {
-    "ticker": "EOS",
-    "network": "BSC"
-  },
-  "onramper": {
-    "id": "eos_bsc"
   }
 }

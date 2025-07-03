@@ -8,22 +8,11 @@
   "address": "0x88f1a5ae2a3bf98aeaf342d26b30a79438c9142e",
   "decimals": 18,
   "logo": "yearn-finance.svg",
-  "changenow": {
-    "ticker": "yfi",
-    "network": "bsc"
-  },
   "coingecko": {
     "id": "yearn-finance"
   },
   "coinmarketcap": {
     "id": 5864,
     "slug": "yearn-finance"
-  },
-  "guardarian": {
-    "ticker": "YFI",
-    "network": "BSC"
-  },
-  "onramper": {
-    "id": "yfi_bsc"
   }
 }

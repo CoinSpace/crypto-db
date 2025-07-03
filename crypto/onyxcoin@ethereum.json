@@ -8,13 +8,6 @@
   "address": "0xa2cd3d43c775978a96bdbf12d733d5a1ed94fb18",
   "decimals": 18,
   "logo": "onyxcoin.svg",
-  "changelly": {
-    "ticker": "xcn"
-  },
-  "changenow": {
-    "ticker": "xcn",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "chain-2"
   },

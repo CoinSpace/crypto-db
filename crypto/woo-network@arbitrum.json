@@ -8,19 +8,11 @@
   "address": "0xcafcd85d8ca7ad1e1c6f82f651fa15e33aefd07b",
   "decimals": 18,
   "logo": "woo-network.svg",
-  "changenow": {
-    "ticker": "woo",
-    "network": "arbitrum"
-  },
   "coingecko": {
     "id": "woo-network"
   },
   "coinmarketcap": {
     "id": 7501,
     "slug": "wootrade"
-  },
-  "guardarian": {
-    "ticker": "WOO",
-    "network": "ARBITRUM"
   }
 }

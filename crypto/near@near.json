@@ -8,34 +8,11 @@
   "decimals": 24,
   "logo": "near.svg",
   "supported": false,
-  "btcdirect": {
-    "currencyPair": [
-      "NEAR-EUR"
-    ]
-  },
-  "changelly": {
-    "ticker": "nearmainnet"
-  },
-  "changenow": {
-    "ticker": "near",
-    "network": "near"
-  },
   "coingecko": {
     "id": "near"
   },
   "coinmarketcap": {
     "id": 6535,
     "slug": "near-protocol"
-  },
-  "guardarian": {
-    "ticker": "NEAR",
-    "network": "NEAR"
-  },
-  "moonpay": {
-    "id": "7bbb6187-53ef-4a89-a1a2-e10ccc1d64ca",
-    "code": "near"
-  },
-  "onramper": {
-    "id": "near_near"
   }
 }

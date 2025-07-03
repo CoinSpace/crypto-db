@@ -8,19 +8,11 @@
   "address": "0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d",
   "decimals": 18,
   "logo": "world-liberty-financial-usd.svg",
-  "changenow": {
-    "ticker": "usd1",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "usd1-wlfi"
   },
   "coinmarketcap": {
     "id": 36148,
     "slug": "usd1"
-  },
-  "moonpay": {
-    "id": "406dd018-4c05-4158-abbb-4ac848e03fd5",
-    "code": "usd1"
   }
 }

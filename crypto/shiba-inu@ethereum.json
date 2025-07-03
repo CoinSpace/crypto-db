@@ -8,13 +8,6 @@
   "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
   "decimals": 18,
   "logo": "shiba-inu.svg",
-  "changelly": {
-    "ticker": "shib"
-  },
-  "changenow": {
-    "ticker": "shib",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "shiba-inu",
     "platform": "ethereum"
@@ -22,19 +15,5 @@
   "coinmarketcap": {
     "id": 5994,
     "slug": "shiba-inu"
-  },
-  "guardarian": {
-    "ticker": "SHIB",
-    "network": "ETH"
-  },
-  "moonpay": {
-    "id": "7f4d75df-0059-4950-ab31-fb2b83a4b23b",
-    "code": "shib"
-  },
-  "onramper": {
-    "id": "shib_ethereum"
-  },
-  "paybis": {
-    "id": "SHIB"
   }
 }

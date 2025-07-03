@@ -8,13 +8,6 @@
   "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
   "decimals": 18,
   "logo": "pancakeswap.svg",
-  "changelly": {
-    "ticker": "cake"
-  },
-  "changenow": {
-    "ticker": "cake",
-    "network": "bsc"
-  },
   "coingecko": {
     "id": "pancakeswap-token",
     "platform": "binance-smart-chain"
@@ -22,15 +15,5 @@
   "coinmarketcap": {
     "id": 7186,
     "slug": "pancakeswap"
-  },
-  "guardarian": {
-    "ticker": "CAKE",
-    "network": "BSC"
-  },
-  "onramper": {
-    "id": "cake_bsc"
-  },
-  "paybis": {
-    "id": "CAKE"
   }
 }

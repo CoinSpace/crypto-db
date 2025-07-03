@@ -8,13 +8,6 @@
   "address": "0xba100000625a3754423978a60c9317c58a424e3d",
   "decimals": 18,
   "logo": "balancer.svg",
-  "changelly": {
-    "ticker": "bal"
-  },
-  "changenow": {
-    "ticker": "bal",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "balancer",
     "platform": "ethereum"
@@ -22,15 +15,5 @@
   "coinmarketcap": {
     "id": 5728,
     "slug": "balancer"
-  },
-  "guardarian": {
-    "ticker": "BAL",
-    "network": "ETH"
-  },
-  "onramper": {
-    "id": "bal_ethereum"
-  },
-  "paybis": {
-    "id": "BAL"
   }
 }

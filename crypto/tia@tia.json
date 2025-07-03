@@ -8,26 +8,11 @@
   "decimals": 6,
   "logo": "tia.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "tia"
-  },
-  "changenow": {
-    "ticker": "tia",
-    "network": "tia"
-  },
   "coingecko": {
     "id": "celestia"
   },
   "coinmarketcap": {
     "id": 22861,
     "slug": "celestia"
-  },
-  "guardarian": {
-    "ticker": "TIA",
-    "network": "TIA"
-  },
-  "moonpay": {
-    "id": "c6d9fc2e-a797-4e6b-a6b4-6db602a1ef16",
-    "code": "tia_tia"
   }
 }

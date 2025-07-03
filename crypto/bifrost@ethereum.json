@@ -8,13 +8,6 @@
   "address": "0x0c7d5ae016f806603cb1782bea29ac69471cab9c",
   "decimals": 18,
   "logo": "bifrost.svg",
-  "changelly": {
-    "ticker": "bfc"
-  },
-  "changenow": {
-    "ticker": "bfc",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "bifrost",
     "platform": "ethereum"

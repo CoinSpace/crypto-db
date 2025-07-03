@@ -7,37 +7,11 @@
   "symbol": "BNB",
   "decimals": 18,
   "logo": "binance-smart-chain.svg",
-  "btcdirect": {
-    "currencyPair": [
-      "BNB-EUR"
-    ]
-  },
-  "changelly": {
-    "ticker": "bnbbsc"
-  },
-  "changenow": {
-    "ticker": "bnb",
-    "network": "bsc"
-  },
   "coingecko": {
     "id": "binancecoin"
   },
   "coinmarketcap": {
     "id": 1839,
     "slug": "bnb"
-  },
-  "guardarian": {
-    "ticker": "BNB",
-    "network": "BSC"
-  },
-  "moonpay": {
-    "id": "7ddb22ce-792b-401d-a8ea-62260f59bc62",
-    "code": "bnb_bsc"
-  },
-  "onramper": {
-    "id": "bnb_bsc"
-  },
-  "paybis": {
-    "id": "BNBSC"
   }
 }

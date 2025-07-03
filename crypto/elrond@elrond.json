@@ -8,26 +8,11 @@
   "decimals": 18,
   "logo": "elrond.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "egld"
-  },
-  "changenow": {
-    "ticker": "egld",
-    "network": "egld"
-  },
   "coingecko": {
     "id": "elrond-erd-2"
   },
   "coinmarketcap": {
     "id": 6892,
     "slug": "multiversx-egld"
-  },
-  "guardarian": {
-    "ticker": "EGLD",
-    "network": "EGLD"
-  },
-  "moonpay": {
-    "id": "66f59d2c-abf0-4efa-946d-de10b8b6be14",
-    "code": "egld"
   }
 }

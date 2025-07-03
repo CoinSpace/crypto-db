@@ -8,21 +8,11 @@
   "address": "0xaf53d56ff99f1322515e54fdde93ff8b3b7dafd5",
   "decimals": 18,
   "logo": "prometeus.svg",
-  "changelly": {
-    "ticker": "prom"
-  },
-  "changenow": {
-    "ticker": "prom",
-    "network": "bsc"
-  },
   "coingecko": {
     "id": "prometeus"
   },
   "coinmarketcap": {
     "id": 4120,
     "slug": "prom"
-  },
-  "onramper": {
-    "id": "prom_bsc"
   }
 }

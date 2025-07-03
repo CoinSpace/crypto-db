@@ -8,13 +8,6 @@
   "address": "0x940181a94a35a4569e4529a3cdfb74e38fd98631",
   "decimals": 18,
   "logo": "aerodrome-finance.svg",
-  "changelly": {
-    "ticker": "aero"
-  },
-  "changenow": {
-    "ticker": "aero",
-    "network": "base"
-  },
   "coingecko": {
     "id": "aerodrome-finance"
   },

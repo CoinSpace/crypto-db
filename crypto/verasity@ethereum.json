@@ -8,9 +8,6 @@
   "address": "0xf411903cbc70a74d22900a5de66a2dda66507255",
   "decimals": 18,
   "logo": "verasity.svg",
-  "changelly": {
-    "ticker": "vra"
-  },
   "coingecko": {
     "id": "verasity",
     "platform": "ethereum"
@@ -18,8 +15,5 @@
   "coinmarketcap": {
     "id": 3816,
     "slug": "verasity"
-  },
-  "paybis": {
-    "id": "VRA"
   }
 }

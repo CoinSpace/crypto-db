@@ -8,25 +8,11 @@
   "decimals": 6,
   "logo": "iotex.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "iotx"
-  },
-  "changenow": {
-    "ticker": "iotx",
-    "network": "iotx"
-  },
   "coingecko": {
     "id": "iotex"
   },
   "coinmarketcap": {
     "id": 2777,
     "slug": "iotex"
-  },
-  "guardarian": {
-    "ticker": "IOTX",
-    "network": "IOTX"
-  },
-  "onramper": {
-    "id": "iotx_iotex"
   }
 }

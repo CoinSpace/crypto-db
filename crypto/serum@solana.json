@@ -8,22 +8,11 @@
   "address": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
   "decimals": 6,
   "logo": "serum.svg",
-  "changenow": {
-    "ticker": "srm",
-    "network": "sol"
-  },
   "coingecko": {
     "id": "serum"
   },
   "coinmarketcap": {
     "id": 6187,
     "slug": "serum"
-  },
-  "guardarian": {
-    "ticker": "SRM",
-    "network": "SOL"
-  },
-  "onramper": {
-    "id": "srm_solana"
   }
 }

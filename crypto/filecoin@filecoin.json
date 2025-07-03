@@ -8,29 +8,11 @@
   "decimals": 4,
   "logo": "filecoin.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "fil"
-  },
-  "changenow": {
-    "ticker": "fil",
-    "network": "fil"
-  },
   "coingecko": {
     "id": "filecoin"
   },
   "coinmarketcap": {
     "id": 2280,
     "slug": "filecoin"
-  },
-  "guardarian": {
-    "ticker": "FIL",
-    "network": "FIL"
-  },
-  "moonpay": {
-    "id": "73e57986-3b74-45db-b8a8-c01bc3e0d8f1",
-    "code": "fil"
-  },
-  "onramper": {
-    "id": "fil_filecoin"
   }
 }

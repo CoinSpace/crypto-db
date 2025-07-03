@@ -14,9 +14,5 @@
   "coinmarketcap": {
     "id": 8677,
     "slug": "symbol"
-  },
-  "guardarian": {
-    "ticker": "XYM",
-    "network": "XYM"
   }
 }

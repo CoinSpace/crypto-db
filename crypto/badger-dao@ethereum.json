@@ -8,13 +8,6 @@
   "address": "0x3472a5a71965499acd81997a54bba8d852c6e53d",
   "decimals": 18,
   "logo": "badger-dao.svg",
-  "changelly": {
-    "ticker": "badger"
-  },
-  "changenow": {
-    "ticker": "badger",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "badger-dao",
     "platform": "ethereum"
@@ -22,8 +15,5 @@
   "coinmarketcap": {
     "id": 7859,
     "slug": "badger-dao"
-  },
-  "onramper": {
-    "id": "badger_ethereum"
   }
 }

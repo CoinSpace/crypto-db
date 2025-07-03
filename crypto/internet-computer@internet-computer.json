@@ -8,18 +8,11 @@
   "decimals": 8,
   "logo": "internet-computer.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "icp"
-  },
   "coingecko": {
     "id": "internet-computer"
   },
   "coinmarketcap": {
     "id": 8916,
     "slug": "internet-computer"
-  },
-  "guardarian": {
-    "ticker": "ICP",
-    "network": "ICP"
   }
 }

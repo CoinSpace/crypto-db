@@ -8,21 +8,11 @@
   "decimals": 8,
   "logo": "komodo.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "kmd"
-  },
   "coingecko": {
     "id": "komodo"
   },
   "coinmarketcap": {
     "id": 1521,
     "slug": "komodo"
-  },
-  "guardarian": {
-    "ticker": "KMD",
-    "network": "KMD"
-  },
-  "onramper": {
-    "id": "kmd_komodo"
   }
 }

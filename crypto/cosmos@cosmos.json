@@ -8,34 +8,11 @@
   "decimals": 8,
   "logo": "cosmos.svg",
   "supported": false,
-  "btcdirect": {
-    "currencyPair": [
-      "ATOM-EUR"
-    ]
-  },
-  "changelly": {
-    "ticker": "atom"
-  },
-  "changenow": {
-    "ticker": "atom",
-    "network": "atom"
-  },
   "coingecko": {
     "id": "cosmos"
   },
   "coinmarketcap": {
     "id": 3794,
     "slug": "cosmos"
-  },
-  "guardarian": {
-    "ticker": "ATOM",
-    "network": "ATOM"
-  },
-  "moonpay": {
-    "id": "7545c52d-3a9d-40d4-aae5-8fcf42b0f17b",
-    "code": "atom"
-  },
-  "onramper": {
-    "id": "atom_cosmos"
   }
 }

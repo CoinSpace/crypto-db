@@ -8,25 +8,11 @@
   "decimals": 18,
   "logo": "harmony.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "one"
-  },
-  "changenow": {
-    "ticker": "one",
-    "network": "one"
-  },
   "coingecko": {
     "id": "harmony"
   },
   "coinmarketcap": {
     "id": 3945,
     "slug": "harmony"
-  },
-  "guardarian": {
-    "ticker": "ONE",
-    "network": "ONE"
-  },
-  "onramper": {
-    "id": "one_harmony"
   }
 }

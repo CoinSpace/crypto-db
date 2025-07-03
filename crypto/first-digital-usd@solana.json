@@ -8,10 +8,6 @@
   "address": "9zNQRsGLjNKwCUU5Gq5LR8beUCPzQMVMqKAi3SSZh54u",
   "decimals": 6,
   "logo": "first-digital-usd.svg",
-  "changenow": {
-    "ticker": "fdusd",
-    "network": "sol"
-  },
   "coingecko": {
     "id": "first-digital-usd"
   },

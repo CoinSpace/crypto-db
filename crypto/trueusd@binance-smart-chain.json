@@ -8,13 +8,6 @@
   "address": "0x40af3827f39d0eacbf4a168f8d4ee67c121d11c9",
   "decimals": 18,
   "logo": "trueusd.svg",
-  "changelly": {
-    "ticker": "tusdbsc"
-  },
-  "changenow": {
-    "ticker": "tusd",
-    "network": "bsc"
-  },
   "coingecko": {
     "id": "true-usd",
     "platform": "binance-smart-chain"
@@ -22,12 +15,5 @@
   "coinmarketcap": {
     "id": 2563,
     "slug": "trueusd"
-  },
-  "guardarian": {
-    "ticker": "TUSD",
-    "network": "BSC"
-  },
-  "onramper": {
-    "id": "tusd_bsc"
   }
 }

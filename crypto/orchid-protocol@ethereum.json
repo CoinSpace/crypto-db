@@ -8,13 +8,6 @@
   "address": "0x4575f41308ec1483f3d399aa9a2826d74da13deb",
   "decimals": 18,
   "logo": "orchid-protocol.svg",
-  "changelly": {
-    "ticker": "oxt"
-  },
-  "changenow": {
-    "ticker": "oxt",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "orchid-protocol",
     "platform": "ethereum"
@@ -22,12 +15,5 @@
   "coinmarketcap": {
     "id": 5026,
     "slug": "orchid"
-  },
-  "guardarian": {
-    "ticker": "OXT",
-    "network": "ETH"
-  },
-  "onramper": {
-    "id": "oxt_ethereum"
   }
 }

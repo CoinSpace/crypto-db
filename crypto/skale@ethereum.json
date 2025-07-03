@@ -8,13 +8,6 @@
   "address": "0x00c83aecc790e8a4453e5dd3b0b4b3680501a7a7",
   "decimals": 18,
   "logo": "skale.svg",
-  "changelly": {
-    "ticker": "skl"
-  },
-  "changenow": {
-    "ticker": "skl",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "skale",
     "platform": "ethereum"
@@ -22,11 +15,5 @@
   "coinmarketcap": {
     "id": 5691,
     "slug": "skale-network"
-  },
-  "onramper": {
-    "id": "skl_ethereum"
-  },
-  "paybis": {
-    "id": "SKL"
   }
 }

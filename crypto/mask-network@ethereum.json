@@ -8,13 +8,6 @@
   "address": "0x69af81e73a73b40adf4f3d4223cd9b1ece623074",
   "decimals": 18,
   "logo": "mask-network.svg",
-  "changelly": {
-    "ticker": "mask"
-  },
-  "changenow": {
-    "ticker": "mask",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "mask-network",
     "platform": "ethereum"
@@ -22,15 +15,5 @@
   "coinmarketcap": {
     "id": 8536,
     "slug": "mask-network"
-  },
-  "guardarian": {
-    "ticker": "MASK",
-    "network": "ETH"
-  },
-  "onramper": {
-    "id": "mask_ethereum"
-  },
-  "paybis": {
-    "id": "MASK"
   }
 }

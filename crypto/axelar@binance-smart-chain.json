@@ -8,10 +8,6 @@
   "address": "0x8b1f4432f943c465a973fedc6d7aa50fc96f1f65",
   "decimals": 6,
   "logo": "axelar.svg",
-  "changenow": {
-    "ticker": "axl",
-    "network": "bsc"
-  },
   "coingecko": {
     "id": "axelar"
   },

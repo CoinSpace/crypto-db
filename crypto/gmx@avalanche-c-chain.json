@@ -8,25 +8,11 @@
   "address": "0x62edc0692bd897d2295872a9ffcac5425011c661",
   "decimals": 18,
   "logo": "gmx.svg",
-  "changelly": {
-    "ticker": "gmx"
-  },
-  "changenow": {
-    "ticker": "gmx",
-    "network": "avaxc"
-  },
   "coingecko": {
     "id": "gmx"
   },
   "coinmarketcap": {
     "id": 11857,
     "slug": "gmx"
-  },
-  "guardarian": {
-    "ticker": "GMX",
-    "network": "AVAXC"
-  },
-  "onramper": {
-    "id": "gmx_avaxc"
   }
 }

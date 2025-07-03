@@ -8,21 +8,11 @@
   "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
   "decimals": 18,
   "logo": "wrapped-ethereum.svg",
-  "changelly": {
-    "ticker": "weth"
-  },
   "coingecko": {
     "id": "weth"
   },
   "coinmarketcap": {
     "id": 2396,
     "slug": "weth"
-  },
-  "moonpay": {
-    "id": "941511ea-1408-4761-bc97-d7e62f7737c4",
-    "code": "weth"
-  },
-  "onramper": {
-    "id": "weth_ethereum"
   }
 }

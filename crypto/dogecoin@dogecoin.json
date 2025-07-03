@@ -8,40 +8,11 @@
   "decimals": 8,
   "logo": "dogecoin.svg",
   "scheme": "dogecoin",
-  "bitnovo": {
-    "id": "DOGE"
-  },
-  "btcdirect": {
-    "currencyPair": [
-      "DOGE-EUR"
-    ]
-  },
-  "changelly": {
-    "ticker": "doge"
-  },
-  "changenow": {
-    "ticker": "doge",
-    "network": "doge"
-  },
   "coingecko": {
     "id": "dogecoin"
   },
   "coinmarketcap": {
     "id": 74,
     "slug": "dogecoin"
-  },
-  "guardarian": {
-    "ticker": "DOGE",
-    "network": "DOGE"
-  },
-  "moonpay": {
-    "id": "af950192-8e01-4a84-9807-27f16d88450e",
-    "code": "doge"
-  },
-  "onramper": {
-    "id": "doge_dogecoin"
-  },
-  "paybis": {
-    "id": "DOGE"
   }
 }

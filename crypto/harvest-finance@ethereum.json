@@ -8,13 +8,6 @@
   "address": "0xa0246c9032bc3a600820415ae600c6388619a14d",
   "decimals": 18,
   "logo": "harvest-finance.svg",
-  "changelly": {
-    "ticker": "farm"
-  },
-  "changenow": {
-    "ticker": "farm",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "harvest-finance",
     "platform": "ethereum"
@@ -22,12 +15,5 @@
   "coinmarketcap": {
     "id": 6859,
     "slug": "harvest-finance"
-  },
-  "guardarian": {
-    "ticker": "FARM",
-    "network": "ETH"
-  },
-  "onramper": {
-    "id": "farm_ethereum"
   }
 }

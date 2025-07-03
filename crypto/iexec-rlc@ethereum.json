@@ -8,13 +8,6 @@
   "address": "0x607f4c5bb672230e8672085532f7e901544a7375",
   "decimals": 9,
   "logo": "iexec-rlc.svg",
-  "changelly": {
-    "ticker": "rlc"
-  },
-  "changenow": {
-    "ticker": "rlc",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "iexec-rlc",
     "platform": "ethereum"
@@ -22,15 +15,5 @@
   "coinmarketcap": {
     "id": 1637,
     "slug": "rlc"
-  },
-  "guardarian": {
-    "ticker": "RLC",
-    "network": "ETH"
-  },
-  "onramper": {
-    "id": "rlc_ethereum"
-  },
-  "paybis": {
-    "id": "RLC"
   }
 }

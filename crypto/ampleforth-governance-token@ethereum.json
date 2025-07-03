@@ -8,13 +8,6 @@
   "address": "0x77fba179c79de5b7653f68b5039af940ada60ce0",
   "decimals": 18,
   "logo": "ampleforth-governance-token.svg",
-  "changelly": {
-    "ticker": "forth"
-  },
-  "changenow": {
-    "ticker": "forth",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "ampleforth-governance-token",
     "platform": "ethereum"
@@ -22,8 +15,5 @@
   "coinmarketcap": {
     "id": 9421,
     "slug": "ampleforth-governance-token"
-  },
-  "onramper": {
-    "id": "forth_ethereum"
   }
 }

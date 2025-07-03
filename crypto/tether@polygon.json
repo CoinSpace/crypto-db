@@ -8,35 +8,11 @@
   "address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
   "decimals": 6,
   "logo": "tether.svg",
-  "bitnovo": {
-    "id": "USDT_MATIC"
-  },
-  "changelly": {
-    "ticker": "usdtpolygon"
-  },
-  "changenow": {
-    "ticker": "usdt",
-    "network": "matic"
-  },
   "coingecko": {
     "id": "tether"
   },
   "coinmarketcap": {
     "id": 825,
     "slug": "tether"
-  },
-  "guardarian": {
-    "ticker": "USDT",
-    "network": "MATIC"
-  },
-  "moonpay": {
-    "id": "41b793aa-1252-44a7-b79b-6789628fb864",
-    "code": "usdt_polygon"
-  },
-  "onramper": {
-    "id": "usdt_polygon"
-  },
-  "paybis": {
-    "id": "USDT-POLYGON"
   }
 }

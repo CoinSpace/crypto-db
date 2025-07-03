@@ -8,13 +8,6 @@
   "address": "0x20de22029ab63cf9a7cf5feb2b737ca1ee4c82a6",
   "decimals": 18,
   "logo": "tranchess.svg",
-  "changelly": {
-    "ticker": "chess"
-  },
-  "changenow": {
-    "ticker": "chess",
-    "network": "bsc"
-  },
   "coingecko": {
     "id": "tranchess",
     "platform": "binance-smart-chain"
@@ -22,12 +15,5 @@
   "coinmarketcap": {
     "id": 10974,
     "slug": "tranchess"
-  },
-  "guardarian": {
-    "ticker": "CHESS",
-    "network": "BSC"
-  },
-  "onramper": {
-    "id": "chess_bsc"
   }
 }

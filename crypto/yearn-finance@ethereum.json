@@ -8,28 +8,11 @@
   "address": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
   "decimals": 18,
   "logo": "yearn-finance.svg",
-  "changelly": {
-    "ticker": "yfi"
-  },
-  "changenow": {
-    "ticker": "yfi",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "yearn-finance"
   },
   "coinmarketcap": {
     "id": 5864,
     "slug": "yearn-finance"
-  },
-  "guardarian": {
-    "ticker": "YFI",
-    "network": "ETH"
-  },
-  "onramper": {
-    "id": "yfi_ethereum"
-  },
-  "paybis": {
-    "id": "YFI"
   }
 }

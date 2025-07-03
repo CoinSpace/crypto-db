@@ -8,32 +8,11 @@
   "address": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
   "decimals": 5,
   "logo": "bonk.svg",
-  "changelly": {
-    "ticker": "bonk"
-  },
-  "changenow": {
-    "ticker": "bonk",
-    "network": "sol"
-  },
   "coingecko": {
     "id": "bonk"
   },
   "coinmarketcap": {
     "id": 23095,
     "slug": "bonk1"
-  },
-  "guardarian": {
-    "ticker": "BONK",
-    "network": "SOL"
-  },
-  "moonpay": {
-    "id": "5194ed33-2be2-40fa-8190-11ac8671b87a",
-    "code": "bonk_sol"
-  },
-  "onramper": {
-    "id": "bonk_solana"
-  },
-  "paybis": {
-    "id": "BONK-SOL"
   }
 }

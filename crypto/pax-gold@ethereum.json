@@ -8,13 +8,6 @@
   "address": "0x45804880de22913dafe09f4980848ece6ecbaf78",
   "decimals": 18,
   "logo": "pax-gold.svg",
-  "changelly": {
-    "ticker": "paxg"
-  },
-  "changenow": {
-    "ticker": "paxg",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "pax-gold",
     "platform": "ethereum"
@@ -22,9 +15,5 @@
   "coinmarketcap": {
     "id": 4705,
     "slug": "pax-gold"
-  },
-  "guardarian": {
-    "ticker": "PAXG",
-    "network": "ETH"
   }
 }

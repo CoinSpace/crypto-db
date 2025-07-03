@@ -8,13 +8,6 @@
   "address": "0xff20817765cb7f73d4bde2e66e067e58d11095c2",
   "decimals": 18,
   "logo": "amp.svg",
-  "changelly": {
-    "ticker": "amp"
-  },
-  "changenow": {
-    "ticker": "amp",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "amp-token",
     "platform": "ethereum"
@@ -22,15 +15,5 @@
   "coinmarketcap": {
     "id": 6945,
     "slug": "amp"
-  },
-  "guardarian": {
-    "ticker": "AMP",
-    "network": "ETH"
-  },
-  "onramper": {
-    "id": "amp_ethereum"
-  },
-  "paybis": {
-    "id": "AMP"
   }
 }

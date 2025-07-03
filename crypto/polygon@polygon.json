@@ -7,36 +7,11 @@
   "symbol": "POL",
   "decimals": 18,
   "logo": "polygon.svg",
-  "bitnovo": {
-    "id": "POL_MATIC"
-  },
-  "btcdirect": {
-    "currencyPair": [
-      "POL-EUR"
-    ]
-  },
-  "changelly": {
-    "ticker": "pol"
-  },
-  "changenow": {
-    "ticker": "matic",
-    "network": "matic"
-  },
   "coingecko": {
     "id": "polygon-ecosystem-token"
   },
   "coinmarketcap": {
     "id": 28321,
     "slug": "polygon-ecosystem-token"
-  },
-  "moonpay": {
-    "id": "f9b4adee-95e0-4d31-b22e-86a61b1040fd",
-    "code": "pol_polygon"
-  },
-  "onramper": {
-    "id": "pol_polygon"
-  },
-  "paybis": {
-    "id": "POL"
   }
 }

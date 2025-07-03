@@ -8,25 +8,11 @@
   "decimals": 4,
   "logo": "icon.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "icx"
-  },
-  "changenow": {
-    "ticker": "icx",
-    "network": "icx"
-  },
   "coingecko": {
     "id": "icon"
   },
   "coinmarketcap": {
     "id": 2099,
     "slug": "icon"
-  },
-  "guardarian": {
-    "ticker": "ICX",
-    "network": "ICX"
-  },
-  "onramper": {
-    "id": "icx_icon"
   }
 }

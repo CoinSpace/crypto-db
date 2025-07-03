@@ -8,10 +8,6 @@
   "address": "0x476c5e26a75bd202a9683ffd34359c0cc15be0ff",
   "decimals": 6,
   "logo": "serum.svg",
-  "changenow": {
-    "ticker": "srm",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "serum",
     "platform": "ethereum"
@@ -19,12 +15,5 @@
   "coinmarketcap": {
     "id": 6187,
     "slug": "serum"
-  },
-  "guardarian": {
-    "ticker": "SRM",
-    "network": "ETH"
-  },
-  "onramper": {
-    "id": "srm_ethereum"
   }
 }

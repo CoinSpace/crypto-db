@@ -8,13 +8,6 @@
   "address": "0x419d0d8bdd9af5e606ae2232ed285aff190e711b",
   "decimals": 8,
   "logo": "funtoken.svg",
-  "changelly": {
-    "ticker": "fun"
-  },
-  "changenow": {
-    "ticker": "fun",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "funfair",
     "platform": "ethereum"
@@ -22,12 +15,5 @@
   "coinmarketcap": {
     "id": 1757,
     "slug": "funtoken"
-  },
-  "guardarian": {
-    "ticker": "FUN",
-    "network": "ETH"
-  },
-  "onramper": {
-    "id": "fun_ethereum"
   }
 }

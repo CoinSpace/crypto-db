@@ -8,22 +8,11 @@
   "address": "0x1ce0c2827e2ef14d5c4f29a091d735a204794041",
   "decimals": 18,
   "logo": "avalanche.svg",
-  "changenow": {
-    "ticker": "avax",
-    "network": "bsc"
-  },
   "coingecko": {
     "id": "avalanche-2"
   },
   "coinmarketcap": {
     "id": 5805,
     "slug": "avalanche"
-  },
-  "guardarian": {
-    "ticker": "AVAX",
-    "network": "BSC"
-  },
-  "onramper": {
-    "id": "avax_bsc"
   }
 }

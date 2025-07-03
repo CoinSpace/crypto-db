@@ -8,22 +8,11 @@
   "address": "0x1c20e891bab6b1727d14da358fae2984ed9b59eb",
   "decimals": 18,
   "logo": "trueusd.svg",
-  "changenow": {
-    "ticker": "tusd",
-    "network": "avaxc"
-  },
   "coingecko": {
     "id": "true-usd"
   },
   "coinmarketcap": {
     "id": 2563,
     "slug": "trueusd"
-  },
-  "guardarian": {
-    "ticker": "TUSD",
-    "network": "AVAXC"
-  },
-  "onramper": {
-    "id": "tusd_avaxc"
   }
 }

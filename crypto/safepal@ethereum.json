@@ -8,9 +8,6 @@
   "address": "0x12e2b8033420270db2f3b328e32370cb5b2ca134",
   "decimals": 18,
   "logo": "safepal.svg",
-  "changelly": {
-    "ticker": "sfpeth"
-  },
   "coingecko": {
     "id": "safepal"
   },

@@ -8,13 +8,6 @@
   "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
   "decimals": 18,
   "logo": "usd-coin.svg",
-  "changelly": {
-    "ticker": "usdcbsc"
-  },
-  "changenow": {
-    "ticker": "usdc",
-    "network": "bsc"
-  },
   "coingecko": {
     "id": "usd-coin",
     "platform": "binance-smart-chain"
@@ -22,16 +15,5 @@
   "coinmarketcap": {
     "id": 3408,
     "slug": "usd-coin"
-  },
-  "guardarian": {
-    "ticker": "USDC",
-    "network": "BSC"
-  },
-  "moonpay": {
-    "id": "14e624cf-28d9-40a7-80c5-60a0e50dae15",
-    "code": "usdc_bsc"
-  },
-  "onramper": {
-    "id": "usdc_bsc"
   }
 }

@@ -8,13 +8,6 @@
   "address": "0x18aaa7115705e8be94bffebde57af9bfc265b998",
   "decimals": 18,
   "logo": "audius.svg",
-  "changelly": {
-    "ticker": "audio"
-  },
-  "changenow": {
-    "ticker": "audio",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "audius",
     "platform": "ethereum"
@@ -22,15 +15,5 @@
   "coinmarketcap": {
     "id": 7455,
     "slug": "audius"
-  },
-  "guardarian": {
-    "ticker": "AUDIO",
-    "network": "ETH"
-  },
-  "onramper": {
-    "id": "audio_ethereum"
-  },
-  "paybis": {
-    "id": "AUDIO"
   }
 }

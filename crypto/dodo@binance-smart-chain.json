@@ -8,10 +8,6 @@
   "address": "0x67ee3cb086f8a16f34bee3ca72fad36f7db929e2",
   "decimals": 18,
   "logo": "dodo.svg",
-  "changenow": {
-    "ticker": "dodo",
-    "network": "bsc"
-  },
   "coingecko": {
     "id": "dodo",
     "platform": "binance-smart-chain"
@@ -19,8 +15,5 @@
   "coinmarketcap": {
     "id": 7224,
     "slug": "dodo"
-  },
-  "onramper": {
-    "id": "dodo_bsc"
   }
 }

@@ -8,19 +8,11 @@
   "address": "TXDk8mbtRbXeYuMNS83CfKPaYYT8XWv9Hz",
   "decimals": 18,
   "logo": "usdd.svg",
-  "changenow": {
-    "ticker": "usdd",
-    "network": "trx"
-  },
   "coingecko": {
     "id": "usdd"
   },
   "coinmarketcap": {
     "id": 19891,
     "slug": "usdd"
-  },
-  "guardarian": {
-    "ticker": "USDD",
-    "network": "TRX"
   }
 }

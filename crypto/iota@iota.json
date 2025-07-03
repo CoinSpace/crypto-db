@@ -8,21 +8,11 @@
   "decimals": 6,
   "logo": "iota.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "iota"
-  },
   "coingecko": {
     "id": "iota"
   },
   "coinmarketcap": {
     "id": 1720,
     "slug": "iota"
-  },
-  "guardarian": {
-    "ticker": "IOTA",
-    "network": "IOTA"
-  },
-  "onramper": {
-    "id": "iota_iota"
   }
 }

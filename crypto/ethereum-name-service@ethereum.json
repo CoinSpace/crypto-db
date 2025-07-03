@@ -8,13 +8,6 @@
   "address": "0xc18360217d8f7ab5e7c516566761ea12ce7f9d72",
   "decimals": 18,
   "logo": "ethereum-name-service.svg",
-  "changelly": {
-    "ticker": "ens"
-  },
-  "changenow": {
-    "ticker": "ens",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "ethereum-name-service",
     "platform": "ethereum"
@@ -22,19 +15,5 @@
   "coinmarketcap": {
     "id": 13855,
     "slug": "ethereum-name-service"
-  },
-  "guardarian": {
-    "ticker": "ENS",
-    "network": "ETH"
-  },
-  "moonpay": {
-    "id": "3f7c5cc7-52a9-482e-aa26-f46162d6775c",
-    "code": "ens"
-  },
-  "onramper": {
-    "id": "ens_ethereum"
-  },
-  "paybis": {
-    "id": "ENS"
   }
 }

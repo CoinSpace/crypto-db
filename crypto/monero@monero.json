@@ -8,28 +8,11 @@
   "decimals": 12,
   "logo": "monero.svg",
   "scheme": "monero",
-  "bitnovo": {
-    "id": "XMR"
-  },
-  "changelly": {
-    "ticker": "xmr"
-  },
-  "changenow": {
-    "ticker": "xmr",
-    "network": "xmr"
-  },
   "coingecko": {
     "id": "monero"
   },
   "coinmarketcap": {
     "id": 328,
     "slug": "monero"
-  },
-  "guardarian": {
-    "ticker": "XMR",
-    "network": "XMR"
-  },
-  "onramper": {
-    "id": "xmr_monero"
   }
 }

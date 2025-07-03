@@ -7,35 +7,11 @@
   "symbol": "ETH",
   "decimals": 18,
   "logo": "base.svg",
-  "bitnovo": {
-    "id": "ETH_BASE"
-  },
-  "changelly": {
-    "ticker": "ethbase"
-  },
-  "changenow": {
-    "ticker": "eth",
-    "network": "base"
-  },
   "coingecko": {
     "id": "ethereum"
   },
   "coinmarketcap": {
     "id": 1027,
     "slug": "ethereum"
-  },
-  "guardarian": {
-    "ticker": "ETH",
-    "network": "BASE"
-  },
-  "moonpay": {
-    "id": "cdc83701-1799-4556-ae9a-da3266621101",
-    "code": "eth_base"
-  },
-  "onramper": {
-    "id": "eth_base"
-  },
-  "paybis": {
-    "id": "ETH-BASE"
   }
 }

@@ -8,22 +8,11 @@
   "address": "0xbbba073c31bf03b8acf7c28ef0738decf3695683",
   "decimals": 18,
   "logo": "the-sandbox.svg",
-  "changenow": {
-    "ticker": "sand",
-    "network": "matic"
-  },
   "coingecko": {
     "id": "the-sandbox"
   },
   "coinmarketcap": {
     "id": 6210,
     "slug": "the-sandbox"
-  },
-  "guardarian": {
-    "ticker": "SAND",
-    "network": "MATIC"
-  },
-  "onramper": {
-    "id": "sand_polygon"
   }
 }

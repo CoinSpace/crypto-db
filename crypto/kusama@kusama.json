@@ -8,21 +8,11 @@
   "decimals": 12,
   "logo": "kusama.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "ksm"
-  },
   "coingecko": {
     "id": "kusama"
   },
   "coinmarketcap": {
     "id": 5034,
     "slug": "kusama"
-  },
-  "guardarian": {
-    "ticker": "KSM",
-    "network": "KSM"
-  },
-  "onramper": {
-    "id": "ksm_kusama"
   }
 }

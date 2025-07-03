@@ -8,29 +8,11 @@
   "address": "0x6c3ea9036406852006290770bedfcaba0e23a0e8",
   "decimals": 6,
   "logo": "paypal-usd.svg",
-  "changelly": {
-    "ticker": "pyusd"
-  },
-  "changenow": {
-    "ticker": "pyusd",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "paypal-usd"
   },
   "coinmarketcap": {
     "id": 27772,
     "slug": "paypal-usd"
-  },
-  "guardarian": {
-    "ticker": "PYUSD",
-    "network": "ETH"
-  },
-  "moonpay": {
-    "id": "befc32c0-6a33-4dcc-9f8f-db81117ccecf",
-    "code": "pyusd"
-  },
-  "onramper": {
-    "id": "pyusd_ethereum"
   }
 }

@@ -8,13 +8,6 @@
   "address": "0x8da443f84fea710266c8eb6bc34b71702d033ef2",
   "decimals": 18,
   "logo": "cartesi.svg",
-  "changelly": {
-    "ticker": "ctsi"
-  },
-  "changenow": {
-    "ticker": "ctsi",
-    "network": "bsc"
-  },
   "coingecko": {
     "id": "cartesi",
     "platform": "binance-smart-chain"
@@ -22,12 +15,5 @@
   "coinmarketcap": {
     "id": 5444,
     "slug": "cartesi"
-  },
-  "guardarian": {
-    "ticker": "CTSI",
-    "network": "BSC"
-  },
-  "onramper": {
-    "id": "ctsi_bsc"
   }
 }

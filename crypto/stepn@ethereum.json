@@ -8,22 +8,11 @@
   "address": "0xe3c408bd53c31c085a1746af401a4042954ff740",
   "decimals": 8,
   "logo": "stepn.svg",
-  "changenow": {
-    "ticker": "gmt",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "stepn"
   },
   "coinmarketcap": {
     "id": 18069,
     "slug": "green-metaverse-token"
-  },
-  "guardarian": {
-    "ticker": "GMT",
-    "network": "ETH"
-  },
-  "onramper": {
-    "id": "gmt_ethereum"
   }
 }

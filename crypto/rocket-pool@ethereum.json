@@ -8,13 +8,6 @@
   "address": "0xd33526068d116ce69f19a9ee46f0bd304f21a51f",
   "decimals": 18,
   "logo": "rocket-pool.svg",
-  "changelly": {
-    "ticker": "rpl"
-  },
-  "changenow": {
-    "ticker": "rpl",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "rocket-pool",
     "platform": "ethereum"
@@ -22,15 +15,5 @@
   "coinmarketcap": {
     "id": 2943,
     "slug": "rocket-pool"
-  },
-  "guardarian": {
-    "ticker": "RPL",
-    "network": "ETH"
-  },
-  "onramper": {
-    "id": "rpl_ethereum"
-  },
-  "paybis": {
-    "id": "RPL"
   }
 }

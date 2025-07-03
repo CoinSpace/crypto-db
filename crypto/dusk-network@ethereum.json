@@ -8,13 +8,6 @@
   "address": "0x940a2db1b7008b6c776d4faaca729d6d4a4aa551",
   "decimals": 18,
   "logo": "dusk-network.svg",
-  "changelly": {
-    "ticker": "dusk"
-  },
-  "changenow": {
-    "ticker": "dusk",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "dusk-network",
     "platform": "ethereum"
@@ -22,12 +15,5 @@
   "coinmarketcap": {
     "id": 4092,
     "slug": "dusk"
-  },
-  "guardarian": {
-    "ticker": "DUSK",
-    "network": "ETH"
-  },
-  "onramper": {
-    "id": "dusk_ethereum"
   }
 }

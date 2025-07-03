@@ -8,28 +8,11 @@
   "address": "0x4200000000000000000000000000000000000042",
   "decimals": 18,
   "logo": "optimism.svg",
-  "changelly": {
-    "ticker": "op"
-  },
-  "changenow": {
-    "ticker": "op",
-    "network": "op"
-  },
   "coingecko": {
     "id": "optimism"
   },
   "coinmarketcap": {
     "id": 11840,
     "slug": "optimism-ethereum"
-  },
-  "guardarian": {
-    "ticker": "OP",
-    "network": "OP"
-  },
-  "onramper": {
-    "id": "op_optimism"
-  },
-  "paybis": {
-    "id": "OP"
   }
 }

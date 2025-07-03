@@ -9,26 +9,11 @@
   "decimals": 6,
   "logo": "paypal-usd.svg",
   "supported": "6.12.0",
-  "changenow": {
-    "ticker": "pyusd",
-    "network": "sol"
-  },
   "coingecko": {
     "id": "paypal-usd"
   },
   "coinmarketcap": {
     "id": 27772,
     "slug": "paypal-usd"
-  },
-  "guardarian": {
-    "ticker": "PYUSD",
-    "network": "SOL"
-  },
-  "moonpay": {
-    "id": "e423de77-b05d-4783-893b-b5994b7c1572",
-    "code": "pyusd_sol"
-  },
-  "onramper": {
-    "id": "pyusd_solana"
   }
 }

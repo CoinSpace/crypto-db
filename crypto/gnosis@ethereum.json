@@ -8,13 +8,6 @@
   "address": "0x6810e776880c02933d47db1b9fc05908e5386b96",
   "decimals": 18,
   "logo": "gnosis.svg",
-  "changelly": {
-    "ticker": "gno"
-  },
-  "changenow": {
-    "ticker": "gno",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "gnosis",
     "platform": "ethereum"
@@ -22,12 +15,5 @@
   "coinmarketcap": {
     "id": 1659,
     "slug": "gnosis-gno"
-  },
-  "guardarian": {
-    "ticker": "GNO",
-    "network": "ETH"
-  },
-  "paybis": {
-    "id": "GNO"
   }
 }

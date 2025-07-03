@@ -8,26 +8,11 @@
   "address": "0xb50721bcf8d664c30412cfbc6cf7a15145234ad1",
   "decimals": 18,
   "logo": "arbitrum.svg",
-  "changenow": {
-    "ticker": "arb",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "arbitrum"
   },
   "coinmarketcap": {
     "id": 11841,
     "slug": "arbitrum"
-  },
-  "guardarian": {
-    "ticker": "ARB",
-    "network": "ETH"
-  },
-  "moonpay": {
-    "id": "caba4db6-09f5-4f8d-8231-b036f08d94ae",
-    "code": "arb"
-  },
-  "onramper": {
-    "id": "arb_ethereum"
   }
 }

@@ -7,35 +7,11 @@
   "symbol": "ETH",
   "decimals": 18,
   "logo": "optimism.svg",
-  "bitnovo": {
-    "id": "ETH_OP"
-  },
-  "changelly": {
-    "ticker": "ethop"
-  },
-  "changenow": {
-    "ticker": "eth",
-    "network": "op"
-  },
   "coingecko": {
     "id": "ethereum"
   },
   "coinmarketcap": {
     "id": 1027,
     "slug": "ethereum"
-  },
-  "guardarian": {
-    "ticker": "ETH",
-    "network": "OP"
-  },
-  "moonpay": {
-    "id": "621e5943-811c-4de0-b3b1-ef5340d9fcdf",
-    "code": "eth_optimism"
-  },
-  "onramper": {
-    "id": "eth_optimism"
-  },
-  "paybis": {
-    "id": "ETH-OP"
   }
 }

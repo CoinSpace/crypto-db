@@ -8,32 +8,11 @@
   "address": "0x94b008aa00579c1307b0ef2c499ad98a8ce58e58",
   "decimals": 6,
   "logo": "tether.svg",
-  "bitnovo": {
-    "id": "USDT_OP"
-  },
-  "changelly": {
-    "ticker": "usdtop"
-  },
-  "changenow": {
-    "ticker": "usdt",
-    "network": "op"
-  },
   "coingecko": {
     "id": "tether"
   },
   "coinmarketcap": {
     "id": 825,
     "slug": "tether"
-  },
-  "guardarian": {
-    "ticker": "USDT",
-    "network": "OP"
-  },
-  "moonpay": {
-    "id": "1e3d1c47-0f93-4e50-a43e-987177f2c53a",
-    "code": "usdt_optimism"
-  },
-  "onramper": {
-    "id": "usdt_optimism"
   }
 }

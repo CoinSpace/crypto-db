@@ -8,22 +8,11 @@
   "address": "0xce7de646e7208a4ef112cb6ed5038fa6cc6b12e3",
   "decimals": 6,
   "logo": "tron.svg",
-  "changenow": {
-    "ticker": "trx",
-    "network": "bsc"
-  },
   "coingecko": {
     "id": "tron"
   },
   "coinmarketcap": {
     "id": 1958,
     "slug": "tron"
-  },
-  "guardarian": {
-    "ticker": "TRX",
-    "network": "BSC"
-  },
-  "onramper": {
-    "id": "trx_bsc"
   }
 }

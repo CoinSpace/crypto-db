@@ -8,22 +8,11 @@
   "address": "0x101d82428437127bf1608f699cd651e6abf9766e",
   "decimals": 18,
   "logo": "basic-attention-token.svg",
-  "changenow": {
-    "ticker": "bat",
-    "network": "bsc"
-  },
   "coingecko": {
     "id": "basic-attention-token"
   },
   "coinmarketcap": {
     "id": 1697,
     "slug": "basic-attention-token"
-  },
-  "guardarian": {
-    "ticker": "BAT",
-    "network": "BSC"
-  },
-  "onramper": {
-    "id": "bat_bsc"
   }
 }

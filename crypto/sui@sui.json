@@ -7,29 +7,11 @@
   "symbol": "SUI",
   "decimals": 9,
   "logo": "sui.svg",
-  "changelly": {
-    "ticker": "sui"
-  },
-  "changenow": {
-    "ticker": "sui",
-    "network": "sui"
-  },
   "coingecko": {
     "id": "sui"
   },
   "coinmarketcap": {
     "id": 20947,
     "slug": "sui"
-  },
-  "guardarian": {
-    "ticker": "SUI",
-    "network": "SUI"
-  },
-  "moonpay": {
-    "id": "6d2aa7e8-2a2c-401b-b442-19e2583a7633",
-    "code": "sui"
-  },
-  "onramper": {
-    "id": "sui_sui"
   }
 }

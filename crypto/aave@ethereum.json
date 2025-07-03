@@ -8,13 +8,6 @@
   "address": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
   "decimals": 18,
   "logo": "aave.svg",
-  "changelly": {
-    "ticker": "aave"
-  },
-  "changenow": {
-    "ticker": "aave",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "aave",
     "platform": "ethereum"
@@ -22,19 +15,5 @@
   "coinmarketcap": {
     "id": 7278,
     "slug": "aave"
-  },
-  "guardarian": {
-    "ticker": "AAVE",
-    "network": "ETH"
-  },
-  "moonpay": {
-    "id": "3c28b499-2066-4890-8b58-79c52994362f",
-    "code": "aave"
-  },
-  "onramper": {
-    "id": "aave_ethereum"
-  },
-  "paybis": {
-    "id": "AAVE"
   }
 }

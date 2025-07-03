@@ -8,28 +8,11 @@
   "decimals": 6,
   "logo": "nem.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "xem"
-  },
-  "changenow": {
-    "ticker": "xem",
-    "network": "xem"
-  },
   "coingecko": {
     "id": "nem"
   },
   "coinmarketcap": {
     "id": 873,
     "slug": "nem"
-  },
-  "guardarian": {
-    "ticker": "XEM",
-    "network": "XEM"
-  },
-  "onramper": {
-    "id": "xem_nem"
-  },
-  "paybis": {
-    "id": "XEM"
   }
 }

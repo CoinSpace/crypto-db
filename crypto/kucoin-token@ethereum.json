@@ -8,13 +8,6 @@
   "address": "0xf34960d9d60be18cc1d5afc1a6f012a723a28811",
   "decimals": 6,
   "logo": "kucoin-token.svg",
-  "changelly": {
-    "ticker": "kcs"
-  },
-  "changenow": {
-    "ticker": "kcs",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "kucoin-shares",
     "platform": "ethereum"
@@ -22,9 +15,5 @@
   "coinmarketcap": {
     "id": 2087,
     "slug": "kucoin-token"
-  },
-  "guardarian": {
-    "ticker": "KCS",
-    "network": "ETH"
   }
 }

@@ -8,13 +8,6 @@
   "address": "0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
   "decimals": 18,
   "logo": "loopring.svg",
-  "changelly": {
-    "ticker": "lrc"
-  },
-  "changenow": {
-    "ticker": "lrc",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "loopring",
     "platform": "ethereum"
@@ -22,15 +15,5 @@
   "coinmarketcap": {
     "id": 1934,
     "slug": "loopring"
-  },
-  "guardarian": {
-    "ticker": "LRC",
-    "network": "ETH"
-  },
-  "onramper": {
-    "id": "lrc_ethereum"
-  },
-  "paybis": {
-    "id": "LRC"
   }
 }

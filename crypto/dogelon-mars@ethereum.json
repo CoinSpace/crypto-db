@@ -8,13 +8,6 @@
   "address": "0x761d38e5ddf6ccf6cf7c55759d5210750b5d60f3",
   "decimals": 18,
   "logo": "dogelon-mars.svg",
-  "changelly": {
-    "ticker": "elon"
-  },
-  "changenow": {
-    "ticker": "elon",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "dogelon-mars",
     "platform": "ethereum"
@@ -22,9 +15,5 @@
   "coinmarketcap": {
     "id": 9436,
     "slug": "dogelon"
-  },
-  "guardarian": {
-    "ticker": "ELON",
-    "network": "ETH"
   }
 }

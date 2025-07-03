@@ -8,18 +8,11 @@
   "address": "0xfe3e6a25e6b192a42a44ecddcd13796471735acf",
   "decimals": 18,
   "logo": "reef-finance.svg",
-  "changenow": {
-    "ticker": "reef",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "reef"
   },
   "coinmarketcap": {
     "id": 6951,
     "slug": "reef"
-  },
-  "onramper": {
-    "id": "reef_ethereum"
   }
 }

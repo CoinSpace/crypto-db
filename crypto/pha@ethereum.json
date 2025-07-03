@@ -8,13 +8,6 @@
   "address": "0x6c5ba91642f10282b576d91922ae6448c9d52f4e",
   "decimals": 18,
   "logo": "pha.svg",
-  "changelly": {
-    "ticker": "pha"
-  },
-  "changenow": {
-    "ticker": "pha",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "pha",
     "platform": "ethereum"
@@ -22,8 +15,5 @@
   "coinmarketcap": {
     "id": 6841,
     "slug": "phala-network"
-  },
-  "onramper": {
-    "id": "pha_ethereum"
   }
 }

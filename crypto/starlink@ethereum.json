@@ -8,10 +8,6 @@
   "address": "0x8e6cd950ad6ba651f6dd608dc70e5886b1aa6b24",
   "decimals": 18,
   "logo": "starlink.png",
-  "changenow": {
-    "ticker": "starl",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "starlink",
     "platform": "ethereum"
@@ -19,9 +15,5 @@
   "coinmarketcap": {
     "id": 10821,
     "slug": "star-link"
-  },
-  "guardarian": {
-    "ticker": "STARL",
-    "network": "ETH"
   }
 }

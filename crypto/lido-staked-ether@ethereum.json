@@ -8,13 +8,6 @@
   "address": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
   "decimals": 18,
   "logo": "lido-staked-ether.svg",
-  "changelly": {
-    "ticker": "steth"
-  },
-  "changenow": {
-    "ticker": "steth",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "staked-ether",
     "platform": "ethereum"
@@ -22,13 +15,5 @@
   "coinmarketcap": {
     "id": 8085,
     "slug": "steth"
-  },
-  "guardarian": {
-    "ticker": "STETH",
-    "network": "ETH"
-  },
-  "moonpay": {
-    "id": "77a956eb-0748-47ef-a065-601090c330f0",
-    "code": "steth"
   }
 }

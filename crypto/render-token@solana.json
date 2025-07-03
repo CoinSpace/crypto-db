@@ -8,22 +8,11 @@
   "address": "rndrizKT3MK1iimdxRdWabcF7Zg7AR5T4nud4EkHBof",
   "decimals": 8,
   "logo": "render-token.svg",
-  "changelly": {
-    "ticker": "render"
-  },
-  "changenow": {
-    "ticker": "render",
-    "network": "sol"
-  },
   "coingecko": {
     "id": "render-token"
   },
   "coinmarketcap": {
     "id": 5690,
     "slug": "render"
-  },
-  "moonpay": {
-    "id": "794c61b1-ce3c-4021-961e-49bb6077f7bc",
-    "code": "render_sol"
   }
 }

@@ -8,13 +8,6 @@
   "address": "0x75231f58b43240c9718dd58b4967c5114342a86c",
   "decimals": 18,
   "logo": "okb.svg",
-  "changelly": {
-    "ticker": "okb"
-  },
-  "changenow": {
-    "ticker": "okb",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "okb",
     "platform": "ethereum"
@@ -22,16 +15,5 @@
   "coinmarketcap": {
     "id": 3897,
     "slug": "okb"
-  },
-  "guardarian": {
-    "ticker": "OKB",
-    "network": "ETH"
-  },
-  "moonpay": {
-    "id": "f3751fcc-7864-489b-80ca-4fc372b0dab1",
-    "code": "okb"
-  },
-  "onramper": {
-    "id": "okb_ethereum"
   }
 }

@@ -8,40 +8,11 @@
   "decimals": 7,
   "logo": "stellar.svg",
   "scheme": "stellar",
-  "bitnovo": {
-    "id": "XLM"
-  },
-  "btcdirect": {
-    "currencyPair": [
-      "XLM-EUR"
-    ]
-  },
-  "changelly": {
-    "ticker": "xlm"
-  },
-  "changenow": {
-    "ticker": "xlm",
-    "network": "xlm"
-  },
   "coingecko": {
     "id": "stellar"
   },
   "coinmarketcap": {
     "id": 512,
     "slug": "stellar"
-  },
-  "guardarian": {
-    "ticker": "XLM",
-    "network": "XLM"
-  },
-  "moonpay": {
-    "id": "c8b1ef20-3703-4a66-9ea1-c13ce0d893bf",
-    "code": "xlm"
-  },
-  "onramper": {
-    "id": "xlm_stellar"
-  },
-  "paybis": {
-    "id": "XLM"
   }
 }

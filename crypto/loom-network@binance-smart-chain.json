@@ -14,9 +14,5 @@
   "coinmarketcap": {
     "id": 2588,
     "slug": "loom-network"
-  },
-  "guardarian": {
-    "ticker": "LOOM",
-    "network": "BSC"
   }
 }

@@ -8,18 +8,11 @@
   "address": "0xf21768ccbc73ea5b6fd3c687208a7c2def2d966e",
   "decimals": 18,
   "logo": "reef-finance.svg",
-  "changenow": {
-    "ticker": "reef",
-    "network": "bsc"
-  },
   "coingecko": {
     "id": "reef"
   },
   "coinmarketcap": {
     "id": 6951,
     "slug": "reef"
-  },
-  "onramper": {
-    "id": "reef_bsc"
   }
 }

@@ -8,25 +8,11 @@
   "address": "0x3c3a81e81dc49a522a592e7622a7e711c06bf354",
   "decimals": 18,
   "logo": "mantle.svg",
-  "changelly": {
-    "ticker": "mnt"
-  },
-  "changenow": {
-    "ticker": "mnt",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "mantle"
   },
   "coinmarketcap": {
     "id": 27075,
     "slug": "mantle"
-  },
-  "moonpay": {
-    "id": "8ca9cdf0-7b2a-4b70-99b0-3b2eca0dc2b4",
-    "code": "mnt_eth"
-  },
-  "onramper": {
-    "id": "mnt_ethereum"
   }
 }

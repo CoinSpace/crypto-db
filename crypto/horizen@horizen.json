@@ -8,25 +8,11 @@
   "decimals": 8,
   "logo": "horizen.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "zen"
-  },
-  "changenow": {
-    "ticker": "zen",
-    "network": "zen"
-  },
   "coingecko": {
     "id": "zencash"
   },
   "coinmarketcap": {
     "id": 1698,
     "slug": "horizen"
-  },
-  "guardarian": {
-    "ticker": "ZEN",
-    "network": "ZEN"
-  },
-  "onramper": {
-    "id": "zen_horizen"
   }
 }

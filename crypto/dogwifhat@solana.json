@@ -8,26 +8,11 @@
   "address": "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
   "decimals": 6,
   "logo": "dogwifhat.svg",
-  "changelly": {
-    "ticker": "wif"
-  },
-  "changenow": {
-    "ticker": "wif",
-    "network": "sol"
-  },
   "coingecko": {
     "id": "dogwifcoin"
   },
   "coinmarketcap": {
     "id": 28752,
     "slug": "dogwifhat"
-  },
-  "guardarian": {
-    "ticker": "WIF",
-    "network": "SOL"
-  },
-  "moonpay": {
-    "id": "5a066ef8-c321-4c16-b47e-83a77aa26565",
-    "code": "wif_sol"
   }
 }

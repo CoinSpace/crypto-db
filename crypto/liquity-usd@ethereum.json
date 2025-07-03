@@ -8,10 +8,6 @@
   "address": "0x5f98805a4e8be255a32880fdec7f6728c6568ba0",
   "decimals": 18,
   "logo": "liquity-usd.svg",
-  "changenow": {
-    "ticker": "lusd",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "liquity-usd",
     "platform": "ethereum"
@@ -19,12 +15,5 @@
   "coinmarketcap": {
     "id": 9566,
     "slug": "liquity-usd"
-  },
-  "guardarian": {
-    "ticker": "LUSD",
-    "network": "ETH"
-  },
-  "onramper": {
-    "id": "lusd_ethereum"
   }
 }

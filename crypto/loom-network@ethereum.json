@@ -8,13 +8,6 @@
   "address": "0x42476f744292107e34519f9c357927074ea3f75d",
   "decimals": 18,
   "logo": "loom-network.svg",
-  "changelly": {
-    "ticker": "loom"
-  },
-  "changenow": {
-    "ticker": "loom",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "loom-network-new",
     "platform": "ethereum"
@@ -22,12 +15,5 @@
   "coinmarketcap": {
     "id": 2588,
     "slug": "loom-network"
-  },
-  "guardarian": {
-    "ticker": "LOOM",
-    "network": "ETH"
-  },
-  "onramper": {
-    "id": "loom_ethereum"
   }
 }

@@ -8,26 +8,11 @@
   "address": "HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3",
   "decimals": 6,
   "logo": "pyth-network.svg",
-  "changelly": {
-    "ticker": "pyth"
-  },
-  "changenow": {
-    "ticker": "pyth",
-    "network": "sol"
-  },
   "coingecko": {
     "id": "pyth-network"
   },
   "coinmarketcap": {
     "id": 28177,
     "slug": "pyth-network"
-  },
-  "guardarian": {
-    "ticker": "PYTH",
-    "network": "SOL"
-  },
-  "moonpay": {
-    "id": "c7151875-66f1-44ab-8562-97af553d51e0",
-    "code": "pyth"
   }
 }

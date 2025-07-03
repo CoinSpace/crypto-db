@@ -8,13 +8,6 @@
   "address": "0x4691937a7508860f876c9c0a2a617e7d9e945d4b",
   "decimals": 18,
   "logo": "woo-network.svg",
-  "changelly": {
-    "ticker": "woo"
-  },
-  "changenow": {
-    "ticker": "woo",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "woo-network",
     "platform": "ethereum"
@@ -22,15 +15,5 @@
   "coinmarketcap": {
     "id": 7501,
     "slug": "wootrade"
-  },
-  "guardarian": {
-    "ticker": "WOO",
-    "network": "ETH"
-  },
-  "onramper": {
-    "id": "woo_ethereum"
-  },
-  "paybis": {
-    "id": "WOO"
   }
 }

@@ -9,40 +9,11 @@
   "logo": "ethereum.svg",
   "scheme": "ethereum",
   "original": true,
-  "bitnovo": {
-    "id": "ETH"
-  },
-  "btcdirect": {
-    "currencyPair": [
-      "ETH-EUR"
-    ]
-  },
-  "changelly": {
-    "ticker": "eth"
-  },
-  "changenow": {
-    "ticker": "eth",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "ethereum"
   },
   "coinmarketcap": {
     "id": 1027,
     "slug": "ethereum"
-  },
-  "guardarian": {
-    "ticker": "ETH",
-    "network": "ETH"
-  },
-  "moonpay": {
-    "id": "8d305f63-1fd7-4e01-a220-8445e591aec4",
-    "code": "eth"
-  },
-  "onramper": {
-    "id": "eth"
-  },
-  "paybis": {
-    "id": "ETH"
   }
 }

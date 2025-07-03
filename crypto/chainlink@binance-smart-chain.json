@@ -8,13 +8,6 @@
   "address": "0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd",
   "decimals": 18,
   "logo": "chainlink.svg",
-  "changelly": {
-    "ticker": "linkbsc"
-  },
-  "changenow": {
-    "ticker": "link",
-    "network": "bsc"
-  },
   "coingecko": {
     "id": "chainlink",
     "platform": "binance-smart-chain"
@@ -22,12 +15,5 @@
   "coinmarketcap": {
     "id": 1975,
     "slug": "chainlink"
-  },
-  "guardarian": {
-    "ticker": "LINK",
-    "network": "BSC"
-  },
-  "onramper": {
-    "id": "link_bsc"
   }
 }

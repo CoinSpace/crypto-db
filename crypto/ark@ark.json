@@ -8,21 +8,11 @@
   "decimals": 8,
   "logo": "ark.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "ark"
-  },
   "coingecko": {
     "id": "ark"
   },
   "coinmarketcap": {
     "id": 1586,
     "slug": "ark"
-  },
-  "guardarian": {
-    "ticker": "ARK",
-    "network": "ARK"
-  },
-  "onramper": {
-    "id": "ark_ark"
   }
 }

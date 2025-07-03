@@ -8,22 +8,11 @@
   "address": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
   "decimals": 6,
   "logo": "pudgy-penguins.svg",
-  "changelly": {
-    "ticker": "pengu"
-  },
-  "changenow": {
-    "ticker": "pengu",
-    "network": "sol"
-  },
   "coingecko": {
     "id": "pudgy-penguins"
   },
   "coinmarketcap": {
     "id": 34466,
     "slug": "pudgy-penguins"
-  },
-  "moonpay": {
-    "id": "642f2b07-99ef-4e34-8641-c315e4b6909d",
-    "code": "pengu_sol"
   }
 }

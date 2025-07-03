@@ -15,12 +15,5 @@
   "coinmarketcap": {
     "id": 11156,
     "slug": "dydx-ethdydx"
-  },
-  "guardarian": {
-    "ticker": "DYDX",
-    "network": "ETH"
-  },
-  "onramper": {
-    "id": "dydx_ethereum"
   }
 }

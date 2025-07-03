@@ -8,21 +8,6 @@
   "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
   "decimals": 6,
   "logo": "tether.svg",
-  "bitnovo": {
-    "id": "USDT_ETH"
-  },
-  "btcdirect": {
-    "currencyPair": [
-      "USDT-EUR"
-    ]
-  },
-  "changelly": {
-    "ticker": "usdt20"
-  },
-  "changenow": {
-    "ticker": "usdt",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "tether",
     "platform": "ethereum"
@@ -30,19 +15,5 @@
   "coinmarketcap": {
     "id": 825,
     "slug": "tether"
-  },
-  "guardarian": {
-    "ticker": "USDT",
-    "network": "ETH"
-  },
-  "moonpay": {
-    "id": "3693a9c0-7b24-4e48-a8a7-75021ad6e26a",
-    "code": "usdt"
-  },
-  "onramper": {
-    "id": "usdt_ethereum"
-  },
-  "paybis": {
-    "id": "USDT"
   }
 }

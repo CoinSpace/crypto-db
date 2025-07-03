@@ -8,21 +8,11 @@
   "decimals": 8,
   "logo": "ardor.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "ardr"
-  },
   "coingecko": {
     "id": "ardor"
   },
   "coinmarketcap": {
     "id": 1320,
     "slug": "ardor"
-  },
-  "guardarian": {
-    "ticker": "ARDR",
-    "network": "ARDR"
-  },
-  "onramper": {
-    "id": "ardr_ardor"
   }
 }

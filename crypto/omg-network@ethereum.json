@@ -8,13 +8,6 @@
   "address": "0xd26114cd6ee289accf82350c8d8487fedb8a0c07",
   "decimals": 18,
   "logo": "omg-network.svg",
-  "changelly": {
-    "ticker": "omg"
-  },
-  "changenow": {
-    "ticker": "omg",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "omisego",
     "platform": "ethereum"
@@ -22,15 +15,5 @@
   "coinmarketcap": {
     "id": 1808,
     "slug": "omg"
-  },
-  "guardarian": {
-    "ticker": "OMG",
-    "network": "ETH"
-  },
-  "onramper": {
-    "id": "omg_ethereum"
-  },
-  "paybis": {
-    "id": "OMG"
   }
 }

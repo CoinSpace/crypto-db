@@ -8,13 +8,6 @@
   "address": "0xdc9ac3c20d1ed0b540df9b1fedc10039df13f99c",
   "decimals": 18,
   "logo": "utrust.svg",
-  "changelly": {
-    "ticker": "utk"
-  },
-  "changenow": {
-    "ticker": "utk",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "utrust",
     "platform": "ethereum"
@@ -22,12 +15,5 @@
   "coinmarketcap": {
     "id": 2320,
     "slug": "utrust"
-  },
-  "guardarian": {
-    "ticker": "UTK",
-    "network": "ETH"
-  },
-  "onramper": {
-    "id": "utk_ethereum"
   }
 }

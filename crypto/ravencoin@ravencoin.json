@@ -8,29 +8,11 @@
   "decimals": 8,
   "logo": "ravencoin.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "rvn"
-  },
-  "changenow": {
-    "ticker": "rvn",
-    "network": "rvn"
-  },
   "coingecko": {
     "id": "ravencoin"
   },
   "coinmarketcap": {
     "id": 2577,
     "slug": "ravencoin"
-  },
-  "guardarian": {
-    "ticker": "RVN",
-    "network": "RVN"
-  },
-  "moonpay": {
-    "id": "66523c65-91f2-478a-ab69-a6ee692fd690",
-    "code": "rvn"
-  },
-  "onramper": {
-    "id": "rvn_ravencoin"
   }
 }

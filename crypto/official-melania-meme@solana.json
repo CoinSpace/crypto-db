@@ -8,24 +8,11 @@
   "address": "FUAfBo2jgks6gB4Z4LfZkqSZgzNucisEHqnNebaRxM1P",
   "decimals": 6,
   "logo": "official-melania-meme.svg",
-  "changelly": {
-    "ticker": "melania"
-  },
-  "changenow": {
-    "ticker": "melania",
-    "network": "sol"
-  },
   "coingecko": {
     "id": "melania-meme"
   },
   "coinmarketcap": {
     "id": 35347,
     "slug": "melania-meme"
-  },
-  "onramper": {
-    "id": "melania_solana"
-  },
-  "paybis": {
-    "id": "MELANIA"
   }
 }

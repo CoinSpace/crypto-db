@@ -8,9 +8,6 @@
   "decimals": 9,
   "logo": "ergo.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "erg"
-  },
   "coingecko": {
     "id": "ergo"
   },

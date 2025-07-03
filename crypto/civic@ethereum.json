@@ -8,13 +8,6 @@
   "address": "0x41e5560054824ea6b0732e656e3ad64e20e94e45",
   "decimals": 8,
   "logo": "civic.svg",
-  "changelly": {
-    "ticker": "cvc"
-  },
-  "changenow": {
-    "ticker": "cvc",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "civic",
     "platform": "ethereum"
@@ -22,15 +15,5 @@
   "coinmarketcap": {
     "id": 1816,
     "slug": "civic"
-  },
-  "guardarian": {
-    "ticker": "CVC",
-    "network": "ETH"
-  },
-  "onramper": {
-    "id": "cvc_ethereum"
-  },
-  "paybis": {
-    "id": "CVC"
   }
 }

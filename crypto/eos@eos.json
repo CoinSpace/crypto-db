@@ -14,16 +14,5 @@
   "coinmarketcap": {
     "id": 1765,
     "slug": "eos"
-  },
-  "guardarian": {
-    "ticker": "EOS",
-    "network": "EOS"
-  },
-  "moonpay": {
-    "id": "9fdb4e4e-feda-4a81-8b26-1401b6c2f4de",
-    "code": "eos"
-  },
-  "onramper": {
-    "id": "eos_eosio"
   }
 }

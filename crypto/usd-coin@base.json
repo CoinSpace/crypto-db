@@ -8,35 +8,11 @@
   "address": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
   "decimals": 6,
   "logo": "usd-coin.svg",
-  "bitnovo": {
-    "id": "USDC_BASE"
-  },
-  "changelly": {
-    "ticker": "usdcbase"
-  },
-  "changenow": {
-    "ticker": "usdc",
-    "network": "base"
-  },
   "coingecko": {
     "id": "usd-coin"
   },
   "coinmarketcap": {
     "id": 3408,
     "slug": "usd-coin"
-  },
-  "guardarian": {
-    "ticker": "USDC",
-    "network": "BASE"
-  },
-  "moonpay": {
-    "id": "6bfe9894-3fd6-409c-ab70-a70506207601",
-    "code": "usdc_base"
-  },
-  "onramper": {
-    "id": "usdc_base"
-  },
-  "paybis": {
-    "id": "USDC-BASE"
   }
 }

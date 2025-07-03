@@ -8,10 +8,6 @@
   "address": "0x4338665cbb7b2485a8855a139b75d5e34ab0db94",
   "decimals": 18,
   "logo": "litecoin.svg",
-  "changenow": {
-    "ticker": "ltc",
-    "network": "bsc"
-  },
   "coingecko": {
     "id": "binance-peg-litecoin",
     "platform": "binance-smart-chain"
@@ -19,12 +15,5 @@
   "coinmarketcap": {
     "id": 2,
     "slug": "litecoin"
-  },
-  "guardarian": {
-    "ticker": "LTC",
-    "network": "BSC"
-  },
-  "onramper": {
-    "id": "ltc_bsc"
   }
 }

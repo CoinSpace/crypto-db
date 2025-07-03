@@ -8,13 +8,6 @@
   "address": "0x4b0f1812e5df2a09796481ff14017e6005508003",
   "decimals": 18,
   "logo": "trust-wallet-token.svg",
-  "changelly": {
-    "ticker": "twt"
-  },
-  "changenow": {
-    "ticker": "twt",
-    "network": "bsc"
-  },
   "coingecko": {
     "id": "trust-wallet-token",
     "platform": "binance-smart-chain"
@@ -22,15 +15,5 @@
   "coinmarketcap": {
     "id": 5964,
     "slug": "trust-wallet-token"
-  },
-  "guardarian": {
-    "ticker": "TWT",
-    "network": "BSC"
-  },
-  "onramper": {
-    "id": "twt_bsc"
-  },
-  "paybis": {
-    "id": "TWT"
   }
 }

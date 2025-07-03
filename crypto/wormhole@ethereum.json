@@ -8,10 +8,6 @@
   "address": "0xb0ffa8000886e57f86dd5264b9582b2ad87b2b91",
   "decimals": 18,
   "logo": "wormhole.svg",
-  "changenow": {
-    "ticker": "w",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "wormhole"
   },

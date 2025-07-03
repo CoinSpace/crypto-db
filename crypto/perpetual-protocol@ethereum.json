@@ -8,13 +8,6 @@
   "address": "0xbc396689893d065f41bc2c6ecbee5e0085233447",
   "decimals": 18,
   "logo": "perpetual-protocol.svg",
-  "changelly": {
-    "ticker": "perp"
-  },
-  "changenow": {
-    "ticker": "perp",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "perpetual-protocol",
     "platform": "ethereum"
@@ -22,11 +15,5 @@
   "coinmarketcap": {
     "id": 6950,
     "slug": "perpetual-protocol"
-  },
-  "onramper": {
-    "id": "perp_ethereum"
-  },
-  "paybis": {
-    "id": "PERP"
   }
 }

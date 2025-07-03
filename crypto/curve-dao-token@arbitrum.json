@@ -8,22 +8,11 @@
   "address": "0x11cdb42b0eb46d95f990bedd4695a6e3fa034978",
   "decimals": 18,
   "logo": "curve-dao-token.svg",
-  "changenow": {
-    "ticker": "crv",
-    "network": "arbitrum"
-  },
   "coingecko": {
     "id": "curve-dao-token"
   },
   "coinmarketcap": {
     "id": 6538,
     "slug": "curve-dao-token"
-  },
-  "guardarian": {
-    "ticker": "CRV",
-    "network": "ARBITRUM"
-  },
-  "onramper": {
-    "id": "crv_arbitrum"
   }
 }

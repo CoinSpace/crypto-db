@@ -8,13 +8,6 @@
   "address": "0x8f8221afbb33998d8584a2b05749ba73c37a938a",
   "decimals": 18,
   "logo": "request.svg",
-  "changelly": {
-    "ticker": "req"
-  },
-  "changenow": {
-    "ticker": "req",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "request-network",
     "platform": "ethereum"
@@ -22,8 +15,5 @@
   "coinmarketcap": {
     "id": 2071,
     "slug": "request"
-  },
-  "onramper": {
-    "id": "req_ethereum"
   }
 }

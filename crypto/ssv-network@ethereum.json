@@ -8,28 +8,11 @@
   "address": "0x9d65ff81a3c488d585bbfb0bfe3c7707c7917f54",
   "decimals": 18,
   "logo": "ssv-network.svg",
-  "changelly": {
-    "ticker": "ssv"
-  },
-  "changenow": {
-    "ticker": "ssv",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "ssv-network"
   },
   "coinmarketcap": {
     "id": 12999,
     "slug": "ssv-network"
-  },
-  "guardarian": {
-    "ticker": "SSV",
-    "network": "ETH"
-  },
-  "onramper": {
-    "id": "ssv_ethereum"
-  },
-  "paybis": {
-    "id": "SSV"
   }
 }

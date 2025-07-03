@@ -8,10 +8,6 @@
   "address": "0x33d08d8c7a168333a85285a68c0042b39fc3741d",
   "decimals": 18,
   "logo": "aioz-network.svg",
-  "changenow": {
-    "ticker": "aioz",
-    "network": "bsc"
-  },
   "coingecko": {
     "id": "aioz-network"
   },

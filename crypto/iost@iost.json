@@ -8,21 +8,11 @@
   "decimals": 8,
   "logo": "iost.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "iost"
-  },
   "coingecko": {
     "id": "iostoken"
   },
   "coinmarketcap": {
     "id": 2405,
     "slug": "iostoken"
-  },
-  "guardarian": {
-    "ticker": "IOST",
-    "network": "IOST"
-  },
-  "onramper": {
-    "id": "iost_iost"
   }
 }

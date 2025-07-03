@@ -9,18 +9,11 @@
   "logo": "bitcoin-sv.svg",
   "scheme": "bitcoinsv",
   "supported": false,
-  "changelly": {
-    "ticker": "bsv"
-  },
   "coingecko": {
     "id": "bitcoin-cash-sv"
   },
   "coinmarketcap": {
     "id": 3602,
     "slug": "bitcoin-sv"
-  },
-  "guardarian": {
-    "ticker": "BSV",
-    "network": "BSV"
   }
 }

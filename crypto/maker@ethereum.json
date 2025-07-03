@@ -8,13 +8,6 @@
   "address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
   "decimals": 18,
   "logo": "maker.svg",
-  "changelly": {
-    "ticker": "mkr"
-  },
-  "changenow": {
-    "ticker": "mkr",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "maker",
     "platform": "ethereum"
@@ -22,19 +15,5 @@
   "coinmarketcap": {
     "id": 1518,
     "slug": "maker"
-  },
-  "guardarian": {
-    "ticker": "MKR",
-    "network": "ETH"
-  },
-  "moonpay": {
-    "id": "7a2bed64-917a-446f-b6ae-6c385c0c2923",
-    "code": "mkr"
-  },
-  "onramper": {
-    "id": "mkr_ethereum"
-  },
-  "paybis": {
-    "id": "MKR"
   }
 }

@@ -8,37 +8,11 @@
   "decimals": 10,
   "logo": "polkadot.svg",
   "supported": false,
-  "btcdirect": {
-    "currencyPair": [
-      "DOT-EUR"
-    ]
-  },
-  "changelly": {
-    "ticker": "dot"
-  },
-  "changenow": {
-    "ticker": "dot",
-    "network": "dot"
-  },
   "coingecko": {
     "id": "polkadot"
   },
   "coinmarketcap": {
     "id": 6636,
     "slug": "polkadot-new"
-  },
-  "guardarian": {
-    "ticker": "DOT",
-    "network": "DOT"
-  },
-  "moonpay": {
-    "id": "83e44c86-d0d8-4896-a3f7-49dabe3fd635",
-    "code": "dot"
-  },
-  "onramper": {
-    "id": "dot_polkadot"
-  },
-  "paybis": {
-    "id": "DOT"
   }
 }

@@ -8,22 +8,11 @@
   "address": "0x6033f7f88332b8db6ad452b7c6d5bb643990ae3f",
   "decimals": 18,
   "logo": "lisk.svg",
-  "changelly": {
-    "ticker": "lsk"
-  },
-  "changenow": {
-    "ticker": "lsk",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "lisk"
   },
   "coinmarketcap": {
     "id": 1214,
     "slug": "lisk"
-  },
-  "guardarian": {
-    "ticker": "LSK",
-    "network": "ETH"
   }
 }

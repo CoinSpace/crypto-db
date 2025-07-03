@@ -8,22 +8,11 @@
   "address": "0x76a797a59ba2c17726896976b7b3747bfd1d220f",
   "decimals": 9,
   "logo": "toncoin.svg",
-  "changenow": {
-    "ticker": "ton",
-    "network": "bsc"
-  },
   "coingecko": {
     "id": "the-open-network"
   },
   "coinmarketcap": {
     "id": 11419,
     "slug": "toncoin"
-  },
-  "guardarian": {
-    "ticker": "TON",
-    "network": "BSC"
-  },
-  "onramper": {
-    "id": "ton_bsc"
   }
 }

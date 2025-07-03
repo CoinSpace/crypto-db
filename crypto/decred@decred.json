@@ -8,25 +8,11 @@
   "decimals": 8,
   "logo": "decred.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "dcr"
-  },
-  "changenow": {
-    "ticker": "dcr",
-    "network": "dcr"
-  },
   "coingecko": {
     "id": "decred"
   },
   "coinmarketcap": {
     "id": 1168,
     "slug": "decred"
-  },
-  "guardarian": {
-    "ticker": "DCR",
-    "network": "DCR"
-  },
-  "onramper": {
-    "id": "dcr_decred"
   }
 }

@@ -8,13 +8,6 @@
   "address": "0xd1d2eb1b1e90b638588728b4130137d262c87cae",
   "decimals": 8,
   "logo": "gala.svg",
-  "changelly": {
-    "ticker": "gala"
-  },
-  "changenow": {
-    "ticker": "gala",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "gala",
     "platform": "ethereum"
@@ -22,9 +15,5 @@
   "coinmarketcap": {
     "id": 7080,
     "slug": "gala"
-  },
-  "guardarian": {
-    "ticker": "GALA",
-    "network": "ETH"
   }
 }

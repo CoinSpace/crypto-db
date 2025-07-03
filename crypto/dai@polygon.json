@@ -8,28 +8,11 @@
   "address": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
   "decimals": 18,
   "logo": "dai.svg",
-  "bitnovo": {
-    "id": "DAI_MATIC"
-  },
-  "changelly": {
-    "ticker": "daipolygon"
-  },
-  "changenow": {
-    "ticker": "dai",
-    "network": "matic"
-  },
   "coingecko": {
     "id": "dai"
   },
   "coinmarketcap": {
     "id": 4943,
     "slug": "multi-collateral-dai"
-  },
-  "guardarian": {
-    "ticker": "DAI",
-    "network": "MATIC"
-  },
-  "onramper": {
-    "id": "dai_polygon"
   }
 }

@@ -8,13 +8,6 @@
   "address": "0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f",
   "decimals": 18,
   "logo": "origintrail.svg",
-  "changelly": {
-    "ticker": "trac"
-  },
-  "changenow": {
-    "ticker": "trac",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "origintrail",
     "platform": "ethereum"

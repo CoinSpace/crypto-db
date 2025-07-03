@@ -8,10 +8,6 @@
   "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
   "decimals": 18,
   "logo": "binance-usd.svg",
-  "changenow": {
-    "ticker": "busd",
-    "network": "bsc"
-  },
   "coingecko": {
     "id": "binance-usd",
     "platform": "binance-smart-chain"
@@ -19,15 +15,5 @@
   "coinmarketcap": {
     "id": 4687,
     "slug": "binance-usd"
-  },
-  "guardarian": {
-    "ticker": "BUSD",
-    "network": "BSC"
-  },
-  "onramper": {
-    "id": "busd_bsc"
-  },
-  "paybis": {
-    "id": "BUSD"
   }
 }

@@ -8,10 +8,6 @@
   "address": "0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",
   "decimals": 8,
   "logo": "crypto-com-coin.svg",
-  "changenow": {
-    "ticker": "cro",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "crypto-com-chain",
     "platform": "ethereum"
@@ -19,13 +15,5 @@
   "coinmarketcap": {
     "id": 3635,
     "slug": "cronos"
-  },
-  "guardarian": {
-    "ticker": "CRO",
-    "network": "ETH"
-  },
-  "moonpay": {
-    "id": "c38d3c6a-5a0a-422b-9eb0-940b35a75a5f",
-    "code": "cro_eth"
   }
 }

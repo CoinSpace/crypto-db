@@ -8,25 +8,11 @@
   "decimals": 8,
   "logo": "kava.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "kava"
-  },
-  "changenow": {
-    "ticker": "kava",
-    "network": "kava"
-  },
   "coingecko": {
     "id": "kava"
   },
   "coinmarketcap": {
     "id": 4846,
     "slug": "kava"
-  },
-  "guardarian": {
-    "ticker": "KAVA",
-    "network": "KAVA"
-  },
-  "onramper": {
-    "id": "kava_kava"
   }
 }

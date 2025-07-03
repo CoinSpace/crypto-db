@@ -8,25 +8,11 @@
   "address": "0x163f8c2467924be0ae7b5347228cabf260318753",
   "decimals": 18,
   "logo": "worldcoin.svg",
-  "changelly": {
-    "ticker": "wldeth"
-  },
-  "changenow": {
-    "ticker": "wld",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "worldcoin-wld"
   },
   "coinmarketcap": {
     "id": 13502,
     "slug": "worldcoin-org"
-  },
-  "moonpay": {
-    "id": "653113fb-3e09-4f77-a019-badb1ae4dad7",
-    "code": "wld"
-  },
-  "onramper": {
-    "id": "wld_ethereum"
   }
 }

@@ -7,35 +7,11 @@
   "symbol": "AVAX",
   "decimals": 18,
   "logo": "avalanche.svg",
-  "bitnovo": {
-    "id": "AVAX"
-  },
-  "changelly": {
-    "ticker": "avaxc"
-  },
-  "changenow": {
-    "ticker": "avax",
-    "network": "cchain"
-  },
   "coingecko": {
     "id": "avalanche-2"
   },
   "coinmarketcap": {
     "id": 5805,
     "slug": "avalanche"
-  },
-  "guardarian": {
-    "ticker": "AVAX",
-    "network": "CCHAIN"
-  },
-  "moonpay": {
-    "id": "38b1f272-af74-4f61-a425-62219aea25d9",
-    "code": "avax_cchain"
-  },
-  "onramper": {
-    "id": "avax_avaxc"
-  },
-  "paybis": {
-    "id": "AVAXC"
   }
 }

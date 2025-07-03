@@ -8,25 +8,11 @@
   "address": "0xba50933c268f567bdc86e1ac131be072c6b0b71a",
   "decimals": 18,
   "logo": "arpa-chain.svg",
-  "changelly": {
-    "ticker": "arpa"
-  },
-  "changenow": {
-    "ticker": "arpa",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "arpa"
   },
   "coinmarketcap": {
     "id": 4039,
     "slug": "arpa-chain"
-  },
-  "guardarian": {
-    "ticker": "ARPA",
-    "network": "ETH"
-  },
-  "onramper": {
-    "id": "arpa_ethereum"
   }
 }

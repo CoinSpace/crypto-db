@@ -8,13 +8,6 @@
   "address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
   "decimals": 18,
   "logo": "ftx-token.svg",
-  "changelly": {
-    "ticker": "ftt"
-  },
-  "changenow": {
-    "ticker": "ftt",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "ftx-token",
     "platform": "ethereum"
@@ -22,12 +15,5 @@
   "coinmarketcap": {
     "id": 4195,
     "slug": "ftx-token"
-  },
-  "guardarian": {
-    "ticker": "FTT",
-    "network": "ETH"
-  },
-  "onramper": {
-    "id": "ftt_ethereum"
   }
 }

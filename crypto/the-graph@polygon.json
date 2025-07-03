@@ -8,22 +8,11 @@
   "address": "0x5fe2b58c013d7601147dcdd68c143a77499f5531",
   "decimals": 18,
   "logo": "the-graph.svg",
-  "changenow": {
-    "ticker": "grt",
-    "network": "matic"
-  },
   "coingecko": {
     "id": "the-graph"
   },
   "coinmarketcap": {
     "id": 6719,
     "slug": "the-graph"
-  },
-  "guardarian": {
-    "ticker": "GRT",
-    "network": "MATIC"
-  },
-  "onramper": {
-    "id": "grt_polygon"
   }
 }

@@ -8,13 +8,6 @@
   "address": "0x8207c1ffc5b6804f6024322ccf34f29c3541ae26",
   "decimals": 18,
   "logo": "origin-protocol.svg",
-  "changelly": {
-    "ticker": "ogn"
-  },
-  "changenow": {
-    "ticker": "ogn",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "origin-protocol",
     "platform": "ethereum"
@@ -22,15 +15,5 @@
   "coinmarketcap": {
     "id": 5117,
     "slug": "origin-protocol"
-  },
-  "guardarian": {
-    "ticker": "OGN",
-    "network": "ETH"
-  },
-  "onramper": {
-    "id": "ogn_ethereum"
-  },
-  "paybis": {
-    "id": "OGN"
   }
 }

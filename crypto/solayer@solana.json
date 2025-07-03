@@ -8,13 +8,6 @@
   "address": "LAYER4xPpTCb3QL8S9u41EAhAX7mhBn8Q6xMTwY2Yzc",
   "decimals": 9,
   "logo": "solayer.svg",
-  "changelly": {
-    "ticker": "layer"
-  },
-  "changenow": {
-    "ticker": "layer",
-    "network": "sol"
-  },
   "coingecko": {
     "id": "solayer"
   },

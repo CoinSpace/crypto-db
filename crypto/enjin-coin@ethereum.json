@@ -15,15 +15,5 @@
   "coinmarketcap": {
     "id": 2130,
     "slug": "enjin-coin"
-  },
-  "guardarian": {
-    "ticker": "ENJ",
-    "network": "ETH"
-  },
-  "onramper": {
-    "id": "enj_ethereum"
-  },
-  "paybis": {
-    "id": "ENJ"
   }
 }

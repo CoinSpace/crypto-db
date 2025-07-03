@@ -8,25 +8,11 @@
   "decimals": 2,
   "logo": "vechain.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "vet"
-  },
-  "changenow": {
-    "ticker": "vet",
-    "network": "vet"
-  },
   "coingecko": {
     "id": "vechain"
   },
   "coinmarketcap": {
     "id": 3077,
     "slug": "vechain"
-  },
-  "guardarian": {
-    "ticker": "VET",
-    "network": "VET"
-  },
-  "onramper": {
-    "id": "vet_vechain"
   }
 }

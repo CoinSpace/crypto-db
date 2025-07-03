@@ -8,34 +8,11 @@
   "decimals": 6,
   "logo": "algorand.svg",
   "supported": false,
-  "btcdirect": {
-    "currencyPair": [
-      "ALGO-EUR"
-    ]
-  },
-  "changelly": {
-    "ticker": "algo"
-  },
-  "changenow": {
-    "ticker": "algo",
-    "network": "algo"
-  },
   "coingecko": {
     "id": "algorand"
   },
   "coinmarketcap": {
     "id": 4030,
     "slug": "algorand"
-  },
-  "guardarian": {
-    "ticker": "ALGO",
-    "network": "ALGO"
-  },
-  "moonpay": {
-    "id": "da2f536f-7991-4b96-ac21-602031044c14",
-    "code": "algo"
-  },
-  "onramper": {
-    "id": "algo_algorand"
   }
 }

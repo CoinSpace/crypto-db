@@ -8,31 +8,11 @@
   "decimals": 8,
   "logo": "dash.svg",
   "scheme": "dash",
-  "bitnovo": {
-    "id": "DASH"
-  },
-  "changelly": {
-    "ticker": "dash"
-  },
-  "changenow": {
-    "ticker": "dash",
-    "network": "dash"
-  },
   "coingecko": {
     "id": "dash"
   },
   "coinmarketcap": {
     "id": 131,
     "slug": "dash"
-  },
-  "guardarian": {
-    "ticker": "DASH",
-    "network": "DASH"
-  },
-  "onramper": {
-    "id": "dash_dash"
-  },
-  "paybis": {
-    "id": "DASH"
   }
 }

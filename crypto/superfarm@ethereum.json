@@ -8,10 +8,6 @@
   "address": "0xe53ec727dbdeb9e2d5456c3be40cff031ab40a55",
   "decimals": 18,
   "logo": "superfarm.svg",
-  "changenow": {
-    "ticker": "super",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "superfarm",
     "platform": "ethereum"
@@ -19,12 +15,5 @@
   "coinmarketcap": {
     "id": 8290,
     "slug": "superverse"
-  },
-  "guardarian": {
-    "ticker": "SUPER",
-    "network": "ETH"
-  },
-  "onramper": {
-    "id": "super_ethereum"
   }
 }

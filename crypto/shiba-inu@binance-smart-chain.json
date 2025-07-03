@@ -8,10 +8,6 @@
   "address": "0x2859e4544c4bb03966803b044a93563bd2d0dd4d",
   "decimals": 18,
   "logo": "shiba-inu.svg",
-  "changenow": {
-    "ticker": "shib",
-    "network": "bsc"
-  },
   "coingecko": {
     "id": "shiba-inu",
     "platform": "binance-smart-chain"
@@ -19,12 +15,5 @@
   "coinmarketcap": {
     "id": 5994,
     "slug": "shiba-inu"
-  },
-  "guardarian": {
-    "ticker": "SHIB",
-    "network": "BSC"
-  },
-  "onramper": {
-    "id": "shib_bsc"
   }
 }

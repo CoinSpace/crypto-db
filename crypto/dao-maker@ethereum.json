@@ -8,22 +8,11 @@
   "address": "0x0f51bb10119727a7e5ea3538074fb341f56b09ad",
   "decimals": 18,
   "logo": "dao-maker.svg",
-  "changelly": {
-    "ticker": "dao"
-  },
-  "changenow": {
-    "ticker": "dao",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "dao-maker"
   },
   "coinmarketcap": {
     "id": 8420,
     "slug": "dao-maker"
-  },
-  "guardarian": {
-    "ticker": "DAO",
-    "network": "ETH"
   }
 }

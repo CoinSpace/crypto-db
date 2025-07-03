@@ -8,22 +8,11 @@
   "address": "0xb2bd0749dbe21f623d9baba856d3b0f0e1bfec9c",
   "decimals": 18,
   "logo": "dusk-network.svg",
-  "changenow": {
-    "ticker": "dusk",
-    "network": "bsc"
-  },
   "coingecko": {
     "id": "dusk-network"
   },
   "coinmarketcap": {
     "id": 4092,
     "slug": "dusk"
-  },
-  "guardarian": {
-    "ticker": "DUSK",
-    "network": "BSC"
-  },
-  "onramper": {
-    "id": "dusk_bsc"
   }
 }

@@ -8,13 +8,6 @@
   "address": "0x5a98fcbea516cf06857215779fd812ca3bef1b32",
   "decimals": 18,
   "logo": "lido-dao.svg",
-  "changelly": {
-    "ticker": "ldo"
-  },
-  "changenow": {
-    "ticker": "ldo",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "lido-dao",
     "platform": "ethereum"
@@ -22,19 +15,5 @@
   "coinmarketcap": {
     "id": 8000,
     "slug": "lido-dao"
-  },
-  "guardarian": {
-    "ticker": "LDO",
-    "network": "ETH"
-  },
-  "moonpay": {
-    "id": "218c76e9-4140-43db-8e25-cab08e12b2df",
-    "code": "ldo_eth"
-  },
-  "onramper": {
-    "id": "ldo_ethereum"
-  },
-  "paybis": {
-    "id": "LDO"
   }
 }

@@ -8,25 +8,11 @@
   "address": "0x3019bf2a2ef8040c242c9a4c5c4bd4c81678b2a1",
   "decimals": 8,
   "logo": "stepn.svg",
-  "changelly": {
-    "ticker": "gmtbsc"
-  },
-  "changenow": {
-    "ticker": "gmt",
-    "network": "bsc"
-  },
   "coingecko": {
     "id": "stepn"
   },
   "coinmarketcap": {
     "id": 18069,
     "slug": "green-metaverse-token"
-  },
-  "guardarian": {
-    "ticker": "GMT",
-    "network": "BSC"
-  },
-  "onramper": {
-    "id": "gmt_bsc"
   }
 }

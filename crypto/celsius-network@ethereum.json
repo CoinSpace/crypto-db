@@ -8,13 +8,6 @@
   "address": "0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d",
   "decimals": 4,
   "logo": "celsius-network.svg",
-  "changelly": {
-    "ticker": "cel"
-  },
-  "changenow": {
-    "ticker": "cel",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "celsius-degree-token",
     "platform": "ethereum"
@@ -22,12 +15,5 @@
   "coinmarketcap": {
     "id": 2700,
     "slug": "celsius"
-  },
-  "guardarian": {
-    "ticker": "CEL",
-    "network": "ETH"
-  },
-  "paybis": {
-    "id": "CEL"
   }
 }

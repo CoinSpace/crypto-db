@@ -8,22 +8,11 @@
   "address": "0xbf7c81fff98bbe61b40ed186e4afd6ddd01337fe",
   "decimals": 18,
   "logo": "elrond.svg",
-  "changenow": {
-    "ticker": "egld",
-    "network": "bsc"
-  },
   "coingecko": {
     "id": "elrond-erd-2"
   },
   "coinmarketcap": {
     "id": 6892,
     "slug": "multiversx-egld"
-  },
-  "guardarian": {
-    "ticker": "EGLD",
-    "network": "BSC"
-  },
-  "onramper": {
-    "id": "egld_bsc"
   }
 }

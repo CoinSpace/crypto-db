@@ -8,25 +8,11 @@
   "decimals": 4,
   "logo": "theta-fuel.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "tfuel"
-  },
-  "changenow": {
-    "ticker": "tfuel",
-    "network": "theta"
-  },
   "coingecko": {
     "id": "theta-fuel"
   },
   "coinmarketcap": {
     "id": 3822,
     "slug": "theta-fuel"
-  },
-  "guardarian": {
-    "ticker": "TFUEL",
-    "network": "THETA"
-  },
-  "onramper": {
-    "id": "tfuel_theta"
   }
 }

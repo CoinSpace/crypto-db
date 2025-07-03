@@ -8,13 +8,6 @@
   "address": "0x31c8eacbffdd875c74b94b077895bd78cf1e64a3",
   "decimals": 18,
   "logo": "radicle.svg",
-  "changelly": {
-    "ticker": "rad"
-  },
-  "changenow": {
-    "ticker": "rad",
-    "network": "eth"
-  },
   "coingecko": {
     "id": "radicle",
     "platform": "ethereum"
@@ -22,8 +15,5 @@
   "coinmarketcap": {
     "id": 6843,
     "slug": "radworks"
-  },
-  "onramper": {
-    "id": "rad_ethereum"
   }
 }

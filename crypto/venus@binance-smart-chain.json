@@ -8,13 +8,6 @@
   "address": "0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63",
   "decimals": 18,
   "logo": "venus.svg",
-  "changelly": {
-    "ticker": "xvs"
-  },
-  "changenow": {
-    "ticker": "xvs",
-    "network": "bsc"
-  },
   "coingecko": {
     "id": "venus",
     "platform": "binance-smart-chain"
@@ -22,8 +15,5 @@
   "coinmarketcap": {
     "id": 7288,
     "slug": "venus"
-  },
-  "onramper": {
-    "id": "xvs_bsc"
   }
 }

@@ -8,17 +8,11 @@
   "decimals": 3,
   "logo": "hive.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "hive"
-  },
   "coingecko": {
     "id": "hive"
   },
   "coinmarketcap": {
     "id": 5370,
     "slug": "hive-blockchain"
-  },
-  "onramper": {
-    "id": "hive_hive"
   }
 }
