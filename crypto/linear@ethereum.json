@@ -8,9 +8,6 @@
   "address": "0x3e9bc21c9b189c09df3ef1b824798658d5011937",
   "decimals": 18,
   "logo": "linear.svg",
-  "changelly": {
-    "ticker": "lina"
-  },
   "changenow": {
     "ticker": "lina",
     "network": "eth"
@@ -22,8 +19,5 @@
   "coinmarketcap": {
     "id": 7102,
     "slug": "linear"
-  },
-  "onramper": {
-    "id": "lina_ethereum"
   }
 }
