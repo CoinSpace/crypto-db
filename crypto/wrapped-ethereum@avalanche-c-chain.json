@@ -1,0 +1,18 @@
+{
+  "_id": "wrapped-ethereum@avalanche-c-chain",
+  "asset": "wrapped-ethereum",
+  "platform": "avalanche-c-chain",
+  "type": "token",
+  "name": "WETH",
+  "symbol": "WETH",
+  "address": "0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab",
+  "decimals": 18,
+  "logo": "wrapped-ethereum.svg",
+  "coingecko": {
+    "id": "weth"
+  },
+  "coinmarketcap": {
+    "id": 2396,
+    "slug": "weth"
+  }
+}

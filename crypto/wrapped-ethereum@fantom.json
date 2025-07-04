@@ -1,0 +1,18 @@
+{
+  "_id": "wrapped-ethereum@fantom",
+  "asset": "wrapped-ethereum",
+  "platform": "fantom",
+  "type": "token",
+  "name": "WETH",
+  "symbol": "WETH",
+  "address": "0x74b23882a30290451a17c44f4f05243b6b58c76d",
+  "decimals": 18,
+  "logo": "wrapped-ethereum.svg",
+  "coingecko": {
+    "id": "weth"
+  },
+  "coinmarketcap": {
+    "id": 2396,
+    "slug": "weth"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "wrapped-ethereum@polygon",
+  "asset": "wrapped-ethereum",
+  "platform": "polygon",
+  "type": "token",
+  "name": "WETH",
+  "symbol": "WETH",
+  "address": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+  "decimals": 18,
+  "logo": "wrapped-ethereum.svg",
+  "coingecko": {
+    "id": "weth"
+  },
+  "coinmarketcap": {
+    "id": 2396,
+    "slug": "weth"
+  }
+}

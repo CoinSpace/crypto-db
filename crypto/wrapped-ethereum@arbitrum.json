@@ -1,0 +1,18 @@
+{
+  "_id": "wrapped-ethereum@arbitrum",
+  "asset": "wrapped-ethereum",
+  "platform": "arbitrum",
+  "type": "token",
+  "name": "WETH",
+  "symbol": "WETH",
+  "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+  "decimals": 18,
+  "logo": "wrapped-ethereum.svg",
+  "coingecko": {
+    "id": "weth"
+  },
+  "coinmarketcap": {
+    "id": 2396,
+    "slug": "weth"
+  }
+}

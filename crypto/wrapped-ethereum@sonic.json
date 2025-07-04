@@ -1,0 +1,18 @@
+{
+  "_id": "wrapped-ethereum@sonic",
+  "asset": "wrapped-ethereum",
+  "platform": "sonic",
+  "type": "token",
+  "name": "WETH",
+  "symbol": "WETH",
+  "address": "0x50c42deacd8fc9773493ed674b675be577f2634b",
+  "decimals": 18,
+  "logo": "wrapped-ethereum.svg",
+  "coingecko": {
+    "id": "weth"
+  },
+  "coinmarketcap": {
+    "id": 2396,
+    "slug": "weth"
+  }
+}
