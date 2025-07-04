@@ -8,12 +8,8 @@
   "symbol": "EDG",
   "address": "0x08711d3b02c8758f2fb3ab4e80228418a7f8e39c",
   "decimals": 0,
-  "changelly": {
-    "ticker": "edg"
-  },
   "coingecko": {
-    "id": "edgeless",
-    "platform": "ethereum"
+    "id": "edgeless"
   },
   "coinmarketcap": {
     "id": 1596,

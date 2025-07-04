@@ -10,8 +10,7 @@
   "decimals": 18,
   "logo": "velas.svg",
   "coingecko": {
-    "id": "velas",
-    "platform": "ethereum"
+    "id": "velas"
   },
   "coinmarketcap": {
     "id": 4747,

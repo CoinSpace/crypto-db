@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "lcx.svg",
   "coingecko": {
-    "id": "lcx",
-    "platform": "ethereum"
+    "id": "lcx"
   },
   "coinmarketcap": {
     "id": 4950,

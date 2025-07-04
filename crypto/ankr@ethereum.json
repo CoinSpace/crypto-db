@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "ankr.svg",
   "coingecko": {
-    "id": "ankr",
-    "platform": "ethereum"
+    "id": "ankr"
   },
   "coinmarketcap": {
     "id": 3783,

@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "biconomy.svg",
   "coingecko": {
-    "id": "biconomy",
-    "platform": "ethereum"
+    "id": "biconomy"
   },
   "coinmarketcap": {
     "id": 9543,

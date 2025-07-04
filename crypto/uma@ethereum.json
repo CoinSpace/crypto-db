@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "uma.svg",
   "coingecko": {
-    "id": "uma",
-    "platform": "ethereum"
+    "id": "uma"
   },
   "coinmarketcap": {
     "id": 5617,

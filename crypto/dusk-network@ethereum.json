@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "dusk-network.svg",
   "coingecko": {
-    "id": "dusk-network",
-    "platform": "ethereum"
+    "id": "dusk-network"
   },
   "coinmarketcap": {
     "id": 4092,

@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "ampleforth-governance-token.svg",
   "coingecko": {
-    "id": "ampleforth-governance-token",
-    "platform": "ethereum"
+    "id": "ampleforth-governance-token"
   },
   "coinmarketcap": {
     "id": 9421,

@@ -9,8 +9,7 @@
   "decimals": 8,
   "logo": "solve.svg",
   "coingecko": {
-    "id": "solve-care",
-    "platform": "ethereum"
+    "id": "solve-care"
   },
   "coinmarketcap": {
     "id": 3724,

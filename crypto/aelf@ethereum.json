@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "aelf.svg",
   "coingecko": {
-    "id": "aelf",
-    "platform": "ethereum"
+    "id": "aelf"
   },
   "coinmarketcap": {
     "id": 2299,

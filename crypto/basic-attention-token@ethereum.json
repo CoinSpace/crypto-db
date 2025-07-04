@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "basic-attention-token.svg",
   "coingecko": {
-    "id": "basic-attention-token",
-    "platform": "ethereum"
+    "id": "basic-attention-token"
   },
   "coinmarketcap": {
     "id": 1697,

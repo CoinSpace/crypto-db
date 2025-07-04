@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "omg-network.svg",
   "coingecko": {
-    "id": "omisego",
-    "platform": "ethereum"
+    "id": "omisego"
   },
   "coinmarketcap": {
     "id": 1808,

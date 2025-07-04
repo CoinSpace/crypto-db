@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "leo-token.svg",
   "coingecko": {
-    "id": "leo-token",
-    "platform": "ethereum"
+    "id": "leo-token"
   },
   "coinmarketcap": {
     "id": 3957,

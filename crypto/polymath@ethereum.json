@@ -10,8 +10,7 @@
   "decimals": 18,
   "logo": "polymath.svg",
   "coingecko": {
-    "id": "polymath",
-    "platform": "ethereum"
+    "id": "polymath"
   },
   "coinmarketcap": {
     "id": 2496,

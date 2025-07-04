@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "dodo.svg",
   "coingecko": {
-    "id": "dodo",
-    "platform": "ethereum"
+    "id": "dodo"
   },
   "coinmarketcap": {
     "id": 7224,

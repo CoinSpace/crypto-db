@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "kyber-network-crystal.svg",
   "coingecko": {
-    "id": "kyber-network-crystal",
-    "platform": "binance-smart-chain"
+    "id": "kyber-network-crystal"
   },
   "coinmarketcap": {
     "id": 9444,

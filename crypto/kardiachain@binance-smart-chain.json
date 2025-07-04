@@ -9,8 +9,7 @@
   "address": "0x39ae8eefb05138f418bb27659c21632dc1ddab10",
   "decimals": 18,
   "coingecko": {
-    "id": "kardiachain",
-    "platform": "binance-smart-chain"
+    "id": "kardiachain"
   },
   "coinmarketcap": {
     "id": 5453,

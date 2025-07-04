@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "curve-dao-token.svg",
   "coingecko": {
-    "id": "curve-dao-token",
-    "platform": "ethereum"
+    "id": "curve-dao-token"
   },
   "coinmarketcap": {
     "id": 6538,

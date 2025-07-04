@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "gala.svg",
   "coingecko": {
-    "id": "gala",
-    "platform": "binance-smart-chain"
+    "id": "gala"
   },
   "coinmarketcap": {
     "id": 7080,

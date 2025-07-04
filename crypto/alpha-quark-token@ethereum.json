@@ -9,8 +9,7 @@
   "address": "0x2a9bdcff37ab68b95a53435adfd8892e86084f93",
   "decimals": 18,
   "coingecko": {
-    "id": "alpha-quark-token",
-    "platform": "ethereum"
+    "id": "alpha-quark-token"
   },
   "coinmarketcap": {
     "id": 7460,

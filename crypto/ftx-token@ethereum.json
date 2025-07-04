@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "ftx-token.svg",
   "coingecko": {
-    "id": "ftx-token",
-    "platform": "ethereum"
+    "id": "ftx-token"
   },
   "coinmarketcap": {
     "id": 4195,

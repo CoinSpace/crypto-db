@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "mobox.svg",
   "coingecko": {
-    "id": "mobox",
-    "platform": "binance-smart-chain"
+    "id": "mobox"
   },
   "coinmarketcap": {
     "id": 9175,

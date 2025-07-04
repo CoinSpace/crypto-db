@@ -9,8 +9,7 @@
   "address": "0x0b15ddf19d47e6a86a56148fb4afffc6929bcb89",
   "decimals": 18,
   "coingecko": {
-    "id": "idia",
-    "platform": "binance-smart-chain"
+    "id": "idia"
   },
   "coinmarketcap": {
     "id": 10933,

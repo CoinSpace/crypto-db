@@ -9,8 +9,7 @@
   "address": "0xc86d054809623432210c107af2e3f619dcfbf652",
   "decimals": 18,
   "coingecko": {
-    "id": "sentinel-protocol",
-    "platform": "ethereum"
+    "id": "sentinel-protocol"
   },
   "coinmarketcap": {
     "id": 2866,

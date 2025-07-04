@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "ankr.svg",
   "coingecko": {
-    "id": "ankr",
-    "platform": "binance-smart-chain"
+    "id": "ankr"
   },
   "coinmarketcap": {
     "id": 3783,

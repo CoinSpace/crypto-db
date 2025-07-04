@@ -9,8 +9,7 @@
   "address": "0x3a8cccb969a61532d1e6005e2ce12c200caece87",
   "decimals": 18,
   "coingecko": {
-    "id": "titanswap",
-    "platform": "ethereum"
+    "id": "titanswap"
   },
   "coinmarketcap": {
     "id": 7206,

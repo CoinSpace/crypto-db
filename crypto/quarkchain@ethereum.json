@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "quarkchain.svg",
   "coingecko": {
-    "id": "quark-chain",
-    "platform": "ethereum"
+    "id": "quark-chain"
   },
   "coinmarketcap": {
     "id": 2840,

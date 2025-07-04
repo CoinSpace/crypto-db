@@ -9,15 +9,10 @@
   "address": "0x9f589e3eabe42ebc94a44727b3f3531c0c877809",
   "decimals": 18,
   "coingecko": {
-    "id": "tokocrypto",
-    "platform": "binance-smart-chain"
+    "id": "tokocrypto"
   },
   "coinmarketcap": {
     "id": 9020,
     "slug": "tokocrypto"
-  },
-  "guardarian": {
-    "ticker": "TKO",
-    "network": "BSC"
   }
 }

@@ -9,8 +9,7 @@
   "address": "0x9fa69536d1cda4a04cfb50688294de75b505a9ae",
   "decimals": 18,
   "coingecko": {
-    "id": "derace",
-    "platform": "ethereum"
+    "id": "derace"
   },
   "coinmarketcap": {
     "id": 10744,

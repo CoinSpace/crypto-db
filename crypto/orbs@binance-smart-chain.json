@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "orbs.svg",
   "coingecko": {
-    "id": "orbs",
-    "platform": "binance-smart-chain"
+    "id": "orbs"
   },
   "coinmarketcap": {
     "id": 3835,

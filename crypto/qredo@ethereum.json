@@ -9,8 +9,7 @@
   "address": "0x4123a133ae3c521fd134d7b13a2dec35b56c2463",
   "decimals": 8,
   "coingecko": {
-    "id": "qredo",
-    "platform": "ethereum"
+    "id": "qredo"
   },
   "coinmarketcap": {
     "id": 10750,

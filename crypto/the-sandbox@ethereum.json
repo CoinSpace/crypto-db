@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "the-sandbox.svg",
   "coingecko": {
-    "id": "the-sandbox",
-    "platform": "ethereum"
+    "id": "the-sandbox"
   },
   "coinmarketcap": {
     "id": 6210,

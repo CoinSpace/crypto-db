@@ -9,8 +9,7 @@
   "decimals": 8,
   "logo": "crypto-com-coin.svg",
   "coingecko": {
-    "id": "crypto-com-chain",
-    "platform": "ethereum"
+    "id": "crypto-com-chain"
   },
   "coinmarketcap": {
     "id": 3635,

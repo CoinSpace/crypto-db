@@ -9,8 +9,7 @@
   "decimals": 9,
   "logo": "iexec-rlc.svg",
   "coingecko": {
-    "id": "iexec-rlc",
-    "platform": "ethereum"
+    "id": "iexec-rlc"
   },
   "coinmarketcap": {
     "id": 1637,

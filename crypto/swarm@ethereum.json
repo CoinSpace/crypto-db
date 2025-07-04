@@ -9,8 +9,7 @@
   "address": "0x19062190b1925b5b6689d7073fdfc8c2976ef8cb",
   "decimals": 16,
   "coingecko": {
-    "id": "swarm-bzz",
-    "platform": "ethereum"
+    "id": "swarm-bzz"
   },
   "coinmarketcap": {
     "id": 10293,

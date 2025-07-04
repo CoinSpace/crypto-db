@@ -9,8 +9,7 @@
   "decimals": 6,
   "logo": "apenft.svg",
   "coingecko": {
-    "id": "apenft",
-    "platform": "ethereum"
+    "id": "apenft"
   },
   "coinmarketcap": {
     "id": 9816,

@@ -9,15 +9,10 @@
   "address": "0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7",
   "decimals": 18,
   "coingecko": {
-    "id": "akropolis",
-    "platform": "ethereum"
+    "id": "akropolis"
   },
   "coinmarketcap": {
     "id": 4134,
     "slug": "akropolis"
-  },
-  "guardarian": {
-    "ticker": "AKRO",
-    "network": "ETH"
   }
 }

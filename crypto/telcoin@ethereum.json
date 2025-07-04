@@ -9,8 +9,7 @@
   "decimals": 2,
   "logo": "telcoin.svg",
   "coingecko": {
-    "id": "telcoin",
-    "platform": "ethereum"
+    "id": "telcoin"
   },
   "coinmarketcap": {
     "id": 2394,

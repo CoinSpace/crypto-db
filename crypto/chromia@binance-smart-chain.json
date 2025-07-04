@@ -9,8 +9,7 @@
   "decimals": 6,
   "logo": "chromia.svg",
   "coingecko": {
-    "id": "chromaway",
-    "platform": "binance-smart-chain"
+    "id": "chromaway"
   },
   "coinmarketcap": {
     "id": 3978,

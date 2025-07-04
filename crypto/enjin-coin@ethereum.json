@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "enjin-coin.svg",
   "coingecko": {
-    "id": "enjincoin",
-    "platform": "ethereum"
+    "id": "enjincoin"
   },
   "coinmarketcap": {
     "id": 2130,

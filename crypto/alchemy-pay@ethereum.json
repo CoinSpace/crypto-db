@@ -9,8 +9,7 @@
   "decimals": 8,
   "logo": "alchemy-pay.svg",
   "coingecko": {
-    "id": "alchemy-pay",
-    "platform": "ethereum"
+    "id": "alchemy-pay"
   },
   "coinmarketcap": {
     "id": 6958,

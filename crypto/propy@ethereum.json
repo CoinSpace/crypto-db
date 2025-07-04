@@ -9,8 +9,7 @@
   "decimals": 8,
   "logo": "propy.svg",
   "coingecko": {
-    "id": "propy",
-    "platform": "ethereum"
+    "id": "propy"
   },
   "coinmarketcap": {
     "id": 1974,

@@ -9,12 +9,8 @@
   "address": "PHB-2DF",
   "decimals": 8,
   "supported": false,
-  "changelly": {
-    "ticker": "phb"
-  },
   "coingecko": {
-    "id": "red-pulse",
-    "platform": "binancecoin"
+    "id": "red-pulse"
   },
   "coinmarketcap": {
     "id": 2112,

@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "chainlink.svg",
   "coingecko": {
-    "id": "chainlink",
-    "platform": "binance-smart-chain"
+    "id": "chainlink"
   },
   "coinmarketcap": {
     "id": 1975,

@@ -8,12 +8,8 @@
   "symbol": "PMA",
   "address": "0x846c66cf71c43f80403b51fe3906b3599d63336f",
   "decimals": 18,
-  "changelly": {
-    "ticker": "pma"
-  },
   "coingecko": {
-    "id": "pumapay",
-    "platform": "ethereum"
+    "id": "pumapay"
   },
   "coinmarketcap": {
     "id": 3164,

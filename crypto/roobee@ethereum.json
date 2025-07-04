@@ -8,12 +8,8 @@
   "symbol": "ROOBEE",
   "address": "0xa31b1767e09f842ecfd4bc471fe44f830e3891aa",
   "decimals": 18,
-  "changelly": {
-    "ticker": "roobee"
-  },
   "coingecko": {
-    "id": "roobee",
-    "platform": "ethereum"
+    "id": "roobee"
   },
   "coinmarketcap": {
     "id": 4804,

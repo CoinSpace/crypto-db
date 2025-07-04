@@ -9,8 +9,7 @@
   "address": "0x1559fa1b8f28238fd5d76d9f434ad86fd20d1559",
   "decimals": 18,
   "coingecko": {
-    "id": "eden",
-    "platform": "ethereum"
+    "id": "eden"
   },
   "coinmarketcap": {
     "id": 7750,

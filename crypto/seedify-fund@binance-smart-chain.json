@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "seedify-fund.svg",
   "coingecko": {
-    "id": "seedify-fund",
-    "platform": "binance-smart-chain"
+    "id": "seedify-fund"
   },
   "coinmarketcap": {
     "id": 8972,

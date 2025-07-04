@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "ufo-gaming.svg",
   "coingecko": {
-    "id": "ufo-gaming",
-    "platform": "ethereum"
+    "id": "ufo-gaming"
   },
   "coinmarketcap": {
     "id": 10729,

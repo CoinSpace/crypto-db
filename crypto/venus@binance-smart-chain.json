@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "venus.svg",
   "coingecko": {
-    "id": "venus",
-    "platform": "binance-smart-chain"
+    "id": "venus"
   },
   "coinmarketcap": {
     "id": 7288,

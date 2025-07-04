@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "band-protocol.svg",
   "coingecko": {
-    "id": "band-protocol",
-    "platform": "ethereum"
+    "id": "band-protocol"
   },
   "coinmarketcap": {
     "id": 4679,

@@ -8,12 +8,8 @@
   "symbol": "BRD",
   "address": "0x558ec3152e2eb2174905cd19aea4e34a23de9ad6",
   "decimals": 18,
-  "changelly": {
-    "ticker": "brd"
-  },
   "coingecko": {
-    "id": "bread",
-    "platform": "ethereum"
+    "id": "bread"
   },
   "coinmarketcap": {
     "id": 2306,

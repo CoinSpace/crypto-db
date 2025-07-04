@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "uniswap.svg",
   "coingecko": {
-    "id": "uniswap",
-    "platform": "ethereum"
+    "id": "uniswap"
   },
   "coinmarketcap": {
     "id": 7083,

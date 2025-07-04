@@ -9,8 +9,7 @@
   "address": "0x4e352cf164e64adcbad318c3a1e222e9eba4ce42",
   "decimals": 18,
   "coingecko": {
-    "id": "mcdex",
-    "platform": "ethereum"
+    "id": "mcdex"
   },
   "coinmarketcap": {
     "id": 5956,

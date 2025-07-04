@@ -9,8 +9,7 @@
   "address": "0x5de3939b2f811a61d830e6f52d13b066881412ab",
   "decimals": 4,
   "coingecko": {
-    "id": "proton",
-    "platform": "binance-smart-chain"
+    "id": "proton"
   },
   "coinmarketcap": {
     "id": 5350,

@@ -9,8 +9,7 @@
   "address": "0xb6adb74efb5801160ff749b1985fd3bd5000e938",
   "decimals": 18,
   "coingecko": {
-    "id": "gamezone",
-    "platform": "binance-smart-chain"
+    "id": "gamezone"
   },
   "coinmarketcap": {
     "id": 11871,

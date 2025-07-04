@@ -10,8 +10,7 @@
   "decimals": 18,
   "logo": "nucypher.svg",
   "coingecko": {
-    "id": "nucypher",
-    "platform": "ethereum"
+    "id": "nucypher"
   },
   "coinmarketcap": {
     "id": 4761,

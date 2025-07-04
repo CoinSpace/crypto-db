@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "susd.svg",
   "coingecko": {
-    "id": "nusd",
-    "platform": "ethereum"
+    "id": "nusd"
   },
   "coinmarketcap": {
     "id": 2927,

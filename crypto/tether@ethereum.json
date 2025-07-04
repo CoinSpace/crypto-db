@@ -9,8 +9,7 @@
   "decimals": 6,
   "logo": "tether.svg",
   "coingecko": {
-    "id": "tether",
-    "platform": "ethereum"
+    "id": "tether"
   },
   "coinmarketcap": {
     "id": 825,

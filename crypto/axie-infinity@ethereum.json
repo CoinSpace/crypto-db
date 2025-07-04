@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "axie-infinity.svg",
   "coingecko": {
-    "id": "axie-infinity",
-    "platform": "ethereum"
+    "id": "axie-infinity"
   },
   "coinmarketcap": {
     "id": 6783,

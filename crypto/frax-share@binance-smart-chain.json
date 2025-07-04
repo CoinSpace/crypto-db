@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "frax-share.svg",
   "coingecko": {
-    "id": "frax-share",
-    "platform": "binance-smart-chain"
+    "id": "frax-share"
   },
   "coinmarketcap": {
     "id": 6953,

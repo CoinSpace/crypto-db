@@ -8,12 +8,8 @@
   "symbol": "MFT",
   "address": "0xdf2c7238198ad8b389666574f2d8bc411a4b7428",
   "decimals": 18,
-  "changelly": {
-    "ticker": "mft"
-  },
   "coingecko": {
-    "id": "mainframe",
-    "platform": "ethereum"
+    "id": "mainframe"
   },
   "coinmarketcap": {
     "id": 2896,

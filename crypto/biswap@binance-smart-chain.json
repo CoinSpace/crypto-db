@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "biswap.svg",
   "coingecko": {
-    "id": "biswap",
-    "platform": "binance-smart-chain"
+    "id": "biswap"
   },
   "coinmarketcap": {
     "id": 10746,

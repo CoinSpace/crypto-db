@@ -9,8 +9,7 @@
   "decimals": 8,
   "logo": "dent.svg",
   "coingecko": {
-    "id": "dent",
-    "platform": "ethereum"
+    "id": "dent"
   },
   "coinmarketcap": {
     "id": 1886,

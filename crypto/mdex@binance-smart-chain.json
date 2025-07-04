@@ -8,12 +8,8 @@
   "symbol": "MDX",
   "address": "0x9c65ab58d8d978db963e63f2bfb7121627e3a739",
   "decimals": 18,
-  "changelly": {
-    "ticker": "mdx"
-  },
   "coingecko": {
-    "id": "mdex",
-    "platform": "binance-smart-chain"
+    "id": "mdex"
   },
   "coinmarketcap": {
     "id": 8335,

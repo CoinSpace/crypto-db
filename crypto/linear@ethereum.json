@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "linear.svg",
   "coingecko": {
-    "id": "linear",
-    "platform": "ethereum"
+    "id": "linear"
   },
   "coinmarketcap": {
     "id": 7102,

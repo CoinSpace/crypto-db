@@ -9,8 +9,7 @@
   "address": "0xd0929d411954c47438dc1d871dd6081f5c5e149c",
   "decimals": 4,
   "coingecko": {
-    "id": "refereum",
-    "platform": "ethereum"
+    "id": "refereum"
   },
   "coinmarketcap": {
     "id": 2553,

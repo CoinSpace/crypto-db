@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "aragon.svg",
   "coingecko": {
-    "id": "aragon",
-    "platform": "ethereum"
+    "id": "aragon"
   },
   "coinmarketcap": {
     "id": 1680,

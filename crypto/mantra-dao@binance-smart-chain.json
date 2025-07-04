@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "mantra-dao.svg",
   "coingecko": {
-    "id": "mantra-dao",
-    "platform": "binance-smart-chain"
+    "id": "mantra-dao"
   },
   "coinmarketcap": {
     "id": 6536,

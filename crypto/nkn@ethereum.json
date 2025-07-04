@@ -10,8 +10,7 @@
   "decimals": 18,
   "logo": "nkn.svg",
   "coingecko": {
-    "id": "nkn",
-    "platform": "ethereum"
+    "id": "nkn"
   },
   "coinmarketcap": {
     "id": 2780,

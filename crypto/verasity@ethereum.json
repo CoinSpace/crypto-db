@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "verasity.svg",
   "coingecko": {
-    "id": "verasity",
-    "platform": "ethereum"
+    "id": "verasity"
   },
   "coinmarketcap": {
     "id": 3816,

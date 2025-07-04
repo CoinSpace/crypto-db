@@ -9,8 +9,7 @@
   "address": "0x431ad2ff6a9c365805ebad47ee021148d6f7dbe0",
   "decimals": 18,
   "coingecko": {
-    "id": "dforce-token",
-    "platform": "ethereum"
+    "id": "dforce-token"
   },
   "coinmarketcap": {
     "id": 4758,

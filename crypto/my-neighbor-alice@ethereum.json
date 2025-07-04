@@ -9,8 +9,7 @@
   "decimals": 6,
   "logo": "my-neighbor-alice.svg",
   "coingecko": {
-    "id": "my-neighbor-alice",
-    "platform": "ethereum"
+    "id": "my-neighbor-alice"
   },
   "coinmarketcap": {
     "id": 8766,

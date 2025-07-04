@@ -9,8 +9,7 @@
   "address": "0xd3e4ba569045546d09cf021ecc5dfe42b1d7f6e4",
   "decimals": 18,
   "coingecko": {
-    "id": "morpheus-network",
-    "platform": "ethereum"
+    "id": "morpheus-network"
   },
   "coinmarketcap": {
     "id": 2763,

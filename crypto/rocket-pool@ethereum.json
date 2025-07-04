@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "rocket-pool.svg",
   "coingecko": {
-    "id": "rocket-pool",
-    "platform": "ethereum"
+    "id": "rocket-pool"
   },
   "coinmarketcap": {
     "id": 2943,

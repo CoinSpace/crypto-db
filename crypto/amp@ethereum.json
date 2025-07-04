@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "amp.svg",
   "coingecko": {
-    "id": "amp-token",
-    "platform": "ethereum"
+    "id": "amp-token"
   },
   "coinmarketcap": {
     "id": 6945,

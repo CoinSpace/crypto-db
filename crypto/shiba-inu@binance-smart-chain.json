@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "shiba-inu.svg",
   "coingecko": {
-    "id": "shiba-inu",
-    "platform": "binance-smart-chain"
+    "id": "shiba-inu"
   },
   "coinmarketcap": {
     "id": 5994,

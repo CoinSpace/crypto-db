@@ -9,15 +9,10 @@
   "address": "0x93ed3fbe21207ec2e8f2d3c3de6e058cb73bc04d",
   "decimals": 18,
   "coingecko": {
-    "id": "kleros",
-    "platform": "ethereum"
+    "id": "kleros"
   },
   "coinmarketcap": {
     "id": 3581,
     "slug": "kleros"
-  },
-  "guardarian": {
-    "ticker": "PNK",
-    "network": "ETH"
   }
 }

@@ -10,8 +10,7 @@
   "decimals": 18,
   "logo": "stratis.svg",
   "coingecko": {
-    "id": "stratis",
-    "platform": "ethereum"
+    "id": "stratis"
   },
   "coinmarketcap": {
     "id": 1343,

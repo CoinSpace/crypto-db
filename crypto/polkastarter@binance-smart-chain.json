@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "polkastarter.svg",
   "coingecko": {
-    "id": "polkastarter",
-    "platform": "binance-smart-chain"
+    "id": "polkastarter"
   },
   "coinmarketcap": {
     "id": 7208,

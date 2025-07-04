@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "bancor-network-token.svg",
   "coingecko": {
-    "id": "bancor",
-    "platform": "ethereum"
+    "id": "bancor"
   },
   "coinmarketcap": {
     "id": 1727,

@@ -9,8 +9,7 @@
   "address": "0xfc206f429d55c71cb7294eff40c6adb20dc21508",
   "decimals": 5,
   "coingecko": {
-    "id": "dehub",
-    "platform": "binance-smart-chain"
+    "id": "dehub"
   },
   "coinmarketcap": {
     "id": 11560,

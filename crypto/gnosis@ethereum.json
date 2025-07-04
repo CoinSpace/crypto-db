@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "gnosis.svg",
   "coingecko": {
-    "id": "gnosis",
-    "platform": "ethereum"
+    "id": "gnosis"
   },
   "coinmarketcap": {
     "id": 1659,

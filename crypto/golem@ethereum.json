@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "golem.svg",
   "coingecko": {
-    "id": "golem",
-    "platform": "ethereum"
+    "id": "golem"
   },
   "coinmarketcap": {
     "id": 1455,

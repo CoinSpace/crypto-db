@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "orchid-protocol.svg",
   "coingecko": {
-    "id": "orchid-protocol",
-    "platform": "ethereum"
+    "id": "orchid-protocol"
   },
   "coinmarketcap": {
     "id": 5026,

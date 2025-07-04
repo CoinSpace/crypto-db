@@ -9,8 +9,7 @@
   "decimals": 12,
   "logo": "zilliqa.svg",
   "coingecko": {
-    "id": "zilliqa",
-    "platform": "binance-smart-chain"
+    "id": "zilliqa"
   },
   "coinmarketcap": {
     "id": 2469,

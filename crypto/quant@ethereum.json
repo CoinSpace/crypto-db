@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "quant.svg",
   "coingecko": {
-    "id": "quant-network",
-    "platform": "ethereum"
+    "id": "quant-network"
   },
   "coinmarketcap": {
     "id": 3155,

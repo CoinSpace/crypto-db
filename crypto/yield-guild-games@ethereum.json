@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "yield-guild-games.svg",
   "coingecko": {
-    "id": "yield-guild-games",
-    "platform": "ethereum"
+    "id": "yield-guild-games"
   },
   "coinmarketcap": {
     "id": 10688,

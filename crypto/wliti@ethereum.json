@@ -8,12 +8,8 @@
   "symbol": "WLITI",
   "address": "0x0b63128c40737b13647552e0c926bcfeccc35f93",
   "decimals": 18,
-  "changelly": {
-    "ticker": "wliti"
-  },
   "coingecko": {
-    "id": "wliti",
-    "platform": "ethereum"
+    "id": "wliti"
   },
   "coinmarketcap": {
     "id": 10740,

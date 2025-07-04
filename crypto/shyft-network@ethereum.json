@@ -9,8 +9,7 @@
   "address": "0xb17c88bda07d28b3838e0c1de6a30eafbcf52d85",
   "decimals": 18,
   "coingecko": {
-    "id": "shyft-network-2",
-    "platform": "ethereum"
+    "id": "shyft-network-2"
   },
   "coinmarketcap": {
     "id": 8917,

@@ -10,8 +10,7 @@
   "decimals": 18,
   "logo": "mirror-protocol.svg",
   "coingecko": {
-    "id": "mirror-protocol",
-    "platform": "binance-smart-chain"
+    "id": "mirror-protocol"
   },
   "coinmarketcap": {
     "id": 7857,

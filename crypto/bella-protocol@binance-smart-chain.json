@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "bella-protocol.svg",
   "coingecko": {
-    "id": "bella-protocol",
-    "platform": "binance-smart-chain"
+    "id": "bella-protocol"
   },
   "coinmarketcap": {
     "id": 6928,

@@ -9,9 +9,6 @@
   "decimals": 7,
   "logo": "bitcoin-diamond.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "bcd"
-  },
   "coingecko": {
     "id": "bitcoin-diamond"
   },

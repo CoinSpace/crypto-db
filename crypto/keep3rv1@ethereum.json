@@ -9,8 +9,7 @@
   "address": "0x1ceb5cb57c4d4e2b2433641b95dd330a33185a44",
   "decimals": 18,
   "coingecko": {
-    "id": "keep3rv1",
-    "platform": "ethereum"
+    "id": "keep3rv1"
   },
   "coinmarketcap": {
     "id": 7535,

@@ -9,8 +9,7 @@
   "decimals": 8,
   "logo": "dogecoin.svg",
   "coingecko": {
-    "id": "binance-peg-dogecoin",
-    "platform": "binance-smart-chain"
+    "id": "binance-peg-dogecoin"
   },
   "coinmarketcap": {
     "id": 74,

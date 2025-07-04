@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "okb.svg",
   "coingecko": {
-    "id": "okb",
-    "platform": "ethereum"
+    "id": "okb"
   },
   "coinmarketcap": {
     "id": 3897,

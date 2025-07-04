@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "holo.svg",
   "coingecko": {
-    "id": "holotoken",
-    "platform": "ethereum"
+    "id": "holotoken"
   },
   "coinmarketcap": {
     "id": 2682,

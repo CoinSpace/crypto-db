@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "cocos-bcx.svg",
   "coingecko": {
-    "id": "cocos-bcx",
-    "platform": "ethereum"
+    "id": "cocos-bcx"
   },
   "coinmarketcap": {
     "id": 4275,

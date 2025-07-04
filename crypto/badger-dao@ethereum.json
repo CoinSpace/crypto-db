@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "badger-dao.svg",
   "coingecko": {
-    "id": "badger-dao",
-    "platform": "ethereum"
+    "id": "badger-dao"
   },
   "coinmarketcap": {
     "id": 7859,

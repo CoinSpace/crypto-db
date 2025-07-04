@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "fetch-ai.svg",
   "coingecko": {
-    "id": "fetch-ai",
-    "platform": "binance-smart-chain"
+    "id": "fetch-ai"
   },
   "coinmarketcap": {
     "id": 3773,

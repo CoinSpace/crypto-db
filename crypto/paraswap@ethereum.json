@@ -9,8 +9,7 @@
   "address": "0xcafe001067cdef266afb7eb5a286dcfd277f3de5",
   "decimals": 18,
   "coingecko": {
-    "id": "paraswap",
-    "platform": "ethereum"
+    "id": "paraswap"
   },
   "coinmarketcap": {
     "id": 14534,

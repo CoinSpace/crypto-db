@@ -10,8 +10,7 @@
   "logo": "ong.svg",
   "supported": false,
   "coingecko": {
-    "id": "ong",
-    "platform": "ontology"
+    "id": "ong"
   },
   "coinmarketcap": {
     "id": 3217,

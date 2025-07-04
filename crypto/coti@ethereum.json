@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "coti.svg",
   "coingecko": {
-    "id": "coti",
-    "platform": "ethereum"
+    "id": "coti"
   },
   "coinmarketcap": {
     "id": 3992,

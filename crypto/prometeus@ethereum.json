@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "prometeus.svg",
   "coingecko": {
-    "id": "prometeus",
-    "platform": "ethereum"
+    "id": "prometeus"
   },
   "coinmarketcap": {
     "id": 4120,

@@ -9,8 +9,7 @@
   "decimals": 6,
   "logo": "chromia.svg",
   "coingecko": {
-    "id": "chromaway",
-    "platform": "ethereum"
+    "id": "chromaway"
   },
   "coinmarketcap": {
     "id": 3978,

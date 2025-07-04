@@ -9,8 +9,7 @@
   "address": "0xde30da39c46104798bb5aa3fe8b9e0e1f348163f",
   "decimals": 18,
   "coingecko": {
-    "id": "gitcoin",
-    "platform": "ethereum"
+    "id": "gitcoin"
   },
   "coinmarketcap": {
     "id": 10052,

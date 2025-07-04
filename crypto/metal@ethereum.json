@@ -10,15 +10,10 @@
   "decimals": 8,
   "logo": "metal.svg",
   "coingecko": {
-    "id": "metal",
-    "platform": "ethereum"
+    "id": "metal"
   },
   "coinmarketcap": {
     "id": 1788,
     "slug": "metal"
-  },
-  "guardarian": {
-    "ticker": "MTL",
-    "network": "ETH"
   }
 }

@@ -9,8 +9,7 @@
   "address": "0x6468e79a80c0eab0f9a2b574c8d5bc374af59414",
   "decimals": 18,
   "coingecko": {
-    "id": "e-radix",
-    "platform": "ethereum"
+    "id": "e-radix"
   },
   "coinmarketcap": {
     "id": 7692,

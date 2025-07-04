@@ -9,8 +9,7 @@
   "address": "0xc666081073e8dff8d3d1c2292a29ae1a2153ec09",
   "decimals": 18,
   "coingecko": {
-    "id": "digitex-futures-exchange",
-    "platform": "ethereum"
+    "id": "digitex-futures-exchange"
   },
   "coinmarketcap": {
     "id": 2772,

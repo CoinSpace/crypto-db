@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "aergo.svg",
   "coingecko": {
-    "id": "aergo",
-    "platform": "ethereum"
+    "id": "aergo"
   },
   "coinmarketcap": {
     "id": 3637,

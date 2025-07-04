@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "balancer.svg",
   "coingecko": {
-    "id": "balancer",
-    "platform": "ethereum"
+    "id": "balancer"
   },
   "coinmarketcap": {
     "id": 5728,

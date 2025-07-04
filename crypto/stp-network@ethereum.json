@@ -10,8 +10,7 @@
   "decimals": 18,
   "logo": "stp-network.svg",
   "coingecko": {
-    "id": "stp-network",
-    "platform": "ethereum"
+    "id": "stp-network"
   },
   "coinmarketcap": {
     "id": 4006,

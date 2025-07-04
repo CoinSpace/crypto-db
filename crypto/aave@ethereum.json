@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "aave.svg",
   "coingecko": {
-    "id": "aave",
-    "platform": "ethereum"
+    "id": "aave"
   },
   "coinmarketcap": {
     "id": 7278,

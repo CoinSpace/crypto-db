@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "aavegotchi.svg",
   "coingecko": {
-    "id": "aavegotchi",
-    "platform": "ethereum"
+    "id": "aavegotchi"
   },
   "coinmarketcap": {
     "id": 7046,

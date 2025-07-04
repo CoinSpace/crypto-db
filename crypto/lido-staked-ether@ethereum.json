@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "lido-staked-ether.svg",
   "coingecko": {
-    "id": "staked-ether",
-    "platform": "ethereum"
+    "id": "staked-ether"
   },
   "coinmarketcap": {
     "id": 8085,

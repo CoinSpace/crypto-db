@@ -8,12 +8,8 @@
   "symbol": "SUB",
   "address": "0x8d75959f1e61ec2571aa72798237101f084de63a",
   "decimals": 18,
-  "changelly": {
-    "ticker": "sub"
-  },
   "coingecko": {
-    "id": "substratum",
-    "platform": "ethereum"
+    "id": "substratum"
   },
   "coinmarketcap": {
     "id": 1984,

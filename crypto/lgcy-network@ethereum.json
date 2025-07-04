@@ -9,15 +9,10 @@
   "address": "0xae697f994fc5ebc000f8e22ebffee04612f98a0d",
   "decimals": 18,
   "coingecko": {
-    "id": "lgcy-network",
-    "platform": "ethereum"
+    "id": "lgcy-network"
   },
   "coinmarketcap": {
     "id": 6665,
     "slug": "lgcy-network"
-  },
-  "guardarian": {
-    "ticker": "LGCY",
-    "network": "ETH"
   }
 }

@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "coin98.svg",
   "coingecko": {
-    "id": "coin98",
-    "platform": "ethereum"
+    "id": "coin98"
   },
   "coinmarketcap": {
     "id": 10903,

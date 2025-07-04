@@ -9,8 +9,7 @@
   "decimals": 6,
   "logo": "power-ledger.svg",
   "coingecko": {
-    "id": "power-ledger",
-    "platform": "ethereum"
+    "id": "power-ledger"
   },
   "coinmarketcap": {
     "id": 2132,

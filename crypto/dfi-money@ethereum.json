@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "dfi-money.svg",
   "coingecko": {
-    "id": "yfii-finance",
-    "platform": "ethereum"
+    "id": "yfii-finance"
   },
   "coinmarketcap": {
     "id": 5957,

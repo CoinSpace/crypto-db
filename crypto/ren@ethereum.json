@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "ren.svg",
   "coingecko": {
-    "id": "republic-protocol",
-    "platform": "ethereum"
+    "id": "republic-protocol"
   },
   "coinmarketcap": {
     "id": 2539,

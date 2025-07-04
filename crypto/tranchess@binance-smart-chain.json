@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "tranchess.svg",
   "coingecko": {
-    "id": "tranchess",
-    "platform": "binance-smart-chain"
+    "id": "tranchess"
   },
   "coinmarketcap": {
     "id": 10974,

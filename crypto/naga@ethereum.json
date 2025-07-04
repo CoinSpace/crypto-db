@@ -8,12 +8,8 @@
   "symbol": "NGC",
   "address": "0x72dd4b6bd852a3aa172be4d6c5a6dbec588cf131",
   "decimals": 18,
-  "changelly": {
-    "ticker": "ngc"
-  },
   "coingecko": {
-    "id": "naga",
-    "platform": "ethereum"
+    "id": "naga"
   },
   "coinmarketcap": {
     "id": 2305,

@@ -9,19 +9,11 @@
   "address": "0xf970b8e36e23f7fc3fd752eea86f8be8d83375a6",
   "decimals": 18,
   "logo": "ripio-credit-network.svg",
-  "changelly": {
-    "ticker": "rcn"
-  },
   "coingecko": {
-    "id": "ripio-credit-network",
-    "platform": "ethereum"
+    "id": "ripio-credit-network"
   },
   "coinmarketcap": {
     "id": 2096,
     "slug": "ripio-credit-network"
-  },
-  "guardarian": {
-    "ticker": "RCN",
-    "network": "ETH"
   }
 }

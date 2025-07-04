@@ -9,8 +9,7 @@
   "address": "0x678e840c640f619e17848045d23072844224dd37",
   "decimals": 18,
   "coingecko": {
-    "id": "cratos",
-    "platform": "binance-smart-chain"
+    "id": "cratos"
   },
   "coinmarketcap": {
     "id": 12064,

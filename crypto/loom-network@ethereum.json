@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "loom-network.svg",
   "coingecko": {
-    "id": "loom-network-new",
-    "platform": "ethereum"
+    "id": "loom-network-new"
   },
   "coinmarketcap": {
     "id": 2588,

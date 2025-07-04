@@ -10,8 +10,7 @@
   "decimals": 8,
   "supported": false,
   "coingecko": {
-    "id": "ignis",
-    "platform": "ardor"
+    "id": "ignis"
   },
   "coinmarketcap": {
     "id": 2276,

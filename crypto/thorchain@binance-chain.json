@@ -11,8 +11,7 @@
   "logo": "thorchain.svg",
   "supported": false,
   "coingecko": {
-    "id": "thorchain",
-    "platform": "binancecoin"
+    "id": "thorchain"
   },
   "coinmarketcap": {
     "id": 4157,

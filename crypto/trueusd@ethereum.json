@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "trueusd.svg",
   "coingecko": {
-    "id": "true-usd",
-    "platform": "ethereum"
+    "id": "true-usd"
   },
   "coinmarketcap": {
     "id": 2563,

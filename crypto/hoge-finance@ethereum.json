@@ -9,15 +9,10 @@
   "address": "0xfad45e47083e4607302aa43c65fb3106f1cd7607",
   "decimals": 9,
   "coingecko": {
-    "id": "hoge-finance",
-    "platform": "ethereum"
+    "id": "hoge-finance"
   },
   "coinmarketcap": {
     "id": 8438,
     "slug": "hoge-finance"
-  },
-  "guardarian": {
-    "ticker": "HOGE",
-    "network": "ETH"
   }
 }

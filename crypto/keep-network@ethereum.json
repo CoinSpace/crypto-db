@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "keep-network.svg",
   "coingecko": {
-    "id": "keep-network",
-    "platform": "ethereum"
+    "id": "keep-network"
   },
   "coinmarketcap": {
     "id": 5566,

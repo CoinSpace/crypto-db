@@ -9,8 +9,7 @@
   "decimals": 6,
   "logo": "bonfida.svg",
   "coingecko": {
-    "id": "bonfida",
-    "platform": "solana"
+    "id": "bonfida"
   },
   "coinmarketcap": {
     "id": 7978,

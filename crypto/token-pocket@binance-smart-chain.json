@@ -9,8 +9,7 @@
   "address": "0xeca41281c24451168a37211f0bc2b8645af45092",
   "decimals": 4,
   "coingecko": {
-    "id": "token-pocket",
-    "platform": "binance-smart-chain"
+    "id": "token-pocket"
   },
   "coinmarketcap": {
     "id": 5947,

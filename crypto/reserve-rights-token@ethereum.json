@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "reserve-rights-token.svg",
   "coingecko": {
-    "id": "reserve-rights-token",
-    "platform": "ethereum"
+    "id": "reserve-rights-token"
   },
   "coinmarketcap": {
     "id": 3964,

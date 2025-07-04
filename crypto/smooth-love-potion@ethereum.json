@@ -9,8 +9,7 @@
   "decimals": 0,
   "logo": "smooth-love-potion.svg",
   "coingecko": {
-    "id": "smooth-love-potion",
-    "platform": "ethereum"
+    "id": "smooth-love-potion"
   },
   "coinmarketcap": {
     "id": 5824,

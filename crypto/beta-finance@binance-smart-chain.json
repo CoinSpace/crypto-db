@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "beta-finance.svg",
   "coingecko": {
-    "id": "beta-finance",
-    "platform": "binance-smart-chain"
+    "id": "beta-finance"
   },
   "coinmarketcap": {
     "id": 11307,

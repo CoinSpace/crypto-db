@@ -9,8 +9,7 @@
   "address": "0x3155ba85d5f96b2d030a4966af206230e46849cb",
   "decimals": 18,
   "coingecko": {
-    "id": "thorchain-erc20",
-    "platform": "ethereum"
+    "id": "thorchain-erc20"
   },
   "coinmarketcap": {
     "id": 8272,

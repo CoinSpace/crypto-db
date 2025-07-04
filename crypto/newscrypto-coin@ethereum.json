@@ -9,15 +9,10 @@
   "address": "0x968f6f898a6df937fc1859b323ac2f14643e3fed",
   "decimals": 18,
   "coingecko": {
-    "id": "newscrypto-coin",
-    "platform": "ethereum"
+    "id": "newscrypto-coin"
   },
   "coinmarketcap": {
     "id": 4890,
     "slug": "newscrypto"
-  },
-  "guardarian": {
-    "ticker": "NWC",
-    "network": "ETH"
   }
 }

@@ -9,12 +9,8 @@
   "address": "0x14a5750b0e54b57d12767b84a326c9fe59472da5",
   "decimals": 0,
   "supported": false,
-  "changelly": {
-    "ticker": "juv"
-  },
   "coingecko": {
-    "id": "juventus-fan-token",
-    "platform": "chiliz"
+    "id": "juventus-fan-token"
   },
   "coinmarketcap": {
     "id": 5224,

@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "numeraire.svg",
   "coingecko": {
-    "id": "numeraire",
-    "platform": "ethereum"
+    "id": "numeraire"
   },
   "coinmarketcap": {
     "id": 1732,

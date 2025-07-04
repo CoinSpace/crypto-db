@@ -9,8 +9,7 @@
   "decimals": 4,
   "logo": "celsius-network.svg",
   "coingecko": {
-    "id": "celsius-degree-token",
-    "platform": "ethereum"
+    "id": "celsius-degree-token"
   },
   "coinmarketcap": {
     "id": 2700,

@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "tether.svg",
   "coingecko": {
-    "id": "tether",
-    "platform": "binance-smart-chain"
+    "id": "tether"
   },
   "coinmarketcap": {
     "id": 825,

@@ -9,15 +9,10 @@
   "address": "0xfa5047c9c78b8877af97bdcb85db743fd7313d4a",
   "decimals": 18,
   "coingecko": {
-    "id": "rook",
-    "platform": "ethereum"
+    "id": "rook"
   },
   "coinmarketcap": {
     "id": 7678,
     "slug": "keeperdao"
-  },
-  "guardarian": {
-    "ticker": "ROOK",
-    "network": "ETH"
   }
 }

@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "sushi.svg",
   "coingecko": {
-    "id": "sushi",
-    "platform": "binance-smart-chain"
+    "id": "sushi"
   },
   "coinmarketcap": {
     "id": 6758,

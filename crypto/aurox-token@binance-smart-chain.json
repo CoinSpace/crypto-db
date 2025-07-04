@@ -9,8 +9,7 @@
   "address": "0xc6dddb5bc6e61e0841c54f3e723ae1f3a807260b",
   "decimals": 18,
   "coingecko": {
-    "id": "urus-token",
-    "platform": "binance-smart-chain"
+    "id": "urus-token"
   },
   "coinmarketcap": {
     "id": 8616,

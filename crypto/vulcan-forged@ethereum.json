@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "vulcan-forged.svg",
   "coingecko": {
-    "id": "vulcan-forged",
-    "platform": "ethereum"
+    "id": "vulcan-forged"
   },
   "coinmarketcap": {
     "id": 9308,

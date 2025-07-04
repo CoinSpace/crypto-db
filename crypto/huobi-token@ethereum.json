@@ -9,12 +9,8 @@
   "address": "0x6f259637dcd74c767781e37bc6133cd6a68aa161",
   "decimals": 18,
   "logo": "huobi-token.svg",
-  "changelly": {
-    "ticker": "ht"
-  },
   "coingecko": {
-    "id": "huobi-token",
-    "platform": "ethereum"
+    "id": "huobi-token"
   },
   "coinmarketcap": {
     "id": 2502,

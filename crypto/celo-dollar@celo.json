@@ -10,8 +10,7 @@
   "logo": "celo-dollar.svg",
   "supported": false,
   "coingecko": {
-    "id": "celo-dollar",
-    "platform": "celo"
+    "id": "celo-dollar"
   },
   "coinmarketcap": {
     "id": 7236,

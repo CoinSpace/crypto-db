@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "dydx.svg",
   "coingecko": {
-    "id": "dydx",
-    "platform": "ethereum"
+    "id": "dydx"
   },
   "coinmarketcap": {
     "id": 11156,

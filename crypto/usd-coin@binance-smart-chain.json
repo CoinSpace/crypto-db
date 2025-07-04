@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "usd-coin.svg",
   "coingecko": {
-    "id": "usd-coin",
-    "platform": "binance-smart-chain"
+    "id": "usd-coin"
   },
   "coinmarketcap": {
     "id": 3408,

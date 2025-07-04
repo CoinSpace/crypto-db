@@ -9,8 +9,7 @@
   "address": "0xca3f508b8e4dd382ee878a314789373d80a5190a",
   "decimals": 18,
   "coingecko": {
-    "id": "beefy-finance",
-    "platform": "binance-smart-chain"
+    "id": "beefy-finance"
   },
   "coinmarketcap": {
     "id": 7311,

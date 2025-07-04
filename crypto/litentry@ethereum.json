@@ -9,12 +9,8 @@
   "address": "0xb59490ab09a0f526cc7305822ac65f2ab12f9723",
   "decimals": 18,
   "logo": "litentry.svg",
-  "changelly": {
-    "ticker": "lit"
-  },
   "coingecko": {
-    "id": "litentry",
-    "platform": "ethereum"
+    "id": "litentry"
   },
   "coinmarketcap": {
     "id": 6833,

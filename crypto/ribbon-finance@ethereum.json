@@ -9,8 +9,7 @@
   "address": "0x6123b0049f904d730db3c36a31167d9d4121fa6b",
   "decimals": 18,
   "coingecko": {
-    "id": "ribbon-finance",
-    "platform": "ethereum"
+    "id": "ribbon-finance"
   },
   "coinmarketcap": {
     "id": 12387,

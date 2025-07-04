@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "iotex.svg",
   "coingecko": {
-    "id": "iotex",
-    "platform": "binance-smart-chain"
+    "id": "iotex"
   },
   "coinmarketcap": {
     "id": 2777,

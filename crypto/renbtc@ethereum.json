@@ -9,8 +9,7 @@
   "address": "0xeb4c2781e4eba804ce9a9803c67d0893436bb27d",
   "decimals": 8,
   "coingecko": {
-    "id": "renbtc",
-    "platform": "ethereum"
+    "id": "renbtc"
   },
   "coinmarketcap": {
     "id": 5777,

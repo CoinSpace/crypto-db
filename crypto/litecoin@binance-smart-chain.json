@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "litecoin.svg",
   "coingecko": {
-    "id": "binance-peg-litecoin",
-    "platform": "binance-smart-chain"
+    "id": "binance-peg-litecoin"
   },
   "coinmarketcap": {
     "id": 2,

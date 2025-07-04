@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "rally.svg",
   "coingecko": {
-    "id": "rally-2",
-    "platform": "ethereum"
+    "id": "rally-2"
   },
   "coinmarketcap": {
     "id": 8075,

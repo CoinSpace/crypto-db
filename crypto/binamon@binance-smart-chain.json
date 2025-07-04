@@ -9,8 +9,7 @@
   "address": "0x08ba0619b1e7a582e0bce5bbe9843322c954c340",
   "decimals": 18,
   "coingecko": {
-    "id": "binamon",
-    "platform": "binance-smart-chain"
+    "id": "binamon"
   },
   "coinmarketcap": {
     "id": 10704,

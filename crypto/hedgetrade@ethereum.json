@@ -8,12 +8,8 @@
   "symbol": "HEDG",
   "address": "0xf1290473e210b2108a85237fbcd7b6eb42cc654f",
   "decimals": 18,
-  "changelly": {
-    "ticker": "hedg"
-  },
   "coingecko": {
-    "id": "hedgetrade",
-    "platform": "ethereum"
+    "id": "hedgetrade"
   },
   "coinmarketcap": {
     "id": 3662,

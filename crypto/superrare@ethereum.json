@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "superrare.svg",
   "coingecko": {
-    "id": "superrare",
-    "platform": "ethereum"
+    "id": "superrare"
   },
   "coinmarketcap": {
     "id": 11294,

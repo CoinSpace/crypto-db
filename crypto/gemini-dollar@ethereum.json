@@ -9,8 +9,7 @@
   "decimals": 2,
   "logo": "gemini-dollar.svg",
   "coingecko": {
-    "id": "gemini-dollar",
-    "platform": "ethereum"
+    "id": "gemini-dollar"
   },
   "coinmarketcap": {
     "id": 3306,

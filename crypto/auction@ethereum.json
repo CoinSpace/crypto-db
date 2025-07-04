@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "auction.svg",
   "coingecko": {
-    "id": "auction",
-    "platform": "ethereum"
+    "id": "auction"
   },
   "coinmarketcap": {
     "id": 8602,

@@ -9,15 +9,10 @@
   "address": "0xd98f75b1a3261dab9eed4956c93f33749027a964",
   "decimals": 2,
   "coingecko": {
-    "id": "sharering",
-    "platform": "ethereum"
+    "id": "sharering"
   },
   "coinmarketcap": {
     "id": 4197,
     "slug": "sharetoken"
-  },
-  "guardarian": {
-    "ticker": "SHR",
-    "network": "ETH"
   }
 }

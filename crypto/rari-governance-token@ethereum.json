@@ -9,8 +9,7 @@
   "address": "0xd291e7a03283640fdc51b121ac401383a46cc623",
   "decimals": 18,
   "coingecko": {
-    "id": "rari-governance-token",
-    "platform": "ethereum"
+    "id": "rari-governance-token"
   },
   "coinmarketcap": {
     "id": 7486,

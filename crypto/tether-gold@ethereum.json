@@ -9,8 +9,7 @@
   "decimals": 6,
   "logo": "tether-gold.svg",
   "coingecko": {
-    "id": "tether-gold",
-    "platform": "ethereum"
+    "id": "tether-gold"
   },
   "coinmarketcap": {
     "id": 5176,

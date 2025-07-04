@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "polkadot.svg",
   "coingecko": {
-    "id": "binance-peg-polkadot",
-    "platform": "binance-smart-chain"
+    "id": "binance-peg-polkadot"
   },
   "coinmarketcap": {
     "id": 6636,

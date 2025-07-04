@@ -9,8 +9,7 @@
   "address": "0xff742d05420b6aca4481f635ad8341f81a6300c2",
   "decimals": 18,
   "coingecko": {
-    "id": "asd",
-    "platform": "ethereum"
+    "id": "asd"
   },
   "coinmarketcap": {
     "id": 3673,

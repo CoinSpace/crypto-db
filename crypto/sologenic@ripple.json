@@ -10,8 +10,7 @@
   "logo": "sologenic.svg",
   "supported": false,
   "coingecko": {
-    "id": "solo-coin",
-    "platform": "xrp"
+    "id": "solo-coin"
   },
   "coinmarketcap": {
     "id": 5279,

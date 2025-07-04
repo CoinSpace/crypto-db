@@ -9,8 +9,7 @@
   "address": "0xfb7b4564402e5500db5bb6d63ae671302777c75a",
   "decimals": 18,
   "coingecko": {
-    "id": "dextools",
-    "platform": "ethereum"
+    "id": "dextools"
   },
   "coinmarketcap": {
     "id": 5866,

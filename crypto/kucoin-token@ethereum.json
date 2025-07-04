@@ -9,8 +9,7 @@
   "decimals": 6,
   "logo": "kucoin-token.svg",
   "coingecko": {
-    "id": "kucoin-shares",
-    "platform": "ethereum"
+    "id": "kucoin-shares"
   },
   "coinmarketcap": {
     "id": 2087,

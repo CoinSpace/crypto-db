@@ -9,15 +9,10 @@
   "address": "0x1633b7157e7638c4d6593436111bf125ee74703f",
   "decimals": 18,
   "coingecko": {
-    "id": "splinterlands",
-    "platform": "binance-smart-chain"
+    "id": "splinterlands"
   },
   "coinmarketcap": {
     "id": 11035,
     "slug": "splintershards"
-  },
-  "guardarian": {
-    "ticker": "SPS",
-    "network": "BSC"
   }
 }

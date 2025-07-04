@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "illuvium.svg",
   "coingecko": {
-    "id": "illuvium",
-    "platform": "ethereum"
+    "id": "illuvium"
   },
   "coinmarketcap": {
     "id": 8719,

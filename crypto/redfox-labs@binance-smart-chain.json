@@ -9,8 +9,7 @@
   "address": "0x0a3a21356793b49154fd3bbe91cbc2a16c0457f5",
   "decimals": 18,
   "coingecko": {
-    "id": "redfox-labs-2",
-    "platform": "binance-smart-chain"
+    "id": "redfox-labs-2"
   },
   "coinmarketcap": {
     "id": 7654,

@@ -10,8 +10,7 @@
   "decimals": 18,
   "logo": "tomochain.svg",
   "coingecko": {
-    "id": "tomoe",
-    "platform": "ethereum"
+    "id": "tomoe"
   },
   "coinmarketcap": {
     "id": 2570,

@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "everipedia.svg",
   "coingecko": {
-    "id": "everipedia",
-    "platform": "ethereum"
+    "id": "everipedia"
   },
   "coinmarketcap": {
     "id": 2930,

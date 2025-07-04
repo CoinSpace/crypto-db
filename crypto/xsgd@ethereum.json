@@ -9,8 +9,7 @@
   "address": "0x70e8de73ce538da2beed35d14187f6959a8eca96",
   "decimals": 6,
   "coingecko": {
-    "id": "xsgd",
-    "platform": "ethereum"
+    "id": "xsgd"
   },
   "coinmarketcap": {
     "id": 8489,

@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "starlink.png",
   "coingecko": {
-    "id": "starlink",
-    "platform": "ethereum"
+    "id": "starlink"
   },
   "coinmarketcap": {
     "id": 10821,

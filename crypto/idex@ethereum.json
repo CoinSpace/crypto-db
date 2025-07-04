@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "idex.svg",
   "coingecko": {
-    "id": "aurora-dao",
-    "platform": "ethereum"
+    "id": "aurora-dao"
   },
   "coinmarketcap": {
     "id": 3928,

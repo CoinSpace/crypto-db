@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "automata.svg",
   "coingecko": {
-    "id": "automata",
-    "platform": "ethereum"
+    "id": "automata"
   },
   "coinmarketcap": {
     "id": 10188,

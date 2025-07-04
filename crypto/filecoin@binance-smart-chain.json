@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "filecoin.svg",
   "coingecko": {
-    "id": "binance-peg-filecoin",
-    "platform": "binance-smart-chain"
+    "id": "binance-peg-filecoin"
   },
   "coinmarketcap": {
     "id": 2280,

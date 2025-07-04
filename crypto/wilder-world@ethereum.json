@@ -9,8 +9,7 @@
   "address": "0x2a3bff78b79a009976eea096a51a948a3dc00e34",
   "decimals": 18,
   "coingecko": {
-    "id": "wilder-world",
-    "platform": "ethereum"
+    "id": "wilder-world"
   },
   "coinmarketcap": {
     "id": 9674,

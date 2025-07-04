@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "1inch.svg",
   "coingecko": {
-    "id": "1inch",
-    "platform": "ethereum"
+    "id": "1inch"
   },
   "coinmarketcap": {
     "id": 8104,

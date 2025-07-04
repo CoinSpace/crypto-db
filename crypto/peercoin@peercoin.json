@@ -9,9 +9,6 @@
   "decimals": 6,
   "logo": "peercoin.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "ppc"
-  },
   "coingecko": {
     "id": "peercoin"
   },

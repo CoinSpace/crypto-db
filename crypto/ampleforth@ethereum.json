@@ -10,8 +10,7 @@
   "decimals": 9,
   "logo": "ampleforth.svg",
   "coingecko": {
-    "id": "ampleforth",
-    "platform": "ethereum"
+    "id": "ampleforth"
   },
   "coinmarketcap": {
     "id": 4056,

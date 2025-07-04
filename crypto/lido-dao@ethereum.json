@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "lido-dao.svg",
   "coingecko": {
-    "id": "lido-dao",
-    "platform": "ethereum"
+    "id": "lido-dao"
   },
   "coinmarketcap": {
     "id": 8000,

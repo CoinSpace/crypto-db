@@ -9,8 +9,7 @@
   "address": "0xd7c49cee7e9188cca6ad8ff264c1da2e69d4cf3b",
   "decimals": 18,
   "coingecko": {
-    "id": "nxm",
-    "platform": "ethereum"
+    "id": "nxm"
   },
   "coinmarketcap": {
     "id": 5830,

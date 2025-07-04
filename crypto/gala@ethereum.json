@@ -9,8 +9,7 @@
   "decimals": 8,
   "logo": "gala.svg",
   "coingecko": {
-    "id": "gala",
-    "platform": "ethereum"
+    "id": "gala"
   },
   "coinmarketcap": {
     "id": 7080,

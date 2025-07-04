@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "pax-dollar.svg",
   "coingecko": {
-    "id": "paxos-standard",
-    "platform": "ethereum"
+    "id": "paxos-standard"
   },
   "coinmarketcap": {
     "id": 3330,

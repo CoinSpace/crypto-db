@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "swipe.svg",
   "coingecko": {
-    "id": "swipe",
-    "platform": "ethereum"
+    "id": "swipe"
   },
   "coinmarketcap": {
     "id": 4279,

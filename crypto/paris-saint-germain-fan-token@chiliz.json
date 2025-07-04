@@ -9,12 +9,8 @@
   "address": "0x6fc212cdE3b420733A88496CbdbB15d85beAb1Ca",
   "decimals": 0,
   "supported": false,
-  "changelly": {
-    "ticker": "psg"
-  },
   "coingecko": {
-    "id": "paris-saint-germain-fan-token",
-    "platform": "chiliz"
+    "id": "paris-saint-germain-fan-token"
   },
   "coinmarketcap": {
     "id": 5226,

@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "bluzelle.svg",
   "coingecko": {
-    "id": "bluzelle",
-    "platform": "ethereum"
+    "id": "bluzelle"
   },
   "coinmarketcap": {
     "id": 2505,

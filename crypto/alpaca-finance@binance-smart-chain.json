@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "alpaca-finance.svg",
   "coingecko": {
-    "id": "alpaca-finance",
-    "platform": "binance-smart-chain"
+    "id": "alpaca-finance"
   },
   "coinmarketcap": {
     "id": 8707,

@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "mask-network.svg",
   "coingecko": {
-    "id": "mask-network",
-    "platform": "binance-smart-chain"
+    "id": "mask-network"
   },
   "coinmarketcap": {
     "id": 8536,

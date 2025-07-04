@@ -9,8 +9,7 @@
   "address": "0x833f307ac507d47309fd8cdd1f835bef8d702a93",
   "decimals": 18,
   "coingecko": {
-    "id": "revv",
-    "platform": "binance-smart-chain"
+    "id": "revv"
   },
   "coinmarketcap": {
     "id": 6993,

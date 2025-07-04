@@ -10,8 +10,7 @@
   "decimals": 18,
   "logo": "uquid-coin.svg",
   "coingecko": {
-    "id": "uquid-coin",
-    "platform": "ethereum"
+    "id": "uquid-coin"
   },
   "coinmarketcap": {
     "id": 2273,

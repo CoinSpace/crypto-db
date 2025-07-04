@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "immutable-x.svg",
   "coingecko": {
-    "id": "immutable-x",
-    "platform": "ethereum"
+    "id": "immutable-x"
   },
   "coinmarketcap": {
     "id": 10603,

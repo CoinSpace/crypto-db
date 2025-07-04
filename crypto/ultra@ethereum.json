@@ -9,8 +9,7 @@
   "decimals": 4,
   "logo": "ultra.svg",
   "coingecko": {
-    "id": "ultra",
-    "platform": "ethereum"
+    "id": "ultra"
   },
   "coinmarketcap": {
     "id": 4189,

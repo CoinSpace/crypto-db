@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "utrust.svg",
   "coingecko": {
-    "id": "utrust",
-    "platform": "ethereum"
+    "id": "utrust"
   },
   "coinmarketcap": {
     "id": 2320,

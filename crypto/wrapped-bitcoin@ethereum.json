@@ -9,8 +9,7 @@
   "decimals": 8,
   "logo": "wrapped-bitcoin.svg",
   "coingecko": {
-    "id": "wrapped-bitcoin",
-    "platform": "ethereum"
+    "id": "wrapped-bitcoin"
   },
   "coinmarketcap": {
     "id": 3717,

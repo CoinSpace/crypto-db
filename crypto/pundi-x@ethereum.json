@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "pundi-x.svg",
   "coingecko": {
-    "id": "pundi-x-2",
-    "platform": "ethereum"
+    "id": "pundi-x-2"
   },
   "coinmarketcap": {
     "id": 9040,

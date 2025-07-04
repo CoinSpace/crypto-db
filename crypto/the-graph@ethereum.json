@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "the-graph.svg",
   "coingecko": {
-    "id": "the-graph",
-    "platform": "ethereum"
+    "id": "the-graph"
   },
   "coinmarketcap": {
     "id": 6719,

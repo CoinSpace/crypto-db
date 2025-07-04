@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "adventure-gold.svg",
   "coingecko": {
-    "id": "adventure-gold",
-    "platform": "ethereum"
+    "id": "adventure-gold"
   },
   "coinmarketcap": {
     "id": 11568,

@@ -9,8 +9,7 @@
   "decimals": 8,
   "logo": "funtoken.svg",
   "coingecko": {
-    "id": "funfair",
-    "platform": "ethereum"
+    "id": "funfair"
   },
   "coinmarketcap": {
     "id": 1757,

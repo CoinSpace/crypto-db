@@ -9,8 +9,7 @@
   "address": "0xfca59cd816ab1ead66534d82bc21e7515ce441cf",
   "decimals": 18,
   "coingecko": {
-    "id": "rarible",
-    "platform": "ethereum"
+    "id": "rarible"
   },
   "coinmarketcap": {
     "id": 5877,

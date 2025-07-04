@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "audius.svg",
   "coingecko": {
-    "id": "audius",
-    "platform": "ethereum"
+    "id": "audius"
   },
   "coinmarketcap": {
     "id": 7455,

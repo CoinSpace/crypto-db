@@ -9,8 +9,7 @@
   "address": "0x9fdc3ae5c814b79dca2556564047c5e7e5449c19",
   "decimals": 18,
   "coingecko": {
-    "id": "decentral-games",
-    "platform": "binance-smart-chain"
+    "id": "decentral-games"
   },
   "coinmarketcap": {
     "id": 7798,

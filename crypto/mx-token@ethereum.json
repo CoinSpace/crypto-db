@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "mx-token.svg",
   "coingecko": {
-    "id": "mx-token",
-    "platform": "ethereum"
+    "id": "mx-token"
   },
   "coinmarketcap": {
     "id": 4041,

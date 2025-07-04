@@ -10,8 +10,7 @@
   "decimals": 9,
   "logo": "ampleforth.svg",
   "coingecko": {
-    "id": "ampleforth",
-    "platform": "binance-smart-chain"
+    "id": "ampleforth"
   },
   "coinmarketcap": {
     "id": 4056,

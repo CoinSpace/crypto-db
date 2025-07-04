@@ -9,12 +9,8 @@
   "address": "0xEA6A3E367e96521fD9E8296425a44EFa6aee82da",
   "decimals": 0,
   "supported": false,
-  "changelly": {
-    "ticker": "acm"
-  },
   "coingecko": {
-    "id": "ac-milan-fan-token",
-    "platform": "chiliz"
+    "id": "ac-milan-fan-token"
   },
   "coinmarketcap": {
     "id": 8538,

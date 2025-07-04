@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "dia.svg",
   "coingecko": {
-    "id": "dia-data",
-    "platform": "ethereum"
+    "id": "dia-data"
   },
   "coinmarketcap": {
     "id": 6138,

@@ -8,12 +8,8 @@
   "symbol": "TORN",
   "address": "0x77777feddddffc19ff86db637967013e6c6a116c",
   "decimals": 18,
-  "changelly": {
-    "ticker": "torn"
-  },
   "coingecko": {
-    "id": "tornado-cash",
-    "platform": "ethereum"
+    "id": "tornado-cash"
   },
   "coinmarketcap": {
     "id": 8049,

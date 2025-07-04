@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "origin-protocol.svg",
   "coingecko": {
-    "id": "origin-protocol",
-    "platform": "ethereum"
+    "id": "origin-protocol"
   },
   "coinmarketcap": {
     "id": 5117,

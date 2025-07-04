@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "origintrail.svg",
   "coingecko": {
-    "id": "origintrail",
-    "platform": "ethereum"
+    "id": "origintrail"
   },
   "coinmarketcap": {
     "id": 2467,

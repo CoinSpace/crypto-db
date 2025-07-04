@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "bakeryswap.svg",
   "coingecko": {
-    "id": "bakerytoken",
-    "platform": "binance-smart-chain"
+    "id": "bakerytoken"
   },
   "coinmarketcap": {
     "id": 7064,

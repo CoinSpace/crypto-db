@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "radio-caca.svg",
   "coingecko": {
-    "id": "radio-caca",
-    "platform": "ethereum"
+    "id": "radio-caca"
   },
   "coinmarketcap": {
     "id": 11346,

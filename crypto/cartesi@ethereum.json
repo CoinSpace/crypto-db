@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "cartesi.svg",
   "coingecko": {
-    "id": "cartesi",
-    "platform": "ethereum"
+    "id": "cartesi"
   },
   "coinmarketcap": {
     "id": 5444,

@@ -9,8 +9,7 @@
   "decimals": 8,
   "logo": "storj.svg",
   "coingecko": {
-    "id": "storj",
-    "platform": "ethereum"
+    "id": "storj"
   },
   "coinmarketcap": {
     "id": 1772,

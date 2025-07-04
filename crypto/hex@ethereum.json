@@ -10,15 +10,10 @@
   "decimals": 8,
   "logo": "hex.svg",
   "coingecko": {
-    "id": "hex",
-    "platform": "ethereum"
+    "id": "hex"
   },
   "coinmarketcap": {
     "id": 5015,
     "slug": "hex"
-  },
-  "guardarian": {
-    "ticker": "HEX",
-    "network": "ETH"
   }
 }

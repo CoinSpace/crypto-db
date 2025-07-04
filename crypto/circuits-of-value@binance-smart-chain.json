@@ -9,8 +9,7 @@
   "address": "0xd15cee1deafbad6c0b3fd7489677cc102b141464",
   "decimals": 8,
   "coingecko": {
-    "id": "circuits-of-value",
-    "platform": "binance-smart-chain"
+    "id": "circuits-of-value"
   },
   "coinmarketcap": {
     "id": 788,

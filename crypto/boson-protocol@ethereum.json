@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "boson-protocol.svg",
   "coingecko": {
-    "id": "boson-protocol",
-    "platform": "ethereum"
+    "id": "boson-protocol"
   },
   "coinmarketcap": {
     "id": 8827,

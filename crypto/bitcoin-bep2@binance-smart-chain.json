@@ -15,9 +15,5 @@
   "coinmarketcap": {
     "id": 4023,
     "slug": "bitcoin-bep2"
-  },
-  "guardarian": {
-    "ticker": "BTCB",
-    "network": "BSC"
   }
 }

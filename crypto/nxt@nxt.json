@@ -8,9 +8,6 @@
   "symbol": "NXT",
   "decimals": 8,
   "supported": false,
-  "changelly": {
-    "ticker": "nxt"
-  },
   "coingecko": {
     "id": "nxt"
   },

@@ -8,12 +8,8 @@
   "symbol": "WINGS",
   "address": "0x667088b212ce3d06a1b553a7221e1fd19000d9af",
   "decimals": 18,
-  "changelly": {
-    "ticker": "wings"
-  },
   "coingecko": {
-    "id": "wings",
-    "platform": "ethereum"
+    "id": "wings"
   },
   "coinmarketcap": {
     "id": 1500,

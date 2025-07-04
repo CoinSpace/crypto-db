@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "loopring.svg",
   "coingecko": {
-    "id": "loopring",
-    "platform": "ethereum"
+    "id": "loopring"
   },
   "coinmarketcap": {
     "id": 1934,

@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "tenx.svg",
   "coingecko": {
-    "id": "tenx",
-    "platform": "ethereum"
+    "id": "tenx"
   },
   "coinmarketcap": {
     "id": 1758,

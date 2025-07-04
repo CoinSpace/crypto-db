@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "harvest-finance.svg",
   "coingecko": {
-    "id": "harvest-finance",
-    "platform": "ethereum"
+    "id": "harvest-finance"
   },
   "coinmarketcap": {
     "id": 6859,

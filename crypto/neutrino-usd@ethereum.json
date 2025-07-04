@@ -9,8 +9,7 @@
   "address": "0x674c6ad92fd080e4004b2312b45f796a192d27a0",
   "decimals": 18,
   "coingecko": {
-    "id": "neutrino",
-    "platform": "ethereum"
+    "id": "neutrino"
   },
   "coinmarketcap": {
     "id": 5068,

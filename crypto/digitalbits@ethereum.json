@@ -9,8 +9,7 @@
   "address": "0xb9eefc4b0d472a44be93970254df4f4016569d27",
   "decimals": 7,
   "coingecko": {
-    "id": "digitalbits",
-    "platform": "ethereum"
+    "id": "digitalbits"
   },
   "coinmarketcap": {
     "id": 4566,

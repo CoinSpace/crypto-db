@@ -9,8 +9,7 @@
   "address": "0x42981d0bfbaf196529376ee702f2a9eb9092fcb5",
   "decimals": 9,
   "coingecko": {
-    "id": "safemoon-2",
-    "platform": "binance-smart-chain"
+    "id": "safemoon-2"
   },
   "coinmarketcap": {
     "id": 16162,

@@ -9,8 +9,7 @@
   "address": "0x666d875c600aa06ac1cf15641361dec3b00432ef",
   "decimals": 8,
   "coingecko": {
-    "id": "btse-token",
-    "platform": "ethereum"
+    "id": "btse-token"
   },
   "coinmarketcap": {
     "id": 5305,

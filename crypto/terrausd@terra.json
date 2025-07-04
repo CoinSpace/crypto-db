@@ -10,8 +10,7 @@
   "logo": "terrausd.png",
   "supported": false,
   "coingecko": {
-    "id": "terrausd",
-    "platform": "terra"
+    "id": "terrausd"
   },
   "coinmarketcap": {
     "id": 7129,

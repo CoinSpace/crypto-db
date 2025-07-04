@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "mask-network.svg",
   "coingecko": {
-    "id": "mask-network",
-    "platform": "ethereum"
+    "id": "mask-network"
   },
   "coinmarketcap": {
     "id": 8536,

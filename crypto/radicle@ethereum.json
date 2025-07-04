@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "radicle.svg",
   "coingecko": {
-    "id": "radicle",
-    "platform": "ethereum"
+    "id": "radicle"
   },
   "coinmarketcap": {
     "id": 6843,

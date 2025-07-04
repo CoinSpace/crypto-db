@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "marlin.svg",
   "coingecko": {
-    "id": "marlin",
-    "platform": "ethereum"
+    "id": "marlin"
   },
   "coinmarketcap": {
     "id": 7497,

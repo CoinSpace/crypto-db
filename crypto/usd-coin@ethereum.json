@@ -9,8 +9,7 @@
   "decimals": 6,
   "logo": "usd-coin.svg",
   "coingecko": {
-    "id": "usd-coin",
-    "platform": "ethereum"
+    "id": "usd-coin"
   },
   "coinmarketcap": {
     "id": 3408,

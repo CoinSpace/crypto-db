@@ -9,8 +9,7 @@
   "address": "0x7d29a64504629172a429e64183d6673b9dacbfce",
   "decimals": 18,
   "coingecko": {
-    "id": "vectorspace",
-    "platform": "ethereum"
+    "id": "vectorspace"
   },
   "coinmarketcap": {
     "id": 4441,

@@ -9,8 +9,7 @@
   "decimals": 2,
   "logo": "stasis-euro.svg",
   "coingecko": {
-    "id": "stasis-eurs",
-    "platform": "ethereum"
+    "id": "stasis-eurs"
   },
   "coinmarketcap": {
     "id": 2989,

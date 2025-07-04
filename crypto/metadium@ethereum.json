@@ -9,8 +9,7 @@
   "address": "0xde2f7766c8bf14ca67193128535e5c7454f8387c",
   "decimals": 18,
   "coingecko": {
-    "id": "metadium",
-    "platform": "ethereum"
+    "id": "metadium"
   },
   "coinmarketcap": {
     "id": 3418,

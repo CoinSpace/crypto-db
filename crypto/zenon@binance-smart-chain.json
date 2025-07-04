@@ -9,8 +9,7 @@
   "address": "0x84b174628911896a3b87fa6980d05dbc2ee74836",
   "decimals": 8,
   "coingecko": {
-    "id": "zenon",
-    "platform": "binance-smart-chain"
+    "id": "zenon"
   },
   "coinmarketcap": {
     "id": 4003,

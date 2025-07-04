@@ -9,8 +9,7 @@
   "address": "0x584bc13c7d411c00c01a62e8019472de68768430",
   "decimals": 18,
   "coingecko": {
-    "id": "hegic",
-    "platform": "ethereum"
+    "id": "hegic"
   },
   "coinmarketcap": {
     "id": 6929,

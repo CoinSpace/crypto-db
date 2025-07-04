@@ -9,8 +9,7 @@
   "address": "0xb753428af26e81097e7fd17f40c88aaa3e04902c",
   "decimals": 18,
   "coingecko": {
-    "id": "saffron-finance",
-    "platform": "ethereum"
+    "id": "saffron-finance"
   },
   "coinmarketcap": {
     "id": 7617,

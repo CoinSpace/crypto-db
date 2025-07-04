@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "gatetoken.svg",
   "coingecko": {
-    "id": "gatechain-token",
-    "platform": "ethereum"
+    "id": "gatechain-token"
   },
   "coinmarketcap": {
     "id": 4269,

@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "injective-protocol.svg",
   "coingecko": {
-    "id": "injective-protocol",
-    "platform": "binance-smart-chain"
+    "id": "injective-protocol"
   },
   "coinmarketcap": {
     "id": 7226,

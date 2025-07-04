@@ -8,9 +8,6 @@
   "symbol": "VIDT",
   "address": "0xfef4185594457050cc9c23980d301908fe057bb1",
   "decimals": 18,
-  "changelly": {
-    "ticker": "vidt"
-  },
   "coingecko": {
     "id": "vidt-dao"
   },

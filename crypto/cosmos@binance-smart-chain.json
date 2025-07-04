@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "cosmos.svg",
   "coingecko": {
-    "id": "cosmos",
-    "platform": "binance-smart-chain"
+    "id": "cosmos"
   },
   "coinmarketcap": {
     "id": 3794,

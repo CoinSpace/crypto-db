@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "pancakeswap.svg",
   "coingecko": {
-    "id": "pancakeswap-token",
-    "platform": "binance-smart-chain"
+    "id": "pancakeswap-token"
   },
   "coinmarketcap": {
     "id": 7186,

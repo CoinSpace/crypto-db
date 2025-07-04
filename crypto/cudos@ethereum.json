@@ -9,15 +9,10 @@
   "address": "0x817bbdbc3e8a1204f3691d14bb44992841e3db35",
   "decimals": 18,
   "coingecko": {
-    "id": "cudos",
-    "platform": "ethereum"
+    "id": "cudos"
   },
   "coinmarketcap": {
     "id": 8258,
     "slug": "cudos"
-  },
-  "guardarian": {
-    "ticker": "CUDOS",
-    "network": "ETH"
   }
 }

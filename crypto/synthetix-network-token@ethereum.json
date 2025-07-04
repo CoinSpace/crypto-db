@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "synthetix-network-token.svg",
   "coingecko": {
-    "id": "havven",
-    "platform": "ethereum"
+    "id": "havven"
   },
   "coinmarketcap": {
     "id": 2586,

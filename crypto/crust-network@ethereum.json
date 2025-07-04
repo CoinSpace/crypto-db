@@ -9,8 +9,7 @@
   "address": "0x32a7c02e79c4ea1008dd6564b35f131428673c41",
   "decimals": 18,
   "coingecko": {
-    "id": "crust-network",
-    "platform": "ethereum"
+    "id": "crust-network"
   },
   "coinmarketcap": {
     "id": 6747,

@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "dogelon-mars.svg",
   "coingecko": {
-    "id": "dogelon-mars",
-    "platform": "ethereum"
+    "id": "dogelon-mars"
   },
   "coinmarketcap": {
     "id": 9436,

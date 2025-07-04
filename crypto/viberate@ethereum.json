@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "viberate.svg",
   "coingecko": {
-    "id": "viberate",
-    "platform": "ethereum"
+    "id": "viberate"
   },
   "coinmarketcap": {
     "id": 2019,

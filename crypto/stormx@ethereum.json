@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "stormx.svg",
   "coingecko": {
-    "id": "storm",
-    "platform": "ethereum"
+    "id": "storm"
   },
   "coinmarketcap": {
     "id": 2297,

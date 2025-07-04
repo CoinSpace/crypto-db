@@ -8,9 +8,6 @@
   "symbol": "VTC",
   "decimals": 8,
   "supported": false,
-  "changelly": {
-    "ticker": "vtc"
-  },
   "coingecko": {
     "id": "vertcoin"
   },

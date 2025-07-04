@@ -9,8 +9,7 @@
   "address": "0x298eff8af1ecebbb2c034eaa3b9a5d0cc56c59cd",
   "decimals": 8,
   "coingecko": {
-    "id": "phantasma",
-    "platform": "binance-smart-chain"
+    "id": "phantasma"
   },
   "coinmarketcap": {
     "id": 2827,

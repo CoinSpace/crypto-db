@@ -9,15 +9,10 @@
   "address": "0xade00c28244d5ce17d72e40330b1c318cd12b7c3",
   "decimals": 18,
   "coingecko": {
-    "id": "adex",
-    "platform": "ethereum"
+    "id": "adex"
   },
   "coinmarketcap": {
     "id": 1768,
     "slug": "adx-net"
-  },
-  "guardarian": {
-    "ticker": "ADX",
-    "network": "ETH"
   }
 }

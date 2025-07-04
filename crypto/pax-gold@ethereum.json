@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "pax-gold.svg",
   "coingecko": {
-    "id": "pax-gold",
-    "platform": "ethereum"
+    "id": "pax-gold"
   },
   "coinmarketcap": {
     "id": 4705,

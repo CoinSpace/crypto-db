@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "jasmycoin.svg",
   "coingecko": {
-    "id": "jasmycoin",
-    "platform": "ethereum"
+    "id": "jasmycoin"
   },
   "coinmarketcap": {
     "id": 8425,

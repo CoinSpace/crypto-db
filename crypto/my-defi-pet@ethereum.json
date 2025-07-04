@@ -9,8 +9,7 @@
   "address": "0xfb62ae373aca027177d1c18ee0862817f9080d08",
   "decimals": 18,
   "coingecko": {
-    "id": "my-defi-pet",
-    "platform": "ethereum"
+    "id": "my-defi-pet"
   },
   "coinmarketcap": {
     "id": 9665,

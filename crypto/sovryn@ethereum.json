@@ -9,8 +9,7 @@
   "address": "0xbdab72602e9ad40fc6a6852caf43258113b8f7a5",
   "decimals": 18,
   "coingecko": {
-    "id": "sovryn",
-    "platform": "ethereum"
+    "id": "sovryn"
   },
   "coinmarketcap": {
     "id": 8669,

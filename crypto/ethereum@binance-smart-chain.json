@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "ethereum.svg",
   "coingecko": {
-    "id": "ethereum",
-    "platform": "binance-smart-chain"
+    "id": "ethereum"
   },
   "coinmarketcap": {
     "id": 1027,

@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "convex-finance.svg",
   "coingecko": {
-    "id": "convex-finance",
-    "platform": "ethereum"
+    "id": "convex-finance"
   },
   "coinmarketcap": {
     "id": 9903,

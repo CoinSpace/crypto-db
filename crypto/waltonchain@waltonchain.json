@@ -9,9 +9,6 @@
   "decimals": 6,
   "logo": "waltonchain.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "wtc"
-  },
   "coingecko": {
     "id": "waltonchain"
   },

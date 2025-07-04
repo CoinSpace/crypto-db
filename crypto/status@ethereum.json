@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "status.svg",
   "coingecko": {
-    "id": "status",
-    "platform": "ethereum"
+    "id": "status"
   },
   "coinmarketcap": {
     "id": 1759,

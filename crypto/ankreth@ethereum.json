@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "ankreth.svg",
   "coingecko": {
-    "id": "ankreth",
-    "platform": "ethereum"
+    "id": "ankreth"
   },
   "coinmarketcap": {
     "id": 8100,

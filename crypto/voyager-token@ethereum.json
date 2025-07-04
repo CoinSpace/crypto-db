@@ -8,12 +8,8 @@
   "symbol": "VGX",
   "address": "0x3c4b6e6e1ea3d4863700d7f76b36b7f3d3f13e3d",
   "decimals": 8,
-  "changelly": {
-    "ticker": "vgx"
-  },
   "coingecko": {
-    "id": "ethos",
-    "platform": "ethereum"
+    "id": "ethos"
   },
   "coinmarketcap": {
     "id": 1817,

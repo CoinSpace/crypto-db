@@ -9,9 +9,6 @@
   "decimals": 12,
   "logo": "aeternity.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "ae"
-  },
   "coingecko": {
     "id": "aeternity"
   },

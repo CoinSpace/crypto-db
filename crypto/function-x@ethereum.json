@@ -10,8 +10,7 @@
   "decimals": 18,
   "logo": "function-x.svg",
   "coingecko": {
-    "id": "fx-coin",
-    "platform": "ethereum"
+    "id": "fx-coin"
   },
   "coinmarketcap": {
     "id": 3884,

@@ -9,15 +9,10 @@
   "address": "0xc6dddb5bc6e61e0841c54f3e723ae1f3a807260b",
   "decimals": 18,
   "coingecko": {
-    "id": "urus-token",
-    "platform": "ethereum"
+    "id": "urus-token"
   },
   "coinmarketcap": {
     "id": 8616,
     "slug": "urus"
-  },
-  "guardarian": {
-    "ticker": "URUS",
-    "network": "ETH"
   }
 }

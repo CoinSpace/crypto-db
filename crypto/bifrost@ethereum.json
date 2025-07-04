@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "bifrost.svg",
   "coingecko": {
-    "id": "bifrost",
-    "platform": "ethereum"
+    "id": "bifrost"
   },
   "coinmarketcap": {
     "id": 7817,

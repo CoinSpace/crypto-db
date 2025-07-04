@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "everipedia.svg",
   "coingecko": {
-    "id": "everipedia",
-    "platform": "binance-smart-chain"
+    "id": "everipedia"
   },
   "coinmarketcap": {
     "id": 2930,

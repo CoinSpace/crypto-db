@@ -9,8 +9,7 @@
   "address": "0x603c7f932ed1fc6575303d8fb018fdcbb0f39a95",
   "decimals": 18,
   "coingecko": {
-    "id": "apeswap-finance",
-    "platform": "binance-smart-chain"
+    "id": "apeswap-finance"
   },
   "coinmarketcap": {
     "id": 8497,

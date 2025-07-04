@@ -8,9 +8,6 @@
   "symbol": "NEBL",
   "decimals": 8,
   "supported": false,
-  "changelly": {
-    "ticker": "nebl"
-  },
   "coingecko": {
     "id": "neblio"
   },

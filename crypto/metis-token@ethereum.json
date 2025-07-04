@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "metis-token.svg",
   "coingecko": {
-    "id": "metis-token",
-    "platform": "ethereum"
+    "id": "metis-token"
   },
   "coinmarketcap": {
     "id": 9640,

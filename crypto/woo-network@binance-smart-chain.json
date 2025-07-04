@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "woo-network.svg",
   "coingecko": {
-    "id": "woo-network",
-    "platform": "binance-smart-chain"
+    "id": "woo-network"
   },
   "coinmarketcap": {
     "id": 7501,

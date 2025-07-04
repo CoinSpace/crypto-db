@@ -9,8 +9,7 @@
   "address": "0x0f3adc247e91c3c50bc08721355a41037e89bc20",
   "decimals": 18,
   "coingecko": {
-    "id": "anchor-protocol",
-    "platform": "ethereum"
+    "id": "anchor-protocol"
   },
   "coinmarketcap": {
     "id": 8857,

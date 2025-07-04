@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "decentraland.svg",
   "coingecko": {
-    "id": "decentraland",
-    "platform": "ethereum"
+    "id": "decentraland"
   },
   "coinmarketcap": {
     "id": 1966,

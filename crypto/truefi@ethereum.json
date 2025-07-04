@@ -9,8 +9,7 @@
   "decimals": 8,
   "logo": "truefi.svg",
   "coingecko": {
-    "id": "truefi",
-    "platform": "ethereum"
+    "id": "truefi"
   },
   "coinmarketcap": {
     "id": 7725,

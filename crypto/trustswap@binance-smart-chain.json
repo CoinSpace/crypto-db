@@ -9,8 +9,7 @@
   "address": "0x82443a77684a7da92fdcb639c8d2bd068a596245",
   "decimals": 18,
   "coingecko": {
-    "id": "trustswap",
-    "platform": "binance-smart-chain"
+    "id": "trustswap"
   },
   "coinmarketcap": {
     "id": 5829,

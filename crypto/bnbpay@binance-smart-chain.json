@@ -8,6 +8,9 @@
   "symbol": "BPAY",
   "address": "0xebc76079da0c245fae7225b58a57a54809b40618",
   "decimals": 9,
+  "coingecko": {
+    "id": null
+  },
   "coinmarketcap": {
     "id": 12062,
     "slug": "bnbpay"

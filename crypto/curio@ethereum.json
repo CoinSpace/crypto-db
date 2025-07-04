@@ -8,6 +8,9 @@
   "symbol": "CUR",
   "address": "0x13339fd07934cd674269726edf3b5ccee9dd93de",
   "decimals": 18,
+  "coingecko": {
+    "id": null
+  },
   "coinmarketcap": {
     "id": 5083,
     "slug": "curio"

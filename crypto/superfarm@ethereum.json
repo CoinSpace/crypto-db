@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "superfarm.svg",
   "coingecko": {
-    "id": "superfarm",
-    "platform": "ethereum"
+    "id": "superfarm"
   },
   "coinmarketcap": {
     "id": 8290,

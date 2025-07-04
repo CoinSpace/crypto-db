@@ -9,15 +9,10 @@
   "address": "0x6226e00bcac68b0fe55583b90a1d727c14fab77f",
   "decimals": 18,
   "coingecko": {
-    "id": "multivac",
-    "platform": "ethereum"
+    "id": "multivac"
   },
   "coinmarketcap": {
     "id": 3853,
     "slug": "multivac"
-  },
-  "guardarian": {
-    "ticker": "MTV",
-    "network": "ETH"
   }
 }

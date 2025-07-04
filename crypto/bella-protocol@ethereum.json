@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "bella-protocol.svg",
   "coingecko": {
-    "id": "bella-protocol",
-    "platform": "ethereum"
+    "id": "bella-protocol"
   },
   "coinmarketcap": {
     "id": 6928,

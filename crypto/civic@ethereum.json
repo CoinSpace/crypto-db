@@ -9,8 +9,7 @@
   "decimals": 8,
   "logo": "civic.svg",
   "coingecko": {
-    "id": "civic",
-    "platform": "ethereum"
+    "id": "civic"
   },
   "coinmarketcap": {
     "id": 1816,

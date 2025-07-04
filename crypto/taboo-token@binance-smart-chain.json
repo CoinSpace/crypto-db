@@ -9,8 +9,7 @@
   "address": "0x9abdba20edfba06b782126b4d8d72a5853918fd0",
   "decimals": 9,
   "coingecko": {
-    "id": "taboo-token",
-    "platform": "binance-smart-chain"
+    "id": "taboo-token"
   },
   "coinmarketcap": {
     "id": 10586,

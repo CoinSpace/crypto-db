@@ -10,8 +10,7 @@
   "decimals": 8,
   "logo": "lto-network.svg",
   "coingecko": {
-    "id": "lto-network",
-    "platform": "ethereum"
+    "id": "lto-network"
   },
   "coinmarketcap": {
     "id": 3714,

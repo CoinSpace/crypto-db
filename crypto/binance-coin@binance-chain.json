@@ -15,12 +15,5 @@
   "coinmarketcap": {
     "id": 1839,
     "slug": "bnb"
-  },
-  "guardarian": {
-    "ticker": "BNB",
-    "network": "BNB"
-  },
-  "paybis": {
-    "id": "BNB"
   }
 }

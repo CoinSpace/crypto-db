@@ -9,12 +9,8 @@
   "address": "AVA-645",
   "decimals": 8,
   "supported": false,
-  "changelly": {
-    "ticker": "ava"
-  },
   "coingecko": {
-    "id": "concierge-io",
-    "platform": "binancecoin"
+    "id": "concierge-io"
   },
   "coinmarketcap": {
     "id": 2776,

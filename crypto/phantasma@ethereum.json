@@ -9,8 +9,7 @@
   "address": "0x75858677e27c930fb622759feaffee2b754af07f",
   "decimals": 8,
   "coingecko": {
-    "id": "phantasma",
-    "platform": "ethereum"
+    "id": "phantasma"
   },
   "coinmarketcap": {
     "id": 2827,

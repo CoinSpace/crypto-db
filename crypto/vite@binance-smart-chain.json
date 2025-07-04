@@ -9,8 +9,7 @@
   "address": "0x2794dad4077602ed25a88d03781528d1637898b4",
   "decimals": 18,
   "coingecko": {
-    "id": "vite",
-    "platform": "binance-smart-chain"
+    "id": "vite"
   },
   "coinmarketcap": {
     "id": 2937,

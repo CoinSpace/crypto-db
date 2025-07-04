@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "xyo-network.svg",
   "coingecko": {
-    "id": "xyo-network",
-    "platform": "ethereum"
+    "id": "xyo-network"
   },
   "coinmarketcap": {
     "id": 2765,

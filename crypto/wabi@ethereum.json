@@ -9,15 +9,10 @@
   "address": "0x286bda1413a2df81731d4930ce2f862a35a609fe",
   "decimals": 18,
   "coingecko": {
-    "id": "wabi",
-    "platform": "ethereum"
+    "id": "wabi"
   },
   "coinmarketcap": {
     "id": 2267,
     "slug": "wabi"
-  },
-  "guardarian": {
-    "ticker": "WABI",
-    "network": "ETH"
   }
 }

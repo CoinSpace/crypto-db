@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "livepeer.svg",
   "coingecko": {
-    "id": "livepeer",
-    "platform": "ethereum"
+    "id": "livepeer"
   },
   "coinmarketcap": {
     "id": 3640,

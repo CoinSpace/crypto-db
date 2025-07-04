@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "enzyme.svg",
   "coingecko": {
-    "id": "melon",
-    "platform": "ethereum"
+    "id": "melon"
   },
   "coinmarketcap": {
     "id": 1552,

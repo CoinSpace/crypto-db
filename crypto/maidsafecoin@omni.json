@@ -9,9 +9,6 @@
   "address": "",
   "decimals": 0,
   "supported": false,
-  "changelly": {
-    "ticker": "maid"
-  },
   "coingecko": {
     "id": "maidsafecoin"
   },

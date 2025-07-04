@@ -9,9 +9,6 @@
   "decimals": 8,
   "logo": "pirate-chain.svg",
   "supported": false,
-  "changelly": {
-    "ticker": "arrr"
-  },
   "coingecko": {
     "id": "pirate-chain"
   },

@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "apecoin.svg",
   "coingecko": {
-    "id": "apecoin",
-    "platform": "ethereum"
+    "id": "apecoin"
   },
   "coinmarketcap": {
     "id": 18876,

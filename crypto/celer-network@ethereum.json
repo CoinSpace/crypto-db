@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "celer-network.svg",
   "coingecko": {
-    "id": "celer-network",
-    "platform": "ethereum"
+    "id": "celer-network"
   },
   "coinmarketcap": {
     "id": 3814,

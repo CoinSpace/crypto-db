@@ -10,8 +10,7 @@
   "decimals": 18,
   "logo": "veritaseum.svg",
   "coingecko": {
-    "id": "veritaseum",
-    "platform": "ethereum"
+    "id": "veritaseum"
   },
   "coinmarketcap": {
     "id": 1710,

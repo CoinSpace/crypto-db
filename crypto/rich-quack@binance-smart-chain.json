@@ -9,8 +9,7 @@
   "decimals": 9,
   "logo": "rich-quack.svg",
   "coingecko": {
-    "id": "richquack",
-    "platform": "binance-smart-chain"
+    "id": "richquack"
   },
   "coinmarketcap": {
     "id": 10641,

@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "compound.svg",
   "coingecko": {
-    "id": "compound-governance-token",
-    "platform": "ethereum"
+    "id": "compound-governance-token"
   },
   "coinmarketcap": {
     "id": 5692,

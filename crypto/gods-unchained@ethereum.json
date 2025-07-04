@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "gods-unchained.svg",
   "coingecko": {
-    "id": "gods-unchained",
-    "platform": "ethereum"
+    "id": "gods-unchained"
   },
   "coinmarketcap": {
     "id": 10631,

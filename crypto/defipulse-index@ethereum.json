@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "defipulse-index.svg",
   "coingecko": {
-    "id": "defipulse-index",
-    "platform": "ethereum"
+    "id": "defipulse-index"
   },
   "coinmarketcap": {
     "id": 7055,

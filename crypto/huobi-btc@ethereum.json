@@ -9,8 +9,7 @@
   "address": "0x0316eb71485b0ab14103307bf65a021042c6d380",
   "decimals": 18,
   "coingecko": {
-    "id": "huobi-btc",
-    "platform": "ethereum"
+    "id": "huobi-btc"
   },
   "coinmarketcap": {
     "id": 6941,

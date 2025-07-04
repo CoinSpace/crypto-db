@@ -9,8 +9,7 @@
   "address": "0x62359ed7505efc61ff1d56fef82158ccaffa23d7",
   "decimals": 18,
   "coingecko": {
-    "id": "cvault-finance",
-    "platform": "ethereum"
+    "id": "cvault-finance"
   },
   "coinmarketcap": {
     "id": 7242,

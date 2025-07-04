@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "bluzelle.svg",
   "coingecko": {
-    "id": "bluzelle",
-    "platform": "binance-smart-chain"
+    "id": "bluzelle"
   },
   "coinmarketcap": {
     "id": 2505,

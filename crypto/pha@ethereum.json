@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "pha.svg",
   "coingecko": {
-    "id": "pha",
-    "platform": "ethereum"
+    "id": "pha"
   },
   "coinmarketcap": {
     "id": 6841,

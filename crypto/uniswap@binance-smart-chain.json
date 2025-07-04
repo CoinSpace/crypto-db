@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "uniswap.svg",
   "coingecko": {
-    "id": "uniswap",
-    "platform": "binance-smart-chain"
+    "id": "uniswap"
   },
   "coinmarketcap": {
     "id": 7083,

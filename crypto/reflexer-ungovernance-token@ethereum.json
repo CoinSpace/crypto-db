@@ -9,8 +9,7 @@
   "address": "0x6243d8cea23066d098a15582d81a598b4e8391f4",
   "decimals": 18,
   "coingecko": {
-    "id": "reflexer-ungovernance-token",
-    "platform": "ethereum"
+    "id": "reflexer-ungovernance-token"
   },
   "coinmarketcap": {
     "id": 9493,

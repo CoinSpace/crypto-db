@@ -9,8 +9,7 @@
   "decimals": 6,
   "logo": "serum.svg",
   "coingecko": {
-    "id": "serum",
-    "platform": "ethereum"
+    "id": "serum"
   },
   "coinmarketcap": {
     "id": 6187,

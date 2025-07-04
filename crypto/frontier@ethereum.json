@@ -9,8 +9,7 @@
   "address": "0xf8c3527cc04340b208c854e985240c02f7b7793f",
   "decimals": 18,
   "coingecko": {
-    "id": "frontier-token",
-    "platform": "ethereum"
+    "id": "frontier-token"
   },
   "coinmarketcap": {
     "id": 5893,

@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "swissborg.svg",
   "coingecko": {
-    "id": "swissborg",
-    "platform": "ethereum"
+    "id": "swissborg"
   },
   "coinmarketcap": {
     "id": 2499,

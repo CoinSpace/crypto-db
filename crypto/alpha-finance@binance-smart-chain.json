@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "alpha-finance.svg",
   "coingecko": {
-    "id": "alpha-finance",
-    "platform": "binance-smart-chain"
+    "id": "alpha-finance"
   },
   "coinmarketcap": {
     "id": 7232,

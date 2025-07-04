@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "trust-wallet-token.svg",
   "coingecko": {
-    "id": "trust-wallet-token",
-    "platform": "binance-smart-chain"
+    "id": "trust-wallet-token"
   },
   "coinmarketcap": {
     "id": 5964,

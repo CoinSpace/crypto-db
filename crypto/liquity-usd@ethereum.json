@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "liquity-usd.svg",
   "coingecko": {
-    "id": "liquity-usd",
-    "platform": "ethereum"
+    "id": "liquity-usd"
   },
   "coinmarketcap": {
     "id": 9566,

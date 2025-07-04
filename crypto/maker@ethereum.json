@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "maker.svg",
   "coingecko": {
-    "id": "maker",
-    "platform": "ethereum"
+    "id": "maker"
   },
   "coinmarketcap": {
     "id": 1518,

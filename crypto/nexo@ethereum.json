@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "nexo.svg",
   "coingecko": {
-    "id": "nexo",
-    "platform": "ethereum"
+    "id": "nexo"
   },
   "coinmarketcap": {
     "id": 2694,

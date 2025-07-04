@@ -9,8 +9,7 @@
   "decimals": 18,
   "logo": "safepal.svg",
   "coingecko": {
-    "id": "safepal",
-    "platform": "binance-smart-chain"
+    "id": "safepal"
   },
   "coinmarketcap": {
     "id": 8119,
