@@ -1,0 +1,18 @@
+{
+  "_id": "mog-coin@solana",
+  "asset": "mog-coin",
+  "platform": "solana",
+  "type": "token",
+  "name": "Mog Coin",
+  "symbol": "MOG",
+  "address": "26VfKb7jjtdEdvfovoBijScoZmJbWWasFZkgfUD5w7cy",
+  "decimals": 4,
+  "logo": "mog-coin.svg",
+  "coingecko": {
+    "id": "mog-coin"
+  },
+  "coinmarketcap": {
+    "id": 27659,
+    "slug": "mog-coin"
+  }
+}

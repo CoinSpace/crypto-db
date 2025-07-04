@@ -1,0 +1,18 @@
+{
+  "_id": "mog-coin@binance-smart-chain",
+  "asset": "mog-coin",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Mog Coin",
+  "symbol": "MOG",
+  "address": "0x1d0a4821fdef156b0d051d08a166de5df2788cf7",
+  "decimals": 18,
+  "logo": "mog-coin.svg",
+  "coingecko": {
+    "id": "mog-coin"
+  },
+  "coinmarketcap": {
+    "id": 27659,
+    "slug": "mog-coin"
+  }
+}

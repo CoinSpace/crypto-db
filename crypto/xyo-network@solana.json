@@ -1,0 +1,18 @@
+{
+  "_id": "xyo-network@solana",
+  "asset": "xyo-network",
+  "platform": "solana",
+  "type": "token",
+  "name": "XYO",
+  "symbol": "XYO",
+  "address": "FCZKwHd9Qn1EQj8fFuNLB8dupAWCoJJNePbMqyHhS77b",
+  "decimals": 8,
+  "logo": "xyo-network.svg",
+  "coingecko": {
+    "id": "xyo-network"
+  },
+  "coinmarketcap": {
+    "id": 2765,
+    "slug": "xyo"
+  }
+}

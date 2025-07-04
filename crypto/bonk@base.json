@@ -1,0 +1,18 @@
+{
+  "_id": "bonk@base",
+  "asset": "bonk",
+  "platform": "base",
+  "type": "token",
+  "name": "Bonk",
+  "symbol": "BONK",
+  "address": "0xdf1cf211d38e7762c9691be4d779a441a17a6cfc",
+  "decimals": 5,
+  "logo": "bonk.svg",
+  "coingecko": {
+    "id": "bonk"
+  },
+  "coinmarketcap": {
+    "id": 23095,
+    "slug": "bonk1"
+  }
+}

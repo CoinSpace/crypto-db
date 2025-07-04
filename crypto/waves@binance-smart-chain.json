@@ -1,11 +1,11 @@
 {
-  "_id": "waves@ethereum",
+  "_id": "waves@binance-smart-chain",
   "asset": "waves",
-  "platform": "ethereum",
+  "platform": "binance-smart-chain",
   "type": "token",
   "name": "Waves",
   "symbol": "WAVES",
-  "address": "0x7296eaa225804451a91616b29d040cab05435f0d",
+  "address": "0xcbc86b26e0bd751683ecf2581b21f7ce4a224042",
   "decimals": 8,
   "logo": "waves.svg",
   "coingecko": {

@@ -1,0 +1,18 @@
+{
+  "_id": "terra@avalanche-c-chain",
+  "asset": "terra",
+  "platform": "avalanche-c-chain",
+  "type": "token",
+  "name": "Terra Classic",
+  "symbol": "LUNC",
+  "address": "0x70928e5b188def72817b7775f0bf6325968e563b",
+  "decimals": 6,
+  "logo": "terra.svg",
+  "coingecko": {
+    "id": "terra-luna"
+  },
+  "coinmarketcap": {
+    "id": 4172,
+    "slug": "terra-luna"
+  }
+}

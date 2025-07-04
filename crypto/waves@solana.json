@@ -1,11 +1,11 @@
 {
-  "_id": "waves@ethereum",
+  "_id": "waves@solana",
   "asset": "waves",
-  "platform": "ethereum",
+  "platform": "solana",
   "type": "token",
   "name": "Waves",
   "symbol": "WAVES",
-  "address": "0x7296eaa225804451a91616b29d040cab05435f0d",
+  "address": "4XEjo9GZkKom3E26NQiidJLawwM9kbt76gUMDdGe1meQ",
   "decimals": 8,
   "logo": "waves.svg",
   "coingecko": {

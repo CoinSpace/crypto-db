@@ -1,0 +1,18 @@
+{
+  "_id": "iost@binance-smart-chain",
+  "asset": "iost",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "IOST",
+  "symbol": "IOST",
+  "address": "0xaf48b7e315a52518cfbf7d96c455d9dfad94cb48",
+  "decimals": 18,
+  "logo": "iost.svg",
+  "coingecko": {
+    "id": "iostoken"
+  },
+  "coinmarketcap": {
+    "id": 2405,
+    "slug": "iostoken"
+  }
+}
