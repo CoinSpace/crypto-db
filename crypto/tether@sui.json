@@ -9,7 +9,7 @@
   "decimals": 6,
   "logo": "tether.svg",
   "coingecko": {
-    "id": "sui-bridged-usdt-sui"
+    "id": "tether"
   },
   "coinmarketcap": {
     "id": 825,

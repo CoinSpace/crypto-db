@@ -9,7 +9,7 @@
   "decimals": 18,
   "logo": "cardano.svg",
   "coingecko": {
-    "id": "binance-peg-cardano"
+    "id": "cardano"
   },
   "coinmarketcap": {
     "id": 2010,

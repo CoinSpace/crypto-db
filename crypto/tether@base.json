@@ -9,7 +9,7 @@
   "decimals": 6,
   "logo": "tether.svg",
   "coingecko": {
-    "id": "l2-standard-bridged-usdt-base"
+    "id": "tether"
   },
   "coinmarketcap": {
     "id": 825,

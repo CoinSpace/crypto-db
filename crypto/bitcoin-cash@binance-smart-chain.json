@@ -9,7 +9,7 @@
   "decimals": 18,
   "logo": "bitcoin-cash.svg",
   "coingecko": {
-    "id": "binance-peg-bitcoin-cash"
+    "id": "bitcoin-cash"
   },
   "coinmarketcap": {
     "id": 1831,

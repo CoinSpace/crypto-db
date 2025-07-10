@@ -9,7 +9,7 @@
   "decimals": 18,
   "logo": "eos.svg",
   "coingecko": {
-    "id": "binance-peg-eos"
+    "id": "eos"
   },
   "coinmarketcap": {
     "id": 1765,
