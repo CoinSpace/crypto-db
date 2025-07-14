@@ -1,0 +1,18 @@
+{
+  "_id": "memecore@binance-smart-chain",
+  "asset": "memecore",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "MemeCore",
+  "symbol": "M",
+  "address": "0x22b1458e780f8fa71e2f84502cee8b5a3cc731fa",
+  "decimals": 18,
+  "logo": "memecore.svg",
+  "coingecko": {
+    "id": "memecore"
+  },
+  "coinmarketcap": {
+    "id": 35491,
+    "slug": "memecore"
+  }
+}

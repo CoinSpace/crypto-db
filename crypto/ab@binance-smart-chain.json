@@ -1,0 +1,18 @@
+{
+  "_id": "ab@binance-smart-chain",
+  "asset": "ab",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "AB",
+  "symbol": "AB",
+  "address": "0x95034f653d5d161890836ad2b6b8cc49d14e029a",
+  "decimals": 18,
+  "logo": "ab.svg",
+  "coingecko": {
+    "id": "newton-project"
+  },
+  "coinmarketcap": {
+    "id": 3871,
+    "slug": "newton"
+  }
+}

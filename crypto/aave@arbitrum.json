@@ -1,0 +1,18 @@
+{
+  "_id": "aave@arbitrum",
+  "asset": "aave",
+  "platform": "arbitrum",
+  "type": "token",
+  "name": "Aave",
+  "symbol": "AAVE",
+  "address": "0xba5ddd1f9d7f570dc94a51479a000e3bce967196",
+  "decimals": 18,
+  "logo": "aave.svg",
+  "coingecko": {
+    "id": "aave"
+  },
+  "coinmarketcap": {
+    "id": 7278,
+    "slug": "aave"
+  }
+}

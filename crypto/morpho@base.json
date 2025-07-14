@@ -1,0 +1,18 @@
+{
+  "_id": "morpho@base",
+  "asset": "morpho",
+  "platform": "base",
+  "type": "token",
+  "name": "Morpho",
+  "symbol": "MORPHO",
+  "address": "0xbaa5cc21fd487b8fcc2f632f3f4e8d37262a0842",
+  "decimals": 18,
+  "logo": "morpho.svg",
+  "coingecko": {
+    "id": "morpho"
+  },
+  "coinmarketcap": {
+    "id": 34104,
+    "slug": "morpho"
+  }
+}
