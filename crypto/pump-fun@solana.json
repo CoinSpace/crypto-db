@@ -1,0 +1,19 @@
+{
+  "_id": "pump-fun@solana",
+  "asset": "pump-fun",
+  "platform": "solana",
+  "type": "token",
+  "name": "Pump.fun",
+  "symbol": "PUMP",
+  "address": "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
+  "decimals": 6,
+  "logo": "pump-fun.svg",
+  "supported": "6.12.0",
+  "coingecko": {
+    "id": "pump-fun"
+  },
+  "coinmarketcap": {
+    "id": 36507,
+    "slug": "pump-fun"
+  }
+}
