@@ -3,7 +3,7 @@
   "asset": "eigenlayer",
   "platform": "ethereum",
   "type": "token",
-  "name": "EigenLayer",
+  "name": "EigenCloud",
   "symbol": "EIGEN",
   "address": "0xec53bf9167f50cdeb3ae105f56099aaab9061f83",
   "decimals": 18,
