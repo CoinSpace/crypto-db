@@ -1,0 +1,18 @@
+{
+  "_id": "boson-protocol@base",
+  "asset": "boson-protocol",
+  "platform": "base",
+  "type": "token",
+  "name": "Boson Protocol",
+  "symbol": "BOSON",
+  "address": "0x2192607c3cba9ec3d490206d10d831e68e5f3c97",
+  "decimals": 18,
+  "logo": "boson-protocol.svg",
+  "coingecko": {
+    "id": "boson-protocol"
+  },
+  "coinmarketcap": {
+    "id": 8827,
+    "slug": "boson-protocol"
+  }
+}

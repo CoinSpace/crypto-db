@@ -1,0 +1,18 @@
+{
+  "_id": "usd-coin@ripple",
+  "asset": "usd-coin",
+  "platform": "ripple",
+  "type": "token",
+  "name": "USDC",
+  "symbol": "USDC",
+  "address": "5553444300000000000000000000000000000000.rGm7WCVp9gb4jZHWTEtGUr4dd74z2XuWhE",
+  "logo": "usd-coin.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "usd-coin"
+  },
+  "coinmarketcap": {
+    "id": 3408,
+    "slug": "usd-coin"
+  }
+}

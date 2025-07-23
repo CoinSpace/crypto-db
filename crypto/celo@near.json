@@ -1,0 +1,18 @@
+{
+  "_id": "celo@near",
+  "asset": "celo",
+  "platform": "near",
+  "type": "token",
+  "name": "Celo",
+  "symbol": "CELO",
+  "address": "celo.token.a11bd.near",
+  "logo": "celo.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "celo"
+  },
+  "coinmarketcap": {
+    "id": 5567,
+    "slug": "celo"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "gemini-dollar@near",
+  "asset": "gemini-dollar",
+  "platform": "near",
+  "type": "token",
+  "name": "Gemini Dollar",
+  "symbol": "GUSD",
+  "address": "056fd409e1d7a124bd7017459dfea2f387b6d5cd.factory.bridge.near",
+  "logo": "gemini-dollar.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "gemini-dollar"
+  },
+  "coinmarketcap": {
+    "id": 3306,
+    "slug": "gemini-dollar"
+  }
+}

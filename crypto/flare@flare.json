@@ -1,0 +1,17 @@
+{
+  "_id": "flare@flare",
+  "asset": "flare",
+  "platform": "flare",
+  "type": "coin",
+  "name": "Flare",
+  "symbol": "FLR",
+  "logo": "flare.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "flare-networks"
+  },
+  "coinmarketcap": {
+    "id": 7950,
+    "slug": "flare"
+  }
+}

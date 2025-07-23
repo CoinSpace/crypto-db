@@ -1,0 +1,18 @@
+{
+  "_id": "compound@near",
+  "asset": "compound",
+  "platform": "near",
+  "type": "token",
+  "name": "Compound",
+  "symbol": "COMP",
+  "address": "c00e94cb662c3520282e6f5717214004a7f26888.factory.bridge.near",
+  "logo": "compound.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "compound-governance-token"
+  },
+  "coinmarketcap": {
+    "id": 5692,
+    "slug": "compound"
+  }
+}

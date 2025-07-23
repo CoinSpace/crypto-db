@@ -1,0 +1,18 @@
+{
+  "_id": "yearn-finance@near",
+  "asset": "yearn-finance",
+  "platform": "near",
+  "type": "token",
+  "name": "yearn.finance",
+  "symbol": "YFI",
+  "address": "0bc529c00c6401aef6d220be8c6ea1667f6ad93e.factory.bridge.near",
+  "logo": "yearn-finance.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "yearn-finance"
+  },
+  "coinmarketcap": {
+    "id": 5864,
+    "slug": "yearn-finance"
+  }
+}

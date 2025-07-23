@@ -1,0 +1,18 @@
+{
+  "_id": "woo-network@near",
+  "asset": "woo-network",
+  "platform": "near",
+  "type": "token",
+  "name": "WOO",
+  "symbol": "WOO",
+  "address": "4691937a7508860f876c9c0a2a617e7d9e945d4b.factory.bridge.near",
+  "logo": "woo-network.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "woo-network"
+  },
+  "coinmarketcap": {
+    "id": 7501,
+    "slug": "wootrade"
+  }
+}

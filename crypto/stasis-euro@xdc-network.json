@@ -1,0 +1,18 @@
+{
+  "_id": "stasis-euro@xdc-network",
+  "asset": "stasis-euro",
+  "platform": "xdc-network",
+  "type": "token",
+  "name": "STASIS EURO",
+  "symbol": "EURS",
+  "address": "0x1ebb2c8a71a9ec59bf558886a8adf8f4a565814f",
+  "logo": "stasis-euro.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "stasis-eurs"
+  },
+  "coinmarketcap": {
+    "id": 2989,
+    "slug": "stasis-euro"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "my-neighbor-alice@solana",
+  "asset": "my-neighbor-alice",
+  "platform": "solana",
+  "type": "token",
+  "name": "MyNeighborAlice",
+  "symbol": "ALICE",
+  "address": "9ARQsBfAn65q522cEqSJuse3cLhA31jgWDBGQHeiq7Mg",
+  "decimals": 6,
+  "logo": "my-neighbor-alice.svg",
+  "coingecko": {
+    "id": "my-neighbor-alice"
+  },
+  "coinmarketcap": {
+    "id": 8766,
+    "slug": "myneighboralice"
+  }
+}

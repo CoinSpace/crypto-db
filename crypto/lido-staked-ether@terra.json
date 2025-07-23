@@ -1,0 +1,18 @@
+{
+  "_id": "lido-staked-ether@terra",
+  "asset": "lido-staked-ether",
+  "platform": "terra",
+  "type": "token",
+  "name": "Lido Staked ETH",
+  "symbol": "STETH",
+  "address": "terra1w7ywr6waxtjuvn5svk5wqydqpjj0q9ps7qct4d",
+  "logo": "lido-staked-ether.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "staked-ether"
+  },
+  "coinmarketcap": {
+    "id": 8085,
+    "slug": "steth"
+  }
+}

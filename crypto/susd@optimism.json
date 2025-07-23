@@ -1,0 +1,18 @@
+{
+  "_id": "susd@optimism",
+  "asset": "susd",
+  "platform": "optimism",
+  "type": "token",
+  "name": "sUSD",
+  "symbol": "SUSD",
+  "address": "0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9",
+  "decimals": 18,
+  "logo": "susd.svg",
+  "coingecko": {
+    "id": "nusd"
+  },
+  "coinmarketcap": {
+    "id": 2927,
+    "slug": "susd"
+  }
+}

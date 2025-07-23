@@ -1,0 +1,18 @@
+{
+  "_id": "livepeer@harmony",
+  "asset": "livepeer",
+  "platform": "harmony",
+  "type": "token",
+  "name": "Livepeer",
+  "symbol": "LPT",
+  "address": "0xbd3e698b51d340cc53b0cc549b598c13e0172b7c",
+  "logo": "livepeer.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "livepeer"
+  },
+  "coinmarketcap": {
+    "id": 3640,
+    "slug": "livepeer"
+  }
+}

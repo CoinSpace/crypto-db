@@ -1,0 +1,18 @@
+{
+  "_id": "basic-attention-token@near",
+  "asset": "basic-attention-token",
+  "platform": "near",
+  "type": "token",
+  "name": "Basic Attention Token",
+  "symbol": "BAT",
+  "address": "0d8775f648430679a709e98d2b0cb6250d2887ef.factory.bridge.near",
+  "logo": "basic-attention-token.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "basic-attention-token"
+  },
+  "coinmarketcap": {
+    "id": 1697,
+    "slug": "basic-attention-token"
+  }
+}

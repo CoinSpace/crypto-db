@@ -1,0 +1,18 @@
+{
+  "_id": "ampleforth-governance-token@near",
+  "asset": "ampleforth-governance-token",
+  "platform": "near",
+  "type": "token",
+  "name": "Ampleforth Governance Token",
+  "symbol": "FORTH",
+  "address": "77fba179c79de5b7653f68b5039af940ada60ce0.factory.bridge.near",
+  "logo": "ampleforth-governance-token.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "ampleforth-governance-token"
+  },
+  "coinmarketcap": {
+    "id": 9421,
+    "slug": "ampleforth-governance-token"
+  }
+}

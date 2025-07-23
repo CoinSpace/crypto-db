@@ -1,0 +1,18 @@
+{
+  "_id": "celo-dollar@near",
+  "asset": "celo-dollar",
+  "platform": "near",
+  "type": "token",
+  "name": "Celo Dollar",
+  "symbol": "CUSD",
+  "address": "cusd.token.a11bd.near",
+  "logo": "celo-dollar.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "celo-dollar"
+  },
+  "coinmarketcap": {
+    "id": 7236,
+    "slug": "celo-dollar"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "zcash@near",
+  "asset": "zcash",
+  "platform": "near",
+  "type": "token",
+  "name": "Zcash",
+  "symbol": "ZEC",
+  "address": "zec.omft.near",
+  "logo": "zcash.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "zcash"
+  },
+  "coinmarketcap": {
+    "id": 1437,
+    "slug": "zcash"
+  }
+}

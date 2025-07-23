@@ -1,0 +1,18 @@
+{
+  "_id": "aavegotchi@base",
+  "asset": "aavegotchi",
+  "platform": "base",
+  "type": "token",
+  "name": "Aavegotchi",
+  "symbol": "GHST",
+  "address": "0xcd2f22236dd9dfe2356d7c543161d4d260fd9bcb",
+  "decimals": 18,
+  "logo": "aavegotchi.svg",
+  "coingecko": {
+    "id": "aavegotchi"
+  },
+  "coinmarketcap": {
+    "id": 7046,
+    "slug": "aavegotchi"
+  }
+}

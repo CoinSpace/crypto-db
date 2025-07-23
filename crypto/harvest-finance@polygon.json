@@ -1,0 +1,18 @@
+{
+  "_id": "harvest-finance@polygon",
+  "asset": "harvest-finance",
+  "platform": "polygon",
+  "type": "token",
+  "name": "Harvest Finance",
+  "symbol": "FARM",
+  "address": "0x176f5ab638cf4ff3b6239ba609c3fadaa46ef5b0",
+  "decimals": 18,
+  "logo": "harvest-finance.svg",
+  "coingecko": {
+    "id": "harvest-finance"
+  },
+  "coinmarketcap": {
+    "id": 6859,
+    "slug": "harvest-finance"
+  }
+}
