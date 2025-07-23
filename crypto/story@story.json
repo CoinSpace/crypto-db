@@ -1,0 +1,17 @@
+{
+  "_id": "story@story",
+  "asset": "story",
+  "platform": "story",
+  "type": "coin",
+  "name": "Story",
+  "symbol": "IP",
+  "logo": "story.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "story-2"
+  },
+  "coinmarketcap": {
+    "id": 35626,
+    "slug": "story-protocol"
+  }
+}

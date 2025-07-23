@@ -1,0 +1,17 @@
+{
+  "_id": "conflux@conflux",
+  "asset": "conflux",
+  "platform": "conflux",
+  "type": "coin",
+  "name": "Conflux",
+  "symbol": "CFX",
+  "logo": "conflux.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "conflux-token"
+  },
+  "coinmarketcap": {
+    "id": 7334,
+    "slug": "conflux-network"
+  }
+}
