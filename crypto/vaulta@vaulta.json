@@ -1,0 +1,17 @@
+{
+  "_id": "vaulta@vaulta",
+  "asset": "vaulta",
+  "platform": "vaulta",
+  "type": "coin",
+  "name": "Vaulta",
+  "symbol": "A",
+  "logo": "vaulta.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "vaulta"
+  },
+  "coinmarketcap": {
+    "id": 36462,
+    "slug": "vaulta"
+  }
+}

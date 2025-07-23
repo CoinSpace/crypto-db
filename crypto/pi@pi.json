@@ -1,0 +1,17 @@
+{
+  "_id": "pi@pi",
+  "asset": "pi",
+  "platform": "pi",
+  "type": "coin",
+  "name": "Pi",
+  "symbol": "PI",
+  "logo": "pi.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "pi-network"
+  },
+  "coinmarketcap": {
+    "id": 35697,
+    "slug": "pi"
+  }
+}
