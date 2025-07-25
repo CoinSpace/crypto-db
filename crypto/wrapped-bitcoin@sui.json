@@ -1,0 +1,18 @@
+{
+  "_id": "wrapped-bitcoin@sui",
+  "asset": "wrapped-bitcoin",
+  "platform": "sui",
+  "type": "token",
+  "name": "Wrapped Bitcoin",
+  "symbol": "WBTC",
+  "address": "0xaafb102dd0902f5055cadecd687fb5b71ca82ef0e0285d90afde828ec58ca96b::btc::BTC",
+  "decimals": 8,
+  "logo": "wrapped-bitcoin.svg",
+  "coingecko": {
+    "id": "wrapped-bitcoin"
+  },
+  "coinmarketcap": {
+    "id": 3717,
+    "slug": "wrapped-bitcoin"
+  }
+}

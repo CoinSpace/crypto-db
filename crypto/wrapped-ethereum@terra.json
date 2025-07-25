@@ -1,0 +1,17 @@
+{
+  "_id": "wrapped-ethereum@terra",
+  "asset": "wrapped-ethereum",
+  "platform": "terra",
+  "type": "token",
+  "name": "WETH",
+  "symbol": "WETH",
+  "address": "terra14tl83xcwqjy0ken9peu4pjjuu755lrry2uy25r",
+  "logo": "wrapped-ethereum.svg",
+  "coingecko": {
+    "id": "weth"
+  },
+  "coinmarketcap": {
+    "id": 2396,
+    "slug": "weth"
+  }
+}

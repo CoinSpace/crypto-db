@@ -1,0 +1,17 @@
+{
+  "_id": "usd-coin@near",
+  "asset": "usd-coin",
+  "platform": "near",
+  "type": "token",
+  "name": "USDC",
+  "symbol": "USDC",
+  "address": "a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.factory.bridge.near",
+  "logo": "usd-coin.svg",
+  "coingecko": {
+    "id": "usd-coin"
+  },
+  "coinmarketcap": {
+    "id": 3408,
+    "slug": "usd-coin"
+  }
+}

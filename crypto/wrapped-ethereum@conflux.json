@@ -1,0 +1,17 @@
+{
+  "_id": "wrapped-ethereum@conflux",
+  "asset": "wrapped-ethereum",
+  "platform": "conflux",
+  "type": "token",
+  "name": "WETH",
+  "symbol": "WETH",
+  "address": "0xa47f43de2f9623acb395ca4905746496d2014d57",
+  "logo": "wrapped-ethereum.svg",
+  "coingecko": {
+    "id": "weth"
+  },
+  "coinmarketcap": {
+    "id": 2396,
+    "slug": "weth"
+  }
+}

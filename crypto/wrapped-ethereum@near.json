@@ -1,0 +1,17 @@
+{
+  "_id": "wrapped-ethereum@near",
+  "asset": "wrapped-ethereum",
+  "platform": "near",
+  "type": "token",
+  "name": "WETH",
+  "symbol": "WETH",
+  "address": "c02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.factory.bridge.near",
+  "logo": "wrapped-ethereum.svg",
+  "coingecko": {
+    "id": "weth"
+  },
+  "coinmarketcap": {
+    "id": 2396,
+    "slug": "weth"
+  }
+}

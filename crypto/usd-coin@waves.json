@@ -1,0 +1,17 @@
+{
+  "_id": "usd-coin@waves",
+  "asset": "usd-coin",
+  "platform": "waves",
+  "type": "token",
+  "name": "USDC",
+  "symbol": "USDC",
+  "address": "EbTKFzaVrrc4ZTdybxt6xVN4iNVmMUzxMrxKzBiaihU8",
+  "logo": "usd-coin.svg",
+  "coingecko": {
+    "id": "usd-coin"
+  },
+  "coinmarketcap": {
+    "id": 3408,
+    "slug": "usd-coin"
+  }
+}

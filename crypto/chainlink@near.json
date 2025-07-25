@@ -1,0 +1,17 @@
+{
+  "_id": "chainlink@near",
+  "asset": "chainlink",
+  "platform": "near",
+  "type": "token",
+  "name": "Chainlink",
+  "symbol": "LINK",
+  "address": "514910771af9ca656af840dff83e8264ecf986ca.factory.bridge.near",
+  "logo": "chainlink.svg",
+  "coingecko": {
+    "id": "chainlink"
+  },
+  "coinmarketcap": {
+    "id": 1975,
+    "slug": "chainlink"
+  }
+}

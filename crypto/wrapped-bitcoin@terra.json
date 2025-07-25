@@ -1,0 +1,17 @@
+{
+  "_id": "wrapped-bitcoin@terra",
+  "asset": "wrapped-bitcoin",
+  "platform": "terra",
+  "type": "token",
+  "name": "Wrapped Bitcoin",
+  "symbol": "WBTC",
+  "address": "terra1aa7upykmmqqc63l924l5qfap8mrmx5rfdm0v55",
+  "logo": "wrapped-bitcoin.svg",
+  "coingecko": {
+    "id": "wrapped-bitcoin"
+  },
+  "coinmarketcap": {
+    "id": 3717,
+    "slug": "wrapped-bitcoin"
+  }
+}

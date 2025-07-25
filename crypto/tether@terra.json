@@ -1,0 +1,17 @@
+{
+  "_id": "tether@terra",
+  "asset": "tether",
+  "platform": "terra",
+  "type": "token",
+  "name": "Tether",
+  "symbol": "USDT",
+  "address": "terra1ce06wkrdm4vl6t0hvc0g86rsy27pu8yadg3dva",
+  "logo": "tether.svg",
+  "coingecko": {
+    "id": "tether"
+  },
+  "coinmarketcap": {
+    "id": 825,
+    "slug": "tether"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "yield-guild-games@harmony",
+  "asset": "yield-guild-games",
+  "platform": "harmony",
+  "type": "token",
+  "name": "Yield Guild Games",
+  "symbol": "YGG",
+  "address": "0x63cf309500d8be0b9fdb8f1fb66c821236c0438c",
+  "logo": "yield-guild-games.svg",
+  "coingecko": {
+    "id": "yield-guild-games"
+  },
+  "coinmarketcap": {
+    "id": 10688,
+    "slug": "yield-guild-games"
+  }
+}

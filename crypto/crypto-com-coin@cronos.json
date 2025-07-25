@@ -1,0 +1,17 @@
+{
+  "_id": "crypto-com-coin@cronos",
+  "asset": "crypto-com-coin",
+  "platform": "cronos",
+  "type": "coin",
+  "name": "Cronos",
+  "symbol": "CRO",
+  "logo": "crypto-com-coin.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "crypto-com-chain"
+  },
+  "coinmarketcap": {
+    "id": 3635,
+    "slug": "cronos"
+  }
+}

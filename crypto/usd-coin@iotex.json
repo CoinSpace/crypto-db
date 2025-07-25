@@ -1,0 +1,17 @@
+{
+  "_id": "usd-coin@iotex",
+  "asset": "usd-coin",
+  "platform": "iotex",
+  "type": "token",
+  "name": "USDC",
+  "symbol": "USDC",
+  "address": "0x3b2bf2b523f54c4e454f08aa286d03115aff326c",
+  "logo": "usd-coin.svg",
+  "coingecko": {
+    "id": "usd-coin"
+  },
+  "coinmarketcap": {
+    "id": 3408,
+    "slug": "usd-coin"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "fetch-ai@fetch-ai",
+  "asset": "fetch-ai",
+  "platform": "fetch-ai",
+  "type": "coin",
+  "name": "Artificial Superintelligence Alliance",
+  "symbol": "FET",
+  "logo": "fetch-ai.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "fetch-ai"
+  },
+  "coinmarketcap": {
+    "id": 3773,
+    "slug": "artificial-superintelligence-alliance"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "chainlink@terra",
+  "asset": "chainlink",
+  "platform": "terra",
+  "type": "token",
+  "name": "Chainlink",
+  "symbol": "LINK",
+  "address": "terra12dfv3f0e6m22z6cnhfn3nxk2en3z3zeqy6ctym",
+  "logo": "chainlink.svg",
+  "coingecko": {
+    "id": "chainlink"
+  },
+  "coinmarketcap": {
+    "id": 1975,
+    "slug": "chainlink"
+  }
+}

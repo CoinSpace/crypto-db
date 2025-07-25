@@ -1,0 +1,17 @@
+{
+  "_id": "usd-coin@aptos",
+  "asset": "usd-coin",
+  "platform": "aptos",
+  "type": "token",
+  "name": "USDC",
+  "symbol": "USDC",
+  "address": "0xbae207659db88bea0cbead6da0ed00aac12edcdda169e591cd41c94180b46f3b",
+  "logo": "usd-coin.svg",
+  "coingecko": {
+    "id": "usd-coin"
+  },
+  "coinmarketcap": {
+    "id": 3408,
+    "slug": "usd-coin"
+  }
+}

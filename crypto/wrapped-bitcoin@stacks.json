@@ -1,0 +1,17 @@
+{
+  "_id": "wrapped-bitcoin@stacks",
+  "asset": "wrapped-bitcoin",
+  "platform": "stacks",
+  "type": "token",
+  "name": "Wrapped Bitcoin",
+  "symbol": "WBTC",
+  "address": "SP3K8BC0PPEVCV7NZ6QSRWPQ2JE9E5B6N3PA0KBR9.token-wbtc",
+  "logo": "wrapped-bitcoin.svg",
+  "coingecko": {
+    "id": "wrapped-bitcoin"
+  },
+  "coinmarketcap": {
+    "id": 3717,
+    "slug": "wrapped-bitcoin"
+  }
+}

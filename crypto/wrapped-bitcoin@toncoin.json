@@ -1,0 +1,18 @@
+{
+  "_id": "wrapped-bitcoin@toncoin",
+  "asset": "wrapped-bitcoin",
+  "platform": "toncoin",
+  "type": "token",
+  "name": "Wrapped Bitcoin",
+  "symbol": "WBTC",
+  "address": "EQDcBkGHmC4pTf34x3Gm05XvepO5w60DNxZ-XT4I6-UGG5L5",
+  "decimals": 8,
+  "logo": "wrapped-bitcoin.svg",
+  "coingecko": {
+    "id": "wrapped-bitcoin"
+  },
+  "coinmarketcap": {
+    "id": 3717,
+    "slug": "wrapped-bitcoin"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "wrapped-bitcoin@iotex",
+  "asset": "wrapped-bitcoin",
+  "platform": "iotex",
+  "type": "token",
+  "name": "Wrapped Bitcoin",
+  "symbol": "WBTC",
+  "address": "0xc7b93720f73b037394ce00f954f849ed484a3dea",
+  "logo": "wrapped-bitcoin.svg",
+  "coingecko": {
+    "id": "wrapped-bitcoin"
+  },
+  "coinmarketcap": {
+    "id": 3717,
+    "slug": "wrapped-bitcoin"
+  }
+}

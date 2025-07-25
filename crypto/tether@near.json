@@ -1,0 +1,17 @@
+{
+  "_id": "tether@near",
+  "asset": "tether",
+  "platform": "near",
+  "type": "token",
+  "name": "Tether",
+  "symbol": "USDT",
+  "address": "dac17f958d2ee523a2206206994597c13d831ec7.factory.bridge.near",
+  "logo": "tether.svg",
+  "coingecko": {
+    "id": "tether"
+  },
+  "coinmarketcap": {
+    "id": 825,
+    "slug": "tether"
+  }
+}

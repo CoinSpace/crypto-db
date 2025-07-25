@@ -1,0 +1,17 @@
+{
+  "_id": "wrapped-ethereum@zilliqa",
+  "asset": "wrapped-ethereum",
+  "platform": "zilliqa",
+  "type": "token",
+  "name": "WETH",
+  "symbol": "WETH",
+  "address": "zil19j33tapjje2xzng7svslnsjjjgge930jx0w09v",
+  "logo": "wrapped-ethereum.svg",
+  "coingecko": {
+    "id": "weth"
+  },
+  "coinmarketcap": {
+    "id": 2396,
+    "slug": "weth"
+  }
+}

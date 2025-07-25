@@ -1,0 +1,17 @@
+{
+  "_id": "tether@zilliqa",
+  "asset": "tether",
+  "platform": "zilliqa",
+  "type": "token",
+  "name": "Tether",
+  "symbol": "USDT",
+  "address": "zil1sxx29cshups269ahh5qjffyr58mxjv9ft78jqy",
+  "logo": "tether.svg",
+  "coingecko": {
+    "id": "tether"
+  },
+  "coinmarketcap": {
+    "id": 825,
+    "slug": "tether"
+  }
+}

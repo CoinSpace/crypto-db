@@ -1,0 +1,18 @@
+{
+  "_id": "ankreth@polygon",
+  "asset": "ankreth",
+  "platform": "polygon",
+  "type": "token",
+  "name": "Ankr Staked ETH",
+  "symbol": "ANKRETH",
+  "address": "0xc4e82ba0fe6763cbe5e9cbca0ba7cbd6f91c6018",
+  "decimals": 18,
+  "logo": "ankreth.svg",
+  "coingecko": {
+    "id": "ankreth"
+  },
+  "coinmarketcap": {
+    "id": 8100,
+    "slug": "ankreth"
+  }
+}

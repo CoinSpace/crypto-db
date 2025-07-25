@@ -1,0 +1,18 @@
+{
+  "_id": "wrapped-bitcoin@fantom",
+  "asset": "wrapped-bitcoin",
+  "platform": "fantom",
+  "type": "token",
+  "name": "Wrapped Bitcoin",
+  "symbol": "WBTC",
+  "address": "0x321162cd933e2be498cd2267a90534a804051b11",
+  "decimals": 8,
+  "logo": "wrapped-bitcoin.svg",
+  "coingecko": {
+    "id": "wrapped-bitcoin"
+  },
+  "coinmarketcap": {
+    "id": 3717,
+    "slug": "wrapped-bitcoin"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "wrapped-bitcoin@near",
+  "asset": "wrapped-bitcoin",
+  "platform": "near",
+  "type": "token",
+  "name": "Wrapped Bitcoin",
+  "symbol": "WBTC",
+  "address": "2260fac5e5542a773aa44fbcfedf7c193bc2c599.factory.bridge.near",
+  "logo": "wrapped-bitcoin.svg",
+  "coingecko": {
+    "id": "wrapped-bitcoin"
+  },
+  "coinmarketcap": {
+    "id": 3717,
+    "slug": "wrapped-bitcoin"
+  }
+}

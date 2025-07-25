@@ -1,0 +1,17 @@
+{
+  "_id": "euro-coin@stellar",
+  "asset": "euro-coin",
+  "platform": "stellar",
+  "type": "token",
+  "name": "EURC",
+  "symbol": "EURC",
+  "address": "EURC-GDHU6WRG4IEQXM5NZ4BMPKOXHW76MZM4Y2IEMFDVXBSDP6SJY4ITNPP2",
+  "logo": "euro-coin.svg",
+  "coingecko": {
+    "id": "euro-coin"
+  },
+  "coinmarketcap": {
+    "id": 20641,
+    "slug": "euro-coin"
+  }
+}

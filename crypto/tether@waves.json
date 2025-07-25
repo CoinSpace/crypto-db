@@ -1,0 +1,17 @@
+{
+  "_id": "tether@waves",
+  "asset": "tether",
+  "platform": "waves",
+  "type": "token",
+  "name": "Tether",
+  "symbol": "USDT",
+  "address": "B45iYkZVC9cudR2yxrsJnrM75StiTrwphbfQ7xkyisip",
+  "logo": "tether.svg",
+  "coingecko": {
+    "id": "tether"
+  },
+  "coinmarketcap": {
+    "id": 825,
+    "slug": "tether"
+  }
+}

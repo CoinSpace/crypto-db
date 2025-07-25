@@ -1,0 +1,17 @@
+{
+  "_id": "usd-coin@harmony",
+  "asset": "usd-coin",
+  "platform": "harmony",
+  "type": "token",
+  "name": "USDC",
+  "symbol": "USDC",
+  "address": "0x985458e523db3d53125813ed68c274899e9dfab4",
+  "logo": "usd-coin.svg",
+  "coingecko": {
+    "id": "usd-coin"
+  },
+  "coinmarketcap": {
+    "id": 3408,
+    "slug": "usd-coin"
+  }
+}

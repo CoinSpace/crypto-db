@@ -1,0 +1,17 @@
+{
+  "_id": "wrapped-ethereum@aptos",
+  "asset": "wrapped-ethereum",
+  "platform": "aptos",
+  "type": "token",
+  "name": "WETH",
+  "symbol": "WETH",
+  "address": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::WETH",
+  "logo": "wrapped-ethereum.svg",
+  "coingecko": {
+    "id": "weth"
+  },
+  "coinmarketcap": {
+    "id": 2396,
+    "slug": "weth"
+  }
+}

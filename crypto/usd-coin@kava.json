@@ -1,0 +1,17 @@
+{
+  "_id": "usd-coin@kava",
+  "asset": "usd-coin",
+  "platform": "kava",
+  "type": "token",
+  "name": "USDC",
+  "symbol": "USDC",
+  "address": "0xfa9343c3897324496a05fc75abed6bac29f8a40f",
+  "logo": "usd-coin.svg",
+  "coingecko": {
+    "id": "usd-coin"
+  },
+  "coinmarketcap": {
+    "id": 3408,
+    "slug": "usd-coin"
+  }
+}

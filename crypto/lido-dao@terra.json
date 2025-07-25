@@ -1,0 +1,17 @@
+{
+  "_id": "lido-dao@terra",
+  "asset": "lido-dao",
+  "platform": "terra",
+  "type": "token",
+  "name": "Lido DAO",
+  "symbol": "LDO",
+  "address": "terra1jxypgnfa07j6w92wazzyskhreq2ey2a5crgt6z",
+  "logo": "lido-dao.svg",
+  "coingecko": {
+    "id": "lido-dao"
+  },
+  "coinmarketcap": {
+    "id": 8000,
+    "slug": "lido-dao"
+  }
+}

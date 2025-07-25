@@ -1,0 +1,17 @@
+{
+  "_id": "tether@algorand",
+  "asset": "tether",
+  "platform": "algorand",
+  "type": "token",
+  "name": "Tether",
+  "symbol": "USDT",
+  "address": "312769",
+  "logo": "tether.svg",
+  "coingecko": {
+    "id": "tether"
+  },
+  "coinmarketcap": {
+    "id": 825,
+    "slug": "tether"
+  }
+}

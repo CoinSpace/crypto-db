@@ -1,0 +1,17 @@
+{
+  "_id": "usd-coin@terra",
+  "asset": "usd-coin",
+  "platform": "terra",
+  "type": "token",
+  "name": "USDC",
+  "symbol": "USDC",
+  "address": "terra1pvel56a2hs93yd429pzv9zp5aptcjg5ulhkz7w",
+  "logo": "usd-coin.svg",
+  "coingecko": {
+    "id": "usd-coin"
+  },
+  "coinmarketcap": {
+    "id": 3408,
+    "slug": "usd-coin"
+  }
+}

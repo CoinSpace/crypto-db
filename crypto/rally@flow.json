@@ -1,0 +1,17 @@
+{
+  "_id": "rally@flow",
+  "asset": "rally",
+  "platform": "flow",
+  "type": "token",
+  "name": "Rally",
+  "symbol": "RLY",
+  "address": "A.231cc0dbbcffc4b7.RLY",
+  "logo": "rally.svg",
+  "coingecko": {
+    "id": "rally-2"
+  },
+  "coinmarketcap": {
+    "id": 8075,
+    "slug": "rally"
+  }
+}

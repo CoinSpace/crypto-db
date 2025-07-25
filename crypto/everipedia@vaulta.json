@@ -1,0 +1,17 @@
+{
+  "_id": "everipedia@vaulta",
+  "asset": "everipedia",
+  "platform": "vaulta",
+  "type": "token",
+  "name": "IQ",
+  "symbol": "IQ",
+  "address": "everipediaiq",
+  "logo": "everipedia.svg",
+  "coingecko": {
+    "id": "everipedia"
+  },
+  "coinmarketcap": {
+    "id": 2930,
+    "slug": "iq"
+  }
+}

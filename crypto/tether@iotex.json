@@ -1,0 +1,17 @@
+{
+  "_id": "tether@iotex",
+  "asset": "tether",
+  "platform": "iotex",
+  "type": "token",
+  "name": "Tether",
+  "symbol": "USDT",
+  "address": "0x6fbcdc1169b5130c59e72e51ed68a84841c98cd1",
+  "logo": "tether.svg",
+  "coingecko": {
+    "id": "tether"
+  },
+  "coinmarketcap": {
+    "id": 825,
+    "slug": "tether"
+  }
+}

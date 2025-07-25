@@ -1,0 +1,17 @@
+{
+  "_id": "binance-usd@harmony",
+  "asset": "binance-usd",
+  "platform": "harmony",
+  "type": "token",
+  "name": "BUSD",
+  "symbol": "BUSD",
+  "address": "0xe176ebe47d621b984a73036b9da5d834411ef734",
+  "logo": "binance-usd.svg",
+  "coingecko": {
+    "id": "binance-usd"
+  },
+  "coinmarketcap": {
+    "id": 4687,
+    "slug": "binance-usd"
+  }
+}

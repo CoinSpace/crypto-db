@@ -1,0 +1,17 @@
+{
+  "_id": "wrapped-bitcoin@conflux",
+  "asset": "wrapped-bitcoin",
+  "platform": "conflux",
+  "type": "token",
+  "name": "Wrapped Bitcoin",
+  "symbol": "WBTC",
+  "address": "0x1f545487c62e5acfea45dcadd9c627361d1616d8",
+  "logo": "wrapped-bitcoin.svg",
+  "coingecko": {
+    "id": "wrapped-bitcoin"
+  },
+  "coinmarketcap": {
+    "id": 3717,
+    "slug": "wrapped-bitcoin"
+  }
+}

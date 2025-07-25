@@ -1,0 +1,17 @@
+{
+  "_id": "dai@near",
+  "asset": "dai",
+  "platform": "near",
+  "type": "token",
+  "name": "Dai",
+  "symbol": "DAI",
+  "address": "6b175474e89094c44da98b954eedeac495271d0f.factory.bridge.near",
+  "logo": "dai.svg",
+  "coingecko": {
+    "id": "dai"
+  },
+  "coinmarketcap": {
+    "id": 4943,
+    "slug": "multi-collateral-dai"
+  }
+}

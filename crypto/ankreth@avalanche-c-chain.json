@@ -1,0 +1,18 @@
+{
+  "_id": "ankreth@avalanche-c-chain",
+  "asset": "ankreth",
+  "platform": "avalanche-c-chain",
+  "type": "token",
+  "name": "Ankr Staked ETH",
+  "symbol": "ANKRETH",
+  "address": "0x12d8ce035c5de3ce39b1fdd4c1d5a745eaba3b8c",
+  "decimals": 18,
+  "logo": "ankreth.svg",
+  "coingecko": {
+    "id": "ankreth"
+  },
+  "coinmarketcap": {
+    "id": 8100,
+    "slug": "ankreth"
+  }
+}

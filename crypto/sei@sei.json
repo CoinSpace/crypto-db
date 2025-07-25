@@ -1,0 +1,17 @@
+{
+  "_id": "sei@sei",
+  "asset": "sei",
+  "platform": "sei",
+  "type": "coin",
+  "name": "Sei",
+  "symbol": "SEI",
+  "logo": "sei.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "sei-network"
+  },
+  "coinmarketcap": {
+    "id": 23149,
+    "slug": "sei"
+  }
+}

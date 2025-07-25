@@ -1,0 +1,18 @@
+{
+  "_id": "lido-staked-ether@solana",
+  "asset": "lido-staked-ether",
+  "platform": "solana",
+  "type": "token",
+  "name": "Lido Staked ETH",
+  "symbol": "STETH",
+  "address": "H2mf9QNdU2Niq6QR7367Ua2trBsvscLyX5bz7R3Pw5sE",
+  "decimals": 8,
+  "logo": "lido-staked-ether.svg",
+  "coingecko": {
+    "id": "staked-ether"
+  },
+  "coinmarketcap": {
+    "id": 8085,
+    "slug": "steth"
+  }
+}

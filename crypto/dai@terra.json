@@ -1,0 +1,17 @@
+{
+  "_id": "dai@terra",
+  "asset": "dai",
+  "platform": "terra",
+  "type": "token",
+  "name": "Dai",
+  "symbol": "DAI",
+  "address": "terra1zmclyfepfmqvfqflu8r3lv6f75trmg05z7xq95",
+  "logo": "dai.svg",
+  "coingecko": {
+    "id": "dai"
+  },
+  "coinmarketcap": {
+    "id": 4943,
+    "slug": "multi-collateral-dai"
+  }
+}

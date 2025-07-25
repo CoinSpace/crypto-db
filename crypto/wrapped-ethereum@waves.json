@@ -1,0 +1,17 @@
+{
+  "_id": "wrapped-ethereum@waves",
+  "asset": "wrapped-ethereum",
+  "platform": "waves",
+  "type": "token",
+  "name": "WETH",
+  "symbol": "WETH",
+  "address": "AEvGpbS2BkKMtvpQAe2fdKVKg3yampiMvrNVLPXy25ML",
+  "logo": "wrapped-ethereum.svg",
+  "coingecko": {
+    "id": "weth"
+  },
+  "coinmarketcap": {
+    "id": 2396,
+    "slug": "weth"
+  }
+}

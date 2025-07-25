@@ -1,0 +1,17 @@
+{
+  "_id": "dai@harmony",
+  "asset": "dai",
+  "platform": "harmony",
+  "type": "token",
+  "name": "Dai",
+  "symbol": "DAI",
+  "address": "0xef977d2f931c1978db5f6747666fa1eacb0d0339",
+  "logo": "dai.svg",
+  "coingecko": {
+    "id": "dai"
+  },
+  "coinmarketcap": {
+    "id": 4943,
+    "slug": "multi-collateral-dai"
+  }
+}

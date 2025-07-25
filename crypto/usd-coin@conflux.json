@@ -1,0 +1,17 @@
+{
+  "_id": "usd-coin@conflux",
+  "asset": "usd-coin",
+  "platform": "conflux",
+  "type": "token",
+  "name": "USDC",
+  "symbol": "USDC",
+  "address": "0x6963efed0ab40f6c3d7bda44a05dcf1437c44372",
+  "logo": "usd-coin.svg",
+  "coingecko": {
+    "id": "usd-coin"
+  },
+  "coinmarketcap": {
+    "id": 3408,
+    "slug": "usd-coin"
+  }
+}

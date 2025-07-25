@@ -1,0 +1,17 @@
+{
+  "_id": "ethereum@tezos",
+  "asset": "ethereum",
+  "platform": "tezos",
+  "type": "token",
+  "name": "Ethereum",
+  "symbol": "ETH",
+  "address": "KT19at7rQUvyjxnZ2fBv7D9zc8rkyG7gAoU8",
+  "logo": "arbitrum.svg",
+  "coingecko": {
+    "id": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 1027,
+    "slug": "ethereum"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "usd-coin@algorand",
+  "asset": "usd-coin",
+  "platform": "algorand",
+  "type": "token",
+  "name": "USDC",
+  "symbol": "USDC",
+  "address": "31566704",
+  "logo": "usd-coin.svg",
+  "coingecko": {
+    "id": "usd-coin"
+  },
+  "coinmarketcap": {
+    "id": 3408,
+    "slug": "usd-coin"
+  }
+}

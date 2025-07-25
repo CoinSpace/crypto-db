@@ -1,0 +1,17 @@
+{
+  "_id": "sushi@harmony",
+  "asset": "sushi",
+  "platform": "harmony",
+  "type": "token",
+  "name": "SushiSwap",
+  "symbol": "SUSHI",
+  "address": "0xbec775cb42abfa4288de81f387a9b1a3c4bc552a",
+  "logo": "sushi.svg",
+  "coingecko": {
+    "id": "sushi"
+  },
+  "coinmarketcap": {
+    "id": 6758,
+    "slug": "sushiswap"
+  }
+}

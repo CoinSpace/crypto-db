@@ -1,0 +1,17 @@
+{
+  "_id": "balancer@near",
+  "asset": "balancer",
+  "platform": "near",
+  "type": "token",
+  "name": "Balancer",
+  "symbol": "BAL",
+  "address": "ba100000625a3754423978a60c9317c58a424e3d.factory.bridge.near",
+  "logo": "balancer.svg",
+  "coingecko": {
+    "id": "balancer"
+  },
+  "coinmarketcap": {
+    "id": 5728,
+    "slug": "balancer"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "wrapped-bitcoin@zilliqa",
+  "asset": "wrapped-bitcoin",
+  "platform": "zilliqa",
+  "type": "token",
+  "name": "Wrapped Bitcoin",
+  "symbol": "WBTC",
+  "address": "zil1wha8mzaxhm22dpm5cav2tepuldnr8kwkvmqtjq",
+  "logo": "wrapped-bitcoin.svg",
+  "coingecko": {
+    "id": "wrapped-bitcoin"
+  },
+  "coinmarketcap": {
+    "id": 3717,
+    "slug": "wrapped-bitcoin"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "usd-coin@hedera-hashgraph",
+  "asset": "usd-coin",
+  "platform": "hedera-hashgraph",
+  "type": "token",
+  "name": "USDC",
+  "symbol": "USDC",
+  "address": "0.0.456858",
+  "logo": "usd-coin.svg",
+  "coingecko": {
+    "id": "usd-coin"
+  },
+  "coinmarketcap": {
+    "id": 3408,
+    "slug": "usd-coin"
+  }
+}
