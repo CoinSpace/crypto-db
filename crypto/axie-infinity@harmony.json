@@ -7,6 +7,7 @@
   "symbol": "AXS",
   "address": "0x14a7b318fed66ffdcc80c1517c172c13852865de",
   "logo": "axie-infinity.svg",
+  "supported": false,
   "coingecko": {
     "id": "axie-infinity"
   },

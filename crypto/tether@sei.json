@@ -1,11 +1,11 @@
 {
-  "_id": "tether@algorand",
+  "_id": "tether@sei",
   "asset": "tether",
-  "platform": "algorand",
+  "platform": "sei",
   "type": "token",
   "name": "Tether",
   "symbol": "USDT",
-  "address": "312769",
+  "address": "0xb75d0b03c06a926e488e2659df1a861f860bd3d1",
   "logo": "tether.svg",
   "supported": false,
   "coingecko": {

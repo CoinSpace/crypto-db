@@ -7,6 +7,7 @@
   "symbol": "WBTC",
   "address": "zil1wha8mzaxhm22dpm5cav2tepuldnr8kwkvmqtjq",
   "logo": "wrapped-bitcoin.svg",
+  "supported": false,
   "coingecko": {
     "id": "wrapped-bitcoin"
   },

@@ -1,11 +1,11 @@
 {
-  "_id": "tether@algorand",
+  "_id": "tether@cronos",
   "asset": "tether",
-  "platform": "algorand",
+  "platform": "cronos",
   "type": "token",
   "name": "Tether",
   "symbol": "USDT",
-  "address": "312769",
+  "address": "0x66e428c3f67a68878562e79a0234c1f83c208770",
   "logo": "tether.svg",
   "supported": false,
   "coingecko": {

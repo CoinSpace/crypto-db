@@ -1,11 +1,11 @@
 {
-  "_id": "dai@terra",
+  "_id": "dai@cronos",
   "asset": "dai",
-  "platform": "terra",
+  "platform": "cronos",
   "type": "token",
   "name": "Dai",
   "symbol": "DAI",
-  "address": "terra1zmclyfepfmqvfqflu8r3lv6f75trmg05z7xq95",
+  "address": "0xf2001b145b43032aaf5ee2884e456ccd805f677d",
   "logo": "dai.svg",
   "supported": false,
   "coingecko": {

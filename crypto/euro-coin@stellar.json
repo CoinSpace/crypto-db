@@ -7,6 +7,7 @@
   "symbol": "EURC",
   "address": "EURC-GDHU6WRG4IEQXM5NZ4BMPKOXHW76MZM4Y2IEMFDVXBSDP6SJY4ITNPP2",
   "logo": "euro-coin.svg",
+  "supported": false,
   "coingecko": {
     "id": "euro-coin"
   },

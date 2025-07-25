@@ -1,11 +1,11 @@
 {
-  "_id": "usd-coin@iotex",
+  "_id": "usd-coin@sei",
   "asset": "usd-coin",
-  "platform": "iotex",
+  "platform": "sei",
   "type": "token",
   "name": "USDC",
   "symbol": "USDC",
-  "address": "0x3b2bf2b523f54c4e454f08aa286d03115aff326c",
+  "address": "0x3894085ef7ff0f0aedf52e2a2704928d1ec074f1",
   "logo": "usd-coin.svg",
   "supported": false,
   "coingecko": {

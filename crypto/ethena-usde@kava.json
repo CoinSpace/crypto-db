@@ -7,6 +7,7 @@
   "symbol": "USDE",
   "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
   "logo": "ethena-usde.svg",
+  "supported": false,
   "coingecko": {
     "id": "ethena-usde"
   },

@@ -1,11 +1,11 @@
 {
-  "_id": "wrapped-ethereum@iotex",
+  "_id": "wrapped-ethereum@sei",
   "asset": "wrapped-ethereum",
-  "platform": "iotex",
+  "platform": "sei",
   "type": "token",
   "name": "WETH",
   "symbol": "WETH",
-  "address": "0x0258866edaf84d6081df17660357ab20a07d0c80",
+  "address": "0x160345fc359604fc6e70e3c5facbde5f7a9342d8",
   "logo": "wrapped-ethereum.svg",
   "supported": false,
   "coingecko": {

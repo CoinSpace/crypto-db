@@ -7,6 +7,7 @@
   "symbol": "USDC",
   "address": "0xfa9343c3897324496a05fc75abed6bac29f8a40f",
   "logo": "usd-coin.svg",
+  "supported": false,
   "coingecko": {
     "id": "usd-coin"
   },

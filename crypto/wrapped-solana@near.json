@@ -7,6 +7,7 @@
   "symbol": "SOL",
   "address": "sol.token.a11bd.near",
   "logo": "solana.svg",
+  "supported": false,
   "coingecko": {
     "id": "wrapped-solana"
   },

@@ -7,6 +7,7 @@
   "symbol": "DAI",
   "address": "6b175474e89094c44da98b954eedeac495271d0f.factory.bridge.near",
   "logo": "dai.svg",
+  "supported": false,
   "coingecko": {
     "id": "dai"
   },

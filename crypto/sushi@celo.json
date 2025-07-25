@@ -7,6 +7,7 @@
   "symbol": "SUSHI",
   "address": "0xd15ec721c2a896512ad29c671997dd68f9593226",
   "logo": "sushi.svg",
+  "supported": false,
   "coingecko": {
     "id": "sushi"
   },

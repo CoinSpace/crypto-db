@@ -7,6 +7,7 @@
   "symbol": "BUSD",
   "address": "0xe176ebe47d621b984a73036b9da5d834411ef734",
   "logo": "binance-usd.svg",
+  "supported": false,
   "coingecko": {
     "id": "binance-usd"
   },

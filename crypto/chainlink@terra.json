@@ -7,6 +7,7 @@
   "symbol": "LINK",
   "address": "terra12dfv3f0e6m22z6cnhfn3nxk2en3z3zeqy6ctym",
   "logo": "chainlink.svg",
+  "supported": false,
   "coingecko": {
     "id": "chainlink"
   },

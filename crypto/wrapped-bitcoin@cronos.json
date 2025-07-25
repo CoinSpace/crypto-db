@@ -1,11 +1,11 @@
 {
-  "_id": "wrapped-bitcoin@conflux",
+  "_id": "wrapped-bitcoin@cronos",
   "asset": "wrapped-bitcoin",
-  "platform": "conflux",
+  "platform": "cronos",
   "type": "token",
   "name": "Wrapped Bitcoin",
   "symbol": "WBTC",
-  "address": "0x1f545487c62e5acfea45dcadd9c627361d1616d8",
+  "address": "0x062e66477faf219f25d27dced647bf57c3107d52",
   "logo": "wrapped-bitcoin.svg",
   "supported": false,
   "coingecko": {

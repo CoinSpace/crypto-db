@@ -7,6 +7,7 @@
   "symbol": "FRAX",
   "address": "853d955acef822db058eb8505911ed77f175b99e.factory.bridge.near",
   "logo": "frax.svg",
+  "supported": false,
   "coingecko": {
     "id": "frax"
   },

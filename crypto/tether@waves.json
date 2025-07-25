@@ -7,6 +7,7 @@
   "symbol": "USDT",
   "address": "B45iYkZVC9cudR2yxrsJnrM75StiTrwphbfQ7xkyisip",
   "logo": "tether.svg",
+  "supported": false,
   "coingecko": {
     "id": "tether"
   },

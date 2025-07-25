@@ -1,0 +1,18 @@
+{
+  "_id": "dogelon-mars@cronos",
+  "asset": "dogelon-mars",
+  "platform": "cronos",
+  "type": "token",
+  "name": "Dogelon Mars",
+  "symbol": "ELON",
+  "address": "0x02dccaf514c98451320a9365c5b46c61d3246ff3",
+  "logo": "dogelon-mars.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "dogelon-mars"
+  },
+  "coinmarketcap": {
+    "id": 9436,
+    "slug": "dogelon"
+  }
+}

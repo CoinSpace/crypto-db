@@ -7,6 +7,7 @@
   "symbol": "WETH",
   "address": "0xa47f43de2f9623acb395ca4905746496d2014d57",
   "logo": "wrapped-ethereum.svg",
+  "supported": false,
   "coingecko": {
     "id": "weth"
   },

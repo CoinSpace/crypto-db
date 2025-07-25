@@ -1,0 +1,18 @@
+{
+  "_id": "cosmos@cronos",
+  "asset": "cosmos",
+  "platform": "cronos",
+  "type": "token",
+  "name": "Cosmos",
+  "symbol": "ATOM",
+  "address": "0xb888d8dd1733d72681b30c00ee76bde93ae7aa93",
+  "logo": "cosmos.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "cosmos"
+  },
+  "coinmarketcap": {
+    "id": 3794,
+    "slug": "cosmos"
+  }
+}

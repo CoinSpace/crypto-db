@@ -1,11 +1,11 @@
 {
-  "_id": "wrapped-ethereum@iotex",
+  "_id": "wrapped-ethereum@cronos",
   "asset": "wrapped-ethereum",
-  "platform": "iotex",
+  "platform": "cronos",
   "type": "token",
   "name": "WETH",
   "symbol": "WETH",
-  "address": "0x0258866edaf84d6081df17660357ab20a07d0c80",
+  "address": "0xe44fd7fcb2b1581822d0c862b68222998a0c299a",
   "logo": "wrapped-ethereum.svg",
   "supported": false,
   "coingecko": {

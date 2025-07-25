@@ -7,6 +7,7 @@
   "symbol": "YGG",
   "address": "0x63cf309500d8be0b9fdb8f1fb66c821236c0438c",
   "logo": "yield-guild-games.svg",
+  "supported": false,
   "coingecko": {
     "id": "yield-guild-games"
   },

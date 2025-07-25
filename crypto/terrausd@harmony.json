@@ -7,6 +7,7 @@
   "symbol": "USTC",
   "address": "0x224e64ec1bdce3870a6a6c777edd450454068fec",
   "logo": "terrausd.png",
+  "supported": false,
   "coingecko": {
     "id": "terrausd"
   },

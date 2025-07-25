@@ -7,6 +7,7 @@
   "symbol": "ORBS",
   "address": "0xaad96d04f00b718b9ed43e39db8e73de61cef8b7",
   "logo": "orbs.svg",
+  "supported": false,
   "coingecko": {
     "id": "orbs"
   },

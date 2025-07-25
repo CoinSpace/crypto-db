@@ -7,6 +7,7 @@
   "symbol": "BONK",
   "address": "0x2a90fae71afc7460ee42b20ee49a9c9b29272905ad71fef92fbd8b3905a24b56",
   "logo": "bonk.svg",
+  "supported": false,
   "coingecko": {
     "id": "bonk"
   },
