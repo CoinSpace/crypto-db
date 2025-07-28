@@ -1,74 +1,77 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 197.9 222.2">
-  <linearGradient id="leo-token_svg__a" x1="56.195" x2="56.195" y1="700.57" y2="798" gradientTransform="translate(-15.82 -616.04)" gradientUnits="userSpaceOnUse">
-    <stop offset="0" stop-color="#f6e93d"/>
-    <stop offset=".13" stop-color="#f8e330"/>
-    <stop offset=".35" stop-color="#f7c730"/>
-    <stop offset=".64" stop-color="#f59c2e"/>
-    <stop offset=".98" stop-color="#eb5e2c"/>
-    <stop offset="1" stop-color="#eb5c2c"/>
-  </linearGradient>
-  <path fill="url(#leo-token_svg__a)" d="M46.1 95.2h.1l1.7.6 1.6.6 1.7.5 1.6.7 1.7.6 1.6.6 1.7.6 1.6.6 1.6.6 1.6.6 1.7.6 1.6.7 1.7.5 1.6.6 1.7.6 1.6.7 1.7.6 1.6.5 1.6.6 1.7.7 1.7.6V84.5H43.9l-1.6.8-3.8 2-3.9 2.1-3.9 1.9-3.7 2-3.9 2.1-3.9 1.9-3.8 2.1-3.9 2-3.8 1.9-3.8 2.1-3.5 1.8-.4 57.3 3.9 2.7 3.8 2.7 3.8 2.6 3.9 2.8 3.8 2.7 3.9 2.7 1.7 1.3 2.2-2.8 3.7-5 .4-.5-.4-.3-3.7-2.7-3.9-2.7-3.9-2.7-3.8-2.7-3.9-2.8-1-.6.3-46.4.7-.4 3.9-1.9 3.8-1.9 3.9-1.9 3.9-1.9 3.7-2 3.9-1.9 3.9-1.8 3.8-2z"/>
-  <linearGradient id="leo-token_svg__b" x1="94.485" x2="94.485" y1="757.28" y2="838.23" gradientTransform="translate(-15.82 -616.04)" gradientUnits="userSpaceOnUse">
-    <stop offset="0" stop-color="#f6e93d"/>
-    <stop offset=".13" stop-color="#f8e330"/>
-    <stop offset=".35" stop-color="#f7c730"/>
-    <stop offset=".64" stop-color="#f59c2e"/>
-    <stop offset=".98" stop-color="#eb5e2c"/>
-    <stop offset="1" stop-color="#eb5c2c"/>
-  </linearGradient>
-  <path fill="url(#leo-token_svg__b)" d="m112.3 204.5-3.2 1.3-3.6 1.5-3.6 1.4-3.6 1.5-1.6.6-1.9-.9-3.6-1.9-3.6-1.7-3.5-1.9-3.6-1.8-3.6-1.7-3.6-1.9-3.6-1.8-3.6-1.8-3.6-1.8-3.6-1.9-3.4-1.7-3.6-1.8-.4-.2v-46.8H41.1v53.2l3.6 1.7 3.6 1.8 3.6 1.9 3.6 1.7 3.4 1.9 3.6 1.8 3.6 1.8 3.6 1.8 3.6 1.8 3.6 1.8 3.6 1.8 3.6 1.9 3.5 1.7 3.6 1.9 3.6 1.7 1.4.8 2.1-1 3.6-1.3 3.6-1.5 3.6-1.5 3.5-1.4 3.6-1.4-3.6-9z"/>
-  <linearGradient id="leo-token_svg__c" x1="139.615" x2="139.615" y1="733.63" y2="824.07" gradientTransform="translate(-15.82 -616.04)" gradientUnits="userSpaceOnUse">
-    <stop offset="0" stop-color="#f6e93d"/>
-    <stop offset=".13" stop-color="#f8e330"/>
-    <stop offset=".35" stop-color="#f7c730"/>
-    <stop offset=".64" stop-color="#f59c2e"/>
-    <stop offset=".98" stop-color="#eb5e2c"/>
-    <stop offset="1" stop-color="#eb5c2c"/>
-  </linearGradient>
-  <path fill="url(#leo-token_svg__c)" d="m176.2 139.5.2 22-.9.8-6.1 4.2-6.1 4.4-6.1 4.4-6.1 4.3-6.1 4.3-6 4.4-6.1 4.3-3.6 2.6-2.5-1.9-6-4.7-6.1-4.6-6.1-4.7-6-4.6-1.1-.8v-23.7l1.1-1 6-6.4 6.1-6.3 6.1-6.4 6-6.3 5.9-6.2H60l6.1 6.4 6 6.3 6.1 6.3 6.1 6.4 6 6.3.9.9v28.7l5.2 4.1 6.2 4.7 6 4.6 6.1 4.7 6.1 4.6 6 4.7 2.2 1.7 3.9-2.8 6.1-4.2 6-4.4 6.1-4.4 6.1-4.2 6.1-4.4 6.1-4.4 6.1-4.2 6.1-4.4 5-3.7 1-27-6-.2z"/>
-  <linearGradient id="leo-token_svg__d" x1="66.615" x2="66.615" y1="633.97" y2="704.35" gradientTransform="translate(-15.82 -616.04)" gradientUnits="userSpaceOnUse">
-    <stop offset="0" stop-color="#f6e93d"/>
-    <stop offset=".13" stop-color="#f8e330"/>
-    <stop offset=".35" stop-color="#f7c730"/>
-    <stop offset=".64" stop-color="#f59c2e"/>
-    <stop offset=".98" stop-color="#eb5e2c"/>
-    <stop offset="1" stop-color="#eb5c2c"/>
-  </linearGradient>
-  <path fill="url(#leo-token_svg__d)" d="M9.9 88.3h.7l.1-29.4 3.9-2.5 4.9-2.9 4.8-2.9 4.8-3 4.8-2.9 4.9-3 4.7-2.9 4.9-2.9 4.8-3 4.9-3h.1l4.6 2.7 4.9 2.7 4.8 2.8 4.8 2.7 4.8 2.7 4.8 2.7 4.8 2.8 4.7 2.7.2-.4 4.8-8.7-4.8-2.8-4.9-2.7-4.8-2.7-4.8-2.7-4.8-2.8-4.8-2.7-4.8-2.7-4.9-2.8-4.7-2.7-.2-.1-4.7 2.8-4.8 3-4.9 3-4.7 3-4.9 2.9-4.8 2.9-4.8 3-4.8 2.9-4.9 3-4.7 2.9L5 50.2.4 53.1.2 88.2H5z"/>
-  <linearGradient id="leo-token_svg__e" x1="187.26" x2="187.26" y1="657.82" y2="764.75" gradientTransform="translate(-15.82 -616.04)" gradientUnits="userSpaceOnUse">
-    <stop offset="0" stop-color="#f6e93d"/>
-    <stop offset=".13" stop-color="#f8e330"/>
-    <stop offset=".35" stop-color="#f7c730"/>
-    <stop offset=".64" stop-color="#f59c2e"/>
-    <stop offset=".98" stop-color="#eb5e2c"/>
-    <stop offset="1" stop-color="#eb5c2c"/>
-  </linearGradient>
-  <path fill="url(#leo-token_svg__e)" d="m197.9 61.4-2.5-2-2.5-2-2.5-2.1-2.5-2-2.5-2-2.6-2-2.5-2-2.5-2-2.6-2.1-1.9-1.4-.7.8-2.5 3.1-2.5 3.2-.7.8.7.7 2.5 2.1 2.5 2.1 2.6 2.1 2.6 2.1 2.5 2.2 2.5 2.1 2.6 2.1 1.2 1 .1 47.3-1.3.9-2.6 1.6-2.5 1.6-2.5 1.6-2.6 1.6-2.6 1.6-2.5 1.6-2.5 1.6-2.5 1.6-2.5 1.6-2.5 1.6-2.6 1.6-2.5 1.6-2.5 1.6-2.5 1.6-2.6 1.6-2.5 1.6 2.5 4 2.6 4 .4.7 2.1-1.3 2.5-1.5 2.5-1.6 2.6-1.5 2.5-1.7 2.5-1.5 2.5-1.6 2.5-1.5 2.5-1.6 2.6-1.5 2.6-1.7 2.5-1.5 2.5-1.6 2.6-1.5 2.5-1.6 2.5-1.5 2.5-1.7 2.5-1.5 2.5-1.6z"/>
-  <linearGradient id="leo-token_svg__f" x1="128.46" x2="128.46" y1="616.04" y2="726.07" gradientTransform="translate(-15.82 -616.04)" gradientUnits="userSpaceOnUse">
-    <stop offset="0" stop-color="#f6e93d"/>
-    <stop offset=".13" stop-color="#f8e330"/>
-    <stop offset=".35" stop-color="#f7c730"/>
-    <stop offset=".64" stop-color="#f59c2e"/>
-    <stop offset=".98" stop-color="#eb5e2c"/>
-    <stop offset="1" stop-color="#eb5c2c"/>
-  </linearGradient>
-  <path fill="url(#leo-token_svg__f)" d="M115.4 89.6V110l.8-.3 3.4-1.3 3.4-1.4 3.3-1.3 3.4-1.4 3.4-1.4 3.3-1.3 3.4-1.4 3.4-1.3 3.3-1.4 3.4-1.3 3.3-1.4V32.9l-3.8-2.4-3.9-2.2-3.9-2.2-3.8-2.4-3.9-2.2-3.9-2.2-3.8-2.3-3.9-2.3-3.8-2.3-3.9-2.2-3.9-2.3-3.8-2.3-3.8-2.2-3.9-2.2L97.1 0l-1.8 1-3.9 2.1-3.9 2-3.7 2.2-3.9 2.1-3.9 2-3.9 2.2 3.9 2.2 3.9 2.2 2.4 1.5 1.5-.8 3.7-2 3.9-2.1 3.9-2 1.5-.8 2.4 1.4 3.9 2.2 3.8 2.2 3.8 2.3 3.9 2.3 3.9 2.2 3.8 2.3 3.9 2.3 3.8 2.2 3.9 2.2 3.9 2.4 3.8 2.2 1.3.7v45.6h-27.3"/>
-  <linearGradient id="leo-token_svg__g" x1="150.08" x2="150.08" y1="700.41" y2="726.1" gradientTransform="translate(-15.82 -616.04)" gradientUnits="userSpaceOnUse">
-    <stop offset="0" stop-color="#f6e93d"/>
-    <stop offset=".13" stop-color="#f8e330"/>
-    <stop offset=".35" stop-color="#f7c730"/>
-    <stop offset=".64" stop-color="#f59c2e"/>
-    <stop offset=".98" stop-color="#eb5e2c"/>
-    <stop offset="1" stop-color="#eb5c2c"/>
-  </linearGradient>
-  <path fill="url(#leo-token_svg__g)" d="m115.4 110 37.8-15.2-37.8-10.5"/>
-  <linearGradient id="leo-token_svg__h" x1="78.903" x2="87.063" y1="719.687" y2="697.267" gradientTransform="translate(-15.82 -616.04)" gradientUnits="userSpaceOnUse">
-    <stop offset="0" stop-color="#f6e93d"/>
-    <stop offset=".13" stop-color="#f8e330"/>
-    <stop offset=".35" stop-color="#f7c730"/>
-    <stop offset=".64" stop-color="#f59c2e"/>
-    <stop offset=".98" stop-color="#eb5e2c"/>
-    <stop offset="1" stop-color="#eb5c2c"/>
-  </linearGradient>
-  <path fill="url(#leo-token_svg__h)" d="M80.8 110V84.7L46.2 95l34.6 14.9"/>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
+  <circle cx="10" cy="10" r="10" fill="#171c1f"/>
+  <path fill="url(#leo-token_svg__a)" d="M6.996 9.06H7l.097.036.09.036.098.03.09.04.097.036.091.035.097.036.09.035.092.036.09.035.097.036.091.041.097.03.09.035.097.035.091.042.097.035.091.03.091.035.097.042.096.035V8.429H6.871l-.091.047-.216.118-.222.124-.222.112-.21.119-.222.124-.222.112-.216.124-.221.118-.216.112-.216.124-.2.107-.022 3.384.222.16.216.16.216.153.221.165.216.16.222.16.097.076.125-.165.21-.296.023-.03-.023-.017-.21-.16-.222-.159-.222-.16-.216-.159-.221-.165-.057-.036.017-2.74.04-.024.221-.112.216-.113.222-.112.222-.112.21-.118.222-.112.222-.107.216-.118z"/>
+  <path fill="url(#leo-token_svg__b)" d="m10.759 15.517-.182.077-.205.088-.204.083-.205.089-.09.035-.109-.053-.205-.112-.204-.1-.2-.113-.204-.106-.204-.1-.205-.113-.205-.106-.204-.107-.205-.106-.205-.112-.193-.1-.205-.107-.022-.012v-2.764H6.71v3.142l.205.1.205.107.204.112.205.1.193.113.205.106.205.107.204.106.205.106.205.107.204.106.205.112.199.1.204.113.205.1.08.047.12-.059.204-.076.204-.089.205-.089.199-.082.205-.083-.205-.532z"/>
+  <path fill="url(#leo-token_svg__c)" d="m14.391 11.678.012 1.299-.052.047-.346.248-.347.26-.347.26-.347.254-.346.254-.341.26-.347.254-.205.154-.142-.113-.341-.277-.347-.272-.347-.277-.34-.272-.063-.047v-1.4l.062-.06.341-.377.347-.373.347-.378.341-.372.335-.366H7.786l.346.378.341.372.347.372.347.378.341.372.051.054v1.695l.296.242.352.278.341.271.347.278.347.272.341.277.125.1.222-.165.347-.248.34-.26.347-.26.347-.248.347-.26.347-.26.346-.248.347-.26.284-.218.057-1.595-.34-.012z"/>
+  <path fill="url(#leo-token_svg__d)" d="M4.938 8.653h.04l.005-1.736.222-.148.278-.171.273-.172.273-.177.273-.171.279-.177.267-.172.278-.17.273-.178.279-.177h.005l.262.16.278.159.273.165.273.16.273.159.273.16.273.165.267.16.011-.024.273-.514-.273-.166-.278-.16-.273-.159-.273-.159-.273-.165-.273-.16-.273-.16-.278-.165-.267-.16-.012-.005-.267.165-.273.177-.278.178-.267.177-.279.171-.273.171-.273.178-.273.17-.278.178-.267.171-.279.172-.261.171-.012 2.073h.273z"/>
+  <path fill="url(#leo-token_svg__e)" d="m15.625 7.064-.142-.118-.142-.118-.142-.124-.142-.118-.142-.118-.148-.118-.142-.119-.142-.118-.148-.124-.108-.082-.04.047-.142.183-.142.189-.04.047.04.042.142.124.142.124.148.124.148.124.142.13.142.124.148.124.068.059.005 2.794-.073.053-.148.094-.142.095-.142.094-.148.095-.148.095-.142.094-.142.095-.142.094-.143.095-.142.094-.147.095-.143.094-.142.095-.142.094-.148.095-.142.094.142.236.148.237.023.041.12-.077.142-.088.142-.095.147-.088.142-.101.143-.089.142-.094.142-.089.142-.094.148-.089.148-.1.142-.089.142-.094.148-.089.142-.094.142-.089.142-.1.142-.089.142-.095z"/>
+  <path fill="url(#leo-token_svg__f)" d="M10.935 8.73v1.205l.046-.018.193-.076.193-.083.188-.077.193-.083.193-.082.188-.077.193-.083.193-.077.188-.082.193-.077.188-.083V5.381l-.216-.142-.222-.13-.222-.13-.215-.142-.222-.13-.222-.13-.216-.135-.222-.136-.216-.136-.221-.13-.222-.136-.216-.136-.216-.13-.222-.13-.12-.07-.102.059-.221.124-.222.118-.21.13-.222.124-.222.118-.221.13.221.13.222.13.136.088.086-.047.21-.118.222-.124.221-.118.086-.047.136.082.222.13.216.13.216.136.222.136.221.13.216.136.222.135.216.13.222.13.222.142.216.13.073.041v2.694h-1.551"/>
+  <path fill="url(#leo-token_svg__g)" d="m10.935 9.935 2.149-.898-2.149-.62"/>
+  <path fill="url(#leo-token_svg__h)" d="M8.968 9.935V8.441l-1.967.608 1.967.88"/>
+  <defs>
+    <linearGradient id="leo-token_svg__a" x1="6.67" x2="6.67" y1="8.431" y2="14.186" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f6e93d"/>
+      <stop offset=".13" stop-color="#f8e330"/>
+      <stop offset=".35" stop-color="#f7c730"/>
+      <stop offset=".64" stop-color="#f59c2e"/>
+      <stop offset=".98" stop-color="#eb5e2c"/>
+      <stop offset="1" stop-color="#eb5c2c"/>
+    </linearGradient>
+    <linearGradient id="leo-token_svg__b" x1="8.847" x2="8.847" y1="11.78" y2="16.562" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f6e93d"/>
+      <stop offset=".13" stop-color="#f8e330"/>
+      <stop offset=".35" stop-color="#f7c730"/>
+      <stop offset=".64" stop-color="#f59c2e"/>
+      <stop offset=".98" stop-color="#eb5e2c"/>
+      <stop offset="1" stop-color="#eb5c2c"/>
+    </linearGradient>
+    <linearGradient id="leo-token_svg__c" x1="11.412" x2="11.412" y1="10.383" y2="15.726" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f6e93d"/>
+      <stop offset=".13" stop-color="#f8e330"/>
+      <stop offset=".35" stop-color="#f7c730"/>
+      <stop offset=".64" stop-color="#f59c2e"/>
+      <stop offset=".98" stop-color="#eb5e2c"/>
+      <stop offset="1" stop-color="#eb5c2c"/>
+    </linearGradient>
+    <linearGradient id="leo-token_svg__d" x1="7.262" x2="7.262" y1="4.497" y2="8.654" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f6e93d"/>
+      <stop offset=".13" stop-color="#f8e330"/>
+      <stop offset=".35" stop-color="#f7c730"/>
+      <stop offset=".64" stop-color="#f59c2e"/>
+      <stop offset=".98" stop-color="#eb5e2c"/>
+      <stop offset="1" stop-color="#eb5c2c"/>
+    </linearGradient>
+    <linearGradient id="leo-token_svg__e" x1="14.121" x2="14.121" y1="5.905" y2="12.222" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f6e93d"/>
+      <stop offset=".13" stop-color="#f8e330"/>
+      <stop offset=".35" stop-color="#f7c730"/>
+      <stop offset=".64" stop-color="#f59c2e"/>
+      <stop offset=".98" stop-color="#eb5e2c"/>
+      <stop offset="1" stop-color="#eb5c2c"/>
+    </linearGradient>
+    <linearGradient id="leo-token_svg__f" x1="10.778" x2="10.778" y1="3.438" y2="9.937" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f6e93d"/>
+      <stop offset=".13" stop-color="#f8e330"/>
+      <stop offset=".35" stop-color="#f7c730"/>
+      <stop offset=".64" stop-color="#f59c2e"/>
+      <stop offset=".98" stop-color="#eb5e2c"/>
+      <stop offset="1" stop-color="#eb5c2c"/>
+    </linearGradient>
+    <linearGradient id="leo-token_svg__g" x1="12.007" x2="12.007" y1="8.421" y2="9.939" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f6e93d"/>
+      <stop offset=".13" stop-color="#f8e330"/>
+      <stop offset=".35" stop-color="#f7c730"/>
+      <stop offset=".64" stop-color="#f59c2e"/>
+      <stop offset=".98" stop-color="#eb5e2c"/>
+      <stop offset="1" stop-color="#eb5c2c"/>
+    </linearGradient>
+    <linearGradient id="leo-token_svg__h" x1="7.961" x2="8.457" y1="9.56" y2="8.248" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f6e93d"/>
+      <stop offset=".13" stop-color="#f8e330"/>
+      <stop offset=".35" stop-color="#f7c730"/>
+      <stop offset=".64" stop-color="#f59c2e"/>
+      <stop offset=".98" stop-color="#eb5e2c"/>
+      <stop offset="1" stop-color="#eb5c2c"/>
+    </linearGradient>
+  </defs>
 </svg>

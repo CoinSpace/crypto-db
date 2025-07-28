@@ -1,3 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 23.9">
-  <path fill="#1c60ff" d="M17.4 11.6H30v.1l-19.7 12 9.8-7.8ZM10 0v23.9l-10-8Z"/>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
+  <g clip-path="url(#loopring_svg__a)">
+    <circle cx="10" cy="10" r="10" fill="#fff"/>
+    <path fill="#1c60ff" d="M11.6 9.733H20V9.8l-13.133 8 6.533-5.2zM6.667 2v15.933L0 12.6z"/>
+  </g>
+  <defs>
+    <clipPath id="loopring_svg__a">
+      <path fill="#fff" d="M0 0h20v20H0z"/>
+    </clipPath>
+  </defs>
 </svg>

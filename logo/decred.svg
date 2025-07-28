@@ -1,13 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 102.6 79.1">
-  <linearGradient id="decred_svg__a" x1="-7558.051" x2="-7500.722" y1="912.335" y2="912.335" gradientTransform="translate(7603.2 -872.83)" gradientUnits="userSpaceOnUse">
-    <stop offset="0" stop-color="#62d0c9"/>
-    <stop offset="1" stop-color="#7de2ac"/>
-  </linearGradient>
-  <path fill="url(#decred_svg__a)" d="M45.1 49.1h25.3c9.4 0 17.1-7.6 17.1-17.1s-7.6-17-17-17h-8.1L45.1 0h25.3c17.7-.1 32.1 14.2 32.1 31.9.1 13.1-7.9 24.9-20.1 29.8l20 17.3H79.6z"/>
-  <path fill="#4971fa" d="M57.5 30H32.2c-9.4 0-17.1 7.6-17.1 17.1s7.6 17.1 17.1 17.1h8.1l17.2 15H32.2C14.5 79.2.1 64.9 0 47.3c-.1-13.2 7.9-25 20.1-29.9L.1 0H23z"/>
-  <linearGradient id="decred_svg__b" x1="-7603.021" x2="-7545.691" y1="912.381" y2="912.381" gradientTransform="translate(7603.2 -872.83)" gradientUnits="userSpaceOnUse">
-    <stop offset="0" stop-color="#3268fb"/>
-    <stop offset="1" stop-color="#4795fa"/>
-  </linearGradient>
-  <path fill="url(#decred_svg__b)" d="M57.5 30H32.2c-9.4 0-17.1 7.6-17.1 17.1s7.6 17.1 17.1 17.1h8.1l17.2 15H32.2C14.5 79.2.1 64.9 0 47.3c-.1-13.2 7.9-25 20.1-29.9L.1 0H23z"/>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
+  <g clip-path="url(#decred_svg__a)">
+    <circle cx="10" cy="10" r="10" fill="#2970ff"/>
+    <path fill="#fff" d="M9.233 11.2h3.194a2.16 2.16 0 0 0 2.16-2.16c0-1.199-.96-2.146-2.147-2.146h-1.023L9.233 5h3.194a4.03 4.03 0 0 1 4.053 4.028 4.03 4.03 0 0 1-2.537 3.762l2.525 2.185h-2.88z"/>
+    <path fill="#fff" d="M10.798 8.788H7.604a2.16 2.16 0 0 0-2.16 2.159c0 1.2.96 2.16 2.16 2.16h1.022L10.798 15H7.604c-2.235 0-4.053-1.806-4.066-4.028a4.03 4.03 0 0 1 2.538-3.775L3.55 5h2.891z"/>
+  </g>
+  <defs>
+    <clipPath id="decred_svg__a">
+      <path fill="#fff" d="M0 0h20v20H0z"/>
+    </clipPath>
+  </defs>
 </svg>
