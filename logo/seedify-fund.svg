@@ -11,44 +11,44 @@
   <path fill="url(#seedify-fund_svg__j)" d="M12.911 6.24c-.028.604-.04.715-.084.758a1 1 0 0 0-.079.165c.3.024.778.47 1.078.796l.656-1.847c-.444-.359-1.389-1.077-1.615-1.077q.072.596.044 1.205"/>
   <defs>
     <linearGradient id="seedify-fund_svg__a" x1="9.996" x2="9.996" y1="0" y2="20" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#54DEF4"/>
-      <stop offset="1" stop-color="#A56CFA"/>
+      <stop stop-color="#54def4"/>
+      <stop offset="1" stop-color="#a56cfa"/>
     </linearGradient>
     <linearGradient id="seedify-fund_svg__b" x1="9.996" x2="9.996" y1="0" y2="20" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#54DEF4"/>
-      <stop offset="1" stop-color="#A56CFA"/>
+      <stop stop-color="#54def4"/>
+      <stop offset="1" stop-color="#a56cfa"/>
     </linearGradient>
     <linearGradient id="seedify-fund_svg__c" x1="9.286" x2="6.911" y1="2.518" y2="13.972" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#A56CFA"/>
-      <stop offset="1" stop-color="#54DEF4"/>
+      <stop stop-color="#a56cfa"/>
+      <stop offset="1" stop-color="#54def4"/>
     </linearGradient>
     <linearGradient id="seedify-fund_svg__d" x1="9.286" x2="6.911" y1="2.518" y2="13.972" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#A56CFA"/>
-      <stop offset="1" stop-color="#54DEF4"/>
+      <stop stop-color="#a56cfa"/>
+      <stop offset="1" stop-color="#54def4"/>
     </linearGradient>
     <linearGradient id="seedify-fund_svg__e" x1="9.286" x2="6.911" y1="2.518" y2="13.972" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#A56CFA"/>
-      <stop offset="1" stop-color="#54DEF4"/>
+      <stop stop-color="#a56cfa"/>
+      <stop offset="1" stop-color="#54def4"/>
     </linearGradient>
     <linearGradient id="seedify-fund_svg__f" x1="5.669" x2="7.123" y1="13.156" y2="14.149" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#58DAF5" stop-opacity="0"/>
-      <stop offset="1" stop-color="#507AE0"/>
+      <stop stop-color="#58daf5" stop-opacity="0"/>
+      <stop offset="1" stop-color="#507ae0"/>
     </linearGradient>
     <linearGradient id="seedify-fund_svg__g" x1="9.286" x2="6.911" y1="2.518" y2="13.972" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#A56CFA"/>
-      <stop offset="1" stop-color="#54DEF4"/>
+      <stop stop-color="#a56cfa"/>
+      <stop offset="1" stop-color="#54def4"/>
     </linearGradient>
     <linearGradient id="seedify-fund_svg__h" x1="9.286" x2="6.911" y1="2.518" y2="13.972" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#A56CFA"/>
-      <stop offset="1" stop-color="#54DEF4"/>
+      <stop stop-color="#a56cfa"/>
+      <stop offset="1" stop-color="#54def4"/>
     </linearGradient>
     <linearGradient id="seedify-fund_svg__i" x1="9.286" x2="6.911" y1="2.518" y2="13.972" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#A56CFA"/>
-      <stop offset="1" stop-color="#54DEF4"/>
+      <stop stop-color="#a56cfa"/>
+      <stop offset="1" stop-color="#54def4"/>
     </linearGradient>
     <linearGradient id="seedify-fund_svg__j" x1="12.939" x2="14.18" y1="6.099" y2="7.021" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#5658C9"/>
-      <stop offset="1" stop-color="#8E8DF9" stop-opacity="0"/>
+      <stop stop-color="#5658c9"/>
+      <stop offset="1" stop-color="#8e8df9" stop-opacity="0"/>
     </linearGradient>
   </defs>
 </svg>

@@ -5,16 +5,16 @@
   <path fill="url(#dao-maker_svg__c)" d="m15.188 7.536 3.121 1.14-1.557 2.871-3.783.13z"/>
   <defs>
     <linearGradient id="dao-maker_svg__a" x1="2.657" x2="18.917" y1="15.137" y2="2.88" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#48D5FF"/>
-      <stop offset="1" stop-color="#4086FF"/>
+      <stop stop-color="#48d5ff"/>
+      <stop offset="1" stop-color="#4086ff"/>
     </linearGradient>
     <linearGradient id="dao-maker_svg__b" x1="2.657" x2="18.917" y1="15.137" y2="2.88" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#48D5FF"/>
-      <stop offset="1" stop-color="#4086FF"/>
+      <stop stop-color="#48d5ff"/>
+      <stop offset="1" stop-color="#4086ff"/>
     </linearGradient>
     <linearGradient id="dao-maker_svg__c" x1="2.657" x2="18.917" y1="15.137" y2="2.88" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#48D5FF"/>
-      <stop offset="1" stop-color="#4086FF"/>
+      <stop stop-color="#48d5ff"/>
+      <stop offset="1" stop-color="#4086ff"/>
     </linearGradient>
   </defs>
 </svg>

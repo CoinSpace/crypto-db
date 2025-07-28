@@ -3,12 +3,12 @@
   <path fill="url(#solana_svg__a)" d="m66.742 55.544-8.254 8.924a1.92 1.92 0 0 1-1.402.614H17.958a.95.95 0 0 1-.879-.581.97.97 0 0 1 .179-1.044l8.26-8.924a1.92 1.92 0 0 1 1.398-.614h39.126a.95.95 0 0 1 .879.58.97.97 0 0 1-.179 1.045m-8.254-17.97a1.92 1.92 0 0 0-1.402-.615H17.958a.95.95 0 0 0-.879.581.97.97 0 0 0 .179 1.044l8.26 8.925a1.92 1.92 0 0 0 1.398.614h39.126a.95.95 0 0 0 .879-.581.97.97 0 0 0-.179-1.045l-8.254-8.924Zm-40.53-6.41h39.128a1.9 1.9 0 0 0 1.403-.615l8.253-8.924a.968.968 0 0 0-.7-1.625H26.916a1.9 1.9 0 0 0-1.398.614l-8.258 8.924a.969.969 0 0 0 .698 1.625Z"/>
   <defs>
     <linearGradient id="solana_svg__a" x1="21.221" x2="62.625" y1="66.156" y2="19.858" gradientUnits="userSpaceOnUse">
-      <stop offset=".08" stop-color="#9945FF"/>
-      <stop offset=".3" stop-color="#8752F3"/>
-      <stop offset=".5" stop-color="#5497D5"/>
-      <stop offset=".6" stop-color="#43B4CA"/>
-      <stop offset=".72" stop-color="#28E0B9"/>
-      <stop offset=".97" stop-color="#19FB9B"/>
+      <stop offset=".08" stop-color="#9945ff"/>
+      <stop offset=".3" stop-color="#8752f3"/>
+      <stop offset=".5" stop-color="#5497d5"/>
+      <stop offset=".6" stop-color="#43b4ca"/>
+      <stop offset=".72" stop-color="#28e0b9"/>
+      <stop offset=".97" stop-color="#19fb9b"/>
     </linearGradient>
   </defs>
 </svg>

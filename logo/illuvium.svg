@@ -15,14 +15,14 @@
   <path fill="url(#illuvium_svg__j)" fill-rule="evenodd" d="M999.999 1905c-499.818 0-905-405.18-905-905 0-499.814 405.182-904.996 905-904.996C1499.82 95.004 1905 500.186 1905 1000c0 499.82-405.18 905-905.001 905m0-1804.996c-497.056 0-900 402.943-900 899.996 0 497.06 402.944 900 900 900C1497.06 1900 1900 1497.06 1900 1000c0-497.053-402.94-899.996-900.001-899.996" clip-rule="evenodd"/>
   <defs>
     <linearGradient id="illuvium_svg__b" x1="1516.25" x2="-324.797" y1="-413.728" y2="572.887" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#A6FAFF"/>
-      <stop offset=".123" stop-color="#08CE01"/>
-      <stop offset=".307" stop-color="#CEEF00"/>
-      <stop offset=".417" stop-color="#51F980"/>
-      <stop offset=".604" stop-color="#2D51ED"/>
-      <stop offset=".724" stop-color="#0060F1"/>
-      <stop offset=".875" stop-color="#F100D9"/>
-      <stop offset="1" stop-color="#9A24EC"/>
+      <stop stop-color="#a6faff"/>
+      <stop offset=".123" stop-color="#08ce01"/>
+      <stop offset=".307" stop-color="#ceef00"/>
+      <stop offset=".417" stop-color="#51f980"/>
+      <stop offset=".604" stop-color="#2d51ed"/>
+      <stop offset=".724" stop-color="#0060f1"/>
+      <stop offset=".875" stop-color="#f100d9"/>
+      <stop offset="1" stop-color="#9a24ec"/>
     </linearGradient>
     <linearGradient id="illuvium_svg__c" x1="25" x2="1548.75" y1="25.004" y2="1975" gradientUnits="userSpaceOnUse">
       <stop stop-opacity=".48"/>
@@ -30,15 +30,15 @@
       <stop offset="1" stop-opacity=".24"/>
     </linearGradient>
     <linearGradient id="illuvium_svg__d" x1="1841.25" x2="-347.901" y1="-283.747" y2="39.279" gradientUnits="userSpaceOnUse">
-      <stop offset=".023" stop-color="#A6FAFF"/>
-      <stop offset=".117" stop-color="#08CE01"/>
-      <stop offset=".287" stop-color="#CEEF00"/>
-      <stop offset=".42" stop-color="#51F980"/>
-      <stop offset=".565" stop-color="#2D51ED"/>
-      <stop offset=".737" stop-color="#560E8B"/>
-      <stop offset=".83" stop-color="#CF00F1"/>
-      <stop offset=".917" stop-color="#EB1079"/>
-      <stop offset="1" stop-color="#8824EC"/>
+      <stop offset=".023" stop-color="#a6faff"/>
+      <stop offset=".117" stop-color="#08ce01"/>
+      <stop offset=".287" stop-color="#ceef00"/>
+      <stop offset=".42" stop-color="#51f980"/>
+      <stop offset=".565" stop-color="#2d51ed"/>
+      <stop offset=".737" stop-color="#560e8b"/>
+      <stop offset=".83" stop-color="#cf00f1"/>
+      <stop offset=".917" stop-color="#eb1079"/>
+      <stop offset="1" stop-color="#8824ec"/>
     </linearGradient>
     <linearGradient id="illuvium_svg__e" x1="25" x2="1975" y1="25.004" y2="1975" gradientUnits="userSpaceOnUse">
       <stop offset=".073" stop-color="#fff" stop-opacity=".08"/>
@@ -46,20 +46,20 @@
       <stop offset="1" stop-color="#fff" stop-opacity=".16"/>
     </linearGradient>
     <linearGradient id="illuvium_svg__f" x1="2121.69" x2="110.55" y1="106.362" y2="-379.262" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#A6FAFF"/>
-      <stop offset=".09" stop-color="#08CE01"/>
-      <stop offset=".25" stop-color="#CEEF00"/>
-      <stop offset=".372" stop-color="#51F980"/>
-      <stop offset=".49" stop-color="#2D51ED"/>
+      <stop stop-color="#a6faff"/>
+      <stop offset=".09" stop-color="#08ce01"/>
+      <stop offset=".25" stop-color="#ceef00"/>
+      <stop offset=".372" stop-color="#51f980"/>
+      <stop offset=".49" stop-color="#2d51ed"/>
       <stop offset=".669" stop-color="#411171"/>
-      <stop offset=".751" stop-color="#F10082"/>
-      <stop offset=".817" stop-color="#EB105F"/>
-      <stop offset=".966" stop-color="#8824EC"/>
+      <stop offset=".751" stop-color="#f10082"/>
+      <stop offset=".817" stop-color="#eb105f"/>
+      <stop offset=".966" stop-color="#8824ec"/>
     </linearGradient>
     <linearGradient id="illuvium_svg__h" x1="999.999" x2="999.999" y1="100.004" y2="1900" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#2B0099" stop-opacity=".64"/>
-      <stop offset=".38" stop-color="#22007A" stop-opacity=".72"/>
-      <stop offset="1" stop-color="#0E0033"/>
+      <stop stop-color="#2b0099" stop-opacity=".64"/>
+      <stop offset=".38" stop-color="#22007a" stop-opacity=".72"/>
+      <stop offset="1" stop-color="#0e0033"/>
     </linearGradient>
     <linearGradient id="illuvium_svg__j" x1="99.999" x2="1900" y1="100.004" y2="1900" gradientUnits="userSpaceOnUse">
       <stop stop-color="#fff" stop-opacity=".24"/>

@@ -5,12 +5,12 @@
   </g>
   <defs>
     <linearGradient id="prometeus_svg__b" x1="12.609" x2="5.716" y1=".267" y2="8.361" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#E2D177"/>
-      <stop offset="1" stop-color="#EE448A"/>
+      <stop stop-color="#e2d177"/>
+      <stop offset="1" stop-color="#ee448a"/>
     </linearGradient>
     <linearGradient id="prometeus_svg__c" x1="14.991" x2="4.661" y1="7.94" y2="16.115" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#E2D177"/>
-      <stop offset="1" stop-color="#EE448A"/>
+      <stop stop-color="#e2d177"/>
+      <stop offset="1" stop-color="#ee448a"/>
     </linearGradient>
     <clipPath id="prometeus_svg__a">
       <path fill="#fff" d="M0 0h20v20H0z"/>

@@ -7,40 +7,40 @@
   </g>
   <defs>
     <linearGradient id="dia_svg__b" x1="50" x2="50" y1="103.514" y2=".007" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#000D30"/>
-      <stop offset=".65" stop-color="#152E84"/>
-      <stop offset="1" stop-color="#1D39BE"/>
+      <stop stop-color="#000d30"/>
+      <stop offset=".65" stop-color="#152e84"/>
+      <stop offset="1" stop-color="#1d39be"/>
     </linearGradient>
     <linearGradient id="dia_svg__c" x1="18.159" x2="71.368" y1="40.444" y2="63.528" gradientUnits="userSpaceOnUse">
-      <stop offset=".02" stop-color="#BBF0C6" stop-opacity=".9"/>
-      <stop offset=".11" stop-color="#BBF0C6" stop-opacity=".87"/>
-      <stop offset=".24" stop-color="#BBF0C6" stop-opacity=".78"/>
-      <stop offset=".4" stop-color="#BBF0C6" stop-opacity=".63"/>
-      <stop offset=".59" stop-color="#BBF0C6" stop-opacity=".43"/>
-      <stop offset=".61" stop-color="#BBF0C6" stop-opacity=".4"/>
-      <stop offset=".82" stop-color="#BBF0C6" stop-opacity=".27"/>
-      <stop offset=".96" stop-color="#BBF0C6" stop-opacity=".2"/>
+      <stop offset=".02" stop-color="#bbf0c6" stop-opacity=".9"/>
+      <stop offset=".11" stop-color="#bbf0c6" stop-opacity=".87"/>
+      <stop offset=".24" stop-color="#bbf0c6" stop-opacity=".78"/>
+      <stop offset=".4" stop-color="#bbf0c6" stop-opacity=".63"/>
+      <stop offset=".59" stop-color="#bbf0c6" stop-opacity=".43"/>
+      <stop offset=".61" stop-color="#bbf0c6" stop-opacity=".4"/>
+      <stop offset=".82" stop-color="#bbf0c6" stop-opacity=".27"/>
+      <stop offset=".96" stop-color="#bbf0c6" stop-opacity=".2"/>
     </linearGradient>
     <linearGradient id="dia_svg__d" x1="67.778" x2="41.924" y1="39.438" y2="77.772" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#BBF0C6" stop-opacity=".2"/>
-      <stop offset=".05" stop-color="#BBF0C6" stop-opacity=".29"/>
-      <stop offset=".14" stop-color="#BBF0C6" stop-opacity=".47"/>
-      <stop offset=".24" stop-color="#BBF0C6" stop-opacity=".62"/>
-      <stop offset=".34" stop-color="#BBF0C6" stop-opacity=".74"/>
-      <stop offset=".46" stop-color="#BBF0C6" stop-opacity=".83"/>
-      <stop offset=".57" stop-color="#BBF0C6" stop-opacity=".9"/>
-      <stop offset=".71" stop-color="#BBF0C6" stop-opacity=".94"/>
-      <stop offset=".89" stop-color="#BBF0C6" stop-opacity=".95"/>
+      <stop stop-color="#bbf0c6" stop-opacity=".2"/>
+      <stop offset=".05" stop-color="#bbf0c6" stop-opacity=".29"/>
+      <stop offset=".14" stop-color="#bbf0c6" stop-opacity=".47"/>
+      <stop offset=".24" stop-color="#bbf0c6" stop-opacity=".62"/>
+      <stop offset=".34" stop-color="#bbf0c6" stop-opacity=".74"/>
+      <stop offset=".46" stop-color="#bbf0c6" stop-opacity=".83"/>
+      <stop offset=".57" stop-color="#bbf0c6" stop-opacity=".9"/>
+      <stop offset=".71" stop-color="#bbf0c6" stop-opacity=".94"/>
+      <stop offset=".89" stop-color="#bbf0c6" stop-opacity=".95"/>
     </linearGradient>
     <linearGradient id="dia_svg__e" x1="27.32" x2="74.438" y1="49.126" y2="31.973" gradientUnits="userSpaceOnUse">
-      <stop offset=".3" stop-color="#BBF0C6"/>
-      <stop offset=".41" stop-color="#BBF0C6" stop-opacity=".98"/>
-      <stop offset=".51" stop-color="#BBF0C6" stop-opacity=".94"/>
-      <stop offset=".6" stop-color="#BBF0C6" stop-opacity=".86"/>
-      <stop offset=".7" stop-color="#BBF0C6" stop-opacity=".75"/>
-      <stop offset=".79" stop-color="#BBF0C6" stop-opacity=".61"/>
-      <stop offset=".89" stop-color="#BBF0C6" stop-opacity=".43"/>
-      <stop offset=".95" stop-color="#BBF0C6" stop-opacity=".3"/>
+      <stop offset=".3" stop-color="#bbf0c6"/>
+      <stop offset=".41" stop-color="#bbf0c6" stop-opacity=".98"/>
+      <stop offset=".51" stop-color="#bbf0c6" stop-opacity=".94"/>
+      <stop offset=".6" stop-color="#bbf0c6" stop-opacity=".86"/>
+      <stop offset=".7" stop-color="#bbf0c6" stop-opacity=".75"/>
+      <stop offset=".79" stop-color="#bbf0c6" stop-opacity=".61"/>
+      <stop offset=".89" stop-color="#bbf0c6" stop-opacity=".43"/>
+      <stop offset=".95" stop-color="#bbf0c6" stop-opacity=".3"/>
     </linearGradient>
     <clipPath id="dia_svg__a">
       <path fill="#fff" d="M0 0h100v100H0z"/>

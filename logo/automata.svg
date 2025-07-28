@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
-  <path fill="#B11D1B" fill-rule="evenodd" d="M6.263 19.3h7.87c1.076-.22 3.52-1.126 4.679-2.982 1.16-1.855 1.256-4.169 1.16-5.094-.083-.386-.299-1.267-.497-1.698-.2-.43-2.9-4.928-4.225-7.123-.8-.815-2.932-2.436-5.052-2.402C7.423 0 5.508 1.45 4.77 2.403 3.446 4.598.87 9.095.671 9.526c-.199.43-.538 1.312-.621 1.698-.097.925-.197 2.858 1.2 5.094C2.41 18.174 4.773 19.3 6.264 19.3m8.324-4.763h-8.78c-.29-.027-.953-.207-1.284-.704a2.3 2.3 0 0 1-.373-1.284l4.597-7.91c.22-.304.82-.895 1.45-.828.63-.067 1.228.524 1.45.828l4.596 7.91c.014.221-.041.787-.372 1.284-.332.497-.995.677-1.284.704" clip-rule="evenodd"/>
+  <path fill="#b11d1b" fill-rule="evenodd" d="M6.263 19.3h7.87c1.076-.22 3.52-1.126 4.679-2.982 1.16-1.855 1.256-4.169 1.16-5.094-.083-.386-.299-1.267-.497-1.698-.2-.43-2.9-4.928-4.225-7.123-.8-.815-2.932-2.436-5.052-2.402C7.423 0 5.508 1.45 4.77 2.403 3.446 4.598.87 9.095.671 9.526c-.199.43-.538 1.312-.621 1.698-.097.925-.197 2.858 1.2 5.094C2.41 18.174 4.773 19.3 6.264 19.3m8.324-4.763h-8.78c-.29-.027-.953-.207-1.284-.704a2.3 2.3 0 0 1-.373-1.284l4.597-7.91c.22-.304.82-.895 1.45-.828.63-.067 1.228.524 1.45.828l4.596 7.91c.014.221-.041.787-.372 1.284-.332.497-.995.677-1.284.704" clip-rule="evenodd"/>
   <mask id="automata_svg__a" width="20" height="20" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:alpha">
-    <path fill="#F9C10D" fill-rule="evenodd" d="M6.263 19.3h7.87c1.076-.22 3.52-1.126 4.679-2.982 1.16-1.855 1.256-4.169 1.16-5.094-.083-.386-.299-1.267-.497-1.698-.2-.43-2.9-4.928-4.225-7.123-.8-.815-2.932-2.436-5.052-2.402C7.423 0 5.508 1.45 4.77 2.403 3.446 4.598.87 9.095.671 9.526c-.199.43-.538 1.312-.621 1.698-.097.925-.197 2.858 1.2 5.094C2.41 18.174 4.773 19.3 6.264 19.3m8.324-4.763h-8.78c-.29-.027-.953-.207-1.284-.704a2.3 2.3 0 0 1-.373-1.284l4.597-7.91c.22-.304.82-.895 1.45-.828.63-.067 1.228.524 1.45.828l4.596 7.91c.014.221-.041.787-.372 1.284-.332.497-.995.677-1.284.704" clip-rule="evenodd"/>
+    <path fill="#f9c10d" fill-rule="evenodd" d="M6.263 19.3h7.87c1.076-.22 3.52-1.126 4.679-2.982 1.16-1.855 1.256-4.169 1.16-5.094-.083-.386-.299-1.267-.497-1.698-.2-.43-2.9-4.928-4.225-7.123-.8-.815-2.932-2.436-5.052-2.402C7.423 0 5.508 1.45 4.77 2.403 3.446 4.598.87 9.095.671 9.526c-.199.43-.538 1.312-.621 1.698-.097.925-.197 2.858 1.2 5.094C2.41 18.174 4.773 19.3 6.264 19.3m8.324-4.763h-8.78c-.29-.027-.953-.207-1.284-.704a2.3 2.3 0 0 1-.373-1.284l4.597-7.91c.22-.304.82-.895 1.45-.828.63-.067 1.228.524 1.45.828l4.596 7.91c.014.221-.041.787-.372 1.284-.332.497-.995.677-1.284.704" clip-rule="evenodd"/>
   </mask>
   <g mask="url(#automata_svg__a)">
     <path fill="url(#automata_svg__b)" fill-rule="evenodd" d="M.277 10.347c-.545 1.819-.276 3.92.723 5.634.448.768 1.586 1.919 2.348 2.374 1.2.717 2.105.945 3.758.945.877 0 1.11-.023 1.061-.105q-.064-.107.079.01c.124.101.14.094.14-.062 0-.098.035-.178.078-.178s.103-.08.134-.178c.042-.134.074-.151.124-.068.054.087.093.089.192.006.075-.062.143-.07.173-.023.065.107.464-.08.465-.218 0-.118-.134-.141-.2-.035-.058.095-.43.062-.4-.035.014-.042.098-.065.188-.05.098.016.163-.022.163-.094 0-.074-.084-.12-.215-.12-.248 0-.326-.067-.413-.355-.054-.18-.046-.195.064-.103.105.087.137.082.18-.029.028-.074.032-.166.008-.204-.023-.038.08-.097.23-.13.236-.053.25-.069.104-.126a1.4 1.4 0 0 0-.388-.072c-.179-.005-.213-.038-.178-.173.029-.109.114-.168.243-.168.142 0 .198-.046.198-.167 0-.206-.13-.217-.243-.02-.078.133-.085.134-.088.004 0-.078.035-.165.081-.193.132-.082.097-.232-.041-.179-.07.027-.125.008-.125-.042 0-.054.082-.07.208-.037.126.031.208.016.208-.039 0-.053.07-.069.167-.038.114.037.166.015.166-.068 0-.168-.379-.225-.576-.086-.104.073-.181.084-.214.03-.03-.047.01-.085.087-.085.099 0 .127-.049.096-.167-.043-.166.057-.233.142-.095.072.117.465.004.465-.134 0-.103-.023-.107-.125-.022-.103.086-.125.078-.125-.048 0-.119-.022-.13-.1-.052-.123.124-.233.13-.233.011 0-.048.047-.061.104-.03.084.048.084.037 0-.053-.102-.11-.152-.323-.052-.222.076.077.254-.13.254-.297 0-.119-.078-.145-.424-.146-1.771-.004-3.647-.12-4.195-.259-1.98-.5-3.44-1.943-4.015-3.96L.414 9.89zm9.075 4.423c-.029.047-.012.11.038.141.128.08.21-.03.104-.137q-.09-.09-.142-.004m.004.322c-.094.094-.057.193.071.193.07 0 .125-.036.125-.079 0-.105-.13-.18-.196-.114m.321.025c-.028.046-.011.084.037.084a.086.086 0 0 0 .088-.084c0-.046-.016-.083-.036-.083s-.06.037-.089.083m-.041.335c0 .046.037.084.083.084a.084.084 0 0 0 0-.168.084.084 0 0 0-.083.084m-.038.412c-.027.043-.01.102.036.13.047.03.085-.005.085-.077 0-.147-.05-.168-.121-.053m-.046.34a.084.084 0 1 0 .083-.084.084.084 0 0 0-.083.085m.334 0c0 .047.037.084.083.084a.084.084 0 0 0 0-.167.084.084 0 0 0-.083.084m-.623.332c-.07.115-.008.2.115.159.05-.018.057-.077.016-.144-.052-.084-.086-.088-.131-.015m.29.003c0 .046.037.084.083.084a.084.084 0 0 0 0-.167.084.084 0 0 0-.084.083m.333 0c0 .046.037.084.083.084a.084.084 0 0 0 0-.167.084.084 0 0 0-.083.083m-.694.369c-.047.123.007.217.124.217.039 0 .07-.075.07-.167 0-.192-.127-.225-.194-.05m.61-.034a.084.084 0 1 0 .083-.084.084.084 0 0 0-.083.084m-1.124.585a.2.2 0 0 1-.15.083c-.06-.001-.05-.034.025-.083.16-.103.189-.103.125 0m.533-.076a7 7 0 0 0-.037.344c-.02.23 0 .298.082.267.114-.044.132-.477.025-.585-.034-.033-.066-.045-.07-.026m.258.076c0 .046.056.084.125.084s.125-.038.125-.084-.056-.083-.125-.083-.125.037-.125.083m.5.005c0 .05.037.066.083.037.046-.028.083-.068.083-.088s-.037-.037-.083-.037-.083.04-.083.088m.416 0c0 .05.038.066.084.037.045-.028.083-.068.083-.088s-.038-.037-.083-.037-.084.04-.084.088m-.95.233c-.028.047-.011.11.038.141.128.08.211-.029.104-.136q-.09-.09-.141-.005m.337-.012c-.094.094-.057.193.072.193.069 0 .125-.036.125-.08 0-.104-.13-.18-.197-.113m-1.027.614c.022.085.023.171.002.192-.064.064-.36-.043-.36-.13 0-.046.056-.061.124-.035.17.066.158-.029-.02-.163-.134-.1-.131-.106.034-.064.098.025.197.115.22.2m.64-.129c0 .077.041.126.09.11.05-.017.09-.066.09-.11 0-.043-.04-.093-.09-.109-.049-.017-.09.033-.09.11m.334 0c0 .07.037.126.083.126s.084-.057.084-.126-.038-.125-.084-.125-.083.056-.083.125m.625-.04c.03.047.088.063.13.037.116-.072.094-.122-.052-.122-.071 0-.106.038-.078.085m-.663.327c-.057.093.074.193.151.115.08-.08.065-.192-.025-.192-.043 0-.1.035-.126.077m.62.006c0 .046.038.084.084.084a.084.084 0 0 0 0-.168.084.084 0 0 0-.083.084m-.974.363c-.024.038-.006.107.04.154q.083.083.137-.004c.03-.048.109-.066.176-.04.07.027.122-.001.122-.067 0-.123-.403-.16-.475-.043m.975-.028c0 .046.037.083.083.083a.084.084 0 0 0 0-.167.084.084 0 0 0-.083.084m-2.021.218c-.028.027-.1.03-.16.006q-.097-.042.05-.05c.088-.004.137.016.11.043" clip-rule="evenodd"/>
@@ -45,156 +45,156 @@
   </g>
   <defs>
     <linearGradient id="automata_svg__b" x1=".417" x2="8.526" y1="10" y2="19.822" gradientUnits="userSpaceOnUse">
-      <stop offset=".448" stop-color="#F9C10D"/>
-      <stop offset="1" stop-color="#A91C15"/>
+      <stop offset=".448" stop-color="#f9c10d"/>
+      <stop offset="1" stop-color="#a91c15"/>
     </linearGradient>
     <linearGradient id="automata_svg__c" x1="15.834" x2="23.438" y1="19.167" y2="13.282" gradientUnits="userSpaceOnUse">
-      <stop offset=".38" stop-color="#F9C10D"/>
-      <stop offset="1" stop-color="#A91C15"/>
+      <stop offset=".38" stop-color="#f9c10d"/>
+      <stop offset="1" stop-color="#a91c15"/>
     </linearGradient>
     <linearGradient id="automata_svg__d" x1="15.834" x2="23.438" y1="19.167" y2="13.282" gradientUnits="userSpaceOnUse">
-      <stop offset=".38" stop-color="#F9C10D"/>
-      <stop offset="1" stop-color="#A91C15"/>
+      <stop offset=".38" stop-color="#f9c10d"/>
+      <stop offset="1" stop-color="#a91c15"/>
     </linearGradient>
     <linearGradient id="automata_svg__e" x1="15.834" x2="23.438" y1="19.167" y2="13.282" gradientUnits="userSpaceOnUse">
-      <stop offset=".38" stop-color="#F9C10D"/>
-      <stop offset="1" stop-color="#A91C15"/>
+      <stop offset=".38" stop-color="#f9c10d"/>
+      <stop offset="1" stop-color="#a91c15"/>
     </linearGradient>
     <linearGradient id="automata_svg__f" x1="15.834" x2="23.438" y1="19.167" y2="13.282" gradientUnits="userSpaceOnUse">
-      <stop offset=".38" stop-color="#F9C10D"/>
-      <stop offset="1" stop-color="#A91C15"/>
+      <stop offset=".38" stop-color="#f9c10d"/>
+      <stop offset="1" stop-color="#a91c15"/>
     </linearGradient>
     <linearGradient id="automata_svg__g" x1="15.834" x2="23.438" y1="19.167" y2="13.282" gradientUnits="userSpaceOnUse">
-      <stop offset=".38" stop-color="#F9C10D"/>
-      <stop offset="1" stop-color="#A91C15"/>
+      <stop offset=".38" stop-color="#f9c10d"/>
+      <stop offset="1" stop-color="#a91c15"/>
     </linearGradient>
     <linearGradient id="automata_svg__h" x1="15.834" x2="23.438" y1="19.167" y2="13.282" gradientUnits="userSpaceOnUse">
-      <stop offset=".38" stop-color="#F9C10D"/>
-      <stop offset="1" stop-color="#A91C15"/>
+      <stop offset=".38" stop-color="#f9c10d"/>
+      <stop offset="1" stop-color="#a91c15"/>
     </linearGradient>
     <linearGradient id="automata_svg__i" x1="15.834" x2="23.438" y1="19.167" y2="13.282" gradientUnits="userSpaceOnUse">
-      <stop offset=".38" stop-color="#F9C10D"/>
-      <stop offset="1" stop-color="#A91C15"/>
+      <stop offset=".38" stop-color="#f9c10d"/>
+      <stop offset="1" stop-color="#a91c15"/>
     </linearGradient>
     <linearGradient id="automata_svg__j" x1="15.834" x2="23.438" y1="19.167" y2="13.282" gradientUnits="userSpaceOnUse">
-      <stop offset=".38" stop-color="#F9C10D"/>
-      <stop offset="1" stop-color="#A91C15"/>
+      <stop offset=".38" stop-color="#f9c10d"/>
+      <stop offset="1" stop-color="#a91c15"/>
     </linearGradient>
     <linearGradient id="automata_svg__k" x1="15.834" x2="23.438" y1="19.167" y2="13.282" gradientUnits="userSpaceOnUse">
-      <stop offset=".38" stop-color="#F9C10D"/>
-      <stop offset="1" stop-color="#A91C15"/>
+      <stop offset=".38" stop-color="#f9c10d"/>
+      <stop offset="1" stop-color="#a91c15"/>
     </linearGradient>
     <linearGradient id="automata_svg__l" x1="15.834" x2="23.438" y1="19.167" y2="13.282" gradientUnits="userSpaceOnUse">
-      <stop offset=".38" stop-color="#F9C10D"/>
-      <stop offset="1" stop-color="#A91C15"/>
+      <stop offset=".38" stop-color="#f9c10d"/>
+      <stop offset="1" stop-color="#a91c15"/>
     </linearGradient>
     <linearGradient id="automata_svg__m" x1="15.834" x2="23.438" y1="19.167" y2="13.282" gradientUnits="userSpaceOnUse">
-      <stop offset=".38" stop-color="#F9C10D"/>
-      <stop offset="1" stop-color="#A91C15"/>
+      <stop offset=".38" stop-color="#f9c10d"/>
+      <stop offset="1" stop-color="#a91c15"/>
     </linearGradient>
     <linearGradient id="automata_svg__n" x1="15.834" x2="23.438" y1="19.167" y2="13.282" gradientUnits="userSpaceOnUse">
-      <stop offset=".38" stop-color="#F9C10D"/>
-      <stop offset="1" stop-color="#A91C15"/>
+      <stop offset=".38" stop-color="#f9c10d"/>
+      <stop offset="1" stop-color="#a91c15"/>
     </linearGradient>
     <linearGradient id="automata_svg__o" x1="15.834" x2="23.438" y1="19.167" y2="13.282" gradientUnits="userSpaceOnUse">
-      <stop offset=".38" stop-color="#F9C10D"/>
-      <stop offset="1" stop-color="#A91C15"/>
+      <stop offset=".38" stop-color="#f9c10d"/>
+      <stop offset="1" stop-color="#a91c15"/>
     </linearGradient>
     <linearGradient id="automata_svg__p" x1="15.834" x2="23.438" y1="19.167" y2="13.282" gradientUnits="userSpaceOnUse">
-      <stop offset=".38" stop-color="#F9C10D"/>
-      <stop offset="1" stop-color="#A91C15"/>
+      <stop offset=".38" stop-color="#f9c10d"/>
+      <stop offset="1" stop-color="#a91c15"/>
     </linearGradient>
     <linearGradient id="automata_svg__q" x1="15.834" x2="23.438" y1="19.167" y2="13.282" gradientUnits="userSpaceOnUse">
-      <stop offset=".38" stop-color="#F9C10D"/>
-      <stop offset="1" stop-color="#A91C15"/>
+      <stop offset=".38" stop-color="#f9c10d"/>
+      <stop offset="1" stop-color="#a91c15"/>
     </linearGradient>
     <linearGradient id="automata_svg__r" x1="15.834" x2="23.438" y1="19.167" y2="13.282" gradientUnits="userSpaceOnUse">
-      <stop offset=".38" stop-color="#F9C10D"/>
-      <stop offset="1" stop-color="#A91C15"/>
+      <stop offset=".38" stop-color="#f9c10d"/>
+      <stop offset="1" stop-color="#a91c15"/>
     </linearGradient>
     <linearGradient id="automata_svg__s" x1="15.834" x2="23.438" y1="19.167" y2="13.282" gradientUnits="userSpaceOnUse">
-      <stop offset=".38" stop-color="#F9C10D"/>
-      <stop offset="1" stop-color="#A91C15"/>
+      <stop offset=".38" stop-color="#f9c10d"/>
+      <stop offset="1" stop-color="#a91c15"/>
     </linearGradient>
     <linearGradient id="automata_svg__t" x1="15.834" x2="23.438" y1="19.167" y2="13.282" gradientUnits="userSpaceOnUse">
-      <stop offset=".38" stop-color="#F9C10D"/>
-      <stop offset="1" stop-color="#A91C15"/>
+      <stop offset=".38" stop-color="#f9c10d"/>
+      <stop offset="1" stop-color="#a91c15"/>
     </linearGradient>
     <linearGradient id="automata_svg__u" x1="15.834" x2="23.438" y1="19.167" y2="13.282" gradientUnits="userSpaceOnUse">
-      <stop offset=".38" stop-color="#F9C10D"/>
-      <stop offset="1" stop-color="#A91C15"/>
+      <stop offset=".38" stop-color="#f9c10d"/>
+      <stop offset="1" stop-color="#a91c15"/>
     </linearGradient>
     <linearGradient id="automata_svg__v" x1="15.834" x2="23.438" y1="19.167" y2="13.282" gradientUnits="userSpaceOnUse">
-      <stop offset=".38" stop-color="#F9C10D"/>
-      <stop offset="1" stop-color="#A91C15"/>
+      <stop offset=".38" stop-color="#f9c10d"/>
+      <stop offset="1" stop-color="#a91c15"/>
     </linearGradient>
     <linearGradient id="automata_svg__w" x1="13.998" x2="3.852" y1="1.408" y2="7.206" gradientUnits="userSpaceOnUse">
-      <stop offset=".469" stop-color="#F9C10D"/>
-      <stop offset="1" stop-color="#A91C15"/>
+      <stop offset=".469" stop-color="#f9c10d"/>
+      <stop offset="1" stop-color="#a91c15"/>
     </linearGradient>
     <linearGradient id="automata_svg__x" x1="13.998" x2="3.852" y1="1.408" y2="7.206" gradientUnits="userSpaceOnUse">
-      <stop offset=".469" stop-color="#F9C10D"/>
-      <stop offset="1" stop-color="#A91C15"/>
+      <stop offset=".469" stop-color="#f9c10d"/>
+      <stop offset="1" stop-color="#a91c15"/>
     </linearGradient>
     <linearGradient id="automata_svg__y" x1="13.998" x2="3.852" y1="1.408" y2="7.206" gradientUnits="userSpaceOnUse">
-      <stop offset=".469" stop-color="#F9C10D"/>
-      <stop offset="1" stop-color="#A91C15"/>
+      <stop offset=".469" stop-color="#f9c10d"/>
+      <stop offset="1" stop-color="#a91c15"/>
     </linearGradient>
     <linearGradient id="automata_svg__z" x1="13.998" x2="3.852" y1="1.408" y2="7.206" gradientUnits="userSpaceOnUse">
-      <stop offset=".469" stop-color="#F9C10D"/>
-      <stop offset="1" stop-color="#A91C15"/>
+      <stop offset=".469" stop-color="#f9c10d"/>
+      <stop offset="1" stop-color="#a91c15"/>
     </linearGradient>
     <linearGradient id="automata_svg__A" x1="13.998" x2="3.852" y1="1.408" y2="7.206" gradientUnits="userSpaceOnUse">
-      <stop offset=".469" stop-color="#F9C10D"/>
-      <stop offset="1" stop-color="#A91C15"/>
+      <stop offset=".469" stop-color="#f9c10d"/>
+      <stop offset="1" stop-color="#a91c15"/>
     </linearGradient>
     <linearGradient id="automata_svg__B" x1="13.998" x2="3.852" y1="1.408" y2="7.206" gradientUnits="userSpaceOnUse">
-      <stop offset=".469" stop-color="#F9C10D"/>
-      <stop offset="1" stop-color="#A91C15"/>
+      <stop offset=".469" stop-color="#f9c10d"/>
+      <stop offset="1" stop-color="#a91c15"/>
     </linearGradient>
     <linearGradient id="automata_svg__C" x1="13.998" x2="3.852" y1="1.408" y2="7.206" gradientUnits="userSpaceOnUse">
-      <stop offset=".469" stop-color="#F9C10D"/>
-      <stop offset="1" stop-color="#A91C15"/>
+      <stop offset=".469" stop-color="#f9c10d"/>
+      <stop offset="1" stop-color="#a91c15"/>
     </linearGradient>
     <linearGradient id="automata_svg__D" x1="13.998" x2="3.852" y1="1.408" y2="7.206" gradientUnits="userSpaceOnUse">
-      <stop offset=".469" stop-color="#F9C10D"/>
-      <stop offset="1" stop-color="#A91C15"/>
+      <stop offset=".469" stop-color="#f9c10d"/>
+      <stop offset="1" stop-color="#a91c15"/>
     </linearGradient>
     <linearGradient id="automata_svg__E" x1="13.998" x2="3.852" y1="1.408" y2="7.206" gradientUnits="userSpaceOnUse">
-      <stop offset=".469" stop-color="#F9C10D"/>
-      <stop offset="1" stop-color="#A91C15"/>
+      <stop offset=".469" stop-color="#f9c10d"/>
+      <stop offset="1" stop-color="#a91c15"/>
     </linearGradient>
     <linearGradient id="automata_svg__F" x1="13.998" x2="3.852" y1="1.408" y2="7.206" gradientUnits="userSpaceOnUse">
-      <stop offset=".469" stop-color="#F9C10D"/>
-      <stop offset="1" stop-color="#A91C15"/>
+      <stop offset=".469" stop-color="#f9c10d"/>
+      <stop offset="1" stop-color="#a91c15"/>
     </linearGradient>
     <linearGradient id="automata_svg__G" x1="13.998" x2="3.852" y1="1.408" y2="7.206" gradientUnits="userSpaceOnUse">
-      <stop offset=".469" stop-color="#F9C10D"/>
-      <stop offset="1" stop-color="#A91C15"/>
+      <stop offset=".469" stop-color="#f9c10d"/>
+      <stop offset="1" stop-color="#a91c15"/>
     </linearGradient>
     <linearGradient id="automata_svg__H" x1="13.998" x2="3.852" y1="1.408" y2="7.206" gradientUnits="userSpaceOnUse">
-      <stop offset=".469" stop-color="#F9C10D"/>
-      <stop offset="1" stop-color="#A91C15"/>
+      <stop offset=".469" stop-color="#f9c10d"/>
+      <stop offset="1" stop-color="#a91c15"/>
     </linearGradient>
     <linearGradient id="automata_svg__I" x1="13.998" x2="3.852" y1="1.408" y2="7.206" gradientUnits="userSpaceOnUse">
-      <stop offset=".469" stop-color="#F9C10D"/>
-      <stop offset="1" stop-color="#A91C15"/>
+      <stop offset=".469" stop-color="#f9c10d"/>
+      <stop offset="1" stop-color="#a91c15"/>
     </linearGradient>
     <linearGradient id="automata_svg__J" x1="13.998" x2="3.852" y1="1.408" y2="7.206" gradientUnits="userSpaceOnUse">
-      <stop offset=".469" stop-color="#F9C10D"/>
-      <stop offset="1" stop-color="#A91C15"/>
+      <stop offset=".469" stop-color="#f9c10d"/>
+      <stop offset="1" stop-color="#a91c15"/>
     </linearGradient>
     <linearGradient id="automata_svg__K" x1="13.998" x2="3.852" y1="1.408" y2="7.206" gradientUnits="userSpaceOnUse">
-      <stop offset=".469" stop-color="#F9C10D"/>
-      <stop offset="1" stop-color="#A91C15"/>
+      <stop offset=".469" stop-color="#f9c10d"/>
+      <stop offset="1" stop-color="#a91c15"/>
     </linearGradient>
     <linearGradient id="automata_svg__L" x1="13.998" x2="3.852" y1="1.408" y2="7.206" gradientUnits="userSpaceOnUse">
-      <stop offset=".469" stop-color="#F9C10D"/>
-      <stop offset="1" stop-color="#A91C15"/>
+      <stop offset=".469" stop-color="#f9c10d"/>
+      <stop offset="1" stop-color="#a91c15"/>
     </linearGradient>
     <linearGradient id="automata_svg__M" x1="13.998" x2="3.852" y1="1.408" y2="7.206" gradientUnits="userSpaceOnUse">
-      <stop offset=".469" stop-color="#F9C10D"/>
-      <stop offset="1" stop-color="#A91C15"/>
+      <stop offset=".469" stop-color="#f9c10d"/>
+      <stop offset="1" stop-color="#a91c15"/>
     </linearGradient>
   </defs>
 </svg>

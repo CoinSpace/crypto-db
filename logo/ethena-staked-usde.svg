@@ -5,13 +5,13 @@
   <path fill="#000" fill-rule="evenodd" d="M167.798 38.56C92.49 53.064 35.605 119.32 35.605 198.861S92.49 344.66 167.798 359.165v-15.3c-66.971-14.276-117.2-73.773-117.2-145.003s50.229-130.726 117.2-145.002zm62.401 15.36V38.614c75.169 14.615 131.914 80.805 131.914 160.248 0 79.444-56.745 145.633-131.914 160.249v-15.306c66.831-14.382 116.921-73.813 116.921-144.943S297.03 68.302 230.199 53.92" clip-rule="evenodd"/>
   <path fill="#000" d="M222.119 193.407q18.684 3.56 28.985 13.735 10.3 9.92 10.3 25.435v16.279q0 18.567-13.414 30.013-13.415 11.192-35.213 11.192h-5.031v25.944h-17.247v-25.944h-5.27q-14.372 0-25.391-6.359-11.019-6.613-17.247-18.314-5.99-11.954-5.989-27.47h17.247q0 15.77 8.624 25.69 8.863 9.666 23.235 9.665h26.59q14.133 0 22.756-6.613 8.624-6.867 8.624-17.804v-16.279q0-8.648-6.468-14.752-6.228-6.105-17.247-7.885l-43.118-7.631q-18.205-3.306-28.266-13.735t-10.061-26.198v-13.735q0-18.568 12.936-29.505 13.175-11.191 34.733-11.191h4.312V82.001h17.247v25.944h5.51q20.361 0 32.817 13.226 12.457 12.972 12.457 34.337h-17.248q0-13.989-7.665-22.383t-20.361-8.393h-27.069q-13.653 0-21.798 6.613-8.144 6.359-8.144 17.296v13.735q0 8.902 5.988 15.007 6.228 6.103 17.008 8.139z"/>
   <defs>
-    <radialGradient id="ethena-staked-usde_svg__a" cx="0" cy="0" r="1" gradientTransform="scale(289.409 411.151)rotate(90 .27 .419)" gradientUnits="userSpaceOnUse">
-      <stop offset=".031" stop-color="#FAFAFA"/>
-      <stop offset="1" stop-color="#E3E3E3"/>
+    <radialGradient id="ethena-staked-usde_svg__a" cx="0" cy="0" r="1" gradientTransform="matrix(0 411.151 -289.409 0 199.403 61.261)" gradientUnits="userSpaceOnUse">
+      <stop offset=".031" stop-color="#fafafa"/>
+      <stop offset="1" stop-color="#e3e3e3"/>
     </radialGradient>
     <linearGradient id="ethena-staked-usde_svg__b" x1="199" x2="199" y1=".321" y2="397.686" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#F4F4F4"/>
-      <stop offset="1" stop-color="#BEBEBE"/>
+      <stop stop-color="#f4f4f4"/>
+      <stop offset="1" stop-color="#bebebe"/>
     </linearGradient>
   </defs>
 </svg>

@@ -3,12 +3,12 @@
   <path fill="url(#vulcan-forged_svg__b)" d="M15.962 7.087c.779.363 2.076 1.723 2.076 3.217 0 1.495-2.387 3.546-3.633 4.411-.31.216-2.18 1.495-2.594 1.868-.288.26-2.024 1.35-2.699 3.166-.096.26-.46-1.401-.311-1.92.252-.883 1.764-2.543 2.646-3.373.883-.83 2.699-2.18 2.699-2.854 0-.364-1.606.868-2.699 1.258-.726.26-3.891 1.377-4.15 1.557-.676.467-1.817 1.272-1.817 2.27 0 .311-.467-.726-.312-1.245.1-.334.83-1.661 2.803-2.803s5.293-2.594 5.967-3.061c.675-.467 1.92-1.765 2.024-2.491"/>
   <defs>
     <linearGradient id="vulcan-forged_svg__a" x1="10.033" x2="10.033" y1=".702" y2="19.749" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#FBCC21"/>
-      <stop offset="1" stop-color="#F05C38"/>
+      <stop stop-color="#fbcc21"/>
+      <stop offset="1" stop-color="#f05c38"/>
     </linearGradient>
     <linearGradient id="vulcan-forged_svg__b" x1="10.033" x2="10.033" y1=".702" y2="19.749" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#FBCC21"/>
-      <stop offset="1" stop-color="#F05C38"/>
+      <stop stop-color="#fbcc21"/>
+      <stop offset="1" stop-color="#f05c38"/>
     </linearGradient>
   </defs>
 </svg>

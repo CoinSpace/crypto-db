@@ -5,9 +5,9 @@
   </g>
   <defs>
     <linearGradient id="yield-guild-games_svg__b" x1="4.843" x2="26.071" y1="10.993" y2="64.504" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#FDFF85"/>
-      <stop offset=".479" stop-color="#66F6FF"/>
-      <stop offset="1" stop-color="#CD9BFF"/>
+      <stop stop-color="#fdff85"/>
+      <stop offset=".479" stop-color="#66f6ff"/>
+      <stop offset="1" stop-color="#cd9bff"/>
     </linearGradient>
     <filter id="yield-guild-games_svg__a" width="55.192" height="63.923" x="4" y="0" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
       <feFlood flood-opacity="0" result="BackgroundImageFix"/>

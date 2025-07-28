@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
   <g clip-path="url(#pha_svg__a)">
     <path fill="#000" d="M0 0h20v20H0z"/>
-    <path fill="#D1FF52" d="M13.993 10.313H7.257v2.245h6.736zm2.246-3.369h-2.246v3.369h2.246zm-8.982 5.614H5.011v3.368h2.246zm6.736-7.859H5.011v5.614h2.246V6.944h6.736z"/>
-    <path fill="#D1FF52" d="M13.993 10.313H7.257v2.245h6.736z"/>
+    <path fill="#d1ff52" d="M13.993 10.313H7.257v2.245h6.736zm2.246-3.369h-2.246v3.369h2.246zm-8.982 5.614H5.011v3.368h2.246zm6.736-7.859H5.011v5.614h2.246V6.944h6.736z"/>
+    <path fill="#d1ff52" d="M13.993 10.313H7.257v2.245h6.736z"/>
   </g>
   <defs>
     <clipPath id="pha_svg__a">

@@ -5,20 +5,20 @@
   <path fill="url(#litentry_svg__d)" d="M11.36 1.23 10.019 0 4.171 6.374a1.02 1.02 0 0 1-.832.324l-1.434-.14a.65.65 0 0 0-.555.214L0 8.233l1.341 1.23L3.47 7.142a.65.65 0 0 1 .648-.195l1.258.306a.68.68 0 0 0 .647-.195z"/>
   <defs>
     <linearGradient id="litentry_svg__a" x1="18.661" x2="9.988" y1="7.927" y2="17.388" gradientUnits="userSpaceOnUse">
-      <stop offset=".21" stop-color="#02C86A"/>
-      <stop offset=".336" stop-color="#14EA85"/>
+      <stop offset=".21" stop-color="#02c86a"/>
+      <stop offset=".336" stop-color="#14ea85"/>
     </linearGradient>
     <linearGradient id="litentry_svg__b" x1="15.779" x2="7.105" y1="5.285" y2="14.746" gradientUnits="userSpaceOnUse">
-      <stop offset=".322" stop-color="#02C86A"/>
-      <stop offset=".506" stop-color="#11ED85"/>
+      <stop offset=".322" stop-color="#02c86a"/>
+      <stop offset=".506" stop-color="#11ed85"/>
     </linearGradient>
     <linearGradient id="litentry_svg__c" x1="12.897" x2="4.223" y1="2.642" y2="12.103" gradientUnits="userSpaceOnUse">
-      <stop offset=".501" stop-color="#1FD17D"/>
-      <stop offset=".641" stop-color="#2CE28C"/>
+      <stop offset=".501" stop-color="#1fd17d"/>
+      <stop offset=".641" stop-color="#2ce28c"/>
     </linearGradient>
     <linearGradient id="litentry_svg__d" x1="10.014" x2="1.341" y1="0" y2="9.461" gradientUnits="userSpaceOnUse">
-      <stop offset=".65" stop-color="#1BC675"/>
-      <stop offset=".797" stop-color="#0FD879"/>
+      <stop offset=".65" stop-color="#1bc675"/>
+      <stop offset=".797" stop-color="#0fd879"/>
     </linearGradient>
   </defs>
 </svg>

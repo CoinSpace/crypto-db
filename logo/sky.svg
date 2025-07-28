@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 483.182 483.182">
-  <radialGradient id="sky_svg__a" cx="-2160.505" cy="779.083" r="1" gradientTransform="matrix(-183.96646 -158.84442 -158.84607 183.96455 -273464.594 -486266.344)" gradientUnits="userSpaceOnUse">
+  <radialGradient id="sky_svg__a" cx="-2160.505" cy="779.083" r="1" gradientTransform="rotate(40.81 516870.69 -610703.903)scale(-243.05392 243.05355)" gradientUnits="userSpaceOnUse">
     <stop offset="0" stop-color="#a273ff"/>
     <stop offset="1" stop-color="#4331e9"/>
   </radialGradient>
   <path fill="url(#sky_svg__a)" d="M46.14 99.587A241.6 241.6 0 0 1 70.76 70.76l3.003 1.655 166.25 167.143 1.578 2.033z"/>
-  <radialGradient id="sky_svg__b" cx="-2156.328" cy="774.066" r="1" gradientTransform="matrix(-38.67718 -244.34738 -244.34695 38.6763 105981.54 -556589.563)" gradientUnits="userSpaceOnUse">
+  <radialGradient id="sky_svg__b" cx="-2156.328" cy="774.066" r="1" gradientTransform="rotate(81.005 378803.688 -216258.05)scale(-247.3895 247.38894)" gradientUnits="userSpaceOnUse">
     <stop offset="0" stop-color="#f7a7f9"/>
     <stop offset="1" stop-color="#00ddfb"/>
   </radialGradient>
@@ -20,7 +20,7 @@
     <stop offset="1" stop-color="#aaf2e1"/>
   </radialGradient>
   <path fill="url(#sky_svg__d)" d="M483.182 241.591c0 25.351-3.99 50.545-11.824 74.656l-5.714.92-222.276-74.67-1.777-.906z"/>
-  <radialGradient id="sky_svg__e" cx="-2142.22" cy="784.293" r="1" gradientTransform="matrix(199.3928 144.81642 144.8185 -199.39154 313804.625 466851.656)" gradientUnits="userSpaceOnUse">
+  <radialGradient id="sky_svg__e" cx="-2142.22" cy="784.293" r="1" gradientTransform="rotate(215.99 232722.482 182457.4)scale(-246.43312 246.43333)" gradientUnits="userSpaceOnUse">
     <stop offset="0" stop-color="#0075ff"/>
     <stop offset="1" stop-color="#00ddfb"/>
   </radialGradient>
@@ -35,7 +35,7 @@
     <stop offset="1" stop-color="#00ddfb"/>
   </radialGradient>
   <path fill="url(#sky_svg__g)" d="M203.798 480.208a241.6 241.6 0 0 1-36.862-8.85l-.667-5.587 73.945-221.659 1.377-2.52z"/>
-  <radialGradient id="sky_svg__h" cx="-2151.664" cy="790.881" r="1" gradientTransform="matrix(-108.43365 241.58905 241.58975 108.43172 -424139.906 434303.375)" gradientUnits="userSpaceOnUse">
+  <radialGradient id="sky_svg__h" cx="-2151.664" cy="790.881" r="1" gradientTransform="rotate(114.172 -352626.045 79883.03)scale(264.80771 -264.80756)" gradientUnits="userSpaceOnUse">
     <stop offset="0" stop-color="#ffd2b9"/>
     <stop offset=".29" stop-color="#c99bed"/>
     <stop offset="1" stop-color="#0075ff"/>
@@ -57,7 +57,7 @@
     <stop offset="1" stop-color="#eb5edf"/>
   </radialGradient>
   <path fill="url(#sky_svg__k)" d="M383.596 46.14a241.6 241.6 0 0 1 87.76 120.788L241.591 241.59z"/>
-  <radialGradient id="sky_svg__l" cx="-2160.505" cy="779.083" r="1" gradientTransform="matrix(-183.96646 -158.84442 -158.84607 183.96455 -273464.594 -486266.344)" gradientUnits="userSpaceOnUse">
+  <radialGradient id="sky_svg__l" cx="-2160.505" cy="779.083" r="1" gradientTransform="rotate(40.81 516870.69 -610703.903)scale(-243.05392 243.05355)" gradientUnits="userSpaceOnUse">
     <stop offset="0" stop-color="#a273ff"/>
     <stop offset="1" stop-color="#4331e9"/>
   </radialGradient>
@@ -67,7 +67,7 @@
     <stop offset="1" stop-color="#ffc044"/>
   </radialGradient>
   <path fill="url(#sky_svg__m)" d="M0 241.591c0-25.352 3.99-50.545 11.824-74.656l229.767 74.656z"/>
-  <radialGradient id="sky_svg__n" cx="-2160.505" cy="779.083" r="1" gradientTransform="matrix(-183.96646 -158.84442 -158.84607 183.96455 -273464.594 -486266.344)" gradientUnits="userSpaceOnUse">
+  <radialGradient id="sky_svg__n" cx="-2160.505" cy="779.083" r="1" gradientTransform="rotate(40.81 516870.69 -610703.903)scale(-243.05392 243.05355)" gradientUnits="userSpaceOnUse">
     <stop offset="0" stop-color="#a273ff"/>
     <stop offset="1" stop-color="#4331e9"/>
   </radialGradient>
