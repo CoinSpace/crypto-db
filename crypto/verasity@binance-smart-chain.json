@@ -1,0 +1,18 @@
+{
+  "_id": "verasity@binance-smart-chain",
+  "asset": "verasity",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Verasity",
+  "symbol": "VRA",
+  "address": "0x1d58e204ca59328007469a614522903d69dc0a4c",
+  "decimals": 18,
+  "logo": "verasity.svg",
+  "coingecko": {
+    "id": "verasity"
+  },
+  "coinmarketcap": {
+    "id": 3816,
+    "slug": "verasity"
+  }
+}
