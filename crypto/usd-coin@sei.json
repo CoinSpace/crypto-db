@@ -5,7 +5,7 @@
   "type": "token",
   "name": "USDC",
   "symbol": "USDC",
-  "address": "0x3894085ef7ff0f0aedf52e2a2704928d1ec074f1",
+  "address": "0xe15fc38f6d8c56af07bbcbe3baf5708a2bf42392",
   "logo": "usd-coin.svg",
   "supported": false,
   "coingecko": {
