@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "tenx@ethereum",
   "asset": "tenx",
   "platform": "ethereum",

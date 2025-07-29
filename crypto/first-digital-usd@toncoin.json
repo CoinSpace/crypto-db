@@ -1,0 +1,18 @@
+{
+  "_id": "first-digital-usd@toncoin",
+  "asset": "first-digital-usd",
+  "platform": "toncoin",
+  "type": "token",
+  "name": "First Digital USD",
+  "symbol": "FDUSD",
+  "address": "EQD0Evpk4timFOHmy4Sv3l_KEUXlM-dN1_KhroTCfB2wkO89",
+  "decimals": 6,
+  "logo": "first-digital-usd.svg",
+  "coingecko": {
+    "id": "first-digital-usd"
+  },
+  "coinmarketcap": {
+    "id": 26081,
+    "slug": "first-digital-usd"
+  }
+}
