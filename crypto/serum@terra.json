@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "serum@terra",
   "asset": "serum",
   "platform": "terra",

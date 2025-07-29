@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "maker@avalanche-c-chain",
   "asset": "maker",
   "platform": "avalanche-c-chain",

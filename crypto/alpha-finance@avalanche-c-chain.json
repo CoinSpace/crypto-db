@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "alpha-finance@avalanche-c-chain",
   "asset": "alpha-finance",
   "platform": "avalanche-c-chain",

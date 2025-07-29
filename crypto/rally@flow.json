@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "rally@flow",
   "asset": "rally",
   "platform": "flow",

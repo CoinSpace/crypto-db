@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "ren@near",
   "asset": "ren",
   "platform": "near",

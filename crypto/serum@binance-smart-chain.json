@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "serum@binance-smart-chain",
   "asset": "serum",
   "platform": "binance-smart-chain",

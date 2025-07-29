@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "celsius-network@solana",
   "asset": "celsius-network",
   "platform": "solana",
