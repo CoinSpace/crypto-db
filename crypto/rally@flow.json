@@ -1,5 +1,4 @@
 {
-  "deprecated": true,
   "_id": "rally@flow",
   "asset": "rally",
   "platform": "flow",
@@ -8,7 +7,6 @@
   "symbol": "RLY",
   "address": "A.231cc0dbbcffc4b7.RLY",
   "logo": "rally.svg",
-  "supported": false,
   "coingecko": {
     "id": "rally-2"
   },
