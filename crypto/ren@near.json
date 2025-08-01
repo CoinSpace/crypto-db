@@ -1,5 +1,4 @@
 {
-  "deprecated": true,
   "_id": "ren@near",
   "asset": "ren",
   "platform": "near",
@@ -8,7 +7,6 @@
   "symbol": "REN",
   "address": "408e41876cccdc0f92210600ef50372656052a38.factory.bridge.near",
   "logo": "ren.svg",
-  "supported": false,
   "coingecko": {
     "id": "republic-protocol"
   },
