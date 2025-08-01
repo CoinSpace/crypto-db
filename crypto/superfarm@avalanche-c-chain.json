@@ -1,0 +1,18 @@
+{
+  "_id": "superfarm@avalanche-c-chain",
+  "asset": "superfarm",
+  "platform": "avalanche-c-chain",
+  "type": "token",
+  "name": "SuperVerse",
+  "symbol": "SUPER",
+  "address": "0x09fa58228bb791ea355c90da1e4783452b9bd8c3",
+  "decimals": 18,
+  "logo": "superfarm.svg",
+  "coingecko": {
+    "id": "superfarm"
+  },
+  "coinmarketcap": {
+    "id": 8290,
+    "slug": "superverse"
+  }
+}
