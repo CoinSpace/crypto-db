@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "fantom@binance-smart-chain",
   "asset": "fantom",
   "platform": "binance-smart-chain",
