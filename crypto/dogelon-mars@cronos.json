@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "dogelon-mars@cronos",
   "asset": "dogelon-mars",
   "platform": "cronos",

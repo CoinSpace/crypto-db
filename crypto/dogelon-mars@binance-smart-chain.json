@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "dogelon-mars@binance-smart-chain",
   "asset": "dogelon-mars",
   "platform": "binance-smart-chain",

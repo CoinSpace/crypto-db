@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "bella-protocol@polygon",
   "asset": "bella-protocol",
   "platform": "polygon",
