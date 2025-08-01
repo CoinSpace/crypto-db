@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "gemini-dollar@near",
   "asset": "gemini-dollar",
   "platform": "near",

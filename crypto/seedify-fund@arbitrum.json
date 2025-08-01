@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "seedify-fund@arbitrum",
   "asset": "seedify-fund",
   "platform": "arbitrum",

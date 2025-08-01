@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "mobox@arbitrum",
   "asset": "mobox",
   "platform": "arbitrum",

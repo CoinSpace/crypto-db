@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "origin-protocol@base",
   "asset": "origin-protocol",
   "platform": "base",

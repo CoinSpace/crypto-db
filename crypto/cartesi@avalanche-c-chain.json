@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "cartesi@avalanche-c-chain",
   "asset": "cartesi",
   "platform": "avalanche-c-chain",

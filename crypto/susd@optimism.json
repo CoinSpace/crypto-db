@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "susd@optimism",
   "asset": "susd",
   "platform": "optimism",

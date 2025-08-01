@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "ampleforth-governance-token@near",
   "asset": "ampleforth-governance-token",
   "platform": "near",

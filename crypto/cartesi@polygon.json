@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "cartesi@polygon",
   "asset": "cartesi",
   "platform": "polygon",

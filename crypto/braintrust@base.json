@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "braintrust@base",
   "asset": "braintrust",
   "platform": "base",

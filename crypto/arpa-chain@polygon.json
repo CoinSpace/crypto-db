@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "arpa-chain@polygon",
   "asset": "arpa-chain",
   "platform": "polygon",

@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "binance-usd@solana",
   "asset": "binance-usd",
   "platform": "solana",

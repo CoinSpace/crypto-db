@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "perpetual-protocol@solana",
   "asset": "perpetual-protocol",
   "platform": "solana",

@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "usd-coin@fantom",
   "asset": "usd-coin",
   "platform": "fantom",

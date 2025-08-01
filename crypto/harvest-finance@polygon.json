@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "harvest-finance@polygon",
   "asset": "harvest-finance",
   "platform": "polygon",

@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "coin98@polygon",
   "asset": "coin98",
   "platform": "polygon",

@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "enzyme@polygon",
   "asset": "enzyme",
   "platform": "polygon",

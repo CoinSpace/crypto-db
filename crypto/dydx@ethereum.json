@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "dydx@ethereum",
   "asset": "dydx",
   "platform": "ethereum",

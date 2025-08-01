@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "aavegotchi@base",
   "asset": "aavegotchi",
   "platform": "base",

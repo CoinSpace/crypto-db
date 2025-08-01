@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "binance-usd@harmony",
   "asset": "binance-usd",
   "platform": "harmony",

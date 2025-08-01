@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "verasity@binance-smart-chain",
   "asset": "verasity",
   "platform": "binance-smart-chain",

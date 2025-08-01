@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "seedify-fund@ethereum",
   "asset": "seedify-fund",
   "platform": "ethereum",

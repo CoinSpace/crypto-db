@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "boson-protocol@polygon",
   "asset": "boson-protocol",
   "platform": "polygon",

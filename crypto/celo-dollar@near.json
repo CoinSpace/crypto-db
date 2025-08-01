@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "celo-dollar@near",
   "asset": "celo-dollar",
   "platform": "near",

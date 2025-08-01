@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "wrapped-bitcoin@tron",
   "asset": "wrapped-bitcoin",
   "platform": "tron",

@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "cartesi@optimism",
   "asset": "cartesi",
   "platform": "optimism",

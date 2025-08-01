@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "boson-protocol@base",
   "asset": "boson-protocol",
   "platform": "base",

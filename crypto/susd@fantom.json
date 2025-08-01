@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "susd@fantom",
   "asset": "susd",
   "platform": "fantom",
