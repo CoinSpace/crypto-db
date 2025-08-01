@@ -1,5 +1,4 @@
 {
-  "deprecated": true,
   "_id": "serum@terra",
   "asset": "serum",
   "platform": "terra",
@@ -8,7 +7,6 @@
   "symbol": "SRM",
   "address": "terra1dkam9wd5yvaswv4yq3n2aqd4wm5j8n82qc0c7c",
   "logo": "serum.svg",
-  "supported": false,
   "coingecko": {
     "id": "serum"
   },
