@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "gala@binance-smart-chain",
   "asset": "gala",
   "platform": "binance-smart-chain",

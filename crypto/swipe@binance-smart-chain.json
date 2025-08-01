@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "swipe@binance-smart-chain",
   "asset": "swipe",
   "platform": "binance-smart-chain",

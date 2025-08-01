@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "lido-dao@polygon",
   "asset": "lido-dao",
   "platform": "polygon",

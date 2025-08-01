@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "pax-dollar@binance-smart-chain",
   "asset": "pax-dollar",
   "platform": "binance-smart-chain",

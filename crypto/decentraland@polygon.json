@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "decentraland@polygon",
   "asset": "decentraland",
   "platform": "polygon",

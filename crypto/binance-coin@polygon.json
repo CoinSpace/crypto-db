@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "binance-coin@polygon",
   "asset": "binance-coin",
   "platform": "polygon",

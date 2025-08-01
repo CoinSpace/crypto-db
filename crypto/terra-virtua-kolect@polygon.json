@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "terra-virtua-kolect@polygon",
   "asset": "terra-virtua-kolect",
   "platform": "polygon",

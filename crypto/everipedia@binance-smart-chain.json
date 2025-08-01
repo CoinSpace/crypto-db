@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "everipedia@binance-smart-chain",
   "asset": "everipedia",
   "platform": "binance-smart-chain",

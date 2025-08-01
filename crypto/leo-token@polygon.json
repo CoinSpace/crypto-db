@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "leo-token@polygon",
   "asset": "leo-token",
   "platform": "polygon",

@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "osmosis@ethereum",
   "asset": "osmosis",
   "platform": "ethereum",

@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "trueusd@polygon",
   "asset": "trueusd",
   "platform": "polygon",

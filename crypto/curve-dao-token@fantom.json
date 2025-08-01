@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "curve-dao-token@fantom",
   "asset": "curve-dao-token",
   "platform": "fantom",

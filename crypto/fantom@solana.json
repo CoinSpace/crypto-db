@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "fantom@solana",
   "asset": "fantom",
   "platform": "solana",

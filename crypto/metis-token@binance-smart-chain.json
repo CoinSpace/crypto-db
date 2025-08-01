@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "metis-token@binance-smart-chain",
   "asset": "metis-token",
   "platform": "binance-smart-chain",

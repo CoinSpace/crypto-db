@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "woo-network@solana",
   "asset": "woo-network",
   "platform": "solana",

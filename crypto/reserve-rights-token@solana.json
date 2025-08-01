@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "reserve-rights-token@solana",
   "asset": "reserve-rights-token",
   "platform": "solana",

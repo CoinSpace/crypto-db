@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "0x@avalanche-c-chain",
   "asset": "0x",
   "platform": "avalanche-c-chain",

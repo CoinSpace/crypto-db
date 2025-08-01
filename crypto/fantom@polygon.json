@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "fantom@polygon",
   "asset": "fantom",
   "platform": "polygon",

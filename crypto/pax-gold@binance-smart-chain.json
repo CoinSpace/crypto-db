@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "pax-gold@binance-smart-chain",
   "asset": "pax-gold",
   "platform": "binance-smart-chain",

@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "enjin-coin@solana",
   "asset": "enjin-coin",
   "platform": "solana",

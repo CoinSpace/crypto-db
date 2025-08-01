@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "swipe@ethereum",
   "asset": "swipe",
   "platform": "ethereum",

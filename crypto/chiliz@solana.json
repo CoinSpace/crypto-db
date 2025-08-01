@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "chiliz@solana",
   "asset": "chiliz",
   "platform": "solana",

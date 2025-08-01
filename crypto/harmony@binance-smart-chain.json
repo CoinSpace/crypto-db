@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "harmony@binance-smart-chain",
   "asset": "harmony",
   "platform": "binance-smart-chain",

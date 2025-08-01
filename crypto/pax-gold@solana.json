@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "pax-gold@solana",
   "asset": "pax-gold",
   "platform": "solana",

@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "sushi@solana",
   "asset": "sushi",
   "platform": "solana",

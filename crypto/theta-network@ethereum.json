@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "theta-network@ethereum",
   "asset": "theta-network",
   "platform": "ethereum",

@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "the-sandbox@solana",
   "asset": "the-sandbox",
   "platform": "solana",
