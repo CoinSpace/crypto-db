@@ -1,0 +1,17 @@
+{
+  "_id": "mantle@mantle",
+  "asset": "mantle",
+  "platform": "mantle",
+  "type": "coin",
+  "name": "Mantle",
+  "symbol": "MNT",
+  "logo": "mantle.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "mantle"
+  },
+  "coinmarketcap": {
+    "id": 27075,
+    "slug": "mantle"
+  }
+}

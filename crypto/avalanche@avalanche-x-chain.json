@@ -1,0 +1,17 @@
+{
+  "_id": "avalanche@avalanche-x-chain",
+  "asset": "avalanche",
+  "platform": "avalanche-x-chain",
+  "type": "coin",
+  "name": "Avalanche X Chain",
+  "symbol": "AVAX",
+  "logo": "avalanche.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "avalanche-2"
+  },
+  "coinmarketcap": {
+    "id": 5805,
+    "slug": "avalanche"
+  }
+}

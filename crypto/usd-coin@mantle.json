@@ -1,0 +1,18 @@
+{
+  "_id": "usd-coin@mantle",
+  "asset": "usd-coin",
+  "platform": "mantle",
+  "type": "token",
+  "name": "USDC",
+  "symbol": "USDC",
+  "address": "0x09bc4e0d864854c6afb6eb9a9cdf58ac190d0df9",
+  "logo": "usd-coin.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "usd-coin"
+  },
+  "coinmarketcap": {
+    "id": 3408,
+    "slug": "usd-coin"
+  }
+}
