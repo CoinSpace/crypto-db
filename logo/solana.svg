@@ -1,14 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 85 85">
-  <path fill="#000" d="M42.5 85C65.972 85 85 65.972 85 42.5S65.972 0 42.5 0 0 19.028 0 42.5 19.028 85 42.5 85"/>
-  <path fill="url(#solana_svg__a)" d="m66.742 55.544-8.254 8.924a1.92 1.92 0 0 1-1.402.614H17.958a.95.95 0 0 1-.879-.581.97.97 0 0 1 .179-1.044l8.26-8.924a1.92 1.92 0 0 1 1.398-.614h39.126a.95.95 0 0 1 .879.58.97.97 0 0 1-.179 1.045m-8.254-17.97a1.92 1.92 0 0 0-1.402-.615H17.958a.95.95 0 0 0-.879.581.97.97 0 0 0 .179 1.044l8.26 8.925a1.92 1.92 0 0 0 1.398.614h39.126a.95.95 0 0 0 .879-.581.97.97 0 0 0-.179-1.045l-8.254-8.924Zm-40.53-6.41h39.128a1.9 1.9 0 0 0 1.403-.615l8.253-8.924a.968.968 0 0 0-.7-1.625H26.916a1.9 1.9 0 0 0-1.398.614l-8.258 8.924a.969.969 0 0 0 .698 1.625Z"/>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
+  <path fill="#000" d="M10 20c5.523 0 10-4.477 10-10S15.523 0 10 0 0 4.477 0 10s4.477 10 10 10"/>
+  <path fill="url(#solana_svg__a)" d="M5.113 5.127a.42.42 0 0 1 .3-.127h10.375c.188 0 .283.234.15.371l-2.05 2.102a.42.42 0 0 1-.3.127H3.213c-.19 0-.284-.234-.15-.371z"/>
+  <path fill="url(#solana_svg__b)" d="M5.113 12.927a.42.42 0 0 1 .3-.127h10.375c.188 0 .283.234.15.371l-2.05 2.102a.42.42 0 0 1-.3.127H3.213c-.19 0-.284-.234-.15-.372z"/>
+  <path fill="url(#solana_svg__c)" d="M13.588 8.9c.112 0 .22.046.3.127l2.05 2.102c.133.137.038.371-.15.371H5.413a.42.42 0 0 1-.3-.127L3.063 9.27c-.134-.137-.04-.371.15-.371z"/>
   <defs>
-    <linearGradient id="solana_svg__a" x1="21.221" x2="62.625" y1="66.156" y2="19.858" gradientUnits="userSpaceOnUse">
-      <stop offset=".08" stop-color="#9945ff"/>
-      <stop offset=".3" stop-color="#8752f3"/>
-      <stop offset=".5" stop-color="#5497d5"/>
-      <stop offset=".6" stop-color="#43b4ca"/>
-      <stop offset=".72" stop-color="#28e0b9"/>
-      <stop offset=".97" stop-color="#19fb9b"/>
+    <linearGradient id="solana_svg__a" x1="11.789" x2="4.317" y1="2.134" y2="16.085" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00ffa3"/>
+      <stop offset="1" stop-color="#dc1fff"/>
+    </linearGradient>
+    <linearGradient id="solana_svg__b" x1="11.789" x2="4.317" y1="2.134" y2="16.085" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00ffa3"/>
+      <stop offset="1" stop-color="#dc1fff"/>
+    </linearGradient>
+    <linearGradient id="solana_svg__c" x1="11.789" x2="4.317" y1="2.134" y2="16.085" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00ffa3"/>
+      <stop offset="1" stop-color="#dc1fff"/>
     </linearGradient>
   </defs>
 </svg>
