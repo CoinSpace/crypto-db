@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "starlink@ethereum",
   "asset": "starlink",
   "platform": "ethereum",
@@ -7,7 +8,6 @@
   "symbol": "STARL",
   "address": "0x8e6cd950ad6ba651f6dd608dc70e5886b1aa6b24",
   "decimals": 18,
-  "logo": "starlink.png",
   "coingecko": {
     "id": "starlink"
   },

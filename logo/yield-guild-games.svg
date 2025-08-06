@@ -1,22 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 64 64">
-  <g filter="url(#yield-guild-games_svg__a)">
-    <path fill="#000" d="M7.942 11.388 19.77 4.555h23.654l11.827 6.833v31.89L31.596 56.943 7.942 43.277z"/>
-    <path fill="url(#yield-guild-games_svg__b)" fill-rule="evenodd" d="M7.941 6.833 19.768 0h23.654l11.827 6.833v4.556L43.422 4.556H19.768L7.941 11.389zm51.251 6.834v31.889L31.596 61.5 4 45.556v-31.89l3.942-2.277v31.889l23.654 13.666L55.25 43.278v-31.89zM23.71 15.944l-3.942-2.277v13.666l11.827 6.834 11.827-6.834V13.667l-3.943 2.277v9.111l-7.884 4.556-7.885-4.556zm15.77 18.222v4.556l-11.827 6.833V41z" clip-rule="evenodd"/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+  <path fill="#1d1f22" d="M2.373 3.703 6.22 1.481h7.693l3.846 2.222v10.37l-7.693 4.445-7.692-4.444z"/>
+  <path fill="url(#yield-guild-games_svg__a)" fill-rule="evenodd" d="M2.373 2.222 6.219 0h7.692l3.847 2.222v1.482L13.91 1.482H6.22L2.373 3.704v10.37l7.692 4.445 7.693-4.445V3.704l1.282.74v10.37L10.065 20l-8.974-5.185V4.445l1.282-.741zm5.129 2.962-1.282-.74v4.444l3.846 2.222 3.846-2.222V4.443l-1.282.741v2.963l-2.564 1.482-2.564-1.482zm5.128 5.927v1.481l-3.846 2.223v-1.482z" clip-rule="evenodd"/>
   <defs>
-    <linearGradient id="yield-guild-games_svg__b" x1="4.843" x2="26.071" y1="10.993" y2="64.504" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#fdff85"/>
+    <linearGradient id="yield-guild-games_svg__a" x1="1.365" x2="8.268" y1="3.575" y2="20.977" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffe600"/>
+      <stop offset=".219" stop-color="#fdff85"/>
       <stop offset=".479" stop-color="#66f6ff"/>
       <stop offset="1" stop-color="#cd9bff"/>
     </linearGradient>
-    <filter id="yield-guild-games_svg__a" width="55.192" height="63.923" x="4" y="0" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
-      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
-      <feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
-      <feOffset dy="2.424"/>
-      <feComposite in2="hardAlpha" operator="out"/>
-      <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0"/>
-      <feBlend in2="BackgroundImageFix" result="effect1_dropShadow_1041_2808"/>
-      <feBlend in="SourceGraphic" in2="effect1_dropShadow_1041_2808" result="shape"/>
-    </filter>
   </defs>
 </svg>

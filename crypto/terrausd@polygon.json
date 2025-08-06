@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "terrausd@polygon",
   "asset": "terrausd",
   "platform": "polygon",
@@ -7,7 +8,6 @@
   "symbol": "USTC",
   "address": "0x692597b009d13c4049a947cab2239b7d6517875f",
   "decimals": 18,
-  "logo": "terrausd.png",
   "coingecko": {
     "id": "terrausd"
   },

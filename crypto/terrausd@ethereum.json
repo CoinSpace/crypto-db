@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "terrausd@ethereum",
   "asset": "terrausd",
   "platform": "ethereum",
@@ -7,7 +8,6 @@
   "symbol": "USTC",
   "address": "0xa47c8bf37f92abed4a126bda807a7b7498661acd",
   "decimals": 18,
-  "logo": "terrausd.png",
   "coingecko": {
     "id": "terrausd"
   },
