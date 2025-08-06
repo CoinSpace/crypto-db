@@ -3,7 +3,7 @@
   "asset": "band-protocol",
   "platform": "ethereum",
   "type": "token",
-  "name": "Band Protocol",
+  "name": "Band",
   "symbol": "BAND",
   "address": "0xba11d00c5f74255f56a5e366f4f77f5a186d7f55",
   "decimals": 18,

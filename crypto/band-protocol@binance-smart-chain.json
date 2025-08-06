@@ -3,7 +3,7 @@
   "asset": "band-protocol",
   "platform": "binance-smart-chain",
   "type": "token",
-  "name": "Band Protocol",
+  "name": "Band",
   "symbol": "BAND",
   "address": "0xad6caeb32cd2c308980a548bd0bc5aa4306c6c18",
   "decimals": 18,
