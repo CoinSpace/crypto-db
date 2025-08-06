@@ -6,7 +6,7 @@
   "name": "Ethereum",
   "symbol": "ETH",
   "address": "KT19at7rQUvyjxnZ2fBv7D9zc8rkyG7gAoU8",
-  "logo": "arbitrum.svg",
+  "logo": "ethereum.svg",
   "supported": false,
   "coingecko": {
     "id": "ethereum"
