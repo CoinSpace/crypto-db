@@ -1,5 +1,4 @@
 {
-  "deprecated": true,
   "_id": "aegis-yusd@ethereum",
   "asset": "aegis-yusd",
   "platform": "ethereum",
@@ -8,6 +7,7 @@
   "symbol": "YUSD",
   "address": "0x4274cd7277c7bb0806bd5fe84b9adae466a8da0a",
   "decimals": 18,
+  "logo": "aegis-yusd.svg",
   "coingecko": {
     "id": "aegis-yusd"
   },

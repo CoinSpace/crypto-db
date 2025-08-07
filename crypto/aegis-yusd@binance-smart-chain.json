@@ -1,5 +1,4 @@
 {
-  "deprecated": true,
   "_id": "aegis-yusd@binance-smart-chain",
   "asset": "aegis-yusd",
   "platform": "binance-smart-chain",
@@ -8,6 +7,7 @@
   "symbol": "YUSD",
   "address": "0xab3dbcd9b096c3ff76275038bf58eac10d22c61f",
   "decimals": 18,
+  "logo": "aegis-yusd.svg",
   "coingecko": {
     "id": "aegis-yusd"
   },
