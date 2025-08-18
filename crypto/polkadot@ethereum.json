@@ -1,0 +1,18 @@
+{
+  "_id": "polkadot@ethereum",
+  "asset": "polkadot",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Polkadot",
+  "symbol": "DOT",
+  "address": "0x8d010bf9c26881788b4e6bf5fd1bdc358c8f90b8",
+  "decimals": 18,
+  "logo": "polkadot.svg",
+  "coingecko": {
+    "id": "polkadot"
+  },
+  "coinmarketcap": {
+    "id": 6636,
+    "slug": "polkadot-new"
+  }
+}
