@@ -1,0 +1,17 @@
+{
+  "_id": "injective-protocol@injective-protocol",
+  "asset": "injective-protocol",
+  "platform": "injective-protocol",
+  "type": "coin",
+  "name": "Injective",
+  "symbol": "INJ",
+  "logo": "injective-protocol.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "injective-protocol"
+  },
+  "coinmarketcap": {
+    "id": 7226,
+    "slug": "injective"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "ripple-usd@ethereum",
+  "asset": "ripple-usd",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Ripple USD",
+  "symbol": "RLUSD",
+  "address": "0x8292bb45bf1ee4d140127049757c2e0ff06317ed",
+  "decimals": 18,
+  "logo": "ripple-usd.svg",
+  "coingecko": {
+    "id": "ripple-usd"
+  },
+  "coinmarketcap": {
+    "id": 34387,
+    "slug": "ripple-usd"
+  }
+}

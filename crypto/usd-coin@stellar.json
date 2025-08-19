@@ -1,0 +1,18 @@
+{
+  "_id": "usd-coin@stellar",
+  "asset": "usd-coin",
+  "platform": "stellar",
+  "type": "token",
+  "name": "USDC",
+  "symbol": "USDC",
+  "address": "USDC-GA5ZSEJYB37JRC5AVCIA5MOP4RHTM335X2KGX3IHOJAPP5RE34K4KZVN",
+  "logo": "usd-coin.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "usd-coin"
+  },
+  "coinmarketcap": {
+    "id": 3408,
+    "slug": "usd-coin"
+  }
+}
