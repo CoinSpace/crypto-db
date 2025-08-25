@@ -3,7 +3,7 @@
   "asset": "1inch",
   "platform": "avalanche-c-chain",
   "type": "token",
-  "name": "1inch Network",
+  "name": "1inch",
   "symbol": "1INCH",
   "address": "0xd501281565bf7789224523144fe5d98e8b28f267",
   "decimals": 18,
