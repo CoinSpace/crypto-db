@@ -1,13 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 433 433">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 21">
+  <path fill="url(#theta-network_svg__a)" fill-rule="evenodd" d="m3.792 1.94.993-.994h10.43l.993.994v18.013l-.993.993H4.785l-.993-.993zm1.987.993v16.026h8.442V2.933z" clip-rule="evenodd"/>
+  <path fill="url(#theta-network_svg__b)" d="M13.16 13.79H11v2.262H9.051V13.79h-2.16v-1.949h6.27zm0-5.583H11V5.944H9.051v2.263h-2.16v1.948h6.27z"/>
   <defs>
-    <linearGradient id="theta-network_svg__a" x1="112.27" x2="320.73" y1="112.27" y2="320.73" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#2ab8e6"/>
-      <stop offset=".53" stop-color="#29cad2"/>
-      <stop offset="1" stop-color="#2ee4be"/>
+    <linearGradient id="theta-network_svg__a" x1="10" x2="10" y1=".946" y2="20.946" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2bd2cd"/>
+      <stop offset="1" stop-color="#2ac4da"/>
     </linearGradient>
-    <linearGradient xlink:href="#theta-network_svg__a" id="theta-network_svg__b" x1="175.55" x2="258.18" y1="175.91" y2="258.54"/>
+    <linearGradient id="theta-network_svg__b" x1="10" x2="10" y1=".946" y2="20.946" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2bd2cd"/>
+      <stop offset="1" stop-color="#2ac4da"/>
+    </linearGradient>
   </defs>
-  <path fill="#1b1f2b" d="M0 0h433v433H0z"/>
-  <path fill="#1b1f2b" stroke="url(#theta-network_svg__a)" stroke-linejoin="bevel" stroke-width="27.222" d="M145.06 93.1h142.89v246.81H145.06z"/>
-  <path fill="url(#theta-network_svg__b)" d="M259.8 255.47h-29.59v31h-26.7v-31h-29.59v-26.7h85.88zm0-76.5h-29.59v-31h-26.7v31h-29.59v26.7h85.88z"/>
 </svg>
