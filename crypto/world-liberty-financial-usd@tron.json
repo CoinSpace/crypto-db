@@ -1,0 +1,18 @@
+{
+  "_id": "world-liberty-financial-usd@tron",
+  "asset": "world-liberty-financial-usd",
+  "platform": "tron",
+  "type": "token",
+  "name": "World Liberty Financial USD",
+  "symbol": "USD1",
+  "address": "TPFqcBAaaUMCSVRCqPaQ9QnzKhmuoLR6Rc",
+  "decimals": 18,
+  "logo": "world-liberty-financial-usd.svg",
+  "coingecko": {
+    "id": "usd1-wlfi"
+  },
+  "coinmarketcap": {
+    "id": 36148,
+    "slug": "usd1"
+  }
+}
