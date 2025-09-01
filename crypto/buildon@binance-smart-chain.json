@@ -1,0 +1,18 @@
+{
+  "_id": "buildon@binance-smart-chain",
+  "asset": "buildon",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "BUILDon",
+  "symbol": "B",
+  "address": "0x6bdcce4a559076e37755a78ce0c06214e59e4444",
+  "decimals": 18,
+  "logo": "buildon.svg",
+  "coingecko": {
+    "id": "build-on"
+  },
+  "coinmarketcap": {
+    "id": 36532,
+    "slug": "buildon"
+  }
+}
