@@ -1,0 +1,18 @@
+{
+  "_id": "world-liberty-financial@ethereum",
+  "asset": "world-liberty-financial",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "World Liberty Financial",
+  "symbol": "WLFI",
+  "address": "0xda5e1988097297dcdc1f90d4dfe7909e847cbef6",
+  "decimals": 18,
+  "logo": "world-liberty-financial.svg",
+  "coingecko": {
+    "id": "world-liberty-financial"
+  },
+  "coinmarketcap": {
+    "id": 33251,
+    "slug": "world-liberty-financial-wlfi"
+  }
+}

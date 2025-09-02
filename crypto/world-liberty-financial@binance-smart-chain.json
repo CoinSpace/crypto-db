@@ -1,0 +1,18 @@
+{
+  "_id": "world-liberty-financial@binance-smart-chain",
+  "asset": "world-liberty-financial",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "World Liberty Financial",
+  "symbol": "WLFI",
+  "address": "0x47474747477b199288bf72a1d702f7fe0fb1deea",
+  "decimals": 18,
+  "logo": "world-liberty-financial.svg",
+  "coingecko": {
+    "id": "world-liberty-financial"
+  },
+  "coinmarketcap": {
+    "id": 33251,
+    "slug": "world-liberty-financial-wlfi"
+  }
+}
