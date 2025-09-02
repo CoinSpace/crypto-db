@@ -1,0 +1,18 @@
+{
+  "_id": "world-liberty-financial@solana",
+  "asset": "world-liberty-financial",
+  "platform": "solana",
+  "type": "token",
+  "name": "World Liberty Financial",
+  "symbol": "WLFI",
+  "address": "WLFinEv6ypjkczcS83FZqFpgFZYwQXutRbxGe7oC16g",
+  "decimals": 6,
+  "logo": "world-liberty-financial.svg",
+  "coingecko": {
+    "id": "world-liberty-financial"
+  },
+  "coinmarketcap": {
+    "id": 33251,
+    "slug": "world-liberty-financial-wlfi"
+  }
+}
