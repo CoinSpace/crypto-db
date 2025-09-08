@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "smooth-love-potion@solana",
   "asset": "smooth-love-potion",
   "platform": "solana",
