@@ -1,0 +1,18 @@
+{
+  "_id": "myx-finance@binance-smart-chain",
+  "asset": "myx-finance",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "MYX Finance",
+  "symbol": "MYX",
+  "address": "0xd82544bf0dfe8385ef8fa34d67e6e4940cc63e16",
+  "decimals": 18,
+  "logo": "myx-finance.svg",
+  "coingecko": {
+    "id": "myx-finance"
+  },
+  "coinmarketcap": {
+    "id": 36410,
+    "slug": "myx-finance"
+  }
+}
