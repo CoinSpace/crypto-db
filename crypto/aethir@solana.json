@@ -1,0 +1,18 @@
+{
+  "_id": "aethir@solana",
+  "asset": "aethir",
+  "platform": "solana",
+  "type": "token",
+  "name": "Aethir",
+  "symbol": "ATH",
+  "address": "Dm5BxyMetG3Aq5PaG1BrG7rBYqEMtnkjvPNMExfacVk7",
+  "decimals": 9,
+  "logo": "aethir.svg",
+  "coingecko": {
+    "id": "aethir"
+  },
+  "coinmarketcap": {
+    "id": 30083,
+    "slug": "aethir"
+  }
+}

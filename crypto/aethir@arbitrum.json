@@ -1,0 +1,18 @@
+{
+  "_id": "aethir@arbitrum",
+  "asset": "aethir",
+  "platform": "arbitrum",
+  "type": "token",
+  "name": "Aethir",
+  "symbol": "ATH",
+  "address": "0xc87b37a581ec3257b734886d9d3a581f5a9d056c",
+  "decimals": 18,
+  "logo": "aethir.svg",
+  "coingecko": {
+    "id": "aethir"
+  },
+  "coinmarketcap": {
+    "id": 30083,
+    "slug": "aethir"
+  }
+}
