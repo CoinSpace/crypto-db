@@ -1,0 +1,18 @@
+{
+  "_id": "aethir@ethereum",
+  "asset": "aethir",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Aethir",
+  "symbol": "ATH",
+  "address": "0xbe0ed4138121ecfc5c0e56b40517da27e6c5226b",
+  "decimals": 18,
+  "logo": "aethir.svg",
+  "coingecko": {
+    "id": "aethir"
+  },
+  "coinmarketcap": {
+    "id": 30083,
+    "slug": "aethir"
+  }
+}
