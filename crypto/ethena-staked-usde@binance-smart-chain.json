@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "ethena-staked-usde@binance-smart-chain",
   "asset": "ethena-staked-usde",
   "platform": "binance-smart-chain",
