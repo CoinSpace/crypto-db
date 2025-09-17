@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "ethena-staked-usde@ethereum",
   "asset": "ethena-staked-usde",
   "platform": "ethereum",
