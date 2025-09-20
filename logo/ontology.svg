@@ -1,3 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 186.8 178.8">
-  <path fill="#48a3ff" d="M26.2 26.2 0 0v89.4c0 22.9 8.7 45.8 26.2 63.2 34.9 34.9 91.6 34.9 126.5 0zm134.4 126.4 26.2 26.2V89.4c0-22.9-8.7-45.8-26.2-63.2C125.7-8.7 69-8.7 34.1 26.2z"/>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
+  <g clip-path="url(#ontology_svg__a)">
+    <mask id="ontology_svg__b" width="20" height="20" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:luminance">
+      <path fill="#fff" d="M20 0H0v20h20z"/>
+    </mask>
+    <g mask="url(#ontology_svg__b)">
+      <path fill="#48a3ff" d="M5.52 5.787 3.773 4.04V10a5.92 5.92 0 0 0 1.747 4.213 5.967 5.967 0 0 0 8.433 0z"/>
+    </g>
+    <mask id="ontology_svg__c" width="20" height="20" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:luminance">
+      <path fill="#fff" d="M20 0H0v20h20z"/>
+    </mask>
+    <g mask="url(#ontology_svg__c)">
+      <path fill="#48a3ff" d="m14.48 14.213 1.747 1.747V10a5.92 5.92 0 0 0-1.747-4.213 5.967 5.967 0 0 0-8.433 0z"/>
+    </g>
+  </g>
+  <defs>
+    <clipPath id="ontology_svg__a">
+      <path fill="#fff" d="M0 0h20v20H0z"/>
+    </clipPath>
+  </defs>
 </svg>
