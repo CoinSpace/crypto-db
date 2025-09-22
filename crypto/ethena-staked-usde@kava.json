@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "ethena-staked-usde@kava",
   "asset": "ethena-staked-usde",
   "platform": "kava",
