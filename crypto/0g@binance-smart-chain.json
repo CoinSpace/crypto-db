@@ -1,0 +1,18 @@
+{
+  "_id": "0g@binance-smart-chain",
+  "asset": "0g",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "0G",
+  "symbol": "0G",
+  "address": "0x4b948d64de1f71fcd12fb586f4c776421a35b3ee",
+  "decimals": 18,
+  "logo": "0g.png",
+  "coingecko": {
+    "id": "zero-gravity"
+  },
+  "coinmarketcap": {
+    "id": 38337,
+    "slug": "zero-gravity"
+  }
+}
