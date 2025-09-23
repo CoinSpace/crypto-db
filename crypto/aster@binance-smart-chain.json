@@ -1,0 +1,18 @@
+{
+  "_id": "aster@binance-smart-chain",
+  "asset": "aster",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Aster",
+  "symbol": "ASTER",
+  "address": "0x000ae314e2a2172a039b26378814c252734f556a",
+  "decimals": 18,
+  "logo": "aster.svg",
+  "coingecko": {
+    "id": "aster-2"
+  },
+  "coinmarketcap": {
+    "id": 36341,
+    "slug": "aster"
+  }
+}
