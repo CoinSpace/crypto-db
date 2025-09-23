@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
+  <circle cx="10" cy="10" r="10" fill="#151515"/>
+  <path fill="url(#aster_svg__a)" d="m7.042 16.205.323-1.484c.36-1.655-.906-3.218-2.605-3.218H3.284a6.9 6.9 0 0 0 3.758 4.702"/>
+  <path fill="url(#aster_svg__b)" d="M7.69 16.474a6.9 6.9 0 0 0 2.328.401 6.9 6.9 0 0 0 6.734-5.372H12.25a4.31 4.31 0 0 0-4.215 3.389z"/>
+  <path fill="url(#aster_svg__c)" d="M16.87 10.816a7 7 0 0 0 .048-.817c0-3.607-2.787-6.565-6.333-6.852l-.967 4.451c-.36 1.655.906 3.218 2.605 3.218z"/>
+  <path fill="url(#aster_svg__d)" d="M9.884 3.125c-3.749.071-6.766 3.122-6.766 6.874q0 .416.048.817h1.568a4.31 4.31 0 0 0 4.215-3.388z"/>
+  <defs>
+    <linearGradient id="aster_svg__a" x1="11.257" x2="8.55" y1="3.125" y2="16.897" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f4d5b1"/>
+      <stop offset="1" stop-color="#ffd29f"/>
+    </linearGradient>
+    <linearGradient id="aster_svg__b" x1="11.257" x2="8.55" y1="3.125" y2="16.897" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f4d5b1"/>
+      <stop offset="1" stop-color="#ffd29f"/>
+    </linearGradient>
+    <linearGradient id="aster_svg__c" x1="11.257" x2="8.55" y1="3.125" y2="16.897" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f4d5b1"/>
+      <stop offset="1" stop-color="#ffd29f"/>
+    </linearGradient>
+    <linearGradient id="aster_svg__d" x1="11.257" x2="8.55" y1="3.125" y2="16.897" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f4d5b1"/>
+      <stop offset="1" stop-color="#ffd29f"/>
+    </linearGradient>
+  </defs>
+</svg>
