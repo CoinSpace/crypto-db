@@ -1,0 +1,18 @@
+{
+  "_id": "ether-fi@arbitrum",
+  "asset": "ether-fi",
+  "platform": "arbitrum",
+  "type": "token",
+  "name": "ether.fi",
+  "symbol": "ETHFI",
+  "address": "0x7189fb5b6504bbff6a852b13b7b82a3c118fdc27",
+  "decimals": 18,
+  "logo": "ether-fi.svg",
+  "coingecko": {
+    "id": "ether-fi"
+  },
+  "coinmarketcap": {
+    "id": 29814,
+    "slug": "ether-fi-ethfi"
+  }
+}
