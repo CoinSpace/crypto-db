@@ -1,0 +1,18 @@
+{
+  "_id": "plasma@binance-smart-chain",
+  "asset": "plasma",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Plasma",
+  "symbol": "XPL",
+  "address": "0x405fbc9004d857903bfd6b3357792d71a50726b0",
+  "decimals": 18,
+  "logo": "plasma.svg",
+  "coingecko": {
+    "id": "plasma"
+  },
+  "coinmarketcap": {
+    "id": 36645,
+    "slug": "plasma-xpl"
+  }
+}
