@@ -1,0 +1,17 @@
+{
+  "_id": "plasma@plasma",
+  "asset": "plasma",
+  "platform": "plasma",
+  "type": "coin",
+  "name": "Plasma",
+  "symbol": "XPL",
+  "logo": "plasma.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "plasma"
+  },
+  "coinmarketcap": {
+    "id": 36645,
+    "slug": "plasma-xpl"
+  }
+}
