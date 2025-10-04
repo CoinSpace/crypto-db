@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "ong@binance-smart-chain",
   "asset": "ong",
   "platform": "binance-smart-chain",
