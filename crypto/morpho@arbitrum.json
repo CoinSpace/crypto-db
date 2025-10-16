@@ -1,0 +1,18 @@
+{
+  "_id": "morpho@arbitrum",
+  "asset": "morpho",
+  "platform": "arbitrum",
+  "type": "token",
+  "name": "Morpho",
+  "symbol": "MORPHO",
+  "address": "0x40bd670a58238e6e230c430bbb5ce6ec0d40df48",
+  "decimals": 18,
+  "logo": "morpho.svg",
+  "coingecko": {
+    "id": "morpho"
+  },
+  "coinmarketcap": {
+    "id": 34104,
+    "slug": "morpho"
+  }
+}
