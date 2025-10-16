@@ -1,0 +1,18 @@
+{
+  "_id": "doublezero@solana",
+  "asset": "doublezero",
+  "platform": "solana",
+  "type": "token",
+  "name": "DoubleZero",
+  "symbol": "2Z",
+  "address": "J6pQQ3FAcJQeWPPGppWRb4nM8jU3wLyYbRrLh7feMfvd",
+  "decimals": 8,
+  "logo": "doublezero.svg",
+  "coingecko": {
+    "id": "doublezero"
+  },
+  "coinmarketcap": {
+    "id": 38515,
+    "slug": "doublezero"
+  }
+}
