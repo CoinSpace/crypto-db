@@ -1,14 +1,13 @@
 {
-  "deprecated": true,
-  "_id": "chainlink@near",
+  "_id": "chainlink@base",
   "asset": "chainlink",
-  "platform": "near",
+  "platform": "base",
   "type": "token",
   "name": "Chainlink",
   "symbol": "LINK",
-  "address": "514910771af9ca656af840dff83e8264ecf986ca.factory.bridge.near",
+  "address": "0x88fb150bdc53a65fe94dea0c9ba0a6daf8c6e196",
+  "decimals": 18,
   "logo": "chainlink.svg",
-  "supported": false,
   "coingecko": {
     "id": "chainlink"
   },
