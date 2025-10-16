@@ -1,0 +1,17 @@
+{
+  "_id": "hyperliquid@hyperliquid",
+  "asset": "hyperliquid",
+  "platform": "hyperliquid",
+  "type": "coin",
+  "name": "Hyperliquid",
+  "symbol": "HYPE",
+  "logo": "hyperliquid.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "hyperliquid"
+  },
+  "coinmarketcap": {
+    "id": 32196,
+    "slug": "hyperliquid"
+  }
+}

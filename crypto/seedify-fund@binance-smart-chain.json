@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "seedify-fund@binance-smart-chain",
   "asset": "seedify-fund",
   "platform": "binance-smart-chain",
