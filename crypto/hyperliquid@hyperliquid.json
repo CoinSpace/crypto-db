@@ -2,9 +2,10 @@
   "_id": "hyperliquid@hyperliquid",
   "asset": "hyperliquid",
   "platform": "hyperliquid",
-  "type": "coin",
+  "type": "token",
   "name": "Hyperliquid",
   "symbol": "HYPE",
+  "address": "0x0d01dc56dcaaca66ad901c959b4011ec",
   "logo": "hyperliquid.svg",
   "supported": false,
   "coingecko": {
