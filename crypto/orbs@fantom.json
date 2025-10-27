@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "orbs@fantom",
   "asset": "orbs",
   "platform": "fantom",

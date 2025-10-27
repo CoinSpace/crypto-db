@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "orbs@harmony",
   "asset": "orbs",
   "platform": "harmony",
