@@ -5,7 +5,7 @@
   "type": "token",
   "name": "USDD",
   "symbol": "USDD",
-  "address": "0x392004bee213f1ff580c867359c246924f21e6ad",
+  "address": "0x45e51bc23d592eb2dba86da3985299f7895d66ba",
   "decimals": 18,
   "logo": "usdd.svg",
   "coingecko": {
