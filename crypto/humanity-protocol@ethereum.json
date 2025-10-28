@@ -1,0 +1,18 @@
+{
+  "_id": "humanity-protocol@ethereum",
+  "asset": "humanity-protocol",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Humanity Protocol",
+  "symbol": "H",
+  "address": "0xcf5104d094e3864cfcbda43b82e1cefd26a016eb",
+  "decimals": 18,
+  "logo": "humanity-protocol.svg",
+  "coingecko": {
+    "id": "humanity"
+  },
+  "coinmarketcap": {
+    "id": 36922,
+    "slug": "humanity-protocol"
+  }
+}
