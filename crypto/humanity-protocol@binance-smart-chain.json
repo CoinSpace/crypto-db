@@ -1,0 +1,18 @@
+{
+  "_id": "humanity-protocol@binance-smart-chain",
+  "asset": "humanity-protocol",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Humanity Protocol",
+  "symbol": "H",
+  "address": "0x44f161ae29361e332dea039dfa2f404e0bc5b5cc",
+  "decimals": 18,
+  "logo": "humanity-protocol.svg",
+  "coingecko": {
+    "id": "humanity"
+  },
+  "coinmarketcap": {
+    "id": 36922,
+    "slug": "humanity-protocol"
+  }
+}
