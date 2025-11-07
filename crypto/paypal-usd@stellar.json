@@ -5,7 +5,7 @@
   "type": "token",
   "name": "PayPal USD",
   "symbol": "PYUSD",
-  "address": "PYUSD-GDQE7IXJ4HUHV6RQHIUPRJSEZE4DRS5WY577O2FY6YQ5LVWZ7JZTU2V5",
+  "address": "CCCRWH6Q3FNP3I2I57BDLM5AFAT7O6OF6GKQOC6SSJNDAVRZ57SPHGU2",
   "logo": "paypal-usd.svg",
   "supported": false,
   "coingecko": {
