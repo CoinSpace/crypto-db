@@ -3,7 +3,7 @@
   "asset": "apenft",
   "platform": "binance-smart-chain",
   "type": "token",
-  "name": "APENFT",
+  "name": "AINFT",
   "symbol": "NFT",
   "address": "0x20ee7b720f4e4c4ffcb00c4065cdae55271aecca",
   "decimals": 6,
