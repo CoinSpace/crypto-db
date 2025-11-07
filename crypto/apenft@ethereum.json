@@ -3,7 +3,7 @@
   "asset": "apenft",
   "platform": "ethereum",
   "type": "token",
-  "name": "APENFT",
+  "name": "AINFT",
   "symbol": "NFT",
   "address": "0x198d14f2ad9ce69e76ea330b374de4957c3f850a",
   "decimals": 6,
