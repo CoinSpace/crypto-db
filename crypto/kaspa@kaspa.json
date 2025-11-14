@@ -5,6 +5,7 @@
   "type": "coin",
   "name": "Kaspa",
   "symbol": "KAS",
+  "decimals": 8,
   "logo": "kaspa.svg",
   "supported": false,
   "coingecko": {

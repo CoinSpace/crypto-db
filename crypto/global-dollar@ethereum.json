@@ -1,0 +1,18 @@
+{
+  "_id": "global-dollar@ethereum",
+  "asset": "global-dollar",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Global Dollar",
+  "symbol": "USDG",
+  "address": "0xe343167631d89b6ffc58b88d6b7fb0228795491d",
+  "decimals": 6,
+  "logo": "global-dollar.svg",
+  "coingecko": {
+    "id": "global-dollar"
+  },
+  "coinmarketcap": {
+    "id": 33793,
+    "slug": "global-dollar-usdg"
+  }
+}

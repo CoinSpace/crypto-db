@@ -1,0 +1,19 @@
+{
+  "_id": "global-dollar@solana",
+  "asset": "global-dollar",
+  "platform": "solana",
+  "type": "token",
+  "name": "Global Dollar",
+  "symbol": "USDG",
+  "address": "2u1tszSeqZ3qBWF3uNGPFc8TzMk2tdiwknnRMWGWjGWH",
+  "decimals": 6,
+  "logo": "global-dollar.svg",
+  "supported": "6.12.0",
+  "coingecko": {
+    "id": "global-dollar"
+  },
+  "coinmarketcap": {
+    "id": 33793,
+    "slug": "global-dollar-usdg"
+  }
+}
