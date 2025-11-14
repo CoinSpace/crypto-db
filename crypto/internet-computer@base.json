@@ -1,0 +1,18 @@
+{
+  "_id": "internet-computer@base",
+  "asset": "internet-computer",
+  "platform": "base",
+  "type": "token",
+  "name": "Internet Computer",
+  "symbol": "ICP",
+  "address": "0x00f3c42833c3170159af4e92dbb451fb3f708917",
+  "decimals": 8,
+  "logo": "internet-computer.svg",
+  "coingecko": {
+    "id": "internet-computer"
+  },
+  "coinmarketcap": {
+    "id": 8916,
+    "slug": "internet-computer"
+  }
+}
