@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "stasis-euro@ethereum",
   "asset": "stasis-euro",
   "platform": "ethereum",
