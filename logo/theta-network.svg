@@ -7,6 +7,7 @@
     </linearGradient>
     <linearGradient xlink:href="#theta-network_svg__a" id="theta-network_svg__b" x1="175.55" x2="258.18" y1="175.91" y2="258.54"/>
   </defs>
+  <title>theta</title>
   <path fill="#1b1f2b" d="M0 0h433v433H0z"/>
   <path fill="#1b1f2b" stroke="url(#theta-network_svg__a)" stroke-linejoin="bevel" stroke-width="27.222" d="M145.06 93.1h142.89v246.81H145.06z"/>
   <path fill="url(#theta-network_svg__b)" d="M259.8 255.47h-29.59v31h-26.7v-31h-29.59v-26.7h85.88zm0-76.5h-29.59v-31h-26.7v31h-29.59v26.7h85.88z"/>
