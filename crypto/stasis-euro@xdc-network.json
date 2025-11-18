@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "stasis-euro@xdc-network",
   "asset": "stasis-euro",
   "platform": "xdc-network",
