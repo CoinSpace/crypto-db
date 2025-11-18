@@ -7,7 +7,6 @@
   "symbol": "KAS",
   "decimals": 8,
   "logo": "kaspa.svg",
-  "supported": false,
   "coingecko": {
     "id": "kaspa"
   },
