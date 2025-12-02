@@ -1,0 +1,18 @@
+{
+  "_id": "chainlink@celo",
+  "asset": "chainlink",
+  "platform": "celo",
+  "type": "token",
+  "name": "Chainlink",
+  "symbol": "LINK",
+  "address": "0xd07294e6e917e07dfdcee882dd1e2565085c2ae0",
+  "logo": "chainlink.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "chainlink"
+  },
+  "coinmarketcap": {
+    "id": 1975,
+    "slug": "chainlink"
+  }
+}

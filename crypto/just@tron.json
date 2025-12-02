@@ -1,0 +1,18 @@
+{
+  "_id": "just@tron",
+  "asset": "just",
+  "platform": "tron",
+  "type": "token",
+  "name": "JUST",
+  "symbol": "JST",
+  "address": "TCFLL5dx5ZJdKnWuesXxi1VPwjLVmWZZy9",
+  "decimals": 18,
+  "logo": "just.svg",
+  "coingecko": {
+    "id": "just"
+  },
+  "coinmarketcap": {
+    "id": 5488,
+    "slug": "just"
+  }
+}

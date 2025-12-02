@@ -1,0 +1,18 @@
+{
+  "_id": "chainlink@plasma",
+  "asset": "chainlink",
+  "platform": "plasma",
+  "type": "token",
+  "name": "Chainlink",
+  "symbol": "LINK",
+  "address": "0x76a443768A5e3B8d1AED0105FC250877841Deb40",
+  "logo": "chainlink.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "chainlink"
+  },
+  "coinmarketcap": {
+    "id": 1975,
+    "slug": "chainlink"
+  }
+}
