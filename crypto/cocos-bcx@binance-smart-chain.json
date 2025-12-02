@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "cocos-bcx@binance-smart-chain",
   "asset": "cocos-bcx",
   "platform": "binance-smart-chain",

@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "cocos-bcx@ethereum",
   "asset": "cocos-bcx",
   "platform": "ethereum",
