@@ -5,7 +5,7 @@
     <stop offset="1" stop-color="#00522c" stop-opacity="0"/>
   </radialGradient>
   <circle cx="196" cy="196" r="196" fill="url(#pax-dollar_svg__a)"/>
-  <radialGradient id="pax-dollar_svg__b" cx="-1230.153" cy="332.373" r="313.582" gradientTransform="rotate(82.82 762.58 -166.37)scale(-1 1)" gradientUnits="userSpaceOnUse">
+  <radialGradient id="pax-dollar_svg__b" cx="-1230.153" cy="332.373" r="313.582" gradientTransform="rotate(82.82 762.612 -166.378)scale(-1 1)" gradientUnits="userSpaceOnUse">
     <stop offset=".09" stop-color="#00a64f"/>
     <stop offset="1" stop-color="#00a64f" stop-opacity="0"/>
   </radialGradient>
