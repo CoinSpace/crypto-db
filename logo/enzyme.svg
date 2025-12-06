@@ -1,4 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 473 470">
+  <style>
+    @keyframes e5ojfxdzkgl73_to__to{0%,60%{transform:translate(299.623519px,330.25237px)}to{transform:translate(79.206655px,274.591545px)}}@keyframes e5ojfxdzkgl74_to__to{0%,35%{transform:translate(168.927002px,296.314011px)}77.5%,to{transform:translate(365.96632px,313.012259px)}}@keyframes e5ojfxdzkgl75_to__to{0%{transform:translate(251.5px,76.5px)}47.5%,to{transform:translate(119.027238px,134.853682px)}}
+  </style>
   <defs>
     <linearGradient id="enzyme_svg__b" x1="156.478" x2="-180.436" y1="0" y2="19.723" gradientUnits="userSpaceOnUse" spreadMethod="pad">
       <stop offset="0%" stop-color="#6f56fd"/>
@@ -25,10 +28,10 @@
     </filter>
   </defs>
   <g mask="url(#enzyme_svg__a)">
-    <ellipse fill="url(#enzyme_svg__b)" filter="url(#enzyme_svg__c)" rx="194.39" ry="180.984" transform="translate(320.01 311.272)"/>
-    <ellipse fill="url(#enzyme_svg__d)" filter="url(#enzyme_svg__e)" rx="177.032" ry="156.717" transform="translate(160.822 303.489)"/>
-    <ellipse fill="url(#enzyme_svg__f)" filter="url(#enzyme_svg__g)" rx="208.93" ry="185.418" transform="translate(238.07 88.418)"/>
-    <mask id="enzyme_svg__a" mask-type="alpha">
+    <ellipse fill="url(#enzyme_svg__b)" filter="url(#enzyme_svg__c)" rx="194.39" ry="180.984" style="animation:e5ojfxdzkgl73_to__to 4000ms linear infinite alternate forwards" transform="translate(320.01 311.272)"/>
+    <ellipse fill="url(#enzyme_svg__d)" filter="url(#enzyme_svg__e)" rx="177.032" ry="156.717" style="animation:e5ojfxdzkgl74_to__to 4000ms linear infinite alternate forwards" transform="translate(160.822 303.489)"/>
+    <ellipse fill="url(#enzyme_svg__f)" filter="url(#enzyme_svg__g)" rx="208.93" ry="185.418" style="animation:e5ojfxdzkgl75_to__to 4000ms linear infinite alternate forwards" transform="translate(238.07 88.418)"/>
+    <mask id="enzyme_svg__a">
       <path fill="#fff" fill-rule="evenodd" d="M472.626 235c0 129.787-105.801 235-236.313 235S0 364.787 0 235 105.801 0 236.313 0s236.313 105.213 236.313 235m-225.898-90.224c0-17.86 14.478-32.338 32.338-32.338s32.339 14.478 32.339 32.339v93.097h42.282v-67.427c0-10.304 8.353-18.657 18.657-18.657s18.657 8.353 18.657 18.657v67.427h-37.314v74.778c0 11.678-9.467 21.145-21.145 21.145s-21.144-9.467-21.144-21.145v-74.777h-64.67v94.313c0 18.547-15.036 33.583-33.583 33.583s-33.582-15.036-33.582-33.583v-94.314h67.165zm-109.457 30.62c0-11.678 9.467-21.145 21.144-21.145 11.678 0 21.145 9.467 21.145 21.145v62.48h-42.289zm-27.363 121.509c15.112 0 27.363-12.251 27.363-27.363v-31.666H82.544v31.666c0 15.112 12.251 27.363 27.364 27.363m321.469-38.516c0 11.408-9.248 20.656-20.655 20.656s-20.655-9.248-20.655-20.656v-20.425h41.31zM61.885 196.882c-11.407 0-20.655 9.248-20.655 20.655v20.426h41.31v-20.426c0-11.407-9.247-20.655-20.655-20.655" clip-rule="evenodd"/>
     </mask>
   </g>
