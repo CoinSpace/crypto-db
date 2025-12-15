@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "oasis-network@avalanche-c-chain",
   "asset": "oasis-network",
   "platform": "avalanche-c-chain",
