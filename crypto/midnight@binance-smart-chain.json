@@ -1,0 +1,18 @@
+{
+  "_id": "midnight@binance-smart-chain",
+  "asset": "midnight",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Midnight",
+  "symbol": "NIGHT",
+  "address": "0xfe930c2d63aed9b82fc4dbc801920dd2c1a3224f",
+  "decimals": 18,
+  "logo": "midnight.svg",
+  "coingecko": {
+    "id": "midnight-3"
+  },
+  "coinmarketcap": {
+    "id": 39064,
+    "slug": "midnight-network"
+  }
+}

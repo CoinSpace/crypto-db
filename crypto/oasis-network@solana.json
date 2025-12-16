@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "oasis-network@solana",
   "asset": "oasis-network",
   "platform": "solana",

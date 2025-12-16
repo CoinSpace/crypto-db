@@ -1,0 +1,18 @@
+{
+  "_id": "pippin@solana",
+  "asset": "pippin",
+  "platform": "solana",
+  "type": "token",
+  "name": "pippin",
+  "symbol": "PIPPIN",
+  "address": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump",
+  "decimals": 6,
+  "logo": "pippin.svg",
+  "coingecko": {
+    "id": "pippin"
+  },
+  "coinmarketcap": {
+    "id": 35053,
+    "slug": "pippin"
+  }
+}
