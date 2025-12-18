@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "bonk@polygon",
   "asset": "bonk",
   "platform": "polygon",

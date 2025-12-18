@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "bonk@ethereum",
   "asset": "bonk",
   "platform": "ethereum",

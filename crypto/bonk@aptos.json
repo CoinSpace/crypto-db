@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "bonk@aptos",
   "asset": "bonk",
   "platform": "aptos",

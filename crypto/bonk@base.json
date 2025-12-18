@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "bonk@base",
   "asset": "bonk",
   "platform": "base",
