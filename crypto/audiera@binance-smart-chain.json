@@ -1,0 +1,18 @@
+{
+  "_id": "audiera@binance-smart-chain",
+  "asset": "audiera",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Audiera",
+  "symbol": "BEAT",
+  "address": "0xcf3232b85b43bca90e51d38cc06cc8bb8c8a3e36",
+  "decimals": 18,
+  "logo": "audiera.png",
+  "coingecko": {
+    "id": "audiera"
+  },
+  "coinmarketcap": {
+    "id": 38837,
+    "slug": "audiera"
+  }
+}
