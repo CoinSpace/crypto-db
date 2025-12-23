@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "everipedia@arbitrum",
   "asset": "everipedia",
   "platform": "arbitrum",

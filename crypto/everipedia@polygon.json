@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "everipedia@polygon",
   "asset": "everipedia",
   "platform": "polygon",
