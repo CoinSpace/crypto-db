@@ -1,0 +1,18 @@
+{
+  "_id": "merlin-chain@binance-smart-chain",
+  "asset": "merlin-chain",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Merlin Chain",
+  "symbol": "MERL",
+  "address": "0xa0c56a8c0692bd10b3fa8f8ba79cf5332b7107f9",
+  "decimals": 18,
+  "logo": "merlin-chain.png",
+  "coingecko": {
+    "id": "merlin-chain"
+  },
+  "coinmarketcap": {
+    "id": 30712,
+    "slug": "merlin-chain"
+  }
+}
