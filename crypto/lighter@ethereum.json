@@ -1,0 +1,18 @@
+{
+  "_id": "lighter@ethereum",
+  "asset": "lighter",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Lighter",
+  "symbol": "LIT",
+  "address": "0x232ce3bd40fcd6f80f3d55a522d03f25df784ee2",
+  "decimals": 18,
+  "logo": "lighter.svg",
+  "coingecko": {
+    "id": "lighter"
+  },
+  "coinmarketcap": {
+    "id": 39125,
+    "slug": "lighter"
+  }
+}

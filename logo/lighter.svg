@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 64 64">
+  <mask id="lighter_svg__a" width="64" height="64" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:luminance">
+    <path fill="#fff" stroke="#fff" stroke-width="2.667" d="M32 1.333c16.937 0 30.667 13.73 30.667 30.667S48.937 62.667 32 62.667 1.333 48.937 1.333 32 15.063 1.333 32 1.333Z"/>
+  </mask>
+  <g mask="url(#lighter_svg__a)">
+    <g filter="url(#lighter_svg__b)">
+      <path fill="url(#lighter_svg__c)" d="M64 32C64 14.327 49.673 0 32 0S0 14.327 0 32s14.327 32 32 32 32-14.327 32-32"/>
+    </g>
+    <path fill="#fff" d="m30.762 43.084-8.137 7.666V21.33l8.137-8.08zm10.613.018-8.137 7.648V39.276l8.137-8.057z"/>
+  </g>
+  <path stroke="url(#lighter_svg__d)" stroke-width="2.667" d="M62.667 32c0-16.937-13.73-30.667-30.667-30.667S1.333 15.063 1.333 32c0 16.936 13.73 30.666 30.667 30.666S62.667 48.936 62.667 32Z"/>
+  <defs>
+    <linearGradient id="lighter_svg__c" x1="64" x2="0" y1="0" y2="64" gradientUnits="userSpaceOnUse">
+      <stop offset=".3" stop-color="#121218"/>
+      <stop offset=".495" stop-color="#2f2f3e"/>
+      <stop offset=".7" stop-color="#121218"/>
+    </linearGradient>
+    <linearGradient id="lighter_svg__d" x1="0" x2="64" y1="0" y2="64" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#b3b3bd"/>
+      <stop offset=".3" stop-color="#2b2b30"/>
+      <stop offset=".505" stop-color="#121218"/>
+      <stop offset=".7" stop-color="#2b2b30"/>
+      <stop offset="1" stop-color="#b3b3bd"/>
+    </linearGradient>
+    <filter id="lighter_svg__b" width="64" height="64" x="0" y="0" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+      <feOffset/>
+      <feGaussianBlur stdDeviation="10.667"/>
+      <feComposite in2="hardAlpha" k2="-1" k3="1" operator="arithmetic"/>
+      <feColorMatrix values="0 0 0 0 0.0235294 0 0 0 0 0.0235294 0 0 0 0 0.0470588 0 0 0 1 0"/>
+      <feBlend in2="shape" result="effect1_innerShadow_11005_8374"/>
+    </filter>
+  </defs>
+</svg>
