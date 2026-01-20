@@ -1,0 +1,18 @@
+{
+  "_id": "united-stables@binance-smart-chain",
+  "asset": "united-stables",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "United Stables",
+  "symbol": "U",
+  "address": "0xce24439f2d9c6a2289f741120fe202248b666666",
+  "decimals": 18,
+  "logo": "united-stables.svg",
+  "coingecko": {
+    "id": "united-stables"
+  },
+  "coinmarketcap": {
+    "id": 39120,
+    "slug": "united-stables"
+  }
+}
