@@ -1,0 +1,18 @@
+{
+  "_id": "world-liberty-financial-usd@aptos",
+  "asset": "world-liberty-financial-usd",
+  "platform": "aptos",
+  "type": "token",
+  "name": "World Liberty Financial USD",
+  "symbol": "USD1",
+  "address": "0x05fabd1b12e39967a3c24e91b7b8f67719a6dacee74f3c8b9fb7d93e855437d2",
+  "logo": "world-liberty-financial-usd.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "usd1-wlfi"
+  },
+  "coinmarketcap": {
+    "id": 36148,
+    "slug": "usd1"
+  }
+}
