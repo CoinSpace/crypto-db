@@ -1,0 +1,17 @@
+{
+  "_id": "ethereum@linea",
+  "asset": "ethereum",
+  "platform": "linea",
+  "type": "coin",
+  "name": "Ethereum",
+  "symbol": "ETH",
+  "logo": "arbitrum.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 1027,
+    "slug": "ethereum"
+  }
+}
