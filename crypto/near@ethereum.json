@@ -1,0 +1,18 @@
+{
+  "_id": "near@ethereum",
+  "asset": "near",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "NEAR Protocol",
+  "symbol": "NEAR",
+  "address": "0x85f17cf997934a597031b2e18a9ab6ebd4b9f6a4",
+  "decimals": 24,
+  "logo": "near.svg",
+  "coingecko": {
+    "id": "near"
+  },
+  "coinmarketcap": {
+    "id": 6535,
+    "slug": "near-protocol"
+  }
+}
