@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
+  <circle cx="10" cy="10" r="10" fill="url(#united-stables_svg__a)"/>
+  <circle cx="10" cy="10" r="9" fill="url(#united-stables_svg__b)"/>
+  <path fill="url(#united-stables_svg__c)" d="M11.182 13.8c-1.535 0-2.79-1.32-2.79-2.86V6.2a.2.2 0 0 0-.2-.2H6.2a.2.2 0 0 0-.2.2v4.724c0 2.214 1.805 4.089 4.01 4.076a3.993 3.993 0 0 0 3.96-3.856 2.795 2.795 0 0 1-2.79 2.656"/>
+  <path fill="url(#united-stables_svg__d)" d="M13.773 6H11.78a.2.2 0 0 0-.2.2v4.755c0 .862-.659 1.603-1.517 1.643A1.597 1.597 0 0 1 8.392 11c0 1.546 1.25 2.8 2.79 2.8s2.712-1.176 2.787-2.656l.004-.144V6.2a.2.2 0 0 0-.2-.2"/>
+  <defs>
+    <linearGradient id="united-stables_svg__a" x1="0" x2="20" y1="10" y2="10" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6c6a74"/>
+      <stop offset=".457" stop-color="#050506"/>
+      <stop offset="1" stop-color="#525159"/>
+    </linearGradient>
+    <linearGradient id="united-stables_svg__b" x1="1" x2="19" y1="10" y2="10" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#403e44"/>
+      <stop offset="1" stop-color="#020202"/>
+    </linearGradient>
+    <linearGradient id="united-stables_svg__c" x1="10.312" x2="9.554" y1="14.878" y2="6.236" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#e9d276"/>
+      <stop offset="1" stop-color="#a18b2f"/>
+    </linearGradient>
+    <linearGradient id="united-stables_svg__d" x1="11.664" x2="10.936" y1="13.269" y2="6.367" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#9f9fa2"/>
+      <stop offset="1" stop-color="#d7d7d7"/>
+    </linearGradient>
+  </defs>
+</svg>
