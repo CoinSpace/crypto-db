@@ -1,0 +1,18 @@
+{
+  "_id": "usd-coin@linea",
+  "asset": "usd-coin",
+  "platform": "linea",
+  "type": "token",
+  "name": "USDC",
+  "symbol": "USDC",
+  "address": "0x176211869ca2b568f2a7d4ee941e073a821ee1ff",
+  "logo": "usd-coin.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "usd-coin"
+  },
+  "coinmarketcap": {
+    "id": 3408,
+    "slug": "usd-coin"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "usd-coin@worldcoin",
+  "asset": "usd-coin",
+  "platform": "worldcoin",
+  "type": "token",
+  "name": "USDC",
+  "symbol": "USDC",
+  "address": "0x79a02482a880bce3f13e09da970dc34db4cd24d1",
+  "logo": "usd-coin.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "usd-coin"
+  },
+  "coinmarketcap": {
+    "id": 3408,
+    "slug": "usd-coin"
+  }
+}

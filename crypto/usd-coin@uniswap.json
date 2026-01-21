@@ -1,0 +1,18 @@
+{
+  "_id": "usd-coin@uniswap",
+  "asset": "usd-coin",
+  "platform": "uniswap",
+  "type": "token",
+  "name": "USDC",
+  "symbol": "USDC",
+  "address": "0x078d782b760474a361dda0af3839290b0ef57ad6",
+  "logo": "usd-coin.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "usd-coin"
+  },
+  "coinmarketcap": {
+    "id": 3408,
+    "slug": "usd-coin"
+  }
+}
