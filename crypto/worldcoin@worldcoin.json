@@ -1,0 +1,18 @@
+{
+  "_id": "worldcoin@worldcoin",
+  "asset": "worldcoin",
+  "platform": "worldcoin",
+  "type": "token",
+  "name": "Worldcoin",
+  "symbol": "WLD",
+  "address": "0x2cFc85d8E48F8EAB294be644d9E25C3030863003",
+  "logo": "worldcoin.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "worldcoin-wld"
+  },
+  "coinmarketcap": {
+    "id": 13502,
+    "slug": "worldcoin-org"
+  }
+}

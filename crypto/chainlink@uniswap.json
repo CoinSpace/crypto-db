@@ -1,0 +1,18 @@
+{
+  "_id": "chainlink@uniswap",
+  "asset": "chainlink",
+  "platform": "uniswap",
+  "type": "token",
+  "name": "Chainlink",
+  "symbol": "LINK",
+  "address": "0xEF66491eab4bbB582c57b14778afd8dFb70D8A1A",
+  "logo": "chainlink.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "chainlink"
+  },
+  "coinmarketcap": {
+    "id": 1975,
+    "slug": "chainlink"
+  }
+}

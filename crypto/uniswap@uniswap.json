@@ -1,0 +1,18 @@
+{
+  "_id": "uniswap@uniswap",
+  "asset": "uniswap",
+  "platform": "uniswap",
+  "type": "token",
+  "name": "Uniswap",
+  "symbol": "UNI",
+  "address": "0x8f187aA05619a017077f5308904739877ce9eA21",
+  "logo": "uniswap.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "uniswap"
+  },
+  "coinmarketcap": {
+    "id": 7083,
+    "slug": "uniswap"
+  }
+}

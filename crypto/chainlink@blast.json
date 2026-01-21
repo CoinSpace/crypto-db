@@ -1,0 +1,18 @@
+{
+  "_id": "chainlink@blast",
+  "asset": "chainlink",
+  "platform": "blast",
+  "type": "token",
+  "name": "Chainlink",
+  "symbol": "LINK",
+  "address": "0x93202eC683288a9EA75BB829c6baCFb2BfeA9013",
+  "logo": "chainlink.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "chainlink"
+  },
+  "coinmarketcap": {
+    "id": 1975,
+    "slug": "chainlink"
+  }
+}
