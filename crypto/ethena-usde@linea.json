@@ -1,0 +1,18 @@
+{
+  "_id": "ethena-usde@linea",
+  "asset": "ethena-usde",
+  "platform": "linea",
+  "type": "token",
+  "name": "Ethena USDe",
+  "symbol": "USDE",
+  "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+  "logo": "ethena-usde.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "ethena-usde"
+  },
+  "coinmarketcap": {
+    "id": 29470,
+    "slug": "ethena-usde"
+  }
+}
