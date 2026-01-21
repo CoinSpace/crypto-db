@@ -1,0 +1,18 @@
+{
+  "_id": "tether@scroll",
+  "asset": "tether",
+  "platform": "scroll",
+  "type": "token",
+  "name": "Tether",
+  "symbol": "USDT",
+  "address": "0xf55BEC9cafDbE8730f096Aa55dad6D22d44099Df",
+  "logo": "tether.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "tether"
+  },
+  "coinmarketcap": {
+    "id": 825,
+    "slug": "tether"
+  }
+}
