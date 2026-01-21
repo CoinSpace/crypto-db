@@ -3,7 +3,7 @@
   "asset": "ethereum",
   "platform": "scroll",
   "type": "coin",
-  "name": "Ethereum",
+  "name": "Scroll",
   "symbol": "ETH",
   "logo": "ethereum.svg",
   "supported": false,

@@ -3,7 +3,7 @@
   "asset": "ethereum",
   "platform": "worldcoin",
   "type": "coin",
-  "name": "Ethereum",
+  "name": "Worldcoin",
   "symbol": "ETH",
   "logo": "ethereum.svg",
   "supported": false,

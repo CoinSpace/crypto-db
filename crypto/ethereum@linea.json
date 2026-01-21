@@ -3,7 +3,7 @@
   "asset": "ethereum",
   "platform": "linea",
   "type": "coin",
-  "name": "Ethereum",
+  "name": "Linea",
   "symbol": "ETH",
   "logo": "ethereum.svg",
   "supported": false,

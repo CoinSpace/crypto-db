@@ -3,7 +3,7 @@
   "asset": "ethereum",
   "platform": "uniswap",
   "type": "coin",
-  "name": "Ethereum",
+  "name": "Uniswap",
   "symbol": "ETH",
   "logo": "ethereum.svg",
   "supported": false,

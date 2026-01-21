@@ -3,7 +3,7 @@
   "asset": "ethereum",
   "platform": "blast",
   "type": "coin",
-  "name": "Ethereum",
+  "name": "Blast",
   "symbol": "ETH",
   "logo": "ethereum.svg",
   "supported": false,
