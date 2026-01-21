@@ -1,0 +1,18 @@
+{
+  "_id": "pancakeswap@linea",
+  "asset": "pancakeswap",
+  "platform": "linea",
+  "type": "token",
+  "name": "PancakeSwap",
+  "symbol": "CAKE",
+  "address": "0x0D1E753a25eBda689453309112904807625bEFBe",
+  "logo": "pancakeswap.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "pancakeswap-token"
+  },
+  "coinmarketcap": {
+    "id": 7186,
+    "slug": "pancakeswap"
+  }
+}
