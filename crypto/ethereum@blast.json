@@ -5,7 +5,7 @@
   "type": "coin",
   "name": "Blast",
   "symbol": "ETH",
-  "logo": "ethereum.svg",
+  "logo": "blast.svg",
   "supported": false,
   "coingecko": {
     "id": "ethereum"

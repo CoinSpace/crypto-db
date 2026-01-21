@@ -5,7 +5,7 @@
   "type": "coin",
   "name": "Linea",
   "symbol": "ETH",
-  "logo": "ethereum.svg",
+  "logo": "linea.svg",
   "supported": false,
   "coingecko": {
     "id": "ethereum"

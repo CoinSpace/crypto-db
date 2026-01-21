@@ -5,7 +5,7 @@
   "type": "coin",
   "name": "Scroll",
   "symbol": "ETH",
-  "logo": "ethereum.svg",
+  "logo": "scroll.svg",
   "supported": false,
   "coingecko": {
     "id": "ethereum"
