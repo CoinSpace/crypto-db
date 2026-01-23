@@ -1,0 +1,18 @@
+{
+  "_id": "the-sandbox@base",
+  "asset": "the-sandbox",
+  "platform": "base",
+  "type": "token",
+  "name": "The Sandbox",
+  "symbol": "SAND",
+  "address": "0xac531eb26ca1d21b85126de8fb87e80e09002dcf",
+  "decimals": 18,
+  "logo": "the-sandbox.svg",
+  "coingecko": {
+    "id": "the-sandbox"
+  },
+  "coinmarketcap": {
+    "id": 6210,
+    "slug": "the-sandbox"
+  }
+}
