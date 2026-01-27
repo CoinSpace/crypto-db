@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "keep-network@ethereum",
   "asset": "keep-network",
   "platform": "ethereum",
