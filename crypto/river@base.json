@@ -1,0 +1,18 @@
+{
+  "_id": "river@base",
+  "asset": "river",
+  "platform": "base",
+  "type": "token",
+  "name": "River",
+  "symbol": "RIVER",
+  "address": "0xda7ad9dea9397cffddae2f8a052b82f1484252b3",
+  "decimals": 18,
+  "logo": "river.png",
+  "coingecko": {
+    "id": "river"
+  },
+  "coinmarketcap": {
+    "id": 38417,
+    "slug": "river"
+  }
+}
