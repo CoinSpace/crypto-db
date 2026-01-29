@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "audius@solana",
   "asset": "audius",
   "platform": "solana",
