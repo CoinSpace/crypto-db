@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "yield-guild-games@solana",
   "asset": "yield-guild-games",
   "platform": "solana",

@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "yield-guild-games@base",
   "asset": "yield-guild-games",
   "platform": "base",

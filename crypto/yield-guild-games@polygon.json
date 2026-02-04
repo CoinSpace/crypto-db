@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "yield-guild-games@polygon",
   "asset": "yield-guild-games",
   "platform": "polygon",
