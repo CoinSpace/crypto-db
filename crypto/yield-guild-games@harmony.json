@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "yield-guild-games@harmony",
   "asset": "yield-guild-games",
   "platform": "harmony",

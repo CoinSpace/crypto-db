@@ -5,7 +5,7 @@
   "type": "token",
   "name": "Tether",
   "symbol": "USDT",
-  "address": "dac17f958d2ee523a2206206994597c13d831ec7.factory.bridge.near",
+  "address": "usdt.tether-token.near",
   "logo": "tether.svg",
   "supported": false,
   "coingecko": {

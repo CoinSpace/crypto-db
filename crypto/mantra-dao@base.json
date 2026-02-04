@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "mantra-dao@base",
   "asset": "mantra-dao",
   "platform": "base",
