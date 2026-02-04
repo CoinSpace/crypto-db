@@ -1,0 +1,18 @@
+{
+  "_id": "mantle@solana",
+  "asset": "mantle",
+  "platform": "solana",
+  "type": "token",
+  "name": "Mantle",
+  "symbol": "MNT",
+  "address": "4SoQ8UkWfeDH47T56PA53CZCeW4KytYCiU65CwBWoJUt",
+  "decimals": 9,
+  "logo": "mantle.svg",
+  "coingecko": {
+    "id": "mantle"
+  },
+  "coinmarketcap": {
+    "id": 27075,
+    "slug": "mantle"
+  }
+}
