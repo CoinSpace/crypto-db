@@ -1,0 +1,18 @@
+{
+  "_id": "stable@binance-smart-chain",
+  "asset": "stable",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Stable",
+  "symbol": "STABLE",
+  "address": "0x011ebe7d75e2c9d1e0bd0be0bef5c36f0a90075f",
+  "decimals": 18,
+  "logo": "stable.png",
+  "coingecko": {
+    "id": "usdfi-stable"
+  },
+  "coinmarketcap": {
+    "id": 38892,
+    "slug": "stable"
+  }
+}
