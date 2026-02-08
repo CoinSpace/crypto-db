@@ -1,0 +1,18 @@
+{
+  "_id": "pudgy-penguins@ethereum",
+  "asset": "pudgy-penguins",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Pudgy Penguins",
+  "symbol": "PENGU",
+  "address": "0x6418c0dd099a9fda397c766304cdd918233e8847",
+  "decimals": 18,
+  "logo": "pudgy-penguins.svg",
+  "coingecko": {
+    "id": "pudgy-penguins"
+  },
+  "coinmarketcap": {
+    "id": 34466,
+    "slug": "pudgy-penguins"
+  }
+}
