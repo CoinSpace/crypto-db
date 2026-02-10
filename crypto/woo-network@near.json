@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "woo-network@near",
   "asset": "woo-network",
   "platform": "near",
