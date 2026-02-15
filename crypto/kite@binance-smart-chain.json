@@ -1,0 +1,18 @@
+{
+  "_id": "kite@binance-smart-chain",
+  "asset": "kite",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Kite",
+  "symbol": "KITE",
+  "address": "0x904567252d8f48555b7447c67dca23f0372e16be",
+  "decimals": 18,
+  "logo": "kite.svg",
+  "coingecko": {
+    "id": "kite"
+  },
+  "coinmarketcap": {
+    "id": 38828,
+    "slug": "kite"
+  }
+}

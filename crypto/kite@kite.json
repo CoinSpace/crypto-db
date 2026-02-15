@@ -1,0 +1,17 @@
+{
+  "_id": "kite@kite",
+  "asset": "kite",
+  "platform": "kite",
+  "type": "coin",
+  "name": "Kite",
+  "symbol": "KITE",
+  "logo": "kite.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "kite"
+  },
+  "coinmarketcap": {
+    "id": 38828,
+    "slug": "kite"
+  }
+}
