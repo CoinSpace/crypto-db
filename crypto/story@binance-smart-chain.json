@@ -1,0 +1,18 @@
+{
+  "_id": "story@binance-smart-chain",
+  "asset": "story",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Story",
+  "symbol": "IP",
+  "address": "0x4d6394bc3031f751edce368c189b0e060b527107",
+  "decimals": 18,
+  "logo": "story.svg",
+  "coingecko": {
+    "id": "story-2"
+  },
+  "coinmarketcap": {
+    "id": 35626,
+    "slug": "story-protocol"
+  }
+}
