@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "sologenic@binance-smart-chain",
   "asset": "sologenic",
   "platform": "binance-smart-chain",
