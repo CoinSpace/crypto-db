@@ -1,22 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 21 20">
-  <g clip-path="url(#coti_svg__a)">
-    <path fill="#fff" d="M10.017 20c5.541 0 10-4.458 10-10s-4.459-10-10-10-10 4.458-10 10 4.458 10 10 10"/>
-    <path fill="url(#coti_svg__b)" d="M2.147 8.63c-.31 0-.414.103-.414.362v6.257c0 .259.104.362.414.362 3 .052 6.672-2.637 9.672-4.706v-7.24c-3 2.068-6.776 5.016-9.672 4.965"/>
-    <path fill="url(#coti_svg__c)" d="M17.87 11.422c.258 0 .413-.103.413-.362V4.802c0-.258-.103-.362-.413-.362-3.052-.051-6.672 2.638-9.672 4.707v7.189c3-2.017 6.775-4.965 9.672-4.914"/>
-  </g>
-  <defs>
-    <linearGradient id="coti_svg__b" x1="7.692" x2="5.929" y1="14.706" y2="4.71" gradientUnits="userSpaceOnUse">
-      <stop offset=".1" stop-color="#194aad"/>
-      <stop offset=".5" stop-color="#248fcb"/>
-      <stop offset=".8" stop-color="#2bbfdf"/>
-    </linearGradient>
-    <linearGradient id="coti_svg__c" x1="14.365" x2="12.032" y1="3.831" y2="17.058" gradientUnits="userSpaceOnUse">
-      <stop offset=".1" stop-color="#194aad"/>
-      <stop offset=".5" stop-color="#248fcb"/>
-      <stop offset=".8" stop-color="#2bbfdf"/>
-    </linearGradient>
-    <clipPath id="coti_svg__a">
-      <path fill="#fff" d="M.017 0h20v20h-20z"/>
-    </clipPath>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3500 3500">
+  <path fill="#00467a" d="M1750 0c966.5 0 1750 783.5 1750 1750s-783.5 1750-1750 1750S0 2716.5 0 1750 783.5 0 1750 0"/>
+  <linearGradient id="coti_svg__a" x1="1480.345" x2="1252.889" y1="249.463" y2="1538.512" gradientTransform="matrix(1 0 0 -1 0 2554)" gradientUnits="userSpaceOnUse">
+    <stop offset=".1" stop-color="#194aad"/>
+    <stop offset=".5" stop-color="#248fcb"/>
+    <stop offset=".8" stop-color="#2bbfdf"/>
+  </linearGradient>
+  <path fill="url(#coti_svg__a)" d="M762.6 1521.6c-35.1 0-50.7 15.6-50.7 46.8v803.7c0 35.1 15.6 46.8 50.7 46.8 386.3 3.9 858.3-339.4 1248.5-608.6V881.7c-386.2 265.3-870 643.8-1248.5 639.9"/>
+  <linearGradient id="coti_svg__b" x1="3511.147" x2="3811.925" y1="-1272.658" y2="432.942" gradientTransform="matrix(-1 0 0 1 5851.79 2174.83)" gradientUnits="userSpaceOnUse">
+    <stop offset=".1" stop-color="#194aad"/>
+    <stop offset=".5" stop-color="#248fcb"/>
+    <stop offset=".8" stop-color="#2bbfdf"/>
+  </linearGradient>
+  <path fill="url(#coti_svg__b)" d="M2795.3 1884.4c35.1 0 50.7-15.6 50.7-46.8v-803.7c0-35.1-15.6-46.8-50.7-46.8-390.2-3.9-858.3 339.4-1248.5 608.6v924.7c386.3-265.3 870.1-643.8 1248.5-636"/>
+  <path fill="#194aad" d="M2011.1 1810.3v-530.6c-160 101.4-319.9 210.7-468.2 312.1v530.6c163.9-101.4 320-210.7 468.2-312.1"/>
 </svg>
