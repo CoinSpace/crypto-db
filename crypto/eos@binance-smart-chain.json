@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "eos@binance-smart-chain",
   "asset": "eos",
   "platform": "binance-smart-chain",
