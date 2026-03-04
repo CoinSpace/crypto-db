@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "eos@eos",
   "asset": "eos",
   "platform": "eos",
