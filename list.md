@@ -1,5 +1,5 @@
 ## Stats
-Total cryptos: 871
+Total cryptos: 870
 ## List
 <table>
 <tr>
@@ -8164,7 +8164,7 @@ Total cryptos: 871
   </td>
 </tr>
 <tr>
-  <td rowspan="2">1028</td>
+  <td rowspan="2">1022</td>
   <td><img src="logo/bella-protocol.svg" width="40px" height="40px"/></td>
   <td>Bella Protocol</td>
   <td>BEL</td>
@@ -8187,7 +8187,7 @@ Total cryptos: 871
   </td>
 </tr>
 <tr>
-  <td rowspan="1">1033</td>
+  <td rowspan="1">1032</td>
   <td><img src="logo/omg-network.svg" width="40px" height="40px"/></td>
   <td>OMG Network</td>
   <td>OMG</td>
@@ -8199,7 +8199,7 @@ Total cryptos: 871
   </td>
 </tr>
 <tr>
-  <td rowspan="2">1057</td>
+  <td rowspan="2">1055</td>
   <td><img src="logo/badger-dao.svg" width="40px" height="40px"/></td>
   <td>Badger DAO</td>
   <td>BADGER</td>
@@ -8221,7 +8221,7 @@ Total cryptos: 871
   </td>
 </tr>
 <tr>
-  <td rowspan="1">1072</td>
+  <td rowspan="1">1064</td>
   <td><img src="logo/truefi.svg" width="40px" height="40px"/></td>
   <td>TrueFi</td>
   <td>TRU</td>
@@ -8233,7 +8233,7 @@ Total cryptos: 871
   </td>
 </tr>
 <tr>
-  <td rowspan="2">1086</td>
+  <td rowspan="2">1069</td>
   <td><img src="logo/radio-caca.svg" width="40px" height="40px"/></td>
   <td>RACA</td>
   <td>RACA</td>
@@ -8256,7 +8256,7 @@ Total cryptos: 871
   </td>
 </tr>
 <tr>
-  <td rowspan="1">1087</td>
+  <td rowspan="1">1088</td>
   <td><img src="logo/dao-maker.svg" width="40px" height="40px"/></td>
   <td>DAO Maker</td>
   <td>DAO</td>
@@ -8268,7 +8268,7 @@ Total cryptos: 871
   </td>
 </tr>
 <tr>
-  <td rowspan="1">1093</td>
+  <td rowspan="1">1091</td>
   <td><img src="logo/idex.svg" width="40px" height="40px"/></td>
   <td>IDEX</td>
   <td>IDEX</td>
@@ -8280,7 +8280,7 @@ Total cryptos: 871
   </td>
 </tr>
 <tr>
-  <td rowspan="1">1107</td>
+  <td rowspan="1">1105</td>
   <td><img src="logo/nem.svg" width="40px" height="40px"/></td>
   <td>NEM</td>
   <td>XEM</td>
@@ -8291,7 +8291,7 @@ Total cryptos: 871
   </td>
 </tr>
 <tr>
-  <td rowspan="1">1118</td>
+  <td rowspan="1">1120</td>
   <td><img src="logo/utrust.svg" width="40px" height="40px"/></td>
   <td>xMoney</td>
   <td>UTK</td>
@@ -8303,7 +8303,7 @@ Total cryptos: 871
   </td>
 </tr>
 <tr>
-  <td rowspan="2">1164</td>
+  <td rowspan="2">1160</td>
   <td><img src="logo/bluzelle.svg" width="40px" height="40px"/></td>
   <td>Bluzelle</td>
   <td>BLZ</td>
@@ -8326,7 +8326,7 @@ Total cryptos: 871
   </td>
 </tr>
 <tr>
-  <td rowspan="2">1165</td>
+  <td rowspan="2">1164</td>
   <td><img src="logo/polkastarter.svg" width="40px" height="40px"/></td>
   <td>Polkastarter</td>
   <td>POLS</td>
@@ -8371,7 +8371,7 @@ Total cryptos: 871
   </td>
 </tr>
 <tr>
-  <td rowspan="1">1297</td>
+  <td rowspan="1">1298</td>
   <td><img src="logo/ren.svg" width="40px" height="40px"/></td>
   <td>Ren</td>
   <td>REN</td>
@@ -8405,7 +8405,7 @@ Total cryptos: 871
   </td>
 </tr>
 <tr>
-  <td rowspan="2">1442</td>
+  <td rowspan="2">1435</td>
   <td><img src="logo/alpha-finance.svg" width="40px" height="40px"/></td>
   <td>Stella</td>
   <td>ALPHA</td>
@@ -8428,7 +8428,7 @@ Total cryptos: 871
   </td>
 </tr>
 <tr>
-  <td rowspan="1">1456</td>
+  <td rowspan="1">1458</td>
   <td><img src="logo/ultra.svg" width="40px" height="40px"/></td>
   <td>Ultra</td>
   <td>UOS</td>
@@ -8440,7 +8440,7 @@ Total cryptos: 871
   </td>
 </tr>
 <tr>
-  <td rowspan="1">1524</td>
+  <td rowspan="1">1527</td>
   <td><img src="logo/rich-quack.svg" width="40px" height="40px"/></td>
   <td>RichQUACK.com</td>
   <td>QUACK</td>
@@ -8464,7 +8464,7 @@ Total cryptos: 871
   </td>
 </tr>
 <tr>
-  <td rowspan="1">1631</td>
+  <td rowspan="1">1633</td>
   <td><img src="logo/verasity.svg" width="40px" height="40px"/></td>
   <td>Verasity</td>
   <td>VRA</td>
@@ -8476,7 +8476,7 @@ Total cryptos: 871
   </td>
 </tr>
 <tr>
-  <td rowspan="1">1697</td>
+  <td rowspan="1">1693</td>
   <td><img src="logo/perpetual-protocol.svg" width="40px" height="40px"/></td>
   <td>Perpetual Protocol</td>
   <td>PERP</td>
@@ -8488,7 +8488,7 @@ Total cryptos: 871
   </td>
 </tr>
 <tr>
-  <td rowspan="2">1730</td>
+  <td rowspan="2">1735</td>
   <td><img src="logo/reef-finance.svg" width="40px" height="40px"/></td>
   <td>Reef</td>
   <td>REEF</td>
@@ -8534,7 +8534,7 @@ Total cryptos: 871
   </td>
 </tr>
 <tr>
-  <td rowspan="2">1740</td>
+  <td rowspan="2">1739</td>
   <td><img src="logo/loom-network.svg" width="40px" height="40px"/></td>
   <td>Loom Network</td>
   <td>LOOM</td>
@@ -8569,7 +8569,7 @@ Total cryptos: 871
   </td>
 </tr>
 <tr>
-  <td rowspan="2">1870</td>
+  <td rowspan="2">1869</td>
   <td><img src="logo/serum.svg" width="40px" height="40px"/></td>
   <td>Serum</td>
   <td>SRM</td>
@@ -8591,7 +8591,7 @@ Total cryptos: 871
   </td>
 </tr>
 <tr>
-  <td rowspan="1">1995</td>
+  <td rowspan="1">1996</td>
   <td><img src="logo/celsius-network.svg" width="40px" height="40px"/></td>
   <td>Celsius</td>
   <td>CEL</td>
@@ -8603,7 +8603,7 @@ Total cryptos: 871
   </td>
 </tr>
 <tr>
-  <td rowspan="1">1997</td>
+  <td rowspan="1">1998</td>
   <td><img src="logo/ufo-gaming.svg" width="40px" height="40px"/></td>
   <td>UFO Gaming</td>
   <td>UFO</td>
@@ -8753,7 +8753,7 @@ Total cryptos: 871
   </td>
 </tr>
 <tr>
-  <td rowspan="2">4117</td>
+  <td rowspan="2">4099</td>
   <td><img src="logo/maker.svg" width="40px" height="40px"/></td>
   <td>Maker</td>
   <td>MKR</td>
@@ -8773,18 +8773,6 @@ Total cryptos: 871
     <a href="https://www.coingecko.com/en/coins/maker">Coingecko</a><br>
     <a href="https://coinmarketcap.com/currencies/maker/">Coinmarketcap</a><br>
     <a href="https://etherscan.io/token/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">4218</td>
-  <td><img src="logo/eos.svg" width="40px" height="40px"/></td>
-  <td>EOS</td>
-  <td>EOS</td>
-  <td><a href="./crypto/eos@binance-smart-chain.json">eos@binance-smart-chain</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/eos">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/eos/">Coinmarketcap</a><br>
-    <a href="https://bscscan.com/token/0x56b6fb708fc5732dec1afc8d8556423a2edccbd6">BscScan</a><br>
   </td>
 </tr>
 <tr>
@@ -9351,7 +9339,7 @@ Total cryptos: 871
   </td>
 </tr>
 <tr>
-  <td rowspan="1">8603</td>
+  <td rowspan="1">8602</td>
   <td><img src="logo/defipulse-index.svg" width="40px" height="40px"/></td>
   <td>DeFi Pulse Index</td>
   <td>DPI</td>
