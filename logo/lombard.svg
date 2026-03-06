@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
+  <g clip-path="url(#lombard_svg__a)">
+    <path fill="#00e676" d="M0 10c0 5.523 4.477 10 10 10s10-4.477 10-10S15.523 0 10 0 0 4.477 0 10"/>
+    <path fill="#00e676" d="M0 10c0 5.523 4.477 10 10 10s10-4.477 10-10S15.523 0 10 0 0 4.477 0 10"/>
+    <path fill="#121514" d="M10 13.25h3.25V10h-2.852V8.25H15V15H8.25V6.75h-1.5v1.5h1.16V10H5V5h5z"/>
+    <path fill="#e68f7b" d="m17.032 10 3.04 5.023-3.03-1.294z"/>
+    <path fill="#f8ec7c" d="M14 15.023 17.031 10l.012 3.729z"/>
+    <path fill="#6eb87d" d="M17.031 16.875 14 15.023l3.043-1.294z"/>
+    <path fill="#946ba7" d="m20.071 15.023-3.028-1.294-.011 3.146z"/>
+    <path fill="#697cb9" d="m17.032 17.513 3.04-1.802-3.04 4.283z"/>
+    <path fill="#4fadd0" d="M17.031 17.513 14 15.71l3.031 4.283z"/>
+  </g>
+  <defs>
+    <clipPath id="lombard_svg__a">
+      <path fill="#fff" d="M0 0h20v20H0z"/>
+    </clipPath>
+  </defs>
+</svg>

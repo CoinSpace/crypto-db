@@ -1,0 +1,18 @@
+{
+  "_id": "lombard@binance-smart-chain",
+  "asset": "lombard",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Lombard",
+  "symbol": "BARD",
+  "address": "0xd23a186a78c0b3b805505e5f8ea4083295ef9f3a",
+  "decimals": 18,
+  "logo": "lombard.svg",
+  "coingecko": {
+    "id": "lombard-protocol"
+  },
+  "coinmarketcap": {
+    "id": 38408,
+    "slug": "lombard"
+  }
+}
