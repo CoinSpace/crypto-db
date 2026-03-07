@@ -1,10 +1,64 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
-  <path fill="url(#rocket-pool_svg__a)" d="M10 20c5.523 0 10-4.477 10-10S15.523 0 10 0 0 4.477 0 10s4.477 10 10 10"/>
-  <path fill="#fff" fill-rule="evenodd" d="M15.72 5.058c-.143 1.488-1.293 5.016-4.752 7.22l-.515 1.937-1.81 1.231-.538-1.997c-.165.022-.608.004-1.064-.252l-.73.617-.64-.758.729-.617c-.123-.263-.289-.897.03-1.326-.417-.208-1.395-.623-1.831-.804l1.515-1.581 1.92-.273C9.201 7.15 12.37 4.647 15.72 5.058M10.614 9.5a.975.975 0 1 0 1.49-1.26.975.975 0 0 0-1.49 1.26M1.99 15.855l2.423-1.903.618.786-2.422 1.903zm-.475-1.903 2.422-1.903.618.786-2.422 1.903zm2.422 3.114 2.422-1.903.618.786-2.422 1.903z" clip-rule="evenodd"/>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 600 600">
+  <g clip-path="url(#rocket-pool_svg__a)">
+    <path fill="url(#rocket-pool_svg__b)" d="M300 600c165.685 0 300-134.315 300-300S465.685 0 300 0 0 134.315 0 300s134.315 300 300 300"/>
+    <mask id="rocket-pool_svg__d" width="600" height="600" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:alpha">
+      <path fill="url(#rocket-pool_svg__c)" d="M300 600c165.685 0 300-134.315 300-300S465.685 0 300 0 0 134.315 0 300s134.315 300 300 300"/>
+    </mask>
+    <g mask="url(#rocket-pool_svg__d)">
+      <path fill="url(#rocket-pool_svg__e)" d="M-10 165c0-6.627 5.373-12 12-12h164c6.627 0 12 5.373 12 12v279c0 6.627-5.373 12-12 12H2c-6.627 0-12-5.373-12-12z" opacity=".2"/>
+      <path fill="#e74310" d="M362 407c0-6.627 5.373-12 12-12h214c6.627 0 12 5.373 12 12v104c0 6.627-5.373 12-12 12H374c-6.627 0-12-5.373-12-12z" opacity=".2"/>
+      <path fill="#df3600" d="M501 439c6.627 0 12 5.373 12 12v202c0 6.627-5.373 12-12 12h-79c-6.627 0-12-5.373-12-12V451c0-6.627 5.373-12 12-12z" opacity=".2"/>
+      <path fill="url(#rocket-pool_svg__f)" d="M243 195c6.627 0 12 5.373 12 12v161c0 6.627-5.373 12-12 12h-89c-6.627 0-12-5.373-12-12V207c0-6.627 5.373-12 12-12z" opacity=".1"/>
+      <path fill="url(#rocket-pool_svg__g)" d="M57 243c0-6.627 5.373-12 12-12h146c6.627 0 12 5.373 12 12v153c0 6.627-5.373 12-12 12H69c-6.627 0-12-5.373-12-12z" opacity=".1"/>
+      <path fill="#ff9776" d="M600 82c6.627 0 12 5.373 12 12v202c0 6.627-5.373 12-12 12H414c-6.627 0-12-5.373-12-12V94c0-6.627 5.373-12 12-12z" opacity=".2"/>
+      <path fill="#ffca8c" d="M487-52c6.627 0 12 5.373 12 12v222c0 6.627-5.373 12-12 12H383c-6.627 0-12-5.373-12-12V-40c0-6.627 5.373-12 12-12z" opacity=".2"/>
+      <path fill="url(#rocket-pool_svg__h)" d="M541-12c6.627 0 12 5.373 12 12v247c0 6.627-5.373 12-12 12H315c-6.627 0-12-5.373-12-12V0c0-6.627 5.373-12 12-12z" opacity=".2"/>
+      <path fill="#df3600" d="M212-82c6.627 0 12 5.373 12 12V96c0 6.627-5.373 12-12 12h-79c-6.627 0-12-5.373-12-12V-70c0-6.627 5.373-12 12-12zm9 515c6.627 0 12 5.373 12 12v143c0 6.627-5.373 12-12 12H20c-6.627 0-12-5.373-12-12V445c0-6.627 5.373-12 12-12z" opacity=".1"/>
+      <path fill="#ffd494" d="M398 353c6.627 0 12 5.373 12 12v223c0 6.627-5.373 12-12 12H168c-6.627 0-12-5.373-12-12V365c0-6.627 5.373-12 12-12z" opacity=".1"/>
+      <path fill="#ffd494" d="M322 0c6.627 0 12 5.373 12 12v58c0 6.627-5.373 12-12 12H82c-6.627 0-12-5.373-12-12V12c0-6.627 5.373-12 12-12z" opacity=".2"/>
+      <path fill="#df3600" d="M582.157 144.749 132.748 594.158l-15.413-15.413 449.41-449.409zm-33.712-32.713L99.036 561.445 78.97 541.377 528.377 91.968z" opacity=".1"/>
+      <path fill="#f45c2c" d="M529.476 91.068 80.067 540.476 60 520.41 509.409 71z" opacity=".1"/>
+      <path fill="#f45c2c" d="M511.476 69.068 62.067 518.476l-16.515-16.515L494.96 52.55z" opacity=".2"/>
+      <path fill="#ffbc6e" d="m494.925 52.515-449.41 449.41L29 485.407 478.409 36z" opacity=".1"/>
+      <path fill="#df3600" d="m483.925 30.515-449.41 449.41L18 463.407 467.409 14z" opacity=".1"/>
+      <path fill="#ffd5a4" d="M335.879-6.439-18.484 347.924-35 331.408 319.363-22.955z" opacity=".09"/>
+      <path fill="#ffd5a4" d="M316.879-26.485-37.484 327.878-54 311.362 300.363-43z" opacity=".08"/>
+      <path fill="#ffd5a4" d="M299.879-49.485-54.484 304.878-71 288.362 283.363-66z" opacity=".05"/>
+      <path fill="#ffd5a4" d="M421.087-15.485 9.515 396.087-7 379.57 404.571-32.001zm11 26L20.515 422.087 4 405.57 415.571-6.001z" opacity=".2"/>
+      <path fill="#ffd5a4" d="M367.799.641 2.516 365.924-14 349.408 351.283-15.875z" opacity=".1"/>
+      <path fill="#df3600" d="M581.494 145.085 132.085 594.494l-32.95-32.95 449.41-449.409z" opacity=".1"/>
+      <path fill="#df3600" d="M581.494 145.085 132.085 594.494l-33.118-33.118 449.409-449.41z" opacity=".1"/>
+    </g>
+    <path fill="#fff" d="m299.556 364.731-114.139-67.52 114.139-189.344 114.037 189.344z"/>
+    <path fill="#fff" d="M299.556 479.69 185.417 318.932l114.139 67.418 114.14-67.418z"/>
+  </g>
   <defs>
-    <linearGradient id="rocket-pool_svg__a" x1="20" x2="0" y1="2.781" y2="17.961" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#eb8263"/>
-      <stop offset="1" stop-color="#f6bf79"/>
+    <linearGradient id="rocket-pool_svg__e" x1="84" x2="84" y1="153" y2="456" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffe090"/>
+      <stop offset="1" stop-color="#ffe090" stop-opacity="0"/>
     </linearGradient>
+    <linearGradient id="rocket-pool_svg__f" x1="198" x2="198" y1="195" y2="366" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#df3600"/>
+      <stop offset="1" stop-color="#df3600" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="rocket-pool_svg__g" x1="57" x2="214.135" y1="320.283" y2="320.283" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#df3600"/>
+      <stop offset="1" stop-color="#df3600" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="rocket-pool_svg__h" x1="428" x2="428" y1="-12" y2="259" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#df3600"/>
+      <stop offset="1" stop-color="#df3600" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="rocket-pool_svg__b" cx="0" cy="0" r="1" gradientTransform="rotate(54.167 -42.31 263.393)scale(497.082)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd794"/>
+      <stop offset="1" stop-color="#ed5a37"/>
+    </radialGradient>
+    <radialGradient id="rocket-pool_svg__c" cx="0" cy="0" r="1" gradientTransform="rotate(54.167 -42.31 263.393)scale(497.082)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd794"/>
+      <stop offset="1" stop-color="#ed5a37"/>
+    </radialGradient>
+    <clipPath id="rocket-pool_svg__a">
+      <path fill="#fff" d="M0 0h600v600H0z"/>
+    </clipPath>
   </defs>
 </svg>
