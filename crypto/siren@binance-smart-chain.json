@@ -1,0 +1,18 @@
+{
+  "_id": "siren@binance-smart-chain",
+  "asset": "siren",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "siren",
+  "symbol": "SIREN",
+  "address": "0x997a58129890bbda032231a52ed1ddc845fc18e1",
+  "decimals": 18,
+  "logo": "siren.svg",
+  "coingecko": {
+    "id": "siren-2"
+  },
+  "coinmarketcap": {
+    "id": 35766,
+    "slug": "siren-bsc"
+  }
+}
