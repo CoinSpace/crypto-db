@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "loopring@solana",
   "asset": "loopring",
   "platform": "solana",
