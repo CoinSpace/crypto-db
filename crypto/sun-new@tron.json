@@ -1,0 +1,18 @@
+{
+  "_id": "sun-new@tron",
+  "asset": "sun-new",
+  "platform": "tron",
+  "type": "token",
+  "name": "Sun [New]",
+  "symbol": "SUN",
+  "address": "TSSMHYeV2uE9qYH95DqyoCuNCzEL1NvU3S",
+  "decimals": 18,
+  "logo": "sun-new.svg",
+  "coingecko": {
+    "id": "sun-token"
+  },
+  "coinmarketcap": {
+    "id": 10529,
+    "slug": "sun-token"
+  }
+}
