@@ -1,0 +1,18 @@
+{
+  "_id": "tether-gold@binance-smart-chain",
+  "asset": "tether-gold",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Tether Gold",
+  "symbol": "XAUT",
+  "address": "0x21caef8a43163eea865baee23b9c2e327696a3bf",
+  "decimals": 6,
+  "logo": "tether-gold.svg",
+  "coingecko": {
+    "id": "tether-gold"
+  },
+  "coinmarketcap": {
+    "id": 5176,
+    "slug": "tether-gold"
+  }
+}
