@@ -1,0 +1,18 @@
+{
+  "_id": "united-stables@tron",
+  "asset": "united-stables",
+  "platform": "tron",
+  "type": "token",
+  "name": "United Stables",
+  "symbol": "U",
+  "address": "TFNirp6PbqYE1ZTtWuCMUKJWLNZkoCoeFJ",
+  "decimals": 18,
+  "logo": "united-stables.svg",
+  "coingecko": {
+    "id": "united-stables"
+  },
+  "coinmarketcap": {
+    "id": 39120,
+    "slug": "united-stables"
+  }
+}
