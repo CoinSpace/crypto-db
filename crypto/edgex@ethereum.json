@@ -1,0 +1,18 @@
+{
+  "_id": "edgex@ethereum",
+  "asset": "edgex",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "edgeX",
+  "symbol": "EDGE",
+  "address": "0xb0076de78dc50581770bba1d211ddc0ad4f2a241",
+  "decimals": 18,
+  "logo": "edgex.svg",
+  "coingecko": {
+    "id": "edgex"
+  },
+  "coinmarketcap": {
+    "id": 39720,
+    "slug": "edgex"
+  }
+}
