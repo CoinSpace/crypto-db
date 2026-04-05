@@ -1,0 +1,18 @@
+{
+  "_id": "venice-token@base",
+  "asset": "venice-token",
+  "platform": "base",
+  "type": "token",
+  "name": "Venice Token",
+  "symbol": "VVV",
+  "address": "0xacfe6019ed1a7dc6f7b508c02d1b04ec88cc21bf",
+  "decimals": 18,
+  "logo": "venice-token.svg",
+  "coingecko": {
+    "id": "venice-token"
+  },
+  "coinmarketcap": {
+    "id": 35509,
+    "slug": "venice-token"
+  }
+}
