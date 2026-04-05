@@ -1,0 +1,18 @@
+{
+  "_id": "sui@solana",
+  "asset": "sui",
+  "platform": "solana",
+  "type": "token",
+  "name": "Sui",
+  "symbol": "SUI",
+  "address": "suifhC9gU1VbJAPYPTBkHJyyyStKGLLYPVDTmPoqbvA",
+  "decimals": 8,
+  "logo": "sui.svg",
+  "coingecko": {
+    "id": "sui"
+  },
+  "coinmarketcap": {
+    "id": 20947,
+    "slug": "sui"
+  }
+}
