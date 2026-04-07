@@ -1,0 +1,18 @@
+{
+  "_id": "edgex@binance-smart-chain",
+  "asset": "edgex",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "edgeX",
+  "symbol": "EDGE",
+  "address": "0x70f2eadf1ca1969ff42b0c78e9da519e8937cbaf",
+  "decimals": 18,
+  "logo": "edgex.svg",
+  "coingecko": {
+    "id": "edgex"
+  },
+  "coinmarketcap": {
+    "id": 39720,
+    "slug": "edgex"
+  }
+}
