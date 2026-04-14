@@ -1,0 +1,17 @@
+{
+  "_id": "monad@monad",
+  "asset": "monad",
+  "platform": "monad",
+  "type": "coin",
+  "name": "Monad",
+  "symbol": "MON",
+  "logo": "monad.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "monad"
+  },
+  "coinmarketcap": {
+    "id": 30495,
+    "slug": "monad"
+  }
+}
