@@ -1,0 +1,18 @@
+{
+  "_id": "usd-coin@monad",
+  "asset": "usd-coin",
+  "platform": "monad",
+  "type": "token",
+  "name": "USDC",
+  "symbol": "USDC",
+  "address": "0x754704bc059f8c67012fed69bc8a327a5aafb603",
+  "logo": "usd-coin.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "usd-coin"
+  },
+  "coinmarketcap": {
+    "id": 3408,
+    "slug": "usd-coin"
+  }
+}

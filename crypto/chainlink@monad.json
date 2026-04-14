@@ -1,0 +1,18 @@
+{
+  "_id": "chainlink@monad",
+  "asset": "chainlink",
+  "platform": "monad",
+  "type": "token",
+  "name": "Chainlink",
+  "symbol": "LINK",
+  "address": "0x76f257B1DDA5cC71bee4eF637Fbdde4C801310A9",
+  "logo": "chainlink.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "chainlink"
+  },
+  "coinmarketcap": {
+    "id": 1975,
+    "slug": "chainlink"
+  }
+}
