@@ -1,0 +1,18 @@
+{
+  "_id": "ravedao@ethereum",
+  "asset": "ravedao",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "RaveDAO",
+  "symbol": "RAVE",
+  "address": "0x17205fab260a7a6383a81452ce6315a39370db97",
+  "decimals": 18,
+  "logo": "ravedao.svg",
+  "coingecko": {
+    "id": "ravedao"
+  },
+  "coinmarketcap": {
+    "id": 38967,
+    "slug": "ravedao"
+  }
+}
