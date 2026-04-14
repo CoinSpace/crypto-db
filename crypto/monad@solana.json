@@ -1,0 +1,18 @@
+{
+  "_id": "monad@solana",
+  "asset": "monad",
+  "platform": "solana",
+  "type": "token",
+  "name": "Monad",
+  "symbol": "MON",
+  "address": "CrAr4RRJMBVwRsZtT62pEhfA9H5utymC2mVx8e7FreP2",
+  "decimals": 8,
+  "logo": "monad.svg",
+  "coingecko": {
+    "id": "monad"
+  },
+  "coinmarketcap": {
+    "id": 30495,
+    "slug": "monad"
+  }
+}
