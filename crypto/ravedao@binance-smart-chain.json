@@ -1,0 +1,18 @@
+{
+  "_id": "ravedao@binance-smart-chain",
+  "asset": "ravedao",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "RaveDAO",
+  "symbol": "RAVE",
+  "address": "0x97693439ea2f0ecdeb9135881e49f354656a911c",
+  "decimals": 18,
+  "logo": "ravedao.svg",
+  "coingecko": {
+    "id": "ravedao"
+  },
+  "coinmarketcap": {
+    "id": 38967,
+    "slug": "ravedao"
+  }
+}
