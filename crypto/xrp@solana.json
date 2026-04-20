@@ -1,0 +1,18 @@
+{
+  "_id": "xrp@solana",
+  "asset": "xrp",
+  "platform": "solana",
+  "type": "token",
+  "name": "XRP",
+  "symbol": "XRP",
+  "address": "6UpQcMAb5xMzxc7ZfPaVMgx3KqsvKZdT5U718BzD5We2",
+  "decimals": 6,
+  "logo": "xrp.svg",
+  "coingecko": {
+    "id": "ripple"
+  },
+  "coinmarketcap": {
+    "id": 52,
+    "slug": "xrp"
+  }
+}
