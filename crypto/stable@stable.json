@@ -1,0 +1,17 @@
+{
+  "_id": "stable@stable",
+  "asset": "stable",
+  "platform": "stable",
+  "type": "coin",
+  "name": "Stable",
+  "symbol": "STABLE",
+  "logo": "stable.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "stable-2"
+  },
+  "coinmarketcap": {
+    "id": 38892,
+    "slug": "stable"
+  }
+}
