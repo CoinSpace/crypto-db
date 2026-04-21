@@ -1,0 +1,17 @@
+{
+  "_id": "memecore@memecore",
+  "asset": "memecore",
+  "platform": "memecore",
+  "type": "coin",
+  "name": "MemeCore",
+  "symbol": "M",
+  "logo": "memecore.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "memecore"
+  },
+  "coinmarketcap": {
+    "id": 35491,
+    "slug": "memecore"
+  }
+}
