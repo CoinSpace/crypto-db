@@ -1,0 +1,18 @@
+{
+  "_id": "@binance-smart-chain",
+  "asset": "",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "币安人生",
+  "symbol": "币安人生",
+  "address": "0x924fa68a0fc644485b8df8abfa0a41c2e7744444",
+  "decimals": 18,
+  "logo": ".png",
+  "coingecko": {
+    "id": "bianrensheng"
+  },
+  "coinmarketcap": {
+    "id": 38590,
+    "slug": "bianrensheng"
+  }
+}
