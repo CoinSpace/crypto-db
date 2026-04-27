@@ -1,0 +1,336 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
+  <g clip-path="url(#zebec-network_svg__a)">
+    <circle cx="10" cy="10" r="10" fill="#2f285b"/>
+    <path stroke="#5cffd1" stroke-width=".7" d="m8.15 8.6 3.55.25c1.5 0 1.2-.9.3-1.1L8.5 6.9c-2-.35-1.55 1.65-.35 1.7Z"/>
+    <circle cx="6.9" cy="15.6" r=".2" fill="#5cffd1"/>
+    <circle cx="7.408" cy="15.6" r=".2" fill="#5cffd1"/>
+    <circle cx="7.917" cy="15.6" r=".2" fill="#5cffd1"/>
+    <circle cx="8.425" cy="15.6" r=".2" fill="#5cffd1"/>
+    <circle cx="8.933" cy="15.6" r=".2" fill="#5cffd1"/>
+    <circle cx="9.442" cy="15.6" r=".2" fill="#5cffd1"/>
+    <circle cx="9.95" cy="15.6" r=".2" fill="#5cffd1"/>
+    <circle cx="10.458" cy="15.6" r=".2" fill="#5cffd1"/>
+    <circle cx="10.967" cy="15.6" r=".2" fill="#5cffd1"/>
+    <circle cx="11.475" cy="15.6" r=".2" fill="#5cffd1"/>
+    <circle cx="11.983" cy="15.6" r=".2" fill="#5cffd1"/>
+    <circle cx="12.492" cy="15.6" r=".2" fill="#5cffd1"/>
+    <circle cx="13" cy="15.6" r=".2" fill="#5cffd1"/>
+    <circle cx="13.55" cy="15.65" r=".15" fill="#5cffd1"/>
+    <circle cx="6.35" cy="15.65" r=".15" fill="#5cffd1"/>
+    <circle cx="5.85" cy="15.65" r=".15" fill="#5cffd1"/>
+    <circle cx="5.4" cy="15.7" r=".1" fill="#5cffd1"/>
+    <circle cx="5.6" cy="16.2" r=".1" fill="#5cffd1"/>
+    <circle cx="6.15" cy="16.15" r=".15" fill="#5cffd1"/>
+    <circle cx="6.657" cy="16.15" r=".15" fill="#5cffd1"/>
+    <circle cx="7.163" cy="16.15" r=".15" fill="#5cffd1"/>
+    <circle cx="7.67" cy="16.15" r=".15" fill="#5cffd1"/>
+    <circle cx="8.177" cy="16.15" r=".15" fill="#5cffd1"/>
+    <circle cx="8.683" cy="16.15" r=".15" fill="#5cffd1"/>
+    <circle cx="9.19" cy="16.15" r=".15" fill="#5cffd1"/>
+    <circle cx="9.697" cy="16.15" r=".15" fill="#5cffd1"/>
+    <circle cx="10.203" cy="16.15" r=".15" fill="#5cffd1"/>
+    <circle cx="10.71" cy="16.15" r=".15" fill="#5cffd1"/>
+    <circle cx="11.217" cy="16.15" r=".15" fill="#5cffd1"/>
+    <circle cx="11.723" cy="16.15" r=".15" fill="#5cffd1"/>
+    <circle cx="12.23" cy="16.15" r=".15" fill="#5cffd1"/>
+    <circle cx="12.737" cy="16.15" r=".15" fill="#5cffd1"/>
+    <circle cx="13.243" cy="16.15" r=".15" fill="#5cffd1"/>
+    <circle cx="13.75" cy="16.15" r=".15" fill="#5cffd1"/>
+    <circle cx="5.9" cy="16.7" r=".1" fill="#5cffd1"/>
+    <circle cx="6.407" cy="16.7" r=".1" fill="#5cffd1"/>
+    <circle cx="6.913" cy="16.7" r=".1" fill="#5cffd1"/>
+    <circle cx="7.42" cy="16.7" r=".1" fill="#5cffd1"/>
+    <circle cx="7.927" cy="16.7" r=".1" fill="#5cffd1"/>
+    <circle cx="8.433" cy="16.7" r=".1" fill="#5cffd1"/>
+    <circle cx="8.94" cy="16.7" r=".1" fill="#5cffd1"/>
+    <circle cx="9.447" cy="16.7" r=".1" fill="#5cffd1"/>
+    <circle cx="9.953" cy="16.7" r=".1" fill="#5cffd1"/>
+    <circle cx="10.46" cy="16.7" r=".1" fill="#5cffd1"/>
+    <circle cx="10.967" cy="16.7" r=".1" fill="#5cffd1"/>
+    <circle cx="11.473" cy="16.7" r=".1" fill="#5cffd1"/>
+    <circle cx="11.98" cy="16.7" r=".1" fill="#5cffd1"/>
+    <circle cx="12.487" cy="16.7" r=".1" fill="#5cffd1"/>
+    <circle cx="12.993" cy="16.7" r=".1" fill="#5cffd1"/>
+    <circle cx="13.5" cy="16.7" r=".1" fill="#5cffd1"/>
+    <circle cx="14.3" cy="16.2" r=".1" fill="#5cffd1"/>
+    <circle cx="14.1" cy="15.7" r=".1" fill="#5cffd1"/>
+    <circle cx="5.65" cy="17.15" r=".05" fill="#5cffd1"/>
+    <circle cx="6.163" cy="17.15" r=".05" fill="#5cffd1"/>
+    <circle cx="6.677" cy="17.15" r=".05" fill="#5cffd1"/>
+    <circle cx="7.19" cy="17.15" r=".05" fill="#5cffd1"/>
+    <circle cx="7.703" cy="17.15" r=".05" fill="#5cffd1"/>
+    <circle cx="8.217" cy="17.15" r=".05" fill="#5cffd1"/>
+    <circle cx="8.73" cy="17.15" r=".05" fill="#5cffd1"/>
+    <circle cx="9.243" cy="17.15" r=".05" fill="#5cffd1"/>
+    <circle cx="9.757" cy="17.15" r=".05" fill="#5cffd1"/>
+    <circle cx="10.27" cy="17.15" r=".05" fill="#5cffd1"/>
+    <circle cx="10.783" cy="17.15" r=".05" fill="#5cffd1"/>
+    <circle cx="11.297" cy="17.15" r=".05" fill="#5cffd1"/>
+    <circle cx="11.81" cy="17.15" r=".05" fill="#5cffd1"/>
+    <circle cx="12.323" cy="17.15" r=".05" fill="#5cffd1"/>
+    <circle cx="12.837" cy="17.15" r=".05" fill="#5cffd1"/>
+    <circle cx="13.35" cy="17.15" r=".05" fill="#5cffd1"/>
+    <circle cx="13.85" cy="17.15" r=".05" fill="#5cffd1"/>
+    <circle cx="14.25" cy="16.95" r=".05" fill="#5cffd1"/>
+    <circle cx="14.85" cy="16.15" r=".05" fill="#5cffd1"/>
+    <circle cx="14.55" cy="15.65" r=".05" fill="#5cffd1"/>
+    <circle cx="3.6" cy="10" r=".2" fill="#5cffd1"/>
+    <circle cx="3" cy="10" r=".2" fill="#5cffd1"/>
+    <circle cx="2.5" cy="10" r=".1" fill="#5cffd1"/>
+    <circle cx="1.95" cy="9.95" r=".05" fill="#5cffd1"/>
+    <circle cx="3.8" cy="10.5" r=".2" fill="#5cffd1"/>
+    <circle cx="3.2" cy="10.5" r=".2" fill="#5cffd1"/>
+    <circle cx="2.7" cy="10.5" r=".1" fill="#5cffd1"/>
+    <circle cx="2.15" cy="10.45" r=".05" fill="#5cffd1"/>
+    <circle cx="4.1" cy="11" r=".2" fill="#5cffd1"/>
+    <circle cx="3.5" cy="11" r=".2" fill="#5cffd1"/>
+    <circle cx="3" cy="11" r=".1" fill="#5cffd1"/>
+    <circle cx="2.45" cy="10.95" r=".05" fill="#5cffd1"/>
+    <circle cx="4.3" cy="11.5" r=".2" fill="#5cffd1"/>
+    <circle cx="3.75" cy="11.55" r=".15" fill="#5cffd1"/>
+    <circle cx="3.3" cy="11.5" r=".1" fill="#5cffd1"/>
+    <circle cx="2.75" cy="11.55" r=".05" fill="#5cffd1"/>
+    <circle cx="4.6" cy="12" r=".2" fill="#5cffd1"/>
+    <circle cx="4.05" cy="12.05" r=".15" fill="#5cffd1"/>
+    <circle cx="3.55" cy="12.05" r=".15" fill="#5cffd1"/>
+    <circle cx="3.05" cy="12.05" r=".05" fill="#5cffd1"/>
+    <circle cx="4.9" cy="12.5" r=".2" fill="#5cffd1"/>
+    <circle cx="4.35" cy="12.55" r=".15" fill="#5cffd1"/>
+    <circle cx="3.85" cy="12.55" r=".15" fill="#5cffd1"/>
+    <circle cx="3.35" cy="12.55" r=".05" fill="#5cffd1"/>
+    <circle cx="5.1" cy="13" r=".2" fill="#5cffd1"/>
+    <circle cx="4.55" cy="13.05" r=".15" fill="#5cffd1"/>
+    <circle cx="4.05" cy="13.05" r=".15" fill="#5cffd1"/>
+    <circle cx="3.55" cy="13.05" r=".05" fill="#5cffd1"/>
+    <circle cx="5.4" cy="13.5" r=".2" fill="#5cffd1"/>
+    <circle cx="4.85" cy="13.55" r=".15" fill="#5cffd1"/>
+    <circle cx="4.35" cy="13.55" r=".15" fill="#5cffd1"/>
+    <circle cx="3.85" cy="13.55" r=".05" fill="#5cffd1"/>
+    <circle cx="5.6" cy="14.1" r=".2" fill="#5cffd1"/>
+    <circle cx="5.05" cy="14.15" r=".15" fill="#5cffd1"/>
+    <circle cx="4.55" cy="14.15" r=".15" fill="#5cffd1"/>
+    <circle cx="4.05" cy="14.15" r=".05" fill="#5cffd1"/>
+    <circle cx="5.9" cy="14.6" r=".2" fill="#5cffd1"/>
+    <circle cx="5.35" cy="14.65" r=".15" fill="#5cffd1"/>
+    <circle cx="4.85" cy="14.65" r=".15" fill="#5cffd1"/>
+    <circle cx="4.35" cy="14.65" r=".05" fill="#5cffd1"/>
+    <circle cx="6.1" cy="15.1" r=".2" fill="#5cffd1"/>
+    <circle cx="5.55" cy="15.15" r=".15" fill="#5cffd1"/>
+    <circle cx="5.05" cy="15.15" r=".15" fill="#5cffd1"/>
+    <circle cx="4.55" cy="15.15" r=".05" fill="#5cffd1"/>
+    <circle cx="4.85" cy="15.65" r=".05" fill="#5cffd1"/>
+    <circle cx="5.05" cy="16.15" r=".05" fill="#5cffd1"/>
+    <circle cx="5.35" cy="16.65" r=".05" fill="#5cffd1"/>
+    <circle cx=".2" cy=".2" r=".2" fill="#5cffd1" transform="matrix(-1 0 0 1 16.5 9.8)"/>
+    <circle cx=".2" cy=".2" r=".2" fill="#5cffd1" transform="matrix(-1 0 0 1 17.1 9.8)"/>
+    <circle cx=".1" cy=".1" r=".1" fill="#5cffd1" transform="matrix(-1 0 0 1 17.5 9.9)"/>
+    <circle cx=".05" cy=".05" r=".05" fill="#5cffd1" transform="matrix(-1 0 0 1 18 9.9)"/>
+    <circle cx=".2" cy=".2" r=".2" fill="#5cffd1" transform="matrix(-1 0 0 1 16.3 10.3)"/>
+    <circle cx=".2" cy=".2" r=".2" fill="#5cffd1" transform="matrix(-1 0 0 1 16.9 10.3)"/>
+    <circle cx=".1" cy=".1" r=".1" fill="#5cffd1" transform="matrix(-1 0 0 1 17.3 10.4)"/>
+    <circle cx=".05" cy=".05" r=".05" fill="#5cffd1" transform="matrix(-1 0 0 1 17.8 10.4)"/>
+    <circle cx=".2" cy=".2" r=".2" fill="#5cffd1" transform="matrix(-1 0 0 1 16 10.8)"/>
+    <circle cx=".2" cy=".2" r=".2" fill="#5cffd1" transform="matrix(-1 0 0 1 16.6 10.8)"/>
+    <circle cx=".1" cy=".1" r=".1" fill="#5cffd1" transform="matrix(-1 0 0 1 17 10.9)"/>
+    <circle cx=".05" cy=".05" r=".05" fill="#5cffd1" transform="matrix(-1 0 0 1 17.5 10.9)"/>
+    <circle cx=".2" cy=".2" r=".2" fill="#5cffd1" transform="matrix(-1 0 0 1 15.8 11.3)"/>
+    <circle cx=".15" cy=".15" r=".15" fill="#5cffd1" transform="matrix(-1 0 0 1 16.3 11.4)"/>
+    <circle cx=".1" cy=".1" r=".1" fill="#5cffd1" transform="matrix(-1 0 0 1 16.7 11.4)"/>
+    <circle cx=".05" cy=".05" r=".05" fill="#5cffd1" transform="matrix(-1 0 0 1 17.2 11.5)"/>
+    <circle cx=".2" cy=".2" r=".2" fill="#5cffd1" transform="matrix(-1 0 0 1 15.5 11.8)"/>
+    <circle cx=".15" cy=".15" r=".15" fill="#5cffd1" transform="matrix(-1 0 0 1 16 11.9)"/>
+    <circle cx=".15" cy=".15" r=".15" fill="#5cffd1" transform="matrix(-1 0 0 1 16.5 11.9)"/>
+    <circle cx=".05" cy=".05" r=".05" fill="#5cffd1" transform="matrix(-1 0 0 1 16.9 12)"/>
+    <circle cx=".2" cy=".2" r=".2" fill="#5cffd1" transform="matrix(-1 0 0 1 15.2 12.3)"/>
+    <circle cx=".15" cy=".15" r=".15" fill="#5cffd1" transform="matrix(-1 0 0 1 15.7 12.4)"/>
+    <circle cx=".15" cy=".15" r=".15" fill="#5cffd1" transform="matrix(-1 0 0 1 16.2 12.4)"/>
+    <circle cx=".05" cy=".05" r=".05" fill="#5cffd1" transform="matrix(-1 0 0 1 16.6 12.5)"/>
+    <circle cx=".2" cy=".2" r=".2" fill="#5cffd1" transform="matrix(-1 0 0 1 15 12.8)"/>
+    <circle cx=".15" cy=".15" r=".15" fill="#5cffd1" transform="matrix(-1 0 0 1 15.5 12.9)"/>
+    <circle cx=".15" cy=".15" r=".15" fill="#5cffd1" transform="matrix(-1 0 0 1 16 12.9)"/>
+    <circle cx=".05" cy=".05" r=".05" fill="#5cffd1" transform="matrix(-1 0 0 1 16.4 13)"/>
+    <circle cx=".2" cy=".2" r=".2" fill="#5cffd1" transform="matrix(-1 0 0 1 14.7 13.3)"/>
+    <circle cx=".15" cy=".15" r=".15" fill="#5cffd1" transform="matrix(-1 0 0 1 15.2 13.4)"/>
+    <circle cx=".15" cy=".15" r=".15" fill="#5cffd1" transform="matrix(-1 0 0 1 15.7 13.4)"/>
+    <circle cx=".05" cy=".05" r=".05" fill="#5cffd1" transform="matrix(-1 0 0 1 16.1 13.5)"/>
+    <circle cx=".2" cy=".2" r=".2" fill="#5cffd1" transform="matrix(-1 0 0 1 14.5 13.9)"/>
+    <circle cx=".15" cy=".15" r=".15" fill="#5cffd1" transform="matrix(-1 0 0 1 15 14)"/>
+    <circle cx=".15" cy=".15" r=".15" fill="#5cffd1" transform="matrix(-1 0 0 1 15.5 14)"/>
+    <circle cx=".05" cy=".05" r=".05" fill="#5cffd1" transform="matrix(-1 0 0 1 15.9 14.1)"/>
+    <circle cx=".2" cy=".2" r=".2" fill="#5cffd1" transform="matrix(-1 0 0 1 14.2 14.4)"/>
+    <circle cx=".15" cy=".15" r=".15" fill="#5cffd1" transform="matrix(-1 0 0 1 14.7 14.5)"/>
+    <circle cx=".15" cy=".15" r=".15" fill="#5cffd1" transform="matrix(-1 0 0 1 15.2 14.5)"/>
+    <circle cx=".05" cy=".05" r=".05" fill="#5cffd1" transform="matrix(-1 0 0 1 15.6 14.6)"/>
+    <circle cx=".2" cy=".2" r=".2" fill="#5cffd1" transform="matrix(-1 0 0 1 14 14.9)"/>
+    <circle cx=".15" cy=".15" r=".15" fill="#5cffd1" transform="matrix(-1 0 0 1 14.5 15)"/>
+    <circle cx=".15" cy=".15" r=".15" fill="#5cffd1" transform="matrix(-1 0 0 1 15 15)"/>
+    <circle cx=".05" cy=".05" r=".05" fill="#5cffd1" transform="matrix(-1 0 0 1 15.4 15.1)"/>
+    <circle cx=".05" cy=".05" r=".05" fill="#5cffd1" transform="matrix(-1 0 0 1 15.1 15.6)"/>
+    <circle cx=".05" cy=".05" r=".05" fill="#5cffd1" transform="matrix(-1 0 0 1 14.5 16.6)"/>
+    <circle cx=".05" cy=".05" r=".05" fill="#5cffd1" transform="matrix(-1 0 0 1 14 16.6)"/>
+    <circle cx=".2" cy=".2" r=".2" fill="#5cffd1" transform="matrix(1 0 0 -1 6.7 4.6)"/>
+    <circle cx=".2" cy=".2" r=".2" fill="#5cffd1" transform="matrix(1 0 0 -1 7.208 4.6)"/>
+    <circle cx=".2" cy=".2" r=".2" fill="#5cffd1" transform="matrix(1 0 0 -1 7.717 4.6)"/>
+    <circle cx=".2" cy=".2" r=".2" fill="#5cffd1" transform="matrix(1 0 0 -1 8.225 4.6)"/>
+    <circle cx=".2" cy=".2" r=".2" fill="#5cffd1" transform="matrix(1 0 0 -1 8.733 4.6)"/>
+    <circle cx=".2" cy=".2" r=".2" fill="#5cffd1" transform="matrix(1 0 0 -1 9.242 4.6)"/>
+    <circle cx=".2" cy=".2" r=".2" fill="#5cffd1" transform="matrix(1 0 0 -1 9.75 4.6)"/>
+    <circle cx=".2" cy=".2" r=".2" fill="#5cffd1" transform="matrix(1 0 0 -1 10.258 4.6)"/>
+    <circle cx=".2" cy=".2" r=".2" fill="#5cffd1" transform="matrix(1 0 0 -1 10.767 4.6)"/>
+    <circle cx=".2" cy=".2" r=".2" fill="#5cffd1" transform="matrix(1 0 0 -1 11.275 4.6)"/>
+    <circle cx=".2" cy=".2" r=".2" fill="#5cffd1" transform="matrix(1 0 0 -1 11.783 4.6)"/>
+    <circle cx=".2" cy=".2" r=".2" fill="#5cffd1" transform="matrix(1 0 0 -1 12.292 4.6)"/>
+    <circle cx=".2" cy=".2" r=".2" fill="#5cffd1" transform="matrix(1 0 0 -1 12.8 4.6)"/>
+    <circle cx=".15" cy=".15" r=".15" fill="#5cffd1" transform="matrix(1 0 0 -1 13.4 4.5)"/>
+    <circle cx=".15" cy=".15" r=".15" fill="#5cffd1" transform="matrix(1 0 0 -1 6.2 4.5)"/>
+    <circle cx=".15" cy=".15" r=".15" fill="#5cffd1" transform="matrix(1 0 0 -1 5.7 4.5)"/>
+    <circle cx=".1" cy=".1" r=".1" fill="#5cffd1" transform="matrix(1 0 0 -1 5.3 4.4)"/>
+    <circle cx=".1" cy=".1" r=".1" fill="#5cffd1" transform="matrix(1 0 0 -1 5.5 3.9)"/>
+    <circle cx=".15" cy=".15" r=".15" fill="#5cffd1" transform="matrix(1 0 0 -1 6 4)"/>
+    <circle cx=".15" cy=".15" r=".15" fill="#5cffd1" transform="matrix(1 0 0 -1 6.507 4)"/>
+    <circle cx=".15" cy=".15" r=".15" fill="#5cffd1" transform="matrix(1 0 0 -1 7.013 4)"/>
+    <circle cx=".15" cy=".15" r=".15" fill="#5cffd1" transform="matrix(1 0 0 -1 7.52 4)"/>
+    <circle cx=".15" cy=".15" r=".15" fill="#5cffd1" transform="matrix(1 0 0 -1 8.027 4)"/>
+    <circle cx=".15" cy=".15" r=".15" fill="#5cffd1" transform="matrix(1 0 0 -1 8.533 4)"/>
+    <circle cx=".15" cy=".15" r=".15" fill="#5cffd1" transform="matrix(1 0 0 -1 9.04 4)"/>
+    <circle cx=".15" cy=".15" r=".15" fill="#5cffd1" transform="matrix(1 0 0 -1 9.547 4)"/>
+    <circle cx=".15" cy=".15" r=".15" fill="#5cffd1" transform="matrix(1 0 0 -1 10.053 4)"/>
+    <circle cx=".15" cy=".15" r=".15" fill="#5cffd1" transform="matrix(1 0 0 -1 10.56 4)"/>
+    <circle cx=".15" cy=".15" r=".15" fill="#5cffd1" transform="matrix(1 0 0 -1 11.067 4)"/>
+    <circle cx=".15" cy=".15" r=".15" fill="#5cffd1" transform="matrix(1 0 0 -1 11.573 4)"/>
+    <circle cx=".15" cy=".15" r=".15" fill="#5cffd1" transform="matrix(1 0 0 -1 12.08 4)"/>
+    <circle cx=".15" cy=".15" r=".15" fill="#5cffd1" transform="matrix(1 0 0 -1 12.587 4)"/>
+    <circle cx=".15" cy=".15" r=".15" fill="#5cffd1" transform="matrix(1 0 0 -1 13.093 4)"/>
+    <circle cx=".15" cy=".15" r=".15" fill="#5cffd1" transform="matrix(1 0 0 -1 13.6 4)"/>
+    <circle cx=".1" cy=".1" r=".1" fill="#5cffd1" transform="matrix(1 0 0 -1 5.8 3.4)"/>
+    <circle cx=".1" cy=".1" r=".1" fill="#5cffd1" transform="matrix(1 0 0 -1 6.307 3.4)"/>
+    <circle cx=".1" cy=".1" r=".1" fill="#5cffd1" transform="matrix(1 0 0 -1 6.813 3.4)"/>
+    <circle cx=".1" cy=".1" r=".1" fill="#5cffd1" transform="matrix(1 0 0 -1 7.32 3.4)"/>
+    <circle cx=".1" cy=".1" r=".1" fill="#5cffd1" transform="matrix(1 0 0 -1 7.827 3.4)"/>
+    <circle cx=".1" cy=".1" r=".1" fill="#5cffd1" transform="matrix(1 0 0 -1 8.333 3.4)"/>
+    <circle cx=".1" cy=".1" r=".1" fill="#5cffd1" transform="matrix(1 0 0 -1 8.84 3.4)"/>
+    <circle cx=".1" cy=".1" r=".1" fill="#5cffd1" transform="matrix(1 0 0 -1 9.347 3.4)"/>
+    <circle cx=".1" cy=".1" r=".1" fill="#5cffd1" transform="matrix(1 0 0 -1 9.853 3.4)"/>
+    <circle cx=".1" cy=".1" r=".1" fill="#5cffd1" transform="matrix(1 0 0 -1 10.36 3.4)"/>
+    <circle cx=".1" cy=".1" r=".1" fill="#5cffd1" transform="matrix(1 0 0 -1 10.867 3.4)"/>
+    <circle cx=".1" cy=".1" r=".1" fill="#5cffd1" transform="matrix(1 0 0 -1 11.373 3.4)"/>
+    <circle cx=".1" cy=".1" r=".1" fill="#5cffd1" transform="matrix(1 0 0 -1 11.88 3.4)"/>
+    <circle cx=".1" cy=".1" r=".1" fill="#5cffd1" transform="matrix(1 0 0 -1 12.387 3.4)"/>
+    <circle cx=".1" cy=".1" r=".1" fill="#5cffd1" transform="matrix(1 0 0 -1 12.893 3.4)"/>
+    <circle cx=".1" cy=".1" r=".1" fill="#5cffd1" transform="matrix(1 0 0 -1 13.4 3.4)"/>
+    <circle cx=".1" cy=".1" r=".1" fill="#5cffd1" transform="matrix(1 0 0 -1 14.2 3.9)"/>
+    <circle cx=".05" cy=".05" r=".05" fill="#5cffd1" transform="matrix(1 0 0 -1 5.6 2.9)"/>
+    <circle cx=".05" cy=".05" r=".05" fill="#5cffd1" transform="matrix(1 0 0 -1 6.113 2.9)"/>
+    <circle cx=".05" cy=".05" r=".05" fill="#5cffd1" transform="matrix(1 0 0 -1 6.627 2.9)"/>
+    <circle cx=".05" cy=".05" r=".05" fill="#5cffd1" transform="matrix(1 0 0 -1 7.14 2.9)"/>
+    <circle cx=".05" cy=".05" r=".05" fill="#5cffd1" transform="matrix(1 0 0 -1 7.653 2.9)"/>
+    <circle cx=".05" cy=".05" r=".05" fill="#5cffd1" transform="matrix(1 0 0 -1 8.167 2.9)"/>
+    <circle cx=".05" cy=".05" r=".05" fill="#5cffd1" transform="matrix(1 0 0 -1 8.68 2.9)"/>
+    <circle cx=".05" cy=".05" r=".05" fill="#5cffd1" transform="matrix(1 0 0 -1 9.193 2.9)"/>
+    <circle cx=".05" cy=".05" r=".05" fill="#5cffd1" transform="matrix(1 0 0 -1 9.707 2.9)"/>
+    <circle cx=".05" cy=".05" r=".05" fill="#5cffd1" transform="matrix(1 0 0 -1 10.22 2.9)"/>
+    <circle cx=".05" cy=".05" r=".05" fill="#5cffd1" transform="matrix(1 0 0 -1 10.733 2.9)"/>
+    <circle cx=".05" cy=".05" r=".05" fill="#5cffd1" transform="matrix(1 0 0 -1 11.247 2.9)"/>
+    <circle cx=".05" cy=".05" r=".05" fill="#5cffd1" transform="matrix(1 0 0 -1 11.76 2.9)"/>
+    <circle cx=".05" cy=".05" r=".05" fill="#5cffd1" transform="matrix(1 0 0 -1 12.273 2.9)"/>
+    <circle cx=".05" cy=".05" r=".05" fill="#5cffd1" transform="matrix(1 0 0 -1 12.787 2.9)"/>
+    <circle cx=".05" cy=".05" r=".05" fill="#5cffd1" transform="matrix(1 0 0 -1 13.3 2.9)"/>
+    <circle cx=".05" cy=".05" r=".05" fill="#5cffd1" transform="matrix(1 0 0 -1 13.7 2.9)"/>
+    <circle cx=".05" cy=".05" r=".05" fill="#5cffd1" transform="matrix(1 0 0 -1 14.8 3.9)"/>
+    <circle cx=".05" cy=".05" r=".05" fill="#5cffd1" transform="matrix(1 0 0 -1 14.5 4.4)"/>
+    <circle cx=".2" cy=".2" r=".2" fill="#5cffd1" transform="matrix(1 0 0 -1 3.6 9.7)"/>
+    <circle cx=".2" cy=".2" r=".2" fill="#5cffd1" transform="matrix(1 0 0 -1 3 9.7)"/>
+    <circle cx=".1" cy=".1" r=".1" fill="#5cffd1" transform="matrix(1 0 0 -1 2.6 9.6)"/>
+    <circle cx=".05" cy=".05" r=".05" fill="#5cffd1" transform="matrix(1 0 0 -1 2.1 9.6)"/>
+    <circle cx=".2" cy=".2" r=".2" fill="#5cffd1" transform="matrix(1 0 0 -1 3.9 9.2)"/>
+    <circle cx=".2" cy=".2" r=".2" fill="#5cffd1" transform="matrix(1 0 0 -1 3.3 9.2)"/>
+    <circle cx=".1" cy=".1" r=".1" fill="#5cffd1" transform="matrix(1 0 0 -1 2.9 9.1)"/>
+    <circle cx=".05" cy=".05" r=".05" fill="#5cffd1" transform="matrix(1 0 0 -1 2.4 9.1)"/>
+    <circle cx=".2" cy=".2" r=".2" fill="#5cffd1" transform="matrix(1 0 0 -1 4.1 8.7)"/>
+    <circle cx=".15" cy=".15" r=".15" fill="#5cffd1" transform="matrix(1 0 0 -1 3.6 8.6)"/>
+    <circle cx=".1" cy=".1" r=".1" fill="#5cffd1" transform="matrix(1 0 0 -1 3.2 8.6)"/>
+    <circle cx=".05" cy=".05" r=".05" fill="#5cffd1" transform="matrix(1 0 0 -1 2.7 8.5)"/>
+    <circle cx=".2" cy=".2" r=".2" fill="#5cffd1" transform="matrix(1 0 0 -1 4.4 8.2)"/>
+    <circle cx=".15" cy=".15" r=".15" fill="#5cffd1" transform="matrix(1 0 0 -1 3.9 8.1)"/>
+    <circle cx=".15" cy=".15" r=".15" fill="#5cffd1" transform="matrix(1 0 0 -1 3.4 8.1)"/>
+    <circle cx=".05" cy=".05" r=".05" fill="#5cffd1" transform="matrix(1 0 0 -1 3 8)"/>
+    <circle cx=".2" cy=".2" r=".2" fill="#5cffd1" transform="matrix(1 0 0 -1 4.7 7.7)"/>
+    <circle cx=".15" cy=".15" r=".15" fill="#5cffd1" transform="matrix(1 0 0 -1 4.2 7.6)"/>
+    <circle cx=".15" cy=".15" r=".15" fill="#5cffd1" transform="matrix(1 0 0 -1 3.7 7.6)"/>
+    <circle cx=".05" cy=".05" r=".05" fill="#5cffd1" transform="matrix(1 0 0 -1 3.3 7.5)"/>
+    <circle cx=".2" cy=".2" r=".2" fill="#5cffd1" transform="matrix(1 0 0 -1 4.9 7.2)"/>
+    <circle cx=".15" cy=".15" r=".15" fill="#5cffd1" transform="matrix(1 0 0 -1 4.4 7.1)"/>
+    <circle cx=".15" cy=".15" r=".15" fill="#5cffd1" transform="matrix(1 0 0 -1 3.9 7.1)"/>
+    <circle cx=".05" cy=".05" r=".05" fill="#5cffd1" transform="matrix(1 0 0 -1 3.5 7)"/>
+    <circle cx=".2" cy=".2" r=".2" fill="#5cffd1" transform="matrix(1 0 0 -1 5.2 6.7)"/>
+    <circle cx=".15" cy=".15" r=".15" fill="#5cffd1" transform="matrix(1 0 0 -1 4.7 6.6)"/>
+    <circle cx=".15" cy=".15" r=".15" fill="#5cffd1" transform="matrix(1 0 0 -1 4.2 6.6)"/>
+    <circle cx=".05" cy=".05" r=".05" fill="#5cffd1" transform="matrix(1 0 0 -1 3.8 6.5)"/>
+    <circle cx=".2" cy=".2" r=".2" fill="#5cffd1" transform="matrix(1 0 0 -1 5.4 6.1)"/>
+    <circle cx=".15" cy=".15" r=".15" fill="#5cffd1" transform="matrix(1 0 0 -1 4.9 6)"/>
+    <circle cx=".15" cy=".15" r=".15" fill="#5cffd1" transform="matrix(1 0 0 -1 4.4 6)"/>
+    <circle cx=".05" cy=".05" r=".05" fill="#5cffd1" transform="matrix(1 0 0 -1 4 5.9)"/>
+    <circle cx=".2" cy=".2" r=".2" fill="#5cffd1" transform="matrix(1 0 0 -1 5.7 5.6)"/>
+    <circle cx=".15" cy=".15" r=".15" fill="#5cffd1" transform="matrix(1 0 0 -1 5.2 5.5)"/>
+    <circle cx=".15" cy=".15" r=".15" fill="#5cffd1" transform="matrix(1 0 0 -1 4.7 5.5)"/>
+    <circle cx=".05" cy=".05" r=".05" fill="#5cffd1" transform="matrix(1 0 0 -1 4.3 5.4)"/>
+    <circle cx=".2" cy=".2" r=".2" fill="#5cffd1" transform="matrix(1 0 0 -1 5.9 5.1)"/>
+    <circle cx=".15" cy=".15" r=".15" fill="#5cffd1" transform="matrix(1 0 0 -1 5.4 5)"/>
+    <circle cx=".15" cy=".15" r=".15" fill="#5cffd1" transform="matrix(1 0 0 -1 4.9 5)"/>
+    <circle cx=".05" cy=".05" r=".05" fill="#5cffd1" transform="matrix(1 0 0 -1 4.5 4.9)"/>
+    <circle cx=".05" cy=".05" r=".05" fill="#5cffd1" transform="matrix(1 0 0 -1 4.8 4.4)"/>
+    <circle cx=".05" cy=".05" r=".05" fill="#5cffd1" transform="matrix(1 0 0 -1 5 3.9)"/>
+    <circle cx=".05" cy=".05" r=".05" fill="#5cffd1" transform="matrix(1 0 0 -1 5.3 3.4)"/>
+    <circle cx="16.1" cy="9.5" r=".2" fill="#5cffd1" transform="rotate(-180 16.1 9.5)"/>
+    <circle cx="16.7" cy="9.5" r=".2" fill="#5cffd1" transform="rotate(-180 16.7 9.5)"/>
+    <circle cx="17.2" cy="9.5" r=".1" fill="#5cffd1" transform="rotate(-180 17.2 9.5)"/>
+    <circle cx="17.75" cy="9.55" r=".05" fill="#5cffd1" transform="rotate(-180 17.75 9.55)"/>
+    <circle cx="15.8" cy="9" r=".2" fill="#5cffd1" transform="rotate(-180 15.8 9)"/>
+    <circle cx="16.4" cy="9" r=".2" fill="#5cffd1" transform="rotate(-180 16.4 9)"/>
+    <circle cx="16.9" cy="9" r=".1" fill="#5cffd1" transform="rotate(-180 16.9 9)"/>
+    <circle cx="17.45" cy="9.05" r=".05" fill="#5cffd1" transform="rotate(-180 17.45 9.05)"/>
+    <circle cx="15.6" cy="8.5" r=".2" fill="#5cffd1" transform="rotate(-180 15.6 8.5)"/>
+    <circle cx="16.15" cy="8.45" r=".15" fill="#5cffd1" transform="rotate(-180 16.15 8.45)"/>
+    <circle cx="16.6" cy="8.5" r=".1" fill="#5cffd1" transform="rotate(-180 16.6 8.5)"/>
+    <circle cx="17.15" cy="8.45" r=".05" fill="#5cffd1" transform="rotate(-180 17.15 8.45)"/>
+    <circle cx="15.3" cy="8" r=".2" fill="#5cffd1" transform="rotate(-180 15.3 8)"/>
+    <circle cx="15.85" cy="7.95" r=".15" fill="#5cffd1" transform="rotate(-180 15.85 7.95)"/>
+    <circle cx="16.35" cy="7.95" r=".15" fill="#5cffd1" transform="rotate(-180 16.35 7.95)"/>
+    <circle cx="16.85" cy="7.95" r=".05" fill="#5cffd1" transform="rotate(-180 16.85 7.95)"/>
+    <circle cx="15" cy="7.5" r=".2" fill="#5cffd1" transform="rotate(-180 15 7.5)"/>
+    <circle cx="15.55" cy="7.45" r=".15" fill="#5cffd1" transform="rotate(-180 15.55 7.45)"/>
+    <circle cx="16.05" cy="7.45" r=".15" fill="#5cffd1" transform="rotate(-180 16.05 7.45)"/>
+    <circle cx="16.55" cy="7.45" r=".05" fill="#5cffd1" transform="rotate(-180 16.55 7.45)"/>
+    <circle cx="14.8" cy="7" r=".2" fill="#5cffd1" transform="rotate(-180 14.8 7)"/>
+    <circle cx="15.35" cy="6.95" r=".15" fill="#5cffd1" transform="rotate(-180 15.35 6.95)"/>
+    <circle cx="15.85" cy="6.95" r=".15" fill="#5cffd1" transform="rotate(-180 15.85 6.95)"/>
+    <circle cx="16.35" cy="6.95" r=".05" fill="#5cffd1" transform="rotate(-180 16.35 6.95)"/>
+    <circle cx="14.5" cy="6.5" r=".2" fill="#5cffd1" transform="rotate(-180 14.5 6.5)"/>
+    <circle cx="15.05" cy="6.45" r=".15" fill="#5cffd1" transform="rotate(-180 15.05 6.45)"/>
+    <circle cx="15.55" cy="6.45" r=".15" fill="#5cffd1" transform="rotate(-180 15.55 6.45)"/>
+    <circle cx="16.05" cy="6.45" r=".05" fill="#5cffd1" transform="rotate(-180 16.05 6.45)"/>
+    <circle cx="14.3" cy="5.9" r=".2" fill="#5cffd1" transform="rotate(-180 14.3 5.9)"/>
+    <circle cx="14.85" cy="5.85" r=".15" fill="#5cffd1" transform="rotate(-180 14.85 5.85)"/>
+    <circle cx="15.35" cy="5.85" r=".15" fill="#5cffd1" transform="rotate(-180 15.35 5.85)"/>
+    <circle cx="15.85" cy="5.85" r=".05" fill="#5cffd1" transform="rotate(-180 15.85 5.85)"/>
+    <circle cx="14" cy="5.4" r=".2" fill="#5cffd1" transform="rotate(-180 14 5.4)"/>
+    <circle cx="14.55" cy="5.35" r=".15" fill="#5cffd1" transform="rotate(-180 14.55 5.35)"/>
+    <circle cx="15.05" cy="5.35" r=".15" fill="#5cffd1" transform="rotate(-180 15.05 5.35)"/>
+    <circle cx="15.55" cy="5.35" r=".05" fill="#5cffd1" transform="rotate(-180 15.55 5.35)"/>
+    <circle cx="13.8" cy="4.9" r=".2" fill="#5cffd1" transform="rotate(-180 13.8 4.9)"/>
+    <circle cx="14.35" cy="4.85" r=".15" fill="#5cffd1" transform="rotate(-180 14.35 4.85)"/>
+    <circle cx="14.1" cy="4.3" r=".1" fill="#5cffd1" transform="rotate(180 14.1 4.3)"/>
+    <circle cx="14.85" cy="4.85" r=".15" fill="#5cffd1" transform="rotate(-180 14.85 4.85)"/>
+    <circle cx="15.35" cy="4.85" r=".05" fill="#5cffd1" transform="rotate(-180 15.35 4.85)"/>
+    <circle cx="15.05" cy="4.35" r=".05" fill="#5cffd1" transform="rotate(-180 15.05 4.35)"/>
+    <circle cx="14.45" cy="3.35" r=".05" fill="#5cffd1" transform="rotate(-180 14.45 3.35)"/>
+    <circle cx="14.25" cy="2.95" r=".05" fill="#5cffd1" transform="rotate(180 14.25 2.95)"/>
+    <circle cx="13.95" cy="3.35" r=".05" fill="#5cffd1" transform="rotate(-180 13.95 3.35)"/>
+    <path stroke="#5cffd1" stroke-width=".7" d="M12.57 12.9H8.2c-.617-.333-2.15-1.75-2.15-1.75-1.15-1.25-.25-1.6.6-1.5l6.8.6c.367.017.927.384.55.95-.4.6-.93 1.2-1.43 1.7Z"/>
+  </g>
+  <defs>
+    <clipPath id="zebec-network_svg__a">
+      <path fill="#fff" d="M0 0h20v20H0z"/>
+    </clipPath>
+  </defs>
+</svg>
