@@ -1,20 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
-  <path fill="url(#alpha-finance_svg__a)" d="M10 20c5.523 0 10-4.477 10-10S15.523 0 10 0 0 4.477 0 10s4.477 10 10 10"/>
-  <path fill="url(#alpha-finance_svg__b)" d="M10 3.944V7.91l.72 1.787-.72-.603v1.902l.023.023a14.1 14.1 0 0 0 4.223 3.527z"/>
-  <path fill="url(#alpha-finance_svg__c)" d="M10 3.944V7.91l-.72 1.787.72-.603v1.902l-.023.023a14.1 14.1 0 0 1-4.223 3.527z"/>
-  <path fill="#f5cc02" d="M10 13.456a.974.974 0 1 0 0-1.949.974.974 0 0 0 0 1.95"/>
-  <defs>
-    <linearGradient id="alpha-finance_svg__a" x1="20" x2="0" y1="8.75" y2="10" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#1940a9"/>
-      <stop offset="1" stop-color="#122766"/>
-    </linearGradient>
-    <linearGradient id="alpha-finance_svg__b" x1="12.115" x2="12.115" y1="3.914" y2="14.671" gradientUnits="userSpaceOnUse">
-      <stop offset=".553" stop-color="#f6f8fb"/>
-      <stop offset="1" stop-color="#adb7d4"/>
-    </linearGradient>
-    <linearGradient id="alpha-finance_svg__c" x1="7.871" x2="7.871" y1="14.596" y2="4.039" gradientUnits="userSpaceOnUse">
-      <stop offset=".177" stop-color="#f3f4f8"/>
-      <stop offset="1" stop-color="#acb8d9"/>
-    </linearGradient>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <linearGradient id="alpha-finance_svg__a" x1="4.686" x2="27.314" y1="4.576" y2="27.204" gradientTransform="matrix(1 0 0 -1 0 31.89)" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#102054"/>
+    <stop offset="1" stop-color="#1a45b8"/>
+  </linearGradient>
+  <path fill="url(#alpha-finance_svg__a)" d="M16 32c8.8 0 16-7.2 16-16S24.8 0 16 0 0 7.2 0 16s7.2 16 16 16"/>
+  <linearGradient id="alpha-finance_svg__b" x1="19.392" x2="19.392" y1="25.615" y2="8.421" gradientTransform="matrix(1 0 0 -1 0 31.89)" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#fff"/>
+    <stop offset="1" stop-color="#fff" stop-opacity=".6"/>
+  </linearGradient>
+  <path fill="url(#alpha-finance_svg__b)" d="M16 6.3v6.3l1.1 2.9-1.1-1v3.1c1.8 2.3 4.1 4.2 6.8 5.6z"/>
+  <linearGradient id="alpha-finance_svg__c" x1="12.608" x2="12.608" y1="8.541" y2="25.415" gradientTransform="matrix(1 0 0 -1 0 31.89)" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#fff"/>
+    <stop offset="1" stop-color="#fff" stop-opacity=".6"/>
+  </linearGradient>
+  <path fill="url(#alpha-finance_svg__c)" d="M16 6.3v6.3l-1.1 2.9 1.1-1v3.1c-1.8 2.3-4.1 4.2-6.8 5.6z"/>
+  <path fill="#f5cc02" d="M16 21.5c.9 0 1.5-.7 1.5-1.5 0-.9-.7-1.5-1.5-1.5-.9 0-1.5.7-1.5 1.5s.6 1.5 1.5 1.5"/>
 </svg>
