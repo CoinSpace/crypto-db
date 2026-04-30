@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
-  <g clip-path="url(#aavegotchi_svg__a)">
+  <g clip-path="url(#logo_aavegotchi_svg__a)">
     <path fill="#7e18f8" d="M9.751 20H6.164v-1.026h-2.05V17.95H3.089v-1.026h13.837v1.026H15.9v1.025h-2.05V20z"/>
     <path fill="#8f17f9" d="M18.463 13.846H1.04v2.051h1.025v1.026h15.887v-1.026h1.025v-2.05z"/>
     <path fill="#fa34f3" d="M19.488 6.154h-.513V4.103H17.95V3.077h-1.024V2.051H15.9V1.026h-2.05V0H6.163v1.026h-2.05V2.05H3.09v1.026H2.064v1.026H1.039v2.05H.014v1.54H20v-1.54z"/>
@@ -9,7 +9,7 @@
     <path fill="#fff" d="M3.106 12.813h2.117v-.706H3.106zM2.4 9.283v2.824h.706V9.283z"/>
   </g>
   <defs>
-    <clipPath id="aavegotchi_svg__a">
+    <clipPath id="logo_aavegotchi_svg__a">
       <path fill="#fff" d="M0 0h20v20H0z"/>
     </clipPath>
   </defs>

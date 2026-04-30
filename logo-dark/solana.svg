@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
+  <path fill="#000" d="M10 20c5.523 0 10-4.477 10-10S15.523 0 10 0 0 4.477 0 10s4.477 10 10 10"/>
+  <path fill="url(#logo-dark_solana_svg__a)" d="M5.113 5.127a.42.42 0 0 1 .3-.127h10.375c.188 0 .283.234.15.371l-2.05 2.102a.42.42 0 0 1-.3.127H3.213c-.19 0-.284-.234-.15-.371z"/>
+  <path fill="url(#logo-dark_solana_svg__b)" d="M5.113 12.927a.42.42 0 0 1 .3-.127h10.375c.188 0 .283.234.15.371l-2.05 2.102a.42.42 0 0 1-.3.127H3.213c-.19 0-.284-.234-.15-.372z"/>
+  <path fill="url(#logo-dark_solana_svg__c)" d="M13.588 8.9c.112 0 .22.046.3.127l2.05 2.102c.133.137.038.371-.15.371H5.413a.42.42 0 0 1-.3-.127L3.063 9.27c-.134-.137-.04-.371.15-.371z"/>
+  <defs>
+    <linearGradient id="logo-dark_solana_svg__a" x1="11.789" x2="4.317" y1="2.134" y2="16.085" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00ffa3"/>
+      <stop offset="1" stop-color="#dc1fff"/>
+    </linearGradient>
+    <linearGradient id="logo-dark_solana_svg__b" x1="11.789" x2="4.317" y1="2.134" y2="16.085" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00ffa3"/>
+      <stop offset="1" stop-color="#dc1fff"/>
+    </linearGradient>
+    <linearGradient id="logo-dark_solana_svg__c" x1="11.789" x2="4.317" y1="2.134" y2="16.085" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00ffa3"/>
+      <stop offset="1" stop-color="#dc1fff"/>
+    </linearGradient>
+  </defs>
+</svg>

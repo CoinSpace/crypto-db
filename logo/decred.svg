@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
-  <g clip-path="url(#decred_svg__a)">
+  <g clip-path="url(#logo_decred_svg__a)">
     <circle cx="10" cy="10" r="10" fill="#2970ff"/>
     <path fill="#fff" d="M9.233 11.2h3.194a2.16 2.16 0 0 0 2.16-2.16c0-1.199-.96-2.146-2.147-2.146h-1.023L9.233 5h3.194a4.03 4.03 0 0 1 4.053 4.028 4.03 4.03 0 0 1-2.537 3.762l2.525 2.185h-2.88z"/>
     <path fill="#fff" d="M10.798 8.788H7.604a2.16 2.16 0 0 0-2.16 2.159c0 1.2.96 2.16 2.16 2.16h1.022L10.798 15H7.604c-2.235 0-4.053-1.806-4.066-4.028a4.03 4.03 0 0 1 2.538-3.775L3.55 5h2.891z"/>
   </g>
   <defs>
-    <clipPath id="decred_svg__a">
+    <clipPath id="logo_decred_svg__a">
       <path fill="#fff" d="M0 0h20v20H0z"/>
     </clipPath>
   </defs>

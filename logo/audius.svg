@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
   <circle cx="10" cy="10" r="10" fill="#d700d4"/>
-  <mask id="audius_svg__a" width="20" height="20" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:alpha">
+  <mask id="logo_audius_svg__a" width="20" height="20" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:alpha">
     <circle cx="10" cy="10" r="10" fill="#d700d4"/>
   </mask>
-  <g mask="url(#audius_svg__a)">
+  <g mask="url(#logo_audius_svg__a)">
     <path fill="#bd27d9" d="M5.75-2C2.99-2 .767-.476 0 .286V22l46-1.143v-9.143c-2.3 1.524-8.51 4.8-14.95 5.715C23 18.57 14.95 6 13.8 3.714S9.2-2 5.75-2"/>
     <path fill="#7319c2" d="M5 1C2.6 1 .667 2.333 0 3v19l40-1v-8c-2 1.333-7.4 4.2-13 5-7 1-14-10-15-12S8 1 5 1"/>
     <path fill="#3913ab" d="M4.25 4C2.21 4 .567 5.143 0 5.714V22l34-.857v-6.857c-1.7 1.143-6.29 3.6-11.05 4.285C17 19.43 11.05 10 10.2 8.286S6.8 4 4.25 4"/>

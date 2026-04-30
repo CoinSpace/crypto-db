@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
   <circle cx="10" cy="10" r="10" fill="#000"/>
   <path fill="#fff" fill-rule="evenodd" d="M10 20c5.523 0 10-4.477 10-10S15.523 0 10 0 0 4.477 0 10s4.477 10 10 10m0-.937A9.062 9.062 0 1 0 10 .938a9.062 9.062 0 0 0 0 18.125" clip-rule="evenodd"/>
-  <mask id="wormhole_svg__a" width="20" height="20" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:alpha">
+  <mask id="logo_wormhole_svg__a" width="20" height="20" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:alpha">
     <circle cx="10" cy="10" r="10" fill="#d9d9d9"/>
   </mask>
-  <g mask="url(#wormhole_svg__a)">
+  <g mask="url(#logo_wormhole_svg__a)">
     <path fill="#fff" d="m18.329 6.25-3.523 5.94V6.25H11.19v.003l-3.508 5.913V6.25H4.063V15h1.799c1.12 0 2.153-.58 2.712-1.524l2.615-4.407V15H13c1.12 0 2.154-.58 2.713-1.524L20 6.25z"/>
   </g>
 </svg>

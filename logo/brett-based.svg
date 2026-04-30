@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
   <circle cx="10" cy="10" r="10" fill="#5ddefe"/>
-  <mask id="brett-based_svg__a" width="20" height="20" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:alpha">
+  <mask id="logo_brett-based_svg__a" width="20" height="20" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:alpha">
     <path fill="#5ddefe" fill-rule="evenodd" d="M10 20c5.523 0 10-4.477 10-10S15.523 0 10 0 0 4.477 0 10s4.477 10 10 10m.156-1.875a7.969 7.969 0 1 0 0-15.937 7.969 7.969 0 0 0 0 15.937" clip-rule="evenodd"/>
   </mask>
-  <g mask="url(#brett-based_svg__a)">
+  <g mask="url(#logo_brett-based_svg__a)">
     <path fill="#fff" d="M17.813 8.75h2.5v3.438h-2.5z"/>
   </g>
   <path fill="#0254fe" fill-rule="evenodd" d="M19.76 12.188C18.762 16.658 14.771 20 10 20 4.477 20 0 15.523 0 10S4.477 0 10 0c5.1 0 9.308 3.817 9.923 8.75H18a7.969 7.969 0 1 0-.137 3.438z" clip-rule="evenodd"/>

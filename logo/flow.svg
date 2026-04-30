@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
-  <g clip-path="url(#flow_svg__a)">
+  <g clip-path="url(#logo_flow_svg__a)">
     <path fill="#00ef8b" d="M10 20c5.523 0 10-4.477 10-10S15.523 0 10 0 0 4.477 0 10s4.477 10 10 10"/>
     <path fill="#fff" d="M14.38 8.44h-2.82v2.82h2.82zm-5.64 3.88c0 .58-.48 1.06-1.06 1.06s-1.06-.48-1.06-1.06.48-1.06 1.06-1.06h1.06V8.44H7.68c-2.14 0-3.88 1.74-3.88 3.88s1.74 3.88 3.88 3.88 3.88-1.74 3.88-3.88v-1.06H8.74zm3.88-5.3h3.18V4.2h-3.18c-2.14 0-3.88 1.74-3.88 3.88v.36h2.82v-.36c0-.58.48-1.06 1.06-1.06"/>
     <path fill="#16ff99" d="M11.56 8.44H8.74v2.82h2.82z"/>
   </g>
   <defs>
-    <clipPath id="flow_svg__a">
+    <clipPath id="logo_flow_svg__a">
       <path fill="#fff" d="M0 0h20v20H0z"/>
     </clipPath>
   </defs>

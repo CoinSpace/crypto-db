@@ -1,21 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 21 20">
-  <g clip-path="url(#coti_svg__a)">
+  <g clip-path="url(#logo_coti_svg__a)">
     <path fill="#fff" d="M10.017 20c5.541 0 10-4.458 10-10s-4.459-10-10-10-10 4.458-10 10 4.458 10 10 10"/>
-    <path fill="url(#coti_svg__b)" d="M2.147 8.63c-.31 0-.414.103-.414.362v6.257c0 .259.104.362.414.362 3 .052 6.672-2.637 9.672-4.706v-7.24c-3 2.068-6.776 5.016-9.672 4.965"/>
-    <path fill="url(#coti_svg__c)" d="M17.87 11.422c.258 0 .413-.103.413-.362V4.802c0-.258-.103-.362-.413-.362-3.052-.051-6.672 2.638-9.672 4.707v7.189c3-2.017 6.775-4.965 9.672-4.914"/>
+    <path fill="url(#logo_coti_svg__b)" d="M2.147 8.63c-.31 0-.414.103-.414.362v6.257c0 .259.104.362.414.362 3 .052 6.672-2.637 9.672-4.706v-7.24c-3 2.068-6.776 5.016-9.672 4.965"/>
+    <path fill="url(#logo_coti_svg__c)" d="M17.87 11.422c.258 0 .413-.103.413-.362V4.802c0-.258-.103-.362-.413-.362-3.052-.051-6.672 2.638-9.672 4.707v7.189c3-2.017 6.775-4.965 9.672-4.914"/>
   </g>
   <defs>
-    <linearGradient id="coti_svg__b" x1="7.692" x2="5.929" y1="14.706" y2="4.71" gradientUnits="userSpaceOnUse">
+    <linearGradient id="logo_coti_svg__b" x1="7.692" x2="5.929" y1="14.706" y2="4.71" gradientUnits="userSpaceOnUse">
       <stop offset=".1" stop-color="#194aad"/>
       <stop offset=".5" stop-color="#248fcb"/>
       <stop offset=".8" stop-color="#2bbfdf"/>
     </linearGradient>
-    <linearGradient id="coti_svg__c" x1="14.365" x2="12.032" y1="3.831" y2="17.058" gradientUnits="userSpaceOnUse">
+    <linearGradient id="logo_coti_svg__c" x1="14.365" x2="12.032" y1="3.831" y2="17.058" gradientUnits="userSpaceOnUse">
       <stop offset=".1" stop-color="#194aad"/>
       <stop offset=".5" stop-color="#248fcb"/>
       <stop offset=".8" stop-color="#2bbfdf"/>
     </linearGradient>
-    <clipPath id="coti_svg__a">
+    <clipPath id="logo_coti_svg__a">
       <path fill="#fff" d="M.017 0h20v20h-20z"/>
     </clipPath>
   </defs>

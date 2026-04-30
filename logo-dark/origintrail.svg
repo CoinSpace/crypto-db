@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
+  <g clip-path="url(#logo-dark_origintrail_svg__a)">
+    <path fill="#6344df" fill-rule="evenodd" d="M10 4.974a5.026 5.026 0 1 0 3.845 8.262l3.805 3.203A9.98 9.98 0 0 1 10 20C4.477 20 0 15.523 0 10S4.477 0 10 0zm8.64 10.062-4.297-2.505q.22-.377.374-.793l4.668 1.721a10 10 0 0 1-.744 1.577M15.027 10H20q-.002-.89-.15-1.737l-4.9.864q.075.426.076.873m2.66-6.396-3.822 3.181a5 5 0 0 0-.618-.622l3.213-3.796q.667.565 1.228 1.237" clip-rule="evenodd"/>
+  </g>
+  <defs>
+    <clipPath id="logo-dark_origintrail_svg__a">
+      <path fill="#fff" d="M0 0h20v20H0z"/>
+    </clipPath>
+  </defs>
+</svg>

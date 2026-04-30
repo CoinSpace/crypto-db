@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
+  <path fill="url(#logo-dark_decentraland_svg__a)" d="M10 20c5.523 0 10-4.477 10-10S15.523 0 10 0 0 4.477 0 10s4.477 10 10 10"/>
+  <path fill="url(#logo-dark_decentraland_svg__b)" fill-rule="evenodd" d="M7.085 6.5V14h6.25z" clip-rule="evenodd"/>
+  <path fill="#fff" fill-rule="evenodd" d="M.835 14h6.25V6.5z" clip-rule="evenodd"/>
+  <path fill="#fc9965" fill-rule="evenodd" d="M2 16c.57.755 1.245 1.43 2 2h12c.755-.57 1.43-1.245 2-2z" clip-rule="evenodd"/>
+  <path fill="#ff2d55" fill-rule="evenodd" d="M4 18c1.67 1.255 3.75 2 6 2s4.33-.745 6-2z" clip-rule="evenodd"/>
+  <path fill="url(#logo-dark_decentraland_svg__c)" fill-rule="evenodd" d="M13.415 10.5V16H18z" clip-rule="evenodd"/>
+  <path fill="#ffbc5b" fill-rule="evenodd" d="M13.415 14H.835c.31.715.705 1.385 1.165 2h11.42v-2z" clip-rule="evenodd"/>
+  <path fill="#fff" fill-rule="evenodd" d="M8.835 16h4.58v-5.5z" clip-rule="evenodd"/>
+  <path fill="#ffc95b" d="M13.415 9a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5m-6.33-4a1.25 1.25 0 1 0 0-2.5 1.25 1.25 0 0 0 0 2.5"/>
+  <defs>
+    <linearGradient id="logo-dark_decentraland_svg__a" x1="17.071" x2="2.929" y1="2.929" y2="17.071" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff2d55"/>
+      <stop offset="1" stop-color="#ffbc5b"/>
+    </linearGradient>
+    <linearGradient id="logo-dark_decentraland_svg__b" x1="10.208" x2="10.208" y1="6.5" y2="14" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#a524b3"/>
+      <stop offset="1" stop-color="#ff2d55"/>
+    </linearGradient>
+    <linearGradient id="logo-dark_decentraland_svg__c" x1="15.706" x2="15.706" y1="10.5" y2="16" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#a524b3"/>
+      <stop offset="1" stop-color="#ff2d55"/>
+    </linearGradient>
+  </defs>
+</svg>

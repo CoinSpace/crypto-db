@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 21 20">
-  <g clip-path="url(#algorand_svg__a)">
+  <g clip-path="url(#logo_algorand_svg__a)">
     <path fill="#000" d="M10.208 20c5.523 0 10-4.477 10-10s-4.477-10-10-10-10 4.477-10 10 4.477 10 10 10"/>
     <path fill="#fff" d="M10.208 19.375a9.375 9.375 0 1 0 0-18.75 9.375 9.375 0 0 0 0 18.75"/>
     <path fill="#000" d="M15.52 15.375h-1.75l-1.187-4.312-2.5 4.312h-2l3.875-6.625-.625-2.312-5.187 8.937H4.02l6.625-11.312h1.812l.75 2.812h1.813L13.833 9z"/>
   </g>
   <defs>
-    <clipPath id="algorand_svg__a">
+    <clipPath id="logo_algorand_svg__a">
       <path fill="#fff" d="M.208 0h20v20h-20z"/>
     </clipPath>
   </defs>

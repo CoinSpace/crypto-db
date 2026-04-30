@@ -1,19 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 392 392">
   <circle cx="196" cy="196" r="196" fill="#00a64f"/>
-  <radialGradient id="pax-dollar_svg__a" cx="17.139" cy="-121.296" r="313.582" gradientTransform="matrix(1 0 0 -1 0 183.4)" gradientUnits="userSpaceOnUse">
+  <radialGradient id="logo_pax-dollar_svg__a" cx="17.139" cy="-121.296" r="313.582" gradientTransform="matrix(1 0 0 -1 0 183.4)" gradientUnits="userSpaceOnUse">
     <stop offset=".09" stop-color="#00522c"/>
     <stop offset="1" stop-color="#00522c" stop-opacity="0"/>
   </radialGradient>
-  <circle cx="196" cy="196" r="196" fill="url(#pax-dollar_svg__a)"/>
-  <radialGradient id="pax-dollar_svg__b" cx="-1230.153" cy="332.373" r="313.582" gradientTransform="rotate(82.82 762.58 -166.37)scale(-1 1)" gradientUnits="userSpaceOnUse">
+  <circle cx="196" cy="196" r="196" fill="url(#logo_pax-dollar_svg__a)"/>
+  <radialGradient id="logo_pax-dollar_svg__b" cx="-1230.153" cy="332.373" r="313.582" gradientTransform="rotate(82.82 762.58 -166.37)scale(-1 1)" gradientUnits="userSpaceOnUse">
     <stop offset=".09" stop-color="#00a64f"/>
     <stop offset="1" stop-color="#00a64f" stop-opacity="0"/>
   </radialGradient>
-  <circle cx="196" cy="196" r="196" fill="url(#pax-dollar_svg__b)"/>
-  <radialGradient id="pax-dollar_svg__c" cx="377.743" cy="114.671" r="260.362" fx="364.088" fy="117.858" gradientTransform="matrix(1 0 0 -1 0 183.4)" gradientUnits="userSpaceOnUse">
+  <circle cx="196" cy="196" r="196" fill="url(#logo_pax-dollar_svg__b)"/>
+  <radialGradient id="logo_pax-dollar_svg__c" cx="377.743" cy="114.671" r="260.362" fx="364.088" fy="117.858" gradientTransform="matrix(1 0 0 -1 0 183.4)" gradientUnits="userSpaceOnUse">
     <stop offset=".098" stop-color="#8ad137"/>
     <stop offset="1" stop-color="#8ad137" stop-opacity="0"/>
   </radialGradient>
-  <circle cx="196" cy="196" r="196" fill="url(#pax-dollar_svg__c)"/>
+  <circle cx="196" cy="196" r="196" fill="url(#logo_pax-dollar_svg__c)"/>
   <path fill="#fff" d="M231.4 180.8h-16.7v-48.9h72.6v-30h-72.6V55h-37.4v47.1h-15.8c-34.1 0-62.6 17.2-62.6 54.9 0 32.9 25 53.6 61.7 53.6h16.7v48.9h-72.6v30h72.6v46.9h37.4v-47.1h15.8c34.2 0 62.6-17.2 62.6-54.9 0-32.9-25-53.6-61.7-53.6m-54.1 29.8v-29.8h-11.9c-15.9 0-28.8-6.7-28.8-24.5 0-17.6 12.3-24.3 29.6-24.3h11.1v48.9h37.4v29.8zm48.5 48.9h-11.1v-48.9h11.9c15.9 0 28.8 6.7 28.8 24.5 0 17.7-12.3 24.4-29.6 24.4"/>
 </svg>

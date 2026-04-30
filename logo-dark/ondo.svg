@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
+  <g clip-path="url(#logo-dark_ondo_svg__a)">
+    <circle cx="10" cy="10" r="10" fill="#fff"/>
+    <mask id="logo-dark_ondo_svg__b" width="20" height="20" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:luminance">
+      <path fill="#fff" d="M20 0H0v20h20z"/>
+    </mask>
+    <g fill="#000" mask="url(#logo-dark_ondo_svg__b)">
+      <path d="M10.71 20.025H10c-5.523 0-10-4.477-10-10s4.477-10 10-10 10 4.477 10 10q0 .742-.105 1.456h-1.4q.121-.71.122-1.456A8.617 8.617 0 1 0 10 18.642h5.125a9.96 9.96 0 0 1-4.416 1.383"/>
+      <path d="M17.041 17.16h-7.04a7.136 7.136 0 1 1 6.986-5.679h-1.42A5.753 5.753 0 1 0 10 15.777h8.21a10 10 0 0 1-1.169 1.383"/>
+      <path d="M19.072 14.296H10a4.272 4.272 0 1 1 4.017-2.815h-1.521A2.889 2.889 0 1 0 10 12.913h9.601a10 10 0 0 1-.53 1.383"/>
+    </g>
+  </g>
+  <defs>
+    <clipPath id="logo-dark_ondo_svg__a">
+      <path fill="#fff" d="M0 0h20v20H0z"/>
+    </clipPath>
+  </defs>
+</svg>

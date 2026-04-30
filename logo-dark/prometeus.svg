@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
+  <g clip-path="url(#logo-dark_prometeus_svg__a)">
+    <path fill="url(#logo-dark_prometeus_svg__b)" d="M15.963 2.414 5.047 10.139a6.53 6.53 0 0 1-.99-3.48C4.058 2.98 7.065 0 10.783 0a6.72 6.72 0 0 1 5.18 2.414"/>
+    <path fill="url(#logo-dark_prometeus_svg__c)" d="M16.095 8.068a6.55 6.55 0 0 0-.989-3.48l-5.445 3.85-5.472 3.867-.29.207L3.914 20s7.198-4.812 9.466-6.579c1.688-1.318 2.716-3.163 2.716-5.353"/>
+  </g>
+  <defs>
+    <linearGradient id="logo-dark_prometeus_svg__b" x1="12.609" x2="5.716" y1=".267" y2="8.361" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#e2d177"/>
+      <stop offset="1" stop-color="#ee448a"/>
+    </linearGradient>
+    <linearGradient id="logo-dark_prometeus_svg__c" x1="14.991" x2="4.661" y1="7.94" y2="16.115" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#e2d177"/>
+      <stop offset="1" stop-color="#ee448a"/>
+    </linearGradient>
+    <clipPath id="logo-dark_prometeus_svg__a">
+      <path fill="#fff" d="M0 0h20v20H0z"/>
+    </clipPath>
+  </defs>
+</svg>

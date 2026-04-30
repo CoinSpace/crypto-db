@@ -1,20 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
-  <g clip-path="url(#ethena_svg__a)">
+  <g clip-path="url(#logo_ethena_svg__a)">
     <path fill="#111" d="M10.004.18c5.399 0 9.774 4.388 9.774 9.8 0 5.411-4.375 9.799-9.773 9.799-5.399 0-9.775-4.388-9.775-9.8C.23 4.568 4.606.181 10.004.181"/>
-    <path fill="url(#ethena_svg__b)" fill-opacity=".7" d="M10.005 0C4.507 0 .05 4.468.05 9.98c0 5.511 4.456 9.979 9.954 9.979 5.497 0 9.954-4.468 9.954-9.98C19.959 4.468 15.502 0 10.005 0"/>
-    <path fill="url(#ethena_svg__c)" fill-rule="evenodd" d="M10.005.365C4.709.365.415 4.67.415 9.98s4.294 9.615 9.59 9.615c5.295 0 9.59-4.304 9.59-9.614S15.3.364 10.004.364M.05 9.98C.05 4.47 4.507 0 10.005 0s9.954 4.469 9.954 9.98c0 5.51-4.456 9.978-9.954 9.978S.05 15.49.05 9.98" clip-rule="evenodd"/>
+    <path fill="url(#logo_ethena_svg__b)" fill-opacity=".7" d="M10.005 0C4.507 0 .05 4.468.05 9.98c0 5.511 4.456 9.979 9.954 9.979 5.497 0 9.954-4.468 9.954-9.98C19.959 4.468 15.502 0 10.005 0"/>
+    <path fill="url(#logo_ethena_svg__c)" fill-rule="evenodd" d="M10.005.365C4.709.365.415 4.67.415 9.98s4.294 9.615 9.59 9.615c5.295 0 9.59-4.304 9.59-9.614S15.3.364 10.004.364M.05 9.98C.05 4.47 4.507 0 10.005 0s9.954 4.469 9.954 9.98c0 5.51-4.456 9.978-9.954 9.978S.05 15.49.05 9.98" clip-rule="evenodd"/>
     <path fill="#fff" fill-rule="evenodd" d="M7.827 5.338h-.212l-.138.162-3.55 4.18-.253.3.253.298 3.55 4.18.138.162h7.063v-3.118h-.918V13.7H8.83l2.95-3.42.26-.3-.26-.302L8.83 6.26h4.929v2.197h.918V5.34h-6.85m.003 1.168L4.88 9.979l2.95 3.474 2.996-3.474z" clip-rule="evenodd"/>
   </g>
   <defs>
-    <radialGradient id="ethena_svg__b" cx="0" cy="0" r="1" gradientTransform="matrix(0 21.041 -14.773 0 10.026 2.914)" gradientUnits="userSpaceOnUse">
+    <radialGradient id="logo_ethena_svg__b" cx="0" cy="0" r="1" gradientTransform="matrix(0 21.041 -14.773 0 10.026 2.914)" gradientUnits="userSpaceOnUse">
       <stop offset=".031" stop-color="#3a3a3a"/>
       <stop offset="1" stop-color="#1c1c1c"/>
     </radialGradient>
-    <linearGradient id="ethena_svg__c" x1="10.005" x2="10.005" y1="-.188" y2="20.147" gradientUnits="userSpaceOnUse">
+    <linearGradient id="logo_ethena_svg__c" x1="10.005" x2="10.005" y1="-.188" y2="20.147" gradientUnits="userSpaceOnUse">
       <stop stop-color="#fff"/>
       <stop offset="1" stop-color="#111"/>
     </linearGradient>
-    <clipPath id="ethena_svg__a">
+    <clipPath id="logo_ethena_svg__a">
       <path fill="#fff" d="M0 0h20v20H0z"/>
     </clipPath>
   </defs>

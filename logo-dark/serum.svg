@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
+  <path fill="url(#logo-dark_serum_svg__a)" d="M1.224 11.147c0 4.839 3.937 8.776 8.776 8.776s8.776-3.937 8.776-8.776c0-4.741-5.748-10.713-5.993-10.965a.365.365 0 1 0-.524.51 33 33 0 0 1 2.916 3.574c1.881 2.678 2.874 5.056 2.874 6.88 0 4.441-3.608 8.05-8.049 8.05s-8.049-3.616-8.049-8.05c0-1.824.986-4.202 2.853-6.88A33 33 0 0 1 7.692.692a.365.365 0 1 0-.524-.51A32.5 32.5 0 0 0 4.21 3.839c-1.98 2.846-2.986 5.308-2.986 7.308"/>
+  <path fill="url(#logo-dark_serum_svg__b)" d="M10 18.175c-3.979 0-7.21-3.238-7.21-7.21 0-3.888 5.427-9.315 5.658-9.538.14-.14.377-.14.517 0s.14.377 0 .517c-.056.056-5.44 5.44-5.44 9.021a6.49 6.49 0 0 0 6.482 6.483 6.49 6.49 0 0 0 6.483-6.483c0-1.468-.951-3.496-2.756-5.881a34 34 0 0 0-2.79-3.223.36.36 0 0 1 0-.518.36.36 0 0 1 .518 0c.237.23 5.762 5.727 5.762 9.622-.014 3.972-3.245 7.21-7.224 7.21"/>
+  <path fill="url(#logo-dark_serum_svg__c)" fill-rule="evenodd" d="M10 16.427a5.465 5.465 0 0 1-5.461-5.462c0-2.93 4.944-8.105 5.153-8.322l.26-.272.265.265c.217.217 5.245 5.392 5.245 8.322A5.466 5.466 0 0 1 10 16.427m-.042-13a38 38 0 0 0-2.245 2.67C6.112 8.21 5.266 9.889 5.266 10.959A4.74 4.74 0 0 0 10 15.692a4.74 4.74 0 0 0 4.734-4.734c0-1.07-.86-2.748-2.49-4.86a39 39 0 0 0-2.286-2.671" clip-rule="evenodd"/>
+  <defs>
+    <linearGradient id="logo-dark_serum_svg__a" x1="10" x2="10" y1="19.921" y2=".07" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#05aac5"/>
+      <stop offset="1" stop-color="#71e0ec"/>
+    </linearGradient>
+    <linearGradient id="logo-dark_serum_svg__b" x1="10" x2="10" y1="19.921" y2=".07" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#05aac5"/>
+      <stop offset="1" stop-color="#71e0ec"/>
+    </linearGradient>
+    <linearGradient id="logo-dark_serum_svg__c" x1="10" x2="10" y1="19.921" y2=".07" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#05aac5"/>
+      <stop offset="1" stop-color="#71e0ec"/>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+  <circle cx="9.979" cy="10" r="10" fill="url(#logo-dark_celsius-network_svg__a)"/>
+  <path fill="#fff" d="M4.6 10a5.166 5.166 0 0 1 8.152-4.217l.343.243a.42.42 0 0 0 .585-.099l.486-.685a.42.42 0 0 0-.1-.585l-.341-.243a6.846 6.846 0 1 0 .794 10.514l.302-.292a.42.42 0 0 0 .01-.593l-.582-.605a.42.42 0 0 0-.594-.01l-.302.29A5.166 5.166 0 0 1 4.6 10"/>
+  <path fill="#fff" fill-rule="evenodd" d="M15.43 5.906a1.65 1.65 0 1 0 0 3.3 1.65 1.65 0 0 0 0-3.3m-.475 1.65a.474.474 0 1 1 .949 0 .474.474 0 0 1-.949 0" clip-rule="evenodd"/>
+  <defs>
+    <linearGradient id="logo-dark_celsius-network_svg__a" x1="9.979" x2="-.021" y1="0" y2="10" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f1c26f"/>
+      <stop offset="1" stop-color="#e47f3e"/>
+    </linearGradient>
+  </defs>
+</svg>

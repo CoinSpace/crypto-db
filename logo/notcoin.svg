@@ -1,20 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
-  <g clip-path="url(#notcoin_svg__a)">
+  <g clip-path="url(#logo_notcoin_svg__a)">
     <circle cx="10" cy="10" r="10" fill="#000"/>
-    <mask id="notcoin_svg__b" width="20" height="20" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:luminance">
+    <mask id="logo_notcoin_svg__b" width="20" height="20" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:luminance">
       <path fill="#fff" d="M20 0H0v20h20z"/>
     </mask>
-    <g mask="url(#notcoin_svg__b)">
-      <mask id="notcoin_svg__c" width="12" height="13" x="4" y="4" maskUnits="userSpaceOnUse" style="mask-type:luminance">
+    <g mask="url(#logo_notcoin_svg__b)">
+      <mask id="logo_notcoin_svg__c" width="12" height="13" x="4" y="4" maskUnits="userSpaceOnUse" style="mask-type:luminance">
         <path fill="#fff" d="M16 4H4v12.05h12z"/>
       </mask>
-      <g mask="url(#notcoin_svg__c)">
+      <g mask="url(#logo_notcoin_svg__c)">
         <path fill="#fff" d="M15.737 13.138 10.693 4.4a.8.8 0 0 0-1.386 0l-5.044 8.738c-.747 1.294.187 2.912 1.681 2.912h8.112c1.494 0 2.428-1.618 1.681-2.912M9.21 14.522H5.98a.465.465 0 0 1-.409-.689L9.21 7.185zm4.809 0h-3.231V7.185l3.639 6.648a.465.465 0 0 1-.408.689"/>
       </g>
     </g>
   </g>
   <defs>
-    <clipPath id="notcoin_svg__a">
+    <clipPath id="logo_notcoin_svg__a">
       <path fill="#fff" d="M0 0h20v20H0z"/>
     </clipPath>
   </defs>

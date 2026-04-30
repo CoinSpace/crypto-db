@@ -1,33 +1,33 @@
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
   <circle cx="10" cy="10" r="10" fill="#0f1524"/>
-  <path fill="url(#jupiter_svg__a)" d="M3.499 14.444a7.97 7.97 0 0 0 5.634 3.273c-.575-.864-1.41-1.66-2.452-2.265s-2.147-.937-3.182-1.008"/>
-  <path fill="url(#jupiter_svg__b)" d="M8.081 13.04c-2.008-1.167-4.182-1.464-5.738-.939q.226.747.591 1.435c1.352-.031 2.828.336 4.2 1.133 1.374.798 2.424 1.899 3.067 3.089a8 8 0 0 0 1.54-.198c-.314-1.611-1.651-3.352-3.66-4.52"/>
-  <path fill="url(#jupiter_svg__c)" d="M17.653 8.303a7.96 7.96 0 0 0-9.91-5.757c1.72.21 3.627.856 5.499 1.943 1.87 1.087 3.378 2.425 4.411 3.814"/>
-  <path fill="url(#jupiter_svg__d)" d="M15.153 12.113c-.88-1.461-2.388-2.86-4.244-3.939C9.052 7.096 7.09 6.48 5.387 6.44c-1.499-.036-2.624.4-3.086 1.195l-.009.014q-.061.223-.11.448c.645-.255 1.392-.396 2.223-.412 1.847-.035 3.914.556 5.822 1.664 1.908 1.109 3.446 2.613 4.33 4.234.397.73.645 1.45.743 2.137q.172-.153.334-.317l.008-.016c.462-.796.283-1.988-.49-3.273"/>
-  <path fill="url(#jupiter_svg__e)" d="M9.496 10.605C6.653 8.953 3.511 8.695 2 9.848q.004.54.083 1.078c.444-.135.902-.22 1.365-.253 1.689-.127 3.55.343 5.24 1.325 1.688.982 3.02 2.367 3.746 3.895q.302.63.457 1.312.505-.198.978-.462c.253-1.884-1.529-4.485-4.373-6.138"/>
-  <path fill="url(#jupiter_svg__f)" d="M16.615 9.667c-.89-1.46-2.41-2.862-4.28-3.948s-3.84-1.712-5.548-1.762c-1.303-.037-2.312.278-2.836.875 2.173-.368 5.039.25 7.817 1.864s4.735 3.798 5.491 5.867c.26-.75.034-1.783-.644-2.896"/>
+  <path fill="url(#logo_jupiter_svg__a)" d="M3.499 14.444a7.97 7.97 0 0 0 5.634 3.273c-.575-.864-1.41-1.66-2.452-2.265s-2.147-.937-3.182-1.008"/>
+  <path fill="url(#logo_jupiter_svg__b)" d="M8.081 13.04c-2.008-1.167-4.182-1.464-5.738-.939q.226.747.591 1.435c1.352-.031 2.828.336 4.2 1.133 1.374.798 2.424 1.899 3.067 3.089a8 8 0 0 0 1.54-.198c-.314-1.611-1.651-3.352-3.66-4.52"/>
+  <path fill="url(#logo_jupiter_svg__c)" d="M17.653 8.303a7.96 7.96 0 0 0-9.91-5.757c1.72.21 3.627.856 5.499 1.943 1.87 1.087 3.378 2.425 4.411 3.814"/>
+  <path fill="url(#logo_jupiter_svg__d)" d="M15.153 12.113c-.88-1.461-2.388-2.86-4.244-3.939C9.052 7.096 7.09 6.48 5.387 6.44c-1.499-.036-2.624.4-3.086 1.195l-.009.014q-.061.223-.11.448c.645-.255 1.392-.396 2.223-.412 1.847-.035 3.914.556 5.822 1.664 1.908 1.109 3.446 2.613 4.33 4.234.397.73.645 1.45.743 2.137q.172-.153.334-.317l.008-.016c.462-.796.283-1.988-.49-3.273"/>
+  <path fill="url(#logo_jupiter_svg__e)" d="M9.496 10.605C6.653 8.953 3.511 8.695 2 9.848q.004.54.083 1.078c.444-.135.902-.22 1.365-.253 1.689-.127 3.55.343 5.24 1.325 1.688.982 3.02 2.367 3.746 3.895q.302.63.457 1.312.505-.198.978-.462c.253-1.884-1.529-4.485-4.373-6.138"/>
+  <path fill="url(#logo_jupiter_svg__f)" d="M16.615 9.667c-.89-1.46-2.41-2.862-4.28-3.948s-3.84-1.712-5.548-1.762c-1.303-.037-2.312.278-2.836.875 2.173-.368 5.039.25 7.817 1.864s4.735 3.798 5.491 5.867c.26-.75.034-1.783-.644-2.896"/>
   <defs>
-    <linearGradient id="jupiter_svg__a" x1="12.424" x2="5.232" y1="5.394" y2="17.758" gradientUnits="userSpaceOnUse">
+    <linearGradient id="logo_jupiter_svg__a" x1="12.424" x2="5.232" y1="5.394" y2="17.758" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#c7f284"/>
       <stop offset="1" stop-color="#00bef0"/>
     </linearGradient>
-    <linearGradient id="jupiter_svg__b" x1="12.424" x2="5.232" y1="5.394" y2="17.758" gradientUnits="userSpaceOnUse">
+    <linearGradient id="logo_jupiter_svg__b" x1="12.424" x2="5.232" y1="5.394" y2="17.758" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#c7f284"/>
       <stop offset="1" stop-color="#00bef0"/>
     </linearGradient>
-    <linearGradient id="jupiter_svg__c" x1="12.424" x2="5.232" y1="5.394" y2="17.758" gradientUnits="userSpaceOnUse">
+    <linearGradient id="logo_jupiter_svg__c" x1="12.424" x2="5.232" y1="5.394" y2="17.758" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#c7f284"/>
       <stop offset="1" stop-color="#00bef0"/>
     </linearGradient>
-    <linearGradient id="jupiter_svg__d" x1="12.424" x2="5.232" y1="5.394" y2="17.758" gradientUnits="userSpaceOnUse">
+    <linearGradient id="logo_jupiter_svg__d" x1="12.424" x2="5.232" y1="5.394" y2="17.758" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#c7f284"/>
       <stop offset="1" stop-color="#00bef0"/>
     </linearGradient>
-    <linearGradient id="jupiter_svg__e" x1="12.424" x2="5.232" y1="5.394" y2="17.758" gradientUnits="userSpaceOnUse">
+    <linearGradient id="logo_jupiter_svg__e" x1="12.424" x2="5.232" y1="5.394" y2="17.758" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#c7f284"/>
       <stop offset="1" stop-color="#00bef0"/>
     </linearGradient>
-    <linearGradient id="jupiter_svg__f" x1="12.424" x2="5.232" y1="5.394" y2="17.758" gradientUnits="userSpaceOnUse">
+    <linearGradient id="logo_jupiter_svg__f" x1="12.424" x2="5.232" y1="5.394" y2="17.758" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#c7f284"/>
       <stop offset="1" stop-color="#00bef0"/>
     </linearGradient>

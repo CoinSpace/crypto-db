@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
-  <g fill-rule="evenodd" clip-path="url(#official-trump_svg__a)" clip-rule="evenodd">
+  <g fill-rule="evenodd" clip-path="url(#logo_official-trump_svg__a)" clip-rule="evenodd">
     <path fill="#c87c0f" d="M3.91 0h3.135q-.008.077-.09.08.075.006.136.034H3.773l-.16-.046Q3.762.018 3.91 0"/>
     <path fill="#833f02" d="M17.16 0h.34v.364l-.046.068q.009-.044-.022-.068a.05.05 0 0 1 .023-.034.3.3 0 0 0-.114-.012q.025-.117-.091-.113A1 1 0 0 1 17.16 0"/>
     <path fill="#964b01" d="M2.5 0h.59a.1.1 0 0 1-.022.08 1 1 0 0 0-.386.17L3 .295h-.432v.069A.22.22 0 0 1 2.545.5L2.5.455z"/>
@@ -541,7 +541,7 @@
     <path fill="#d08814" d="M12.636 19.91q1.273-.006 2.546.01l.022.023-.068.057H12.5a1 1 0 0 1 .136-.09"/>
   </g>
   <defs>
-    <clipPath id="official-trump_svg__a">
+    <clipPath id="logo_official-trump_svg__a">
       <path fill="#fff" d="M0 0h20v20H0z"/>
     </clipPath>
   </defs>

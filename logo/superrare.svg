@@ -1,22 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
-  <g clip-path="url(#superrare_svg__a)">
-    <mask id="superrare_svg__b" width="20" height="20" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:alpha">
+  <g clip-path="url(#logo_superrare_svg__a)">
+    <mask id="logo_superrare_svg__b" width="20" height="20" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:alpha">
       <path fill="#000" d="M9.997 19.994c5.521 0 9.997-4.476 9.997-9.997S15.518 0 9.997 0 0 4.476 0 9.997s4.476 9.997 9.997 9.997"/>
     </mask>
-    <g mask="url(#superrare_svg__b)">
-      <g filter="url(#superrare_svg__c)">
+    <g mask="url(#logo_superrare_svg__b)">
+      <g filter="url(#logo_superrare_svg__c)">
         <ellipse cx="4.953" cy="11.765" fill="#8cff9a" rx="10.766" ry="7.746" transform="rotate(-30.76 4.953 11.765)"/>
       </g>
-      <g filter="url(#superrare_svg__d)">
+      <g filter="url(#logo_superrare_svg__d)">
         <ellipse cx="2.717" cy="3.37" fill="#d6ff38" rx="10.761" ry="7.717"/>
       </g>
-      <g filter="url(#superrare_svg__e)">
+      <g filter="url(#logo_superrare_svg__e)">
         <ellipse cx="21.087" cy="7.174" fill="#ffbcff" rx="8.478" ry="7.826"/>
       </g>
-      <g filter="url(#superrare_svg__f)">
+      <g filter="url(#logo_superrare_svg__f)">
         <ellipse cx="11.433" cy="20.026" fill="#31ffff" rx="10.766" ry="7.746" transform="rotate(-30.76 11.433 20.026)"/>
       </g>
-      <g filter="url(#superrare_svg__g)">
+      <g filter="url(#logo_superrare_svg__g)">
         <ellipse cx="18.804" cy="-.543" fill="#e6b460" rx="10.761" ry="7.717"/>
       </g>
     </g>
@@ -24,32 +24,32 @@
     <path fill="#000" d="M10.747 1.75h-1.25v1.999h1.25zm0 14.495h-1.25v2h1.25z"/>
   </g>
   <defs>
-    <filter id="superrare_svg__c" width="26.133" height="23.278" x="-8.114" y=".126" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+    <filter id="logo_superrare_svg__c" width="26.133" height="23.278" x="-8.114" y=".126" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
       <feFlood flood-opacity="0" result="BackgroundImageFix"/>
       <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
       <feGaussianBlur result="effect1_foregroundBlur_4017_53611" stdDeviation="1.5"/>
     </filter>
-    <filter id="superrare_svg__d" width="27.522" height="21.435" x="-11.043" y="-7.348" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+    <filter id="logo_superrare_svg__d" width="27.522" height="21.435" x="-11.043" y="-7.348" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
       <feFlood flood-opacity="0" result="BackgroundImageFix"/>
       <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
       <feGaussianBlur result="effect1_foregroundBlur_4017_53611" stdDeviation="1.5"/>
     </filter>
-    <filter id="superrare_svg__e" width="22.956" height="21.652" x="9.609" y="-3.652" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+    <filter id="logo_superrare_svg__e" width="22.956" height="21.652" x="9.609" y="-3.652" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
       <feFlood flood-opacity="0" result="BackgroundImageFix"/>
       <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
       <feGaussianBlur result="effect1_foregroundBlur_4017_53611" stdDeviation="1.5"/>
     </filter>
-    <filter id="superrare_svg__f" width="26.133" height="23.278" x="-1.634" y="8.387" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+    <filter id="logo_superrare_svg__f" width="26.133" height="23.278" x="-1.634" y="8.387" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
       <feFlood flood-opacity="0" result="BackgroundImageFix"/>
       <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
       <feGaussianBlur result="effect1_foregroundBlur_4017_53611" stdDeviation="1.5"/>
     </filter>
-    <filter id="superrare_svg__g" width="27.522" height="21.435" x="5.043" y="-11.261" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+    <filter id="logo_superrare_svg__g" width="27.522" height="21.435" x="5.043" y="-11.261" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
       <feFlood flood-opacity="0" result="BackgroundImageFix"/>
       <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
       <feGaussianBlur result="effect1_foregroundBlur_4017_53611" stdDeviation="1.5"/>
     </filter>
-    <clipPath id="superrare_svg__a">
+    <clipPath id="logo_superrare_svg__a">
       <path fill="#fff" d="M0 0h20v20H0z"/>
     </clipPath>
   </defs>

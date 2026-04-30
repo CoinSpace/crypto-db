@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
+  <g clip-path="url(#logo-dark_stacks_svg__a)">
+    <path fill="#fc6432" d="M10 20c5.523 0 10-4.477 10-10S15.523 0 10 0 0 4.477 0 10s4.477 10 10 10"/>
+    <path fill="#fff" d="m14.08 15.27-2.153-3.38h3.092v-1.277H4.88v1.277h3.091L5.82 15.27h1.602l2.528-3.968 2.528 3.967zm.938-5.896V8.098H11.99l2.127-3.342h-1.614L9.95 8.786l-2.553-4.03H5.781L7.91 8.098H4.88v1.289z"/>
+  </g>
+  <defs>
+    <clipPath id="logo-dark_stacks_svg__a">
+      <path fill="#fff" d="M0 0h20v20H0z"/>
+    </clipPath>
+  </defs>
+</svg>

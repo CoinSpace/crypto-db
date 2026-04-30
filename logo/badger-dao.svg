@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
-  <g clip-path="url(#badger-dao_svg__a)">
+  <g clip-path="url(#logo_badger-dao_svg__a)">
     <path fill="#f2a52b" d="M19.787 18.285c0 .938-.768 1.706-1.706 1.706H1.715A1.71 1.71 0 0 1 .01 18.285V1.74A1.71 1.71 0 0 1 1.715.035h16.366c.938 0 1.706.768 1.706 1.706z"/>
     <path fill="#fff" d="M15.994 7.884V7.38h-.477V5.452h.476v-.98h-.475.475v-.498h-.476v-.952h-1.948v.475H6.227v-.475H4.278v.952h-.477v.497h.476-.476v.98h.477V7.38h-.477v.504h-.477v2.928h.477v.954h.476v.477h.498v.502h.477v.498h.503v.477h.477v.497h.476v.456h.498v.503h.477v1.472h.503v.482h.498v.498h2.426v-.498h.498v-.482h.503v-1.472h.476v-.503h.498v-.455h.477v-.498h.477v-.477h.503v-.498h.476v-.502h.499v-.477h.475v-.954h.478V7.884z"/>
     <path fill="#ebeae6" d="M8.753 12.745h-.068v1.928h.068zm-.249-9.02h-.068v.498h.068z"/>
@@ -34,7 +34,7 @@
     <path fill="#fff" d="M12.398 10.808h-.288v.481h.478v-.481z"/>
   </g>
   <defs>
-    <clipPath id="badger-dao_svg__a">
+    <clipPath id="logo_badger-dao_svg__a">
       <path fill="#fff" d="M0 0h20v20H0z"/>
     </clipPath>
   </defs>

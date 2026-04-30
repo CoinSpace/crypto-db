@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
-  <g clip-path="url(#curve-dao-token_svg__a)">
+  <g clip-path="url(#logo_curve-dao-token_svg__a)">
     <path fill="#d6fe1f" d="m0 7.575.11-.715.066-.438.08.612.144.72.034.211-.075.572q-.022.177-.052.354c-.003.017-.033.03-.051.046L.04 7.858 0 7.754z"/>
     <path fill="#96fe60" d="m.04 7.858.215 1.08.033.143c0 .28.002.56-.002.84-.002.07-.024.139-.037.208l-.142-.578v-.57L0 9.155v-.97l.036-.18v-.107z"/>
     <path fill="#0304fc" d="M6.787 19.6c-.195.094-.386.196-.585.278-.134.056-.28.082-.42.122h-.144l-.072-.072.503-.144c.08-.037.157-.077.238-.11q.185-.073.372-.14z"/>
@@ -675,7 +675,7 @@
     <path fill="#fb7f03" d="m5.207 9.405-.071.002.036-.037h.035z"/>
   </g>
   <defs>
-    <clipPath id="curve-dao-token_svg__a">
+    <clipPath id="logo_curve-dao-token_svg__a">
       <path fill="#fff" d="M0 0h19.852v20H0z"/>
     </clipPath>
   </defs>

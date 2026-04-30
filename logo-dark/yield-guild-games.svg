@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+  <path fill="#1d1f22" d="M2.373 3.703 6.22 1.481h7.693l3.846 2.222v10.37l-7.693 4.445-7.692-4.444z"/>
+  <path fill="url(#logo-dark_yield-guild-games_svg__a)" fill-rule="evenodd" d="M2.373 2.222 6.219 0h7.692l3.847 2.222v1.482L13.91 1.482H6.22L2.373 3.704v10.37l7.692 4.445 7.693-4.445V3.704l1.282.74v10.37L10.065 20l-8.974-5.185V4.445l1.282-.741zm5.129 2.962-1.282-.74v4.444l3.846 2.222 3.846-2.222V4.443l-1.282.741v2.963l-2.564 1.482-2.564-1.482zm5.128 5.927v1.481l-3.846 2.223v-1.482z" clip-rule="evenodd"/>
+  <defs>
+    <linearGradient id="logo-dark_yield-guild-games_svg__a" x1="1.365" x2="8.268" y1="3.575" y2="20.977" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffe600"/>
+      <stop offset=".219" stop-color="#fdff85"/>
+      <stop offset=".479" stop-color="#66f6ff"/>
+      <stop offset="1" stop-color="#cd9bff"/>
+    </linearGradient>
+  </defs>
+</svg>
