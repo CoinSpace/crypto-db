@@ -1,0 +1,18 @@
+{
+  "_id": "skyai@binance-smart-chain",
+  "asset": "skyai",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "SKYAI",
+  "symbol": "SKYAI",
+  "address": "0x92aa03137385f18539301349dcfc9ebc923ffb10",
+  "decimals": 18,
+  "logo": "skyai.svg",
+  "coingecko": {
+    "id": "skyai"
+  },
+  "coinmarketcap": {
+    "id": 36300,
+    "slug": "skyai"
+  }
+}
