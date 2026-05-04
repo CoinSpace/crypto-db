@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "iost@binance-smart-chain",
   "asset": "iost",
   "platform": "binance-smart-chain",
