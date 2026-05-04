@@ -1,16 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
-  <g clip-path="url(#tellor_svg__a)">
-    <path fill="#000" d="M10 20c5.523 0 10-4.477 10-10S15.523 0 10 0 0 4.477 0 10s4.477 10 10 10"/>
-    <path fill="url(#tellor_svg__b)" d="M16.48 7.75c.44 1.72-8.23 5.97-12.16 6.98s7.6-3.97 7.15-5.69-9.64-.31-5.71-1.32 10.28-1.69 10.72.03"/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
   <defs>
-    <linearGradient id="tellor_svg__b" x1="8.862" x2="10.47" y1="6.919" y2="13.141" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#00ff8f"/>
+    <linearGradient id="tellor_svg__b" x1="88.62" x2="104.7" y1="867.19" y2="929.41" gradientTransform="translate(0 -798)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00ff8f"/>
       <stop offset=".43" stop-color="#53fdb2"/>
       <stop offset="1" stop-color="#68fcbb"/>
     </linearGradient>
     <clipPath id="tellor_svg__a">
-      <path fill="#fff" d="M0 0h20v20H0z"/>
+      <path fill="none" d="M0 0h200v200H0z"/>
     </clipPath>
   </defs>
+  <g clip-path="url(#tellor_svg__a)">
+    <circle cx="100" cy="100" r="100"/>
+    <path fill="url(#tellor_svg__b)" d="M164.8 77.5c4.4 17.2-82.3 59.7-121.6 69.8s76-39.7 71.5-56.9-96.4-3.1-57.1-13.2 102.8-16.9 107.2.3"/>
+  </g>
 </svg>
