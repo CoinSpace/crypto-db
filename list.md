@@ -5,6 +5,7 @@ Total cryptos: 889
 <tr>
   <th>Rank</th>
   <th>Logo</th>
+  <th>Logo (dark)</th>
   <th>Name</th>
   <th>Symbol</th>
   <th>Crypto ID</th>
@@ -13,6 +14,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">1</td>
   <td><img src="logo/bitcoin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/bitcoin.svg" width="40px" height="40px"/></td>
   <td>Bitcoin</td>
   <td>BTC</td>
   <td><a href="./crypto/bitcoin@bitcoin.json">bitcoin@bitcoin</a></td>
@@ -24,6 +26,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="14">2</td>
   <td><img src="logo/ethereum.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ethereum.svg" width="40px" height="40px"/></td>
   <td>Ethereum</td>
   <td>ETH</td>
   <td><a href="./crypto/ethereum@ethereum.json">ethereum@ethereum</a></td>
@@ -34,6 +37,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/worldcoin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/worldcoin.svg" width="40px" height="40px"/></td>
   <td>Worldcoin</td>
   <td>ETH</td>
   <td><a href="./crypto/ethereum@worldcoin.json">ethereum@worldcoin</a></td>
@@ -44,6 +48,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/uniswap.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/uniswap.svg" width="40px" height="40px"/></td>
   <td>Uniswap</td>
   <td>ETH</td>
   <td><a href="./crypto/ethereum@uniswap.json">ethereum@uniswap</a></td>
@@ -54,6 +59,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/scroll.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/scroll.svg" width="40px" height="40px"/></td>
   <td>Scroll</td>
   <td>ETH</td>
   <td><a href="./crypto/ethereum@scroll.json">ethereum@scroll</a></td>
@@ -64,6 +70,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/optimism.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/optimism.svg" width="40px" height="40px"/></td>
   <td>Optimism</td>
   <td>ETH</td>
   <td><a href="./crypto/ethereum@optimism.json">ethereum@optimism</a></td>
@@ -74,6 +81,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/linea.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/linea.svg" width="40px" height="40px"/></td>
   <td>Linea</td>
   <td>ETH</td>
   <td><a href="./crypto/ethereum@linea.json">ethereum@linea</a></td>
@@ -84,6 +92,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/blast.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/blast.svg" width="40px" height="40px"/></td>
   <td>Blast</td>
   <td>ETH</td>
   <td><a href="./crypto/ethereum@blast.json">ethereum@blast</a></td>
@@ -94,6 +103,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/base.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/base.svg" width="40px" height="40px"/></td>
   <td>Base</td>
   <td>ETH</td>
   <td><a href="./crypto/ethereum@base.json">ethereum@base</a></td>
@@ -104,6 +114,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/arbitrum.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/arbitrum.svg" width="40px" height="40px"/></td>
   <td>Arbitrum</td>
   <td>ETH</td>
   <td><a href="./crypto/ethereum@arbitrum.json">ethereum@arbitrum</a></td>
@@ -114,6 +125,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/ethereum.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ethereum.svg" width="40px" height="40px"/></td>
   <td>Ethereum</td>
   <td>ETH</td>
   <td><a href="./crypto/ethereum@avalanche-c-chain.json">ethereum@avalanche-c-chain</a></td>
@@ -124,6 +136,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/ethereum.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ethereum.svg" width="40px" height="40px"/></td>
   <td>Ethereum</td>
   <td>ETH</td>
   <td><a href="./crypto/ethereum@binance-smart-chain.json">ethereum@binance-smart-chain</a></td>
@@ -135,6 +148,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/ethereum.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ethereum.svg" width="40px" height="40px"/></td>
   <td>Ethereum</td>
   <td>ETH</td>
   <td><a href="./crypto/ethereum@near.json">ethereum@near</a></td>
@@ -145,6 +159,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/ethereum.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ethereum.svg" width="40px" height="40px"/></td>
   <td>Ethereum</td>
   <td>ETH</td>
   <td><a href="./crypto/ethereum@solana.json">ethereum@solana</a></td>
@@ -155,6 +170,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/ethereum.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ethereum.svg" width="40px" height="40px"/></td>
   <td>Ethereum</td>
   <td>ETH</td>
   <td><a href="./crypto/ethereum@tezos.json">ethereum@tezos</a></td>
@@ -166,6 +182,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="30">3</td>
   <td><img src="logo/tether.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/tether.svg" width="40px" height="40px"/></td>
   <td>Tether</td>
   <td>USDT</td>
   <td><a href="./crypto/tether@algorand.json">tether@algorand</a></td>
@@ -176,6 +193,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/tether.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/tether.svg" width="40px" height="40px"/></td>
   <td>Tether</td>
   <td>USDT</td>
   <td><a href="./crypto/tether@aptos.json">tether@aptos</a></td>
@@ -186,6 +204,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/tether.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/tether.svg" width="40px" height="40px"/></td>
   <td>Tether</td>
   <td>USDT</td>
   <td><a href="./crypto/tether@arbitrum.json">tether@arbitrum</a></td>
@@ -196,6 +215,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/tether.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/tether.svg" width="40px" height="40px"/></td>
   <td>Tether</td>
   <td>USDT</td>
   <td><a href="./crypto/tether@avalanche-c-chain.json">tether@avalanche-c-chain</a></td>
@@ -206,6 +226,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/tether.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/tether.svg" width="40px" height="40px"/></td>
   <td>Tether</td>
   <td>USDT</td>
   <td><a href="./crypto/tether@base.json">tether@base</a></td>
@@ -216,6 +237,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/tether.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/tether.svg" width="40px" height="40px"/></td>
   <td>Tether</td>
   <td>USDT</td>
   <td><a href="./crypto/tether@binance-smart-chain.json">tether@binance-smart-chain</a></td>
@@ -227,6 +249,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/tether.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/tether.svg" width="40px" height="40px"/></td>
   <td>Tether</td>
   <td>USDT</td>
   <td><a href="./crypto/tether@celo.json">tether@celo</a></td>
@@ -237,6 +260,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/tether.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/tether.svg" width="40px" height="40px"/></td>
   <td>Tether</td>
   <td>USDT</td>
   <td><a href="./crypto/tether@conflux.json">tether@conflux</a></td>
@@ -247,6 +271,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/tether.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/tether.svg" width="40px" height="40px"/></td>
   <td>Tether</td>
   <td>USDT</td>
   <td><a href="./crypto/tether@cronos.json">tether@cronos</a></td>
@@ -257,6 +282,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/tether.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/tether.svg" width="40px" height="40px"/></td>
   <td>Tether</td>
   <td>USDT</td>
   <td><a href="./crypto/tether@ethereum.json">tether@ethereum</a></td>
@@ -268,6 +294,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/tether.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/tether.svg" width="40px" height="40px"/></td>
   <td>Tether</td>
   <td>USDT</td>
   <td><a href="./crypto/tether@fantom.json">tether@fantom</a></td>
@@ -278,6 +305,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/tether.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/tether.svg" width="40px" height="40px"/></td>
   <td>Tether</td>
   <td>USDT</td>
   <td><a href="./crypto/tether@harmony.json">tether@harmony</a></td>
@@ -288,6 +316,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/tether.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/tether.svg" width="40px" height="40px"/></td>
   <td>Tether</td>
   <td>USDT</td>
   <td><a href="./crypto/tether@iotex.json">tether@iotex</a></td>
@@ -298,6 +327,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/tether.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/tether.svg" width="40px" height="40px"/></td>
   <td>Tether</td>
   <td>USDT</td>
   <td><a href="./crypto/tether@kava.json">tether@kava</a></td>
@@ -308,6 +338,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/tether.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/tether.svg" width="40px" height="40px"/></td>
   <td>Tether</td>
   <td>USDT</td>
   <td><a href="./crypto/tether@linea.json">tether@linea</a></td>
@@ -318,6 +349,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/tether.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/tether.svg" width="40px" height="40px"/></td>
   <td>Tether</td>
   <td>USDT</td>
   <td><a href="./crypto/tether@mantle.json">tether@mantle</a></td>
@@ -328,6 +360,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/tether.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/tether.svg" width="40px" height="40px"/></td>
   <td>Tether</td>
   <td>USDT</td>
   <td><a href="./crypto/tether@near.json">tether@near</a></td>
@@ -338,6 +371,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/tether.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/tether.svg" width="40px" height="40px"/></td>
   <td>Tether</td>
   <td>USDT</td>
   <td><a href="./crypto/tether@optimism.json">tether@optimism</a></td>
@@ -348,6 +382,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/tether.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/tether.svg" width="40px" height="40px"/></td>
   <td>Tether</td>
   <td>USDT</td>
   <td><a href="./crypto/tether@polygon.json">tether@polygon</a></td>
@@ -358,6 +393,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/tether.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/tether.svg" width="40px" height="40px"/></td>
   <td>Tether</td>
   <td>USDT</td>
   <td><a href="./crypto/tether@scroll.json">tether@scroll</a></td>
@@ -368,6 +404,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/tether.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/tether.svg" width="40px" height="40px"/></td>
   <td>Tether</td>
   <td>USDT</td>
   <td><a href="./crypto/tether@sei.json">tether@sei</a></td>
@@ -378,6 +415,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/tether.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/tether.svg" width="40px" height="40px"/></td>
   <td>Tether</td>
   <td>USDT</td>
   <td><a href="./crypto/tether@solana.json">tether@solana</a></td>
@@ -388,6 +426,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/tether.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/tether.svg" width="40px" height="40px"/></td>
   <td>Tether</td>
   <td>USDT</td>
   <td><a href="./crypto/tether@sui.json">tether@sui</a></td>
@@ -398,6 +437,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/tether.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/tether.svg" width="40px" height="40px"/></td>
   <td>Tether</td>
   <td>USDT</td>
   <td><a href="./crypto/tether@terra.json">tether@terra</a></td>
@@ -408,6 +448,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/tether.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/tether.svg" width="40px" height="40px"/></td>
   <td>Tether</td>
   <td>USDT</td>
   <td><a href="./crypto/tether@tezos.json">tether@tezos</a></td>
@@ -418,6 +459,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/tether.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/tether.svg" width="40px" height="40px"/></td>
   <td>Tether</td>
   <td>USDT</td>
   <td><a href="./crypto/tether@toncoin.json">tether@toncoin</a></td>
@@ -428,6 +470,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/tether.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/tether.svg" width="40px" height="40px"/></td>
   <td>Tether</td>
   <td>USDT</td>
   <td><a href="./crypto/tether@tron.json">tether@tron</a></td>
@@ -438,6 +481,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/tether.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/tether.svg" width="40px" height="40px"/></td>
   <td>Tether</td>
   <td>USDT</td>
   <td><a href="./crypto/tether@waves.json">tether@waves</a></td>
@@ -448,6 +492,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/tether.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/tether.svg" width="40px" height="40px"/></td>
   <td>Tether</td>
   <td>USDT</td>
   <td><a href="./crypto/tether@xdc-network.json">tether@xdc-network</a></td>
@@ -458,6 +503,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/tether.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/tether.svg" width="40px" height="40px"/></td>
   <td>Tether</td>
   <td>USDT</td>
   <td><a href="./crypto/tether@zilliqa.json">tether@zilliqa</a></td>
@@ -469,6 +515,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="3">4</td>
   <td><img src="logo/xrp.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/xrp.svg" width="40px" height="40px"/></td>
   <td>XRP</td>
   <td>XRP</td>
   <td><a href="./crypto/xrp@ripple.json">xrp@ripple</a></td>
@@ -479,6 +526,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/xrp.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/xrp.svg" width="40px" height="40px"/></td>
   <td>XRP</td>
   <td>XRP</td>
   <td><a href="./crypto/xrp@binance-smart-chain.json">xrp@binance-smart-chain</a></td>
@@ -490,6 +538,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/xrp.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/xrp.svg" width="40px" height="40px"/></td>
   <td>XRP</td>
   <td>XRP</td>
   <td><a href="./crypto/xrp@solana.json">xrp@solana</a></td>
@@ -501,6 +550,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">5</td>
   <td><img src="logo/binance-smart-chain.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/binance-smart-chain.svg" width="40px" height="40px"/></td>
   <td>Binance Smart Chain</td>
   <td>BNB</td>
   <td><a href="./crypto/binance-coin@binance-smart-chain.json">binance-coin@binance-smart-chain</a></td>
@@ -511,6 +561,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/binance-chain.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/binance-chain.svg" width="40px" height="40px"/></td>
   <td>Binance Chain</td>
   <td>BNB</td>
   <td><a href="./crypto/binance-coin@ethereum.json">binance-coin@ethereum</a></td>
@@ -523,6 +574,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="33">6</td>
   <td><img src="logo/usd-coin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/usd-coin.svg" width="40px" height="40px"/></td>
   <td>USDC</td>
   <td>USDC</td>
   <td><a href="./crypto/usd-coin@algorand.json">usd-coin@algorand</a></td>
@@ -533,6 +585,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/usd-coin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/usd-coin.svg" width="40px" height="40px"/></td>
   <td>USDC</td>
   <td>USDC</td>
   <td><a href="./crypto/usd-coin@aptos.json">usd-coin@aptos</a></td>
@@ -543,6 +596,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/usd-coin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/usd-coin.svg" width="40px" height="40px"/></td>
   <td>USDC</td>
   <td>USDC</td>
   <td><a href="./crypto/usd-coin@arbitrum.json">usd-coin@arbitrum</a></td>
@@ -553,6 +607,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/usd-coin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/usd-coin.svg" width="40px" height="40px"/></td>
   <td>USDC</td>
   <td>USDC</td>
   <td><a href="./crypto/usd-coin@avalanche-c-chain.json">usd-coin@avalanche-c-chain</a></td>
@@ -563,6 +618,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/usd-coin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/usd-coin.svg" width="40px" height="40px"/></td>
   <td>USDC</td>
   <td>USDC</td>
   <td><a href="./crypto/usd-coin@base.json">usd-coin@base</a></td>
@@ -573,6 +629,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/usd-coin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/usd-coin.svg" width="40px" height="40px"/></td>
   <td>USDC</td>
   <td>USDC</td>
   <td><a href="./crypto/usd-coin@binance-smart-chain.json">usd-coin@binance-smart-chain</a></td>
@@ -584,6 +641,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/usd-coin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/usd-coin.svg" width="40px" height="40px"/></td>
   <td>USDC</td>
   <td>USDC</td>
   <td><a href="./crypto/usd-coin@celo.json">usd-coin@celo</a></td>
@@ -594,6 +652,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/usd-coin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/usd-coin.svg" width="40px" height="40px"/></td>
   <td>USDC</td>
   <td>USDC</td>
   <td><a href="./crypto/usd-coin@conflux.json">usd-coin@conflux</a></td>
@@ -604,6 +663,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/usd-coin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/usd-coin.svg" width="40px" height="40px"/></td>
   <td>USDC</td>
   <td>USDC</td>
   <td><a href="./crypto/usd-coin@cronos.json">usd-coin@cronos</a></td>
@@ -614,6 +674,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/usd-coin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/usd-coin.svg" width="40px" height="40px"/></td>
   <td>USDC</td>
   <td>USDC</td>
   <td><a href="./crypto/usd-coin@ethereum.json">usd-coin@ethereum</a></td>
@@ -625,6 +686,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/usd-coin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/usd-coin.svg" width="40px" height="40px"/></td>
   <td>USDC</td>
   <td>USDC</td>
   <td><a href="./crypto/usd-coin@harmony.json">usd-coin@harmony</a></td>
@@ -635,6 +697,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/usd-coin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/usd-coin.svg" width="40px" height="40px"/></td>
   <td>USDC</td>
   <td>USDC</td>
   <td><a href="./crypto/usd-coin@hedera-hashgraph.json">usd-coin@hedera-hashgraph</a></td>
@@ -645,6 +708,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/usd-coin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/usd-coin.svg" width="40px" height="40px"/></td>
   <td>USDC</td>
   <td>USDC</td>
   <td><a href="./crypto/usd-coin@iotex.json">usd-coin@iotex</a></td>
@@ -655,6 +719,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/usd-coin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/usd-coin.svg" width="40px" height="40px"/></td>
   <td>USDC</td>
   <td>USDC</td>
   <td><a href="./crypto/usd-coin@kava.json">usd-coin@kava</a></td>
@@ -665,6 +730,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/usd-coin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/usd-coin.svg" width="40px" height="40px"/></td>
   <td>USDC</td>
   <td>USDC</td>
   <td><a href="./crypto/usd-coin@linea.json">usd-coin@linea</a></td>
@@ -675,6 +741,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/usd-coin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/usd-coin.svg" width="40px" height="40px"/></td>
   <td>USDC</td>
   <td>USDC</td>
   <td><a href="./crypto/usd-coin@mantle.json">usd-coin@mantle</a></td>
@@ -685,6 +752,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/usd-coin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/usd-coin.svg" width="40px" height="40px"/></td>
   <td>USDC</td>
   <td>USDC</td>
   <td><a href="./crypto/usd-coin@monad.json">usd-coin@monad</a></td>
@@ -695,6 +763,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/usd-coin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/usd-coin.svg" width="40px" height="40px"/></td>
   <td>USDC</td>
   <td>USDC</td>
   <td><a href="./crypto/usd-coin@near.json">usd-coin@near</a></td>
@@ -705,6 +774,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/usd-coin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/usd-coin.svg" width="40px" height="40px"/></td>
   <td>USDC</td>
   <td>USDC</td>
   <td><a href="./crypto/usd-coin@optimism.json">usd-coin@optimism</a></td>
@@ -715,6 +785,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/usd-coin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/usd-coin.svg" width="40px" height="40px"/></td>
   <td>USDC</td>
   <td>USDC</td>
   <td><a href="./crypto/usd-coin@polygon.json">usd-coin@polygon</a></td>
@@ -725,6 +796,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/usd-coin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/usd-coin.svg" width="40px" height="40px"/></td>
   <td>USDC</td>
   <td>USDC</td>
   <td><a href="./crypto/usd-coin@ripple.json">usd-coin@ripple</a></td>
@@ -735,6 +807,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/usd-coin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/usd-coin.svg" width="40px" height="40px"/></td>
   <td>USDC</td>
   <td>USDC</td>
   <td><a href="./crypto/usd-coin@scroll.json">usd-coin@scroll</a></td>
@@ -745,6 +818,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/usd-coin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/usd-coin.svg" width="40px" height="40px"/></td>
   <td>USDC</td>
   <td>USDC</td>
   <td><a href="./crypto/usd-coin@sei.json">usd-coin@sei</a></td>
@@ -755,6 +829,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/usd-coin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/usd-coin.svg" width="40px" height="40px"/></td>
   <td>USDC</td>
   <td>USDC</td>
   <td><a href="./crypto/usd-coin@solana.json">usd-coin@solana</a></td>
@@ -765,6 +840,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/usd-coin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/usd-coin.svg" width="40px" height="40px"/></td>
   <td>USDC</td>
   <td>USDC</td>
   <td><a href="./crypto/usd-coin@sonic.json">usd-coin@sonic</a></td>
@@ -775,6 +851,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/usd-coin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/usd-coin.svg" width="40px" height="40px"/></td>
   <td>USDC</td>
   <td>USDC</td>
   <td><a href="./crypto/usd-coin@stellar.json">usd-coin@stellar</a></td>
@@ -785,6 +862,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/usd-coin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/usd-coin.svg" width="40px" height="40px"/></td>
   <td>USDC</td>
   <td>USDC</td>
   <td><a href="./crypto/usd-coin@sui.json">usd-coin@sui</a></td>
@@ -795,6 +873,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/usd-coin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/usd-coin.svg" width="40px" height="40px"/></td>
   <td>USDC</td>
   <td>USDC</td>
   <td><a href="./crypto/usd-coin@terra.json">usd-coin@terra</a></td>
@@ -805,6 +884,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/usd-coin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/usd-coin.svg" width="40px" height="40px"/></td>
   <td>USDC</td>
   <td>USDC</td>
   <td><a href="./crypto/usd-coin@tron.json">usd-coin@tron</a></td>
@@ -815,6 +895,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/usd-coin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/usd-coin.svg" width="40px" height="40px"/></td>
   <td>USDC</td>
   <td>USDC</td>
   <td><a href="./crypto/usd-coin@uniswap.json">usd-coin@uniswap</a></td>
@@ -825,6 +906,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/usd-coin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/usd-coin.svg" width="40px" height="40px"/></td>
   <td>USDC</td>
   <td>USDC</td>
   <td><a href="./crypto/usd-coin@waves.json">usd-coin@waves</a></td>
@@ -835,6 +917,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/usd-coin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/usd-coin.svg" width="40px" height="40px"/></td>
   <td>USDC</td>
   <td>USDC</td>
   <td><a href="./crypto/usd-coin@worldcoin.json">usd-coin@worldcoin</a></td>
@@ -845,6 +928,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/usd-coin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/usd-coin.svg" width="40px" height="40px"/></td>
   <td>USDC</td>
   <td>USDC</td>
   <td><a href="./crypto/usd-coin@xdc-network.json">usd-coin@xdc-network</a></td>
@@ -856,6 +940,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">7</td>
   <td><img src="logo/solana.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/solana.svg" width="40px" height="40px"/></td>
   <td>Solana</td>
   <td>SOL</td>
   <td><a href="./crypto/solana@solana.json">solana@solana</a></td>
@@ -867,6 +952,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="3">8</td>
   <td><img src="logo/tron.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/tron.svg" width="40px" height="40px"/></td>
   <td>TRON</td>
   <td>TRX</td>
   <td><a href="./crypto/tron@tron.json">tron@tron</a></td>
@@ -877,6 +963,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/tron.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/tron.svg" width="40px" height="40px"/></td>
   <td>TRON</td>
   <td>TRX</td>
   <td><a href="./crypto/tron@binance-smart-chain.json">tron@binance-smart-chain</a></td>
@@ -888,6 +975,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/tron.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/tron.svg" width="40px" height="40px"/></td>
   <td>TRON</td>
   <td>TRX</td>
   <td><a href="./crypto/tron@ethereum.json">tron@ethereum</a></td>
@@ -900,6 +988,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">9</td>
   <td><img src="logo/dogecoin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/dogecoin.svg" width="40px" height="40px"/></td>
   <td>Dogecoin</td>
   <td>DOGE</td>
   <td><a href="./crypto/dogecoin@dogecoin.json">dogecoin@dogecoin</a></td>
@@ -910,6 +999,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/dogecoin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/dogecoin.svg" width="40px" height="40px"/></td>
   <td>Dogecoin</td>
   <td>DOGE</td>
   <td><a href="./crypto/dogecoin@binance-smart-chain.json">dogecoin@binance-smart-chain</a></td>
@@ -922,6 +1012,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">10</td>
   <td><img src="logo/hyperliquid.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/hyperliquid.svg" width="40px" height="40px"/></td>
   <td>Hyperliquid</td>
   <td>HYPE</td>
   <td><a href="./crypto/hyperliquid@hyperliquid.json">hyperliquid@hyperliquid</a></td>
@@ -933,6 +1024,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">11</td>
   <td><img src="logo/leo-token.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/leo-token.svg" width="40px" height="40px"/></td>
   <td>UNUS SED LEO</td>
   <td>LEO</td>
   <td><a href="./crypto/leo-token@ethereum.json">leo-token@ethereum</a></td>
@@ -945,6 +1037,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">12</td>
   <td><img src="logo/cardano.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/cardano.svg" width="40px" height="40px"/></td>
   <td>Cardano</td>
   <td>ADA</td>
   <td><a href="./crypto/cardano@cardano.json">cardano@cardano</a></td>
@@ -955,6 +1048,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/cardano.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/cardano.svg" width="40px" height="40px"/></td>
   <td>Cardano</td>
   <td>ADA</td>
   <td><a href="./crypto/cardano@binance-smart-chain.json">cardano@binance-smart-chain</a></td>
@@ -967,6 +1061,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">13</td>
   <td><img src="logo/bitcoin-cash.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/bitcoin-cash.svg" width="40px" height="40px"/></td>
   <td>Bitcoin Cash</td>
   <td>BCH</td>
   <td><a href="./crypto/bitcoin-cash@bitcoin-cash.json">bitcoin-cash@bitcoin-cash</a></td>
@@ -977,6 +1072,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/bitcoin-cash.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/bitcoin-cash.svg" width="40px" height="40px"/></td>
   <td>Bitcoin Cash</td>
   <td>BCH</td>
   <td><a href="./crypto/bitcoin-cash@binance-smart-chain.json">bitcoin-cash@binance-smart-chain</a></td>
@@ -989,6 +1085,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">14</td>
   <td><img src="logo/monero.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/monero.svg" width="40px" height="40px"/></td>
   <td>Monero</td>
   <td>XMR</td>
   <td><a href="./crypto/monero@monero.json">monero@monero</a></td>
@@ -1000,6 +1097,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="3">15</td>
   <td><img src="logo/zcash.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/zcash.svg" width="40px" height="40px"/></td>
   <td>Zcash</td>
   <td>ZEC</td>
   <td><a href="./crypto/zcash@zcash.json">zcash@zcash</a></td>
@@ -1010,6 +1108,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/zcash.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/zcash.svg" width="40px" height="40px"/></td>
   <td>Zcash</td>
   <td>ZEC</td>
   <td><a href="./crypto/zcash@binance-smart-chain.json">zcash@binance-smart-chain</a></td>
@@ -1021,6 +1120,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/zcash.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/zcash.svg" width="40px" height="40px"/></td>
   <td>Zcash</td>
   <td>ZEC</td>
   <td><a href="./crypto/zcash@near.json">zcash@near</a></td>
@@ -1032,6 +1132,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="16">16</td>
   <td><img src="logo/chainlink.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/chainlink.svg" width="40px" height="40px"/></td>
   <td>Chainlink</td>
   <td>LINK</td>
   <td><a href="./crypto/chainlink@arbitrum.json">chainlink@arbitrum</a></td>
@@ -1042,6 +1143,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/chainlink.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/chainlink.svg" width="40px" height="40px"/></td>
   <td>Chainlink</td>
   <td>LINK</td>
   <td><a href="./crypto/chainlink@avalanche-c-chain.json">chainlink@avalanche-c-chain</a></td>
@@ -1052,6 +1154,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/chainlink.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/chainlink.svg" width="40px" height="40px"/></td>
   <td>Chainlink</td>
   <td>LINK</td>
   <td><a href="./crypto/chainlink@base.json">chainlink@base</a></td>
@@ -1062,6 +1165,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/chainlink.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/chainlink.svg" width="40px" height="40px"/></td>
   <td>Chainlink</td>
   <td>LINK</td>
   <td><a href="./crypto/chainlink@binance-smart-chain.json">chainlink@binance-smart-chain</a></td>
@@ -1073,6 +1177,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/chainlink.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/chainlink.svg" width="40px" height="40px"/></td>
   <td>Chainlink</td>
   <td>LINK</td>
   <td><a href="./crypto/chainlink@blast.json">chainlink@blast</a></td>
@@ -1083,6 +1188,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/chainlink.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/chainlink.svg" width="40px" height="40px"/></td>
   <td>Chainlink</td>
   <td>LINK</td>
   <td><a href="./crypto/chainlink@celo.json">chainlink@celo</a></td>
@@ -1093,6 +1199,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/chainlink.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/chainlink.svg" width="40px" height="40px"/></td>
   <td>Chainlink</td>
   <td>LINK</td>
   <td><a href="./crypto/chainlink@cronos.json">chainlink@cronos</a></td>
@@ -1103,6 +1210,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/chainlink.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/chainlink.svg" width="40px" height="40px"/></td>
   <td>Chainlink</td>
   <td>LINK</td>
   <td><a href="./crypto/chainlink@ethereum.json">chainlink@ethereum</a></td>
@@ -1114,6 +1222,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/chainlink.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/chainlink.svg" width="40px" height="40px"/></td>
   <td>Chainlink</td>
   <td>LINK</td>
   <td><a href="./crypto/chainlink@linea.json">chainlink@linea</a></td>
@@ -1124,6 +1233,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/chainlink.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/chainlink.svg" width="40px" height="40px"/></td>
   <td>Chainlink</td>
   <td>LINK</td>
   <td><a href="./crypto/chainlink@monad.json">chainlink@monad</a></td>
@@ -1134,6 +1244,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/chainlink.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/chainlink.svg" width="40px" height="40px"/></td>
   <td>Chainlink</td>
   <td>LINK</td>
   <td><a href="./crypto/chainlink@optimism.json">chainlink@optimism</a></td>
@@ -1144,6 +1255,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/chainlink.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/chainlink.svg" width="40px" height="40px"/></td>
   <td>Chainlink</td>
   <td>LINK</td>
   <td><a href="./crypto/chainlink@plasma.json">chainlink@plasma</a></td>
@@ -1154,6 +1266,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/chainlink.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/chainlink.svg" width="40px" height="40px"/></td>
   <td>Chainlink</td>
   <td>LINK</td>
   <td><a href="./crypto/chainlink@polygon.json">chainlink@polygon</a></td>
@@ -1164,6 +1277,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/chainlink.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/chainlink.svg" width="40px" height="40px"/></td>
   <td>Chainlink</td>
   <td>LINK</td>
   <td><a href="./crypto/chainlink@solana.json">chainlink@solana</a></td>
@@ -1174,6 +1288,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/chainlink.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/chainlink.svg" width="40px" height="40px"/></td>
   <td>Chainlink</td>
   <td>LINK</td>
   <td><a href="./crypto/chainlink@uniswap.json">chainlink@uniswap</a></td>
@@ -1184,6 +1299,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/chainlink.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/chainlink.svg" width="40px" height="40px"/></td>
   <td>Chainlink</td>
   <td>LINK</td>
   <td><a href="./crypto/chainlink@xdc-network.json">chainlink@xdc-network</a></td>
@@ -1195,6 +1311,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">18</td>
   <td><img src="logo/stellar.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/stellar.svg" width="40px" height="40px"/></td>
   <td>Stellar</td>
   <td>XLM</td>
   <td><a href="./crypto/stellar@stellar.json">stellar@stellar</a></td>
@@ -1206,6 +1323,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="14">19</td>
   <td><img src="logo/dai.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/dai.svg" width="40px" height="40px"/></td>
   <td>Dai</td>
   <td>DAI</td>
   <td><a href="./crypto/dai@arbitrum.json">dai@arbitrum</a></td>
@@ -1216,6 +1334,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/dai.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/dai.svg" width="40px" height="40px"/></td>
   <td>Dai</td>
   <td>DAI</td>
   <td><a href="./crypto/dai@avalanche-c-chain.json">dai@avalanche-c-chain</a></td>
@@ -1226,6 +1345,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/dai.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/dai.svg" width="40px" height="40px"/></td>
   <td>Dai</td>
   <td>DAI</td>
   <td><a href="./crypto/dai@base.json">dai@base</a></td>
@@ -1236,6 +1356,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/dai.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/dai.svg" width="40px" height="40px"/></td>
   <td>Dai</td>
   <td>DAI</td>
   <td><a href="./crypto/dai@binance-smart-chain.json">dai@binance-smart-chain</a></td>
@@ -1247,6 +1368,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/dai.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/dai.svg" width="40px" height="40px"/></td>
   <td>Dai</td>
   <td>DAI</td>
   <td><a href="./crypto/dai@cronos.json">dai@cronos</a></td>
@@ -1257,6 +1379,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/dai.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/dai.svg" width="40px" height="40px"/></td>
   <td>Dai</td>
   <td>DAI</td>
   <td><a href="./crypto/dai@ethereum.json">dai@ethereum</a></td>
@@ -1268,6 +1391,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/dai.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/dai.svg" width="40px" height="40px"/></td>
   <td>Dai</td>
   <td>DAI</td>
   <td><a href="./crypto/dai@fantom.json">dai@fantom</a></td>
@@ -1278,6 +1402,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/dai.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/dai.svg" width="40px" height="40px"/></td>
   <td>Dai</td>
   <td>DAI</td>
   <td><a href="./crypto/dai@harmony.json">dai@harmony</a></td>
@@ -1288,6 +1413,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/dai.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/dai.svg" width="40px" height="40px"/></td>
   <td>Dai</td>
   <td>DAI</td>
   <td><a href="./crypto/dai@near.json">dai@near</a></td>
@@ -1298,6 +1424,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/dai.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/dai.svg" width="40px" height="40px"/></td>
   <td>Dai</td>
   <td>DAI</td>
   <td><a href="./crypto/dai@optimism.json">dai@optimism</a></td>
@@ -1308,6 +1435,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/dai.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/dai.svg" width="40px" height="40px"/></td>
   <td>Dai</td>
   <td>DAI</td>
   <td><a href="./crypto/dai@polygon.json">dai@polygon</a></td>
@@ -1318,6 +1446,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/dai.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/dai.svg" width="40px" height="40px"/></td>
   <td>Dai</td>
   <td>DAI</td>
   <td><a href="./crypto/dai@solana.json">dai@solana</a></td>
@@ -1328,6 +1457,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/dai.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/dai.svg" width="40px" height="40px"/></td>
   <td>Dai</td>
   <td>DAI</td>
   <td><a href="./crypto/dai@terra.json">dai@terra</a></td>
@@ -1338,6 +1468,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/dai.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/dai.svg" width="40px" height="40px"/></td>
   <td>Dai</td>
   <td>DAI</td>
   <td><a href="./crypto/dai@toncoin.json">dai@toncoin</a></td>
@@ -1349,6 +1480,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="3">20</td>
   <td><img src="logo/toncoin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/toncoin.svg" width="40px" height="40px"/></td>
   <td>Toncoin</td>
   <td>TON</td>
   <td><a href="./crypto/toncoin@toncoin.json">toncoin@toncoin</a></td>
@@ -1359,6 +1491,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/toncoin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/toncoin.svg" width="40px" height="40px"/></td>
   <td>Toncoin</td>
   <td>TON</td>
   <td><a href="./crypto/toncoin@binance-smart-chain.json">toncoin@binance-smart-chain</a></td>
@@ -1370,6 +1503,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/toncoin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/toncoin.svg" width="40px" height="40px"/></td>
   <td>Toncoin</td>
   <td>TON</td>
   <td><a href="./crypto/toncoin@ethereum.json">toncoin@ethereum</a></td>
@@ -1382,6 +1516,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="5">21</td>
   <td><img src="logo/world-liberty-financial-usd.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/world-liberty-financial-usd.svg" width="40px" height="40px"/></td>
   <td>World Liberty Financial USD</td>
   <td>USD1</td>
   <td><a href="./crypto/world-liberty-financial-usd@aptos.json">world-liberty-financial-usd@aptos</a></td>
@@ -1392,6 +1527,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/world-liberty-financial-usd.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/world-liberty-financial-usd.svg" width="40px" height="40px"/></td>
   <td>World Liberty Financial USD</td>
   <td>USD1</td>
   <td><a href="./crypto/world-liberty-financial-usd@binance-smart-chain.json">world-liberty-financial-usd@binance-smart-chain</a></td>
@@ -1403,6 +1539,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/world-liberty-financial-usd.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/world-liberty-financial-usd.svg" width="40px" height="40px"/></td>
   <td>World Liberty Financial USD</td>
   <td>USD1</td>
   <td><a href="./crypto/world-liberty-financial-usd@ethereum.json">world-liberty-financial-usd@ethereum</a></td>
@@ -1414,6 +1551,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/world-liberty-financial-usd.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/world-liberty-financial-usd.svg" width="40px" height="40px"/></td>
   <td>World Liberty Financial USD</td>
   <td>USD1</td>
   <td><a href="./crypto/world-liberty-financial-usd@solana.json">world-liberty-financial-usd@solana</a></td>
@@ -1424,6 +1562,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/world-liberty-financial-usd.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/world-liberty-financial-usd.svg" width="40px" height="40px"/></td>
   <td>World Liberty Financial USD</td>
   <td>USD1</td>
   <td><a href="./crypto/world-liberty-financial-usd@tron.json">world-liberty-financial-usd@tron</a></td>
@@ -1435,6 +1574,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">22</td>
   <td><img src="logo/memecore.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/memecore.svg" width="40px" height="40px"/></td>
   <td>MemeCore</td>
   <td>M</td>
   <td><a href="./crypto/memecore@memecore.json">memecore@memecore</a></td>
@@ -1445,6 +1585,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/memecore.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/memecore.svg" width="40px" height="40px"/></td>
   <td>MemeCore</td>
   <td>M</td>
   <td><a href="./crypto/memecore@binance-smart-chain.json">memecore@binance-smart-chain</a></td>
@@ -1457,6 +1598,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">23</td>
   <td><img src="logo/litecoin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/litecoin.svg" width="40px" height="40px"/></td>
   <td>Litecoin</td>
   <td>LTC</td>
   <td><a href="./crypto/litecoin@litecoin.json">litecoin@litecoin</a></td>
@@ -1467,6 +1609,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/litecoin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/litecoin.svg" width="40px" height="40px"/></td>
   <td>Litecoin</td>
   <td>LTC</td>
   <td><a href="./crypto/litecoin@binance-smart-chain.json">litecoin@binance-smart-chain</a></td>
@@ -1479,6 +1622,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="3">24</td>
   <td><img src="logo/avalanche.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/avalanche.svg" width="40px" height="40px"/></td>
   <td>Avalanche X Chain</td>
   <td>AVAX</td>
   <td><a href="./crypto/avalanche@avalanche-x-chain.json">avalanche@avalanche-x-chain</a></td>
@@ -1489,6 +1633,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/avalanche.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/avalanche.svg" width="40px" height="40px"/></td>
   <td>Avalanche</td>
   <td>AVAX</td>
   <td><a href="./crypto/avalanche@avalanche-c-chain.json">avalanche@avalanche-c-chain</a></td>
@@ -1499,6 +1644,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/avalanche.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/avalanche.svg" width="40px" height="40px"/></td>
   <td>Avalanche</td>
   <td>AVAX</td>
   <td><a href="./crypto/avalanche@binance-smart-chain.json">avalanche@binance-smart-chain</a></td>
@@ -1511,6 +1657,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">25</td>
   <td><img src="logo/hedera-hashgraph.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/hedera-hashgraph.svg" width="40px" height="40px"/></td>
   <td>Hedera</td>
   <td>HBAR</td>
   <td><a href="./crypto/hedera-hashgraph@hedera-hashgraph.json">hedera-hashgraph@hedera-hashgraph</a></td>
@@ -1522,6 +1669,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">26</td>
   <td><img src="logo/sui.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/sui.svg" width="40px" height="40px"/></td>
   <td>Sui</td>
   <td>SUI</td>
   <td><a href="./crypto/sui@sui.json">sui@sui</a></td>
@@ -1532,6 +1680,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/sui.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/sui.svg" width="40px" height="40px"/></td>
   <td>Sui</td>
   <td>SUI</td>
   <td><a href="./crypto/sui@solana.json">sui@solana</a></td>
@@ -1543,6 +1692,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="9">27</td>
   <td><img src="logo/ethena-usde.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ethena-usde.svg" width="40px" height="40px"/></td>
   <td>Ethena USDe</td>
   <td>USDE</td>
   <td><a href="./crypto/ethena-usde@arbitrum.json">ethena-usde@arbitrum</a></td>
@@ -1553,6 +1703,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/ethena-usde.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ethena-usde.svg" width="40px" height="40px"/></td>
   <td>Ethena USDe</td>
   <td>USDE</td>
   <td><a href="./crypto/ethena-usde@base.json">ethena-usde@base</a></td>
@@ -1563,6 +1714,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/ethena-usde.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ethena-usde.svg" width="40px" height="40px"/></td>
   <td>Ethena USDe</td>
   <td>USDE</td>
   <td><a href="./crypto/ethena-usde@binance-smart-chain.json">ethena-usde@binance-smart-chain</a></td>
@@ -1574,6 +1726,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/ethena-usde.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ethena-usde.svg" width="40px" height="40px"/></td>
   <td>Ethena USDe</td>
   <td>USDE</td>
   <td><a href="./crypto/ethena-usde@ethereum.json">ethena-usde@ethereum</a></td>
@@ -1585,6 +1738,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/ethena-usde.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ethena-usde.svg" width="40px" height="40px"/></td>
   <td>Ethena USDe</td>
   <td>USDE</td>
   <td><a href="./crypto/ethena-usde@kava.json">ethena-usde@kava</a></td>
@@ -1595,6 +1749,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/ethena-usde.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ethena-usde.svg" width="40px" height="40px"/></td>
   <td>Ethena USDe</td>
   <td>USDE</td>
   <td><a href="./crypto/ethena-usde@linea.json">ethena-usde@linea</a></td>
@@ -1605,6 +1760,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/ethena-usde.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ethena-usde.svg" width="40px" height="40px"/></td>
   <td>Ethena USDe</td>
   <td>USDE</td>
   <td><a href="./crypto/ethena-usde@mantle.json">ethena-usde@mantle</a></td>
@@ -1615,6 +1771,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/ethena-usde.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ethena-usde.svg" width="40px" height="40px"/></td>
   <td>Ethena USDe</td>
   <td>USDE</td>
   <td><a href="./crypto/ethena-usde@optimism.json">ethena-usde@optimism</a></td>
@@ -1625,6 +1782,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/ethena-usde.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ethena-usde.svg" width="40px" height="40px"/></td>
   <td>Ethena USDe</td>
   <td>USDE</td>
   <td><a href="./crypto/ethena-usde@scroll.json">ethena-usde@scroll</a></td>
@@ -1636,6 +1794,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">28</td>
   <td><img src="logo/shiba-inu.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/shiba-inu.svg" width="40px" height="40px"/></td>
   <td>Shiba Inu</td>
   <td>SHIB</td>
   <td><a href="./crypto/shiba-inu@binance-smart-chain.json">shiba-inu@binance-smart-chain</a></td>
@@ -1647,6 +1806,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/shiba-inu.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/shiba-inu.svg" width="40px" height="40px"/></td>
   <td>Shiba Inu</td>
   <td>SHIB</td>
   <td><a href="./crypto/shiba-inu@ethereum.json">shiba-inu@ethereum</a></td>
@@ -1659,6 +1819,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="4">29</td>
   <td><img src="logo/paypal-usd.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/paypal-usd.svg" width="40px" height="40px"/></td>
   <td>PayPal USD</td>
   <td>PYUSD</td>
   <td><a href="./crypto/paypal-usd@arbitrum.json">paypal-usd@arbitrum</a></td>
@@ -1669,6 +1830,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/paypal-usd.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/paypal-usd.svg" width="40px" height="40px"/></td>
   <td>PayPal USD</td>
   <td>PYUSD</td>
   <td><a href="./crypto/paypal-usd@ethereum.json">paypal-usd@ethereum</a></td>
@@ -1680,6 +1842,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/paypal-usd.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/paypal-usd.svg" width="40px" height="40px"/></td>
   <td>PayPal USD</td>
   <td>PYUSD</td>
   <td><a href="./crypto/paypal-usd@solana.json">paypal-usd@solana</a></td>
@@ -1690,6 +1853,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/paypal-usd.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/paypal-usd.svg" width="40px" height="40px"/></td>
   <td>PayPal USD</td>
   <td>PYUSD</td>
   <td><a href="./crypto/paypal-usd@stellar.json">paypal-usd@stellar</a></td>
@@ -1701,6 +1865,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="3">31</td>
   <td><img src="logo/crypto-com-coin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/crypto-com-coin.svg" width="40px" height="40px"/></td>
   <td>Cronos</td>
   <td>CRO</td>
   <td><a href="./crypto/crypto-com-coin@cronos.json">crypto-com-coin@cronos</a></td>
@@ -1711,6 +1876,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/crypto-com-coin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/crypto-com-coin.svg" width="40px" height="40px"/></td>
   <td>Cronos</td>
   <td>CRO</td>
   <td><a href="./crypto/crypto-com-coin@ethereum.json">crypto-com-coin@ethereum</a></td>
@@ -1722,6 +1888,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/crypto-com-coin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/crypto-com-coin.svg" width="40px" height="40px"/></td>
   <td>Cronos</td>
   <td>CRO</td>
   <td><a href="./crypto/crypto-com-coin@solana.json">crypto-com-coin@solana</a></td>
@@ -1733,6 +1900,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">32</td>
   <td><img src="logo/tether-gold.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/tether-gold.svg" width="40px" height="40px"/></td>
   <td>Tether Gold</td>
   <td>XAUT</td>
   <td><a href="./crypto/tether-gold@binance-smart-chain.json">tether-gold@binance-smart-chain</a></td>
@@ -1744,6 +1912,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/tether-gold.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/tether-gold.svg" width="40px" height="40px"/></td>
   <td>Tether Gold</td>
   <td>XAUT</td>
   <td><a href="./crypto/tether-gold@ethereum.json">tether-gold@ethereum</a></td>
@@ -1756,6 +1925,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">33</td>
   <td><img src="logo/global-dollar.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/global-dollar.svg" width="40px" height="40px"/></td>
   <td>Global Dollar</td>
   <td>USDG</td>
   <td><a href="./crypto/global-dollar@ethereum.json">global-dollar@ethereum</a></td>
@@ -1767,6 +1937,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/global-dollar.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/global-dollar.svg" width="40px" height="40px"/></td>
   <td>Global Dollar</td>
   <td>USDG</td>
   <td><a href="./crypto/global-dollar@solana.json">global-dollar@solana</a></td>
@@ -1778,6 +1949,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">34</td>
   <td><img src="logo/pax-gold.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/pax-gold.svg" width="40px" height="40px"/></td>
   <td>PAX Gold</td>
   <td>PAXG</td>
   <td><a href="./crypto/pax-gold@ethereum.json">pax-gold@ethereum</a></td>
@@ -1790,6 +1962,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="6">35</td>
   <td><img src="logo/polkadot.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/polkadot.svg" width="40px" height="40px"/></td>
   <td>Polkadot</td>
   <td>DOT</td>
   <td><a href="./crypto/polkadot@polkadot.json">polkadot@polkadot</a></td>
@@ -1800,6 +1973,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/polkadot.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/polkadot.svg" width="40px" height="40px"/></td>
   <td>Polkadot</td>
   <td>DOT</td>
   <td><a href="./crypto/polkadot@arbitrum.json">polkadot@arbitrum</a></td>
@@ -1810,6 +1984,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/polkadot.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/polkadot.svg" width="40px" height="40px"/></td>
   <td>Polkadot</td>
   <td>DOT</td>
   <td><a href="./crypto/polkadot@base.json">polkadot@base</a></td>
@@ -1820,6 +1995,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/polkadot.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/polkadot.svg" width="40px" height="40px"/></td>
   <td>Polkadot</td>
   <td>DOT</td>
   <td><a href="./crypto/polkadot@binance-smart-chain.json">polkadot@binance-smart-chain</a></td>
@@ -1831,6 +2007,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/polkadot.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/polkadot.svg" width="40px" height="40px"/></td>
   <td>Polkadot</td>
   <td>DOT</td>
   <td><a href="./crypto/polkadot@ethereum.json">polkadot@ethereum</a></td>
@@ -1842,6 +2019,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/polkadot.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/polkadot.svg" width="40px" height="40px"/></td>
   <td>Polkadot</td>
   <td>DOT</td>
   <td><a href="./crypto/polkadot@optimism.json">polkadot@optimism</a></td>
@@ -1853,6 +2031,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="9">36</td>
   <td><img src="logo/uniswap.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/uniswap.svg" width="40px" height="40px"/></td>
   <td>Uniswap</td>
   <td>UNI</td>
   <td><a href="./crypto/uniswap@arbitrum.json">uniswap@arbitrum</a></td>
@@ -1863,6 +2042,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/uniswap.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/uniswap.svg" width="40px" height="40px"/></td>
   <td>Uniswap</td>
   <td>UNI</td>
   <td><a href="./crypto/uniswap@avalanche-c-chain.json">uniswap@avalanche-c-chain</a></td>
@@ -1873,6 +2053,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/uniswap.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/uniswap.svg" width="40px" height="40px"/></td>
   <td>Uniswap</td>
   <td>UNI</td>
   <td><a href="./crypto/uniswap@binance-smart-chain.json">uniswap@binance-smart-chain</a></td>
@@ -1884,6 +2065,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/uniswap.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/uniswap.svg" width="40px" height="40px"/></td>
   <td>Uniswap</td>
   <td>UNI</td>
   <td><a href="./crypto/uniswap@ethereum.json">uniswap@ethereum</a></td>
@@ -1895,6 +2077,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/uniswap.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/uniswap.svg" width="40px" height="40px"/></td>
   <td>Uniswap</td>
   <td>UNI</td>
   <td><a href="./crypto/uniswap@near.json">uniswap@near</a></td>
@@ -1905,6 +2088,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/uniswap.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/uniswap.svg" width="40px" height="40px"/></td>
   <td>Uniswap</td>
   <td>UNI</td>
   <td><a href="./crypto/uniswap@polygon.json">uniswap@polygon</a></td>
@@ -1915,6 +2099,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/uniswap.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/uniswap.svg" width="40px" height="40px"/></td>
   <td>Uniswap</td>
   <td>UNI</td>
   <td><a href="./crypto/uniswap@solana.json">uniswap@solana</a></td>
@@ -1925,6 +2110,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/uniswap.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/uniswap.svg" width="40px" height="40px"/></td>
   <td>Uniswap</td>
   <td>UNI</td>
   <td><a href="./crypto/uniswap@terra.json">uniswap@terra</a></td>
@@ -1935,6 +2121,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/uniswap.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/uniswap.svg" width="40px" height="40px"/></td>
   <td>Uniswap</td>
   <td>UNI</td>
   <td><a href="./crypto/uniswap@uniswap.json">uniswap@uniswap</a></td>
@@ -1946,6 +2133,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="3">37</td>
   <td><img src="logo/mantle.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/mantle.svg" width="40px" height="40px"/></td>
   <td>Mantle</td>
   <td>MNT</td>
   <td><a href="./crypto/mantle@mantle.json">mantle@mantle</a></td>
@@ -1956,6 +2144,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/mantle.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/mantle.svg" width="40px" height="40px"/></td>
   <td>Mantle</td>
   <td>MNT</td>
   <td><a href="./crypto/mantle@ethereum.json">mantle@ethereum</a></td>
@@ -1967,6 +2156,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/mantle.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/mantle.svg" width="40px" height="40px"/></td>
   <td>Mantle</td>
   <td>MNT</td>
   <td><a href="./crypto/mantle@solana.json">mantle@solana</a></td>
@@ -1978,6 +2168,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="3">38</td>
   <td><img src="logo/world-liberty-financial.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/world-liberty-financial.svg" width="40px" height="40px"/></td>
   <td>World Liberty Financial</td>
   <td>WLFI</td>
   <td><a href="./crypto/world-liberty-financial@binance-smart-chain.json">world-liberty-financial@binance-smart-chain</a></td>
@@ -1989,6 +2180,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/world-liberty-financial.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/world-liberty-financial.svg" width="40px" height="40px"/></td>
   <td>World Liberty Financial</td>
   <td>WLFI</td>
   <td><a href="./crypto/world-liberty-financial@ethereum.json">world-liberty-financial@ethereum</a></td>
@@ -2000,6 +2192,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/world-liberty-financial.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/world-liberty-financial.svg" width="40px" height="40px"/></td>
   <td>World Liberty Financial</td>
   <td>WLFI</td>
   <td><a href="./crypto/world-liberty-financial@solana.json">world-liberty-financial@solana</a></td>
@@ -2011,6 +2204,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">39</td>
   <td><img src="logo/sky.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/sky.svg" width="40px" height="40px"/></td>
   <td>Sky</td>
   <td>SKY</td>
   <td><a href="./crypto/sky@ethereum.json">sky@ethereum</a></td>
@@ -2023,6 +2217,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">40</td>
   <td><img src="logo/pi.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/pi.svg" width="40px" height="40px"/></td>
   <td>Pi</td>
   <td>PI</td>
   <td><a href="./crypto/pi@pi.json">pi@pi</a></td>
@@ -2034,6 +2229,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">41</td>
   <td><img src="logo/okb.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/okb.svg" width="40px" height="40px"/></td>
   <td>OKB</td>
   <td>OKB</td>
   <td><a href="./crypto/okb@ethereum.json">okb@ethereum</a></td>
@@ -2046,6 +2242,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">42</td>
   <td><img src="logo/aster.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/aster.svg" width="40px" height="40px"/></td>
   <td>Aster</td>
   <td>ASTER</td>
   <td><a href="./crypto/aster@binance-smart-chain.json">aster@binance-smart-chain</a></td>
@@ -2058,6 +2255,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">43</td>
   <td><img src="logo/pepe.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/pepe.svg" width="40px" height="40px"/></td>
   <td>Pepe</td>
   <td>PEPE</td>
   <td><a href="./crypto/pepe@ethereum.json">pepe@ethereum</a></td>
@@ -2070,6 +2268,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="3">44</td>
   <td><img src="logo/near.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/near.svg" width="40px" height="40px"/></td>
   <td>NEAR Protocol</td>
   <td>NEAR</td>
   <td><a href="./crypto/near@near.json">near@near</a></td>
@@ -2080,6 +2279,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/near.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/near.svg" width="40px" height="40px"/></td>
   <td>NEAR Protocol</td>
   <td>NEAR</td>
   <td><a href="./crypto/near@binance-smart-chain.json">near@binance-smart-chain</a></td>
@@ -2091,6 +2291,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/near.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/near.svg" width="40px" height="40px"/></td>
   <td>NEAR Protocol</td>
   <td>NEAR</td>
   <td><a href="./crypto/near@ethereum.json">near@ethereum</a></td>
@@ -2103,6 +2304,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">45</td>
   <td><img src="logo/ondo.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ondo.svg" width="40px" height="40px"/></td>
   <td>Ondo</td>
   <td>ONDO</td>
   <td><a href="./crypto/ondo@ethereum.json">ondo@ethereum</a></td>
@@ -2115,6 +2317,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">46</td>
   <td><img src="logo/ripple-usd.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ripple-usd.svg" width="40px" height="40px"/></td>
   <td>Ripple USD</td>
   <td>RLUSD</td>
   <td><a href="./crypto/ripple-usd@ethereum.json">ripple-usd@ethereum</a></td>
@@ -2126,6 +2329,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/ripple-usd.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ripple-usd.svg" width="40px" height="40px"/></td>
   <td>Ripple USD</td>
   <td>RLUSD</td>
   <td><a href="./crypto/ripple-usd@ripple.json">ripple-usd@ripple</a></td>
@@ -2137,6 +2341,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="3">47</td>
   <td><img src="logo/usdd.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/usdd.svg" width="40px" height="40px"/></td>
   <td>USDD</td>
   <td>USDD</td>
   <td><a href="./crypto/usdd@binance-smart-chain.json">usdd@binance-smart-chain</a></td>
@@ -2148,6 +2353,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/usdd.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/usdd.svg" width="40px" height="40px"/></td>
   <td>USDD</td>
   <td>USDD</td>
   <td><a href="./crypto/usdd@ethereum.json">usdd@ethereum</a></td>
@@ -2159,6 +2365,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/usdd.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/usdd.svg" width="40px" height="40px"/></td>
   <td>USDD</td>
   <td>USDD</td>
   <td><a href="./crypto/usdd@tron.json">usdd@tron</a></td>
@@ -2170,6 +2377,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="8">48</td>
   <td><img src="logo/aave.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/aave.svg" width="40px" height="40px"/></td>
   <td>Aave</td>
   <td>AAVE</td>
   <td><a href="./crypto/aave@arbitrum.json">aave@arbitrum</a></td>
@@ -2180,6 +2388,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/aave.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/aave.svg" width="40px" height="40px"/></td>
   <td>Aave</td>
   <td>AAVE</td>
   <td><a href="./crypto/aave@avalanche-c-chain.json">aave@avalanche-c-chain</a></td>
@@ -2190,6 +2399,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/aave.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/aave.svg" width="40px" height="40px"/></td>
   <td>Aave</td>
   <td>AAVE</td>
   <td><a href="./crypto/aave@binance-smart-chain.json">aave@binance-smart-chain</a></td>
@@ -2201,6 +2411,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/aave.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/aave.svg" width="40px" height="40px"/></td>
   <td>Aave</td>
   <td>AAVE</td>
   <td><a href="./crypto/aave@ethereum.json">aave@ethereum</a></td>
@@ -2212,6 +2423,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/aave.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/aave.svg" width="40px" height="40px"/></td>
   <td>Aave</td>
   <td>AAVE</td>
   <td><a href="./crypto/aave@fantom.json">aave@fantom</a></td>
@@ -2222,6 +2434,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/aave.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/aave.svg" width="40px" height="40px"/></td>
   <td>Aave</td>
   <td>AAVE</td>
   <td><a href="./crypto/aave@near.json">aave@near</a></td>
@@ -2232,6 +2445,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/aave.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/aave.svg" width="40px" height="40px"/></td>
   <td>Aave</td>
   <td>AAVE</td>
   <td><a href="./crypto/aave@polygon.json">aave@polygon</a></td>
@@ -2242,6 +2456,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/aave.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/aave.svg" width="40px" height="40px"/></td>
   <td>Aave</td>
   <td>AAVE</td>
   <td><a href="./crypto/aave@solana.json">aave@solana</a></td>
@@ -2253,6 +2468,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">49</td>
   <td><img src="logo/bitget-token.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/bitget-token.svg" width="40px" height="40px"/></td>
   <td>Bitget Token</td>
   <td>BGB</td>
   <td><a href="./crypto/bitget-token@ethereum.json">bitget-token@ethereum</a></td>
@@ -2265,6 +2481,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="4">50</td>
   <td><img src="logo/internet-computer.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/internet-computer.svg" width="40px" height="40px"/></td>
   <td>Internet Computer</td>
   <td>ICP</td>
   <td><a href="./crypto/internet-computer@internet-computer.json">internet-computer@internet-computer</a></td>
@@ -2275,6 +2492,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/internet-computer.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/internet-computer.svg" width="40px" height="40px"/></td>
   <td>Internet Computer</td>
   <td>ICP</td>
   <td><a href="./crypto/internet-computer@arbitrum.json">internet-computer@arbitrum</a></td>
@@ -2285,6 +2503,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/internet-computer.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/internet-computer.svg" width="40px" height="40px"/></td>
   <td>Internet Computer</td>
   <td>ICP</td>
   <td><a href="./crypto/internet-computer@base.json">internet-computer@base</a></td>
@@ -2295,6 +2514,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/internet-computer.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/internet-computer.svg" width="40px" height="40px"/></td>
   <td>Internet Computer</td>
   <td>ICP</td>
   <td><a href="./crypto/internet-computer@ethereum.json">internet-computer@ethereum</a></td>
@@ -2307,6 +2527,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">51</td>
   <td><img src="logo/ethereum-classic.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ethereum-classic.svg" width="40px" height="40px"/></td>
   <td>Ethereum Classic</td>
   <td>ETC</td>
   <td><a href="./crypto/ethereum-classic@ethereum-classic.json">ethereum-classic@ethereum-classic</a></td>
@@ -2317,6 +2538,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/ethereum-classic.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ethereum-classic.svg" width="40px" height="40px"/></td>
   <td>Ethereum Classic</td>
   <td>ETC</td>
   <td><a href="./crypto/ethereum-classic@binance-smart-chain.json">ethereum-classic@binance-smart-chain</a></td>
@@ -2329,6 +2551,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">52</td>
   <td><img src="logo/kucoin-token.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/kucoin-token.svg" width="40px" height="40px"/></td>
   <td>KuCoin Token</td>
   <td>KCS</td>
   <td><a href="./crypto/kucoin-token@ethereum.json">kucoin-token@ethereum</a></td>
@@ -2339,19 +2562,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="1">53</td>
-  <td><img src="logo/algorand.svg" width="40px" height="40px"/></td>
-  <td>Algorand</td>
-  <td>ALGO</td>
-  <td><a href="./crypto/algorand@algorand.json">algorand@algorand</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/algorand">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/algorand/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="3">54</td>
+  <td rowspan="3">53</td>
   <td><img src="logo/morpho.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/morpho.svg" width="40px" height="40px"/></td>
   <td>Morpho</td>
   <td>MORPHO</td>
   <td><a href="./crypto/morpho@arbitrum.json">morpho@arbitrum</a></td>
@@ -2362,6 +2575,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/morpho.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/morpho.svg" width="40px" height="40px"/></td>
   <td>Morpho</td>
   <td>MORPHO</td>
   <td><a href="./crypto/morpho@base.json">morpho@base</a></td>
@@ -2372,6 +2586,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/morpho.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/morpho.svg" width="40px" height="40px"/></td>
   <td>Morpho</td>
   <td>MORPHO</td>
   <td><a href="./crypto/morpho@ethereum.json">morpho@ethereum</a></td>
@@ -2382,8 +2597,21 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
+  <td rowspan="1">54</td>
+  <td><img src="logo/algorand.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/algorand.svg" width="40px" height="40px"/></td>
+  <td>Algorand</td>
+  <td>ALGO</td>
+  <td><a href="./crypto/algorand@algorand.json">algorand@algorand</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/algorand">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/algorand/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
   <td rowspan="2">55</td>
   <td><img src="logo/polygon.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/polygon.svg" width="40px" height="40px"/></td>
   <td>Polygon</td>
   <td>POL</td>
   <td><a href="./crypto/polygon@polygon.json">polygon@polygon</a></td>
@@ -2394,6 +2622,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/polygon.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/polygon.svg" width="40px" height="40px"/></td>
   <td>Polygon</td>
   <td>POL</td>
   <td><a href="./crypto/polygon@ethereum.json">polygon@ethereum</a></td>
@@ -2406,6 +2635,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="3">56</td>
   <td><img src="logo/united-stables.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/united-stables.svg" width="40px" height="40px"/></td>
   <td>United Stables</td>
   <td>U</td>
   <td><a href="./crypto/united-stables@binance-smart-chain.json">united-stables@binance-smart-chain</a></td>
@@ -2417,6 +2647,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/united-stables.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/united-stables.svg" width="40px" height="40px"/></td>
   <td>United Stables</td>
   <td>U</td>
   <td><a href="./crypto/united-stables@ethereum.json">united-stables@ethereum</a></td>
@@ -2428,6 +2659,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/united-stables.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/united-stables.svg" width="40px" height="40px"/></td>
   <td>United Stables</td>
   <td>U</td>
   <td><a href="./crypto/united-stables@tron.json">united-stables@tron</a></td>
@@ -2439,6 +2671,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">57</td>
   <td><img src="logo/ethena.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ethena.svg" width="40px" height="40px"/></td>
   <td>Ethena</td>
   <td>ENA</td>
   <td><a href="./crypto/ethena@ethereum.json">ethena@ethereum</a></td>
@@ -2451,6 +2684,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="3">58</td>
   <td><img src="logo/render-token.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/render-token.svg" width="40px" height="40px"/></td>
   <td>Render</td>
   <td>RENDER</td>
   <td><a href="./crypto/render-token@ethereum.json">render-token@ethereum</a></td>
@@ -2462,6 +2696,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/render-token.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/render-token.svg" width="40px" height="40px"/></td>
   <td>Render</td>
   <td>RENDER</td>
   <td><a href="./crypto/render-token@polygon.json">render-token@polygon</a></td>
@@ -2472,6 +2707,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/render-token.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/render-token.svg" width="40px" height="40px"/></td>
   <td>Render</td>
   <td>RENDER</td>
   <td><a href="./crypto/render-token@solana.json">render-token@solana</a></td>
@@ -2483,6 +2719,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="5">59</td>
   <td><img src="logo/cosmos.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/cosmos.svg" width="40px" height="40px"/></td>
   <td>Cosmos</td>
   <td>ATOM</td>
   <td><a href="./crypto/cosmos@cosmos.json">cosmos@cosmos</a></td>
@@ -2493,6 +2730,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/cosmos.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/cosmos.svg" width="40px" height="40px"/></td>
   <td>Cosmos</td>
   <td>ATOM</td>
   <td><a href="./crypto/cosmos@binance-smart-chain.json">cosmos@binance-smart-chain</a></td>
@@ -2504,6 +2742,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/cosmos.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/cosmos.svg" width="40px" height="40px"/></td>
   <td>Cosmos</td>
   <td>ATOM</td>
   <td><a href="./crypto/cosmos@cronos.json">cosmos@cronos</a></td>
@@ -2514,6 +2753,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/cosmos.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/cosmos.svg" width="40px" height="40px"/></td>
   <td>Cosmos</td>
   <td>ATOM</td>
   <td><a href="./crypto/cosmos@ethereum.json">cosmos@ethereum</a></td>
@@ -2525,6 +2765,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/cosmos.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/cosmos.svg" width="40px" height="40px"/></td>
   <td>Cosmos</td>
   <td>ATOM</td>
   <td><a href="./crypto/cosmos@polygon.json">cosmos@polygon</a></td>
@@ -2536,6 +2777,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">60</td>
   <td><img src="logo/kaspa.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/kaspa.svg" width="40px" height="40px"/></td>
   <td>Kaspa</td>
   <td>KAS</td>
   <td><a href="./crypto/kaspa@kaspa.json">kaspa@kaspa</a></td>
@@ -2547,6 +2789,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">61</td>
   <td><img src="logo/dexe.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/dexe.svg" width="40px" height="40px"/></td>
   <td>DeXe</td>
   <td>DEXE</td>
   <td><a href="./crypto/dexe@binance-smart-chain.json">dexe@binance-smart-chain</a></td>
@@ -2558,6 +2801,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/dexe.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/dexe.svg" width="40px" height="40px"/></td>
   <td>DeXe</td>
   <td>DEXE</td>
   <td><a href="./crypto/dexe@ethereum.json">dexe@ethereum</a></td>
@@ -2570,6 +2814,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">62</td>
   <td><img src="logo/gatetoken.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/gatetoken.svg" width="40px" height="40px"/></td>
   <td>GateToken</td>
   <td>GT</td>
   <td><a href="./crypto/gatetoken@ethereum.json">gatetoken@ethereum</a></td>
@@ -2581,6 +2826,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/gatetoken.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/gatetoken.svg" width="40px" height="40px"/></td>
   <td>GateToken</td>
   <td>GT</td>
   <td><a href="./crypto/gatetoken@solana.json">gatetoken@solana</a></td>
@@ -2592,6 +2838,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">63</td>
   <td><img src="logo/quant.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/quant.svg" width="40px" height="40px"/></td>
   <td>Quant</td>
   <td>QNT</td>
   <td><a href="./crypto/quant@ethereum.json">quant@ethereum</a></td>
@@ -2604,6 +2851,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="3">64</td>
   <td><img src="logo/worldcoin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/worldcoin.svg" width="40px" height="40px"/></td>
   <td>Worldcoin</td>
   <td>WLD</td>
   <td><a href="./crypto/worldcoin@ethereum.json">worldcoin@ethereum</a></td>
@@ -2615,6 +2863,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/worldcoin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/worldcoin.svg" width="40px" height="40px"/></td>
   <td>Worldcoin</td>
   <td>WLD</td>
   <td><a href="./crypto/worldcoin@optimism.json">worldcoin@optimism</a></td>
@@ -2625,6 +2874,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/worldcoin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/worldcoin.svg" width="40px" height="40px"/></td>
   <td>Worldcoin</td>
   <td>WLD</td>
   <td><a href="./crypto/worldcoin@worldcoin.json">worldcoin@worldcoin</a></td>
@@ -2636,6 +2886,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">65</td>
   <td><img src="logo/aptos.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/aptos.svg" width="40px" height="40px"/></td>
   <td>Aptos</td>
   <td>APT</td>
   <td><a href="./crypto/aptos@aptos.json">aptos@aptos</a></td>
@@ -2647,6 +2898,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">66</td>
   <td><img src="logo/stable.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/stable.svg" width="40px" height="40px"/></td>
   <td>Stable</td>
   <td>STABLE</td>
   <td><a href="./crypto/stable@stable.json">stable@stable</a></td>
@@ -2657,6 +2909,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/stable.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/stable.svg" width="40px" height="40px"/></td>
   <td>Stable</td>
   <td>STABLE</td>
   <td><a href="./crypto/stable@binance-smart-chain.json">stable@binance-smart-chain</a></td>
@@ -2669,6 +2922,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">67</td>
   <td><img src="logo/filecoin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/filecoin.svg" width="40px" height="40px"/></td>
   <td>Filecoin</td>
   <td>FIL</td>
   <td><a href="./crypto/filecoin@filecoin.json">filecoin@filecoin</a></td>
@@ -2679,6 +2933,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/filecoin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/filecoin.svg" width="40px" height="40px"/></td>
   <td>Filecoin</td>
   <td>FIL</td>
   <td><a href="./crypto/filecoin@binance-smart-chain.json">filecoin@binance-smart-chain</a></td>
@@ -2691,6 +2946,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">68</td>
   <td><img src="logo/arbitrum.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/arbitrum.svg" width="40px" height="40px"/></td>
   <td>Arbitrum</td>
   <td>ARB</td>
   <td><a href="./crypto/arbitrum@arbitrum.json">arbitrum@arbitrum</a></td>
@@ -2701,6 +2957,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/arbitrum.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/arbitrum.svg" width="40px" height="40px"/></td>
   <td>Arbitrum</td>
   <td>ARB</td>
   <td><a href="./crypto/arbitrum@ethereum.json">arbitrum@ethereum</a></td>
@@ -2711,19 +2968,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="1">69</td>
-  <td><img src="logo/just.svg" width="40px" height="40px"/></td>
-  <td>JUST</td>
-  <td>JST</td>
-  <td><a href="./crypto/just@tron.json">just@tron</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/just">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/just/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="3">70</td>
+  <td rowspan="3">69</td>
   <td><img src="logo/pudgy-penguins.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/pudgy-penguins.svg" width="40px" height="40px"/></td>
   <td>Pudgy Penguins</td>
   <td>PENGU</td>
   <td><a href="./crypto/pudgy-penguins@binance-smart-chain.json">pudgy-penguins@binance-smart-chain</a></td>
@@ -2735,6 +2982,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/pudgy-penguins.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/pudgy-penguins.svg" width="40px" height="40px"/></td>
   <td>Pudgy Penguins</td>
   <td>PENGU</td>
   <td><a href="./crypto/pudgy-penguins@ethereum.json">pudgy-penguins@ethereum</a></td>
@@ -2746,6 +2994,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/pudgy-penguins.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/pudgy-penguins.svg" width="40px" height="40px"/></td>
   <td>Pudgy Penguins</td>
   <td>PENGU</td>
   <td><a href="./crypto/pudgy-penguins@solana.json">pudgy-penguins@solana</a></td>
@@ -2755,8 +3004,21 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
+  <td rowspan="1">70</td>
+  <td><img src="logo/just.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/just.svg" width="40px" height="40px"/></td>
+  <td>JUST</td>
+  <td>JST</td>
+  <td><a href="./crypto/just@tron.json">just@tron</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/just">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/just/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
   <td rowspan="1">71</td>
   <td><img src="logo/flare.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/flare.svg" width="40px" height="40px"/></td>
   <td>Flare</td>
   <td>FLR</td>
   <td><a href="./crypto/flare@flare.json">flare@flare</a></td>
@@ -2766,19 +3028,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="1">72</td>
-  <td><img src="logo/jupiter.svg" width="40px" height="40px"/></td>
-  <td>Jupiter</td>
-  <td>JUP</td>
-  <td><a href="./crypto/jupiter@solana.json">jupiter@solana</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/jupiter-exchange-solana">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/jupiter-ag/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="2">73</td>
+  <td rowspan="2">72</td>
   <td><img src="logo/vechain.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/vechain.svg" width="40px" height="40px"/></td>
   <td>VeChain</td>
   <td>VET</td>
   <td><a href="./crypto/vechain@vechain.json">vechain@vechain</a></td>
@@ -2789,6 +3041,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/vechain.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/vechain.svg" width="40px" height="40px"/></td>
   <td>VeChain</td>
   <td>VET</td>
   <td><a href="./crypto/vechain@binance-smart-chain.json">vechain@binance-smart-chain</a></td>
@@ -2799,19 +3052,21 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="1">74</td>
-  <td><img src="logo/pump-fun.svg" width="40px" height="40px"/></td>
-  <td>Pump.fun</td>
-  <td>PUMP</td>
-  <td><a href="./crypto/pump-fun@solana.json">pump-fun@solana</a></td>
+  <td rowspan="1">73</td>
+  <td><img src="logo/jupiter.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/jupiter.svg" width="40px" height="40px"/></td>
+  <td>Jupiter</td>
+  <td>JUP</td>
+  <td><a href="./crypto/jupiter@solana.json">jupiter@solana</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/pump-fun">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/pump-fun/">Coinmarketcap</a><br>
+    <a href="https://www.coingecko.com/en/coins/jupiter-exchange-solana">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/jupiter-ag/">Coinmarketcap</a><br>
   </td>
 </tr>
 <tr>
-  <td rowspan="1">75</td>
+  <td rowspan="1">74</td>
   <td><img src="logo/skyai.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/skyai.svg" width="40px" height="40px"/></td>
   <td>SKYAI</td>
   <td>SKYAI</td>
   <td><a href="./crypto/skyai@binance-smart-chain.json">skyai@binance-smart-chain</a></td>
@@ -2822,8 +3077,21 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
+  <td rowspan="1">75</td>
+  <td><img src="logo/pump-fun.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/pump-fun.svg" width="40px" height="40px"/></td>
+  <td>Pump.fun</td>
+  <td>PUMP</td>
+  <td><a href="./crypto/pump-fun@solana.json">pump-fun@solana</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/pump-fun">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/pump-fun/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
   <td rowspan="1">76</td>
   <td><img src="logo/xdc-network.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/xdc-network.svg" width="40px" height="40px"/></td>
   <td>XDC Network</td>
   <td>XDC</td>
   <td><a href="./crypto/xdc-network@xdc-network.json">xdc-network@xdc-network</a></td>
@@ -2835,6 +3103,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">77</td>
   <td><img src="logo/nexo.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/nexo.svg" width="40px" height="40px"/></td>
   <td>Nexo</td>
   <td>NEXO</td>
   <td><a href="./crypto/nexo@ethereum.json">nexo@ethereum</a></td>
@@ -2846,6 +3115,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/nexo.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/nexo.svg" width="40px" height="40px"/></td>
   <td>Nexo</td>
   <td>NEXO</td>
   <td><a href="./crypto/nexo@polygon.json">nexo@polygon</a></td>
@@ -2855,8 +3125,21 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="7">78</td>
+  <td rowspan="1">78</td>
+  <td><img src="logo/dash.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/dash.svg" width="40px" height="40px"/></td>
+  <td>Dash</td>
+  <td>DASH</td>
+  <td><a href="./crypto/dash@dash.json">dash@dash</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/dash">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/dash/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="7">79</td>
   <td><img src="logo/bonk.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/bonk.svg" width="40px" height="40px"/></td>
   <td>Bonk</td>
   <td>BONK</td>
   <td><a href="./crypto/bonk@aptos.json">bonk@aptos</a></td>
@@ -2867,6 +3150,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/bonk.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/bonk.svg" width="40px" height="40px"/></td>
   <td>Bonk</td>
   <td>BONK</td>
   <td><a href="./crypto/bonk@arbitrum.json">bonk@arbitrum</a></td>
@@ -2877,6 +3161,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/bonk.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/bonk.svg" width="40px" height="40px"/></td>
   <td>Bonk</td>
   <td>BONK</td>
   <td><a href="./crypto/bonk@base.json">bonk@base</a></td>
@@ -2887,6 +3172,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/bonk.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/bonk.svg" width="40px" height="40px"/></td>
   <td>Bonk</td>
   <td>BONK</td>
   <td><a href="./crypto/bonk@binance-smart-chain.json">bonk@binance-smart-chain</a></td>
@@ -2898,6 +3184,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/bonk.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/bonk.svg" width="40px" height="40px"/></td>
   <td>Bonk</td>
   <td>BONK</td>
   <td><a href="./crypto/bonk@ethereum.json">bonk@ethereum</a></td>
@@ -2909,6 +3196,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/bonk.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/bonk.svg" width="40px" height="40px"/></td>
   <td>Bonk</td>
   <td>BONK</td>
   <td><a href="./crypto/bonk@polygon.json">bonk@polygon</a></td>
@@ -2919,6 +3207,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/bonk.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/bonk.svg" width="40px" height="40px"/></td>
   <td>Bonk</td>
   <td>BONK</td>
   <td><a href="./crypto/bonk@solana.json">bonk@solana</a></td>
@@ -2928,19 +3217,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="1">79</td>
-  <td><img src="logo/dash.svg" width="40px" height="40px"/></td>
-  <td>Dash</td>
-  <td>DASH</td>
-  <td><a href="./crypto/dash@dash.json">dash@dash</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/dash">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/dash/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
   <td rowspan="6">80</td>
   <td><img src="logo/terra.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/terra.svg" width="40px" height="40px"/></td>
   <td>Terra Classic</td>
   <td>LUNC</td>
   <td><a href="./crypto/terra@terra.json">terra@terra</a></td>
@@ -2951,6 +3230,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/terra.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/terra.svg" width="40px" height="40px"/></td>
   <td>Terra Classic</td>
   <td>LUNC</td>
   <td><a href="./crypto/terra@avalanche-c-chain.json">terra@avalanche-c-chain</a></td>
@@ -2961,6 +3241,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/terra.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/terra.svg" width="40px" height="40px"/></td>
   <td>Terra Classic</td>
   <td>LUNC</td>
   <td><a href="./crypto/terra@binance-smart-chain.json">terra@binance-smart-chain</a></td>
@@ -2972,6 +3253,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/terra.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/terra.svg" width="40px" height="40px"/></td>
   <td>Terra Classic</td>
   <td>LUNC</td>
   <td><a href="./crypto/terra@ethereum.json">terra@ethereum</a></td>
@@ -2983,6 +3265,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/terra.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/terra.svg" width="40px" height="40px"/></td>
   <td>Terra Classic</td>
   <td>LUNC</td>
   <td><a href="./crypto/terra@polygon.json">terra@polygon</a></td>
@@ -2993,6 +3276,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/terra.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/terra.svg" width="40px" height="40px"/></td>
   <td>Terra Classic</td>
   <td>LUNC</td>
   <td><a href="./crypto/terra@solana.json">terra@solana</a></td>
@@ -3004,6 +3288,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">81</td>
   <td><img src="logo/official-trump.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/official-trump.svg" width="40px" height="40px"/></td>
   <td>OFFICIAL TRUMP</td>
   <td>TRUMP</td>
   <td><a href="./crypto/official-trump@solana.json">official-trump@solana</a></td>
@@ -3015,6 +3300,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">82</td>
   <td><img src="logo/siren.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/siren.svg" width="40px" height="40px"/></td>
   <td>siren</td>
   <td>SIREN</td>
   <td><a href="./crypto/siren@binance-smart-chain.json">siren@binance-smart-chain</a></td>
@@ -3027,6 +3313,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">83</td>
   <td><img src="logo/humanity-protocol.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/humanity-protocol.svg" width="40px" height="40px"/></td>
   <td>Humanity</td>
   <td>H</td>
   <td><a href="./crypto/humanity-protocol@binance-smart-chain.json">humanity-protocol@binance-smart-chain</a></td>
@@ -3038,6 +3325,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/humanity-protocol.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/humanity-protocol.svg" width="40px" height="40px"/></td>
   <td>Humanity</td>
   <td>H</td>
   <td><a href="./crypto/humanity-protocol@ethereum.json">humanity-protocol@ethereum</a></td>
@@ -3050,6 +3338,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">84</td>
   <td><img src="logo/midnight.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/midnight.svg" width="40px" height="40px"/></td>
   <td>Midnight</td>
   <td>NIGHT</td>
   <td><a href="./crypto/midnight@binance-smart-chain.json">midnight@binance-smart-chain</a></td>
@@ -3061,6 +3350,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/midnight.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/midnight.svg" width="40px" height="40px"/></td>
   <td>Midnight</td>
   <td>NIGHT</td>
   <td><a href="./crypto/midnight@cardano.json">midnight@cardano</a></td>
@@ -3070,81 +3360,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="7">85</td>
-  <td><img src="logo/pancakeswap.svg" width="40px" height="40px"/></td>
-  <td>PancakeSwap</td>
-  <td>CAKE</td>
-  <td><a href="./crypto/pancakeswap@aptos.json">pancakeswap@aptos</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/pancakeswap-token">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/pancakeswap/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td><img src="logo/pancakeswap.svg" width="40px" height="40px"/></td>
-  <td>PancakeSwap</td>
-  <td>CAKE</td>
-  <td><a href="./crypto/pancakeswap@arbitrum.json">pancakeswap@arbitrum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/pancakeswap-token">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/pancakeswap/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td><img src="logo/pancakeswap.svg" width="40px" height="40px"/></td>
-  <td>PancakeSwap</td>
-  <td>CAKE</td>
-  <td><a href="./crypto/pancakeswap@base.json">pancakeswap@base</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/pancakeswap-token">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/pancakeswap/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td><img src="logo/pancakeswap.svg" width="40px" height="40px"/></td>
-  <td>PancakeSwap</td>
-  <td>CAKE</td>
-  <td><a href="./crypto/pancakeswap@binance-smart-chain.json">pancakeswap@binance-smart-chain</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/pancakeswap-token">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/pancakeswap/">Coinmarketcap</a><br>
-    <a href="https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82">BscScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td><img src="logo/pancakeswap.svg" width="40px" height="40px"/></td>
-  <td>PancakeSwap</td>
-  <td>CAKE</td>
-  <td><a href="./crypto/pancakeswap@ethereum.json">pancakeswap@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/pancakeswap-token">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/pancakeswap/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x152649ea73beab28c5b49b26eb48f7ead6d4c898">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td><img src="logo/pancakeswap.svg" width="40px" height="40px"/></td>
-  <td>PancakeSwap</td>
-  <td>CAKE</td>
-  <td><a href="./crypto/pancakeswap@linea.json">pancakeswap@linea</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/pancakeswap-token">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/pancakeswap/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td><img src="logo/pancakeswap.svg" width="40px" height="40px"/></td>
-  <td>PancakeSwap</td>
-  <td>CAKE</td>
-  <td><a href="./crypto/pancakeswap@solana.json">pancakeswap@solana</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/pancakeswap-token">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/pancakeswap/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="3">86</td>
+  <td rowspan="3">85</td>
   <td><img src="logo/virtuals-protocol.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/virtuals-protocol.svg" width="40px" height="40px"/></td>
   <td>Virtuals Protocol</td>
   <td>VIRTUAL</td>
   <td><a href="./crypto/virtuals-protocol@base.json">virtuals-protocol@base</a></td>
@@ -3155,6 +3373,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/virtuals-protocol.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/virtuals-protocol.svg" width="40px" height="40px"/></td>
   <td>Virtuals Protocol</td>
   <td>VIRTUAL</td>
   <td><a href="./crypto/virtuals-protocol@ethereum.json">virtuals-protocol@ethereum</a></td>
@@ -3166,6 +3385,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/virtuals-protocol.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/virtuals-protocol.svg" width="40px" height="40px"/></td>
   <td>Virtuals Protocol</td>
   <td>VIRTUAL</td>
   <td><a href="./crypto/virtuals-protocol@solana.json">virtuals-protocol@solana</a></td>
@@ -3175,8 +3395,89 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
+  <td rowspan="7">86</td>
+  <td><img src="logo/pancakeswap.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/pancakeswap.svg" width="40px" height="40px"/></td>
+  <td>PancakeSwap</td>
+  <td>CAKE</td>
+  <td><a href="./crypto/pancakeswap@aptos.json">pancakeswap@aptos</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/pancakeswap-token">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/pancakeswap/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td><img src="logo/pancakeswap.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/pancakeswap.svg" width="40px" height="40px"/></td>
+  <td>PancakeSwap</td>
+  <td>CAKE</td>
+  <td><a href="./crypto/pancakeswap@arbitrum.json">pancakeswap@arbitrum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/pancakeswap-token">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/pancakeswap/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td><img src="logo/pancakeswap.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/pancakeswap.svg" width="40px" height="40px"/></td>
+  <td>PancakeSwap</td>
+  <td>CAKE</td>
+  <td><a href="./crypto/pancakeswap@base.json">pancakeswap@base</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/pancakeswap-token">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/pancakeswap/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td><img src="logo/pancakeswap.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/pancakeswap.svg" width="40px" height="40px"/></td>
+  <td>PancakeSwap</td>
+  <td>CAKE</td>
+  <td><a href="./crypto/pancakeswap@binance-smart-chain.json">pancakeswap@binance-smart-chain</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/pancakeswap-token">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/pancakeswap/">Coinmarketcap</a><br>
+    <a href="https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82">BscScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td><img src="logo/pancakeswap.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/pancakeswap.svg" width="40px" height="40px"/></td>
+  <td>PancakeSwap</td>
+  <td>CAKE</td>
+  <td><a href="./crypto/pancakeswap@ethereum.json">pancakeswap@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/pancakeswap-token">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/pancakeswap/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x152649ea73beab28c5b49b26eb48f7ead6d4c898">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td><img src="logo/pancakeswap.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/pancakeswap.svg" width="40px" height="40px"/></td>
+  <td>PancakeSwap</td>
+  <td>CAKE</td>
+  <td><a href="./crypto/pancakeswap@linea.json">pancakeswap@linea</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/pancakeswap-token">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/pancakeswap/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td><img src="logo/pancakeswap.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/pancakeswap.svg" width="40px" height="40px"/></td>
+  <td>PancakeSwap</td>
+  <td>CAKE</td>
+  <td><a href="./crypto/pancakeswap@solana.json">pancakeswap@solana</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/pancakeswap-token">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/pancakeswap/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
   <td rowspan="5">87</td>
   <td><img src="logo/trueusd.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/trueusd.svg" width="40px" height="40px"/></td>
   <td>TrueUSD</td>
   <td>TUSD</td>
   <td><a href="./crypto/trueusd@arbitrum.json">trueusd@arbitrum</a></td>
@@ -3187,6 +3488,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/trueusd.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/trueusd.svg" width="40px" height="40px"/></td>
   <td>TrueUSD</td>
   <td>TUSD</td>
   <td><a href="./crypto/trueusd@avalanche-c-chain.json">trueusd@avalanche-c-chain</a></td>
@@ -3197,6 +3499,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/trueusd.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/trueusd.svg" width="40px" height="40px"/></td>
   <td>TrueUSD</td>
   <td>TUSD</td>
   <td><a href="./crypto/trueusd@binance-smart-chain.json">trueusd@binance-smart-chain</a></td>
@@ -3208,6 +3511,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/trueusd.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/trueusd.svg" width="40px" height="40px"/></td>
   <td>TrueUSD</td>
   <td>TUSD</td>
   <td><a href="./crypto/trueusd@ethereum.json">trueusd@ethereum</a></td>
@@ -3219,6 +3523,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/trueusd.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/trueusd.svg" width="40px" height="40px"/></td>
   <td>TrueUSD</td>
   <td>TUSD</td>
   <td><a href="./crypto/trueusd@tron.json">trueusd@tron</a></td>
@@ -3230,6 +3535,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="4">88</td>
   <td><img src="logo/fetch-ai.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/fetch-ai.svg" width="40px" height="40px"/></td>
   <td>Artificial Superintelligence Alliance</td>
   <td>FET</td>
   <td><a href="./crypto/fetch-ai@fetch-ai.json">fetch-ai@fetch-ai</a></td>
@@ -3240,6 +3546,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/fetch-ai.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/fetch-ai.svg" width="40px" height="40px"/></td>
   <td>Artificial Superintelligence Alliance</td>
   <td>FET</td>
   <td><a href="./crypto/fetch-ai@binance-smart-chain.json">fetch-ai@binance-smart-chain</a></td>
@@ -3251,6 +3558,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/fetch-ai.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/fetch-ai.svg" width="40px" height="40px"/></td>
   <td>Artificial Superintelligence Alliance</td>
   <td>FET</td>
   <td><a href="./crypto/fetch-ai@cosmos.json">fetch-ai@cosmos</a></td>
@@ -3261,6 +3569,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/fetch-ai.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/fetch-ai.svg" width="40px" height="40px"/></td>
   <td>Artificial Superintelligence Alliance</td>
   <td>FET</td>
   <td><a href="./crypto/fetch-ai@ethereum.json">fetch-ai@ethereum</a></td>
@@ -3273,6 +3582,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="7">89</td>
   <td><img src="logo/layerzero.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/layerzero.svg" width="40px" height="40px"/></td>
   <td>LayerZero</td>
   <td>ZRO</td>
   <td><a href="./crypto/layerzero@arbitrum.json">layerzero@arbitrum</a></td>
@@ -3283,6 +3593,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/layerzero.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/layerzero.svg" width="40px" height="40px"/></td>
   <td>LayerZero</td>
   <td>ZRO</td>
   <td><a href="./crypto/layerzero@avalanche-c-chain.json">layerzero@avalanche-c-chain</a></td>
@@ -3293,6 +3604,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/layerzero.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/layerzero.svg" width="40px" height="40px"/></td>
   <td>LayerZero</td>
   <td>ZRO</td>
   <td><a href="./crypto/layerzero@base.json">layerzero@base</a></td>
@@ -3303,6 +3615,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/layerzero.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/layerzero.svg" width="40px" height="40px"/></td>
   <td>LayerZero</td>
   <td>ZRO</td>
   <td><a href="./crypto/layerzero@binance-smart-chain.json">layerzero@binance-smart-chain</a></td>
@@ -3314,6 +3627,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/layerzero.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/layerzero.svg" width="40px" height="40px"/></td>
   <td>LayerZero</td>
   <td>ZRO</td>
   <td><a href="./crypto/layerzero@ethereum.json">layerzero@ethereum</a></td>
@@ -3325,6 +3639,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/layerzero.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/layerzero.svg" width="40px" height="40px"/></td>
   <td>LayerZero</td>
   <td>ZRO</td>
   <td><a href="./crypto/layerzero@optimism.json">layerzero@optimism</a></td>
@@ -3335,6 +3650,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/layerzero.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/layerzero.svg" width="40px" height="40px"/></td>
   <td>LayerZero</td>
   <td>ZRO</td>
   <td><a href="./crypto/layerzero@polygon.json">layerzero@polygon</a></td>
@@ -3346,6 +3662,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">90</td>
   <td><img src="logo/edgex.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/edgex.svg" width="40px" height="40px"/></td>
   <td>edgeX</td>
   <td>EDGE</td>
   <td><a href="./crypto/edgex@binance-smart-chain.json">edgex@binance-smart-chain</a></td>
@@ -3357,6 +3674,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/edgex.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/edgex.svg" width="40px" height="40px"/></td>
   <td>edgeX</td>
   <td>EDGE</td>
   <td><a href="./crypto/edgex@ethereum.json">edgex@ethereum</a></td>
@@ -3369,6 +3687,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">91</td>
   <td><img src="logo/venice-token.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/venice-token.svg" width="40px" height="40px"/></td>
   <td>Venice Token</td>
   <td>VVV</td>
   <td><a href="./crypto/venice-token@base.json">venice-token@base</a></td>
@@ -3380,6 +3699,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="3">92</td>
   <td><img src="logo/chiliz.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/chiliz.svg" width="40px" height="40px"/></td>
   <td>Chiliz</td>
   <td>CHZ</td>
   <td><a href="./crypto/chiliz@base.json">chiliz@base</a></td>
@@ -3390,6 +3710,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/chiliz.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/chiliz.svg" width="40px" height="40px"/></td>
   <td>Chiliz</td>
   <td>CHZ</td>
   <td><a href="./crypto/chiliz@ethereum.json">chiliz@ethereum</a></td>
@@ -3401,6 +3722,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/chiliz.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/chiliz.svg" width="40px" height="40px"/></td>
   <td>Chiliz</td>
   <td>CHZ</td>
   <td><a href="./crypto/chiliz@solana.json">chiliz@solana</a></td>
@@ -3412,6 +3734,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="6">93</td>
   <td><img src="logo/euro-coin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/euro-coin.svg" width="40px" height="40px"/></td>
   <td>EURC</td>
   <td>EURC</td>
   <td><a href="./crypto/euro-coin@avalanche-c-chain.json">euro-coin@avalanche-c-chain</a></td>
@@ -3422,6 +3745,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/euro-coin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/euro-coin.svg" width="40px" height="40px"/></td>
   <td>EURC</td>
   <td>EURC</td>
   <td><a href="./crypto/euro-coin@base.json">euro-coin@base</a></td>
@@ -3432,6 +3756,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/euro-coin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/euro-coin.svg" width="40px" height="40px"/></td>
   <td>EURC</td>
   <td>EURC</td>
   <td><a href="./crypto/euro-coin@ethereum.json">euro-coin@ethereum</a></td>
@@ -3443,6 +3768,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/euro-coin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/euro-coin.svg" width="40px" height="40px"/></td>
   <td>EURC</td>
   <td>EURC</td>
   <td><a href="./crypto/euro-coin@solana.json">euro-coin@solana</a></td>
@@ -3453,6 +3779,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/euro-coin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/euro-coin.svg" width="40px" height="40px"/></td>
   <td>EURC</td>
   <td>EURC</td>
   <td><a href="./crypto/euro-coin@sonic.json">euro-coin@sonic</a></td>
@@ -3463,6 +3790,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/euro-coin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/euro-coin.svg" width="40px" height="40px"/></td>
   <td>EURC</td>
   <td>EURC</td>
   <td><a href="./crypto/euro-coin@stellar.json">euro-coin@stellar</a></td>
@@ -3474,6 +3802,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">94</td>
   <td><img src="logo/aerodrome-finance.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/aerodrome-finance.svg" width="40px" height="40px"/></td>
   <td>Aerodrome Finance</td>
   <td>AERO</td>
   <td><a href="./crypto/aerodrome-finance@base.json">aerodrome-finance@base</a></td>
@@ -3485,6 +3814,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">95</td>
   <td><img src="logo/stacks.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/stacks.svg" width="40px" height="40px"/></td>
   <td>Stacks</td>
   <td>STX</td>
   <td><a href="./crypto/stacks@stacks.json">stacks@stacks</a></td>
@@ -3496,6 +3826,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">96</td>
   <td><img src="logo/sei.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/sei.svg" width="40px" height="40px"/></td>
   <td>Sei</td>
   <td>SEI</td>
   <td><a href="./crypto/sei@sei.json">sei@sei</a></td>
@@ -3507,6 +3838,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">97</td>
   <td><img src="logo/tezos.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/tezos.svg" width="40px" height="40px"/></td>
   <td>Tezos</td>
   <td>XTZ</td>
   <td><a href="./crypto/tezos@tezos.json">tezos@tezos</a></td>
@@ -3517,6 +3849,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/tezos.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/tezos.svg" width="40px" height="40px"/></td>
   <td>Tezos</td>
   <td>XTZ</td>
   <td><a href="./crypto/tezos@binance-smart-chain.json">tezos@binance-smart-chain</a></td>
@@ -3529,6 +3862,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="6">98</td>
   <td><img src="logo/first-digital-usd.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/first-digital-usd.svg" width="40px" height="40px"/></td>
   <td>First Digital USD</td>
   <td>FDUSD</td>
   <td><a href="./crypto/first-digital-usd@arbitrum.json">first-digital-usd@arbitrum</a></td>
@@ -3539,6 +3873,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/first-digital-usd.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/first-digital-usd.svg" width="40px" height="40px"/></td>
   <td>First Digital USD</td>
   <td>FDUSD</td>
   <td><a href="./crypto/first-digital-usd@binance-smart-chain.json">first-digital-usd@binance-smart-chain</a></td>
@@ -3550,6 +3885,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/first-digital-usd.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/first-digital-usd.svg" width="40px" height="40px"/></td>
   <td>First Digital USD</td>
   <td>FDUSD</td>
   <td><a href="./crypto/first-digital-usd@ethereum.json">first-digital-usd@ethereum</a></td>
@@ -3561,6 +3897,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/first-digital-usd.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/first-digital-usd.svg" width="40px" height="40px"/></td>
   <td>First Digital USD</td>
   <td>FDUSD</td>
   <td><a href="./crypto/first-digital-usd@solana.json">first-digital-usd@solana</a></td>
@@ -3571,6 +3908,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/first-digital-usd.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/first-digital-usd.svg" width="40px" height="40px"/></td>
   <td>First Digital USD</td>
   <td>FDUSD</td>
   <td><a href="./crypto/first-digital-usd@sui.json">first-digital-usd@sui</a></td>
@@ -3581,6 +3919,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/first-digital-usd.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/first-digital-usd.svg" width="40px" height="40px"/></td>
   <td>First Digital USD</td>
   <td>FDUSD</td>
   <td><a href="./crypto/first-digital-usd@toncoin.json">first-digital-usd@toncoin</a></td>
@@ -3592,6 +3931,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="3">100</td>
   <td><img src="logo/spx6900.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/spx6900.svg" width="40px" height="40px"/></td>
   <td>SPX6900</td>
   <td>SPX</td>
   <td><a href="./crypto/spx6900@base.json">spx6900@base</a></td>
@@ -3602,6 +3942,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/spx6900.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/spx6900.svg" width="40px" height="40px"/></td>
   <td>SPX6900</td>
   <td>SPX</td>
   <td><a href="./crypto/spx6900@ethereum.json">spx6900@ethereum</a></td>
@@ -3613,6 +3954,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/spx6900.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/spx6900.svg" width="40px" height="40px"/></td>
   <td>SPX6900</td>
   <td>SPX</td>
   <td><a href="./crypto/spx6900@solana.json">spx6900@solana</a></td>
@@ -3624,6 +3966,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="3">101</td>
   <td><img src="logo/injective-protocol.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/injective-protocol.svg" width="40px" height="40px"/></td>
   <td>Injective</td>
   <td>INJ</td>
   <td><a href="./crypto/injective-protocol@injective-protocol.json">injective-protocol@injective-protocol</a></td>
@@ -3634,6 +3977,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/injective-protocol.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/injective-protocol.svg" width="40px" height="40px"/></td>
   <td>Injective</td>
   <td>INJ</td>
   <td><a href="./crypto/injective-protocol@binance-smart-chain.json">injective-protocol@binance-smart-chain</a></td>
@@ -3645,6 +3989,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/injective-protocol.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/injective-protocol.svg" width="40px" height="40px"/></td>
   <td>Injective</td>
   <td>INJ</td>
   <td><a href="./crypto/injective-protocol@ethereum.json">injective-protocol@ethereum</a></td>
@@ -3657,6 +4002,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">102</td>
   <td><img src="logo/monad.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/monad.svg" width="40px" height="40px"/></td>
   <td>Monad</td>
   <td>MON</td>
   <td><a href="./crypto/monad@monad.json">monad@monad</a></td>
@@ -3667,6 +4013,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/monad.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/monad.svg" width="40px" height="40px"/></td>
   <td>Monad</td>
   <td>MON</td>
   <td><a href="./crypto/monad@solana.json">monad@solana</a></td>
@@ -3678,6 +4025,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">103</td>
   <td><img src="logo/sun.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/sun.svg" width="40px" height="40px"/></td>
   <td>Sun</td>
   <td>SUN</td>
   <td><a href="./crypto/sun@tron.json">sun@tron</a></td>
@@ -3687,8 +4035,22 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="5">104</td>
+  <td rowspan="1">104</td>
+  <td><img src="logo/buildon.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/buildon.svg" width="40px" height="40px"/></td>
+  <td>BUILDon</td>
+  <td>B</td>
+  <td><a href="./crypto/buildon@binance-smart-chain.json">buildon@binance-smart-chain</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/build-on">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/buildon/">Coinmarketcap</a><br>
+    <a href="https://bscscan.com/token/0x6bdcce4a559076e37755a78ce0c06214e59e4444">BscScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="5">105</td>
   <td><img src="logo/curve-dao-token.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/curve-dao-token.svg" width="40px" height="40px"/></td>
   <td>Curve DAO Token</td>
   <td>CRV</td>
   <td><a href="./crypto/curve-dao-token@arbitrum.json">curve-dao-token@arbitrum</a></td>
@@ -3699,6 +4061,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/curve-dao-token.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/curve-dao-token.svg" width="40px" height="40px"/></td>
   <td>Curve DAO Token</td>
   <td>CRV</td>
   <td><a href="./crypto/curve-dao-token@base.json">curve-dao-token@base</a></td>
@@ -3709,6 +4072,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/curve-dao-token.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/curve-dao-token.svg" width="40px" height="40px"/></td>
   <td>Curve DAO Token</td>
   <td>CRV</td>
   <td><a href="./crypto/curve-dao-token@ethereum.json">curve-dao-token@ethereum</a></td>
@@ -3720,6 +4084,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/curve-dao-token.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/curve-dao-token.svg" width="40px" height="40px"/></td>
   <td>Curve DAO Token</td>
   <td>CRV</td>
   <td><a href="./crypto/curve-dao-token@optimism.json">curve-dao-token@optimism</a></td>
@@ -3730,6 +4095,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/curve-dao-token.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/curve-dao-token.svg" width="40px" height="40px"/></td>
   <td>Curve DAO Token</td>
   <td>CRV</td>
   <td><a href="./crypto/curve-dao-token@polygon.json">curve-dao-token@polygon</a></td>
@@ -3739,20 +4105,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="1">105</td>
-  <td><img src="logo/buildon.svg" width="40px" height="40px"/></td>
-  <td>BUILDon</td>
-  <td>B</td>
-  <td><a href="./crypto/buildon@binance-smart-chain.json">buildon@binance-smart-chain</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/build-on">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/buildon/">Coinmarketcap</a><br>
-    <a href="https://bscscan.com/token/0x6bdcce4a559076e37755a78ce0c06214e59e4444">BscScan</a><br>
-  </td>
-</tr>
-<tr>
   <td rowspan="2">106</td>
   <td><img src="logo/ether-fi.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ether-fi.svg" width="40px" height="40px"/></td>
   <td>ether.fi</td>
   <td>ETHFI</td>
   <td><a href="./crypto/ether-fi@arbitrum.json">ether-fi@arbitrum</a></td>
@@ -3763,6 +4118,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/ether-fi.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ether-fi.svg" width="40px" height="40px"/></td>
   <td>ether.fi</td>
   <td>ETHFI</td>
   <td><a href="./crypto/ether-fi@ethereum.json">ether-fi@ethereum</a></td>
@@ -3775,6 +4131,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">107</td>
   <td><img src="logo/gnosis.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/gnosis.svg" width="40px" height="40px"/></td>
   <td>Gnosis</td>
   <td>GNO</td>
   <td><a href="./crypto/gnosis@arbitrum.json">gnosis@arbitrum</a></td>
@@ -3785,6 +4142,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/gnosis.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/gnosis.svg" width="40px" height="40px"/></td>
   <td>Gnosis</td>
   <td>GNO</td>
   <td><a href="./crypto/gnosis@ethereum.json">gnosis@ethereum</a></td>
@@ -3797,6 +4155,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">108</td>
   <td><img src="logo/immutable-x.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/immutable-x.svg" width="40px" height="40px"/></td>
   <td>Immutable</td>
   <td>IMX</td>
   <td><a href="./crypto/immutable-x@ethereum.json">immutable-x@ethereum</a></td>
@@ -3809,6 +4168,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">109</td>
   <td><img src="logo/zebec-network.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/zebec-network.svg" width="40px" height="40px"/></td>
   <td>Zebec Network</td>
   <td>ZBCN</td>
   <td><a href="./crypto/zebec-network@solana.json">zebec-network@solana</a></td>
@@ -3820,6 +4180,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">110</td>
   <td><img src="logo/decred.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/decred.svg" width="40px" height="40px"/></td>
   <td>Decred</td>
   <td>DCR</td>
   <td><a href="./crypto/decred@decred.json">decred@decred</a></td>
@@ -3831,6 +4192,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">111</td>
   <td><img src="logo/tia.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/tia.svg" width="40px" height="40px"/></td>
   <td>Celestia</td>
   <td>TIA</td>
   <td><a href="./crypto/tia@tia.json">tia@tia</a></td>
@@ -3842,6 +4204,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">112</td>
   <td><img src="logo/bitcoin-sv.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/bitcoin-sv.svg" width="40px" height="40px"/></td>
   <td>Bitcoin SV</td>
   <td>BSV</td>
   <td><a href="./crypto/bitcoin-sv@bitcoin-sv.json">bitcoin-sv@bitcoin-sv</a></td>
@@ -3853,6 +4216,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="3">113</td>
   <td><img src="logo/pendle.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/pendle.svg" width="40px" height="40px"/></td>
   <td>Pendle</td>
   <td>PENDLE</td>
   <td><a href="./crypto/pendle@arbitrum.json">pendle@arbitrum</a></td>
@@ -3863,6 +4227,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/pendle.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/pendle.svg" width="40px" height="40px"/></td>
   <td>Pendle</td>
   <td>PENDLE</td>
   <td><a href="./crypto/pendle@binance-smart-chain.json">pendle@binance-smart-chain</a></td>
@@ -3874,6 +4239,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/pendle.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/pendle.svg" width="40px" height="40px"/></td>
   <td>Pendle</td>
   <td>PENDLE</td>
   <td><a href="./crypto/pendle@ethereum.json">pendle@ethereum</a></td>
@@ -3886,6 +4252,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">114</td>
   <td><img src="logo/conflux.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/conflux.svg" width="40px" height="40px"/></td>
   <td>Conflux</td>
   <td>CFX</td>
   <td><a href="./crypto/conflux@conflux.json">conflux@conflux</a></td>
@@ -3897,6 +4264,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="3">115</td>
   <td><img src="logo/bittorrent.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/bittorrent.svg" width="40px" height="40px"/></td>
   <td>BitTorrent</td>
   <td>BTT</td>
   <td><a href="./crypto/bittorrent@binance-smart-chain.json">bittorrent@binance-smart-chain</a></td>
@@ -3908,6 +4276,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/bittorrent.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/bittorrent.svg" width="40px" height="40px"/></td>
   <td>BitTorrent</td>
   <td>BTT</td>
   <td><a href="./crypto/bittorrent@ethereum.json">bittorrent@ethereum</a></td>
@@ -3919,6 +4288,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/bittorrent.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/bittorrent.svg" width="40px" height="40px"/></td>
   <td>BitTorrent</td>
   <td>BTT</td>
   <td><a href="./crypto/bittorrent@tron.json">bittorrent@tron</a></td>
@@ -3930,6 +4300,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="5">116</td>
   <td><img src="logo/lido-dao.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/lido-dao.svg" width="40px" height="40px"/></td>
   <td>Lido DAO</td>
   <td>LDO</td>
   <td><a href="./crypto/lido-dao@arbitrum.json">lido-dao@arbitrum</a></td>
@@ -3940,6 +4311,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/lido-dao.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/lido-dao.svg" width="40px" height="40px"/></td>
   <td>Lido DAO</td>
   <td>LDO</td>
   <td><a href="./crypto/lido-dao@binance-smart-chain.json">lido-dao@binance-smart-chain</a></td>
@@ -3951,6 +4323,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/lido-dao.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/lido-dao.svg" width="40px" height="40px"/></td>
   <td>Lido DAO</td>
   <td>LDO</td>
   <td><a href="./crypto/lido-dao@ethereum.json">lido-dao@ethereum</a></td>
@@ -3962,6 +4335,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/lido-dao.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/lido-dao.svg" width="40px" height="40px"/></td>
   <td>Lido DAO</td>
   <td>LDO</td>
   <td><a href="./crypto/lido-dao@solana.json">lido-dao@solana</a></td>
@@ -3972,6 +4346,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/lido-dao.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/lido-dao.svg" width="40px" height="40px"/></td>
   <td>Lido DAO</td>
   <td>LDO</td>
   <td><a href="./crypto/lido-dao@terra.json">lido-dao@terra</a></td>
@@ -3983,6 +4358,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">117</td>
   <td><img src="logo/floki.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/floki.svg" width="40px" height="40px"/></td>
   <td>FLOKI</td>
   <td>FLOKI</td>
   <td><a href="./crypto/floki@binance-smart-chain.json">floki@binance-smart-chain</a></td>
@@ -3994,6 +4370,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/floki.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/floki.svg" width="40px" height="40px"/></td>
   <td>FLOKI</td>
   <td>FLOKI</td>
   <td><a href="./crypto/floki@ethereum.json">floki@ethereum</a></td>
@@ -4006,6 +4383,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="3">118</td>
   <td><img src="logo/apenft.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/apenft.svg" width="40px" height="40px"/></td>
   <td>AINFT</td>
   <td>NFT</td>
   <td><a href="./crypto/apenft@binance-smart-chain.json">apenft@binance-smart-chain</a></td>
@@ -4017,6 +4395,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/apenft.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/apenft.svg" width="40px" height="40px"/></td>
   <td>AINFT</td>
   <td>NFT</td>
   <td><a href="./crypto/apenft@ethereum.json">apenft@ethereum</a></td>
@@ -4028,6 +4407,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/apenft.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/apenft.svg" width="40px" height="40px"/></td>
   <td>AINFT</td>
   <td>NFT</td>
   <td><a href="./crypto/apenft@tron.json">apenft@tron</a></td>
@@ -4039,6 +4419,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">119</td>
   <td><img src="logo/doublezero.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/doublezero.svg" width="40px" height="40px"/></td>
   <td>DoubleZero</td>
   <td>2Z</td>
   <td><a href="./crypto/doublezero@solana.json">doublezero@solana</a></td>
@@ -4050,6 +4431,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">120</td>
   <td><img src="logo/maple-finance.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/maple-finance.svg" width="40px" height="40px"/></td>
   <td>Maple Finance</td>
   <td>SYRUP</td>
   <td><a href="./crypto/maple-finance@base.json">maple-finance@base</a></td>
@@ -4060,6 +4442,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/maple-finance.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/maple-finance.svg" width="40px" height="40px"/></td>
   <td>Maple Finance</td>
   <td>SYRUP</td>
   <td><a href="./crypto/maple-finance@ethereum.json">maple-finance@ethereum</a></td>
@@ -4072,6 +4455,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">122</td>
   <td><img src="logo/pyth-network.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/pyth-network.svg" width="40px" height="40px"/></td>
   <td>Pyth Network</td>
   <td>PYTH</td>
   <td><a href="./crypto/pyth-network@solana.json">pyth-network@solana</a></td>
@@ -4083,6 +4467,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">123</td>
   <td><img src="logo/jasmycoin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/jasmycoin.svg" width="40px" height="40px"/></td>
   <td>JasmyCoin</td>
   <td>JASMY</td>
   <td><a href="./crypto/jasmycoin@ethereum.json">jasmycoin@ethereum</a></td>
@@ -4095,6 +4480,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">124</td>
   <td><img src="logo/optimism.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/optimism.svg" width="40px" height="40px"/></td>
   <td>Optimism</td>
   <td>OP</td>
   <td><a href="./crypto/optimism@optimism.json">optimism@optimism</a></td>
@@ -4106,6 +4492,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="6">125</td>
   <td><img src="logo/the-graph.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/the-graph.svg" width="40px" height="40px"/></td>
   <td>The Graph</td>
   <td>GRT</td>
   <td><a href="./crypto/the-graph@arbitrum.json">the-graph@arbitrum</a></td>
@@ -4116,6 +4503,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/the-graph.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/the-graph.svg" width="40px" height="40px"/></td>
   <td>The Graph</td>
   <td>GRT</td>
   <td><a href="./crypto/the-graph@avalanche-c-chain.json">the-graph@avalanche-c-chain</a></td>
@@ -4126,6 +4514,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/the-graph.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/the-graph.svg" width="40px" height="40px"/></td>
   <td>The Graph</td>
   <td>GRT</td>
   <td><a href="./crypto/the-graph@ethereum.json">the-graph@ethereum</a></td>
@@ -4137,6 +4526,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/the-graph.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/the-graph.svg" width="40px" height="40px"/></td>
   <td>The Graph</td>
   <td>GRT</td>
   <td><a href="./crypto/the-graph@near.json">the-graph@near</a></td>
@@ -4147,6 +4537,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/the-graph.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/the-graph.svg" width="40px" height="40px"/></td>
   <td>The Graph</td>
   <td>GRT</td>
   <td><a href="./crypto/the-graph@polygon.json">the-graph@polygon</a></td>
@@ -4157,6 +4548,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/the-graph.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/the-graph.svg" width="40px" height="40px"/></td>
   <td>The Graph</td>
   <td>GRT</td>
   <td><a href="./crypto/the-graph@solana.json">the-graph@solana</a></td>
@@ -4168,6 +4560,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="4">126</td>
   <td><img src="logo/kite.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/kite.svg" width="40px" height="40px"/></td>
   <td>Kite</td>
   <td>KITE</td>
   <td><a href="./crypto/kite@kite.json">kite@kite</a></td>
@@ -4178,6 +4571,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/kite.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/kite.svg" width="40px" height="40px"/></td>
   <td>Kite</td>
   <td>KITE</td>
   <td><a href="./crypto/kite@avalanche-c-chain.json">kite@avalanche-c-chain</a></td>
@@ -4188,6 +4582,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/kite.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/kite.svg" width="40px" height="40px"/></td>
   <td>Kite</td>
   <td>KITE</td>
   <td><a href="./crypto/kite@binance-smart-chain.json">kite@binance-smart-chain</a></td>
@@ -4199,6 +4594,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/kite.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/kite.svg" width="40px" height="40px"/></td>
   <td>Kite</td>
   <td>KITE</td>
   <td><a href="./crypto/kite@ethereum.json">kite@ethereum</a></td>
@@ -4211,6 +4607,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">127</td>
   <td><img src="logo/iota.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/iota.svg" width="40px" height="40px"/></td>
   <td>IOTA</td>
   <td>IOTA</td>
   <td><a href="./crypto/iota@iota.json">iota@iota</a></td>
@@ -4221,6 +4618,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/iota.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/iota.svg" width="40px" height="40px"/></td>
   <td>IOTA</td>
   <td>IOTA</td>
   <td><a href="./crypto/iota@binance-smart-chain.json">iota@binance-smart-chain</a></td>
@@ -4231,8 +4629,22 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="2">128</td>
+  <td rowspan="1">128</td>
+  <td><img src="logo/lighter.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/lighter.svg" width="40px" height="40px"/></td>
+  <td>Lighter</td>
+  <td>LIT</td>
+  <td><a href="./crypto/lighter@ethereum.json">lighter@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/lighter">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/lighter/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x232ce3bd40fcd6f80f3d55a522d03f25df784ee2">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="2">129</td>
   <td><img src="logo/ethereum-name-service.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ethereum-name-service.svg" width="40px" height="40px"/></td>
   <td>Ethereum Name Service</td>
   <td>ENS</td>
   <td><a href="./crypto/ethereum-name-service@ethereum.json">ethereum-name-service@ethereum</a></td>
@@ -4244,6 +4656,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/ethereum-name-service.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ethereum-name-service.svg" width="40px" height="40px"/></td>
   <td>Ethereum Name Service</td>
   <td>ENS</td>
   <td><a href="./crypto/ethereum-name-service@solana.json">ethereum-name-service@solana</a></td>
@@ -4253,20 +4666,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="1">129</td>
-  <td><img src="logo/lighter.svg" width="40px" height="40px"/></td>
-  <td>Lighter</td>
-  <td>LIT</td>
-  <td><a href="./crypto/lighter@ethereum.json">lighter@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/lighter">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/lighter/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x232ce3bd40fcd6f80f3d55a522d03f25df784ee2">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
   <td rowspan="5">130</td>
   <td><img src="logo/compound.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/compound.svg" width="40px" height="40px"/></td>
   <td>Compound</td>
   <td>COMP</td>
   <td><a href="./crypto/compound@avalanche-c-chain.json">compound@avalanche-c-chain</a></td>
@@ -4277,6 +4679,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/compound.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/compound.svg" width="40px" height="40px"/></td>
   <td>Compound</td>
   <td>COMP</td>
   <td><a href="./crypto/compound@binance-smart-chain.json">compound@binance-smart-chain</a></td>
@@ -4288,6 +4691,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/compound.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/compound.svg" width="40px" height="40px"/></td>
   <td>Compound</td>
   <td>COMP</td>
   <td><a href="./crypto/compound@ethereum.json">compound@ethereum</a></td>
@@ -4299,6 +4703,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/compound.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/compound.svg" width="40px" height="40px"/></td>
   <td>Compound</td>
   <td>COMP</td>
   <td><a href="./crypto/compound@near.json">compound@near</a></td>
@@ -4309,6 +4714,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/compound.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/compound.svg" width="40px" height="40px"/></td>
   <td>Compound</td>
   <td>COMP</td>
   <td><a href="./crypto/compound@solana.json">compound@solana</a></td>
@@ -4320,6 +4726,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="4">131</td>
   <td><img src="logo/axie-infinity.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/axie-infinity.svg" width="40px" height="40px"/></td>
   <td>Axie Infinity</td>
   <td>AXS</td>
   <td><a href="./crypto/axie-infinity@binance-smart-chain.json">axie-infinity@binance-smart-chain</a></td>
@@ -4331,6 +4738,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/axie-infinity.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/axie-infinity.svg" width="40px" height="40px"/></td>
   <td>Axie Infinity</td>
   <td>AXS</td>
   <td><a href="./crypto/axie-infinity@ethereum.json">axie-infinity@ethereum</a></td>
@@ -4342,6 +4750,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/axie-infinity.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/axie-infinity.svg" width="40px" height="40px"/></td>
   <td>Axie Infinity</td>
   <td>AXS</td>
   <td><a href="./crypto/axie-infinity@harmony.json">axie-infinity@harmony</a></td>
@@ -4352,6 +4761,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/axie-infinity.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/axie-infinity.svg" width="40px" height="40px"/></td>
   <td>Axie Infinity</td>
   <td>AXS</td>
   <td><a href="./crypto/axie-infinity@solana.json">axie-infinity@solana</a></td>
@@ -4363,6 +4773,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">132</td>
   <td><img src="logo/starknet.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/starknet.svg" width="40px" height="40px"/></td>
   <td>Starknet</td>
   <td>STRK</td>
   <td><a href="./crypto/starknet@ethereum.json">starknet@ethereum</a></td>
@@ -4375,6 +4786,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">133</td>
   <td><img src="logo/fartcoin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/fartcoin.svg" width="40px" height="40px"/></td>
   <td>Fartcoin</td>
   <td>FARTCOIN</td>
   <td><a href="./crypto/fartcoin@solana.json">fartcoin@solana</a></td>
@@ -4386,6 +4798,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="3">134</td>
   <td><img src="logo/the-sandbox.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/the-sandbox.svg" width="40px" height="40px"/></td>
   <td>The Sandbox</td>
   <td>SAND</td>
   <td><a href="./crypto/the-sandbox@base.json">the-sandbox@base</a></td>
@@ -4396,6 +4809,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/the-sandbox.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/the-sandbox.svg" width="40px" height="40px"/></td>
   <td>The Sandbox</td>
   <td>SAND</td>
   <td><a href="./crypto/the-sandbox@ethereum.json">the-sandbox@ethereum</a></td>
@@ -4407,6 +4821,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/the-sandbox.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/the-sandbox.svg" width="40px" height="40px"/></td>
   <td>The Sandbox</td>
   <td>SAND</td>
   <td><a href="./crypto/the-sandbox@polygon.json">the-sandbox@polygon</a></td>
@@ -4418,6 +4833,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">135</td>
   <td><img src="logo/raydium.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/raydium.svg" width="40px" height="40px"/></td>
   <td>Raydium</td>
   <td>RAY</td>
   <td><a href="./crypto/raydium@binance-smart-chain.json">raydium@binance-smart-chain</a></td>
@@ -4429,6 +4845,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/raydium.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/raydium.svg" width="40px" height="40px"/></td>
   <td>Raydium</td>
   <td>RAY</td>
   <td><a href="./crypto/raydium@solana.json">raydium@solana</a></td>
@@ -4440,6 +4857,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">136</td>
   <td><img src="logo/theta-network.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/theta-network.svg" width="40px" height="40px"/></td>
   <td>Theta Network</td>
   <td>THETA</td>
   <td><a href="./crypto/theta-network@theta.json">theta-network@theta</a></td>
@@ -4449,8 +4867,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="3">137</td>
+  <td rowspan="3">138</td>
   <td><img src="logo/onyxcoin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/onyxcoin.svg" width="40px" height="40px"/></td>
   <td>Onyxcoin</td>
   <td>XCN</td>
   <td><a href="./crypto/onyxcoin@base.json">onyxcoin@base</a></td>
@@ -4461,6 +4880,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/onyxcoin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/onyxcoin.svg" width="40px" height="40px"/></td>
   <td>Onyxcoin</td>
   <td>XCN</td>
   <td><a href="./crypto/onyxcoin@binance-smart-chain.json">onyxcoin@binance-smart-chain</a></td>
@@ -4472,6 +4892,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/onyxcoin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/onyxcoin.svg" width="40px" height="40px"/></td>
   <td>Onyxcoin</td>
   <td>XCN</td>
   <td><a href="./crypto/onyxcoin@ethereum.json">onyxcoin@ethereum</a></td>
@@ -4482,8 +4903,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="1">138</td>
+  <td rowspan="1">139</td>
   <td><img src="logo/neo.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/neo.svg" width="40px" height="40px"/></td>
   <td>Neo</td>
   <td>NEO</td>
   <td><a href="./crypto/neo@neo.json">neo@neo</a></td>
@@ -4495,6 +4917,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="4">140</td>
   <td><img src="logo/telcoin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/telcoin.svg" width="40px" height="40px"/></td>
   <td>Telcoin</td>
   <td>TEL</td>
   <td><a href="./crypto/telcoin@arbitrum.json">telcoin@arbitrum</a></td>
@@ -4505,6 +4928,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/telcoin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/telcoin.svg" width="40px" height="40px"/></td>
   <td>Telcoin</td>
   <td>TEL</td>
   <td><a href="./crypto/telcoin@base.json">telcoin@base</a></td>
@@ -4515,6 +4939,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/telcoin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/telcoin.svg" width="40px" height="40px"/></td>
   <td>Telcoin</td>
   <td>TEL</td>
   <td><a href="./crypto/telcoin@ethereum.json">telcoin@ethereum</a></td>
@@ -4526,6 +4951,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/telcoin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/telcoin.svg" width="40px" height="40px"/></td>
   <td>Telcoin</td>
   <td>TEL</td>
   <td><a href="./crypto/telcoin@polygon.json">telcoin@polygon</a></td>
@@ -4537,6 +4963,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">141</td>
   <td><img src="logo/thorchain.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/thorchain.svg" width="40px" height="40px"/></td>
   <td>THORChain</td>
   <td>RUNE</td>
   <td><a href="./crypto/thorchain@thorchain.json">thorchain@thorchain</a></td>
@@ -4548,6 +4975,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">142</td>
   <td><img src="logo/dogwifhat.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/dogwifhat.svg" width="40px" height="40px"/></td>
   <td>dogwifhat</td>
   <td>WIF</td>
   <td><a href="./crypto/dogwifhat@solana.json">dogwifhat@solana</a></td>
@@ -4559,6 +4987,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">143</td>
   <td><img src="logo/trust-wallet-token.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/trust-wallet-token.svg" width="40px" height="40px"/></td>
   <td>Trust Wallet Token</td>
   <td>TWT</td>
   <td><a href="./crypto/trust-wallet-token@binance-smart-chain.json">trust-wallet-token@binance-smart-chain</a></td>
@@ -4570,6 +4999,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/trust-wallet-token.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/trust-wallet-token.svg" width="40px" height="40px"/></td>
   <td>Trust Wallet Token</td>
   <td>TWT</td>
   <td><a href="./crypto/trust-wallet-token@solana.json">trust-wallet-token@solana</a></td>
@@ -4581,6 +5011,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">145</td>
   <td><img src="logo/story.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/story.svg" width="40px" height="40px"/></td>
   <td>Story</td>
   <td>IP</td>
   <td><a href="./crypto/story@story.json">story@story</a></td>
@@ -4591,6 +5022,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/story.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/story.svg" width="40px" height="40px"/></td>
   <td>Story</td>
   <td>IP</td>
   <td><a href="./crypto/story@binance-smart-chain.json">story@binance-smart-chain</a></td>
@@ -4601,8 +5033,22 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="2">146</td>
+  <td rowspan="1">146</td>
+  <td><img src="logo/origintrail.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/origintrail.svg" width="40px" height="40px"/></td>
+  <td>OriginTrail</td>
+  <td>TRAC</td>
+  <td><a href="./crypto/origintrail@ethereum.json">origintrail@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/origintrail">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/origintrail/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="2">147</td>
   <td><img src="logo/decentraland.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/decentraland.svg" width="40px" height="40px"/></td>
   <td>Decentraland</td>
   <td>MANA</td>
   <td><a href="./crypto/decentraland@ethereum.json">decentraland@ethereum</a></td>
@@ -4614,6 +5060,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/decentraland.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/decentraland.svg" width="40px" height="40px"/></td>
   <td>Decentraland</td>
   <td>MANA</td>
   <td><a href="./crypto/decentraland@solana.json">decentraland@solana</a></td>
@@ -4623,20 +5070,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="1">147</td>
-  <td><img src="logo/origintrail.svg" width="40px" height="40px"/></td>
-  <td>OriginTrail</td>
-  <td>TRAC</td>
-  <td><a href="./crypto/origintrail@ethereum.json">origintrail@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/origintrail">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/origintrail/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
   <td rowspan="1">148</td>
   <td><img src="logo/helium.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/helium.svg" width="40px" height="40px"/></td>
   <td>Helium</td>
   <td>HNT</td>
   <td><a href="./crypto/helium@solana.json">helium@solana</a></td>
@@ -4648,6 +5084,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">149</td>
   <td><img src="logo/convex-finance.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/convex-finance.svg" width="40px" height="40px"/></td>
   <td>Convex Finance</td>
   <td>CVX</td>
   <td><a href="./crypto/convex-finance@ethereum.json">convex-finance@ethereum</a></td>
@@ -4659,6 +5096,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/convex-finance.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/convex-finance.svg" width="40px" height="40px"/></td>
   <td>Convex Finance</td>
   <td>CVX</td>
   <td><a href="./crypto/convex-finance@solana.json">convex-finance@solana</a></td>
@@ -4668,8 +5106,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="3">150</td>
+  <td rowspan="3">151</td>
   <td><img src="logo/ravedao.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ravedao.svg" width="40px" height="40px"/></td>
   <td>RaveDAO</td>
   <td>RAVE</td>
   <td><a href="./crypto/ravedao@base.json">ravedao@base</a></td>
@@ -4680,6 +5119,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/ravedao.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ravedao.svg" width="40px" height="40px"/></td>
   <td>RaveDAO</td>
   <td>RAVE</td>
   <td><a href="./crypto/ravedao@binance-smart-chain.json">ravedao@binance-smart-chain</a></td>
@@ -4691,6 +5131,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/ravedao.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ravedao.svg" width="40px" height="40px"/></td>
   <td>RaveDAO</td>
   <td>RAVE</td>
   <td><a href="./crypto/ravedao@ethereum.json">ravedao@ethereum</a></td>
@@ -4702,18 +5143,8 @@ Total cryptos: 889
 </tr>
 <tr>
   <td rowspan="1">153</td>
-  <td><img src="logo/jito.svg" width="40px" height="40px"/></td>
-  <td>Jito</td>
-  <td>JTO</td>
-  <td><a href="./crypto/jito@solana.json">jito@solana</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/jito-governance-token">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/jito/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">154</td>
   <td><img src="logo/walrus.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/walrus.svg" width="40px" height="40px"/></td>
   <td>Walrus</td>
   <td>WAL</td>
   <td><a href="./crypto/walrus@sui.json">walrus@sui</a></td>
@@ -4723,30 +5154,21 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="2">157</td>
-  <td><img src="logo/plasma.svg" width="40px" height="40px"/></td>
-  <td>Plasma</td>
-  <td>XPL</td>
-  <td><a href="./crypto/plasma@plasma.json">plasma@plasma</a></td>
+  <td rowspan="1">154</td>
+  <td><img src="logo/jito.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/jito.svg" width="40px" height="40px"/></td>
+  <td>Jito</td>
+  <td>JTO</td>
+  <td><a href="./crypto/jito@solana.json">jito@solana</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/plasma">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/plasma-xpl/">Coinmarketcap</a><br>
+    <a href="https://www.coingecko.com/en/coins/jito-governance-token">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/jito/">Coinmarketcap</a><br>
   </td>
 </tr>
 <tr>
-  <td><img src="logo/plasma.svg" width="40px" height="40px"/></td>
-  <td>Plasma</td>
-  <td>XPL</td>
-  <td><a href="./crypto/plasma@binance-smart-chain.json">plasma@binance-smart-chain</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/plasma">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/plasma-xpl/">Coinmarketcap</a><br>
-    <a href="https://bscscan.com/token/0x405fbc9004d857903bfd6b3357792d71a50726b0">BscScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">158</td>
+  <td rowspan="1">155</td>
   <td><img src="logo/apecoin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/apecoin.svg" width="40px" height="40px"/></td>
   <td>ApeCoin</td>
   <td>APE</td>
   <td><a href="./crypto/apecoin@ethereum.json">apecoin@ethereum</a></td>
@@ -4757,8 +5179,33 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
+  <td rowspan="2">157</td>
+  <td><img src="logo/plasma.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/plasma.svg" width="40px" height="40px"/></td>
+  <td>Plasma</td>
+  <td>XPL</td>
+  <td><a href="./crypto/plasma@plasma.json">plasma@plasma</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/plasma">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/plasma-xpl/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td><img src="logo/plasma.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/plasma.svg" width="40px" height="40px"/></td>
+  <td>Plasma</td>
+  <td>XPL</td>
+  <td><a href="./crypto/plasma@binance-smart-chain.json">plasma@binance-smart-chain</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/plasma">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/plasma-xpl/">Coinmarketcap</a><br>
+    <a href="https://bscscan.com/token/0x405fbc9004d857903bfd6b3357792d71a50726b0">BscScan</a><br>
+  </td>
+</tr>
+<tr>
   <td rowspan="1">160</td>
   <td><img src="logo/mx-token.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/mx-token.svg" width="40px" height="40px"/></td>
   <td>MX Token</td>
   <td>MX</td>
   <td><a href="./crypto/mx-token@ethereum.json">mx-token@ethereum</a></td>
@@ -4771,6 +5218,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">161</td>
   <td><img src="logo/safepal.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/safepal.svg" width="40px" height="40px"/></td>
   <td>SafePal</td>
   <td>SFP</td>
   <td><a href="./crypto/safepal@binance-smart-chain.json">safepal@binance-smart-chain</a></td>
@@ -4782,6 +5230,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/safepal.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/safepal.svg" width="40px" height="40px"/></td>
   <td>SafePal</td>
   <td>SFP</td>
   <td><a href="./crypto/safepal@ethereum.json">safepal@ethereum</a></td>
@@ -4794,6 +5243,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="5">162</td>
   <td><img src="logo/basic-attention-token.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/basic-attention-token.svg" width="40px" height="40px"/></td>
   <td>Basic Attention Token</td>
   <td>BAT</td>
   <td><a href="./crypto/basic-attention-token@avalanche-c-chain.json">basic-attention-token@avalanche-c-chain</a></td>
@@ -4804,6 +5254,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/basic-attention-token.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/basic-attention-token.svg" width="40px" height="40px"/></td>
   <td>Basic Attention Token</td>
   <td>BAT</td>
   <td><a href="./crypto/basic-attention-token@binance-smart-chain.json">basic-attention-token@binance-smart-chain</a></td>
@@ -4815,6 +5266,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/basic-attention-token.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/basic-attention-token.svg" width="40px" height="40px"/></td>
   <td>Basic Attention Token</td>
   <td>BAT</td>
   <td><a href="./crypto/basic-attention-token@ethereum.json">basic-attention-token@ethereum</a></td>
@@ -4826,6 +5278,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/basic-attention-token.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/basic-attention-token.svg" width="40px" height="40px"/></td>
   <td>Basic Attention Token</td>
   <td>BAT</td>
   <td><a href="./crypto/basic-attention-token@near.json">basic-attention-token@near</a></td>
@@ -4836,6 +5289,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/basic-attention-token.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/basic-attention-token.svg" width="40px" height="40px"/></td>
   <td>Basic Attention Token</td>
   <td>BAT</td>
   <td><a href="./crypto/basic-attention-token@solana.json">basic-attention-token@solana</a></td>
@@ -4847,6 +5301,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">163</td>
   <td><img src="logo/gala.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/gala.svg" width="40px" height="40px"/></td>
   <td>Gala</td>
   <td>GALA</td>
   <td><a href="./crypto/gala@ethereum.json">gala@ethereum</a></td>
@@ -4858,6 +5313,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/gala.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/gala.svg" width="40px" height="40px"/></td>
   <td>Gala</td>
   <td>GALA</td>
   <td><a href="./crypto/gala@solana.json">gala@solana</a></td>
@@ -4869,6 +5325,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">164</td>
   <td><img src="logo/ab.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ab.svg" width="40px" height="40px"/></td>
   <td>AB</td>
   <td>AB</td>
   <td><a href="./crypto/ab@binance-smart-chain.json">ab@binance-smart-chain</a></td>
@@ -4881,6 +5338,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">170</td>
   <td><img src="logo/vaulta.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/vaulta.svg" width="40px" height="40px"/></td>
   <td>Vaulta</td>
   <td>A</td>
   <td><a href="./crypto/vaulta@vaulta.json">vaulta@vaulta</a></td>
@@ -4892,6 +5350,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">172</td>
   <td><img src="logo/eigenlayer.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/eigenlayer.svg" width="40px" height="40px"/></td>
   <td>EigenCloud</td>
   <td>EIGEN</td>
   <td><a href="./crypto/eigenlayer@ethereum.json">eigenlayer@ethereum</a></td>
@@ -4904,6 +5363,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">174</td>
   <td><img src="logo/golem.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/golem.svg" width="40px" height="40px"/></td>
   <td>Golem</td>
   <td>GLM</td>
   <td><a href="./crypto/golem@ethereum.json">golem@ethereum</a></td>
@@ -4915,6 +5375,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/golem.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/golem.svg" width="40px" height="40px"/></td>
   <td>Golem</td>
   <td>GLM</td>
   <td><a href="./crypto/golem@polygon.json">golem@polygon</a></td>
@@ -4926,6 +5387,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="4">175</td>
   <td><img src="logo/1inch.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/1inch.svg" width="40px" height="40px"/></td>
   <td>1inch</td>
   <td>1INCH</td>
   <td><a href="./crypto/1inch@avalanche-c-chain.json">1inch@avalanche-c-chain</a></td>
@@ -4936,6 +5398,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/1inch.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/1inch.svg" width="40px" height="40px"/></td>
   <td>1inch</td>
   <td>1INCH</td>
   <td><a href="./crypto/1inch@binance-smart-chain.json">1inch@binance-smart-chain</a></td>
@@ -4947,6 +5410,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/1inch.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/1inch.svg" width="40px" height="40px"/></td>
   <td>1inch</td>
   <td>1INCH</td>
   <td><a href="./crypto/1inch@ethereum.json">1inch@ethereum</a></td>
@@ -4958,6 +5422,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/1inch.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/1inch.svg" width="40px" height="40px"/></td>
   <td>1inch</td>
   <td>1INCH</td>
   <td><a href="./crypto/1inch@solana.json">1inch@solana</a></td>
@@ -4969,6 +5434,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">177</td>
   <td><img src="logo/sonic.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/sonic.svg" width="40px" height="40px"/></td>
   <td>Sonic</td>
   <td>S</td>
   <td><a href="./crypto/sonic@sonic.json">sonic@sonic</a></td>
@@ -4980,6 +5446,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">180</td>
   <td><img src="logo/horizen.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/horizen.svg" width="40px" height="40px"/></td>
   <td>Horizen</td>
   <td>ZEN</td>
   <td><a href="./crypto/horizen@horizen.json">horizen@horizen</a></td>
@@ -4990,6 +5457,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/horizen.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/horizen.svg" width="40px" height="40px"/></td>
   <td>Horizen</td>
   <td>ZEN</td>
   <td><a href="./crypto/horizen@base.json">horizen@base</a></td>
@@ -5001,6 +5469,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">181</td>
   <td><img src="logo/elrond.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/elrond.svg" width="40px" height="40px"/></td>
   <td>MultiversX</td>
   <td>EGLD</td>
   <td><a href="./crypto/elrond@elrond.json">elrond@elrond</a></td>
@@ -5011,6 +5480,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/elrond.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/elrond.svg" width="40px" height="40px"/></td>
   <td>MultiversX</td>
   <td>EGLD</td>
   <td><a href="./crypto/elrond@binance-smart-chain.json">elrond@binance-smart-chain</a></td>
@@ -5021,8 +5491,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="3">183</td>
+  <td rowspan="3">182</td>
   <td><img src="logo/river.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/river.svg" width="40px" height="40px"/></td>
   <td>River</td>
   <td>RIVER</td>
   <td><a href="./crypto/river@base.json">river@base</a></td>
@@ -5033,6 +5504,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/river.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/river.svg" width="40px" height="40px"/></td>
   <td>River</td>
   <td>RIVER</td>
   <td><a href="./crypto/river@binance-smart-chain.json">river@binance-smart-chain</a></td>
@@ -5044,6 +5516,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/river.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/river.svg" width="40px" height="40px"/></td>
   <td>River</td>
   <td>RIVER</td>
   <td><a href="./crypto/river@ethereum.json">river@ethereum</a></td>
@@ -5054,8 +5527,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="3">185</td>
+  <td rowspan="3">186</td>
   <td><img src="logo/aethir.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/aethir.svg" width="40px" height="40px"/></td>
   <td>Aethir</td>
   <td>ATH</td>
   <td><a href="./crypto/aethir@arbitrum.json">aethir@arbitrum</a></td>
@@ -5066,6 +5540,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/aethir.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/aethir.svg" width="40px" height="40px"/></td>
   <td>Aethir</td>
   <td>ATH</td>
   <td><a href="./crypto/aethir@ethereum.json">aethir@ethereum</a></td>
@@ -5077,6 +5552,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/aethir.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/aethir.svg" width="40px" height="40px"/></td>
   <td>Aethir</td>
   <td>ATH</td>
   <td><a href="./crypto/aethir@solana.json">aethir@solana</a></td>
@@ -5088,6 +5564,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">187</td>
   <td><img src="logo/reserve-rights-token.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/reserve-rights-token.svg" width="40px" height="40px"/></td>
   <td>Reserve Rights</td>
   <td>RSR</td>
   <td><a href="./crypto/reserve-rights-token@base.json">reserve-rights-token@base</a></td>
@@ -5098,6 +5575,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/reserve-rights-token.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/reserve-rights-token.svg" width="40px" height="40px"/></td>
   <td>Reserve Rights</td>
   <td>RSR</td>
   <td><a href="./crypto/reserve-rights-token@ethereum.json">reserve-rights-token@ethereum</a></td>
@@ -5110,6 +5588,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">188</td>
   <td><img src="logo/kaito.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/kaito.svg" width="40px" height="40px"/></td>
   <td>KAITO</td>
   <td>KAITO</td>
   <td><a href="./crypto/kaito@base.json">kaito@base</a></td>
@@ -5119,8 +5598,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="2">190</td>
+  <td rowspan="2">191</td>
   <td><img src="logo/0g.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/0g.svg" width="40px" height="40px"/></td>
   <td>0G</td>
   <td>0G</td>
   <td><a href="./crypto/0g@binance-smart-chain.json">0g@binance-smart-chain</a></td>
@@ -5132,6 +5612,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/0g.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/0g.svg" width="40px" height="40px"/></td>
   <td>0G</td>
   <td>0G</td>
   <td><a href="./crypto/0g@ethereum.json">0g@ethereum</a></td>
@@ -5144,6 +5625,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">192</td>
   <td><img src="logo/binaryx.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/binaryx.svg" width="40px" height="40px"/></td>
   <td>Four</td>
   <td>FORM</td>
   <td><a href="./crypto/binaryx@binance-smart-chain.json">binaryx@binance-smart-chain</a></td>
@@ -5156,6 +5638,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="8">193</td>
   <td><img src="logo/synthetix-network-token.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/synthetix-network-token.svg" width="40px" height="40px"/></td>
   <td>Synthetix</td>
   <td>SNX</td>
   <td><a href="./crypto/synthetix-network-token@avalanche-c-chain.json">synthetix-network-token@avalanche-c-chain</a></td>
@@ -5166,6 +5649,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/synthetix-network-token.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/synthetix-network-token.svg" width="40px" height="40px"/></td>
   <td>Synthetix</td>
   <td>SNX</td>
   <td><a href="./crypto/synthetix-network-token@binance-smart-chain.json">synthetix-network-token@binance-smart-chain</a></td>
@@ -5177,6 +5661,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/synthetix-network-token.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/synthetix-network-token.svg" width="40px" height="40px"/></td>
   <td>Synthetix</td>
   <td>SNX</td>
   <td><a href="./crypto/synthetix-network-token@ethereum.json">synthetix-network-token@ethereum</a></td>
@@ -5188,6 +5673,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/synthetix-network-token.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/synthetix-network-token.svg" width="40px" height="40px"/></td>
   <td>Synthetix</td>
   <td>SNX</td>
   <td><a href="./crypto/synthetix-network-token@fantom.json">synthetix-network-token@fantom</a></td>
@@ -5198,6 +5684,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/synthetix-network-token.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/synthetix-network-token.svg" width="40px" height="40px"/></td>
   <td>Synthetix</td>
   <td>SNX</td>
   <td><a href="./crypto/synthetix-network-token@near.json">synthetix-network-token@near</a></td>
@@ -5208,6 +5695,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/synthetix-network-token.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/synthetix-network-token.svg" width="40px" height="40px"/></td>
   <td>Synthetix</td>
   <td>SNX</td>
   <td><a href="./crypto/synthetix-network-token@optimism.json">synthetix-network-token@optimism</a></td>
@@ -5218,6 +5706,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/synthetix-network-token.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/synthetix-network-token.svg" width="40px" height="40px"/></td>
   <td>Synthetix</td>
   <td>SNX</td>
   <td><a href="./crypto/synthetix-network-token@polygon.json">synthetix-network-token@polygon</a></td>
@@ -5228,6 +5717,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/synthetix-network-token.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/synthetix-network-token.svg" width="40px" height="40px"/></td>
   <td>Synthetix</td>
   <td>SNX</td>
   <td><a href="./crypto/synthetix-network-token@solana.json">synthetix-network-token@solana</a></td>
@@ -5239,6 +5729,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">195</td>
   <td><img src="logo/stp-network.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/stp-network.svg" width="40px" height="40px"/></td>
   <td>AWE</td>
   <td>AWE</td>
   <td><a href="./crypto/stp-network@base.json">stp-network@base</a></td>
@@ -5250,6 +5741,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">197</td>
   <td><img src="logo/livepeer.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/livepeer.svg" width="40px" height="40px"/></td>
   <td>Livepeer</td>
   <td>LPT</td>
   <td><a href="./crypto/livepeer@ethereum.json">livepeer@ethereum</a></td>
@@ -5261,6 +5753,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/livepeer.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/livepeer.svg" width="40px" height="40px"/></td>
   <td>Livepeer</td>
   <td>LPT</td>
   <td><a href="./crypto/livepeer@harmony.json">livepeer@harmony</a></td>
@@ -5272,6 +5765,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">200</td>
   <td><img src="logo/official-melania-meme.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/official-melania-meme.svg" width="40px" height="40px"/></td>
   <td>Official Melania Meme</td>
   <td>MELANIA</td>
   <td><a href="./crypto/official-melania-meme@solana.json">official-melania-meme@solana</a></td>
@@ -5283,6 +5777,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="9">217</td>
   <td><img src="logo/frax.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/frax.svg" width="40px" height="40px"/></td>
   <td>Legacy Frax Dollar</td>
   <td>FRAX</td>
   <td><a href="./crypto/frax@arbitrum.json">frax@arbitrum</a></td>
@@ -5293,6 +5788,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/frax.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/frax.svg" width="40px" height="40px"/></td>
   <td>Legacy Frax Dollar</td>
   <td>FRAX</td>
   <td><a href="./crypto/frax@avalanche-c-chain.json">frax@avalanche-c-chain</a></td>
@@ -5303,6 +5799,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/frax.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/frax.svg" width="40px" height="40px"/></td>
   <td>Legacy Frax Dollar</td>
   <td>FRAX</td>
   <td><a href="./crypto/frax@binance-smart-chain.json">frax@binance-smart-chain</a></td>
@@ -5314,6 +5811,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/frax.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/frax.svg" width="40px" height="40px"/></td>
   <td>Legacy Frax Dollar</td>
   <td>FRAX</td>
   <td><a href="./crypto/frax@ethereum.json">frax@ethereum</a></td>
@@ -5325,6 +5823,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/frax.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/frax.svg" width="40px" height="40px"/></td>
   <td>Legacy Frax Dollar</td>
   <td>FRAX</td>
   <td><a href="./crypto/frax@fantom.json">frax@fantom</a></td>
@@ -5335,6 +5834,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/frax.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/frax.svg" width="40px" height="40px"/></td>
   <td>Legacy Frax Dollar</td>
   <td>FRAX</td>
   <td><a href="./crypto/frax@near.json">frax@near</a></td>
@@ -5345,6 +5845,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/frax.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/frax.svg" width="40px" height="40px"/></td>
   <td>Legacy Frax Dollar</td>
   <td>FRAX</td>
   <td><a href="./crypto/frax@optimism.json">frax@optimism</a></td>
@@ -5355,6 +5856,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/frax.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/frax.svg" width="40px" height="40px"/></td>
   <td>Legacy Frax Dollar</td>
   <td>FRAX</td>
   <td><a href="./crypto/frax@polygon.json">frax@polygon</a></td>
@@ -5365,6 +5867,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/frax.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/frax.svg" width="40px" height="40px"/></td>
   <td>Legacy Frax Dollar</td>
   <td>FRAX</td>
   <td><a href="./crypto/frax@solana.json">frax@solana</a></td>
@@ -5376,6 +5879,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">219</td>
   <td><img src="logo/swissborg.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/swissborg.svg" width="40px" height="40px"/></td>
   <td>SwissBorg</td>
   <td>BORG</td>
   <td><a href="./crypto/swissborg@ethereum.json">swissborg@ethereum</a></td>
@@ -5387,6 +5891,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/swissborg.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/swissborg.svg" width="40px" height="40px"/></td>
   <td>SwissBorg</td>
   <td>BORG</td>
   <td><a href="./crypto/swissborg@solana.json">swissborg@solana</a></td>
@@ -5396,8 +5901,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="2">252</td>
+  <td rowspan="2">253</td>
   <td><img src="logo/beam.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/beam.svg" width="40px" height="40px"/></td>
   <td>Beam</td>
   <td>BEAM</td>
   <td><a href="./crypto/beam@binance-smart-chain.json">beam@binance-smart-chain</a></td>
@@ -5409,6 +5915,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/beam.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/beam.svg" width="40px" height="40px"/></td>
   <td>Beam</td>
   <td>BEAM</td>
   <td><a href="./crypto/beam@ethereum.json">beam@ethereum</a></td>
@@ -5419,8 +5926,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="2">254</td>
+  <td rowspan="2">255</td>
   <td><img src="logo/ftx-token.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ftx-token.svg" width="40px" height="40px"/></td>
   <td>FTX Token</td>
   <td>FTT</td>
   <td><a href="./crypto/ftx-token@ethereum.json">ftx-token@ethereum</a></td>
@@ -5432,6 +5940,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/ftx-token.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ftx-token.svg" width="40px" height="40px"/></td>
   <td>FTX Token</td>
   <td>FTT</td>
   <td><a href="./crypto/ftx-token@solana.json">ftx-token@solana</a></td>
@@ -5443,6 +5952,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">256</td>
   <td><img src="logo/enjin-coin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/enjin-coin.svg" width="40px" height="40px"/></td>
   <td>Enjin Coin</td>
   <td>ENJ</td>
   <td><a href="./crypto/enjin-coin@ethereum.json">enjin-coin@ethereum</a></td>
@@ -5455,6 +5965,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="7">257</td>
   <td><img src="logo/yearn-finance.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/yearn-finance.svg" width="40px" height="40px"/></td>
   <td>yearn.finance</td>
   <td>YFI</td>
   <td><a href="./crypto/yearn-finance@arbitrum.json">yearn-finance@arbitrum</a></td>
@@ -5465,6 +5976,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/yearn-finance.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/yearn-finance.svg" width="40px" height="40px"/></td>
   <td>yearn.finance</td>
   <td>YFI</td>
   <td><a href="./crypto/yearn-finance@avalanche-c-chain.json">yearn-finance@avalanche-c-chain</a></td>
@@ -5475,6 +5987,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/yearn-finance.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/yearn-finance.svg" width="40px" height="40px"/></td>
   <td>yearn.finance</td>
   <td>YFI</td>
   <td><a href="./crypto/yearn-finance@binance-smart-chain.json">yearn-finance@binance-smart-chain</a></td>
@@ -5486,6 +5999,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/yearn-finance.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/yearn-finance.svg" width="40px" height="40px"/></td>
   <td>yearn.finance</td>
   <td>YFI</td>
   <td><a href="./crypto/yearn-finance@ethereum.json">yearn-finance@ethereum</a></td>
@@ -5497,6 +6011,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/yearn-finance.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/yearn-finance.svg" width="40px" height="40px"/></td>
   <td>yearn.finance</td>
   <td>YFI</td>
   <td><a href="./crypto/yearn-finance@fantom.json">yearn-finance@fantom</a></td>
@@ -5507,6 +6022,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/yearn-finance.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/yearn-finance.svg" width="40px" height="40px"/></td>
   <td>yearn.finance</td>
   <td>YFI</td>
   <td><a href="./crypto/yearn-finance@near.json">yearn-finance@near</a></td>
@@ -5517,6 +6033,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/yearn-finance.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/yearn-finance.svg" width="40px" height="40px"/></td>
   <td>yearn.finance</td>
   <td>YFI</td>
   <td><a href="./crypto/yearn-finance@solana.json">yearn-finance@solana</a></td>
@@ -5526,8 +6043,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="1">260</td>
+  <td rowspan="1">261</td>
   <td><img src="logo/ravencoin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ravencoin.svg" width="40px" height="40px"/></td>
   <td>Ravencoin</td>
   <td>RVN</td>
   <td><a href="./crypto/ravencoin@ravencoin.json">ravencoin@ravencoin</a></td>
@@ -5539,6 +6057,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">262</td>
   <td><img src="logo/qtum.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/qtum.svg" width="40px" height="40px"/></td>
   <td>Qtum</td>
   <td>QTUM</td>
   <td><a href="./crypto/qtum@qtum.json">qtum@qtum</a></td>
@@ -5548,8 +6067,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="1">264</td>
+  <td rowspan="1">263</td>
   <td><img src="logo/0x.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/0x.svg" width="40px" height="40px"/></td>
   <td>0x Protocol</td>
   <td>ZRX</td>
   <td><a href="./crypto/0x@ethereum.json">0x@ethereum</a></td>
@@ -5562,6 +6082,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="8">270</td>
   <td><img src="logo/axelar.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/axelar.svg" width="40px" height="40px"/></td>
   <td>Axelar</td>
   <td>AXL</td>
   <td><a href="./crypto/axelar@arbitrum.json">axelar@arbitrum</a></td>
@@ -5572,6 +6093,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/axelar.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/axelar.svg" width="40px" height="40px"/></td>
   <td>Axelar</td>
   <td>AXL</td>
   <td><a href="./crypto/axelar@avalanche-c-chain.json">axelar@avalanche-c-chain</a></td>
@@ -5582,6 +6104,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/axelar.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/axelar.svg" width="40px" height="40px"/></td>
   <td>Axelar</td>
   <td>AXL</td>
   <td><a href="./crypto/axelar@base.json">axelar@base</a></td>
@@ -5592,6 +6115,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/axelar.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/axelar.svg" width="40px" height="40px"/></td>
   <td>Axelar</td>
   <td>AXL</td>
   <td><a href="./crypto/axelar@binance-smart-chain.json">axelar@binance-smart-chain</a></td>
@@ -5603,6 +6127,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/axelar.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/axelar.svg" width="40px" height="40px"/></td>
   <td>Axelar</td>
   <td>AXL</td>
   <td><a href="./crypto/axelar@ethereum.json">axelar@ethereum</a></td>
@@ -5614,6 +6139,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/axelar.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/axelar.svg" width="40px" height="40px"/></td>
   <td>Axelar</td>
   <td>AXL</td>
   <td><a href="./crypto/axelar@fantom.json">axelar@fantom</a></td>
@@ -5624,6 +6150,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/axelar.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/axelar.svg" width="40px" height="40px"/></td>
   <td>Axelar</td>
   <td>AXL</td>
   <td><a href="./crypto/axelar@optimism.json">axelar@optimism</a></td>
@@ -5634,6 +6161,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/axelar.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/axelar.svg" width="40px" height="40px"/></td>
   <td>Axelar</td>
   <td>AXL</td>
   <td><a href="./crypto/axelar@polygon.json">axelar@polygon</a></td>
@@ -5643,8 +6171,21 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="2">271</td>
+  <td rowspan="1">271</td>
+  <td><img src="logo/kusama.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/kusama.svg" width="40px" height="40px"/></td>
+  <td>Kusama</td>
+  <td>KSM</td>
+  <td><a href="./crypto/kusama@kusama.json">kusama@kusama</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/kusama">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/kusama/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="2">274</td>
   <td><img src="logo/aioz-network.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/aioz-network.svg" width="40px" height="40px"/></td>
   <td>AIOZ Network</td>
   <td>AIOZ</td>
   <td><a href="./crypto/aioz-network@binance-smart-chain.json">aioz-network@binance-smart-chain</a></td>
@@ -5656,6 +6197,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/aioz-network.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/aioz-network.svg" width="40px" height="40px"/></td>
   <td>AIOZ Network</td>
   <td>AIOZ</td>
   <td><a href="./crypto/aioz-network@ethereum.json">aioz-network@ethereum</a></td>
@@ -5666,19 +6208,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="1">273</td>
-  <td><img src="logo/kusama.svg" width="40px" height="40px"/></td>
-  <td>Kusama</td>
-  <td>KSM</td>
-  <td><a href="./crypto/kusama@kusama.json">kusama@kusama</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/kusama">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/kusama/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">277</td>
+  <td rowspan="1">279</td>
   <td><img src="logo/grass.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/grass.svg" width="40px" height="40px"/></td>
   <td>Grass</td>
   <td>GRASS</td>
   <td><a href="./crypto/grass@solana.json">grass@solana</a></td>
@@ -5688,8 +6220,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="3">282</td>
+  <td rowspan="3">281</td>
   <td><img src="logo/zilliqa.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/zilliqa.svg" width="40px" height="40px"/></td>
   <td>Zilliqa</td>
   <td>ZIL</td>
   <td><a href="./crypto/zilliqa@zilliqa.json">zilliqa@zilliqa</a></td>
@@ -5700,6 +6233,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/zilliqa.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/zilliqa.svg" width="40px" height="40px"/></td>
   <td>Zilliqa</td>
   <td>ZIL</td>
   <td><a href="./crypto/zilliqa@binance-smart-chain.json">zilliqa@binance-smart-chain</a></td>
@@ -5711,6 +6245,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/zilliqa.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/zilliqa.svg" width="40px" height="40px"/></td>
   <td>Zilliqa</td>
   <td>ZIL</td>
   <td><a href="./crypto/zilliqa@ethereum.json">zilliqa@ethereum</a></td>
@@ -5723,6 +6258,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">285</td>
   <td><img src="logo/theta-fuel.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/theta-fuel.svg" width="40px" height="40px"/></td>
   <td>Theta Fuel</td>
   <td>TFUEL</td>
   <td><a href="./crypto/theta-fuel@theta.json">theta-fuel@theta</a></td>
@@ -5734,6 +6270,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">290</td>
   <td><img src="logo/brett-based.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/brett-based.svg" width="40px" height="40px"/></td>
   <td>Brett (Based)</td>
   <td>BRETT</td>
   <td><a href="./crypto/brett-based@base.json">brett-based@base</a></td>
@@ -5744,40 +6281,8 @@ Total cryptos: 889
 </tr>
 <tr>
   <td rowspan="3">292</td>
-  <td><img src="logo/superfarm.svg" width="40px" height="40px"/></td>
-  <td>SuperVerse</td>
-  <td>SUPER</td>
-  <td><a href="./crypto/superfarm@binance-smart-chain.json">superfarm@binance-smart-chain</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/superfarm">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/superverse/">Coinmarketcap</a><br>
-    <a href="https://bscscan.com/token/0x51ba0b044d96c3abfca52b64d733603ccc4f0d4d">BscScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td><img src="logo/superfarm.svg" width="40px" height="40px"/></td>
-  <td>SuperVerse</td>
-  <td>SUPER</td>
-  <td><a href="./crypto/superfarm@ethereum.json">superfarm@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/superfarm">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/superverse/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0xe53ec727dbdeb9e2d5456c3be40cff031ab40a55">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td><img src="logo/superfarm.svg" width="40px" height="40px"/></td>
-  <td>SuperVerse</td>
-  <td>SUPER</td>
-  <td><a href="./crypto/superfarm@polygon.json">superfarm@polygon</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/superfarm">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/superverse/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="3">294</td>
   <td><img src="logo/soon.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/soon.svg" width="40px" height="40px"/></td>
   <td>SOON</td>
   <td>SOON</td>
   <td><a href="./crypto/soon@base.json">soon@base</a></td>
@@ -5788,6 +6293,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/soon.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/soon.svg" width="40px" height="40px"/></td>
   <td>SOON</td>
   <td>SOON</td>
   <td><a href="./crypto/soon@binance-smart-chain.json">soon@binance-smart-chain</a></td>
@@ -5799,6 +6305,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/soon.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/soon.svg" width="40px" height="40px"/></td>
   <td>SOON</td>
   <td>SOON</td>
   <td><a href="./crypto/soon@solana.json">soon@solana</a></td>
@@ -5808,8 +6315,45 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="2">296</td>
+  <td rowspan="3">294</td>
+  <td><img src="logo/superfarm.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/superfarm.svg" width="40px" height="40px"/></td>
+  <td>SuperVerse</td>
+  <td>SUPER</td>
+  <td><a href="./crypto/superfarm@binance-smart-chain.json">superfarm@binance-smart-chain</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/superfarm">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/superverse/">Coinmarketcap</a><br>
+    <a href="https://bscscan.com/token/0x51ba0b044d96c3abfca52b64d733603ccc4f0d4d">BscScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td><img src="logo/superfarm.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/superfarm.svg" width="40px" height="40px"/></td>
+  <td>SuperVerse</td>
+  <td>SUPER</td>
+  <td><a href="./crypto/superfarm@ethereum.json">superfarm@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/superfarm">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/superverse/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0xe53ec727dbdeb9e2d5456c3be40cff031ab40a55">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td><img src="logo/superfarm.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/superfarm.svg" width="40px" height="40px"/></td>
+  <td>SuperVerse</td>
+  <td>SUPER</td>
+  <td><a href="./crypto/superfarm@polygon.json">superfarm@polygon</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/superfarm">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/superverse/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="2">297</td>
   <td><img src="logo/alchemy-pay.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/alchemy-pay.svg" width="40px" height="40px"/></td>
   <td>Alchemy Pay</td>
   <td>ACH</td>
   <td><a href="./crypto/alchemy-pay@binance-smart-chain.json">alchemy-pay@binance-smart-chain</a></td>
@@ -5821,6 +6365,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/alchemy-pay.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/alchemy-pay.svg" width="40px" height="40px"/></td>
   <td>Alchemy Pay</td>
   <td>ACH</td>
   <td><a href="./crypto/alchemy-pay@ethereum.json">alchemy-pay@ethereum</a></td>
@@ -5833,6 +6378,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="5">299</td>
   <td><img src="logo/wormhole.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/wormhole.svg" width="40px" height="40px"/></td>
   <td>Wormhole</td>
   <td>W</td>
   <td><a href="./crypto/wormhole@arbitrum.json">wormhole@arbitrum</a></td>
@@ -5843,6 +6389,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/wormhole.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/wormhole.svg" width="40px" height="40px"/></td>
   <td>Wormhole</td>
   <td>W</td>
   <td><a href="./crypto/wormhole@base.json">wormhole@base</a></td>
@@ -5853,6 +6400,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/wormhole.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/wormhole.svg" width="40px" height="40px"/></td>
   <td>Wormhole</td>
   <td>W</td>
   <td><a href="./crypto/wormhole@ethereum.json">wormhole@ethereum</a></td>
@@ -5864,6 +6412,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/wormhole.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/wormhole.svg" width="40px" height="40px"/></td>
   <td>Wormhole</td>
   <td>W</td>
   <td><a href="./crypto/wormhole@optimism.json">wormhole@optimism</a></td>
@@ -5874,6 +6423,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/wormhole.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/wormhole.svg" width="40px" height="40px"/></td>
   <td>Wormhole</td>
   <td>W</td>
   <td><a href="./crypto/wormhole@solana.json">wormhole@solana</a></td>
@@ -5885,6 +6435,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">301</td>
   <td><img src="logo/oasis-network.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/oasis-network.svg" width="40px" height="40px"/></td>
   <td>Oasis</td>
   <td>ROSE</td>
   <td><a href="./crypto/oasis-network@binance-smart-chain.json">oasis-network@binance-smart-chain</a></td>
@@ -5896,6 +6447,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/oasis-network.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/oasis-network.svg" width="40px" height="40px"/></td>
   <td>Oasis</td>
   <td>ROSE</td>
   <td><a href="./crypto/oasis-network@ethereum.json">oasis-network@ethereum</a></td>
@@ -5906,8 +6458,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="1">305</td>
+  <td rowspan="1">306</td>
   <td><img src="logo/blur.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/blur.svg" width="40px" height="40px"/></td>
   <td>Blur</td>
   <td>BLUR</td>
   <td><a href="./crypto/blur@ethereum.json">blur@ethereum</a></td>
@@ -5920,6 +6473,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">307</td>
   <td><img src="logo/gmx.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/gmx.svg" width="40px" height="40px"/></td>
   <td>GMX</td>
   <td>GMX</td>
   <td><a href="./crypto/gmx@arbitrum.json">gmx@arbitrum</a></td>
@@ -5930,6 +6484,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/gmx.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/gmx.svg" width="40px" height="40px"/></td>
   <td>GMX</td>
   <td>GMX</td>
   <td><a href="./crypto/gmx@avalanche-c-chain.json">gmx@avalanche-c-chain</a></td>
@@ -5941,6 +6496,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">308</td>
   <td><img src="logo/amp.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/amp.svg" width="40px" height="40px"/></td>
   <td>Amp</td>
   <td>AMP</td>
   <td><a href="./crypto/amp@ethereum.json">amp@ethereum</a></td>
@@ -5953,6 +6509,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">312</td>
   <td><img src="logo/holo.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/holo.svg" width="40px" height="40px"/></td>
   <td>Holo</td>
   <td>HOT</td>
   <td><a href="./crypto/holo@ethereum.json">holo@ethereum</a></td>
@@ -5965,6 +6522,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">313</td>
   <td><img src="logo/nervos-network.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/nervos-network.svg" width="40px" height="40px"/></td>
   <td>Nervos Network</td>
   <td>CKB</td>
   <td><a href="./crypto/nervos-network@nervos-ckb.json">nervos-network@nervos-ckb</a></td>
@@ -5976,6 +6534,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="4">318</td>
   <td><img src="logo/ontology.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ontology.svg" width="40px" height="40px"/></td>
   <td>Ontology</td>
   <td>ONT</td>
   <td><a href="./crypto/ontology@ontology.json">ontology@ontology</a></td>
@@ -5986,6 +6545,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/ontology.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ontology.svg" width="40px" height="40px"/></td>
   <td>Ontology</td>
   <td>ONT</td>
   <td><a href="./crypto/ontology@binance-smart-chain.json">ontology@binance-smart-chain</a></td>
@@ -5997,6 +6557,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/ontology.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ontology.svg" width="40px" height="40px"/></td>
   <td>Ontology</td>
   <td>ONT</td>
   <td><a href="./crypto/ontology@ethereum.json">ontology@ethereum</a></td>
@@ -6008,6 +6569,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/ontology.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ontology.svg" width="40px" height="40px"/></td>
   <td>Ontology</td>
   <td>ONT</td>
   <td><a href="./crypto/ontology@polygon.json">ontology@polygon</a></td>
@@ -6019,6 +6581,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">319</td>
   <td><img src="logo/digibyte.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/digibyte.svg" width="40px" height="40px"/></td>
   <td>DigiByte</td>
   <td>DGB</td>
   <td><a href="./crypto/digibyte@digibyte.json">digibyte@digibyte</a></td>
@@ -6028,8 +6591,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="2">322</td>
+  <td rowspan="2">321</td>
   <td><img src="logo/dusk-network.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/dusk-network.svg" width="40px" height="40px"/></td>
   <td>Dusk</td>
   <td>DUSK</td>
   <td><a href="./crypto/dusk-network@binance-smart-chain.json">dusk-network@binance-smart-chain</a></td>
@@ -6041,6 +6605,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/dusk-network.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/dusk-network.svg" width="40px" height="40px"/></td>
   <td>Dusk</td>
   <td>DUSK</td>
   <td><a href="./crypto/dusk-network@ethereum.json">dusk-network@ethereum</a></td>
@@ -6051,20 +6616,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="1">323</td>
-  <td><img src="logo/myx-finance.svg" width="40px" height="40px"/></td>
-  <td>MYX Finance</td>
-  <td>MYX</td>
-  <td><a href="./crypto/myx-finance@binance-smart-chain.json">myx-finance@binance-smart-chain</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/myx-finance">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/myx-finance/">Coinmarketcap</a><br>
-    <a href="https://bscscan.com/token/0xd82544bf0dfe8385ef8fa34d67e6e4940cc63e16">BscScan</a><br>
-  </td>
-</tr>
-<tr>
   <td rowspan="3">325</td>
   <td><img src="logo/kava.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/kava.svg" width="40px" height="40px"/></td>
   <td>Kava</td>
   <td>KAVA</td>
   <td><a href="./crypto/kava@kava.json">kava@kava</a></td>
@@ -6075,6 +6629,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/kava.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/kava.svg" width="40px" height="40px"/></td>
   <td>Kava</td>
   <td>KAVA</td>
   <td><a href="./crypto/kava@ethereum.json">kava@ethereum</a></td>
@@ -6086,6 +6641,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/kava.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/kava.svg" width="40px" height="40px"/></td>
   <td>Kava</td>
   <td>KAVA</td>
   <td><a href="./crypto/kava@polygon.json">kava@polygon</a></td>
@@ -6095,8 +6651,22 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
+  <td rowspan="1">326</td>
+  <td><img src="logo/myx-finance.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/myx-finance.svg" width="40px" height="40px"/></td>
+  <td>MYX Finance</td>
+  <td>MYX</td>
+  <td><a href="./crypto/myx-finance@binance-smart-chain.json">myx-finance@binance-smart-chain</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/myx-finance">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/myx-finance/">Coinmarketcap</a><br>
+    <a href="https://bscscan.com/token/0xd82544bf0dfe8385ef8fa34d67e6e4940cc63e16">BscScan</a><br>
+  </td>
+</tr>
+<tr>
   <td rowspan="1">330</td>
   <td><img src="logo/numeraire.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/numeraire.svg" width="40px" height="40px"/></td>
   <td>Numeraire</td>
   <td>NMR</td>
   <td><a href="./crypto/numeraire@ethereum.json">numeraire@ethereum</a></td>
@@ -6109,6 +6679,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">335</td>
   <td><img src="logo/flow.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/flow.svg" width="40px" height="40px"/></td>
   <td>Flow</td>
   <td>FLOW</td>
   <td><a href="./crypto/flow@flow.json">flow@flow</a></td>
@@ -6119,6 +6690,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/flow.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/flow.svg" width="40px" height="40px"/></td>
   <td>Flow</td>
   <td>FLOW</td>
   <td><a href="./crypto/flow@ethereum.json">flow@ethereum</a></td>
@@ -6131,6 +6703,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">337</td>
   <td><img src="logo/movement.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/movement.svg" width="40px" height="40px"/></td>
   <td>Movement</td>
   <td>MOVE</td>
   <td><a href="./crypto/movement@ethereum.json">movement@ethereum</a></td>
@@ -6143,6 +6716,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">338</td>
   <td><img src="logo/aelf.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/aelf.svg" width="40px" height="40px"/></td>
   <td>aelf</td>
   <td>ELF</td>
   <td><a href="./crypto/aelf@binance-smart-chain.json">aelf@binance-smart-chain</a></td>
@@ -6154,6 +6728,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/aelf.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/aelf.svg" width="40px" height="40px"/></td>
   <td>aelf</td>
   <td>ELF</td>
   <td><a href="./crypto/aelf@ethereum.json">aelf@ethereum</a></td>
@@ -6166,6 +6741,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="10">344</td>
   <td><img src="logo/sushi.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/sushi.svg" width="40px" height="40px"/></td>
   <td>SushiSwap</td>
   <td>SUSHI</td>
   <td><a href="./crypto/sushi@arbitrum.json">sushi@arbitrum</a></td>
@@ -6176,6 +6752,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/sushi.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/sushi.svg" width="40px" height="40px"/></td>
   <td>SushiSwap</td>
   <td>SUSHI</td>
   <td><a href="./crypto/sushi@avalanche-c-chain.json">sushi@avalanche-c-chain</a></td>
@@ -6186,6 +6763,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/sushi.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/sushi.svg" width="40px" height="40px"/></td>
   <td>SushiSwap</td>
   <td>SUSHI</td>
   <td><a href="./crypto/sushi@base.json">sushi@base</a></td>
@@ -6196,6 +6774,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/sushi.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/sushi.svg" width="40px" height="40px"/></td>
   <td>SushiSwap</td>
   <td>SUSHI</td>
   <td><a href="./crypto/sushi@binance-smart-chain.json">sushi@binance-smart-chain</a></td>
@@ -6207,6 +6786,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/sushi.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/sushi.svg" width="40px" height="40px"/></td>
   <td>SushiSwap</td>
   <td>SUSHI</td>
   <td><a href="./crypto/sushi@celo.json">sushi@celo</a></td>
@@ -6217,6 +6797,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/sushi.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/sushi.svg" width="40px" height="40px"/></td>
   <td>SushiSwap</td>
   <td>SUSHI</td>
   <td><a href="./crypto/sushi@ethereum.json">sushi@ethereum</a></td>
@@ -6228,6 +6809,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/sushi.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/sushi.svg" width="40px" height="40px"/></td>
   <td>SushiSwap</td>
   <td>SUSHI</td>
   <td><a href="./crypto/sushi@fantom.json">sushi@fantom</a></td>
@@ -6238,6 +6820,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/sushi.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/sushi.svg" width="40px" height="40px"/></td>
   <td>SushiSwap</td>
   <td>SUSHI</td>
   <td><a href="./crypto/sushi@harmony.json">sushi@harmony</a></td>
@@ -6248,6 +6831,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/sushi.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/sushi.svg" width="40px" height="40px"/></td>
   <td>SushiSwap</td>
   <td>SUSHI</td>
   <td><a href="./crypto/sushi@optimism.json">sushi@optimism</a></td>
@@ -6258,6 +6842,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/sushi.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/sushi.svg" width="40px" height="40px"/></td>
   <td>SushiSwap</td>
   <td>SUSHI</td>
   <td><a href="./crypto/sushi@polygon.json">sushi@polygon</a></td>
@@ -6267,8 +6852,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="4">346</td>
+  <td rowspan="4">345</td>
   <td><img src="logo/mog-coin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/mog-coin.svg" width="40px" height="40px"/></td>
   <td>Mog Coin</td>
   <td>MOG</td>
   <td><a href="./crypto/mog-coin@base.json">mog-coin@base</a></td>
@@ -6279,6 +6865,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/mog-coin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/mog-coin.svg" width="40px" height="40px"/></td>
   <td>Mog Coin</td>
   <td>MOG</td>
   <td><a href="./crypto/mog-coin@binance-smart-chain.json">mog-coin@binance-smart-chain</a></td>
@@ -6290,6 +6877,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/mog-coin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/mog-coin.svg" width="40px" height="40px"/></td>
   <td>Mog Coin</td>
   <td>MOG</td>
   <td><a href="./crypto/mog-coin@ethereum.json">mog-coin@ethereum</a></td>
@@ -6301,6 +6889,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/mog-coin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/mog-coin.svg" width="40px" height="40px"/></td>
   <td>Mog Coin</td>
   <td>MOG</td>
   <td><a href="./crypto/mog-coin@solana.json">mog-coin@solana</a></td>
@@ -6311,18 +6900,8 @@ Total cryptos: 889
 </tr>
 <tr>
   <td rowspan="1">349</td>
-  <td><img src="logo/peanut-the-squirrel.svg" width="40px" height="40px"/></td>
-  <td>Peanut the Squirrel</td>
-  <td>PNUT</td>
-  <td><a href="./crypto/peanut-the-squirrel@solana.json">peanut-the-squirrel@solana</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/peanut-the-squirrel">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/peanut-the-squirrel/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">350</td>
   <td><img src="logo/popcat-sol.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/popcat-sol.svg" width="40px" height="40px"/></td>
   <td>Popcat</td>
   <td>POPCAT</td>
   <td><a href="./crypto/popcat-sol@solana.json">popcat-sol@solana</a></td>
@@ -6332,8 +6911,21 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
+  <td rowspan="1">350</td>
+  <td><img src="logo/peanut-the-squirrel.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/peanut-the-squirrel.svg" width="40px" height="40px"/></td>
+  <td>Peanut the Squirrel</td>
+  <td>PNUT</td>
+  <td><a href="./crypto/peanut-the-squirrel@solana.json">peanut-the-squirrel@solana</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/peanut-the-squirrel">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/peanut-the-squirrel/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
   <td rowspan="1">356</td>
   <td><img src="logo/nano.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/nano.svg" width="40px" height="40px"/></td>
   <td>Nano</td>
   <td>XNO</td>
   <td><a href="./crypto/nano@nano.json">nano@nano</a></td>
@@ -6345,6 +6937,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">357</td>
   <td><img src="logo/verge.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/verge.svg" width="40px" height="40px"/></td>
   <td>Verge</td>
   <td>XVG</td>
   <td><a href="./crypto/verge@verge.json">verge@verge</a></td>
@@ -6354,8 +6947,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="2">363</td>
+  <td rowspan="2">364</td>
   <td><img src="logo/request.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/request.svg" width="40px" height="40px"/></td>
   <td>Request</td>
   <td>REQ</td>
   <td><a href="./crypto/request@ethereum.json">request@ethereum</a></td>
@@ -6367,6 +6961,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/request.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/request.svg" width="40px" height="40px"/></td>
   <td>Request</td>
   <td>REQ</td>
   <td><a href="./crypto/request@polygon.json">request@polygon</a></td>
@@ -6376,8 +6971,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="1">369</td>
+  <td rowspan="1">367</td>
   <td><img src="logo/cat-in-a-dogs-world.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/cat-in-a-dogs-world.svg" width="40px" height="40px"/></td>
   <td>cat in a dogs world</td>
   <td>MEW</td>
   <td><a href="./crypto/cat-in-a-dogs-world@solana.json">cat-in-a-dogs-world@solana</a></td>
@@ -6387,8 +6983,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="4">376</td>
+  <td rowspan="4">377</td>
   <td><img src="logo/tellor.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/tellor.svg" width="40px" height="40px"/></td>
   <td>Tellor</td>
   <td>TRB</td>
   <td><a href="./crypto/tellor@arbitrum.json">tellor@arbitrum</a></td>
@@ -6399,6 +6996,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/tellor.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/tellor.svg" width="40px" height="40px"/></td>
   <td>Tellor</td>
   <td>TRB</td>
   <td><a href="./crypto/tellor@ethereum.json">tellor@ethereum</a></td>
@@ -6410,6 +7008,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/tellor.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/tellor.svg" width="40px" height="40px"/></td>
   <td>Tellor</td>
   <td>TRB</td>
   <td><a href="./crypto/tellor@optimism.json">tellor@optimism</a></td>
@@ -6420,6 +7019,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/tellor.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/tellor.svg" width="40px" height="40px"/></td>
   <td>Tellor</td>
   <td>TRB</td>
   <td><a href="./crypto/tellor@polygon.json">tellor@polygon</a></td>
@@ -6431,6 +7031,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">379</td>
   <td><img src="logo/celo.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/celo.svg" width="40px" height="40px"/></td>
   <td>Celo</td>
   <td>CELO</td>
   <td><a href="./crypto/celo@celo.json">celo@celo</a></td>
@@ -6441,6 +7042,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/celo.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/celo.svg" width="40px" height="40px"/></td>
   <td>Celo</td>
   <td>CELO</td>
   <td><a href="./crypto/celo@near.json">celo@near</a></td>
@@ -6450,8 +7052,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="4">391</td>
+  <td rowspan="4">390</td>
   <td><img src="logo/waves.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/waves.svg" width="40px" height="40px"/></td>
   <td>Waves</td>
   <td>WAVES</td>
   <td><a href="./crypto/waves@waves.json">waves@waves</a></td>
@@ -6462,6 +7065,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/waves.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/waves.svg" width="40px" height="40px"/></td>
   <td>Waves</td>
   <td>WAVES</td>
   <td><a href="./crypto/waves@binance-smart-chain.json">waves@binance-smart-chain</a></td>
@@ -6473,6 +7077,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/waves.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/waves.svg" width="40px" height="40px"/></td>
   <td>Waves</td>
   <td>WAVES</td>
   <td><a href="./crypto/waves@ethereum.json">waves@ethereum</a></td>
@@ -6484,6 +7089,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/waves.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/waves.svg" width="40px" height="40px"/></td>
   <td>Waves</td>
   <td>WAVES</td>
   <td><a href="./crypto/waves@solana.json">waves@solana</a></td>
@@ -6495,6 +7101,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">397</td>
   <td><img src="logo/notcoin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/notcoin.svg" width="40px" height="40px"/></td>
   <td>Notcoin</td>
   <td>NOT</td>
   <td><a href="./crypto/notcoin@toncoin.json">notcoin@toncoin</a></td>
@@ -6504,8 +7111,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="8">401</td>
+  <td rowspan="8">400</td>
   <td><img src="logo/ankr.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ankr.svg" width="40px" height="40px"/></td>
   <td>Ankr</td>
   <td>ANKR</td>
   <td><a href="./crypto/ankr@arbitrum.json">ankr@arbitrum</a></td>
@@ -6516,6 +7124,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/ankr.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ankr.svg" width="40px" height="40px"/></td>
   <td>Ankr</td>
   <td>ANKR</td>
   <td><a href="./crypto/ankr@avalanche-c-chain.json">ankr@avalanche-c-chain</a></td>
@@ -6526,6 +7135,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/ankr.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ankr.svg" width="40px" height="40px"/></td>
   <td>Ankr</td>
   <td>ANKR</td>
   <td><a href="./crypto/ankr@binance-smart-chain.json">ankr@binance-smart-chain</a></td>
@@ -6537,6 +7147,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/ankr.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ankr.svg" width="40px" height="40px"/></td>
   <td>Ankr</td>
   <td>ANKR</td>
   <td><a href="./crypto/ankr@ethereum.json">ankr@ethereum</a></td>
@@ -6548,6 +7159,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/ankr.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ankr.svg" width="40px" height="40px"/></td>
   <td>Ankr</td>
   <td>ANKR</td>
   <td><a href="./crypto/ankr@fantom.json">ankr@fantom</a></td>
@@ -6558,6 +7170,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/ankr.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ankr.svg" width="40px" height="40px"/></td>
   <td>Ankr</td>
   <td>ANKR</td>
   <td><a href="./crypto/ankr@optimism.json">ankr@optimism</a></td>
@@ -6568,6 +7181,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/ankr.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ankr.svg" width="40px" height="40px"/></td>
   <td>Ankr</td>
   <td>ANKR</td>
   <td><a href="./crypto/ankr@polygon.json">ankr@polygon</a></td>
@@ -6578,6 +7192,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/ankr.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ankr.svg" width="40px" height="40px"/></td>
   <td>Ankr</td>
   <td>ANKR</td>
   <td><a href="./crypto/ankr@solana.json">ankr@solana</a></td>
@@ -6587,8 +7202,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="3">404</td>
+  <td rowspan="3">403</td>
   <td><img src="logo/mask-network.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/mask-network.svg" width="40px" height="40px"/></td>
   <td>Mask Network</td>
   <td>MASK</td>
   <td><a href="./crypto/mask-network@binance-smart-chain.json">mask-network@binance-smart-chain</a></td>
@@ -6600,6 +7216,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/mask-network.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/mask-network.svg" width="40px" height="40px"/></td>
   <td>Mask Network</td>
   <td>MASK</td>
   <td><a href="./crypto/mask-network@ethereum.json">mask-network@ethereum</a></td>
@@ -6611,6 +7228,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/mask-network.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/mask-network.svg" width="40px" height="40px"/></td>
   <td>Mask Network</td>
   <td>MASK</td>
   <td><a href="./crypto/mask-network@polygon.json">mask-network@polygon</a></td>
@@ -6622,6 +7240,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">406</td>
   <td><img src="logo/ssv-network.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ssv-network.svg" width="40px" height="40px"/></td>
   <td>ssv.network</td>
   <td>SSV</td>
   <td><a href="./crypto/ssv-network@ethereum.json">ssv-network@ethereum</a></td>
@@ -6634,6 +7253,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">411</td>
   <td><img src="logo/status.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/status.svg" width="40px" height="40px"/></td>
   <td>Status</td>
   <td>SNT</td>
   <td><a href="./crypto/status@ethereum.json">status@ethereum</a></td>
@@ -6646,6 +7266,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">413</td>
   <td><img src="logo/xyo-network.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/xyo-network.svg" width="40px" height="40px"/></td>
   <td>XYO</td>
   <td>XYO</td>
   <td><a href="./crypto/xyo-network@ethereum.json">xyo-network@ethereum</a></td>
@@ -6657,6 +7278,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/xyo-network.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/xyo-network.svg" width="40px" height="40px"/></td>
   <td>XYO</td>
   <td>XYO</td>
   <td><a href="./crypto/xyo-network@solana.json">xyo-network@solana</a></td>
@@ -6668,6 +7290,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">417</td>
   <td><img src="logo/hive.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/hive.svg" width="40px" height="40px"/></td>
   <td>Hive</td>
   <td>HIVE</td>
   <td><a href="./crypto/hive@hive.json">hive@hive</a></td>
@@ -6679,6 +7302,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="6">429</td>
   <td><img src="logo/frax-share.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/frax-share.svg" width="40px" height="40px"/></td>
   <td>Frax (prev. FXS)</td>
   <td>FRAX</td>
   <td><a href="./crypto/frax-share@arbitrum.json">frax-share@arbitrum</a></td>
@@ -6689,6 +7313,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/frax-share.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/frax-share.svg" width="40px" height="40px"/></td>
   <td>Frax (prev. FXS)</td>
   <td>FRAX</td>
   <td><a href="./crypto/frax-share@avalanche-c-chain.json">frax-share@avalanche-c-chain</a></td>
@@ -6699,6 +7324,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/frax-share.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/frax-share.svg" width="40px" height="40px"/></td>
   <td>Frax (prev. FXS)</td>
   <td>FRAX</td>
   <td><a href="./crypto/frax-share@binance-smart-chain.json">frax-share@binance-smart-chain</a></td>
@@ -6710,6 +7336,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/frax-share.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/frax-share.svg" width="40px" height="40px"/></td>
   <td>Frax (prev. FXS)</td>
   <td>FRAX</td>
   <td><a href="./crypto/frax-share@ethereum.json">frax-share@ethereum</a></td>
@@ -6721,6 +7348,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/frax-share.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/frax-share.svg" width="40px" height="40px"/></td>
   <td>Frax (prev. FXS)</td>
   <td>FRAX</td>
   <td><a href="./crypto/frax-share@fantom.json">frax-share@fantom</a></td>
@@ -6731,6 +7359,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/frax-share.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/frax-share.svg" width="40px" height="40px"/></td>
   <td>Frax (prev. FXS)</td>
   <td>FRAX</td>
   <td><a href="./crypto/frax-share@solana.json">frax-share@solana</a></td>
@@ -6742,6 +7371,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">435</td>
   <td><img src="logo/uma.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/uma.svg" width="40px" height="40px"/></td>
   <td>UMA</td>
   <td>UMA</td>
   <td><a href="./crypto/uma@avalanche-c-chain.json">uma@avalanche-c-chain</a></td>
@@ -6752,6 +7382,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/uma.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/uma.svg" width="40px" height="40px"/></td>
   <td>UMA</td>
   <td>UMA</td>
   <td><a href="./crypto/uma@ethereum.json">uma@ethereum</a></td>
@@ -6762,8 +7393,22 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="5">440</td>
+  <td rowspan="1">441</td>
+  <td><img src="logo/skale.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/skale.svg" width="40px" height="40px"/></td>
+  <td>SKALE</td>
+  <td>SKL</td>
+  <td><a href="./crypto/skale@ethereum.json">skale@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/skale">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/skale-network/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x00c83aecc790e8a4453e5dd3b0b4b3680501a7a7">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="5">442</td>
   <td><img src="logo/iotex.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/iotex.svg" width="40px" height="40px"/></td>
   <td>IoTeX</td>
   <td>IOTX</td>
   <td><a href="./crypto/iotex@iotex.json">iotex@iotex</a></td>
@@ -6774,6 +7419,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/iotex.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/iotex.svg" width="40px" height="40px"/></td>
   <td>IoTeX</td>
   <td>IOTX</td>
   <td><a href="./crypto/iotex@base.json">iotex@base</a></td>
@@ -6784,6 +7430,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/iotex.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/iotex.svg" width="40px" height="40px"/></td>
   <td>IoTeX</td>
   <td>IOTX</td>
   <td><a href="./crypto/iotex@binance-smart-chain.json">iotex@binance-smart-chain</a></td>
@@ -6795,6 +7442,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/iotex.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/iotex.svg" width="40px" height="40px"/></td>
   <td>IoTeX</td>
   <td>IOTX</td>
   <td><a href="./crypto/iotex@ethereum.json">iotex@ethereum</a></td>
@@ -6806,6 +7454,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/iotex.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/iotex.svg" width="40px" height="40px"/></td>
   <td>IoTeX</td>
   <td>IOTX</td>
   <td><a href="./crypto/iotex@polygon.json">iotex@polygon</a></td>
@@ -6815,20 +7464,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="1">442</td>
-  <td><img src="logo/skale.svg" width="40px" height="40px"/></td>
-  <td>SKALE</td>
-  <td>SKL</td>
-  <td><a href="./crypto/skale@ethereum.json">skale@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/skale">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/skale-network/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x00c83aecc790e8a4453e5dd3b0b4b3680501a7a7">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">443</td>
+  <td rowspan="1">444</td>
   <td><img src="logo/rocket-pool.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/rocket-pool.svg" width="40px" height="40px"/></td>
   <td>Rocket Pool</td>
   <td>RPL</td>
   <td><a href="./crypto/rocket-pool@ethereum.json">rocket-pool@ethereum</a></td>
@@ -6839,8 +7477,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="1">445</td>
+  <td rowspan="1">447</td>
   <td><img src="logo/storj.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/storj.svg" width="40px" height="40px"/></td>
   <td>Storj</td>
   <td>STORJ</td>
   <td><a href="./crypto/storj@ethereum.json">storj@ethereum</a></td>
@@ -6851,8 +7490,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="1">448</td>
+  <td rowspan="1">449</td>
   <td><img src="logo/ardor.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ardor.svg" width="40px" height="40px"/></td>
   <td>Ardor</td>
   <td>ARDR</td>
   <td><a href="./crypto/ardor@ardor.json">ardor@ardor</a></td>
@@ -6864,6 +7504,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="5">451</td>
   <td><img src="logo/venus.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/venus.svg" width="40px" height="40px"/></td>
   <td>Venus</td>
   <td>XVS</td>
   <td><a href="./crypto/venus@arbitrum.json">venus@arbitrum</a></td>
@@ -6874,6 +7515,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/venus.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/venus.svg" width="40px" height="40px"/></td>
   <td>Venus</td>
   <td>XVS</td>
   <td><a href="./crypto/venus@base.json">venus@base</a></td>
@@ -6884,6 +7526,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/venus.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/venus.svg" width="40px" height="40px"/></td>
   <td>Venus</td>
   <td>XVS</td>
   <td><a href="./crypto/venus@binance-smart-chain.json">venus@binance-smart-chain</a></td>
@@ -6895,6 +7538,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/venus.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/venus.svg" width="40px" height="40px"/></td>
   <td>Venus</td>
   <td>XVS</td>
   <td><a href="./crypto/venus@ethereum.json">venus@ethereum</a></td>
@@ -6906,6 +7550,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/venus.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/venus.svg" width="40px" height="40px"/></td>
   <td>Venus</td>
   <td>XVS</td>
   <td><a href="./crypto/venus@optimism.json">venus@optimism</a></td>
@@ -6917,6 +7562,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">452</td>
   <td><img src="logo/changenow.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/changenow.svg" width="40px" height="40px"/></td>
   <td>ChangeNOW</td>
   <td>NOW</td>
   <td><a href="./crypto/changenow@binance-smart-chain.json">changenow@binance-smart-chain</a></td>
@@ -6928,6 +7574,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/changenow.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/changenow.svg" width="40px" height="40px"/></td>
   <td>ChangeNOW</td>
   <td>NOW</td>
   <td><a href="./crypto/changenow@ethereum.json">changenow@ethereum</a></td>
@@ -6940,6 +7587,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">461</td>
   <td><img src="logo/icon.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/icon.svg" width="40px" height="40px"/></td>
   <td>ICON</td>
   <td>ICX</td>
   <td><a href="./crypto/icon@icon.json">icon@icon</a></td>
@@ -6949,8 +7597,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="1">466</td>
+  <td rowspan="1">467</td>
   <td><img src="logo/gemini-dollar.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/gemini-dollar.svg" width="40px" height="40px"/></td>
   <td>Gemini Dollar</td>
   <td>GUSD</td>
   <td><a href="./crypto/gemini-dollar@ethereum.json">gemini-dollar@ethereum</a></td>
@@ -6961,19 +7610,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="1">468</td>
-  <td><img src="logo/book-of-meme.svg" width="40px" height="40px"/></td>
-  <td>BOOK OF MEME</td>
-  <td>BOME</td>
-  <td><a href="./crypto/book-of-meme@solana.json">book-of-meme@solana</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/book-of-meme">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/book-of-meme/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="2">470</td>
+  <td rowspan="2">469</td>
   <td><img src="logo/pax-dollar.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/pax-dollar.svg" width="40px" height="40px"/></td>
   <td>Pax Dollar</td>
   <td>USDP</td>
   <td><a href="./crypto/pax-dollar@ethereum.json">pax-dollar@ethereum</a></td>
@@ -6985,6 +7624,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/pax-dollar.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/pax-dollar.svg" width="40px" height="40px"/></td>
   <td>Pax Dollar</td>
   <td>USDP</td>
   <td><a href="./crypto/pax-dollar@solana.json">pax-dollar@solana</a></td>
@@ -6994,8 +7634,34 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="2">471</td>
+  <td rowspan="1">470</td>
+  <td><img src="logo/book-of-meme.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/book-of-meme.svg" width="40px" height="40px"/></td>
+  <td>BOOK OF MEME</td>
+  <td>BOME</td>
+  <td><a href="./crypto/book-of-meme@solana.json">book-of-meme@solana</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/book-of-meme">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/book-of-meme/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">471</td>
+  <td><img src="logo/iexec-rlc.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/iexec-rlc.svg" width="40px" height="40px"/></td>
+  <td>iExec RLC</td>
+  <td>RLC</td>
+  <td><a href="./crypto/iexec-rlc@ethereum.json">iexec-rlc@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/iexec-rlc">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/rlc/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x607f4c5bb672230e8672085532f7e901544a7375">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="2">472</td>
   <td><img src="logo/aegis-yusd.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/aegis-yusd.svg" width="40px" height="40px"/></td>
   <td>Aegis YUSD</td>
   <td>YUSD</td>
   <td><a href="./crypto/aegis-yusd@binance-smart-chain.json">aegis-yusd@binance-smart-chain</a></td>
@@ -7007,6 +7673,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/aegis-yusd.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/aegis-yusd.svg" width="40px" height="40px"/></td>
   <td>Aegis YUSD</td>
   <td>YUSD</td>
   <td><a href="./crypto/aegis-yusd@ethereum.json">aegis-yusd@ethereum</a></td>
@@ -7017,20 +7684,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="1">473</td>
-  <td><img src="logo/iexec-rlc.svg" width="40px" height="40px"/></td>
-  <td>iExec RLC</td>
-  <td>RLC</td>
-  <td><a href="./crypto/iexec-rlc@ethereum.json">iexec-rlc@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/iexec-rlc">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/rlc/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x607f4c5bb672230e8672085532f7e901544a7375">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
   <td rowspan="2">474</td>
   <td><img src="logo/dogelon-mars.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/dogelon-mars.svg" width="40px" height="40px"/></td>
   <td>Dogelon Mars</td>
   <td>ELON</td>
   <td><a href="./crypto/dogelon-mars@ethereum.json">dogelon-mars@ethereum</a></td>
@@ -7042,6 +7698,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/dogelon-mars.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/dogelon-mars.svg" width="40px" height="40px"/></td>
   <td>Dogelon Mars</td>
   <td>ELON</td>
   <td><a href="./crypto/dogelon-mars@polygon.json">dogelon-mars@polygon</a></td>
@@ -7053,6 +7710,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="5">476</td>
   <td><img src="logo/binance-usd.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/binance-usd.svg" width="40px" height="40px"/></td>
   <td>BUSD</td>
   <td>BUSD</td>
   <td><a href="./crypto/binance-usd@avalanche-c-chain.json">binance-usd@avalanche-c-chain</a></td>
@@ -7063,6 +7721,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/binance-usd.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/binance-usd.svg" width="40px" height="40px"/></td>
   <td>BUSD</td>
   <td>BUSD</td>
   <td><a href="./crypto/binance-usd@binance-smart-chain.json">binance-usd@binance-smart-chain</a></td>
@@ -7074,6 +7733,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/binance-usd.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/binance-usd.svg" width="40px" height="40px"/></td>
   <td>BUSD</td>
   <td>BUSD</td>
   <td><a href="./crypto/binance-usd@ethereum.json">binance-usd@ethereum</a></td>
@@ -7085,6 +7745,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/binance-usd.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/binance-usd.svg" width="40px" height="40px"/></td>
   <td>BUSD</td>
   <td>BUSD</td>
   <td><a href="./crypto/binance-usd@polygon.json">binance-usd@polygon</a></td>
@@ -7095,6 +7756,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/binance-usd.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/binance-usd.svg" width="40px" height="40px"/></td>
   <td>BUSD</td>
   <td>BUSD</td>
   <td><a href="./crypto/binance-usd@tron.json">binance-usd@tron</a></td>
@@ -7106,6 +7768,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">477</td>
   <td><img src="logo/coti.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/coti.svg" width="40px" height="40px"/></td>
   <td>COTI</td>
   <td>COTI</td>
   <td><a href="./crypto/coti@binance-smart-chain.json">coti@binance-smart-chain</a></td>
@@ -7117,6 +7780,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/coti.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/coti.svg" width="40px" height="40px"/></td>
   <td>COTI</td>
   <td>COTI</td>
   <td><a href="./crypto/coti@ethereum.json">coti@ethereum</a></td>
@@ -7127,8 +7791,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="3">481</td>
+  <td rowspan="3">482</td>
   <td><img src="logo/band-protocol.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/band-protocol.svg" width="40px" height="40px"/></td>
   <td>Band</td>
   <td>BAND</td>
   <td><a href="./crypto/band-protocol@binance-smart-chain.json">band-protocol@binance-smart-chain</a></td>
@@ -7140,6 +7805,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/band-protocol.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/band-protocol.svg" width="40px" height="40px"/></td>
   <td>Band</td>
   <td>BAND</td>
   <td><a href="./crypto/band-protocol@ethereum.json">band-protocol@ethereum</a></td>
@@ -7151,6 +7817,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/band-protocol.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/band-protocol.svg" width="40px" height="40px"/></td>
   <td>Band</td>
   <td>BAND</td>
   <td><a href="./crypto/band-protocol@fantom.json">band-protocol@fantom</a></td>
@@ -7160,8 +7827,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="1">484</td>
+  <td rowspan="1">485</td>
   <td><img src="logo/pundi-x.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/pundi-x.svg" width="40px" height="40px"/></td>
   <td>Pundi X</td>
   <td>PUNDIX</td>
   <td><a href="./crypto/pundi-x@ethereum.json">pundi-x@ethereum</a></td>
@@ -7174,6 +7842,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">490</td>
   <td><img src="logo/solayer.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/solayer.svg" width="40px" height="40px"/></td>
   <td>Solayer</td>
   <td>LAYER</td>
   <td><a href="./crypto/solayer@solana.json">solayer@solana</a></td>
@@ -7185,6 +7854,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">495</td>
   <td><img src="logo/power-ledger.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/power-ledger.svg" width="40px" height="40px"/></td>
   <td>Powerledger</td>
   <td>POWR</td>
   <td><a href="./crypto/power-ledger@ethereum.json">power-ledger@ethereum</a></td>
@@ -7195,8 +7865,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="8">497</td>
+  <td rowspan="8">498</td>
   <td><img src="logo/orbs.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/orbs.svg" width="40px" height="40px"/></td>
   <td>Orbs</td>
   <td>ORBS</td>
   <td><a href="./crypto/orbs@arbitrum.json">orbs@arbitrum</a></td>
@@ -7207,6 +7878,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/orbs.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/orbs.svg" width="40px" height="40px"/></td>
   <td>Orbs</td>
   <td>ORBS</td>
   <td><a href="./crypto/orbs@avalanche-c-chain.json">orbs@avalanche-c-chain</a></td>
@@ -7217,6 +7889,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/orbs.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/orbs.svg" width="40px" height="40px"/></td>
   <td>Orbs</td>
   <td>ORBS</td>
   <td><a href="./crypto/orbs@binance-smart-chain.json">orbs@binance-smart-chain</a></td>
@@ -7228,6 +7901,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/orbs.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/orbs.svg" width="40px" height="40px"/></td>
   <td>Orbs</td>
   <td>ORBS</td>
   <td><a href="./crypto/orbs@ethereum.json">orbs@ethereum</a></td>
@@ -7239,6 +7913,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/orbs.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/orbs.svg" width="40px" height="40px"/></td>
   <td>Orbs</td>
   <td>ORBS</td>
   <td><a href="./crypto/orbs@fantom.json">orbs@fantom</a></td>
@@ -7249,6 +7924,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/orbs.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/orbs.svg" width="40px" height="40px"/></td>
   <td>Orbs</td>
   <td>ORBS</td>
   <td><a href="./crypto/orbs@harmony.json">orbs@harmony</a></td>
@@ -7259,6 +7935,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/orbs.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/orbs.svg" width="40px" height="40px"/></td>
   <td>Orbs</td>
   <td>ORBS</td>
   <td><a href="./crypto/orbs@polygon.json">orbs@polygon</a></td>
@@ -7269,6 +7946,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/orbs.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/orbs.svg" width="40px" height="40px"/></td>
   <td>Orbs</td>
   <td>ORBS</td>
   <td><a href="./crypto/orbs@solana.json">orbs@solana</a></td>
@@ -7278,8 +7956,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="4">500</td>
+  <td rowspan="4">501</td>
   <td><img src="logo/woo-network.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/woo-network.svg" width="40px" height="40px"/></td>
   <td>WOO</td>
   <td>WOO</td>
   <td><a href="./crypto/woo-network@arbitrum.json">woo-network@arbitrum</a></td>
@@ -7290,6 +7969,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/woo-network.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/woo-network.svg" width="40px" height="40px"/></td>
   <td>WOO</td>
   <td>WOO</td>
   <td><a href="./crypto/woo-network@binance-smart-chain.json">woo-network@binance-smart-chain</a></td>
@@ -7301,6 +7981,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/woo-network.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/woo-network.svg" width="40px" height="40px"/></td>
   <td>WOO</td>
   <td>WOO</td>
   <td><a href="./crypto/woo-network@ethereum.json">woo-network@ethereum</a></td>
@@ -7312,6 +7993,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/woo-network.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/woo-network.svg" width="40px" height="40px"/></td>
   <td>WOO</td>
   <td>WOO</td>
   <td><a href="./crypto/woo-network@polygon.json">woo-network@polygon</a></td>
@@ -7321,8 +8003,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="1">511</td>
+  <td rowspan="1">506</td>
   <td><img src="logo/dogs.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/dogs.svg" width="40px" height="40px"/></td>
   <td>DOGS</td>
   <td>DOGS</td>
   <td><a href="./crypto/dogs@toncoin.json">dogs@toncoin</a></td>
@@ -7334,6 +8017,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">520</td>
   <td><img src="logo/prometeus.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/prometeus.svg" width="40px" height="40px"/></td>
   <td>Prom</td>
   <td>PROM</td>
   <td><a href="./crypto/prometeus@binance-smart-chain.json">prometeus@binance-smart-chain</a></td>
@@ -7345,6 +8029,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/prometeus.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/prometeus.svg" width="40px" height="40px"/></td>
   <td>Prom</td>
   <td>PROM</td>
   <td><a href="./crypto/prometeus@ethereum.json">prometeus@ethereum</a></td>
@@ -7357,6 +8042,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">523</td>
   <td><img src="logo/iost.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/iost.svg" width="40px" height="40px"/></td>
   <td>IOST</td>
   <td>IOST</td>
   <td><a href="./crypto/iost@iost.json">iost@iost</a></td>
@@ -7368,6 +8054,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">525</td>
   <td><img src="logo/celo-dollar.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/celo-dollar.svg" width="40px" height="40px"/></td>
   <td>Celo Dollar</td>
   <td>CUSD</td>
   <td><a href="./crypto/celo-dollar@celo.json">celo-dollar@celo</a></td>
@@ -7379,6 +8066,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">529</td>
   <td><img src="logo/ong.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ong.svg" width="40px" height="40px"/></td>
   <td>Ontology Gas</td>
   <td>ONG</td>
   <td><a href="./crypto/ong@ontology.json">ong@ontology</a></td>
@@ -7390,6 +8078,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">530</td>
   <td><img src="logo/bancor-network-token.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/bancor-network-token.svg" width="40px" height="40px"/></td>
   <td>Bancor</td>
   <td>BNT</td>
   <td><a href="./crypto/bancor-network-token@ethereum.json">bancor-network-token@ethereum</a></td>
@@ -7402,6 +8091,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">531</td>
   <td><img src="logo/propy.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/propy.svg" width="40px" height="40px"/></td>
   <td>Propy</td>
   <td>PRO</td>
   <td><a href="./crypto/propy@ethereum.json">propy@ethereum</a></td>
@@ -7414,6 +8104,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">535</td>
   <td><img src="logo/harmony.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/harmony.svg" width="40px" height="40px"/></td>
   <td>Harmony</td>
   <td>ONE</td>
   <td><a href="./crypto/harmony@harmony.json">harmony@harmony</a></td>
@@ -7423,8 +8114,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="1">536</td>
+  <td rowspan="1">538</td>
   <td><img src="logo/ark.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ark.svg" width="40px" height="40px"/></td>
   <td>Ark</td>
   <td>ARK</td>
   <td><a href="./crypto/ark@ark.json">ark@ark</a></td>
@@ -7434,8 +8126,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="1">543</td>
+  <td rowspan="1">544</td>
   <td><img src="logo/illuvium.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/illuvium.svg" width="40px" height="40px"/></td>
   <td>Illuvium</td>
   <td>ILV</td>
   <td><a href="./crypto/illuvium@ethereum.json">illuvium@ethereum</a></td>
@@ -7446,8 +8139,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="4">548</td>
+  <td rowspan="4">547</td>
   <td><img src="logo/stepn.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/stepn.svg" width="40px" height="40px"/></td>
   <td>GMT</td>
   <td>GMT</td>
   <td><a href="./crypto/stepn@binance-smart-chain.json">stepn@binance-smart-chain</a></td>
@@ -7459,6 +8153,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/stepn.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/stepn.svg" width="40px" height="40px"/></td>
   <td>GMT</td>
   <td>GMT</td>
   <td><a href="./crypto/stepn@ethereum.json">stepn@ethereum</a></td>
@@ -7470,6 +8165,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/stepn.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/stepn.svg" width="40px" height="40px"/></td>
   <td>GMT</td>
   <td>GMT</td>
   <td><a href="./crypto/stepn@polygon.json">stepn@polygon</a></td>
@@ -7480,6 +8176,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/stepn.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/stepn.svg" width="40px" height="40px"/></td>
   <td>GMT</td>
   <td>GMT</td>
   <td><a href="./crypto/stepn@solana.json">stepn@solana</a></td>
@@ -7489,8 +8186,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="2">553</td>
+  <td rowspan="2">551</td>
   <td><img src="logo/auction.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/auction.svg" width="40px" height="40px"/></td>
   <td>Bounce Token</td>
   <td>AUCTION</td>
   <td><a href="./crypto/auction@binance-smart-chain.json">auction@binance-smart-chain</a></td>
@@ -7502,6 +8200,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/auction.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/auction.svg" width="40px" height="40px"/></td>
   <td>Bounce Token</td>
   <td>AUCTION</td>
   <td><a href="./crypto/auction@ethereum.json">auction@ethereum</a></td>
@@ -7514,6 +8213,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">561</td>
   <td><img src="logo/yield-guild-games.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/yield-guild-games.svg" width="40px" height="40px"/></td>
   <td>Yield Guild Games</td>
   <td>YGG</td>
   <td><a href="./crypto/yield-guild-games@binance-smart-chain.json">yield-guild-games@binance-smart-chain</a></td>
@@ -7525,6 +8225,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/yield-guild-games.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/yield-guild-games.svg" width="40px" height="40px"/></td>
   <td>Yield Guild Games</td>
   <td>YGG</td>
   <td><a href="./crypto/yield-guild-games@ethereum.json">yield-guild-games@ethereum</a></td>
@@ -7535,8 +8236,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="1">567</td>
+  <td rowspan="1">562</td>
   <td><img src="logo/api3.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/api3.svg" width="40px" height="40px"/></td>
   <td>API3</td>
   <td>API3</td>
   <td><a href="./crypto/api3@ethereum.json">api3@ethereum</a></td>
@@ -7547,8 +8249,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="1">571</td>
+  <td rowspan="1">568</td>
   <td><img src="logo/civic.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/civic.svg" width="40px" height="40px"/></td>
   <td>Civic</td>
   <td>CVC</td>
   <td><a href="./crypto/civic@ethereum.json">civic@ethereum</a></td>
@@ -7559,8 +8262,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="3">572</td>
+  <td rowspan="3">570</td>
   <td><img src="logo/kyber-network-crystal.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/kyber-network-crystal.svg" width="40px" height="40px"/></td>
   <td>Kyber Network Crystal</td>
   <td>KNC</td>
   <td><a href="./crypto/kyber-network-crystal@binance-smart-chain.json">kyber-network-crystal@binance-smart-chain</a></td>
@@ -7572,6 +8276,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/kyber-network-crystal.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/kyber-network-crystal.svg" width="40px" height="40px"/></td>
   <td>Kyber Network Crystal</td>
   <td>KNC</td>
   <td><a href="./crypto/kyber-network-crystal@ethereum.json">kyber-network-crystal@ethereum</a></td>
@@ -7583,6 +8288,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/kyber-network-crystal.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/kyber-network-crystal.svg" width="40px" height="40px"/></td>
   <td>Kyber Network Crystal</td>
   <td>KNC</td>
   <td><a href="./crypto/kyber-network-crystal@polygon.json">kyber-network-crystal@polygon</a></td>
@@ -7592,8 +8298,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="2">575</td>
+  <td rowspan="2">573</td>
   <td><img src="logo/wax.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/wax.svg" width="40px" height="40px"/></td>
   <td>WAX</td>
   <td>WAXP</td>
   <td><a href="./crypto/wax@wax.json">wax@wax</a></td>
@@ -7604,6 +8311,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/wax.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/wax.svg" width="40px" height="40px"/></td>
   <td>WAX</td>
   <td>WAXP</td>
   <td><a href="./crypto/wax@ethereum.json">wax@ethereum</a></td>
@@ -7616,6 +8324,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">579</td>
   <td><img src="logo/lisk.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/lisk.svg" width="40px" height="40px"/></td>
   <td>Lisk</td>
   <td>LSK</td>
   <td><a href="./crypto/lisk@lisk.json">lisk@lisk</a></td>
@@ -7626,6 +8335,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/lisk.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/lisk.svg" width="40px" height="40px"/></td>
   <td>Lisk</td>
   <td>LSK</td>
   <td><a href="./crypto/lisk@ethereum.json">lisk@ethereum</a></td>
@@ -7638,6 +8348,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">582</td>
   <td><img src="logo/cartesi.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/cartesi.svg" width="40px" height="40px"/></td>
   <td>Cartesi</td>
   <td>CTSI</td>
   <td><a href="./crypto/cartesi@binance-smart-chain.json">cartesi@binance-smart-chain</a></td>
@@ -7649,6 +8360,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/cartesi.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/cartesi.svg" width="40px" height="40px"/></td>
   <td>Cartesi</td>
   <td>CTSI</td>
   <td><a href="./crypto/cartesi@ethereum.json">cartesi@ethereum</a></td>
@@ -7659,8 +8371,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="1">587</td>
+  <td rowspan="1">588</td>
   <td><img src="logo/liquity.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/liquity.svg" width="40px" height="40px"/></td>
   <td>Liquity</td>
   <td>LQTY</td>
   <td><a href="./crypto/liquity@ethereum.json">liquity@ethereum</a></td>
@@ -7671,8 +8384,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="1">601</td>
+  <td rowspan="1">602</td>
   <td><img src="logo/audius.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/audius.svg" width="40px" height="40px"/></td>
   <td>Audius</td>
   <td>AUDIO</td>
   <td><a href="./crypto/audius@ethereum.json">audius@ethereum</a></td>
@@ -7683,8 +8397,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="1">604</td>
+  <td rowspan="1">605</td>
   <td><img src="logo/liquity-usd.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/liquity-usd.svg" width="40px" height="40px"/></td>
   <td>Liquity USD</td>
   <td>LUSD</td>
   <td><a href="./crypto/liquity-usd@ethereum.json">liquity-usd@ethereum</a></td>
@@ -7695,8 +8410,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="1">605</td>
+  <td rowspan="1">606</td>
   <td><img src="logo/everipedia.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/everipedia.svg" width="40px" height="40px"/></td>
   <td>IQ</td>
   <td>IQ</td>
   <td><a href="./crypto/everipedia@ethereum.json">everipedia@ethereum</a></td>
@@ -7709,6 +8425,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">614</td>
   <td><img src="logo/pha.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/pha.svg" width="40px" height="40px"/></td>
   <td>Phala Network</td>
   <td>PHA</td>
   <td><a href="./crypto/pha@ethereum.json">pha@ethereum</a></td>
@@ -7721,6 +8438,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">617</td>
   <td><img src="logo/symbol.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/symbol.svg" width="40px" height="40px"/></td>
   <td>Symbol</td>
   <td>XYM</td>
   <td><a href="./crypto/symbol@symbol.json">symbol@symbol</a></td>
@@ -7730,8 +8448,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="1">625</td>
+  <td rowspan="1">626</td>
   <td><img src="logo/aergo.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/aergo.svg" width="40px" height="40px"/></td>
   <td>Aergo</td>
   <td>AERGO</td>
   <td><a href="./crypto/aergo@ethereum.json">aergo@ethereum</a></td>
@@ -7744,6 +8463,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">638</td>
   <td><img src="logo/metis-token.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/metis-token.svg" width="40px" height="40px"/></td>
   <td>Metis</td>
   <td>METIS</td>
   <td><a href="./crypto/metis-token@ethereum.json">metis-token@ethereum</a></td>
@@ -7756,6 +8476,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">642</td>
   <td><img src="logo/smooth-love-potion.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/smooth-love-potion.svg" width="40px" height="40px"/></td>
   <td>Smooth Love Potion</td>
   <td>SLP</td>
   <td><a href="./crypto/smooth-love-potion@binance-smart-chain.json">smooth-love-potion@binance-smart-chain</a></td>
@@ -7767,6 +8488,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/smooth-love-potion.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/smooth-love-potion.svg" width="40px" height="40px"/></td>
   <td>Smooth Love Potion</td>
   <td>SLP</td>
   <td><a href="./crypto/smooth-love-potion@ethereum.json">smooth-love-potion@ethereum</a></td>
@@ -7777,8 +8499,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="2">658</td>
+  <td rowspan="2">661</td>
   <td><img src="logo/chromia.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/chromia.svg" width="40px" height="40px"/></td>
   <td>Chromia</td>
   <td>CHR</td>
   <td><a href="./crypto/chromia@binance-smart-chain.json">chromia@binance-smart-chain</a></td>
@@ -7790,6 +8513,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/chromia.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/chromia.svg" width="40px" height="40px"/></td>
   <td>Chromia</td>
   <td>CHR</td>
   <td><a href="./crypto/chromia@ethereum.json">chromia@ethereum</a></td>
@@ -7800,8 +8524,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="1">663</td>
+  <td rowspan="1">664</td>
   <td><img src="logo/pippin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/pippin.svg" width="40px" height="40px"/></td>
   <td>pippin</td>
   <td>PIPPIN</td>
   <td><a href="./crypto/pippin@solana.json">pippin@solana</a></td>
@@ -7811,8 +8536,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="1">664</td>
+  <td rowspan="1">665</td>
   <td><img src="logo/ergo.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ergo.svg" width="40px" height="40px"/></td>
   <td>Ergo</td>
   <td>ERG</td>
   <td><a href="./crypto/ergo@ergo.json">ergo@ergo</a></td>
@@ -7824,6 +8550,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">674</td>
   <td><img src="logo/biconomy.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/biconomy.svg" width="40px" height="40px"/></td>
   <td>Biconomy</td>
   <td>BICO</td>
   <td><a href="./crypto/biconomy@ethereum.json">biconomy@ethereum</a></td>
@@ -7834,8 +8561,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="1">681</td>
+  <td rowspan="1">679</td>
   <td><img src="logo/susd.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/susd.svg" width="40px" height="40px"/></td>
   <td>sUSD</td>
   <td>SUSD</td>
   <td><a href="./crypto/susd@ethereum.json">susd@ethereum</a></td>
@@ -7848,6 +8576,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">682</td>
   <td><img src="logo/adventure-gold.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/adventure-gold.svg" width="40px" height="40px"/></td>
   <td>Adventure Gold</td>
   <td>AGLD</td>
   <td><a href="./crypto/adventure-gold@ethereum.json">adventure-gold@ethereum</a></td>
@@ -7860,6 +8589,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">692</td>
   <td><img src="logo/loopring.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/loopring.svg" width="40px" height="40px"/></td>
   <td>Loopring</td>
   <td>LRC</td>
   <td><a href="./crypto/loopring@ethereum.json">loopring@ethereum</a></td>
@@ -7872,6 +8602,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">693</td>
   <td><img src="logo/dia.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/dia.svg" width="40px" height="40px"/></td>
   <td>DIA</td>
   <td>DIA</td>
   <td><a href="./crypto/dia@binance-smart-chain.json">dia@binance-smart-chain</a></td>
@@ -7883,6 +8614,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/dia.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/dia.svg" width="40px" height="40px"/></td>
   <td>DIA</td>
   <td>DIA</td>
   <td><a href="./crypto/dia@ethereum.json">dia@ethereum</a></td>
@@ -7895,6 +8627,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">697</td>
   <td><img src="logo/quarkchain.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/quarkchain.svg" width="40px" height="40px"/></td>
   <td>QuarkChain</td>
   <td>QKC</td>
   <td><a href="./crypto/quarkchain@ethereum.json">quarkchain@ethereum</a></td>
@@ -7907,6 +8640,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">698</td>
   <td><img src="logo/bifrost.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/bifrost.svg" width="40px" height="40px"/></td>
   <td>Bifrost</td>
   <td>BFC</td>
   <td><a href="./crypto/bifrost@ethereum.json">bifrost@ethereum</a></td>
@@ -7917,8 +8651,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="2">715</td>
+  <td rowspan="2">713</td>
   <td><img src="logo/celer-network.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/celer-network.svg" width="40px" height="40px"/></td>
   <td>Celer Network</td>
   <td>CELR</td>
   <td><a href="./crypto/celer-network@binance-smart-chain.json">celer-network@binance-smart-chain</a></td>
@@ -7930,6 +8665,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/celer-network.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/celer-network.svg" width="40px" height="40px"/></td>
   <td>Celer Network</td>
   <td>CELR</td>
   <td><a href="./crypto/celer-network@ethereum.json">celer-network@ethereum</a></td>
@@ -7940,8 +8676,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="3">723</td>
+  <td rowspan="3">721</td>
   <td><img src="logo/coin98.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/coin98.svg" width="40px" height="40px"/></td>
   <td>Coin98</td>
   <td>C98</td>
   <td><a href="./crypto/coin98@binance-smart-chain.json">coin98@binance-smart-chain</a></td>
@@ -7953,6 +8690,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/coin98.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/coin98.svg" width="40px" height="40px"/></td>
   <td>Coin98</td>
   <td>C98</td>
   <td><a href="./crypto/coin98@ethereum.json">coin98@ethereum</a></td>
@@ -7964,6 +8702,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/coin98.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/coin98.svg" width="40px" height="40px"/></td>
   <td>Coin98</td>
   <td>C98</td>
   <td><a href="./crypto/coin98@solana.json">coin98@solana</a></td>
@@ -7975,6 +8714,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">752</td>
   <td><img src="logo/dodo.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/dodo.svg" width="40px" height="40px"/></td>
   <td>DODO</td>
   <td>DODO</td>
   <td><a href="./crypto/dodo@binance-smart-chain.json">dodo@binance-smart-chain</a></td>
@@ -7986,6 +8726,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/dodo.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/dodo.svg" width="40px" height="40px"/></td>
   <td>DODO</td>
   <td>DODO</td>
   <td><a href="./crypto/dodo@ethereum.json">dodo@ethereum</a></td>
@@ -7996,8 +8737,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="2">788</td>
+  <td rowspan="2">789</td>
   <td><img src="logo/firo.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/firo.svg" width="40px" height="40px"/></td>
   <td>Firo</td>
   <td>FIRO</td>
   <td><a href="./crypto/firo@firo.json">firo@firo</a></td>
@@ -8008,6 +8750,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/firo.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/firo.svg" width="40px" height="40px"/></td>
   <td>Firo</td>
   <td>FIRO</td>
   <td><a href="./crypto/firo@binance-smart-chain.json">firo@binance-smart-chain</a></td>
@@ -8018,8 +8761,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="2">798</td>
+  <td rowspan="2">799</td>
   <td><img src="logo/marlin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/marlin.svg" width="40px" height="40px"/></td>
   <td>Marlin</td>
   <td>POND</td>
   <td><a href="./crypto/marlin@arbitrum.json">marlin@arbitrum</a></td>
@@ -8030,6 +8774,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/marlin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/marlin.svg" width="40px" height="40px"/></td>
   <td>Marlin</td>
   <td>POND</td>
   <td><a href="./crypto/marlin@ethereum.json">marlin@ethereum</a></td>
@@ -8042,6 +8787,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">800</td>
   <td><img src="logo/bonfida.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/bonfida.svg" width="40px" height="40px"/></td>
   <td>Solana Name Service</td>
   <td>FIDA</td>
   <td><a href="./crypto/bonfida@solana.json">bonfida@solana</a></td>
@@ -8053,6 +8799,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">822</td>
   <td><img src="logo/origin-protocol.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/origin-protocol.svg" width="40px" height="40px"/></td>
   <td>Origin Protocol</td>
   <td>OGN</td>
   <td><a href="./crypto/origin-protocol@ethereum.json">origin-protocol@ethereum</a></td>
@@ -8065,6 +8812,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">834</td>
   <td><img src="logo/arpa-chain.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/arpa-chain.svg" width="40px" height="40px"/></td>
   <td>ARPA</td>
   <td>ARPA</td>
   <td><a href="./crypto/arpa-chain@binance-smart-chain.json">arpa-chain@binance-smart-chain</a></td>
@@ -8076,6 +8824,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/arpa-chain.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/arpa-chain.svg" width="40px" height="40px"/></td>
   <td>ARPA</td>
   <td>ARPA</td>
   <td><a href="./crypto/arpa-chain@ethereum.json">arpa-chain@ethereum</a></td>
@@ -8086,8 +8835,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="2">843</td>
+  <td rowspan="2">845</td>
   <td><img src="logo/my-neighbor-alice.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/my-neighbor-alice.svg" width="40px" height="40px"/></td>
   <td>MyNeighborAlice</td>
   <td>ALICE</td>
   <td><a href="./crypto/my-neighbor-alice@binance-smart-chain.json">my-neighbor-alice@binance-smart-chain</a></td>
@@ -8099,6 +8849,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/my-neighbor-alice.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/my-neighbor-alice.svg" width="40px" height="40px"/></td>
   <td>MyNeighborAlice</td>
   <td>ALICE</td>
   <td><a href="./crypto/my-neighbor-alice@ethereum.json">my-neighbor-alice@ethereum</a></td>
@@ -8109,8 +8860,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="1">850</td>
+  <td rowspan="1">848</td>
   <td><img src="logo/gods-unchained.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/gods-unchained.svg" width="40px" height="40px"/></td>
   <td>Gods Unchained</td>
   <td>GODS</td>
   <td><a href="./crypto/gods-unchained@ethereum.json">gods-unchained@ethereum</a></td>
@@ -8123,6 +8875,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">863</td>
   <td><img src="logo/radicle.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/radicle.svg" width="40px" height="40px"/></td>
   <td>Radworks</td>
   <td>RAD</td>
   <td><a href="./crypto/radicle@ethereum.json">radicle@ethereum</a></td>
@@ -8135,6 +8888,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">872</td>
   <td><img src="logo/superrare.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/superrare.svg" width="40px" height="40px"/></td>
   <td>SuperRare</td>
   <td>RARE</td>
   <td><a href="./crypto/superrare@ethereum.json">superrare@ethereum</a></td>
@@ -8145,8 +8899,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="2">909</td>
+  <td rowspan="2">907</td>
   <td><img src="logo/vulcan-forged.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/vulcan-forged.svg" width="40px" height="40px"/></td>
   <td>Vulcan Forged (PYR)</td>
   <td>PYR</td>
   <td><a href="./crypto/vulcan-forged@ethereum.json">vulcan-forged@ethereum</a></td>
@@ -8158,6 +8913,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/vulcan-forged.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/vulcan-forged.svg" width="40px" height="40px"/></td>
   <td>Vulcan Forged (PYR)</td>
   <td>PYR</td>
   <td><a href="./crypto/vulcan-forged@polygon.json">vulcan-forged@polygon</a></td>
@@ -8167,8 +8923,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="1">911</td>
+  <td rowspan="1">912</td>
   <td><img src="logo/terra-virtua-kolect.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/terra-virtua-kolect.svg" width="40px" height="40px"/></td>
   <td>Vanar Chain</td>
   <td>VANRY</td>
   <td><a href="./crypto/terra-virtua-kolect@ethereum.json">terra-virtua-kolect@ethereum</a></td>
@@ -8181,6 +8938,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">921</td>
   <td><img src="logo/alien-worlds.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/alien-worlds.svg" width="40px" height="40px"/></td>
   <td>Alien Worlds</td>
   <td>TLM</td>
   <td><a href="./crypto/alien-worlds@binance-smart-chain.json">alien-worlds@binance-smart-chain</a></td>
@@ -8192,6 +8950,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/alien-worlds.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/alien-worlds.svg" width="40px" height="40px"/></td>
   <td>Alien Worlds</td>
   <td>TLM</td>
   <td><a href="./crypto/alien-worlds@ethereum.json">alien-worlds@ethereum</a></td>
@@ -8202,8 +8961,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="1">971</td>
+  <td rowspan="1">974</td>
   <td><img src="logo/balancer.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/balancer.svg" width="40px" height="40px"/></td>
   <td>Balancer</td>
   <td>BAL</td>
   <td><a href="./crypto/balancer@ethereum.json">balancer@ethereum</a></td>
@@ -8216,6 +8976,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">1006</td>
   <td><img src="logo/enzyme.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/enzyme.svg" width="40px" height="40px"/></td>
   <td>Enzyme</td>
   <td>MLN</td>
   <td><a href="./crypto/enzyme@ethereum.json">enzyme@ethereum</a></td>
@@ -8228,6 +8989,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">1010</td>
   <td><img src="logo/automata.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/automata.svg" width="40px" height="40px"/></td>
   <td>Automata Network</td>
   <td>ATA</td>
   <td><a href="./crypto/automata@binance-smart-chain.json">automata@binance-smart-chain</a></td>
@@ -8239,6 +9001,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/automata.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/automata.svg" width="40px" height="40px"/></td>
   <td>Automata Network</td>
   <td>ATA</td>
   <td><a href="./crypto/automata@ethereum.json">automata@ethereum</a></td>
@@ -8251,6 +9014,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">1022</td>
   <td><img src="logo/badger-dao.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/badger-dao.svg" width="40px" height="40px"/></td>
   <td>Badger DAO</td>
   <td>BADGER</td>
   <td><a href="./crypto/badger-dao@arbitrum.json">badger-dao@arbitrum</a></td>
@@ -8261,6 +9025,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/badger-dao.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/badger-dao.svg" width="40px" height="40px"/></td>
   <td>Badger DAO</td>
   <td>BADGER</td>
   <td><a href="./crypto/badger-dao@ethereum.json">badger-dao@ethereum</a></td>
@@ -8271,8 +9036,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="1">1025</td>
+  <td rowspan="1">1024</td>
   <td><img src="logo/orchid-protocol.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/orchid-protocol.svg" width="40px" height="40px"/></td>
   <td>Orchid</td>
   <td>OXT</td>
   <td><a href="./crypto/orchid-protocol@ethereum.json">orchid-protocol@ethereum</a></td>
@@ -8283,8 +9049,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="1">1033</td>
+  <td rowspan="1">1034</td>
   <td><img src="logo/bitcoin-gold.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/bitcoin-gold.svg" width="40px" height="40px"/></td>
   <td>Bitcoin Gold</td>
   <td>BTG</td>
   <td><a href="./crypto/bitcoin-gold@bitcoin-gold.json">bitcoin-gold@bitcoin-gold</a></td>
@@ -8296,6 +9063,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">1044</td>
   <td><img src="logo/bella-protocol.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/bella-protocol.svg" width="40px" height="40px"/></td>
   <td>Bella Protocol</td>
   <td>BEL</td>
   <td><a href="./crypto/bella-protocol@binance-smart-chain.json">bella-protocol@binance-smart-chain</a></td>
@@ -8307,6 +9075,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/bella-protocol.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/bella-protocol.svg" width="40px" height="40px"/></td>
   <td>Bella Protocol</td>
   <td>BEL</td>
   <td><a href="./crypto/bella-protocol@ethereum.json">bella-protocol@ethereum</a></td>
@@ -8317,8 +9086,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="1">1046</td>
+  <td rowspan="1">1045</td>
   <td><img src="logo/omg-network.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/omg-network.svg" width="40px" height="40px"/></td>
   <td>OMG Network</td>
   <td>OMG</td>
   <td><a href="./crypto/omg-network@ethereum.json">omg-network@ethereum</a></td>
@@ -8331,6 +9101,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">1055</td>
   <td><img src="logo/dao-maker.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/dao-maker.svg" width="40px" height="40px"/></td>
   <td>DAO Maker</td>
   <td>DAO</td>
   <td><a href="./crypto/dao-maker@ethereum.json">dao-maker@ethereum</a></td>
@@ -8341,8 +9112,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="2">1074</td>
+  <td rowspan="2">1072</td>
   <td><img src="logo/harvest-finance.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/harvest-finance.svg" width="40px" height="40px"/></td>
   <td>Harvest Finance</td>
   <td>FARM</td>
   <td><a href="./crypto/harvest-finance@binance-smart-chain.json">harvest-finance@binance-smart-chain</a></td>
@@ -8354,6 +9126,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/harvest-finance.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/harvest-finance.svg" width="40px" height="40px"/></td>
   <td>Harvest Finance</td>
   <td>FARM</td>
   <td><a href="./crypto/harvest-finance@ethereum.json">harvest-finance@ethereum</a></td>
@@ -8364,8 +9137,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="2">1092</td>
+  <td rowspan="2">1093</td>
   <td><img src="logo/beta-finance.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/beta-finance.svg" width="40px" height="40px"/></td>
   <td>Beta Finance</td>
   <td>BETA</td>
   <td><a href="./crypto/beta-finance@binance-smart-chain.json">beta-finance@binance-smart-chain</a></td>
@@ -8377,6 +9151,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/beta-finance.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/beta-finance.svg" width="40px" height="40px"/></td>
   <td>Beta Finance</td>
   <td>BETA</td>
   <td><a href="./crypto/beta-finance@ethereum.json">beta-finance@ethereum</a></td>
@@ -8387,8 +9162,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="2">1118</td>
+  <td rowspan="2">1114</td>
   <td><img src="logo/radio-caca.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/radio-caca.svg" width="40px" height="40px"/></td>
   <td>RACA</td>
   <td>RACA</td>
   <td><a href="./crypto/radio-caca@binance-smart-chain.json">radio-caca@binance-smart-chain</a></td>
@@ -8400,6 +9176,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/radio-caca.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/radio-caca.svg" width="40px" height="40px"/></td>
   <td>RACA</td>
   <td>RACA</td>
   <td><a href="./crypto/radio-caca@ethereum.json">radio-caca@ethereum</a></td>
@@ -8410,8 +9187,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="2">1154</td>
+  <td rowspan="2">1155</td>
   <td><img src="logo/loom-network.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/loom-network.svg" width="40px" height="40px"/></td>
   <td>Loom Network</td>
   <td>LOOM</td>
   <td><a href="./crypto/loom-network@binance-smart-chain.json">loom-network@binance-smart-chain</a></td>
@@ -8423,6 +9201,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/loom-network.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/loom-network.svg" width="40px" height="40px"/></td>
   <td>Loom Network</td>
   <td>LOOM</td>
   <td><a href="./crypto/loom-network@ethereum.json">loom-network@ethereum</a></td>
@@ -8433,8 +9212,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="1">1163</td>
+  <td rowspan="1">1164</td>
   <td><img src="logo/mobox.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/mobox.svg" width="40px" height="40px"/></td>
   <td>MOBOX</td>
   <td>MBOX</td>
   <td><a href="./crypto/mobox@binance-smart-chain.json">mobox@binance-smart-chain</a></td>
@@ -8445,8 +9225,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="1">1180</td>
+  <td rowspan="1">1177</td>
   <td><img src="logo/boson-protocol.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/boson-protocol.svg" width="40px" height="40px"/></td>
   <td>Boson Protocol</td>
   <td>BOSON</td>
   <td><a href="./crypto/boson-protocol@ethereum.json">boson-protocol@ethereum</a></td>
@@ -8459,6 +9240,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">1184</td>
   <td><img src="logo/nem.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/nem.svg" width="40px" height="40px"/></td>
   <td>NEM</td>
   <td>XEM</td>
   <td><a href="./crypto/nem@nem.json">nem@nem</a></td>
@@ -8470,6 +9252,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">1262</td>
   <td><img src="logo/polkastarter.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/polkastarter.svg" width="40px" height="40px"/></td>
   <td>Polkastarter</td>
   <td>POLS</td>
   <td><a href="./crypto/polkastarter@binance-smart-chain.json">polkastarter@binance-smart-chain</a></td>
@@ -8481,6 +9264,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/polkastarter.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/polkastarter.svg" width="40px" height="40px"/></td>
   <td>Polkastarter</td>
   <td>POLS</td>
   <td><a href="./crypto/polkastarter@ethereum.json">polkastarter@ethereum</a></td>
@@ -8491,8 +9275,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="2">1292</td>
+  <td rowspan="2">1293</td>
   <td><img src="logo/bluzelle.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/bluzelle.svg" width="40px" height="40px"/></td>
   <td>Bluzelle</td>
   <td>BLZ</td>
   <td><a href="./crypto/bluzelle@binance-smart-chain.json">bluzelle@binance-smart-chain</a></td>
@@ -8504,6 +9289,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/bluzelle.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/bluzelle.svg" width="40px" height="40px"/></td>
   <td>Bluzelle</td>
   <td>BLZ</td>
   <td><a href="./crypto/bluzelle@ethereum.json">bluzelle@ethereum</a></td>
@@ -8514,8 +9300,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="1">1309</td>
+  <td rowspan="1">1310</td>
   <td><img src="logo/funtoken.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/funtoken.svg" width="40px" height="40px"/></td>
   <td>FUNToken</td>
   <td>FUN</td>
   <td><a href="./crypto/funtoken@ethereum.json">funtoken@ethereum</a></td>
@@ -8526,8 +9313,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="1">1348</td>
+  <td rowspan="1">1349</td>
   <td><img src="logo/dent.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/dent.svg" width="40px" height="40px"/></td>
   <td>Dent</td>
   <td>DENT</td>
   <td><a href="./crypto/dent@ethereum.json">dent@ethereum</a></td>
@@ -8540,6 +9328,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">1363</td>
   <td><img src="logo/aavegotchi.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/aavegotchi.svg" width="40px" height="40px"/></td>
   <td>Aavegotchi</td>
   <td>GHST</td>
   <td><a href="./crypto/aavegotchi@ethereum.json">aavegotchi@ethereum</a></td>
@@ -8551,6 +9340,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/aavegotchi.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/aavegotchi.svg" width="40px" height="40px"/></td>
   <td>Aavegotchi</td>
   <td>GHST</td>
   <td><a href="./crypto/aavegotchi@polygon.json">aavegotchi@polygon</a></td>
@@ -8560,8 +9350,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="1">1388</td>
+  <td rowspan="1">1387</td>
   <td><img src="logo/ampleforth-governance-token.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ampleforth-governance-token.svg" width="40px" height="40px"/></td>
   <td>Ampleforth Governance Token</td>
   <td>FORTH</td>
   <td><a href="./crypto/ampleforth-governance-token@ethereum.json">ampleforth-governance-token@ethereum</a></td>
@@ -8574,6 +9365,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">1390</td>
   <td><img src="logo/ren.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ren.svg" width="40px" height="40px"/></td>
   <td>Ren</td>
   <td>REN</td>
   <td><a href="./crypto/ren@ethereum.json">ren@ethereum</a></td>
@@ -8584,8 +9376,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="1">1435</td>
+  <td rowspan="1">1436</td>
   <td><img src="logo/ultra.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ultra.svg" width="40px" height="40px"/></td>
   <td>Ultra</td>
   <td>UOS</td>
   <td><a href="./crypto/ultra@ethereum.json">ultra@ethereum</a></td>
@@ -8596,8 +9389,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="2">1482</td>
+  <td rowspan="2">1485</td>
   <td><img src="logo/reef-finance.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/reef-finance.svg" width="40px" height="40px"/></td>
   <td>Reef</td>
   <td>REEF</td>
   <td><a href="./crypto/reef-finance@binance-smart-chain.json">reef-finance@binance-smart-chain</a></td>
@@ -8609,6 +9403,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/reef-finance.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/reef-finance.svg" width="40px" height="40px"/></td>
   <td>Reef</td>
   <td>REEF</td>
   <td><a href="./crypto/reef-finance@ethereum.json">reef-finance@ethereum</a></td>
@@ -8619,8 +9414,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="1">1506</td>
+  <td rowspan="1">1510</td>
   <td><img src="logo/aragon.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/aragon.svg" width="40px" height="40px"/></td>
   <td>Aragon</td>
   <td>ANT</td>
   <td><a href="./crypto/aragon@ethereum.json">aragon@ethereum</a></td>
@@ -8631,8 +9427,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="1">1652</td>
+  <td rowspan="1">1651</td>
   <td><img src="logo/truefi.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/truefi.svg" width="40px" height="40px"/></td>
   <td>TrueFi</td>
   <td>TRU</td>
   <td><a href="./crypto/truefi@ethereum.json">truefi@ethereum</a></td>
@@ -8643,8 +9440,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="1">1655</td>
+  <td rowspan="1">1657</td>
   <td><img src="logo/idex.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/idex.svg" width="40px" height="40px"/></td>
   <td>IDEX</td>
   <td>IDEX</td>
   <td><a href="./crypto/idex@ethereum.json">idex@ethereum</a></td>
@@ -8655,8 +9453,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="1">1710</td>
+  <td rowspan="1">1714</td>
   <td><img src="logo/perpetual-protocol.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/perpetual-protocol.svg" width="40px" height="40px"/></td>
   <td>Perpetual Protocol</td>
   <td>PERP</td>
   <td><a href="./crypto/perpetual-protocol@ethereum.json">perpetual-protocol@ethereum</a></td>
@@ -8667,8 +9466,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="1">1721</td>
+  <td rowspan="1">1723</td>
   <td><img src="logo/verasity.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/verasity.svg" width="40px" height="40px"/></td>
   <td>Verasity</td>
   <td>VRA</td>
   <td><a href="./crypto/verasity@ethereum.json">verasity@ethereum</a></td>
@@ -8679,8 +9479,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="1">1800</td>
+  <td rowspan="1">1802</td>
   <td><img src="logo/rich-quack.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/rich-quack.svg" width="40px" height="40px"/></td>
   <td>RichQUACK.com</td>
   <td>QUACK</td>
   <td><a href="./crypto/rich-quack@binance-smart-chain.json">rich-quack@binance-smart-chain</a></td>
@@ -8691,8 +9492,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="2">1859</td>
+  <td rowspan="2">1858</td>
   <td><img src="logo/serum.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/serum.svg" width="40px" height="40px"/></td>
   <td>Serum</td>
   <td>SRM</td>
   <td><a href="./crypto/serum@ethereum.json">serum@ethereum</a></td>
@@ -8704,6 +9506,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/serum.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/serum.svg" width="40px" height="40px"/></td>
   <td>Serum</td>
   <td>SRM</td>
   <td><a href="./crypto/serum@solana.json">serum@solana</a></td>
@@ -8715,6 +9518,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">1886</td>
   <td><img src="logo/dfi-money.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/dfi-money.svg" width="40px" height="40px"/></td>
   <td>DFI.Money</td>
   <td>YFII</td>
   <td><a href="./crypto/dfi-money@binance-smart-chain.json">dfi-money@binance-smart-chain</a></td>
@@ -8726,6 +9530,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/dfi-money.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/dfi-money.svg" width="40px" height="40px"/></td>
   <td>DFI.Money</td>
   <td>YFII</td>
   <td><a href="./crypto/dfi-money@ethereum.json">dfi-money@ethereum</a></td>
@@ -8736,8 +9541,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="1">1940</td>
+  <td rowspan="1">1939</td>
   <td><img src="logo/ufo-gaming.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ufo-gaming.svg" width="40px" height="40px"/></td>
   <td>UFO Gaming</td>
   <td>UFO</td>
   <td><a href="./crypto/ufo-gaming@ethereum.json">ufo-gaming@ethereum</a></td>
@@ -8750,6 +9556,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">2107</td>
   <td><img src="logo/celsius-network.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/celsius-network.svg" width="40px" height="40px"/></td>
   <td>Celsius</td>
   <td>CEL</td>
   <td><a href="./crypto/celsius-network@ethereum.json">celsius-network@ethereum</a></td>
@@ -8760,8 +9567,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="1">2123</td>
+  <td rowspan="1">2126</td>
   <td><img src="logo/biswap.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/biswap.svg" width="40px" height="40px"/></td>
   <td>Biswap</td>
   <td>BSW</td>
   <td><a href="./crypto/biswap@binance-smart-chain.json">biswap@binance-smart-chain</a></td>
@@ -8772,8 +9580,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="1">2294</td>
+  <td rowspan="1">2295</td>
   <td><img src="logo/tranchess.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/tranchess.svg" width="40px" height="40px"/></td>
   <td>Tranchess</td>
   <td>CHESS</td>
   <td><a href="./crypto/tranchess@binance-smart-chain.json">tranchess@binance-smart-chain</a></td>
@@ -8784,8 +9593,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="2">2362</td>
+  <td rowspan="2">2364</td>
   <td><img src="logo/komodo.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/komodo.svg" width="40px" height="40px"/></td>
   <td>Komodo</td>
   <td>KMD</td>
   <td><a href="./crypto/komodo@komodo.json">komodo@komodo</a></td>
@@ -8796,6 +9606,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/komodo.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/komodo.svg" width="40px" height="40px"/></td>
   <td>Komodo</td>
   <td>KMD</td>
   <td><a href="./crypto/komodo@binance-smart-chain.json">komodo@binance-smart-chain</a></td>
@@ -8806,8 +9617,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="2">2498</td>
+  <td rowspan="2">2499</td>
   <td><img src="logo/alpha-finance.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/alpha-finance.svg" width="40px" height="40px"/></td>
   <td>Stella</td>
   <td>ALPHA</td>
   <td><a href="./crypto/alpha-finance@binance-smart-chain.json">alpha-finance@binance-smart-chain</a></td>
@@ -8819,6 +9631,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/alpha-finance.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/alpha-finance.svg" width="40px" height="40px"/></td>
   <td>Stella</td>
   <td>ALPHA</td>
   <td><a href="./crypto/alpha-finance@ethereum.json">alpha-finance@ethereum</a></td>
@@ -8829,8 +9642,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="1">2646</td>
+  <td rowspan="1">2647</td>
   <td><img src="logo/bakeryswap.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/bakeryswap.svg" width="40px" height="40px"/></td>
   <td>BakeryToken</td>
   <td>BAKE</td>
   <td><a href="./crypto/bakeryswap@binance-smart-chain.json">bakeryswap@binance-smart-chain</a></td>
@@ -8841,8 +9655,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="1">2675</td>
+  <td rowspan="1">2677</td>
   <td><img src="logo/rally.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/rally.svg" width="40px" height="40px"/></td>
   <td>Rally</td>
   <td>RLY</td>
   <td><a href="./crypto/rally@ethereum.json">rally@ethereum</a></td>
@@ -8853,8 +9668,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="1">2809</td>
+  <td rowspan="1">2808</td>
   <td><img src="logo/solve.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/solve.svg" width="40px" height="40px"/></td>
   <td>SOLVE</td>
   <td>SOLVE</td>
   <td><a href="./crypto/solve@ethereum.json">solve@ethereum</a></td>
@@ -8867,6 +9683,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="2">2873</td>
   <td><img src="logo/linear.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/linear.svg" width="40px" height="40px"/></td>
   <td>Linear Finance</td>
   <td>LINA</td>
   <td><a href="./crypto/linear@binance-smart-chain.json">linear@binance-smart-chain</a></td>
@@ -8878,6 +9695,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/linear.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/linear.svg" width="40px" height="40px"/></td>
   <td>Linear Finance</td>
   <td>LINA</td>
   <td><a href="./crypto/linear@ethereum.json">linear@ethereum</a></td>
@@ -8890,6 +9708,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">2935</td>
   <td><img src="logo/stormx.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/stormx.svg" width="40px" height="40px"/></td>
   <td>StormX</td>
   <td>STMX</td>
   <td><a href="./crypto/stormx@ethereum.json">stormx@ethereum</a></td>
@@ -8900,8 +9719,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="2">3054</td>
+  <td rowspan="2">3053</td>
   <td><img src="logo/alpaca-finance.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/alpaca-finance.svg" width="40px" height="40px"/></td>
   <td>Alpaca Finance</td>
   <td>ALPACA</td>
   <td><a href="./crypto/alpaca-finance@binance-smart-chain.json">alpaca-finance@binance-smart-chain</a></td>
@@ -8913,6 +9733,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/alpaca-finance.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/alpaca-finance.svg" width="40px" height="40px"/></td>
   <td>Alpaca Finance</td>
   <td>ALPACA</td>
   <td><a href="./crypto/alpaca-finance@fantom.json">alpaca-finance@fantom</a></td>
@@ -8922,8 +9743,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="2">4086</td>
+  <td rowspan="2">4056</td>
   <td><img src="logo/maker.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/maker.svg" width="40px" height="40px"/></td>
   <td>Maker</td>
   <td>MKR</td>
   <td><a href="./crypto/maker@binance-smart-chain.json">maker@binance-smart-chain</a></td>
@@ -8935,6 +9757,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/maker.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/maker.svg" width="40px" height="40px"/></td>
   <td>Maker</td>
   <td>MKR</td>
   <td><a href="./crypto/maker@ethereum.json">maker@ethereum</a></td>
@@ -8945,8 +9768,9 @@ Total cryptos: 889
   </td>
 </tr>
 <tr>
-  <td rowspan="3">4088</td>
+  <td rowspan="3">4096</td>
   <td><img src="logo/mantra-dao.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/mantra-dao.svg" width="40px" height="40px"/></td>
   <td>MANTRA</td>
   <td>OM</td>
   <td><a href="./crypto/mantra-dao@binance-smart-chain.json">mantra-dao@binance-smart-chain</a></td>
@@ -8958,6 +9782,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/mantra-dao.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/mantra-dao.svg" width="40px" height="40px"/></td>
   <td>MANTRA</td>
   <td>OM</td>
   <td><a href="./crypto/mantra-dao@ethereum.json">mantra-dao@ethereum</a></td>
@@ -8969,6 +9794,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/mantra-dao.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/mantra-dao.svg" width="40px" height="40px"/></td>
   <td>MANTRA</td>
   <td>OM</td>
   <td><a href="./crypto/mantra-dao@polygon.json">mantra-dao@polygon</a></td>
@@ -8980,6 +9806,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="3">8268</td>
   <td><img src="logo/lido-staked-ether.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/lido-staked-ether.svg" width="40px" height="40px"/></td>
   <td>Lido Staked ETH</td>
   <td>STETH</td>
   <td><a href="./crypto/lido-staked-ether@ethereum.json">lido-staked-ether@ethereum</a></td>
@@ -8991,6 +9818,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/lido-staked-ether.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/lido-staked-ether.svg" width="40px" height="40px"/></td>
   <td>Lido Staked ETH</td>
   <td>STETH</td>
   <td><a href="./crypto/lido-staked-ether@solana.json">lido-staked-ether@solana</a></td>
@@ -9001,6 +9829,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/lido-staked-ether.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/lido-staked-ether.svg" width="40px" height="40px"/></td>
   <td>Lido Staked ETH</td>
   <td>STETH</td>
   <td><a href="./crypto/lido-staked-ether@terra.json">lido-staked-ether@terra</a></td>
@@ -9012,6 +9841,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="18">8271</td>
   <td><img src="logo/wrapped-bitcoin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/wrapped-bitcoin.svg" width="40px" height="40px"/></td>
   <td>Wrapped Bitcoin</td>
   <td>WBTC</td>
   <td><a href="./crypto/wrapped-bitcoin@arbitrum.json">wrapped-bitcoin@arbitrum</a></td>
@@ -9022,6 +9852,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/wrapped-bitcoin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/wrapped-bitcoin.svg" width="40px" height="40px"/></td>
   <td>Wrapped Bitcoin</td>
   <td>WBTC</td>
   <td><a href="./crypto/wrapped-bitcoin@avalanche-c-chain.json">wrapped-bitcoin@avalanche-c-chain</a></td>
@@ -9032,6 +9863,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/wrapped-bitcoin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/wrapped-bitcoin.svg" width="40px" height="40px"/></td>
   <td>Wrapped Bitcoin</td>
   <td>WBTC</td>
   <td><a href="./crypto/wrapped-bitcoin@conflux.json">wrapped-bitcoin@conflux</a></td>
@@ -9042,6 +9874,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/wrapped-bitcoin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/wrapped-bitcoin.svg" width="40px" height="40px"/></td>
   <td>Wrapped Bitcoin</td>
   <td>WBTC</td>
   <td><a href="./crypto/wrapped-bitcoin@cronos.json">wrapped-bitcoin@cronos</a></td>
@@ -9052,6 +9885,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/wrapped-bitcoin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/wrapped-bitcoin.svg" width="40px" height="40px"/></td>
   <td>Wrapped Bitcoin</td>
   <td>WBTC</td>
   <td><a href="./crypto/wrapped-bitcoin@ethereum.json">wrapped-bitcoin@ethereum</a></td>
@@ -9063,6 +9897,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/wrapped-bitcoin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/wrapped-bitcoin.svg" width="40px" height="40px"/></td>
   <td>Wrapped Bitcoin</td>
   <td>WBTC</td>
   <td><a href="./crypto/wrapped-bitcoin@fantom.json">wrapped-bitcoin@fantom</a></td>
@@ -9073,6 +9908,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/wrapped-bitcoin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/wrapped-bitcoin.svg" width="40px" height="40px"/></td>
   <td>Wrapped Bitcoin</td>
   <td>WBTC</td>
   <td><a href="./crypto/wrapped-bitcoin@harmony.json">wrapped-bitcoin@harmony</a></td>
@@ -9083,6 +9919,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/wrapped-bitcoin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/wrapped-bitcoin.svg" width="40px" height="40px"/></td>
   <td>Wrapped Bitcoin</td>
   <td>WBTC</td>
   <td><a href="./crypto/wrapped-bitcoin@iotex.json">wrapped-bitcoin@iotex</a></td>
@@ -9093,6 +9930,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/wrapped-bitcoin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/wrapped-bitcoin.svg" width="40px" height="40px"/></td>
   <td>Wrapped Bitcoin</td>
   <td>WBTC</td>
   <td><a href="./crypto/wrapped-bitcoin@near.json">wrapped-bitcoin@near</a></td>
@@ -9103,6 +9941,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/wrapped-bitcoin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/wrapped-bitcoin.svg" width="40px" height="40px"/></td>
   <td>Wrapped Bitcoin</td>
   <td>WBTC</td>
   <td><a href="./crypto/wrapped-bitcoin@optimism.json">wrapped-bitcoin@optimism</a></td>
@@ -9113,6 +9952,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/wrapped-bitcoin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/wrapped-bitcoin.svg" width="40px" height="40px"/></td>
   <td>Wrapped Bitcoin</td>
   <td>WBTC</td>
   <td><a href="./crypto/wrapped-bitcoin@polygon.json">wrapped-bitcoin@polygon</a></td>
@@ -9123,6 +9963,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/wrapped-bitcoin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/wrapped-bitcoin.svg" width="40px" height="40px"/></td>
   <td>Wrapped Bitcoin</td>
   <td>WBTC</td>
   <td><a href="./crypto/wrapped-bitcoin@solana.json">wrapped-bitcoin@solana</a></td>
@@ -9133,6 +9974,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/wrapped-bitcoin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/wrapped-bitcoin.svg" width="40px" height="40px"/></td>
   <td>Wrapped Bitcoin</td>
   <td>WBTC</td>
   <td><a href="./crypto/wrapped-bitcoin@stacks.json">wrapped-bitcoin@stacks</a></td>
@@ -9143,6 +9985,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/wrapped-bitcoin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/wrapped-bitcoin.svg" width="40px" height="40px"/></td>
   <td>Wrapped Bitcoin</td>
   <td>WBTC</td>
   <td><a href="./crypto/wrapped-bitcoin@sui.json">wrapped-bitcoin@sui</a></td>
@@ -9153,6 +9996,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/wrapped-bitcoin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/wrapped-bitcoin.svg" width="40px" height="40px"/></td>
   <td>Wrapped Bitcoin</td>
   <td>WBTC</td>
   <td><a href="./crypto/wrapped-bitcoin@terra.json">wrapped-bitcoin@terra</a></td>
@@ -9163,6 +10007,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/wrapped-bitcoin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/wrapped-bitcoin.svg" width="40px" height="40px"/></td>
   <td>Wrapped Bitcoin</td>
   <td>WBTC</td>
   <td><a href="./crypto/wrapped-bitcoin@toncoin.json">wrapped-bitcoin@toncoin</a></td>
@@ -9173,6 +10018,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/wrapped-bitcoin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/wrapped-bitcoin.svg" width="40px" height="40px"/></td>
   <td>Wrapped Bitcoin</td>
   <td>WBTC</td>
   <td><a href="./crypto/wrapped-bitcoin@waves.json">wrapped-bitcoin@waves</a></td>
@@ -9183,6 +10029,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/wrapped-bitcoin.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/wrapped-bitcoin.svg" width="40px" height="40px"/></td>
   <td>Wrapped Bitcoin</td>
   <td>WBTC</td>
   <td><a href="./crypto/wrapped-bitcoin@zilliqa.json">wrapped-bitcoin@zilliqa</a></td>
@@ -9194,6 +10041,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="22">8273</td>
   <td><img src="logo/wrapped-ethereum.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/wrapped-ethereum.svg" width="40px" height="40px"/></td>
   <td>WETH</td>
   <td>WETH</td>
   <td><a href="./crypto/wrapped-ethereum@aptos.json">wrapped-ethereum@aptos</a></td>
@@ -9204,6 +10052,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/wrapped-ethereum.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/wrapped-ethereum.svg" width="40px" height="40px"/></td>
   <td>WETH</td>
   <td>WETH</td>
   <td><a href="./crypto/wrapped-ethereum@arbitrum.json">wrapped-ethereum@arbitrum</a></td>
@@ -9214,6 +10063,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/wrapped-ethereum.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/wrapped-ethereum.svg" width="40px" height="40px"/></td>
   <td>WETH</td>
   <td>WETH</td>
   <td><a href="./crypto/wrapped-ethereum@avalanche-c-chain.json">wrapped-ethereum@avalanche-c-chain</a></td>
@@ -9224,6 +10074,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/wrapped-ethereum.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/wrapped-ethereum.svg" width="40px" height="40px"/></td>
   <td>WETH</td>
   <td>WETH</td>
   <td><a href="./crypto/wrapped-ethereum@base.json">wrapped-ethereum@base</a></td>
@@ -9234,6 +10085,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/wrapped-ethereum.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/wrapped-ethereum.svg" width="40px" height="40px"/></td>
   <td>WETH</td>
   <td>WETH</td>
   <td><a href="./crypto/wrapped-ethereum@binance-smart-chain.json">wrapped-ethereum@binance-smart-chain</a></td>
@@ -9245,6 +10097,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/wrapped-ethereum.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/wrapped-ethereum.svg" width="40px" height="40px"/></td>
   <td>WETH</td>
   <td>WETH</td>
   <td><a href="./crypto/wrapped-ethereum@celo.json">wrapped-ethereum@celo</a></td>
@@ -9255,6 +10108,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/wrapped-ethereum.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/wrapped-ethereum.svg" width="40px" height="40px"/></td>
   <td>WETH</td>
   <td>WETH</td>
   <td><a href="./crypto/wrapped-ethereum@conflux.json">wrapped-ethereum@conflux</a></td>
@@ -9265,6 +10119,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/wrapped-ethereum.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/wrapped-ethereum.svg" width="40px" height="40px"/></td>
   <td>WETH</td>
   <td>WETH</td>
   <td><a href="./crypto/wrapped-ethereum@cronos.json">wrapped-ethereum@cronos</a></td>
@@ -9275,6 +10130,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/wrapped-ethereum.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/wrapped-ethereum.svg" width="40px" height="40px"/></td>
   <td>WETH</td>
   <td>WETH</td>
   <td><a href="./crypto/wrapped-ethereum@ethereum.json">wrapped-ethereum@ethereum</a></td>
@@ -9286,6 +10142,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/wrapped-ethereum.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/wrapped-ethereum.svg" width="40px" height="40px"/></td>
   <td>WETH</td>
   <td>WETH</td>
   <td><a href="./crypto/wrapped-ethereum@fantom.json">wrapped-ethereum@fantom</a></td>
@@ -9296,6 +10153,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/wrapped-ethereum.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/wrapped-ethereum.svg" width="40px" height="40px"/></td>
   <td>WETH</td>
   <td>WETH</td>
   <td><a href="./crypto/wrapped-ethereum@harmony.json">wrapped-ethereum@harmony</a></td>
@@ -9306,6 +10164,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/wrapped-ethereum.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/wrapped-ethereum.svg" width="40px" height="40px"/></td>
   <td>WETH</td>
   <td>WETH</td>
   <td><a href="./crypto/wrapped-ethereum@iotex.json">wrapped-ethereum@iotex</a></td>
@@ -9316,6 +10175,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/wrapped-ethereum.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/wrapped-ethereum.svg" width="40px" height="40px"/></td>
   <td>WETH</td>
   <td>WETH</td>
   <td><a href="./crypto/wrapped-ethereum@mantle.json">wrapped-ethereum@mantle</a></td>
@@ -9326,6 +10186,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/wrapped-ethereum.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/wrapped-ethereum.svg" width="40px" height="40px"/></td>
   <td>WETH</td>
   <td>WETH</td>
   <td><a href="./crypto/wrapped-ethereum@near.json">wrapped-ethereum@near</a></td>
@@ -9336,6 +10197,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/wrapped-ethereum.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/wrapped-ethereum.svg" width="40px" height="40px"/></td>
   <td>WETH</td>
   <td>WETH</td>
   <td><a href="./crypto/wrapped-ethereum@optimism.json">wrapped-ethereum@optimism</a></td>
@@ -9346,6 +10208,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/wrapped-ethereum.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/wrapped-ethereum.svg" width="40px" height="40px"/></td>
   <td>WETH</td>
   <td>WETH</td>
   <td><a href="./crypto/wrapped-ethereum@polygon.json">wrapped-ethereum@polygon</a></td>
@@ -9356,6 +10219,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/wrapped-ethereum.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/wrapped-ethereum.svg" width="40px" height="40px"/></td>
   <td>WETH</td>
   <td>WETH</td>
   <td><a href="./crypto/wrapped-ethereum@sei.json">wrapped-ethereum@sei</a></td>
@@ -9366,6 +10230,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/wrapped-ethereum.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/wrapped-ethereum.svg" width="40px" height="40px"/></td>
   <td>WETH</td>
   <td>WETH</td>
   <td><a href="./crypto/wrapped-ethereum@solana.json">wrapped-ethereum@solana</a></td>
@@ -9376,6 +10241,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/wrapped-ethereum.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/wrapped-ethereum.svg" width="40px" height="40px"/></td>
   <td>WETH</td>
   <td>WETH</td>
   <td><a href="./crypto/wrapped-ethereum@sonic.json">wrapped-ethereum@sonic</a></td>
@@ -9386,6 +10252,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/wrapped-ethereum.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/wrapped-ethereum.svg" width="40px" height="40px"/></td>
   <td>WETH</td>
   <td>WETH</td>
   <td><a href="./crypto/wrapped-ethereum@terra.json">wrapped-ethereum@terra</a></td>
@@ -9396,6 +10263,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/wrapped-ethereum.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/wrapped-ethereum.svg" width="40px" height="40px"/></td>
   <td>WETH</td>
   <td>WETH</td>
   <td><a href="./crypto/wrapped-ethereum@waves.json">wrapped-ethereum@waves</a></td>
@@ -9406,6 +10274,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/wrapped-ethereum.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/wrapped-ethereum.svg" width="40px" height="40px"/></td>
   <td>WETH</td>
   <td>WETH</td>
   <td><a href="./crypto/wrapped-ethereum@zilliqa.json">wrapped-ethereum@zilliqa</a></td>
@@ -9417,6 +10286,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="5">8279</td>
   <td><img src="logo/ethena-staked-usde.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ethena-staked-usde.svg" width="40px" height="40px"/></td>
   <td>Ethena Staked USDe</td>
   <td>SUSDE</td>
   <td><a href="./crypto/ethena-staked-usde@arbitrum.json">ethena-staked-usde@arbitrum</a></td>
@@ -9427,6 +10297,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/ethena-staked-usde.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ethena-staked-usde.svg" width="40px" height="40px"/></td>
   <td>Ethena Staked USDe</td>
   <td>SUSDE</td>
   <td><a href="./crypto/ethena-staked-usde@binance-smart-chain.json">ethena-staked-usde@binance-smart-chain</a></td>
@@ -9438,6 +10309,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/ethena-staked-usde.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ethena-staked-usde.svg" width="40px" height="40px"/></td>
   <td>Ethena Staked USDe</td>
   <td>SUSDE</td>
   <td><a href="./crypto/ethena-staked-usde@ethereum.json">ethena-staked-usde@ethereum</a></td>
@@ -9449,6 +10321,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/ethena-staked-usde.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ethena-staked-usde.svg" width="40px" height="40px"/></td>
   <td>Ethena Staked USDe</td>
   <td>SUSDE</td>
   <td><a href="./crypto/ethena-staked-usde@kava.json">ethena-staked-usde@kava</a></td>
@@ -9459,6 +10332,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/ethena-staked-usde.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ethena-staked-usde.svg" width="40px" height="40px"/></td>
   <td>Ethena Staked USDe</td>
   <td>SUSDE</td>
   <td><a href="./crypto/ethena-staked-usde@optimism.json">ethena-staked-usde@optimism</a></td>
@@ -9470,6 +10344,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="7">8331</td>
   <td><img src="logo/solana.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/solana.svg" width="40px" height="40px"/></td>
   <td>Wrapped Solana</td>
   <td>SOL</td>
   <td><a href="./crypto/wrapped-solana@avalanche-c-chain.json">wrapped-solana@avalanche-c-chain</a></td>
@@ -9480,6 +10355,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/solana.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/solana.svg" width="40px" height="40px"/></td>
   <td>Wrapped Solana</td>
   <td>SOL</td>
   <td><a href="./crypto/wrapped-solana@binance-smart-chain.json">wrapped-solana@binance-smart-chain</a></td>
@@ -9491,6 +10367,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/solana.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/solana.svg" width="40px" height="40px"/></td>
   <td>Wrapped Solana</td>
   <td>SOL</td>
   <td><a href="./crypto/wrapped-solana@ethereum.json">wrapped-solana@ethereum</a></td>
@@ -9502,6 +10379,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/solana.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/solana.svg" width="40px" height="40px"/></td>
   <td>Wrapped Solana</td>
   <td>SOL</td>
   <td><a href="./crypto/wrapped-solana@near.json">wrapped-solana@near</a></td>
@@ -9512,6 +10390,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/solana.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/solana.svg" width="40px" height="40px"/></td>
   <td>Wrapped Solana</td>
   <td>SOL</td>
   <td><a href="./crypto/wrapped-solana@polygon.json">wrapped-solana@polygon</a></td>
@@ -9522,6 +10401,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/solana.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/solana.svg" width="40px" height="40px"/></td>
   <td>Wrapped Solana</td>
   <td>SOL</td>
   <td><a href="./crypto/wrapped-solana@solana.json">wrapped-solana@solana</a></td>
@@ -9532,6 +10412,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/solana.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/solana.svg" width="40px" height="40px"/></td>
   <td>Wrapped Solana</td>
   <td>SOL</td>
   <td><a href="./crypto/wrapped-solana@terra.json">wrapped-solana@terra</a></td>
@@ -9543,6 +10424,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">8360</td>
   <td><img src="logo/defipulse-index.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/defipulse-index.svg" width="40px" height="40px"/></td>
   <td>DeFi Pulse Index</td>
   <td>DPI</td>
   <td><a href="./crypto/defipulse-index@ethereum.json">defipulse-index@ethereum</a></td>
@@ -9555,6 +10437,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="7">8369</td>
   <td><img src="logo/ankreth.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ankreth.svg" width="40px" height="40px"/></td>
   <td>Ankr Staked ETH</td>
   <td>ANKRETH</td>
   <td><a href="./crypto/ankreth@arbitrum.json">ankreth@arbitrum</a></td>
@@ -9565,6 +10448,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/ankreth.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ankreth.svg" width="40px" height="40px"/></td>
   <td>Ankr Staked ETH</td>
   <td>ANKRETH</td>
   <td><a href="./crypto/ankreth@avalanche-c-chain.json">ankreth@avalanche-c-chain</a></td>
@@ -9575,6 +10459,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/ankreth.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ankreth.svg" width="40px" height="40px"/></td>
   <td>Ankr Staked ETH</td>
   <td>ANKRETH</td>
   <td><a href="./crypto/ankreth@binance-smart-chain.json">ankreth@binance-smart-chain</a></td>
@@ -9586,6 +10471,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/ankreth.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ankreth.svg" width="40px" height="40px"/></td>
   <td>Ankr Staked ETH</td>
   <td>ANKRETH</td>
   <td><a href="./crypto/ankreth@ethereum.json">ankreth@ethereum</a></td>
@@ -9597,6 +10483,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/ankreth.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ankreth.svg" width="40px" height="40px"/></td>
   <td>Ankr Staked ETH</td>
   <td>ANKRETH</td>
   <td><a href="./crypto/ankreth@fantom.json">ankreth@fantom</a></td>
@@ -9607,6 +10494,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/ankreth.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ankreth.svg" width="40px" height="40px"/></td>
   <td>Ankr Staked ETH</td>
   <td>ANKRETH</td>
   <td><a href="./crypto/ankreth@optimism.json">ankreth@optimism</a></td>
@@ -9617,6 +10505,7 @@ Total cryptos: 889
 </tr>
 <tr>
   <td><img src="logo/ankreth.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/ankreth.svg" width="40px" height="40px"/></td>
   <td>Ankr Staked ETH</td>
   <td>ANKRETH</td>
   <td><a href="./crypto/ankreth@polygon.json">ankreth@polygon</a></td>
@@ -9628,6 +10517,7 @@ Total cryptos: 889
 <tr>
   <td rowspan="1">Infinity</td>
   <td><img src="logo/fantom.svg" width="40px" height="40px"/></td>
+  <td><img src="logo-dark/fantom.svg" width="40px" height="40px"/></td>
   <td>Fantom</td>
   <td>FTM</td>
   <td><a href="./crypto/fantom@fantom.json">fantom@fantom</a></td>
