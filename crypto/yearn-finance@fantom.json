@@ -3,7 +3,7 @@
   "asset": "yearn-finance",
   "platform": "fantom",
   "type": "token",
-  "name": "yearn.finance",
+  "name": "Yearn",
   "symbol": "YFI",
   "address": "0x29b0da86e484e1c0029b56e817912d778ac0ec69",
   "decimals": 18,

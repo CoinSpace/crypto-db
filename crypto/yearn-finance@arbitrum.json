@@ -3,7 +3,7 @@
   "asset": "yearn-finance",
   "platform": "arbitrum",
   "type": "token",
-  "name": "yearn.finance",
+  "name": "Yearn",
   "symbol": "YFI",
   "address": "0x82e3a8f066a6989666b031d916c43672085b1582",
   "decimals": 18,
