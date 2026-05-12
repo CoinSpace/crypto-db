@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "orbs@avalanche-c-chain",
   "asset": "orbs",
   "platform": "avalanche-c-chain",
