@@ -1,0 +1,18 @@
+{
+  "_id": "bittensor@solana",
+  "asset": "bittensor",
+  "platform": "solana",
+  "type": "token",
+  "name": "Bittensor",
+  "symbol": "TAO",
+  "address": "taoC6xyv2v8tDLcev4uaGUgV4vdQsWJrGft2kcBRrBY",
+  "decimals": 9,
+  "logo": "bittensor.svg",
+  "coingecko": {
+    "id": "bittensor"
+  },
+  "coinmarketcap": {
+    "id": 22974,
+    "slug": "bittensor"
+  }
+}
