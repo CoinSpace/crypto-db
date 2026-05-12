@@ -3,7 +3,7 @@
   "asset": "yearn-finance",
   "platform": "solana",
   "type": "token",
-  "name": "yearn.finance",
+  "name": "Yearn",
   "symbol": "YFI",
   "address": "BXZX2JRJFjvKazM1ibeDFxgAngKExb74MRXzXKvgikxX",
   "decimals": 8,
