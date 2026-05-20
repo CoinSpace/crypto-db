@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "komodo@binance-smart-chain",
   "asset": "komodo",
   "platform": "binance-smart-chain",
