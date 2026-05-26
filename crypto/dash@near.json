@@ -1,0 +1,18 @@
+{
+  "_id": "dash@near",
+  "asset": "dash",
+  "platform": "near",
+  "type": "token",
+  "name": "Dash",
+  "symbol": "DASH",
+  "address": "dash.omft.near",
+  "logo": "dash.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "dash"
+  },
+  "coinmarketcap": {
+    "id": 131,
+    "slug": "dash"
+  }
+}
