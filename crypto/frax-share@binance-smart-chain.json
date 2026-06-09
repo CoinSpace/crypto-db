@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "frax-share@binance-smart-chain",
   "asset": "frax-share",
   "platform": "binance-smart-chain",
