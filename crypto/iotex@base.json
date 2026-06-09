@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "iotex@base",
   "asset": "iotex",
   "platform": "base",

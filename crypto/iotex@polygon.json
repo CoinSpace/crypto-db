@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "iotex@polygon",
   "asset": "iotex",
   "platform": "polygon",
