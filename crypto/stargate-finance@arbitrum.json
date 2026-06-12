@@ -1,0 +1,18 @@
+{
+  "_id": "stargate-finance@arbitrum",
+  "asset": "stargate-finance",
+  "platform": "arbitrum",
+  "type": "token",
+  "name": "Stargate Finance",
+  "symbol": "STG",
+  "address": "0x6694340fc020c5e6b96567843da2df01b2ce1eb6",
+  "decimals": 18,
+  "logo": "stargate-finance.svg",
+  "coingecko": {
+    "id": "stargate-finance"
+  },
+  "coinmarketcap": {
+    "id": 18934,
+    "slug": "stargate-finance"
+  }
+}

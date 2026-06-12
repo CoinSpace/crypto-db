@@ -1,0 +1,18 @@
+{
+  "_id": "stargate-finance@avalanche-c-chain",
+  "asset": "stargate-finance",
+  "platform": "avalanche-c-chain",
+  "type": "token",
+  "name": "Stargate Finance",
+  "symbol": "STG",
+  "address": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
+  "decimals": 18,
+  "logo": "stargate-finance.svg",
+  "coingecko": {
+    "id": "stargate-finance"
+  },
+  "coinmarketcap": {
+    "id": 18934,
+    "slug": "stargate-finance"
+  }
+}

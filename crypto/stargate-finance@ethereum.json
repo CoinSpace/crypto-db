@@ -1,0 +1,18 @@
+{
+  "_id": "stargate-finance@ethereum",
+  "asset": "stargate-finance",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Stargate Finance",
+  "symbol": "STG",
+  "address": "0xaf5191b0de278c7286d6c7cc6ab6bb8a73ba2cd6",
+  "decimals": 18,
+  "logo": "stargate-finance.svg",
+  "coingecko": {
+    "id": "stargate-finance"
+  },
+  "coinmarketcap": {
+    "id": 18934,
+    "slug": "stargate-finance"
+  }
+}
