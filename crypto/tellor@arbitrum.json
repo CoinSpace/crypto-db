@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "tellor@arbitrum",
   "asset": "tellor",
   "platform": "arbitrum",

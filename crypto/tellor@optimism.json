@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "tellor@optimism",
   "asset": "tellor",
   "platform": "optimism",
