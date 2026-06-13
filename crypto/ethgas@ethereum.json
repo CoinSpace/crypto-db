@@ -1,0 +1,18 @@
+{
+  "_id": "ethgas@ethereum",
+  "asset": "ethgas",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "ETHGas",
+  "symbol": "GWEI",
+  "address": "0x2798b1cc5a993085e8a9d46e80499f1b63f42204",
+  "decimals": 18,
+  "logo": "ethgas.png",
+  "coingecko": {
+    "id": "ethgas-2"
+  },
+  "coinmarketcap": {
+    "id": 39379,
+    "slug": "eth-gas"
+  }
+}

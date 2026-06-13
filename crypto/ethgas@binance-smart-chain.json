@@ -1,0 +1,18 @@
+{
+  "_id": "ethgas@binance-smart-chain",
+  "asset": "ethgas",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "ETHGas",
+  "symbol": "GWEI",
+  "address": "0x30117e4bc17d7b044194b76a38365c53b72f7d49",
+  "decimals": 18,
+  "logo": "ethgas.png",
+  "coingecko": {
+    "id": "ethgas-2"
+  },
+  "coinmarketcap": {
+    "id": 39379,
+    "slug": "eth-gas"
+  }
+}
