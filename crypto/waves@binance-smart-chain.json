@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "waves@binance-smart-chain",
   "asset": "waves",
   "platform": "binance-smart-chain",
