@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "mantra-dao@binance-smart-chain",
   "asset": "mantra-dao",
   "platform": "binance-smart-chain",

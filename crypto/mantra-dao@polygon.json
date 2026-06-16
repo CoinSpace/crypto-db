@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "mantra-dao@polygon",
   "asset": "mantra-dao",
   "platform": "polygon",
