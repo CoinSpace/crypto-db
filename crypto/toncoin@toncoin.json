@@ -3,8 +3,8 @@
   "asset": "toncoin",
   "platform": "toncoin",
   "type": "coin",
-  "name": "Toncoin",
-  "symbol": "TON",
+  "name": "Gram (prev. Toncoin)",
+  "symbol": "GRAM",
   "decimals": 9,
   "logo": "toncoin.svg",
   "coingecko": {
