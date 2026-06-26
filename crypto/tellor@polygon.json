@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "tellor@polygon",
   "asset": "tellor",
   "platform": "polygon",
