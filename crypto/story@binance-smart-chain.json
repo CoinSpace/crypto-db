@@ -3,8 +3,8 @@
   "asset": "story",
   "platform": "binance-smart-chain",
   "type": "token",
-  "name": "Story",
-  "symbol": "IP",
+  "name": "Data Network",
+  "symbol": "DATA",
   "address": "0x4d6394bc3031f751edce368c189b0e060b527107",
   "decimals": 18,
   "logo": "story.svg",
@@ -13,6 +13,6 @@
   },
   "coinmarketcap": {
     "id": 35626,
-    "slug": "story-protocol"
+    "slug": "data-network"
   }
 }
