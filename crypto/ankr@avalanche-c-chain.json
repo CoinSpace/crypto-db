@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "ankr@avalanche-c-chain",
   "asset": "ankr",
   "platform": "avalanche-c-chain",
