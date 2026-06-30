@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
+  <circle cx="10" cy="10" r="10" fill="url(#logo-dark_velvet_svg__a)"/>
+  <path fill="#be82f3" fill-rule="evenodd" d="M4.98 15h1.46l3.57-7.278L13.55 15h1.471l-4.88-10h-.248z" clip-rule="evenodd"/>
+  <path fill="#fff" fill-rule="evenodd" d="M4.98 5h1.46l3.57 7.282L13.546 5h1.473l-4.881 10h-.245z" clip-rule="evenodd"/>
+  <defs>
+    <linearGradient id="logo-dark_velvet_svg__a" x1="10" x2="10" y1="0" y2="20" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#201d38"/>
+      <stop offset="1" stop-color="#31006f"/>
+    </linearGradient>
+  </defs>
+</svg>

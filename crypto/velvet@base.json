@@ -1,0 +1,18 @@
+{
+  "_id": "velvet@base",
+  "asset": "velvet",
+  "platform": "base",
+  "type": "token",
+  "name": "Velvet",
+  "symbol": "VELVET",
+  "address": "0xbf927b841994731c573bdf09ceb0c6b0aa887cdd",
+  "decimals": 18,
+  "logo": "velvet.svg",
+  "coingecko": {
+    "id": "velvet"
+  },
+  "coinmarketcap": {
+    "id": 37298,
+    "slug": "velvet"
+  }
+}
