@@ -1,0 +1,18 @@
+{
+  "_id": "euro-coin@cronos",
+  "asset": "euro-coin",
+  "platform": "cronos",
+  "type": "token",
+  "name": "EURC",
+  "symbol": "EURC",
+  "address": "0xa6de01a2d62c6b5f3525d768f34d276652c554c8",
+  "logo": "euro-coin.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "euro-coin"
+  },
+  "coinmarketcap": {
+    "id": 20641,
+    "slug": "euro-coin"
+  }
+}
