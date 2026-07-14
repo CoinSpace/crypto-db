@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "humanity-protocol@binance-smart-chain",
   "asset": "humanity-protocol",
   "platform": "binance-smart-chain",
