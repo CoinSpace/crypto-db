@@ -6,7 +6,7 @@
   "type": "token",
   "name": "Paris Saint-Germain Fan Token",
   "symbol": "PSG",
-  "address": "0x6fc212cdE3b420733A88496CbdbB15d85beAb1Ca",
+  "address": "0x6fc212cde3b420733a88496cbdbb15d85beab1ca",
   "decimals": 0,
   "supported": false,
   "coingecko": {

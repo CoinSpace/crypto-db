@@ -5,7 +5,7 @@
   "type": "token",
   "name": "PancakeSwap",
   "symbol": "CAKE",
-  "address": "0x0D1E753a25eBda689453309112904807625bEFBe",
+  "address": "0x0d1e753a25ebda689453309112904807625befbe",
   "logo": "pancakeswap.svg",
   "supported": false,
   "coingecko": {

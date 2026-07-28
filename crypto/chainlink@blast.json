@@ -5,7 +5,7 @@
   "type": "token",
   "name": "Chainlink",
   "symbol": "LINK",
-  "address": "0x93202eC683288a9EA75BB829c6baCFb2BfeA9013",
+  "address": "0x93202ec683288a9ea75bb829c6bacfb2bfea9013",
   "logo": "chainlink.svg",
   "supported": false,
   "coingecko": {

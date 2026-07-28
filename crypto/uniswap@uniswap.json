@@ -5,7 +5,7 @@
   "type": "token",
   "name": "Uniswap",
   "symbol": "UNI",
-  "address": "0x8f187aA05619a017077f5308904739877ce9eA21",
+  "address": "0x8f187aa05619a017077f5308904739877ce9ea21",
   "logo": "uniswap.svg",
   "supported": false,
   "coingecko": {

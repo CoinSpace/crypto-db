@@ -5,7 +5,7 @@
   "type": "token",
   "name": "Worldcoin",
   "symbol": "WLD",
-  "address": "0x2cFc85d8E48F8EAB294be644d9E25C3030863003",
+  "address": "0x2cfc85d8e48f8eab294be644d9e25c3030863003",
   "logo": "worldcoin.svg",
   "supported": false,
   "coingecko": {

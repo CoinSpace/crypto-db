@@ -5,7 +5,7 @@
   "type": "token",
   "name": "Ethena USDe",
   "symbol": "USDE",
-  "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+  "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
   "logo": "ethena-usde.svg",
   "supported": false,
   "coingecko": {
