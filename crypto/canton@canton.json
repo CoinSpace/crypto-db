@@ -1,0 +1,17 @@
+{
+  "_id": "canton@canton",
+  "asset": "canton",
+  "platform": "canton",
+  "type": "coin",
+  "name": "Canton",
+  "symbol": "CC",
+  "logo": "canton.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "canton-network"
+  },
+  "coinmarketcap": {
+    "id": 37263,
+    "slug": "canton-network"
+  }
+}
