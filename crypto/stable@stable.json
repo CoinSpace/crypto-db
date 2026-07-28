@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "stable@stable",
   "asset": "stable",
   "platform": "stable",
