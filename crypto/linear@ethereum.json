@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "linear@ethereum",
   "asset": "linear",
   "platform": "ethereum",

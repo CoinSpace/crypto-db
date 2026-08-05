@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "solve@ethereum",
   "asset": "solve",
   "platform": "ethereum",

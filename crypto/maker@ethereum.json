@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "maker@ethereum",
   "asset": "maker",
   "platform": "ethereum",

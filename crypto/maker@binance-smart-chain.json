@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "maker@binance-smart-chain",
   "asset": "maker",
   "platform": "binance-smart-chain",

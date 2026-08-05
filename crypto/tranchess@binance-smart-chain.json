@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "tranchess@binance-smart-chain",
   "asset": "tranchess",
   "platform": "binance-smart-chain",

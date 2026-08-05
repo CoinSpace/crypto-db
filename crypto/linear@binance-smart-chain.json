@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "linear@binance-smart-chain",
   "asset": "linear",
   "platform": "binance-smart-chain",
