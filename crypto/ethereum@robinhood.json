@@ -1,0 +1,17 @@
+{
+  "_id": "ethereum@robinhood",
+  "asset": "ethereum",
+  "platform": "robinhood",
+  "type": "coin",
+  "name": "Robinhood",
+  "symbol": "ETH",
+  "logo": "robinhood.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 1027,
+    "slug": "ethereum"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "global-dollar@robinhood",
+  "asset": "global-dollar",
+  "platform": "robinhood",
+  "type": "token",
+  "name": "Global Dollar",
+  "symbol": "USDG",
+  "address": "0x5fc5360d0400a0fd4f2af552add042d716f1d168",
+  "logo": "global-dollar.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "global-dollar"
+  },
+  "coinmarketcap": {
+    "id": 33793,
+    "slug": "global-dollar-usdg"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "virtuals-protocol@robinhood",
+  "asset": "virtuals-protocol",
+  "platform": "robinhood",
+  "type": "token",
+  "name": "Virtuals Protocol",
+  "symbol": "VIRTUAL",
+  "address": "0xc6911796042b15d7fa4f6cde69e245ddcd3d9c31",
+  "logo": "virtuals-protocol.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "virtual-protocol"
+  },
+  "coinmarketcap": {
+    "id": 29420,
+    "slug": "virtual-protocol"
+  }
+}
