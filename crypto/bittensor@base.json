@@ -1,0 +1,18 @@
+{
+  "_id": "bittensor@base",
+  "asset": "bittensor",
+  "platform": "base",
+  "type": "token",
+  "name": "Bittensor",
+  "symbol": "TAO",
+  "address": "0xf3081494b87e8d5fb7960f066e931d1d0e6e3d67",
+  "decimals": 18,
+  "logo": "bittensor.svg",
+  "coingecko": {
+    "id": "bittensor"
+  },
+  "coinmarketcap": {
+    "id": 22974,
+    "slug": "bittensor"
+  }
+}
