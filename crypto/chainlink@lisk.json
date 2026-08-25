@@ -1,0 +1,18 @@
+{
+  "_id": "chainlink@lisk",
+  "asset": "chainlink",
+  "platform": "lisk",
+  "type": "token",
+  "name": "Chainlink",
+  "symbol": "LINK",
+  "address": "0x71052bae71c25c78e37fd12e5ff1101a71d9018f",
+  "logo": "chainlink.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "chainlink"
+  },
+  "coinmarketcap": {
+    "id": 1975,
+    "slug": "chainlink"
+  }
+}
