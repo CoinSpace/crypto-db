@@ -1,0 +1,18 @@
+{
+  "_id": "chainlink@worldcoin",
+  "asset": "chainlink",
+  "platform": "worldcoin",
+  "type": "token",
+  "name": "Chainlink",
+  "symbol": "LINK",
+  "address": "0x915b648e994d5f31059b38223b9fbe98ae185473",
+  "logo": "chainlink.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "chainlink"
+  },
+  "coinmarketcap": {
+    "id": 1975,
+    "slug": "chainlink"
+  }
+}

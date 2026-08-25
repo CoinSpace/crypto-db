@@ -1,0 +1,18 @@
+{
+  "_id": "chainlink@robinhood",
+  "asset": "chainlink",
+  "platform": "robinhood",
+  "type": "token",
+  "name": "Chainlink",
+  "symbol": "LINK",
+  "address": "0x492641f648a4986844848e0befe66d14817bce34",
+  "logo": "chainlink.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "chainlink"
+  },
+  "coinmarketcap": {
+    "id": 1975,
+    "slug": "chainlink"
+  }
+}
