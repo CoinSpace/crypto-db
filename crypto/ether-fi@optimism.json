@@ -1,0 +1,18 @@
+{
+  "_id": "ether-fi@optimism",
+  "asset": "ether-fi",
+  "platform": "optimism",
+  "type": "token",
+  "name": "ether.fi",
+  "symbol": "ETHFI",
+  "address": "0xe0080d2f853ecddbd81a643dc10da075df26fd3f",
+  "decimals": 18,
+  "logo": "ether-fi.svg",
+  "coingecko": {
+    "id": "ether-fi"
+  },
+  "coinmarketcap": {
+    "id": 29814,
+    "slug": "ether-fi-ethfi"
+  }
+}
