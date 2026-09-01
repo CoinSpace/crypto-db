@@ -1,0 +1,18 @@
+{
+  "_id": "pieverse@ethereum",
+  "asset": "pieverse",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Pieverse",
+  "symbol": "PIEVERSE",
+  "address": "0x0e63b9c287e32a05e6b9ab8ee8df88a2760225a9",
+  "decimals": 18,
+  "logo": "pieverse.svg",
+  "coingecko": {
+    "id": "pieverse"
+  },
+  "coinmarketcap": {
+    "id": 38849,
+    "slug": "pieverse"
+  }
+}
