@@ -1,0 +1,18 @@
+{
+  "_id": "pudgy-penguins@robinhood",
+  "asset": "pudgy-penguins",
+  "platform": "robinhood",
+  "type": "token",
+  "name": "Pudgy Penguins",
+  "symbol": "PENGU",
+  "address": "0x74be72affafbc8de30f0c11247814036314d625f",
+  "logo": "pudgy-penguins.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "pudgy-penguins"
+  },
+  "coinmarketcap": {
+    "id": 34466,
+    "slug": "pudgy-penguins"
+  }
+}
