@@ -1,0 +1,18 @@
+{
+  "_id": "usd-coin@plasma",
+  "asset": "usd-coin",
+  "platform": "plasma",
+  "type": "token",
+  "name": "USDC",
+  "symbol": "USDC",
+  "address": "0x2d661c89d812261039af9764eceaaee884f5f67f",
+  "logo": "usd-coin.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "usd-coin"
+  },
+  "coinmarketcap": {
+    "id": 3408,
+    "slug": "usd-coin"
+  }
+}
