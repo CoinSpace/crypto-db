@@ -1,0 +1,18 @@
+{
+  "_id": "falcon-finance@binance-smart-chain",
+  "asset": "falcon-finance",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Falcon Finance",
+  "symbol": "FF",
+  "address": "0xac23b90a79504865d52b49b327328411a23d4db2",
+  "decimals": 18,
+  "logo": "falcon-finance.svg",
+  "coingecko": {
+    "id": "falcon-finance-ff"
+  },
+  "coinmarketcap": {
+    "id": 38482,
+    "slug": "falcon-finance-ff"
+  }
+}
