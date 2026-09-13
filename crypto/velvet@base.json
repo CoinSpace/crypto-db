@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "velvet@base",
   "asset": "velvet",
   "platform": "base",
