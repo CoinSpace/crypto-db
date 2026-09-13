@@ -1,0 +1,18 @@
+{
+  "_id": "bittensor@robinhood",
+  "asset": "bittensor",
+  "platform": "robinhood",
+  "type": "token",
+  "name": "Bittensor",
+  "symbol": "TAO",
+  "address": "0xf3081494b87e8d5fb7960f066e931d1d0e6e3d67",
+  "logo": "bittensor.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "bittensor"
+  },
+  "coinmarketcap": {
+    "id": 22974,
+    "slug": "bittensor"
+  }
+}
