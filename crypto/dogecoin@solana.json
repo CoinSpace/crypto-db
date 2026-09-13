@@ -1,0 +1,18 @@
+{
+  "_id": "dogecoin@solana",
+  "asset": "dogecoin",
+  "platform": "solana",
+  "type": "token",
+  "name": "Dogecoin",
+  "symbol": "DOGE",
+  "address": "DoGEV7LASBkQbibMc5k5vKnTZoMg423GpJ5QtJEGfm7R",
+  "decimals": 8,
+  "logo": "dogecoin.svg",
+  "coingecko": {
+    "id": "dogecoin"
+  },
+  "coinmarketcap": {
+    "id": 74,
+    "slug": "dogecoin"
+  }
+}
