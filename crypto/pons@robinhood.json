@@ -1,0 +1,18 @@
+{
+  "_id": "pons@robinhood",
+  "asset": "pons",
+  "platform": "robinhood",
+  "type": "token",
+  "name": "Pons",
+  "symbol": "PONS",
+  "address": "0x39dbed3a2bd333467115de45665cc57f813c4571",
+  "logo": "pons.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "pons"
+  },
+  "coinmarketcap": {
+    "id": 40938,
+    "slug": "pons"
+  }
+}
