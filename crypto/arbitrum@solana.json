@@ -1,0 +1,18 @@
+{
+  "_id": "arbitrum@solana",
+  "asset": "arbitrum",
+  "platform": "solana",
+  "type": "token",
+  "name": "Arbitrum",
+  "symbol": "ARB",
+  "address": "ARBzQTYDCW2KnVEjs1Mc81LekB1ibVFZKbSVmorkoT9d",
+  "decimals": 8,
+  "logo": "arbitrum.svg",
+  "coingecko": {
+    "id": "arbitrum"
+  },
+  "coinmarketcap": {
+    "id": 11841,
+    "slug": "arbitrum"
+  }
+}
