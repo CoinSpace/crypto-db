@@ -1,0 +1,18 @@
+{
+  "_id": "global-dollar@mantle",
+  "asset": "global-dollar",
+  "platform": "mantle",
+  "type": "token",
+  "name": "Global Dollar",
+  "symbol": "USDG",
+  "address": "0x063c1d1ef6e9099ce3e8e9ad5c6173d12c49c086",
+  "logo": "global-dollar.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "global-dollar"
+  },
+  "coinmarketcap": {
+    "id": 33793,
+    "slug": "global-dollar-usdg"
+  }
+}
