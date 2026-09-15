@@ -1,0 +1,18 @@
+{
+  "_id": "falcon-finance@ethereum",
+  "asset": "falcon-finance",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Falcon Finance",
+  "symbol": "FF",
+  "address": "0xfa1c09fc8b491b6a4d3ff53a10cad29381b3f949",
+  "decimals": 18,
+  "logo": "falcon-finance.svg",
+  "coingecko": {
+    "id": "falcon-finance-ff"
+  },
+  "coinmarketcap": {
+    "id": 38482,
+    "slug": "falcon-finance-ff"
+  }
+}
