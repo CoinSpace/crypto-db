@@ -1,0 +1,18 @@
+{
+  "_id": "injective-protocol@solana",
+  "asset": "injective-protocol",
+  "platform": "solana",
+  "type": "token",
+  "name": "Injective",
+  "symbol": "INJ",
+  "address": "1NJMqVM4PadjuzYmeB7zV7q7DV8oB3ExaQCd9x6KsLz",
+  "decimals": 9,
+  "logo": "injective-protocol.svg",
+  "coingecko": {
+    "id": "injective-protocol"
+  },
+  "coinmarketcap": {
+    "id": 7226,
+    "slug": "injective"
+  }
+}
