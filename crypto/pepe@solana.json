@@ -1,0 +1,18 @@
+{
+  "_id": "pepe@solana",
+  "asset": "pepe",
+  "platform": "solana",
+  "type": "token",
+  "name": "Pepe",
+  "symbol": "PEPE",
+  "address": "PEPEqnuuCDbBC89p1u9vpnP1KQ2oj1xTcQBsjt9X55m",
+  "decimals": 4,
+  "logo": "pepe.svg",
+  "coingecko": {
+    "id": "pepe"
+  },
+  "coinmarketcap": {
+    "id": 24478,
+    "slug": "pepe"
+  }
+}
