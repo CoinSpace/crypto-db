@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "arbitrum@solana",
   "asset": "arbitrum",
   "platform": "solana",
