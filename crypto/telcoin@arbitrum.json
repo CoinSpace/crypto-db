@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "telcoin@arbitrum",
   "asset": "telcoin",
   "platform": "arbitrum",
