@@ -5,11 +5,11 @@
   "type": "token",
   "name": "Telcoin",
   "symbol": "TEL",
-  "address": "0x09be1692ca16e06f536f0038ff11d1da8524adb1",
-  "decimals": 2,
+  "address": "0x7e13b43065380acdec1c2d138c579cbbbafa0731",
+  "decimals": 18,
   "logo": "telcoin.svg",
   "coingecko": {
-    "id": "telcoin"
+    "id": "telcoin-2"
   },
   "coinmarketcap": {
     "id": 2394,
