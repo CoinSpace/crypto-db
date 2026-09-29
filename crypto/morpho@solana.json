@@ -1,0 +1,18 @@
+{
+  "_id": "morpho@solana",
+  "asset": "morpho",
+  "platform": "solana",
+  "type": "token",
+  "name": "Morpho",
+  "symbol": "MORPHO",
+  "address": "Morpho2VPeTr2E1Jx6monxCzF7mqwUnjz74RdwLXYyP",
+  "decimals": 8,
+  "logo": "morpho.svg",
+  "coingecko": {
+    "id": "morpho"
+  },
+  "coinmarketcap": {
+    "id": 34104,
+    "slug": "morpho"
+  }
+}
