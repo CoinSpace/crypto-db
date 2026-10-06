@@ -1,0 +1,18 @@
+{
+  "_id": "quant@solana",
+  "asset": "quant",
+  "platform": "solana",
+  "type": "token",
+  "name": "Quant",
+  "symbol": "QNT",
+  "address": "qntUzPUsJ51abNP7VYNxkmsQ4RnvEZAhavUxsCxpxH4",
+  "decimals": 8,
+  "logo": "quant.svg",
+  "coingecko": {
+    "id": "quant-network"
+  },
+  "coinmarketcap": {
+    "id": 3155,
+    "slug": "quant"
+  }
+}
