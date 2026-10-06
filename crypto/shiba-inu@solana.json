@@ -1,0 +1,18 @@
+{
+  "_id": "shiba-inu@solana",
+  "asset": "shiba-inu",
+  "platform": "solana",
+  "type": "token",
+  "name": "Shiba Inu",
+  "symbol": "SHIB",
+  "address": "shib5gSoVKPjwkXrxRk7SbQFzb2R9rQB3TgQWYX4RwW",
+  "decimals": 4,
+  "logo": "shiba-inu.svg",
+  "coingecko": {
+    "id": "shiba-inu"
+  },
+  "coinmarketcap": {
+    "id": 5994,
+    "slug": "shiba-inu"
+  }
+}
