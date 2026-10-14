@@ -1,0 +1,18 @@
+{
+  "_id": "aster@solana",
+  "asset": "aster",
+  "platform": "solana",
+  "type": "token",
+  "name": "Aster",
+  "symbol": "ASTER",
+  "address": "ASTERYpc2EhivYWSbtuWPuCMdXtZGmHwtH93NqYVw45Z",
+  "decimals": 8,
+  "logo": "aster.svg",
+  "coingecko": {
+    "id": "aster-2"
+  },
+  "coinmarketcap": {
+    "id": 36341,
+    "slug": "aster"
+  }
+}
