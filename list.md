@@ -1,5 +1,5 @@
 ## Stats
-Total cryptos: 883
+Total cryptos: 885
 ## List
 <table>
 <tr>
@@ -1364,23 +1364,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">9</td>
-  <td style="text-align: center;">
-    <img src="logo/hyperliquid.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/hyperliquid.svg" width="40px" height="40px"/>
-  </td>
-  <td>Hyperliquid</td>
-  <td>HYPE</td>
-  <td><a href="./crypto/hyperliquid@hyperliquid.json">hyperliquid@hyperliquid</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/hyperliquid">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/hyperliquid/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="3">10</td>
+  <td rowspan="3">9</td>
   <td style="text-align: center;">
     <img src="logo/zcash.svg" width="40px" height="40px"/>
   </td>
@@ -1424,6 +1408,22 @@ Total cryptos: 883
   <td>
     <a href="https://www.coingecko.com/en/coins/zcash">Coingecko</a><br>
     <a href="https://coinmarketcap.com/currencies/zcash/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">10</td>
+  <td style="text-align: center;">
+    <img src="logo/hyperliquid.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/hyperliquid.svg" width="40px" height="40px"/>
+  </td>
+  <td>Hyperliquid</td>
+  <td>HYPE</td>
+  <td><a href="./crypto/hyperliquid@hyperliquid.json">hyperliquid@hyperliquid</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/hyperliquid">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/hyperliquid/">Coinmarketcap</a><br>
   </td>
 </tr>
 <tr>
@@ -1827,23 +1827,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">16</td>
-  <td style="text-align: center;">
-    <img src="logo/stellar.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/stellar.svg" width="40px" height="40px"/>
-  </td>
-  <td>Stellar</td>
-  <td>XLM</td>
-  <td><a href="./crypto/stellar@stellar.json">stellar@stellar</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/stellar">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/stellar/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="3">17</td>
+  <td rowspan="3">16</td>
   <td style="text-align: center;">
     <img src="logo/near.svg" width="40px" height="40px"/>
   </td>
@@ -1891,6 +1875,22 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
+  <td rowspan="1">17</td>
+  <td style="text-align: center;">
+    <img src="logo/stellar.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/stellar.svg" width="40px" height="40px"/>
+  </td>
+  <td>Stellar</td>
+  <td>XLM</td>
+  <td><a href="./crypto/stellar@stellar.json">stellar@stellar</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/stellar">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/stellar/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
   <td rowspan="2">18</td>
   <td style="text-align: center;">
     <img src="logo/bitcoin-cash.svg" width="40px" height="40px"/>
@@ -1923,177 +1923,23 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="2">19</td>
+  <td rowspan="1">19</td>
   <td style="text-align: center;">
-    <img src="logo/litecoin.svg" width="40px" height="40px"/>
+    <img src="logo/canton.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/litecoin.svg" width="40px" height="40px"/>
+    <img src="logo-dark/canton.svg" width="40px" height="40px"/>
   </td>
-  <td>Litecoin</td>
-  <td>LTC</td>
-  <td><a href="./crypto/litecoin@litecoin.json">litecoin@litecoin</a></td>
+  <td>Canton</td>
+  <td>CC</td>
+  <td><a href="./crypto/canton@canton.json">canton@canton</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/litecoin">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/litecoin/">Coinmarketcap</a><br>
+    <a href="https://www.coingecko.com/en/coins/canton-network">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/canton-network/">Coinmarketcap</a><br>
   </td>
 </tr>
 <tr>
-  <td style="text-align: center;">
-    <img src="logo/litecoin.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/litecoin.svg" width="40px" height="40px"/>
-  </td>
-  <td>Litecoin</td>
-  <td>LTC</td>
-  <td><a href="./crypto/litecoin@binance-smart-chain.json">litecoin@binance-smart-chain</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/litecoin">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/litecoin/">Coinmarketcap</a><br>
-    <a href="https://bscscan.com/token/0x4338665cbb7b2485a8855a139b75d5e34ab0db94">BscScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="9">20</td>
-  <td style="text-align: center;">
-    <img src="logo/uniswap.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/uniswap.svg" width="40px" height="40px"/>
-  </td>
-  <td>Uniswap</td>
-  <td>UNI</td>
-  <td><a href="./crypto/uniswap@arbitrum.json">uniswap@arbitrum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/uniswap">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/uniswap/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/uniswap.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/uniswap.svg" width="40px" height="40px"/>
-  </td>
-  <td>Uniswap</td>
-  <td>UNI</td>
-  <td><a href="./crypto/uniswap@avalanche-c-chain.json">uniswap@avalanche-c-chain</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/uniswap">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/uniswap/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/uniswap.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/uniswap.svg" width="40px" height="40px"/>
-  </td>
-  <td>Uniswap</td>
-  <td>UNI</td>
-  <td><a href="./crypto/uniswap@binance-smart-chain.json">uniswap@binance-smart-chain</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/uniswap">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/uniswap/">Coinmarketcap</a><br>
-    <a href="https://bscscan.com/token/0xbf5140a22578168fd562dccf235e5d43a02ce9b1">BscScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/uniswap.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/uniswap.svg" width="40px" height="40px"/>
-  </td>
-  <td>Uniswap</td>
-  <td>UNI</td>
-  <td><a href="./crypto/uniswap@ethereum.json">uniswap@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/uniswap">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/uniswap/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/uniswap.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/uniswap.svg" width="40px" height="40px"/>
-  </td>
-  <td>Uniswap</td>
-  <td>UNI</td>
-  <td><a href="./crypto/uniswap@near.json">uniswap@near</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/uniswap">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/uniswap/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/uniswap.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/uniswap.svg" width="40px" height="40px"/>
-  </td>
-  <td>Uniswap</td>
-  <td>UNI</td>
-  <td><a href="./crypto/uniswap@polygon.json">uniswap@polygon</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/uniswap">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/uniswap/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/uniswap.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/uniswap.svg" width="40px" height="40px"/>
-  </td>
-  <td>Uniswap</td>
-  <td>UNI</td>
-  <td><a href="./crypto/uniswap@solana.json">uniswap@solana</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/uniswap">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/uniswap/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/uniswap.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/uniswap.svg" width="40px" height="40px"/>
-  </td>
-  <td>Uniswap</td>
-  <td>UNI</td>
-  <td><a href="./crypto/uniswap@terra.json">uniswap@terra</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/uniswap">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/uniswap/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/uniswap.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/uniswap.svg" width="40px" height="40px"/>
-  </td>
-  <td>Uniswap</td>
-  <td>UNI</td>
-  <td><a href="./crypto/uniswap@uniswap.json">uniswap@uniswap</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/uniswap">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/uniswap/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="10">21</td>
+  <td rowspan="10">20</td>
   <td style="text-align: center;">
     <img src="logo/ethena-usde.svg" width="40px" height="40px"/>
   </td>
@@ -2246,7 +2092,177 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="3">22</td>
+  <td rowspan="2">21</td>
+  <td style="text-align: center;">
+    <img src="logo/litecoin.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/litecoin.svg" width="40px" height="40px"/>
+  </td>
+  <td>Litecoin</td>
+  <td>LTC</td>
+  <td><a href="./crypto/litecoin@litecoin.json">litecoin@litecoin</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/litecoin">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/litecoin/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/litecoin.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/litecoin.svg" width="40px" height="40px"/>
+  </td>
+  <td>Litecoin</td>
+  <td>LTC</td>
+  <td><a href="./crypto/litecoin@binance-smart-chain.json">litecoin@binance-smart-chain</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/litecoin">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/litecoin/">Coinmarketcap</a><br>
+    <a href="https://bscscan.com/token/0x4338665cbb7b2485a8855a139b75d5e34ab0db94">BscScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="9">22</td>
+  <td style="text-align: center;">
+    <img src="logo/uniswap.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/uniswap.svg" width="40px" height="40px"/>
+  </td>
+  <td>Uniswap</td>
+  <td>UNI</td>
+  <td><a href="./crypto/uniswap@arbitrum.json">uniswap@arbitrum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/uniswap">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/uniswap/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/uniswap.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/uniswap.svg" width="40px" height="40px"/>
+  </td>
+  <td>Uniswap</td>
+  <td>UNI</td>
+  <td><a href="./crypto/uniswap@avalanche-c-chain.json">uniswap@avalanche-c-chain</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/uniswap">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/uniswap/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/uniswap.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/uniswap.svg" width="40px" height="40px"/>
+  </td>
+  <td>Uniswap</td>
+  <td>UNI</td>
+  <td><a href="./crypto/uniswap@binance-smart-chain.json">uniswap@binance-smart-chain</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/uniswap">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/uniswap/">Coinmarketcap</a><br>
+    <a href="https://bscscan.com/token/0xbf5140a22578168fd562dccf235e5d43a02ce9b1">BscScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/uniswap.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/uniswap.svg" width="40px" height="40px"/>
+  </td>
+  <td>Uniswap</td>
+  <td>UNI</td>
+  <td><a href="./crypto/uniswap@ethereum.json">uniswap@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/uniswap">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/uniswap/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/uniswap.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/uniswap.svg" width="40px" height="40px"/>
+  </td>
+  <td>Uniswap</td>
+  <td>UNI</td>
+  <td><a href="./crypto/uniswap@near.json">uniswap@near</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/uniswap">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/uniswap/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/uniswap.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/uniswap.svg" width="40px" height="40px"/>
+  </td>
+  <td>Uniswap</td>
+  <td>UNI</td>
+  <td><a href="./crypto/uniswap@polygon.json">uniswap@polygon</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/uniswap">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/uniswap/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/uniswap.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/uniswap.svg" width="40px" height="40px"/>
+  </td>
+  <td>Uniswap</td>
+  <td>UNI</td>
+  <td><a href="./crypto/uniswap@solana.json">uniswap@solana</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/uniswap">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/uniswap/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/uniswap.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/uniswap.svg" width="40px" height="40px"/>
+  </td>
+  <td>Uniswap</td>
+  <td>UNI</td>
+  <td><a href="./crypto/uniswap@terra.json">uniswap@terra</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/uniswap">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/uniswap/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/uniswap.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/uniswap.svg" width="40px" height="40px"/>
+  </td>
+  <td>Uniswap</td>
+  <td>UNI</td>
+  <td><a href="./crypto/uniswap@uniswap.json">uniswap@uniswap</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/uniswap">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/uniswap/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="3">23</td>
   <td style="text-align: center;">
     <img src="logo/avalanche.svg" width="40px" height="40px"/>
   </td>
@@ -2293,54 +2309,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">23</td>
-  <td style="text-align: center;">
-    <img src="logo/canton.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/canton.svg" width="40px" height="40px"/>
-  </td>
-  <td>Canton</td>
-  <td>CC</td>
-  <td><a href="./crypto/canton@canton.json">canton@canton</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/canton-network">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/canton-network/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="2">24</td>
-  <td style="text-align: center;">
-    <img src="logo/sui.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/sui.svg" width="40px" height="40px"/>
-  </td>
-  <td>Sui</td>
-  <td>SUI</td>
-  <td><a href="./crypto/sui@sui.json">sui@sui</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/sui">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/sui/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/sui.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/sui.svg" width="40px" height="40px"/>
-  </td>
-  <td>Sui</td>
-  <td>SUI</td>
-  <td><a href="./crypto/sui@solana.json">sui@solana</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/sui">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/sui/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="14">25</td>
+  <td rowspan="14">24</td>
   <td style="text-align: center;">
     <img src="logo/dai.svg" width="40px" height="40px"/>
   </td>
@@ -2553,6 +2522,37 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
+  <td rowspan="2">25</td>
+  <td style="text-align: center;">
+    <img src="logo/sui.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/sui.svg" width="40px" height="40px"/>
+  </td>
+  <td>Sui</td>
+  <td>SUI</td>
+  <td><a href="./crypto/sui@sui.json">sui@sui</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/sui">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/sui/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/sui.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/sui.svg" width="40px" height="40px"/>
+  </td>
+  <td>Sui</td>
+  <td>SUI</td>
+  <td><a href="./crypto/sui@solana.json">sui@solana</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/sui">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/sui/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
   <td rowspan="5">26</td>
   <td style="text-align: center;">
     <img src="logo/world-liberty-financial-usd.svg" width="40px" height="40px"/>
@@ -2631,23 +2631,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">27</td>
-  <td style="text-align: center;">
-    <img src="logo/hedera-hashgraph.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/hedera-hashgraph.svg" width="40px" height="40px"/>
-  </td>
-  <td>Hedera</td>
-  <td>HBAR</td>
-  <td><a href="./crypto/hedera-hashgraph@hedera-hashgraph.json">hedera-hashgraph@hedera-hashgraph</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/hedera-hashgraph">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/hedera/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="3">28</td>
+  <td rowspan="3">27</td>
   <td style="text-align: center;">
     <img src="logo/toncoin.svg" width="40px" height="40px"/>
   </td>
@@ -2692,6 +2676,22 @@ Total cryptos: 883
     <a href="https://www.coingecko.com/en/coins/the-open-network">Coingecko</a><br>
     <a href="https://coinmarketcap.com/currencies/gram/">Coinmarketcap</a><br>
     <a href="https://etherscan.io/token/0x582d872a1b094fc48f5de31d3b73f2d9be47def1">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">28</td>
+  <td style="text-align: center;">
+    <img src="logo/hedera-hashgraph.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/hedera-hashgraph.svg" width="40px" height="40px"/>
+  </td>
+  <td>Hedera</td>
+  <td>HBAR</td>
+  <td><a href="./crypto/hedera-hashgraph@hedera-hashgraph.json">hedera-hashgraph@hedera-hashgraph</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/hedera-hashgraph">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/hedera/">Coinmarketcap</a><br>
   </td>
 </tr>
 <tr>
@@ -2741,55 +2741,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="3">30</td>
-  <td style="text-align: center;">
-    <img src="logo/shiba-inu.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/shiba-inu.svg" width="40px" height="40px"/>
-  </td>
-  <td>Shiba Inu</td>
-  <td>SHIB</td>
-  <td><a href="./crypto/shiba-inu@binance-smart-chain.json">shiba-inu@binance-smart-chain</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/shiba-inu">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/shiba-inu/">Coinmarketcap</a><br>
-    <a href="https://bscscan.com/token/0x2859e4544c4bb03966803b044a93563bd2d0dd4d">BscScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/shiba-inu.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/shiba-inu.svg" width="40px" height="40px"/>
-  </td>
-  <td>Shiba Inu</td>
-  <td>SHIB</td>
-  <td><a href="./crypto/shiba-inu@ethereum.json">shiba-inu@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/shiba-inu">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/shiba-inu/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/shiba-inu.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/shiba-inu.svg" width="40px" height="40px"/>
-  </td>
-  <td>Shiba Inu</td>
-  <td>SHIB</td>
-  <td><a href="./crypto/shiba-inu@solana.json">shiba-inu@solana</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/shiba-inu">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/shiba-inu/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="5">31</td>
+  <td rowspan="5">30</td>
   <td style="text-align: center;">
     <img src="logo/global-dollar.svg" width="40px" height="40px"/>
   </td>
@@ -2866,7 +2818,88 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="3">32</td>
+  <td rowspan="3">31</td>
+  <td style="text-align: center;">
+    <img src="logo/shiba-inu.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/shiba-inu.svg" width="40px" height="40px"/>
+  </td>
+  <td>Shiba Inu</td>
+  <td>SHIB</td>
+  <td><a href="./crypto/shiba-inu@binance-smart-chain.json">shiba-inu@binance-smart-chain</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/shiba-inu">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/shiba-inu/">Coinmarketcap</a><br>
+    <a href="https://bscscan.com/token/0x2859e4544c4bb03966803b044a93563bd2d0dd4d">BscScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/shiba-inu.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/shiba-inu.svg" width="40px" height="40px"/>
+  </td>
+  <td>Shiba Inu</td>
+  <td>SHIB</td>
+  <td><a href="./crypto/shiba-inu@ethereum.json">shiba-inu@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/shiba-inu">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/shiba-inu/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/shiba-inu.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/shiba-inu.svg" width="40px" height="40px"/>
+  </td>
+  <td>Shiba Inu</td>
+  <td>SHIB</td>
+  <td><a href="./crypto/shiba-inu@solana.json">shiba-inu@solana</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/shiba-inu">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/shiba-inu/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="2">32</td>
+  <td style="text-align: center;">
+    <img src="logo/tether-gold.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/tether-gold.svg" width="40px" height="40px"/>
+  </td>
+  <td>Tether Gold</td>
+  <td>XAUT</td>
+  <td><a href="./crypto/tether-gold@binance-smart-chain.json">tether-gold@binance-smart-chain</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/tether-gold">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/tether-gold/">Coinmarketcap</a><br>
+    <a href="https://bscscan.com/token/0x21caef8a43163eea865baee23b9c2e327696a3bf">BscScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/tether-gold.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/tether-gold.svg" width="40px" height="40px"/>
+  </td>
+  <td>Tether Gold</td>
+  <td>XAUT</td>
+  <td><a href="./crypto/tether-gold@ethereum.json">tether-gold@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/tether-gold">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/tether-gold/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x68749665ff8d2d112fa859aa293f07a622782f38">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="3">33</td>
   <td style="text-align: center;">
     <img src="logo/crypto-com-coin.svg" width="40px" height="40px"/>
   </td>
@@ -2913,105 +2946,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">33</td>
-  <td style="text-align: center;">
-    <img src="logo/ethena.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/ethena.svg" width="40px" height="40px"/>
-  </td>
-  <td>Ethena</td>
-  <td>ENA</td>
-  <td><a href="./crypto/ethena@ethereum.json">ethena@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/ethena">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/ethena/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x57e114b691db790c35207b2e685d4a43181e6061">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">34</td>
-  <td style="text-align: center;">
-    <img src="logo/pump-fun.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/pump-fun.svg" width="40px" height="40px"/>
-  </td>
-  <td>Pump.fun</td>
-  <td>PUMP</td>
-  <td><a href="./crypto/pump-fun@solana.json">pump-fun@solana</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/pump-fun">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/pump-fun/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="2">35</td>
-  <td style="text-align: center;">
-    <img src="logo/quant.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/quant.svg" width="40px" height="40px"/>
-  </td>
-  <td>Quant</td>
-  <td>QNT</td>
-  <td><a href="./crypto/quant@ethereum.json">quant@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/quant-network">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/quant/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x4a220e6096b25eadb88358cb44068a3248254675">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/quant.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/quant.svg" width="40px" height="40px"/>
-  </td>
-  <td>Quant</td>
-  <td>QNT</td>
-  <td><a href="./crypto/quant@solana.json">quant@solana</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/quant-network">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/quant/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="2">36</td>
-  <td style="text-align: center;">
-    <img src="logo/tether-gold.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/tether-gold.svg" width="40px" height="40px"/>
-  </td>
-  <td>Tether Gold</td>
-  <td>XAUT</td>
-  <td><a href="./crypto/tether-gold@binance-smart-chain.json">tether-gold@binance-smart-chain</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/tether-gold">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/tether-gold/">Coinmarketcap</a><br>
-    <a href="https://bscscan.com/token/0x21caef8a43163eea865baee23b9c2e327696a3bf">BscScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/tether-gold.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/tether-gold.svg" width="40px" height="40px"/>
-  </td>
-  <td>Tether Gold</td>
-  <td>XAUT</td>
-  <td><a href="./crypto/tether-gold@ethereum.json">tether-gold@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/tether-gold">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/tether-gold/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x68749665ff8d2d112fa859aa293f07a622782f38">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="5">37</td>
+  <td rowspan="5">34</td>
   <td style="text-align: center;">
     <img src="logo/paypal-usd.svg" width="40px" height="40px"/>
   </td>
@@ -3088,7 +3023,24 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">38</td>
+  <td rowspan="1">35</td>
+  <td style="text-align: center;">
+    <img src="logo/ethena.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/ethena.svg" width="40px" height="40px"/>
+  </td>
+  <td>Ethena</td>
+  <td>ENA</td>
+  <td><a href="./crypto/ethena@ethereum.json">ethena@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/ethena">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/ethena/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x57e114b691db790c35207b2e685d4a43181e6061">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">36</td>
   <td style="text-align: center;">
     <img src="logo/okb.svg" width="40px" height="40px"/>
   </td>
@@ -3105,7 +3057,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="8">39</td>
+  <td rowspan="8">37</td>
   <td style="text-align: center;">
     <img src="logo/aave.svg" width="40px" height="40px"/>
   </td>
@@ -3228,7 +3180,39 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="5">40</td>
+  <td rowspan="2">38</td>
+  <td style="text-align: center;">
+    <img src="logo/quant.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/quant.svg" width="40px" height="40px"/>
+  </td>
+  <td>Quant</td>
+  <td>QNT</td>
+  <td><a href="./crypto/quant@ethereum.json">quant@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/quant-network">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/quant/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x4a220e6096b25eadb88358cb44068a3248254675">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/quant.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/quant.svg" width="40px" height="40px"/>
+  </td>
+  <td>Quant</td>
+  <td>QNT</td>
+  <td><a href="./crypto/quant@solana.json">quant@solana</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/quant-network">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/quant/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="5">39</td>
   <td style="text-align: center;">
     <img src="logo/ripple-usd.svg" width="40px" height="40px"/>
   </td>
@@ -3305,39 +3289,23 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="2">41</td>
+  <td rowspan="1">40</td>
   <td style="text-align: center;">
-    <img src="logo/memecore.svg" width="40px" height="40px"/>
+    <img src="logo/pump-fun.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/memecore.svg" width="40px" height="40px"/>
+    <img src="logo-dark/pump-fun.svg" width="40px" height="40px"/>
   </td>
-  <td>MemeCore</td>
-  <td>M</td>
-  <td><a href="./crypto/memecore@memecore.json">memecore@memecore</a></td>
+  <td>Pump.fun</td>
+  <td>PUMP</td>
+  <td><a href="./crypto/pump-fun@solana.json">pump-fun@solana</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/memecore">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/memecore/">Coinmarketcap</a><br>
+    <a href="https://www.coingecko.com/en/coins/pump-fun">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/pump-fun/">Coinmarketcap</a><br>
   </td>
 </tr>
 <tr>
-  <td style="text-align: center;">
-    <img src="logo/memecore.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/memecore.svg" width="40px" height="40px"/>
-  </td>
-  <td>MemeCore</td>
-  <td>M</td>
-  <td><a href="./crypto/memecore@binance-smart-chain.json">memecore@binance-smart-chain</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/memecore">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/memecore/">Coinmarketcap</a><br>
-    <a href="https://bscscan.com/token/0x22b1458e780f8fa71e2f84502cee8b5a3cc731fa">BscScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">42</td>
+  <td rowspan="1">41</td>
   <td style="text-align: center;">
     <img src="logo/ondo.svg" width="40px" height="40px"/>
   </td>
@@ -3354,118 +3322,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="3">43</td>
-  <td style="text-align: center;">
-    <img src="logo/worldcoin.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/worldcoin.svg" width="40px" height="40px"/>
-  </td>
-  <td>Worldcoin</td>
-  <td>WLD</td>
-  <td><a href="./crypto/worldcoin@ethereum.json">worldcoin@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/worldcoin-wld">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/worldcoin-org/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x163f8c2467924be0ae7b5347228cabf260318753">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/worldcoin.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/worldcoin.svg" width="40px" height="40px"/>
-  </td>
-  <td>Worldcoin</td>
-  <td>WLD</td>
-  <td><a href="./crypto/worldcoin@optimism.json">worldcoin@optimism</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/worldcoin-wld">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/worldcoin-org/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/worldcoin.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/worldcoin.svg" width="40px" height="40px"/>
-  </td>
-  <td>Worldcoin</td>
-  <td>WLD</td>
-  <td><a href="./crypto/worldcoin@worldcoin.json">worldcoin@worldcoin</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/worldcoin-wld">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/worldcoin-org/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">44</td>
-  <td style="text-align: center;">
-    <img src="logo/sky.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/sky.svg" width="40px" height="40px"/>
-  </td>
-  <td>Sky</td>
-  <td>SKY</td>
-  <td><a href="./crypto/sky@ethereum.json">sky@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/sky">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/sky/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x56072c95faa701256059aa122697b133aded9279">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="3">45</td>
-  <td style="text-align: center;">
-    <img src="logo/mantle.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/mantle.svg" width="40px" height="40px"/>
-  </td>
-  <td>Mantle</td>
-  <td>MNT</td>
-  <td><a href="./crypto/mantle@mantle.json">mantle@mantle</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/mantle">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/mantle/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/mantle.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/mantle.svg" width="40px" height="40px"/>
-  </td>
-  <td>Mantle</td>
-  <td>MNT</td>
-  <td><a href="./crypto/mantle@ethereum.json">mantle@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/mantle">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/mantle/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x3c3a81e81dc49a522a592e7622a7e711c06bf354">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/mantle.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/mantle.svg" width="40px" height="40px"/>
-  </td>
-  <td>Mantle</td>
-  <td>MNT</td>
-  <td><a href="./crypto/mantle@solana.json">mantle@solana</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/mantle">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/mantle/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="6">46</td>
+  <td rowspan="6">42</td>
   <td style="text-align: center;">
     <img src="logo/polkadot.svg" width="40px" height="40px"/>
   </td>
@@ -3558,7 +3415,54 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">47</td>
+  <td rowspan="3">43</td>
+  <td style="text-align: center;">
+    <img src="logo/worldcoin.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/worldcoin.svg" width="40px" height="40px"/>
+  </td>
+  <td>Worldcoin</td>
+  <td>WLD</td>
+  <td><a href="./crypto/worldcoin@ethereum.json">worldcoin@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/worldcoin-wld">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/worldcoin-org/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x163f8c2467924be0ae7b5347228cabf260318753">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/worldcoin.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/worldcoin.svg" width="40px" height="40px"/>
+  </td>
+  <td>Worldcoin</td>
+  <td>WLD</td>
+  <td><a href="./crypto/worldcoin@optimism.json">worldcoin@optimism</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/worldcoin-wld">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/worldcoin-org/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/worldcoin.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/worldcoin.svg" width="40px" height="40px"/>
+  </td>
+  <td>Worldcoin</td>
+  <td>WLD</td>
+  <td><a href="./crypto/worldcoin@worldcoin.json">worldcoin@worldcoin</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/worldcoin-wld">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/worldcoin-org/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="2">44</td>
   <td style="text-align: center;">
     <img src="logo/aster.svg" width="40px" height="40px"/>
   </td>
@@ -3575,7 +3479,54 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">48</td>
+  <td style="text-align: center;">
+    <img src="logo/aster.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/aster.svg" width="40px" height="40px"/>
+  </td>
+  <td>Aster</td>
+  <td>ASTER</td>
+  <td><a href="./crypto/aster@solana.json">aster@solana</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/aster-2">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/aster/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="2">45</td>
+  <td style="text-align: center;">
+    <img src="logo/memecore.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/memecore.svg" width="40px" height="40px"/>
+  </td>
+  <td>MemeCore</td>
+  <td>M</td>
+  <td><a href="./crypto/memecore@memecore.json">memecore@memecore</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/memecore">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/memecore/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/memecore.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/memecore.svg" width="40px" height="40px"/>
+  </td>
+  <td>MemeCore</td>
+  <td>M</td>
+  <td><a href="./crypto/memecore@binance-smart-chain.json">memecore@binance-smart-chain</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/memecore">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/memecore/">Coinmarketcap</a><br>
+    <a href="https://bscscan.com/token/0x22b1458e780f8fa71e2f84502cee8b5a3cc731fa">BscScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">46</td>
   <td style="text-align: center;">
     <img src="logo/pax-gold.svg" width="40px" height="40px"/>
   </td>
@@ -3592,7 +3543,199 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="4">49</td>
+  <td rowspan="3">47</td>
+  <td style="text-align: center;">
+    <img src="logo/world-liberty-financial.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/world-liberty-financial.svg" width="40px" height="40px"/>
+  </td>
+  <td>World Liberty Financial</td>
+  <td>WLFI</td>
+  <td><a href="./crypto/world-liberty-financial@binance-smart-chain.json">world-liberty-financial@binance-smart-chain</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/world-liberty-financial">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/world-liberty-financial-wlfi/">Coinmarketcap</a><br>
+    <a href="https://bscscan.com/token/0x47474747477b199288bf72a1d702f7fe0fb1deea">BscScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/world-liberty-financial.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/world-liberty-financial.svg" width="40px" height="40px"/>
+  </td>
+  <td>World Liberty Financial</td>
+  <td>WLFI</td>
+  <td><a href="./crypto/world-liberty-financial@ethereum.json">world-liberty-financial@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/world-liberty-financial">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/world-liberty-financial-wlfi/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0xda5e1988097297dcdc1f90d4dfe7909e847cbef6">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/world-liberty-financial.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/world-liberty-financial.svg" width="40px" height="40px"/>
+  </td>
+  <td>World Liberty Financial</td>
+  <td>WLFI</td>
+  <td><a href="./crypto/world-liberty-financial@solana.json">world-liberty-financial@solana</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/world-liberty-financial">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/world-liberty-financial-wlfi/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">48</td>
+  <td style="text-align: center;">
+    <img src="logo/sky.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/sky.svg" width="40px" height="40px"/>
+  </td>
+  <td>Sky</td>
+  <td>SKY</td>
+  <td><a href="./crypto/sky@ethereum.json">sky@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/sky">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/sky/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x56072c95faa701256059aa122697b133aded9279">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="3">49</td>
+  <td style="text-align: center;">
+    <img src="logo/mantle.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/mantle.svg" width="40px" height="40px"/>
+  </td>
+  <td>Mantle</td>
+  <td>MNT</td>
+  <td><a href="./crypto/mantle@mantle.json">mantle@mantle</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/mantle">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/mantle/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/mantle.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/mantle.svg" width="40px" height="40px"/>
+  </td>
+  <td>Mantle</td>
+  <td>MNT</td>
+  <td><a href="./crypto/mantle@ethereum.json">mantle@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/mantle">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/mantle/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x3c3a81e81dc49a522a592e7622a7e711c06bf354">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/mantle.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/mantle.svg" width="40px" height="40px"/>
+  </td>
+  <td>Mantle</td>
+  <td>MNT</td>
+  <td><a href="./crypto/mantle@solana.json">mantle@solana</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/mantle">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/mantle/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="3">50</td>
+  <td style="text-align: center;">
+    <img src="logo/usdd.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/usdd.svg" width="40px" height="40px"/>
+  </td>
+  <td>USDD</td>
+  <td>USDD</td>
+  <td><a href="./crypto/usdd@binance-smart-chain.json">usdd@binance-smart-chain</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/usdd">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/usdd/">Coinmarketcap</a><br>
+    <a href="https://bscscan.com/token/0x45e51bc23d592eb2dba86da3985299f7895d66ba">BscScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/usdd.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/usdd.svg" width="40px" height="40px"/>
+  </td>
+  <td>USDD</td>
+  <td>USDD</td>
+  <td><a href="./crypto/usdd@ethereum.json">usdd@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/usdd">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/usdd/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x4f8e5de400de08b164e7421b3ee387f461becd1a">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/usdd.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/usdd.svg" width="40px" height="40px"/>
+  </td>
+  <td>USDD</td>
+  <td>USDD</td>
+  <td><a href="./crypto/usdd@tron.json">usdd@tron</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/usdd">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/usdd/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="2">51</td>
+  <td style="text-align: center;">
+    <img src="logo/pepe.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/pepe.svg" width="40px" height="40px"/>
+  </td>
+  <td>Pepe</td>
+  <td>PEPE</td>
+  <td><a href="./crypto/pepe@ethereum.json">pepe@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/pepe">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/pepe/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x6982508145454ce325ddbe47a25d4ec3d2311933">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/pepe.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/pepe.svg" width="40px" height="40px"/>
+  </td>
+  <td>Pepe</td>
+  <td>PEPE</td>
+  <td><a href="./crypto/pepe@solana.json">pepe@solana</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/pepe">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/pepe/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="4">52</td>
   <td style="text-align: center;">
     <img src="logo/internet-computer.svg" width="40px" height="40px"/>
   </td>
@@ -3651,134 +3794,6 @@ Total cryptos: 883
     <a href="https://www.coingecko.com/en/coins/internet-computer">Coingecko</a><br>
     <a href="https://coinmarketcap.com/currencies/internet-computer/">Coinmarketcap</a><br>
     <a href="https://etherscan.io/token/0x00f3c42833c3170159af4e92dbb451fb3f708917">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="3">50</td>
-  <td style="text-align: center;">
-    <img src="logo/world-liberty-financial.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/world-liberty-financial.svg" width="40px" height="40px"/>
-  </td>
-  <td>World Liberty Financial</td>
-  <td>WLFI</td>
-  <td><a href="./crypto/world-liberty-financial@binance-smart-chain.json">world-liberty-financial@binance-smart-chain</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/world-liberty-financial">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/world-liberty-financial-wlfi/">Coinmarketcap</a><br>
-    <a href="https://bscscan.com/token/0x47474747477b199288bf72a1d702f7fe0fb1deea">BscScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/world-liberty-financial.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/world-liberty-financial.svg" width="40px" height="40px"/>
-  </td>
-  <td>World Liberty Financial</td>
-  <td>WLFI</td>
-  <td><a href="./crypto/world-liberty-financial@ethereum.json">world-liberty-financial@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/world-liberty-financial">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/world-liberty-financial-wlfi/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0xda5e1988097297dcdc1f90d4dfe7909e847cbef6">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/world-liberty-financial.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/world-liberty-financial.svg" width="40px" height="40px"/>
-  </td>
-  <td>World Liberty Financial</td>
-  <td>WLFI</td>
-  <td><a href="./crypto/world-liberty-financial@solana.json">world-liberty-financial@solana</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/world-liberty-financial">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/world-liberty-financial-wlfi/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="2">51</td>
-  <td style="text-align: center;">
-    <img src="logo/pepe.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/pepe.svg" width="40px" height="40px"/>
-  </td>
-  <td>Pepe</td>
-  <td>PEPE</td>
-  <td><a href="./crypto/pepe@ethereum.json">pepe@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/pepe">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/pepe/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x6982508145454ce325ddbe47a25d4ec3d2311933">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/pepe.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/pepe.svg" width="40px" height="40px"/>
-  </td>
-  <td>Pepe</td>
-  <td>PEPE</td>
-  <td><a href="./crypto/pepe@solana.json">pepe@solana</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/pepe">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/pepe/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="3">52</td>
-  <td style="text-align: center;">
-    <img src="logo/usdd.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/usdd.svg" width="40px" height="40px"/>
-  </td>
-  <td>USDD</td>
-  <td>USDD</td>
-  <td><a href="./crypto/usdd@binance-smart-chain.json">usdd@binance-smart-chain</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/usdd">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/usdd/">Coinmarketcap</a><br>
-    <a href="https://bscscan.com/token/0x45e51bc23d592eb2dba86da3985299f7895d66ba">BscScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/usdd.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/usdd.svg" width="40px" height="40px"/>
-  </td>
-  <td>USDD</td>
-  <td>USDD</td>
-  <td><a href="./crypto/usdd@ethereum.json">usdd@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/usdd">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/usdd/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x4f8e5de400de08b164e7421b3ee387f461becd1a">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/usdd.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/usdd.svg" width="40px" height="40px"/>
-  </td>
-  <td>USDD</td>
-  <td>USDD</td>
-  <td><a href="./crypto/usdd@tron.json">usdd@tron</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/usdd">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/usdd/">Coinmarketcap</a><br>
   </td>
 </tr>
 <tr>
@@ -3862,7 +3877,71 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="4">55</td>
+  <td rowspan="2">55</td>
+  <td style="text-align: center;">
+    <img src="logo/ethereum-classic.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/ethereum-classic.svg" width="40px" height="40px"/>
+  </td>
+  <td>Ethereum Classic</td>
+  <td>ETC</td>
+  <td><a href="./crypto/ethereum-classic@ethereum-classic.json">ethereum-classic@ethereum-classic</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/ethereum-classic">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/ethereum-classic/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/ethereum-classic.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/ethereum-classic.svg" width="40px" height="40px"/>
+  </td>
+  <td>Ethereum Classic</td>
+  <td>ETC</td>
+  <td><a href="./crypto/ethereum-classic@binance-smart-chain.json">ethereum-classic@binance-smart-chain</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/ethereum-classic">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/ethereum-classic/">Coinmarketcap</a><br>
+    <a href="https://bscscan.com/token/0x3d6545b08693dae087e957cb1180ee38b9e3c25e">BscScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="2">56</td>
+  <td style="text-align: center;">
+    <img src="logo/arbitrum.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/arbitrum.svg" width="40px" height="40px"/>
+  </td>
+  <td>Arbitrum</td>
+  <td>ARB</td>
+  <td><a href="./crypto/arbitrum@arbitrum.json">arbitrum@arbitrum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/arbitrum">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/arbitrum/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/arbitrum.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/arbitrum.svg" width="40px" height="40px"/>
+  </td>
+  <td>Arbitrum</td>
+  <td>ARB</td>
+  <td><a href="./crypto/arbitrum@ethereum.json">arbitrum@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/arbitrum">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/arbitrum/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0xb50721bcf8d664c30412cfbc6cf7a15145234ad1">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="4">57</td>
   <td style="text-align: center;">
     <img src="logo/morpho.svg" width="40px" height="40px"/>
   </td>
@@ -3924,87 +4003,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="2">56</td>
-  <td style="text-align: center;">
-    <img src="logo/ethereum-classic.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/ethereum-classic.svg" width="40px" height="40px"/>
-  </td>
-  <td>Ethereum Classic</td>
-  <td>ETC</td>
-  <td><a href="./crypto/ethereum-classic@ethereum-classic.json">ethereum-classic@ethereum-classic</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/ethereum-classic">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/ethereum-classic/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/ethereum-classic.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/ethereum-classic.svg" width="40px" height="40px"/>
-  </td>
-  <td>Ethereum Classic</td>
-  <td>ETC</td>
-  <td><a href="./crypto/ethereum-classic@binance-smart-chain.json">ethereum-classic@binance-smart-chain</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/ethereum-classic">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/ethereum-classic/">Coinmarketcap</a><br>
-    <a href="https://bscscan.com/token/0x3d6545b08693dae087e957cb1180ee38b9e3c25e">BscScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">57</td>
-  <td style="text-align: center;">
-    <img src="logo/venice-token.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/venice-token.svg" width="40px" height="40px"/>
-  </td>
-  <td>Venice Token</td>
-  <td>VVV</td>
-  <td><a href="./crypto/venice-token@base.json">venice-token@base</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/venice-token">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/venice-token/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="2">58</td>
-  <td style="text-align: center;">
-    <img src="logo/arbitrum.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/arbitrum.svg" width="40px" height="40px"/>
-  </td>
-  <td>Arbitrum</td>
-  <td>ARB</td>
-  <td><a href="./crypto/arbitrum@arbitrum.json">arbitrum@arbitrum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/arbitrum">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/arbitrum/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/arbitrum.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/arbitrum.svg" width="40px" height="40px"/>
-  </td>
-  <td>Arbitrum</td>
-  <td>ARB</td>
-  <td><a href="./crypto/arbitrum@ethereum.json">arbitrum@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/arbitrum">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/arbitrum/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0xb50721bcf8d664c30412cfbc6cf7a15145234ad1">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">59</td>
+  <td rowspan="1">58</td>
   <td style="text-align: center;">
     <img src="logo/just.svg" width="40px" height="40px"/>
   </td>
@@ -4017,6 +4016,22 @@ Total cryptos: 883
   <td>
     <a href="https://www.coingecko.com/en/coins/just">Coingecko</a><br>
     <a href="https://coinmarketcap.com/currencies/just/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">59</td>
+  <td style="text-align: center;">
+    <img src="logo/venice-token.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/venice-token.svg" width="40px" height="40px"/>
+  </td>
+  <td>Venice Token</td>
+  <td>VVV</td>
+  <td><a href="./crypto/venice-token@base.json">venice-token@base</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/venice-token">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/venice-token/">Coinmarketcap</a><br>
   </td>
 </tr>
 <tr>
@@ -4054,6 +4069,38 @@ Total cryptos: 883
 <tr>
   <td rowspan="1">61</td>
   <td style="text-align: center;">
+    <img src="logo/algorand.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/algorand.svg" width="40px" height="40px"/>
+  </td>
+  <td>Algorand</td>
+  <td>ALGO</td>
+  <td><a href="./crypto/algorand@algorand.json">algorand@algorand</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/algorand">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/algorand/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">62</td>
+  <td style="text-align: center;">
+    <img src="logo/jupiter.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/jupiter.svg" width="40px" height="40px"/>
+  </td>
+  <td>Jupiter</td>
+  <td>JUP</td>
+  <td><a href="./crypto/jupiter@solana.json">jupiter@solana</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/jupiter-exchange-solana">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/jupiter-ag/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">63</td>
+  <td style="text-align: center;">
     <img src="logo/kaspa.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
@@ -4068,7 +4115,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="2">62</td>
+  <td rowspan="2">64</td>
   <td style="text-align: center;">
     <img src="logo/polygon.svg" width="40px" height="40px"/>
   </td>
@@ -4100,56 +4147,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">63</td>
-  <td style="text-align: center;">
-    <img src="logo/jupiter.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/jupiter.svg" width="40px" height="40px"/>
-  </td>
-  <td>Jupiter</td>
-  <td>JUP</td>
-  <td><a href="./crypto/jupiter@solana.json">jupiter@solana</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/jupiter-exchange-solana">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/jupiter-ag/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">64</td>
-  <td style="text-align: center;">
-    <img src="logo/algorand.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/algorand.svg" width="40px" height="40px"/>
-  </td>
-  <td>Algorand</td>
-  <td>ALGO</td>
-  <td><a href="./crypto/algorand@algorand.json">algorand@algorand</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/algorand">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/algorand/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">65</td>
-  <td style="text-align: center;">
-    <img src="logo/kucoin-token.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/kucoin-token.svg" width="40px" height="40px"/>
-  </td>
-  <td>KuCoin Token</td>
-  <td>KCS</td>
-  <td><a href="./crypto/kucoin-token@ethereum.json">kucoin-token@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/kucoin-shares">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/kucoin-token/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0xf34960d9d60be18cc1d5afc1a6f012a723a28811">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="3">66</td>
+  <td rowspan="3">65</td>
   <td style="text-align: center;">
     <img src="logo/render-token.svg" width="40px" height="40px"/>
   </td>
@@ -4196,40 +4194,24 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">67</td>
+  <td rowspan="1">66</td>
   <td style="text-align: center;">
-    <img src="logo/pi.svg" width="40px" height="40px"/>
+    <img src="logo/kucoin-token.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/pi.svg" width="40px" height="40px"/>
+    <img src="logo-dark/kucoin-token.svg" width="40px" height="40px"/>
   </td>
-  <td>Pi</td>
-  <td>PI</td>
-  <td><a href="./crypto/pi@pi.json">pi@pi</a></td>
+  <td>KuCoin Token</td>
+  <td>KCS</td>
+  <td><a href="./crypto/kucoin-token@ethereum.json">kucoin-token@ethereum</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/pi-network">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/pi/">Coinmarketcap</a><br>
+    <a href="https://www.coingecko.com/en/coins/kucoin-shares">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/kucoin-token/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0xf34960d9d60be18cc1d5afc1a6f012a723a28811">EtherScan</a><br>
   </td>
 </tr>
 <tr>
-  <td rowspan="1">68</td>
-  <td style="text-align: center;">
-    <img src="logo/lighter.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/lighter.svg" width="40px" height="40px"/>
-  </td>
-  <td>Lighter</td>
-  <td>LIT</td>
-  <td><a href="./crypto/lighter@ethereum.json">lighter@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/lighter">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/lighter/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x232ce3bd40fcd6f80f3d55a522d03f25df784ee2">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="5">69</td>
+  <td rowspan="5">67</td>
   <td style="text-align: center;">
     <img src="logo/cosmos.svg" width="40px" height="40px"/>
   </td>
@@ -4307,7 +4289,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="2">70</td>
+  <td rowspan="2">68</td>
   <td style="text-align: center;">
     <img src="logo/filecoin.svg" width="40px" height="40px"/>
   </td>
@@ -4339,7 +4321,56 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="7">71</td>
+  <td rowspan="1">69</td>
+  <td style="text-align: center;">
+    <img src="logo/aerodrome-finance.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/aerodrome-finance.svg" width="40px" height="40px"/>
+  </td>
+  <td>Aerodrome Finance</td>
+  <td>AERO</td>
+  <td><a href="./crypto/aerodrome-finance@base.json">aerodrome-finance@base</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/aerodrome-finance">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/aerodrome-finance/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">70</td>
+  <td style="text-align: center;">
+    <img src="logo/pi.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/pi.svg" width="40px" height="40px"/>
+  </td>
+  <td>Pi</td>
+  <td>PI</td>
+  <td><a href="./crypto/pi@pi.json">pi@pi</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/pi-network">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/pi/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">71</td>
+  <td style="text-align: center;">
+    <img src="logo/lighter.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/lighter.svg" width="40px" height="40px"/>
+  </td>
+  <td>Lighter</td>
+  <td>LIT</td>
+  <td><a href="./crypto/lighter@ethereum.json">lighter@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/lighter">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/lighter/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x232ce3bd40fcd6f80f3d55a522d03f25df784ee2">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="7">72</td>
   <td style="text-align: center;">
     <img src="logo/layerzero.svg" width="40px" height="40px"/>
   </td>
@@ -4447,55 +4478,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">72</td>
-  <td style="text-align: center;">
-    <img src="logo/aerodrome-finance.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/aerodrome-finance.svg" width="40px" height="40px"/>
-  </td>
-  <td>Aerodrome Finance</td>
-  <td>AERO</td>
-  <td><a href="./crypto/aerodrome-finance@base.json">aerodrome-finance@base</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/aerodrome-finance">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/aerodrome-finance/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="2">73</td>
-  <td style="text-align: center;">
-    <img src="logo/midnight.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/midnight.svg" width="40px" height="40px"/>
-  </td>
-  <td>Midnight</td>
-  <td>NIGHT</td>
-  <td><a href="./crypto/midnight@binance-smart-chain.json">midnight@binance-smart-chain</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/midnight-3">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/midnight-network/">Coinmarketcap</a><br>
-    <a href="https://bscscan.com/token/0xfe930c2d63aed9b82fc4dbc801920dd2c1a3224f">BscScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/midnight.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/midnight.svg" width="40px" height="40px"/>
-  </td>
-  <td>Midnight</td>
-  <td>NIGHT</td>
-  <td><a href="./crypto/midnight@cardano.json">midnight@cardano</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/midnight-3">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/midnight-network/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="4">74</td>
+  <td rowspan="4">73</td>
   <td style="text-align: center;">
     <img src="logo/injective-protocol.svg" width="40px" height="40px"/>
   </td>
@@ -4558,39 +4541,87 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="2">75</td>
+  <td rowspan="1">74</td>
   <td style="text-align: center;">
-    <img src="logo/stable.svg" width="40px" height="40px"/>
+    <img src="logo/stacks.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/stable.svg" width="40px" height="40px"/>
+    <img src="logo-dark/stacks.svg" width="40px" height="40px"/>
   </td>
-  <td>Stable</td>
-  <td>STABLE</td>
-  <td><a href="./crypto/stable@stable.json">stable@stable</a></td>
+  <td>Stacks</td>
+  <td>STX</td>
+  <td><a href="./crypto/stacks@stacks.json">stacks@stacks</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/stable-2">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/stable/">Coinmarketcap</a><br>
+    <a href="https://www.coingecko.com/en/coins/blockstack">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/stacks/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">75</td>
+  <td style="text-align: center;">
+    <img src="logo/xdc-network.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/xdc-network.svg" width="40px" height="40px"/>
+  </td>
+  <td>XDC Network</td>
+  <td>XDC</td>
+  <td><a href="./crypto/xdc-network@xdc-network.json">xdc-network@xdc-network</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/xdce-crowd-sale">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/xdc-network/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="2">76</td>
+  <td style="text-align: center;">
+    <img src="logo/midnight.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/midnight.svg" width="40px" height="40px"/>
+  </td>
+  <td>Midnight</td>
+  <td>NIGHT</td>
+  <td><a href="./crypto/midnight@binance-smart-chain.json">midnight@binance-smart-chain</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/midnight-3">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/midnight-network/">Coinmarketcap</a><br>
+    <a href="https://bscscan.com/token/0xfe930c2d63aed9b82fc4dbc801920dd2c1a3224f">BscScan</a><br>
   </td>
 </tr>
 <tr>
   <td style="text-align: center;">
-    <img src="logo/stable.svg" width="40px" height="40px"/>
+    <img src="logo/midnight.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/stable.svg" width="40px" height="40px"/>
+    <img src="logo-dark/midnight.svg" width="40px" height="40px"/>
   </td>
-  <td>Stable</td>
-  <td>STABLE</td>
-  <td><a href="./crypto/stable@binance-smart-chain.json">stable@binance-smart-chain</a></td>
+  <td>Midnight</td>
+  <td>NIGHT</td>
+  <td><a href="./crypto/midnight@cardano.json">midnight@cardano</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/stable-2">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/stable/">Coinmarketcap</a><br>
-    <a href="https://bscscan.com/token/0x011ebe7d75e2c9d1e0bd0be0bef5c36f0a90075f">BscScan</a><br>
+    <a href="https://www.coingecko.com/en/coins/midnight-3">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/midnight-network/">Coinmarketcap</a><br>
   </td>
 </tr>
 <tr>
-  <td rowspan="7">76</td>
+  <td rowspan="1">77</td>
+  <td style="text-align: center;">
+    <img src="logo/aptos.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/aptos.svg" width="40px" height="40px"/>
+  </td>
+  <td>Aptos</td>
+  <td>APT</td>
+  <td><a href="./crypto/aptos@aptos.json">aptos@aptos</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/aptos">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/aptos/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="7">78</td>
   <td style="text-align: center;">
     <img src="logo/pancakeswap.svg" width="40px" height="40px"/>
   </td>
@@ -4698,98 +4729,51 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">77</td>
-  <td style="text-align: center;">
-    <img src="logo/stacks.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/stacks.svg" width="40px" height="40px"/>
-  </td>
-  <td>Stacks</td>
-  <td>STX</td>
-  <td><a href="./crypto/stacks@stacks.json">stacks@stacks</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/blockstack">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/stacks/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">78</td>
-  <td style="text-align: center;">
-    <img src="logo/xdc-network.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/xdc-network.svg" width="40px" height="40px"/>
-  </td>
-  <td>XDC Network</td>
-  <td>XDC</td>
-  <td><a href="./crypto/xdc-network@xdc-network.json">xdc-network@xdc-network</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/xdce-crowd-sale">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/xdc-network/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
   <td rowspan="2">79</td>
   <td style="text-align: center;">
-    <img src="logo/vechain.svg" width="40px" height="40px"/>
+    <img src="logo/stable.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/vechain.svg" width="40px" height="40px"/>
+    <img src="logo-dark/stable.svg" width="40px" height="40px"/>
   </td>
-  <td>VeChain</td>
-  <td>VET</td>
-  <td><a href="./crypto/vechain@vechain.json">vechain@vechain</a></td>
+  <td>Stable</td>
+  <td>STABLE</td>
+  <td><a href="./crypto/stable@stable.json">stable@stable</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/vechain">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/vechain/">Coinmarketcap</a><br>
+    <a href="https://www.coingecko.com/en/coins/stable-2">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/stable/">Coinmarketcap</a><br>
   </td>
 </tr>
 <tr>
   <td style="text-align: center;">
-    <img src="logo/vechain.svg" width="40px" height="40px"/>
+    <img src="logo/stable.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/vechain.svg" width="40px" height="40px"/>
+    <img src="logo-dark/stable.svg" width="40px" height="40px"/>
   </td>
-  <td>VeChain</td>
-  <td>VET</td>
-  <td><a href="./crypto/vechain@binance-smart-chain.json">vechain@binance-smart-chain</a></td>
+  <td>Stable</td>
+  <td>STABLE</td>
+  <td><a href="./crypto/stable@binance-smart-chain.json">stable@binance-smart-chain</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/vechain">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/vechain/">Coinmarketcap</a><br>
-    <a href="https://bscscan.com/token/0x6fdcdfef7c496407ccb0cec90f9c5aaa1cc8d888">BscScan</a><br>
+    <a href="https://www.coingecko.com/en/coins/stable-2">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/stable/">Coinmarketcap</a><br>
+    <a href="https://bscscan.com/token/0x011ebe7d75e2c9d1e0bd0be0bef5c36f0a90075f">BscScan</a><br>
   </td>
 </tr>
 <tr>
-  <td rowspan="2">80</td>
+  <td rowspan="1">80</td>
   <td style="text-align: center;">
-    <img src="logo/dash.svg" width="40px" height="40px"/>
+    <img src="logo/pyth-network.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/dash.svg" width="40px" height="40px"/>
+    <img src="logo-dark/pyth-network.svg" width="40px" height="40px"/>
   </td>
-  <td>Dash</td>
-  <td>DASH</td>
-  <td><a href="./crypto/dash@dash.json">dash@dash</a></td>
+  <td>Pyth Network</td>
+  <td>PYTH</td>
+  <td><a href="./crypto/pyth-network@solana.json">pyth-network@solana</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/dash">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/dash/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/dash.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/dash.svg" width="40px" height="40px"/>
-  </td>
-  <td>Dash</td>
-  <td>DASH</td>
-  <td><a href="./crypto/dash@near.json">dash@near</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/dash">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/dash/">Coinmarketcap</a><br>
+    <a href="https://www.coingecko.com/en/coins/pyth-network">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/pyth-network/">Coinmarketcap</a><br>
   </td>
 </tr>
 <tr>
@@ -4855,23 +4839,70 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">82</td>
+  <td rowspan="2">82</td>
   <td style="text-align: center;">
-    <img src="logo/aptos.svg" width="40px" height="40px"/>
+    <img src="logo/dash.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/aptos.svg" width="40px" height="40px"/>
+    <img src="logo-dark/dash.svg" width="40px" height="40px"/>
   </td>
-  <td>Aptos</td>
-  <td>APT</td>
-  <td><a href="./crypto/aptos@aptos.json">aptos@aptos</a></td>
+  <td>Dash</td>
+  <td>DASH</td>
+  <td><a href="./crypto/dash@dash.json">dash@dash</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/aptos">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/aptos/">Coinmarketcap</a><br>
+    <a href="https://www.coingecko.com/en/coins/dash">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/dash/">Coinmarketcap</a><br>
   </td>
 </tr>
 <tr>
-  <td rowspan="1">83</td>
+  <td style="text-align: center;">
+    <img src="logo/dash.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/dash.svg" width="40px" height="40px"/>
+  </td>
+  <td>Dash</td>
+  <td>DASH</td>
+  <td><a href="./crypto/dash@near.json">dash@near</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/dash">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/dash/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="2">83</td>
+  <td style="text-align: center;">
+    <img src="logo/vechain.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/vechain.svg" width="40px" height="40px"/>
+  </td>
+  <td>VeChain</td>
+  <td>VET</td>
+  <td><a href="./crypto/vechain@vechain.json">vechain@vechain</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/vechain">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/vechain/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/vechain.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/vechain.svg" width="40px" height="40px"/>
+  </td>
+  <td>VeChain</td>
+  <td>VET</td>
+  <td><a href="./crypto/vechain@binance-smart-chain.json">vechain@binance-smart-chain</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/vechain">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/vechain/">Coinmarketcap</a><br>
+    <a href="https://bscscan.com/token/0x6fdcdfef7c496407ccb0cec90f9c5aaa1cc8d888">BscScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">84</td>
   <td style="text-align: center;">
     <img src="logo/flare.svg" width="40px" height="40px"/>
   </td>
@@ -4887,7 +4918,39 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="2">84</td>
+  <td rowspan="2">85</td>
+  <td style="text-align: center;">
+    <img src="logo/starknet.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/starknet.svg" width="40px" height="40px"/>
+  </td>
+  <td>Starknet</td>
+  <td>STRK</td>
+  <td><a href="./crypto/starknet@ethereum.json">starknet@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/starknet">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/starknet-token/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0xca14007eff0db1f8135f4c25b34de49ab0d42766">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/starknet.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/starknet.svg" width="40px" height="40px"/>
+  </td>
+  <td>Starknet</td>
+  <td>STRK</td>
+  <td><a href="./crypto/starknet@solana.json">starknet@solana</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/starknet">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/starknet-token/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="2">86</td>
   <td style="text-align: center;">
     <img src="logo/raydium.svg" width="40px" height="40px"/>
   </td>
@@ -4919,23 +4982,55 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">85</td>
+  <td rowspan="2">87</td>
   <td style="text-align: center;">
-    <img src="logo/pyth-network.svg" width="40px" height="40px"/>
+    <img src="logo/nexo.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/pyth-network.svg" width="40px" height="40px"/>
+    <img src="logo-dark/nexo.svg" width="40px" height="40px"/>
   </td>
-  <td>Pyth Network</td>
-  <td>PYTH</td>
-  <td><a href="./crypto/pyth-network@solana.json">pyth-network@solana</a></td>
+  <td>Nexo</td>
+  <td>NEXO</td>
+  <td><a href="./crypto/nexo@ethereum.json">nexo@ethereum</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/pyth-network">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/pyth-network/">Coinmarketcap</a><br>
+    <a href="https://www.coingecko.com/en/coins/nexo">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/nexo/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206">EtherScan</a><br>
   </td>
 </tr>
 <tr>
-  <td rowspan="5">86</td>
+  <td style="text-align: center;">
+    <img src="logo/nexo.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/nexo.svg" width="40px" height="40px"/>
+  </td>
+  <td>Nexo</td>
+  <td>NEXO</td>
+  <td><a href="./crypto/nexo@polygon.json">nexo@polygon</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/nexo">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/nexo/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">88</td>
+  <td style="text-align: center;">
+    <img src="logo/official-trump.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/official-trump.svg" width="40px" height="40px"/>
+  </td>
+  <td>OFFICIAL TRUMP</td>
+  <td>TRUMP</td>
+  <td><a href="./crypto/official-trump@solana.json">official-trump@solana</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/official-trump">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/official-trump/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="5">89</td>
   <td style="text-align: center;">
     <img src="logo/curve-dao-token.svg" width="40px" height="40px"/>
   </td>
@@ -5012,102 +5107,23 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="4">87</td>
+  <td rowspan="1">90</td>
   <td style="text-align: center;">
-    <img src="logo/pudgy-penguins.svg" width="40px" height="40px"/>
+    <img src="logo/tia.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/pudgy-penguins.svg" width="40px" height="40px"/>
+    <img src="logo-dark/tia.svg" width="40px" height="40px"/>
   </td>
-  <td>Pudgy Penguins</td>
-  <td>PENGU</td>
-  <td><a href="./crypto/pudgy-penguins@binance-smart-chain.json">pudgy-penguins@binance-smart-chain</a></td>
+  <td>Celestia</td>
+  <td>TIA</td>
+  <td><a href="./crypto/tia@tia.json">tia@tia</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/pudgy-penguins">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/pudgy-penguins/">Coinmarketcap</a><br>
-    <a href="https://bscscan.com/token/0x6418c0dd099a9fda397c766304cdd918233e8847">BscScan</a><br>
+    <a href="https://www.coingecko.com/en/coins/celestia">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/celestia/">Coinmarketcap</a><br>
   </td>
 </tr>
 <tr>
-  <td style="text-align: center;">
-    <img src="logo/pudgy-penguins.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/pudgy-penguins.svg" width="40px" height="40px"/>
-  </td>
-  <td>Pudgy Penguins</td>
-  <td>PENGU</td>
-  <td><a href="./crypto/pudgy-penguins@ethereum.json">pudgy-penguins@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/pudgy-penguins">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/pudgy-penguins/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x6418c0dd099a9fda397c766304cdd918233e8847">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/pudgy-penguins.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/pudgy-penguins.svg" width="40px" height="40px"/>
-  </td>
-  <td>Pudgy Penguins</td>
-  <td>PENGU</td>
-  <td><a href="./crypto/pudgy-penguins@robinhood.json">pudgy-penguins@robinhood</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/pudgy-penguins">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/pudgy-penguins/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/pudgy-penguins.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/pudgy-penguins.svg" width="40px" height="40px"/>
-  </td>
-  <td>Pudgy Penguins</td>
-  <td>PENGU</td>
-  <td><a href="./crypto/pudgy-penguins@solana.json">pudgy-penguins@solana</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/pudgy-penguins">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/pudgy-penguins/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="2">88</td>
-  <td style="text-align: center;">
-    <img src="logo/nexo.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/nexo.svg" width="40px" height="40px"/>
-  </td>
-  <td>Nexo</td>
-  <td>NEXO</td>
-  <td><a href="./crypto/nexo@ethereum.json">nexo@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/nexo">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/nexo/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/nexo.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/nexo.svg" width="40px" height="40px"/>
-  </td>
-  <td>Nexo</td>
-  <td>NEXO</td>
-  <td><a href="./crypto/nexo@polygon.json">nexo@polygon</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/nexo">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/nexo/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="4">89</td>
+  <td rowspan="4">91</td>
   <td style="text-align: center;">
     <img src="logo/fetch-ai.svg" width="40px" height="40px"/>
   </td>
@@ -5170,101 +5186,87 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">90</td>
+  <td rowspan="1">92</td>
   <td style="text-align: center;">
-    <img src="logo/official-trump.svg" width="40px" height="40px"/>
+    <img src="logo/bianrensheng.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/official-trump.svg" width="40px" height="40px"/>
+    <img src="logo-dark/bianrensheng.svg" width="40px" height="40px"/>
   </td>
-  <td>OFFICIAL TRUMP</td>
-  <td>TRUMP</td>
-  <td><a href="./crypto/official-trump@solana.json">official-trump@solana</a></td>
+  <td>币安人生</td>
+  <td>币安人生</td>
+  <td><a href="./crypto/bianrensheng@binance-smart-chain.json">bianrensheng@binance-smart-chain</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/official-trump">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/official-trump/">Coinmarketcap</a><br>
+    <a href="https://www.coingecko.com/en/coins/bianrensheng">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/bianrensheng/">Coinmarketcap</a><br>
+    <a href="https://bscscan.com/token/0x924fa68a0fc644485b8df8abfa0a41c2e7744444">BscScan</a><br>
   </td>
 </tr>
 <tr>
-  <td rowspan="1">91</td>
+  <td rowspan="4">93</td>
   <td style="text-align: center;">
-    <img src="logo/sei.svg" width="40px" height="40px"/>
+    <img src="logo/pudgy-penguins.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/sei.svg" width="40px" height="40px"/>
+    <img src="logo-dark/pudgy-penguins.svg" width="40px" height="40px"/>
   </td>
-  <td>Sei</td>
-  <td>SEI</td>
-  <td><a href="./crypto/sei@sei.json">sei@sei</a></td>
+  <td>Pudgy Penguins</td>
+  <td>PENGU</td>
+  <td><a href="./crypto/pudgy-penguins@binance-smart-chain.json">pudgy-penguins@binance-smart-chain</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/sei-network">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/sei/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="4">92</td>
-  <td style="text-align: center;">
-    <img src="logo/virtuals-protocol.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/virtuals-protocol.svg" width="40px" height="40px"/>
-  </td>
-  <td>Virtuals Protocol</td>
-  <td>VIRTUAL</td>
-  <td><a href="./crypto/virtuals-protocol@base.json">virtuals-protocol@base</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/virtual-protocol">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/virtual-protocol/">Coinmarketcap</a><br>
+    <a href="https://www.coingecko.com/en/coins/pudgy-penguins">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/pudgy-penguins/">Coinmarketcap</a><br>
+    <a href="https://bscscan.com/token/0x6418c0dd099a9fda397c766304cdd918233e8847">BscScan</a><br>
   </td>
 </tr>
 <tr>
   <td style="text-align: center;">
-    <img src="logo/virtuals-protocol.svg" width="40px" height="40px"/>
+    <img src="logo/pudgy-penguins.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/virtuals-protocol.svg" width="40px" height="40px"/>
+    <img src="logo-dark/pudgy-penguins.svg" width="40px" height="40px"/>
   </td>
-  <td>Virtuals Protocol</td>
-  <td>VIRTUAL</td>
-  <td><a href="./crypto/virtuals-protocol@ethereum.json">virtuals-protocol@ethereum</a></td>
+  <td>Pudgy Penguins</td>
+  <td>PENGU</td>
+  <td><a href="./crypto/pudgy-penguins@ethereum.json">pudgy-penguins@ethereum</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/virtual-protocol">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/virtual-protocol/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x44ff8620b8ca30902395a7bd3f2407e1a091bf73">EtherScan</a><br>
+    <a href="https://www.coingecko.com/en/coins/pudgy-penguins">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/pudgy-penguins/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x6418c0dd099a9fda397c766304cdd918233e8847">EtherScan</a><br>
   </td>
 </tr>
 <tr>
   <td style="text-align: center;">
-    <img src="logo/virtuals-protocol.svg" width="40px" height="40px"/>
+    <img src="logo/pudgy-penguins.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/virtuals-protocol.svg" width="40px" height="40px"/>
+    <img src="logo-dark/pudgy-penguins.svg" width="40px" height="40px"/>
   </td>
-  <td>Virtuals Protocol</td>
-  <td>VIRTUAL</td>
-  <td><a href="./crypto/virtuals-protocol@robinhood.json">virtuals-protocol@robinhood</a></td>
+  <td>Pudgy Penguins</td>
+  <td>PENGU</td>
+  <td><a href="./crypto/pudgy-penguins@robinhood.json">pudgy-penguins@robinhood</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/virtual-protocol">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/virtual-protocol/">Coinmarketcap</a><br>
+    <a href="https://www.coingecko.com/en/coins/pudgy-penguins">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/pudgy-penguins/">Coinmarketcap</a><br>
   </td>
 </tr>
 <tr>
   <td style="text-align: center;">
-    <img src="logo/virtuals-protocol.svg" width="40px" height="40px"/>
+    <img src="logo/pudgy-penguins.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/virtuals-protocol.svg" width="40px" height="40px"/>
+    <img src="logo-dark/pudgy-penguins.svg" width="40px" height="40px"/>
   </td>
-  <td>Virtuals Protocol</td>
-  <td>VIRTUAL</td>
-  <td><a href="./crypto/virtuals-protocol@solana.json">virtuals-protocol@solana</a></td>
+  <td>Pudgy Penguins</td>
+  <td>PENGU</td>
+  <td><a href="./crypto/pudgy-penguins@solana.json">pudgy-penguins@solana</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/virtual-protocol">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/virtual-protocol/">Coinmarketcap</a><br>
+    <a href="https://www.coingecko.com/en/coins/pudgy-penguins">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/pudgy-penguins/">Coinmarketcap</a><br>
   </td>
 </tr>
 <tr>
-  <td rowspan="5">93</td>
+  <td rowspan="5">94</td>
   <td style="text-align: center;">
     <img src="logo/trueusd.svg" width="40px" height="40px"/>
   </td>
@@ -5342,24 +5344,85 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">94</td>
+  <td rowspan="1">95</td>
   <td style="text-align: center;">
-    <img src="logo/bianrensheng.svg" width="40px" height="40px"/>
+    <img src="logo/sei.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/bianrensheng.svg" width="40px" height="40px"/>
+    <img src="logo-dark/sei.svg" width="40px" height="40px"/>
   </td>
-  <td>币安人生</td>
-  <td>币安人生</td>
-  <td><a href="./crypto/bianrensheng@binance-smart-chain.json">bianrensheng@binance-smart-chain</a></td>
+  <td>Sei</td>
+  <td>SEI</td>
+  <td><a href="./crypto/sei@sei.json">sei@sei</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/bianrensheng">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/bianrensheng/">Coinmarketcap</a><br>
-    <a href="https://bscscan.com/token/0x924fa68a0fc644485b8df8abfa0a41c2e7744444">BscScan</a><br>
+    <a href="https://www.coingecko.com/en/coins/sei-network">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/sei/">Coinmarketcap</a><br>
   </td>
 </tr>
 <tr>
-  <td rowspan="8">95</td>
+  <td rowspan="4">96</td>
+  <td style="text-align: center;">
+    <img src="logo/virtuals-protocol.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/virtuals-protocol.svg" width="40px" height="40px"/>
+  </td>
+  <td>Virtuals Protocol</td>
+  <td>VIRTUAL</td>
+  <td><a href="./crypto/virtuals-protocol@base.json">virtuals-protocol@base</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/virtual-protocol">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/virtual-protocol/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/virtuals-protocol.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/virtuals-protocol.svg" width="40px" height="40px"/>
+  </td>
+  <td>Virtuals Protocol</td>
+  <td>VIRTUAL</td>
+  <td><a href="./crypto/virtuals-protocol@ethereum.json">virtuals-protocol@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/virtual-protocol">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/virtual-protocol/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x44ff8620b8ca30902395a7bd3f2407e1a091bf73">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/virtuals-protocol.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/virtuals-protocol.svg" width="40px" height="40px"/>
+  </td>
+  <td>Virtuals Protocol</td>
+  <td>VIRTUAL</td>
+  <td><a href="./crypto/virtuals-protocol@robinhood.json">virtuals-protocol@robinhood</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/virtual-protocol">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/virtual-protocol/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/virtuals-protocol.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/virtuals-protocol.svg" width="40px" height="40px"/>
+  </td>
+  <td>Virtuals Protocol</td>
+  <td>VIRTUAL</td>
+  <td><a href="./crypto/virtuals-protocol@solana.json">virtuals-protocol@solana</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/virtual-protocol">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/virtual-protocol/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="8">97</td>
   <td style="text-align: center;">
     <img src="logo/euro-coin.svg" width="40px" height="40px"/>
   </td>
@@ -5481,54 +5544,6 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">96</td>
-  <td style="text-align: center;">
-    <img src="logo/tia.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/tia.svg" width="40px" height="40px"/>
-  </td>
-  <td>Celestia</td>
-  <td>TIA</td>
-  <td><a href="./crypto/tia@tia.json">tia@tia</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/celestia">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/celestia/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="2">97</td>
-  <td style="text-align: center;">
-    <img src="logo/plasma.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/plasma.svg" width="40px" height="40px"/>
-  </td>
-  <td>Plasma</td>
-  <td>XPL</td>
-  <td><a href="./crypto/plasma@plasma.json">plasma@plasma</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/plasma">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/plasma-xpl/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/plasma.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/plasma.svg" width="40px" height="40px"/>
-  </td>
-  <td>Plasma</td>
-  <td>XPL</td>
-  <td><a href="./crypto/plasma@binance-smart-chain.json">plasma@binance-smart-chain</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/plasma">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/plasma-xpl/">Coinmarketcap</a><br>
-    <a href="https://bscscan.com/token/0x405fbc9004d857903bfd6b3357792d71a50726b0">BscScan</a><br>
-  </td>
-</tr>
-<tr>
   <td rowspan="3">98</td>
   <td style="text-align: center;">
     <img src="logo/pendle.svg" width="40px" height="40px"/>
@@ -5595,102 +5610,37 @@ Total cryptos: 883
 <tr>
   <td rowspan="2">100</td>
   <td style="text-align: center;">
-    <img src="logo/pieverse.svg" width="40px" height="40px"/>
+    <img src="logo/plasma.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/pieverse.svg" width="40px" height="40px"/>
+    <img src="logo-dark/plasma.svg" width="40px" height="40px"/>
   </td>
-  <td>Pieverse</td>
-  <td>PIEVERSE</td>
-  <td><a href="./crypto/pieverse@binance-smart-chain.json">pieverse@binance-smart-chain</a></td>
+  <td>Plasma</td>
+  <td>XPL</td>
+  <td><a href="./crypto/plasma@plasma.json">plasma@plasma</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/pieverse">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/pieverse/">Coinmarketcap</a><br>
-    <a href="https://bscscan.com/token/0x0e63b9c287e32a05e6b9ab8ee8df88a2760225a9">BscScan</a><br>
+    <a href="https://www.coingecko.com/en/coins/plasma">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/plasma-xpl/">Coinmarketcap</a><br>
   </td>
 </tr>
 <tr>
   <td style="text-align: center;">
-    <img src="logo/pieverse.svg" width="40px" height="40px"/>
+    <img src="logo/plasma.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/pieverse.svg" width="40px" height="40px"/>
+    <img src="logo-dark/plasma.svg" width="40px" height="40px"/>
   </td>
-  <td>Pieverse</td>
-  <td>PIEVERSE</td>
-  <td><a href="./crypto/pieverse@ethereum.json">pieverse@ethereum</a></td>
+  <td>Plasma</td>
+  <td>XPL</td>
+  <td><a href="./crypto/plasma@binance-smart-chain.json">plasma@binance-smart-chain</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/pieverse">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/pieverse/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x0e63b9c287e32a05e6b9ab8ee8df88a2760225a9">EtherScan</a><br>
+    <a href="https://www.coingecko.com/en/coins/plasma">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/plasma-xpl/">Coinmarketcap</a><br>
+    <a href="https://bscscan.com/token/0x405fbc9004d857903bfd6b3357792d71a50726b0">BscScan</a><br>
   </td>
 </tr>
 <tr>
-  <td rowspan="3">101</td>
-  <td style="text-align: center;">
-    <img src="logo/spx6900.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/spx6900.svg" width="40px" height="40px"/>
-  </td>
-  <td>SPX6900</td>
-  <td>SPX</td>
-  <td><a href="./crypto/spx6900@base.json">spx6900@base</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/spx6900">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/spx6900/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/spx6900.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/spx6900.svg" width="40px" height="40px"/>
-  </td>
-  <td>SPX6900</td>
-  <td>SPX</td>
-  <td><a href="./crypto/spx6900@ethereum.json">spx6900@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/spx6900">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/spx6900/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0xe0f63a424a4439cbe457d80e4f4b51ad25b2c56c">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/spx6900.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/spx6900.svg" width="40px" height="40px"/>
-  </td>
-  <td>SPX6900</td>
-  <td>SPX</td>
-  <td><a href="./crypto/spx6900@solana.json">spx6900@solana</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/spx6900">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/spx6900/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">102</td>
-  <td style="text-align: center;">
-    <img src="logo/starknet.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/starknet.svg" width="40px" height="40px"/>
-  </td>
-  <td>Starknet</td>
-  <td>STRK</td>
-  <td><a href="./crypto/starknet@ethereum.json">starknet@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/starknet">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/starknet-token/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0xca14007eff0db1f8135f4c25b34de49ab0d42766">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="2">103</td>
+  <td rowspan="2">101</td>
   <td style="text-align: center;">
     <img src="logo/falcon-finance.svg" width="40px" height="40px"/>
   </td>
@@ -5723,7 +5673,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="3">104</td>
+  <td rowspan="3">102</td>
   <td style="text-align: center;">
     <img src="logo/bittorrent.svg" width="40px" height="40px"/>
   </td>
@@ -5771,7 +5721,40 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="5">105</td>
+  <td rowspan="2">103</td>
+  <td style="text-align: center;">
+    <img src="logo/pieverse.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/pieverse.svg" width="40px" height="40px"/>
+  </td>
+  <td>Pieverse</td>
+  <td>PIEVERSE</td>
+  <td><a href="./crypto/pieverse@binance-smart-chain.json">pieverse@binance-smart-chain</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/pieverse">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/pieverse/">Coinmarketcap</a><br>
+    <a href="https://bscscan.com/token/0x0e63b9c287e32a05e6b9ab8ee8df88a2760225a9">BscScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/pieverse.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/pieverse.svg" width="40px" height="40px"/>
+  </td>
+  <td>Pieverse</td>
+  <td>PIEVERSE</td>
+  <td><a href="./crypto/pieverse@ethereum.json">pieverse@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/pieverse">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/pieverse/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x0e63b9c287e32a05e6b9ab8ee8df88a2760225a9">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="5">104</td>
   <td style="text-align: center;">
     <img src="logo/lido-dao.svg" width="40px" height="40px"/>
   </td>
@@ -5846,6 +5829,38 @@ Total cryptos: 883
   <td>
     <a href="https://www.coingecko.com/en/coins/lido-dao">Coingecko</a><br>
     <a href="https://coinmarketcap.com/currencies/lido-dao/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="2">105</td>
+  <td style="text-align: center;">
+    <img src="logo/tezos.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/tezos.svg" width="40px" height="40px"/>
+  </td>
+  <td>Tezos</td>
+  <td>XTZ</td>
+  <td><a href="./crypto/tezos@tezos.json">tezos@tezos</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/tezos">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/tezos/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/tezos.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/tezos.svg" width="40px" height="40px"/>
+  </td>
+  <td>Tezos</td>
+  <td>XTZ</td>
+  <td><a href="./crypto/tezos@binance-smart-chain.json">tezos@binance-smart-chain</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/tezos">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/tezos/">Coinmarketcap</a><br>
+    <a href="https://bscscan.com/token/0x16939ef78684453bfdfb47825f8a5f714f12623a">BscScan</a><br>
   </td>
 </tr>
 <tr>
@@ -5929,39 +5944,70 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="2">108</td>
+  <td rowspan="1">108</td>
   <td style="text-align: center;">
-    <img src="logo/tezos.svg" width="40px" height="40px"/>
+    <img src="logo/optimism.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/tezos.svg" width="40px" height="40px"/>
+    <img src="logo-dark/optimism.svg" width="40px" height="40px"/>
   </td>
-  <td>Tezos</td>
-  <td>XTZ</td>
-  <td><a href="./crypto/tezos@tezos.json">tezos@tezos</a></td>
+  <td>Optimism</td>
+  <td>OP</td>
+  <td><a href="./crypto/optimism@optimism.json">optimism@optimism</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/tezos">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/tezos/">Coinmarketcap</a><br>
+    <a href="https://www.coingecko.com/en/coins/optimism">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/optimism-ethereum/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="3">109</td>
+  <td style="text-align: center;">
+    <img src="logo/spx6900.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/spx6900.svg" width="40px" height="40px"/>
+  </td>
+  <td>SPX6900</td>
+  <td>SPX</td>
+  <td><a href="./crypto/spx6900@base.json">spx6900@base</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/spx6900">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/spx6900/">Coinmarketcap</a><br>
   </td>
 </tr>
 <tr>
   <td style="text-align: center;">
-    <img src="logo/tezos.svg" width="40px" height="40px"/>
+    <img src="logo/spx6900.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/tezos.svg" width="40px" height="40px"/>
+    <img src="logo-dark/spx6900.svg" width="40px" height="40px"/>
   </td>
-  <td>Tezos</td>
-  <td>XTZ</td>
-  <td><a href="./crypto/tezos@binance-smart-chain.json">tezos@binance-smart-chain</a></td>
+  <td>SPX6900</td>
+  <td>SPX</td>
+  <td><a href="./crypto/spx6900@ethereum.json">spx6900@ethereum</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/tezos">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/tezos/">Coinmarketcap</a><br>
-    <a href="https://bscscan.com/token/0x16939ef78684453bfdfb47825f8a5f714f12623a">BscScan</a><br>
+    <a href="https://www.coingecko.com/en/coins/spx6900">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/spx6900/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0xe0f63a424a4439cbe457d80e4f4b51ad25b2c56c">EtherScan</a><br>
   </td>
 </tr>
 <tr>
-  <td rowspan="1">109</td>
+  <td style="text-align: center;">
+    <img src="logo/spx6900.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/spx6900.svg" width="40px" height="40px"/>
+  </td>
+  <td>SPX6900</td>
+  <td>SPX</td>
+  <td><a href="./crypto/spx6900@solana.json">spx6900@solana</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/spx6900">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/spx6900/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">110</td>
   <td style="text-align: center;">
     <img src="logo/sun.svg" width="40px" height="40px"/>
   </td>
@@ -5977,7 +6023,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="6">110</td>
+  <td rowspan="6">111</td>
   <td style="text-align: center;">
     <img src="logo/first-digital-usd.svg" width="40px" height="40px"/>
   </td>
@@ -6070,37 +6116,6 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="2">111</td>
-  <td style="text-align: center;">
-    <img src="logo/monad.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/monad.svg" width="40px" height="40px"/>
-  </td>
-  <td>Monad</td>
-  <td>MON</td>
-  <td><a href="./crypto/monad@monad.json">monad@monad</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/monad">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/monad/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/monad.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/monad.svg" width="40px" height="40px"/>
-  </td>
-  <td>Monad</td>
-  <td>MON</td>
-  <td><a href="./crypto/monad@solana.json">monad@solana</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/monad">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/monad/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
   <td rowspan="2">112</td>
   <td style="text-align: center;">
     <img src="logo/gnosis.svg" width="40px" height="40px"/>
@@ -6135,6 +6150,145 @@ Total cryptos: 883
 <tr>
   <td rowspan="1">113</td>
   <td style="text-align: center;">
+    <img src="logo/conflux.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/conflux.svg" width="40px" height="40px"/>
+  </td>
+  <td>Conflux</td>
+  <td>CFX</td>
+  <td><a href="./crypto/conflux@conflux.json">conflux@conflux</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/conflux-token">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/conflux-network/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="2">115</td>
+  <td style="text-align: center;">
+    <img src="logo/monad.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/monad.svg" width="40px" height="40px"/>
+  </td>
+  <td>Monad</td>
+  <td>MON</td>
+  <td><a href="./crypto/monad@monad.json">monad@monad</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/monad">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/monad/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/monad.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/monad.svg" width="40px" height="40px"/>
+  </td>
+  <td>Monad</td>
+  <td>MON</td>
+  <td><a href="./crypto/monad@solana.json">monad@solana</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/monad">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/monad/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="6">116</td>
+  <td style="text-align: center;">
+    <img src="logo/the-graph.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/the-graph.svg" width="40px" height="40px"/>
+  </td>
+  <td>The Graph</td>
+  <td>GRT</td>
+  <td><a href="./crypto/the-graph@arbitrum.json">the-graph@arbitrum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/the-graph">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/the-graph/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/the-graph.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/the-graph.svg" width="40px" height="40px"/>
+  </td>
+  <td>The Graph</td>
+  <td>GRT</td>
+  <td><a href="./crypto/the-graph@avalanche-c-chain.json">the-graph@avalanche-c-chain</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/the-graph">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/the-graph/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/the-graph.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/the-graph.svg" width="40px" height="40px"/>
+  </td>
+  <td>The Graph</td>
+  <td>GRT</td>
+  <td><a href="./crypto/the-graph@ethereum.json">the-graph@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/the-graph">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/the-graph/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0xc944e90c64b2c07662a292be6244bdf05cda44a7">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/the-graph.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/the-graph.svg" width="40px" height="40px"/>
+  </td>
+  <td>The Graph</td>
+  <td>GRT</td>
+  <td><a href="./crypto/the-graph@near.json">the-graph@near</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/the-graph">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/the-graph/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/the-graph.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/the-graph.svg" width="40px" height="40px"/>
+  </td>
+  <td>The Graph</td>
+  <td>GRT</td>
+  <td><a href="./crypto/the-graph@polygon.json">the-graph@polygon</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/the-graph">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/the-graph/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/the-graph.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/the-graph.svg" width="40px" height="40px"/>
+  </td>
+  <td>The Graph</td>
+  <td>GRT</td>
+  <td><a href="./crypto/the-graph@solana.json">the-graph@solana</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/the-graph">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/the-graph/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">117</td>
+  <td style="text-align: center;">
     <img src="logo/decred.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
@@ -6149,7 +6303,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="7">114</td>
+  <td rowspan="7">118</td>
   <td style="text-align: center;">
     <img src="logo/bonk.svg" width="40px" height="40px"/>
   </td>
@@ -6257,99 +6411,101 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="6">115</td>
+  <td rowspan="5">119</td>
   <td style="text-align: center;">
-    <img src="logo/the-graph.svg" width="40px" height="40px"/>
+    <img src="logo/basic-attention-token.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/the-graph.svg" width="40px" height="40px"/>
+    <img src="logo-dark/basic-attention-token.svg" width="40px" height="40px"/>
   </td>
-  <td>The Graph</td>
-  <td>GRT</td>
-  <td><a href="./crypto/the-graph@arbitrum.json">the-graph@arbitrum</a></td>
+  <td>Basic Attention Token</td>
+  <td>BAT</td>
+  <td><a href="./crypto/basic-attention-token@avalanche-c-chain.json">basic-attention-token@avalanche-c-chain</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/the-graph">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/the-graph/">Coinmarketcap</a><br>
+    <a href="https://www.coingecko.com/en/coins/basic-attention-token">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/basic-attention-token/">Coinmarketcap</a><br>
   </td>
 </tr>
 <tr>
   <td style="text-align: center;">
-    <img src="logo/the-graph.svg" width="40px" height="40px"/>
+    <img src="logo/basic-attention-token.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/the-graph.svg" width="40px" height="40px"/>
+    <img src="logo-dark/basic-attention-token.svg" width="40px" height="40px"/>
   </td>
-  <td>The Graph</td>
-  <td>GRT</td>
-  <td><a href="./crypto/the-graph@avalanche-c-chain.json">the-graph@avalanche-c-chain</a></td>
+  <td>Basic Attention Token</td>
+  <td>BAT</td>
+  <td><a href="./crypto/basic-attention-token@binance-smart-chain.json">basic-attention-token@binance-smart-chain</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/the-graph">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/the-graph/">Coinmarketcap</a><br>
+    <a href="https://www.coingecko.com/en/coins/basic-attention-token">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/basic-attention-token/">Coinmarketcap</a><br>
+    <a href="https://bscscan.com/token/0x101d82428437127bf1608f699cd651e6abf9766e">BscScan</a><br>
   </td>
 </tr>
 <tr>
   <td style="text-align: center;">
-    <img src="logo/the-graph.svg" width="40px" height="40px"/>
+    <img src="logo/basic-attention-token.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/the-graph.svg" width="40px" height="40px"/>
+    <img src="logo-dark/basic-attention-token.svg" width="40px" height="40px"/>
   </td>
-  <td>The Graph</td>
-  <td>GRT</td>
-  <td><a href="./crypto/the-graph@ethereum.json">the-graph@ethereum</a></td>
+  <td>Basic Attention Token</td>
+  <td>BAT</td>
+  <td><a href="./crypto/basic-attention-token@ethereum.json">basic-attention-token@ethereum</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/the-graph">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/the-graph/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0xc944e90c64b2c07662a292be6244bdf05cda44a7">EtherScan</a><br>
+    <a href="https://www.coingecko.com/en/coins/basic-attention-token">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/basic-attention-token/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x0d8775f648430679a709e98d2b0cb6250d2887ef">EtherScan</a><br>
   </td>
 </tr>
 <tr>
   <td style="text-align: center;">
-    <img src="logo/the-graph.svg" width="40px" height="40px"/>
+    <img src="logo/basic-attention-token.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/the-graph.svg" width="40px" height="40px"/>
+    <img src="logo-dark/basic-attention-token.svg" width="40px" height="40px"/>
   </td>
-  <td>The Graph</td>
-  <td>GRT</td>
-  <td><a href="./crypto/the-graph@near.json">the-graph@near</a></td>
+  <td>Basic Attention Token</td>
+  <td>BAT</td>
+  <td><a href="./crypto/basic-attention-token@near.json">basic-attention-token@near</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/the-graph">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/the-graph/">Coinmarketcap</a><br>
+    <a href="https://www.coingecko.com/en/coins/basic-attention-token">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/basic-attention-token/">Coinmarketcap</a><br>
   </td>
 </tr>
 <tr>
   <td style="text-align: center;">
-    <img src="logo/the-graph.svg" width="40px" height="40px"/>
+    <img src="logo/basic-attention-token.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/the-graph.svg" width="40px" height="40px"/>
+    <img src="logo-dark/basic-attention-token.svg" width="40px" height="40px"/>
   </td>
-  <td>The Graph</td>
-  <td>GRT</td>
-  <td><a href="./crypto/the-graph@polygon.json">the-graph@polygon</a></td>
+  <td>Basic Attention Token</td>
+  <td>BAT</td>
+  <td><a href="./crypto/basic-attention-token@solana.json">basic-attention-token@solana</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/the-graph">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/the-graph/">Coinmarketcap</a><br>
+    <a href="https://www.coingecko.com/en/coins/basic-attention-token">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/basic-attention-token/">Coinmarketcap</a><br>
   </td>
 </tr>
 <tr>
+  <td rowspan="1">120</td>
   <td style="text-align: center;">
-    <img src="logo/the-graph.svg" width="40px" height="40px"/>
+    <img src="logo/jito.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/the-graph.svg" width="40px" height="40px"/>
+    <img src="logo-dark/jito.svg" width="40px" height="40px"/>
   </td>
-  <td>The Graph</td>
-  <td>GRT</td>
-  <td><a href="./crypto/the-graph@solana.json">the-graph@solana</a></td>
+  <td>Jito</td>
+  <td>JTO</td>
+  <td><a href="./crypto/jito@solana.json">jito@solana</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/the-graph">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/the-graph/">Coinmarketcap</a><br>
+    <a href="https://www.coingecko.com/en/coins/jito-governance-token">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/jito/">Coinmarketcap</a><br>
   </td>
 </tr>
 <tr>
-  <td rowspan="2">117</td>
+  <td rowspan="2">121</td>
   <td style="text-align: center;">
     <img src="logo/maple-finance.svg" width="40px" height="40px"/>
   </td>
@@ -6381,7 +6537,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="6">118</td>
+  <td rowspan="6">122</td>
   <td style="text-align: center;">
     <img src="logo/terra.svg" width="40px" height="40px"/>
   </td>
@@ -6474,55 +6630,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">119</td>
-  <td style="text-align: center;">
-    <img src="logo/optimism.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/optimism.svg" width="40px" height="40px"/>
-  </td>
-  <td>Optimism</td>
-  <td>OP</td>
-  <td><a href="./crypto/optimism@optimism.json">optimism@optimism</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/optimism">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/optimism-ethereum/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">120</td>
-  <td style="text-align: center;">
-    <img src="logo/jito.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/jito.svg" width="40px" height="40px"/>
-  </td>
-  <td>Jito</td>
-  <td>JTO</td>
-  <td><a href="./crypto/jito@solana.json">jito@solana</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/jito-governance-token">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/jito/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">121</td>
-  <td style="text-align: center;">
-    <img src="logo/pons.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/pons.svg" width="40px" height="40px"/>
-  </td>
-  <td>Pons</td>
-  <td>PONS</td>
-  <td><a href="./crypto/pons@robinhood.json">pons@robinhood</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/pons">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/pons/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="2">122</td>
+  <td rowspan="2">124</td>
   <td style="text-align: center;">
     <img src="logo/ethereum-name-service.svg" width="40px" height="40px"/>
   </td>
@@ -6554,23 +6662,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">123</td>
-  <td style="text-align: center;">
-    <img src="logo/conflux.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/conflux.svg" width="40px" height="40px"/>
-  </td>
-  <td>Conflux</td>
-  <td>CFX</td>
-  <td><a href="./crypto/conflux@conflux.json">conflux@conflux</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/conflux-token">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/conflux-network/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="2">124</td>
+  <td rowspan="2">125</td>
   <td style="text-align: center;">
     <img src="logo/floki.svg" width="40px" height="40px"/>
   </td>
@@ -6603,120 +6695,24 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="2">125</td>
-  <td style="text-align: center;">
-    <img src="logo/iota.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/iota.svg" width="40px" height="40px"/>
-  </td>
-  <td>IOTA</td>
-  <td>IOTA</td>
-  <td><a href="./crypto/iota@iota.json">iota@iota</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/iota">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/iota/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/iota.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/iota.svg" width="40px" height="40px"/>
-  </td>
-  <td>IOTA</td>
-  <td>IOTA</td>
-  <td><a href="./crypto/iota@binance-smart-chain.json">iota@binance-smart-chain</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/iota">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/iota/">Coinmarketcap</a><br>
-    <a href="https://bscscan.com/token/0xd944f1d1e9d5f9bb90b62f9d45e447d989580782">BscScan</a><br>
-  </td>
-</tr>
-<tr>
   <td rowspan="1">126</td>
   <td style="text-align: center;">
-    <img src="logo/jasmycoin.svg" width="40px" height="40px"/>
+    <img src="logo/eigenlayer.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/jasmycoin.svg" width="40px" height="40px"/>
+    <img src="logo-dark/eigenlayer.svg" width="40px" height="40px"/>
   </td>
-  <td>JasmyCoin</td>
-  <td>JASMY</td>
-  <td><a href="./crypto/jasmycoin@ethereum.json">jasmycoin@ethereum</a></td>
+  <td>EigenCloud</td>
+  <td>EIGEN</td>
+  <td><a href="./crypto/eigenlayer@ethereum.json">eigenlayer@ethereum</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/jasmycoin">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/jasmy/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x7420b4b9a0110cdc71fb720908340c03f9bc03ec">EtherScan</a><br>
+    <a href="https://www.coingecko.com/en/coins/eigenlayer">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/eigencloud/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0xec53bf9167f50cdeb3ae105f56099aaab9061f83">EtherScan</a><br>
   </td>
 </tr>
 <tr>
-  <td rowspan="1">128</td>
-  <td style="text-align: center;">
-    <img src="logo/zebec-network.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/zebec-network.svg" width="40px" height="40px"/>
-  </td>
-  <td>Zebec Network</td>
-  <td>ZBCN</td>
-  <td><a href="./crypto/zebec-network@solana.json">zebec-network@solana</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/zebec-network">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/zebec-network/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">129</td>
-  <td style="text-align: center;">
-    <img src="logo/thorchain.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/thorchain.svg" width="40px" height="40px"/>
-  </td>
-  <td>THORChain</td>
-  <td>RUNE</td>
-  <td><a href="./crypto/thorchain@thorchain.json">thorchain@thorchain</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/thorchain">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/thorchain/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="2">130</td>
-  <td style="text-align: center;">
-    <img src="logo/trust-wallet-token.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/trust-wallet-token.svg" width="40px" height="40px"/>
-  </td>
-  <td>Trust Wallet Token</td>
-  <td>TWT</td>
-  <td><a href="./crypto/trust-wallet-token@binance-smart-chain.json">trust-wallet-token@binance-smart-chain</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/trust-wallet-token">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/trust-wallet-token/">Coinmarketcap</a><br>
-    <a href="https://bscscan.com/token/0x4b0f1812e5df2a09796481ff14017e6005508003">BscScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/trust-wallet-token.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/trust-wallet-token.svg" width="40px" height="40px"/>
-  </td>
-  <td>Trust Wallet Token</td>
-  <td>TWT</td>
-  <td><a href="./crypto/trust-wallet-token@solana.json">trust-wallet-token@solana</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/trust-wallet-token">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/trust-wallet-token/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="3">131</td>
+  <td rowspan="3">127</td>
   <td style="text-align: center;">
     <img src="logo/apenft.svg" width="40px" height="40px"/>
   </td>
@@ -6764,7 +6760,24 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="5">132</td>
+  <td rowspan="1">128</td>
+  <td style="text-align: center;">
+    <img src="logo/jasmycoin.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/jasmycoin.svg" width="40px" height="40px"/>
+  </td>
+  <td>JasmyCoin</td>
+  <td>JASMY</td>
+  <td><a href="./crypto/jasmycoin@ethereum.json">jasmycoin@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/jasmycoin">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/jasmy/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x7420b4b9a0110cdc71fb720908340c03f9bc03ec">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="5">129</td>
   <td style="text-align: center;">
     <img src="logo/compound.svg" width="40px" height="40px"/>
   </td>
@@ -6842,7 +6855,136 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
+  <td rowspan="1">130</td>
+  <td style="text-align: center;">
+    <img src="logo/pons.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/pons.svg" width="40px" height="40px"/>
+  </td>
+  <td>Pons</td>
+  <td>PONS</td>
+  <td><a href="./crypto/pons@robinhood.json">pons@robinhood</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/pons">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/pons/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="2">131</td>
+  <td style="text-align: center;">
+    <img src="logo/iota.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/iota.svg" width="40px" height="40px"/>
+  </td>
+  <td>IOTA</td>
+  <td>IOTA</td>
+  <td><a href="./crypto/iota@iota.json">iota@iota</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/iota">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/iota/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/iota.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/iota.svg" width="40px" height="40px"/>
+  </td>
+  <td>IOTA</td>
+  <td>IOTA</td>
+  <td><a href="./crypto/iota@binance-smart-chain.json">iota@binance-smart-chain</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/iota">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/iota/">Coinmarketcap</a><br>
+    <a href="https://bscscan.com/token/0xd944f1d1e9d5f9bb90b62f9d45e447d989580782">BscScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">132</td>
+  <td style="text-align: center;">
+    <img src="logo/origintrail.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/origintrail.svg" width="40px" height="40px"/>
+  </td>
+  <td>OriginTrail</td>
+  <td>TRAC</td>
+  <td><a href="./crypto/origintrail@ethereum.json">origintrail@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/origintrail">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/origintrail/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
   <td rowspan="1">133</td>
+  <td style="text-align: center;">
+    <img src="logo/zebec-network.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/zebec-network.svg" width="40px" height="40px"/>
+  </td>
+  <td>Zebec Network</td>
+  <td>ZBCN</td>
+  <td><a href="./crypto/zebec-network@solana.json">zebec-network@solana</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/zebec-network">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/zebec-network/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">135</td>
+  <td style="text-align: center;">
+    <img src="logo/thorchain.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/thorchain.svg" width="40px" height="40px"/>
+  </td>
+  <td>THORChain</td>
+  <td>RUNE</td>
+  <td><a href="./crypto/thorchain@thorchain.json">thorchain@thorchain</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/thorchain">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/thorchain/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="2">136</td>
+  <td style="text-align: center;">
+    <img src="logo/trust-wallet-token.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/trust-wallet-token.svg" width="40px" height="40px"/>
+  </td>
+  <td>Trust Wallet Token</td>
+  <td>TWT</td>
+  <td><a href="./crypto/trust-wallet-token@binance-smart-chain.json">trust-wallet-token@binance-smart-chain</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/trust-wallet-token">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/trust-wallet-token/">Coinmarketcap</a><br>
+    <a href="https://bscscan.com/token/0x4b0f1812e5df2a09796481ff14017e6005508003">BscScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/trust-wallet-token.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/trust-wallet-token.svg" width="40px" height="40px"/>
+  </td>
+  <td>Trust Wallet Token</td>
+  <td>TWT</td>
+  <td><a href="./crypto/trust-wallet-token@solana.json">trust-wallet-token@solana</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/trust-wallet-token">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/trust-wallet-token/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">138</td>
   <td style="text-align: center;">
     <img src="logo/dogwifhat.svg" width="40px" height="40px"/>
   </td>
@@ -6858,24 +7000,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">134</td>
-  <td style="text-align: center;">
-    <img src="logo/eigenlayer.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/eigenlayer.svg" width="40px" height="40px"/>
-  </td>
-  <td>EigenCloud</td>
-  <td>EIGEN</td>
-  <td><a href="./crypto/eigenlayer@ethereum.json">eigenlayer@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/eigenlayer">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/eigencloud/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0xec53bf9167f50cdeb3ae105f56099aaab9061f83">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">136</td>
+  <td rowspan="1">141</td>
   <td style="text-align: center;">
     <img src="logo/theta-network.svg" width="40px" height="40px"/>
   </td>
@@ -6891,86 +7016,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="3">137</td>
-  <td style="text-align: center;">
-    <img src="logo/the-sandbox.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/the-sandbox.svg" width="40px" height="40px"/>
-  </td>
-  <td>The Sandbox</td>
-  <td>SAND</td>
-  <td><a href="./crypto/the-sandbox@base.json">the-sandbox@base</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/the-sandbox">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/the-sandbox/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/the-sandbox.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/the-sandbox.svg" width="40px" height="40px"/>
-  </td>
-  <td>The Sandbox</td>
-  <td>SAND</td>
-  <td><a href="./crypto/the-sandbox@ethereum.json">the-sandbox@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/the-sandbox">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/the-sandbox/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x3845badade8e6dff049820680d1f14bd3903a5d0">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/the-sandbox.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/the-sandbox.svg" width="40px" height="40px"/>
-  </td>
-  <td>The Sandbox</td>
-  <td>SAND</td>
-  <td><a href="./crypto/the-sandbox@polygon.json">the-sandbox@polygon</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/the-sandbox">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/the-sandbox/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="2">140</td>
-  <td style="text-align: center;">
-    <img src="logo/convex-finance.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/convex-finance.svg" width="40px" height="40px"/>
-  </td>
-  <td>Convex Finance</td>
-  <td>CVX</td>
-  <td><a href="./crypto/convex-finance@ethereum.json">convex-finance@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/convex-finance">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/convex-finance/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/convex-finance.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/convex-finance.svg" width="40px" height="40px"/>
-  </td>
-  <td>Convex Finance</td>
-  <td>CVX</td>
-  <td><a href="./crypto/convex-finance@solana.json">convex-finance@solana</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/convex-finance">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/convex-finance/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="4">141</td>
+  <td rowspan="4">143</td>
   <td style="text-align: center;">
     <img src="logo/axie-infinity.svg" width="40px" height="40px"/>
   </td>
@@ -7033,52 +7079,35 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="2">142</td>
+  <td rowspan="2">144</td>
   <td style="text-align: center;">
-    <img src="logo/decentraland.svg" width="40px" height="40px"/>
+    <img src="logo/convex-finance.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/decentraland.svg" width="40px" height="40px"/>
+    <img src="logo-dark/convex-finance.svg" width="40px" height="40px"/>
   </td>
-  <td>Decentraland</td>
-  <td>MANA</td>
-  <td><a href="./crypto/decentraland@ethereum.json">decentraland@ethereum</a></td>
+  <td>Convex Finance</td>
+  <td>CVX</td>
+  <td><a href="./crypto/convex-finance@ethereum.json">convex-finance@ethereum</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/decentraland">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/decentraland/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x0f5d2fb29fb7d3cfee444a200298f468908cc942">EtherScan</a><br>
+    <a href="https://www.coingecko.com/en/coins/convex-finance">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/convex-finance/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b">EtherScan</a><br>
   </td>
 </tr>
 <tr>
   <td style="text-align: center;">
-    <img src="logo/decentraland.svg" width="40px" height="40px"/>
+    <img src="logo/convex-finance.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/decentraland.svg" width="40px" height="40px"/>
+    <img src="logo-dark/convex-finance.svg" width="40px" height="40px"/>
   </td>
-  <td>Decentraland</td>
-  <td>MANA</td>
-  <td><a href="./crypto/decentraland@solana.json">decentraland@solana</a></td>
+  <td>Convex Finance</td>
+  <td>CVX</td>
+  <td><a href="./crypto/convex-finance@solana.json">convex-finance@solana</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/decentraland">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/decentraland/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">143</td>
-  <td style="text-align: center;">
-    <img src="logo/origintrail.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/origintrail.svg" width="40px" height="40px"/>
-  </td>
-  <td>OriginTrail</td>
-  <td>TRAC</td>
-  <td><a href="./crypto/origintrail@ethereum.json">origintrail@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/origintrail">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/origintrail/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f">EtherScan</a><br>
+    <a href="https://www.coingecko.com/en/coins/convex-finance">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/convex-finance/">Coinmarketcap</a><br>
   </td>
 </tr>
 <tr>
@@ -7129,87 +7158,55 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="3">146</td>
+  <td rowspan="2">146</td>
   <td style="text-align: center;">
-    <img src="logo/telcoin.svg" width="40px" height="40px"/>
+    <img src="logo/decentraland.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/telcoin.svg" width="40px" height="40px"/>
+    <img src="logo-dark/decentraland.svg" width="40px" height="40px"/>
   </td>
-  <td>Telcoin</td>
-  <td>TEL</td>
-  <td><a href="./crypto/telcoin@base.json">telcoin@base</a></td>
+  <td>Decentraland</td>
+  <td>MANA</td>
+  <td><a href="./crypto/decentraland@ethereum.json">decentraland@ethereum</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/telcoin-2">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/telcoin/">Coinmarketcap</a><br>
+    <a href="https://www.coingecko.com/en/coins/decentraland">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/decentraland/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x0f5d2fb29fb7d3cfee444a200298f468908cc942">EtherScan</a><br>
   </td>
 </tr>
 <tr>
   <td style="text-align: center;">
-    <img src="logo/telcoin.svg" width="40px" height="40px"/>
+    <img src="logo/decentraland.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/telcoin.svg" width="40px" height="40px"/>
+    <img src="logo-dark/decentraland.svg" width="40px" height="40px"/>
   </td>
-  <td>Telcoin</td>
-  <td>TEL</td>
-  <td><a href="./crypto/telcoin@ethereum.json">telcoin@ethereum</a></td>
+  <td>Decentraland</td>
+  <td>MANA</td>
+  <td><a href="./crypto/decentraland@solana.json">decentraland@solana</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/telcoin-2">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/telcoin/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x7e13b43065380acdec1c2d138c579cbbbafa0731">EtherScan</a><br>
+    <a href="https://www.coingecko.com/en/coins/decentraland">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/decentraland/">Coinmarketcap</a><br>
   </td>
 </tr>
 <tr>
+  <td rowspan="1">147</td>
   <td style="text-align: center;">
-    <img src="logo/telcoin.svg" width="40px" height="40px"/>
+    <img src="logo/grass.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/telcoin.svg" width="40px" height="40px"/>
+    <img src="logo-dark/grass.svg" width="40px" height="40px"/>
   </td>
-  <td>Telcoin</td>
-  <td>TEL</td>
-  <td><a href="./crypto/telcoin@polygon.json">telcoin@polygon</a></td>
+  <td>Grass</td>
+  <td>GRASS</td>
+  <td><a href="./crypto/grass@solana.json">grass@solana</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/telcoin-2">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/telcoin/">Coinmarketcap</a><br>
+    <a href="https://www.coingecko.com/en/coins/grass">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/grass/">Coinmarketcap</a><br>
   </td>
 </tr>
 <tr>
-  <td rowspan="2">147</td>
-  <td style="text-align: center;">
-    <img src="logo/0g.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/0g.svg" width="40px" height="40px"/>
-  </td>
-  <td>0G</td>
-  <td>0G</td>
-  <td><a href="./crypto/0g@binance-smart-chain.json">0g@binance-smart-chain</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/zero-gravity">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/zero-gravity/">Coinmarketcap</a><br>
-    <a href="https://bscscan.com/token/0x4b948d64de1f71fcd12fb586f4c776421a35b3ee">BscScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/0g.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/0g.svg" width="40px" height="40px"/>
-  </td>
-  <td>0G</td>
-  <td>0G</td>
-  <td><a href="./crypto/0g@ethereum.json">0g@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/zero-gravity">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/zero-gravity/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x4b948d64de1f71fcd12fb586f4c776421a35b3ee">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="3">149</td>
+  <td rowspan="3">148</td>
   <td style="text-align: center;">
     <img src="logo/onyxcoin.svg" width="40px" height="40px"/>
   </td>
@@ -7257,7 +7254,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">150</td>
+  <td rowspan="1">149</td>
   <td style="text-align: center;">
     <img src="logo/mx-token.svg" width="40px" height="40px"/>
   </td>
@@ -7274,7 +7271,117 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">153</td>
+  <td rowspan="1">150</td>
+  <td style="text-align: center;">
+    <img src="logo/vaulta.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/vaulta.svg" width="40px" height="40px"/>
+  </td>
+  <td>Vaulta</td>
+  <td>A</td>
+  <td><a href="./crypto/vaulta@vaulta.json">vaulta@vaulta</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/vaulta">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/vaulta/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="3">152</td>
+  <td style="text-align: center;">
+    <img src="logo/telcoin.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/telcoin.svg" width="40px" height="40px"/>
+  </td>
+  <td>Telcoin</td>
+  <td>TEL</td>
+  <td><a href="./crypto/telcoin@base.json">telcoin@base</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/telcoin-2">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/telcoin/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/telcoin.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/telcoin.svg" width="40px" height="40px"/>
+  </td>
+  <td>Telcoin</td>
+  <td>TEL</td>
+  <td><a href="./crypto/telcoin@ethereum.json">telcoin@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/telcoin-2">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/telcoin/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x7e13b43065380acdec1c2d138c579cbbbafa0731">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/telcoin.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/telcoin.svg" width="40px" height="40px"/>
+  </td>
+  <td>Telcoin</td>
+  <td>TEL</td>
+  <td><a href="./crypto/telcoin@polygon.json">telcoin@polygon</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/telcoin-2">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/telcoin/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="3">154</td>
+  <td style="text-align: center;">
+    <img src="logo/the-sandbox.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/the-sandbox.svg" width="40px" height="40px"/>
+  </td>
+  <td>The Sandbox</td>
+  <td>SAND</td>
+  <td><a href="./crypto/the-sandbox@base.json">the-sandbox@base</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/the-sandbox">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/the-sandbox/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/the-sandbox.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/the-sandbox.svg" width="40px" height="40px"/>
+  </td>
+  <td>The Sandbox</td>
+  <td>SAND</td>
+  <td><a href="./crypto/the-sandbox@ethereum.json">the-sandbox@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/the-sandbox">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/the-sandbox/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x3845badade8e6dff049820680d1f14bd3903a5d0">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/the-sandbox.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/the-sandbox.svg" width="40px" height="40px"/>
+  </td>
+  <td>The Sandbox</td>
+  <td>SAND</td>
+  <td><a href="./crypto/the-sandbox@polygon.json">the-sandbox@polygon</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/the-sandbox">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/the-sandbox/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">155</td>
   <td style="text-align: center;">
     <img src="logo/neo.svg" width="40px" height="40px"/>
   </td>
@@ -7290,24 +7397,39 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">154</td>
+  <td rowspan="1">156</td>
   <td style="text-align: center;">
-    <img src="logo/buildon.svg" width="40px" height="40px"/>
+    <img src="logo/sonic.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/buildon.svg" width="40px" height="40px"/>
+    <img src="logo-dark/sonic.svg" width="40px" height="40px"/>
   </td>
-  <td>BUILDon</td>
-  <td>B</td>
-  <td><a href="./crypto/buildon@binance-smart-chain.json">buildon@binance-smart-chain</a></td>
+  <td>Sonic</td>
+  <td>S</td>
+  <td><a href="./crypto/sonic@sonic.json">sonic@sonic</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/build-on">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/buildon/">Coinmarketcap</a><br>
-    <a href="https://bscscan.com/token/0x6bdcce4a559076e37755a78ce0c06214e59e4444">BscScan</a><br>
+    <a href="https://www.coingecko.com/en/coins/sonic-3">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/sonic/">Coinmarketcap</a><br>
   </td>
 </tr>
 <tr>
-  <td rowspan="3">155</td>
+  <td rowspan="1">157</td>
+  <td style="text-align: center;">
+    <img src="logo/fartcoin.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/fartcoin.svg" width="40px" height="40px"/>
+  </td>
+  <td>Fartcoin</td>
+  <td>FARTCOIN</td>
+  <td><a href="./crypto/fartcoin@solana.json">fartcoin@solana</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/fartcoin">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/fartcoin/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="3">160</td>
   <td style="text-align: center;">
     <img src="logo/chiliz.svg" width="40px" height="40px"/>
   </td>
@@ -7354,55 +7476,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">156</td>
-  <td style="text-align: center;">
-    <img src="logo/vaulta.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/vaulta.svg" width="40px" height="40px"/>
-  </td>
-  <td>Vaulta</td>
-  <td>A</td>
-  <td><a href="./crypto/vaulta@vaulta.json">vaulta@vaulta</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/vaulta">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/vaulta/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">157</td>
-  <td style="text-align: center;">
-    <img src="logo/fartcoin.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/fartcoin.svg" width="40px" height="40px"/>
-  </td>
-  <td>Fartcoin</td>
-  <td>FARTCOIN</td>
-  <td><a href="./crypto/fartcoin@solana.json">fartcoin@solana</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/fartcoin">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/fartcoin/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">161</td>
-  <td style="text-align: center;">
-    <img src="logo/grass.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/grass.svg" width="40px" height="40px"/>
-  </td>
-  <td>Grass</td>
-  <td>GRASS</td>
-  <td><a href="./crypto/grass@solana.json">grass@solana</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/grass">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/grass/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="2">162</td>
+  <td rowspan="2">161</td>
   <td style="text-align: center;">
     <img src="logo/dexe.svg" width="40px" height="40px"/>
   </td>
@@ -7435,85 +7509,40 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="5">164</td>
+  <td rowspan="2">162</td>
   <td style="text-align: center;">
-    <img src="logo/basic-attention-token.svg" width="40px" height="40px"/>
+    <img src="logo/0g.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/basic-attention-token.svg" width="40px" height="40px"/>
+    <img src="logo-dark/0g.svg" width="40px" height="40px"/>
   </td>
-  <td>Basic Attention Token</td>
-  <td>BAT</td>
-  <td><a href="./crypto/basic-attention-token@avalanche-c-chain.json">basic-attention-token@avalanche-c-chain</a></td>
+  <td>0G</td>
+  <td>0G</td>
+  <td><a href="./crypto/0g@binance-smart-chain.json">0g@binance-smart-chain</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/basic-attention-token">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/basic-attention-token/">Coinmarketcap</a><br>
+    <a href="https://www.coingecko.com/en/coins/zero-gravity">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/zero-gravity/">Coinmarketcap</a><br>
+    <a href="https://bscscan.com/token/0x4b948d64de1f71fcd12fb586f4c776421a35b3ee">BscScan</a><br>
   </td>
 </tr>
 <tr>
   <td style="text-align: center;">
-    <img src="logo/basic-attention-token.svg" width="40px" height="40px"/>
+    <img src="logo/0g.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/basic-attention-token.svg" width="40px" height="40px"/>
+    <img src="logo-dark/0g.svg" width="40px" height="40px"/>
   </td>
-  <td>Basic Attention Token</td>
-  <td>BAT</td>
-  <td><a href="./crypto/basic-attention-token@binance-smart-chain.json">basic-attention-token@binance-smart-chain</a></td>
+  <td>0G</td>
+  <td>0G</td>
+  <td><a href="./crypto/0g@ethereum.json">0g@ethereum</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/basic-attention-token">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/basic-attention-token/">Coinmarketcap</a><br>
-    <a href="https://bscscan.com/token/0x101d82428437127bf1608f699cd651e6abf9766e">BscScan</a><br>
+    <a href="https://www.coingecko.com/en/coins/zero-gravity">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/zero-gravity/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x4b948d64de1f71fcd12fb586f4c776421a35b3ee">EtherScan</a><br>
   </td>
 </tr>
 <tr>
-  <td style="text-align: center;">
-    <img src="logo/basic-attention-token.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/basic-attention-token.svg" width="40px" height="40px"/>
-  </td>
-  <td>Basic Attention Token</td>
-  <td>BAT</td>
-  <td><a href="./crypto/basic-attention-token@ethereum.json">basic-attention-token@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/basic-attention-token">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/basic-attention-token/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x0d8775f648430679a709e98d2b0cb6250d2887ef">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/basic-attention-token.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/basic-attention-token.svg" width="40px" height="40px"/>
-  </td>
-  <td>Basic Attention Token</td>
-  <td>BAT</td>
-  <td><a href="./crypto/basic-attention-token@near.json">basic-attention-token@near</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/basic-attention-token">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/basic-attention-token/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/basic-attention-token.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/basic-attention-token.svg" width="40px" height="40px"/>
-  </td>
-  <td>Basic Attention Token</td>
-  <td>BAT</td>
-  <td><a href="./crypto/basic-attention-token@solana.json">basic-attention-token@solana</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/basic-attention-token">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/basic-attention-token/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">165</td>
+  <td rowspan="1">163</td>
   <td style="text-align: center;">
     <img src="logo/apecoin.svg" width="40px" height="40px"/>
   </td>
@@ -7530,7 +7559,40 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="2">166</td>
+  <td rowspan="2">164</td>
+  <td style="text-align: center;">
+    <img src="logo/beam.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/beam.svg" width="40px" height="40px"/>
+  </td>
+  <td>Beam</td>
+  <td>BEAM</td>
+  <td><a href="./crypto/beam@binance-smart-chain.json">beam@binance-smart-chain</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/beam-2">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/onbeam/">Coinmarketcap</a><br>
+    <a href="https://bscscan.com/token/0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce">BscScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/beam.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/beam.svg" width="40px" height="40px"/>
+  </td>
+  <td>Beam</td>
+  <td>BEAM</td>
+  <td><a href="./crypto/beam@ethereum.json">beam@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/beam-2">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/onbeam/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="2">167</td>
   <td style="text-align: center;">
     <img src="logo/aioz-network.svg" width="40px" height="40px"/>
   </td>
@@ -7563,40 +7625,40 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="2">167</td>
+  <td rowspan="1">168</td>
   <td style="text-align: center;">
-    <img src="logo/edgex.svg" width="40px" height="40px"/>
+    <img src="logo/buildon.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/edgex.svg" width="40px" height="40px"/>
+    <img src="logo-dark/buildon.svg" width="40px" height="40px"/>
   </td>
-  <td>edgeX</td>
-  <td>EDGE</td>
-  <td><a href="./crypto/edgex@binance-smart-chain.json">edgex@binance-smart-chain</a></td>
+  <td>BUILDon</td>
+  <td>B</td>
+  <td><a href="./crypto/buildon@binance-smart-chain.json">buildon@binance-smart-chain</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/edgex">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/edgex/">Coinmarketcap</a><br>
-    <a href="https://bscscan.com/token/0x70f2eadf1ca1969ff42b0c78e9da519e8937cbaf">BscScan</a><br>
+    <a href="https://www.coingecko.com/en/coins/build-on">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/buildon/">Coinmarketcap</a><br>
+    <a href="https://bscscan.com/token/0x6bdcce4a559076e37755a78ce0c06214e59e4444">BscScan</a><br>
   </td>
 </tr>
 <tr>
+  <td rowspan="1">169</td>
   <td style="text-align: center;">
-    <img src="logo/edgex.svg" width="40px" height="40px"/>
+    <img src="logo/walrus.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/edgex.svg" width="40px" height="40px"/>
+    <img src="logo-dark/walrus.svg" width="40px" height="40px"/>
   </td>
-  <td>edgeX</td>
-  <td>EDGE</td>
-  <td><a href="./crypto/edgex@ethereum.json">edgex@ethereum</a></td>
+  <td>Walrus</td>
+  <td>WAL</td>
+  <td><a href="./crypto/walrus@sui.json">walrus@sui</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/edgex">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/edgex/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0xb0076de78dc50581770bba1d211ddc0ad4f2a241">EtherScan</a><br>
+    <a href="https://www.coingecko.com/en/coins/walrus-2">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/walrus-xyz/">Coinmarketcap</a><br>
   </td>
 </tr>
 <tr>
-  <td rowspan="3">168</td>
+  <td rowspan="3">171</td>
   <td style="text-align: center;">
     <img src="logo/superfarm.svg" width="40px" height="40px"/>
   </td>
@@ -7644,57 +7706,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="2">170</td>
-  <td style="text-align: center;">
-    <img src="logo/safepal.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/safepal.svg" width="40px" height="40px"/>
-  </td>
-  <td>SafePal</td>
-  <td>SFP</td>
-  <td><a href="./crypto/safepal@binance-smart-chain.json">safepal@binance-smart-chain</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/safepal">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/safepal/">Coinmarketcap</a><br>
-    <a href="https://bscscan.com/token/0xd41fdb03ba84762dd66a0af1a6c8540ff1ba5dfb">BscScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/safepal.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/safepal.svg" width="40px" height="40px"/>
-  </td>
-  <td>SafePal</td>
-  <td>SFP</td>
-  <td><a href="./crypto/safepal@ethereum.json">safepal@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/safepal">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/safepal/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x12e2b8033420270db2f3b328e32370cb5b2ca134">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">171</td>
-  <td style="text-align: center;">
-    <img src="logo/humanity-protocol.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/humanity-protocol.svg" width="40px" height="40px"/>
-  </td>
-  <td>Humanity</td>
-  <td>H</td>
-  <td><a href="./crypto/humanity-protocol@ethereum.json">humanity-protocol@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/humanity">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/humanity-protocol/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0xe76c5b78f93909d34404e9eb4c1f19e7582a5de1">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="3">172</td>
+  <td rowspan="3">173</td>
   <td style="text-align: center;">
     <img src="logo/1inch.svg" width="40px" height="40px"/>
   </td>
@@ -7742,23 +7754,72 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">173</td>
+  <td rowspan="2">174</td>
   <td style="text-align: center;">
-    <img src="logo/doublezero.svg" width="40px" height="40px"/>
+    <img src="logo/safepal.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/doublezero.svg" width="40px" height="40px"/>
+    <img src="logo-dark/safepal.svg" width="40px" height="40px"/>
   </td>
-  <td>DoubleZero</td>
-  <td>2Z</td>
-  <td><a href="./crypto/doublezero@solana.json">doublezero@solana</a></td>
+  <td>SafePal</td>
+  <td>SFP</td>
+  <td><a href="./crypto/safepal@binance-smart-chain.json">safepal@binance-smart-chain</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/doublezero">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/doublezero/">Coinmarketcap</a><br>
+    <a href="https://www.coingecko.com/en/coins/safepal">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/safepal/">Coinmarketcap</a><br>
+    <a href="https://bscscan.com/token/0xd41fdb03ba84762dd66a0af1a6c8540ff1ba5dfb">BscScan</a><br>
   </td>
 </tr>
 <tr>
-  <td rowspan="3">174</td>
+  <td style="text-align: center;">
+    <img src="logo/safepal.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/safepal.svg" width="40px" height="40px"/>
+  </td>
+  <td>SafePal</td>
+  <td>SFP</td>
+  <td><a href="./crypto/safepal@ethereum.json">safepal@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/safepal">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/safepal/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x12e2b8033420270db2f3b328e32370cb5b2ca134">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="2">177</td>
+  <td style="text-align: center;">
+    <img src="logo/reserve-rights-token.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/reserve-rights-token.svg" width="40px" height="40px"/>
+  </td>
+  <td>Reserve Rights</td>
+  <td>RSR</td>
+  <td><a href="./crypto/reserve-rights-token@base.json">reserve-rights-token@base</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/reserve-rights-token">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/reserve-rights/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/reserve-rights-token.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/reserve-rights-token.svg" width="40px" height="40px"/>
+  </td>
+  <td>Reserve Rights</td>
+  <td>RSR</td>
+  <td><a href="./crypto/reserve-rights-token@ethereum.json">reserve-rights-token@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/reserve-rights-token">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/reserve-rights/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x320623b8e4ff03373931769a31fc52a4e78b5d70">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="3">178</td>
   <td style="text-align: center;">
     <img src="logo/aethir.svg" width="40px" height="40px"/>
   </td>
@@ -7805,57 +7866,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="2">178</td>
-  <td style="text-align: center;">
-    <img src="logo/beam.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/beam.svg" width="40px" height="40px"/>
-  </td>
-  <td>Beam</td>
-  <td>BEAM</td>
-  <td><a href="./crypto/beam@binance-smart-chain.json">beam@binance-smart-chain</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/beam-2">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/onbeam/">Coinmarketcap</a><br>
-    <a href="https://bscscan.com/token/0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce">BscScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/beam.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/beam.svg" width="40px" height="40px"/>
-  </td>
-  <td>Beam</td>
-  <td>BEAM</td>
-  <td><a href="./crypto/beam@ethereum.json">beam@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/beam-2">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/onbeam/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">180</td>
-  <td style="text-align: center;">
-    <img src="logo/numeraire.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/numeraire.svg" width="40px" height="40px"/>
-  </td>
-  <td>Numeraire</td>
-  <td>NMR</td>
-  <td><a href="./crypto/numeraire@ethereum.json">numeraire@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/numeraire">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/numeraire/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x1776e1f26f98b1a5df9cd347953a26dd3cb46671">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="2">182</td>
+  <td rowspan="2">179</td>
   <td style="text-align: center;">
     <img src="logo/golem.svg" width="40px" height="40px"/>
   </td>
@@ -7887,7 +7898,89 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="2">183</td>
+  <td rowspan="1">180</td>
+  <td style="text-align: center;">
+    <img src="logo/stp-network.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/stp-network.svg" width="40px" height="40px"/>
+  </td>
+  <td>AWE</td>
+  <td>AWE</td>
+  <td><a href="./crypto/stp-network@base.json">stp-network@base</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/stp-network">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/awe-network/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">182</td>
+  <td style="text-align: center;">
+    <img src="logo/doublezero.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/doublezero.svg" width="40px" height="40px"/>
+  </td>
+  <td>DoubleZero</td>
+  <td>2Z</td>
+  <td><a href="./crypto/doublezero@solana.json">doublezero@solana</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/doublezero">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/doublezero/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">184</td>
+  <td style="text-align: center;">
+    <img src="logo/humanity-protocol.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/humanity-protocol.svg" width="40px" height="40px"/>
+  </td>
+  <td>Humanity</td>
+  <td>H</td>
+  <td><a href="./crypto/humanity-protocol@ethereum.json">humanity-protocol@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/humanity">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/humanity-protocol/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0xe76c5b78f93909d34404e9eb4c1f19e7582a5de1">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="2">185</td>
+  <td style="text-align: center;">
+    <img src="logo/edgex.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/edgex.svg" width="40px" height="40px"/>
+  </td>
+  <td>edgeX</td>
+  <td>EDGE</td>
+  <td><a href="./crypto/edgex@binance-smart-chain.json">edgex@binance-smart-chain</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/edgex">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/edgex/">Coinmarketcap</a><br>
+    <a href="https://bscscan.com/token/0x70f2eadf1ca1969ff42b0c78e9da519e8937cbaf">BscScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/edgex.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/edgex.svg" width="40px" height="40px"/>
+  </td>
+  <td>edgeX</td>
+  <td>EDGE</td>
+  <td><a href="./crypto/edgex@ethereum.json">edgex@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/edgex">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/edgex/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0xb0076de78dc50581770bba1d211ddc0ad4f2a241">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="2">186</td>
   <td style="text-align: center;">
     <img src="logo/elrond.svg" width="40px" height="40px"/>
   </td>
@@ -7919,7 +8012,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="2">184</td>
+  <td rowspan="2">187</td>
   <td style="text-align: center;">
     <img src="logo/horizen.svg" width="40px" height="40px"/>
   </td>
@@ -7950,39 +8043,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">185</td>
-  <td style="text-align: center;">
-    <img src="logo/stp-network.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/stp-network.svg" width="40px" height="40px"/>
-  </td>
-  <td>AWE</td>
-  <td>AWE</td>
-  <td><a href="./crypto/stp-network@base.json">stp-network@base</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/stp-network">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/awe-network/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">187</td>
-  <td style="text-align: center;">
-    <img src="logo/sonic.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/sonic.svg" width="40px" height="40px"/>
-  </td>
-  <td>Sonic</td>
-  <td>S</td>
-  <td><a href="./crypto/sonic@sonic.json">sonic@sonic</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/sonic-3">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/sonic/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="2">188</td>
+  <td rowspan="2">191</td>
   <td style="text-align: center;">
     <img src="logo/gala.svg" width="40px" height="40px"/>
   </td>
@@ -8014,40 +8075,84 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="2">190</td>
+  <td rowspan="5">192</td>
   <td style="text-align: center;">
-    <img src="logo/prometeus.svg" width="40px" height="40px"/>
+    <img src="logo/wormhole.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/prometeus.svg" width="40px" height="40px"/>
+    <img src="logo-dark/wormhole.svg" width="40px" height="40px"/>
   </td>
-  <td>Prom</td>
-  <td>PROM</td>
-  <td><a href="./crypto/prometeus@binance-smart-chain.json">prometeus@binance-smart-chain</a></td>
+  <td>Wormhole</td>
+  <td>W</td>
+  <td><a href="./crypto/wormhole@arbitrum.json">wormhole@arbitrum</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/prometeus">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/prom/">Coinmarketcap</a><br>
-    <a href="https://bscscan.com/token/0xaf53d56ff99f1322515e54fdde93ff8b3b7dafd5">BscScan</a><br>
+    <a href="https://www.coingecko.com/en/coins/wormhole">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/wormhole/">Coinmarketcap</a><br>
   </td>
 </tr>
 <tr>
   <td style="text-align: center;">
-    <img src="logo/prometeus.svg" width="40px" height="40px"/>
+    <img src="logo/wormhole.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/prometeus.svg" width="40px" height="40px"/>
+    <img src="logo-dark/wormhole.svg" width="40px" height="40px"/>
   </td>
-  <td>Prom</td>
-  <td>PROM</td>
-  <td><a href="./crypto/prometeus@ethereum.json">prometeus@ethereum</a></td>
+  <td>Wormhole</td>
+  <td>W</td>
+  <td><a href="./crypto/wormhole@base.json">wormhole@base</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/prometeus">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/prom/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0xfc82bb4ba86045af6f327323a46e80412b91b27d">EtherScan</a><br>
+    <a href="https://www.coingecko.com/en/coins/wormhole">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/wormhole/">Coinmarketcap</a><br>
   </td>
 </tr>
 <tr>
-  <td rowspan="1">193</td>
+  <td style="text-align: center;">
+    <img src="logo/wormhole.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/wormhole.svg" width="40px" height="40px"/>
+  </td>
+  <td>Wormhole</td>
+  <td>W</td>
+  <td><a href="./crypto/wormhole@ethereum.json">wormhole@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/wormhole">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/wormhole/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0xb0ffa8000886e57f86dd5264b9582b2ad87b2b91">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/wormhole.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/wormhole.svg" width="40px" height="40px"/>
+  </td>
+  <td>Wormhole</td>
+  <td>W</td>
+  <td><a href="./crypto/wormhole@optimism.json">wormhole@optimism</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/wormhole">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/wormhole/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/wormhole.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/wormhole.svg" width="40px" height="40px"/>
+  </td>
+  <td>Wormhole</td>
+  <td>W</td>
+  <td><a href="./crypto/wormhole@solana.json">wormhole@solana</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/wormhole">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/wormhole/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">194</td>
   <td style="text-align: center;">
     <img src="logo/binaryx.svg" width="40px" height="40px"/>
   </td>
@@ -8064,39 +8169,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="2">194</td>
-  <td style="text-align: center;">
-    <img src="logo/reserve-rights-token.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/reserve-rights-token.svg" width="40px" height="40px"/>
-  </td>
-  <td>Reserve Rights</td>
-  <td>RSR</td>
-  <td><a href="./crypto/reserve-rights-token@base.json">reserve-rights-token@base</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/reserve-rights-token">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/reserve-rights/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/reserve-rights-token.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/reserve-rights-token.svg" width="40px" height="40px"/>
-  </td>
-  <td>Reserve Rights</td>
-  <td>RSR</td>
-  <td><a href="./crypto/reserve-rights-token@ethereum.json">reserve-rights-token@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/reserve-rights-token">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/reserve-rights/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x320623b8e4ff03373931769a31fc52a4e78b5d70">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">196</td>
+  <td rowspan="1">195</td>
   <td style="text-align: center;">
     <img src="logo/0x.svg" width="40px" height="40px"/>
   </td>
@@ -8113,7 +8186,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">199</td>
+  <td rowspan="1">196</td>
   <td style="text-align: center;">
     <img src="logo/qtum.svg" width="40px" height="40px"/>
   </td>
@@ -8126,6 +8199,23 @@ Total cryptos: 883
   <td>
     <a href="https://www.coingecko.com/en/coins/qtum">Coingecko</a><br>
     <a href="https://coinmarketcap.com/currencies/qtum/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">200</td>
+  <td style="text-align: center;">
+    <img src="logo/funtoken.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/funtoken.svg" width="40px" height="40px"/>
+  </td>
+  <td>FUNToken</td>
+  <td>FUN</td>
+  <td><a href="./crypto/funtoken@ethereum.json">funtoken@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/funfair">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/funtoken/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x419d0d8bdd9af5e606ae2232ed285aff190e711b">EtherScan</a><br>
   </td>
 </tr>
 <tr>
@@ -8267,7 +8357,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="2">230</td>
+  <td rowspan="2">232</td>
   <td style="text-align: center;">
     <img src="logo/swissborg.svg" width="40px" height="40px"/>
   </td>
@@ -8299,7 +8389,88 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">255</td>
+  <td rowspan="1">257</td>
+  <td style="text-align: center;">
+    <img src="logo/numeraire.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/numeraire.svg" width="40px" height="40px"/>
+  </td>
+  <td>Numeraire</td>
+  <td>NMR</td>
+  <td><a href="./crypto/numeraire@ethereum.json">numeraire@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/numeraire">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/numeraire/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x1776e1f26f98b1a5df9cd347953a26dd3cb46671">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="2">258</td>
+  <td style="text-align: center;">
+    <img src="logo/prometeus.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/prometeus.svg" width="40px" height="40px"/>
+  </td>
+  <td>Prom</td>
+  <td>PROM</td>
+  <td><a href="./crypto/prometeus@binance-smart-chain.json">prometeus@binance-smart-chain</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/prometeus">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/prom/">Coinmarketcap</a><br>
+    <a href="https://bscscan.com/token/0xaf53d56ff99f1322515e54fdde93ff8b3b7dafd5">BscScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/prometeus.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/prometeus.svg" width="40px" height="40px"/>
+  </td>
+  <td>Prom</td>
+  <td>PROM</td>
+  <td><a href="./crypto/prometeus@ethereum.json">prometeus@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/prometeus">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/prom/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0xfc82bb4ba86045af6f327323a46e80412b91b27d">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="2">262</td>
+  <td style="text-align: center;">
+    <img src="logo/gmx.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/gmx.svg" width="40px" height="40px"/>
+  </td>
+  <td>GMX</td>
+  <td>GMX</td>
+  <td><a href="./crypto/gmx@arbitrum.json">gmx@arbitrum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/gmx">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/gmx/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/gmx.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/gmx.svg" width="40px" height="40px"/>
+  </td>
+  <td>GMX</td>
+  <td>GMX</td>
+  <td><a href="./crypto/gmx@avalanche-c-chain.json">gmx@avalanche-c-chain</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/gmx">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/gmx/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">263</td>
   <td style="text-align: center;">
     <img src="logo/official-melania-meme.svg" width="40px" height="40px"/>
   </td>
@@ -8315,39 +8486,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">257</td>
-  <td style="text-align: center;">
-    <img src="logo/walrus.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/walrus.svg" width="40px" height="40px"/>
-  </td>
-  <td>Walrus</td>
-  <td>WAL</td>
-  <td><a href="./crypto/walrus@sui.json">walrus@sui</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/walrus-2">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/walrus-xyz/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">258</td>
-  <td style="text-align: center;">
-    <img src="logo/helium.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/helium.svg" width="40px" height="40px"/>
-  </td>
-  <td>Helium</td>
-  <td>HNT</td>
-  <td><a href="./crypto/helium@solana.json">helium@solana</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/helium">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/helium/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">260</td>
+  <td rowspan="1">264</td>
   <td style="text-align: center;">
     <img src="logo/kusama.svg" width="40px" height="40px"/>
   </td>
@@ -8363,101 +8502,87 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="5">261</td>
+  <td rowspan="2">265</td>
   <td style="text-align: center;">
-    <img src="logo/wormhole.svg" width="40px" height="40px"/>
+    <img src="logo/ftx-token.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/wormhole.svg" width="40px" height="40px"/>
+    <img src="logo-dark/ftx-token.svg" width="40px" height="40px"/>
   </td>
-  <td>Wormhole</td>
-  <td>W</td>
-  <td><a href="./crypto/wormhole@arbitrum.json">wormhole@arbitrum</a></td>
+  <td>FTX Token</td>
+  <td>FTT</td>
+  <td><a href="./crypto/ftx-token@ethereum.json">ftx-token@ethereum</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/wormhole">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/wormhole/">Coinmarketcap</a><br>
+    <a href="https://www.coingecko.com/en/coins/ftx-token">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/ftx-token/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9">EtherScan</a><br>
   </td>
 </tr>
 <tr>
   <td style="text-align: center;">
-    <img src="logo/wormhole.svg" width="40px" height="40px"/>
+    <img src="logo/ftx-token.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/wormhole.svg" width="40px" height="40px"/>
+    <img src="logo-dark/ftx-token.svg" width="40px" height="40px"/>
   </td>
-  <td>Wormhole</td>
-  <td>W</td>
-  <td><a href="./crypto/wormhole@base.json">wormhole@base</a></td>
+  <td>FTX Token</td>
+  <td>FTT</td>
+  <td><a href="./crypto/ftx-token@solana.json">ftx-token@solana</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/wormhole">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/wormhole/">Coinmarketcap</a><br>
+    <a href="https://www.coingecko.com/en/coins/ftx-token">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/ftx-token/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="2">268</td>
+  <td style="text-align: center;">
+    <img src="logo/livepeer.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/livepeer.svg" width="40px" height="40px"/>
+  </td>
+  <td>Livepeer</td>
+  <td>LPT</td>
+  <td><a href="./crypto/livepeer@ethereum.json">livepeer@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/livepeer">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/livepeer/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x58b6a8a3302369daec383334672404ee733ab239">EtherScan</a><br>
   </td>
 </tr>
 <tr>
   <td style="text-align: center;">
-    <img src="logo/wormhole.svg" width="40px" height="40px"/>
+    <img src="logo/livepeer.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/wormhole.svg" width="40px" height="40px"/>
+    <img src="logo-dark/livepeer.svg" width="40px" height="40px"/>
   </td>
-  <td>Wormhole</td>
-  <td>W</td>
-  <td><a href="./crypto/wormhole@ethereum.json">wormhole@ethereum</a></td>
+  <td>Livepeer</td>
+  <td>LPT</td>
+  <td><a href="./crypto/livepeer@harmony.json">livepeer@harmony</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/wormhole">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/wormhole/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0xb0ffa8000886e57f86dd5264b9582b2ad87b2b91">EtherScan</a><br>
+    <a href="https://www.coingecko.com/en/coins/livepeer">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/livepeer/">Coinmarketcap</a><br>
   </td>
 </tr>
 <tr>
+  <td rowspan="1">270</td>
   <td style="text-align: center;">
-    <img src="logo/wormhole.svg" width="40px" height="40px"/>
+    <img src="logo/helium.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/wormhole.svg" width="40px" height="40px"/>
+    <img src="logo-dark/helium.svg" width="40px" height="40px"/>
   </td>
-  <td>Wormhole</td>
-  <td>W</td>
-  <td><a href="./crypto/wormhole@optimism.json">wormhole@optimism</a></td>
+  <td>Helium</td>
+  <td>HNT</td>
+  <td><a href="./crypto/helium@solana.json">helium@solana</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/wormhole">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/wormhole/">Coinmarketcap</a><br>
+    <a href="https://www.coingecko.com/en/coins/helium">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/helium/">Coinmarketcap</a><br>
   </td>
 </tr>
 <tr>
-  <td style="text-align: center;">
-    <img src="logo/wormhole.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/wormhole.svg" width="40px" height="40px"/>
-  </td>
-  <td>Wormhole</td>
-  <td>W</td>
-  <td><a href="./crypto/wormhole@solana.json">wormhole@solana</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/wormhole">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/wormhole/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">262</td>
-  <td style="text-align: center;">
-    <img src="logo/funtoken.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/funtoken.svg" width="40px" height="40px"/>
-  </td>
-  <td>FUNToken</td>
-  <td>FUN</td>
-  <td><a href="./crypto/funtoken@ethereum.json">funtoken@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/funfair">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/funtoken/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x419d0d8bdd9af5e606ae2232ed285aff190e711b">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="7">266</td>
+  <td rowspan="7">274</td>
   <td style="text-align: center;">
     <img src="logo/yearn-finance.svg" width="40px" height="40px"/>
   </td>
@@ -8562,69 +8687,6 @@ Total cryptos: 883
   <td>
     <a href="https://www.coingecko.com/en/coins/yearn-finance">Coingecko</a><br>
     <a href="https://coinmarketcap.com/currencies/yearn-finance/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="2">271</td>
-  <td style="text-align: center;">
-    <img src="logo/gmx.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/gmx.svg" width="40px" height="40px"/>
-  </td>
-  <td>GMX</td>
-  <td>GMX</td>
-  <td><a href="./crypto/gmx@arbitrum.json">gmx@arbitrum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/gmx">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/gmx/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/gmx.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/gmx.svg" width="40px" height="40px"/>
-  </td>
-  <td>GMX</td>
-  <td>GMX</td>
-  <td><a href="./crypto/gmx@avalanche-c-chain.json">gmx@avalanche-c-chain</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/gmx">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/gmx/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="2">277</td>
-  <td style="text-align: center;">
-    <img src="logo/livepeer.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/livepeer.svg" width="40px" height="40px"/>
-  </td>
-  <td>Livepeer</td>
-  <td>LPT</td>
-  <td><a href="./crypto/livepeer@ethereum.json">livepeer@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/livepeer">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/livepeer/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x58b6a8a3302369daec383334672404ee733ab239">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/livepeer.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/livepeer.svg" width="40px" height="40px"/>
-  </td>
-  <td>Livepeer</td>
-  <td>LPT</td>
-  <td><a href="./crypto/livepeer@harmony.json">livepeer@harmony</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/livepeer">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/livepeer/">Coinmarketcap</a><br>
   </td>
 </tr>
 <tr>
@@ -8751,104 +8813,163 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="2">282</td>
+  <td rowspan="1">293</td>
   <td style="text-align: center;">
-    <img src="logo/ftx-token.svg" width="40px" height="40px"/>
+    <img src="logo/nervos-network.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/ftx-token.svg" width="40px" height="40px"/>
+    <img src="logo-dark/nervos-network.svg" width="40px" height="40px"/>
   </td>
-  <td>FTX Token</td>
-  <td>FTT</td>
-  <td><a href="./crypto/ftx-token@ethereum.json">ftx-token@ethereum</a></td>
+  <td>Nervos Network</td>
+  <td>CKB</td>
+  <td><a href="./crypto/nervos-network@nervos-ckb.json">nervos-network@nervos-ckb</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/ftx-token">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/ftx-token/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9">EtherScan</a><br>
+    <a href="https://www.coingecko.com/en/coins/nervos-network">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/nervos-network/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="8">296</td>
+  <td style="text-align: center;">
+    <img src="logo/axelar.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/axelar.svg" width="40px" height="40px"/>
+  </td>
+  <td>Axelar</td>
+  <td>AXL</td>
+  <td><a href="./crypto/axelar@arbitrum.json">axelar@arbitrum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/axelar">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/axelar/">Coinmarketcap</a><br>
   </td>
 </tr>
 <tr>
   <td style="text-align: center;">
-    <img src="logo/ftx-token.svg" width="40px" height="40px"/>
+    <img src="logo/axelar.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/ftx-token.svg" width="40px" height="40px"/>
+    <img src="logo-dark/axelar.svg" width="40px" height="40px"/>
   </td>
-  <td>FTX Token</td>
-  <td>FTT</td>
-  <td><a href="./crypto/ftx-token@solana.json">ftx-token@solana</a></td>
+  <td>Axelar</td>
+  <td>AXL</td>
+  <td><a href="./crypto/axelar@avalanche-c-chain.json">axelar@avalanche-c-chain</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/ftx-token">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/ftx-token/">Coinmarketcap</a><br>
+    <a href="https://www.coingecko.com/en/coins/axelar">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/axelar/">Coinmarketcap</a><br>
   </td>
 </tr>
 <tr>
-  <td rowspan="1">295</td>
   <td style="text-align: center;">
-    <img src="logo/kaito.svg" width="40px" height="40px"/>
+    <img src="logo/axelar.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/kaito.svg" width="40px" height="40px"/>
+    <img src="logo-dark/axelar.svg" width="40px" height="40px"/>
   </td>
-  <td>KAITO</td>
-  <td>KAITO</td>
-  <td><a href="./crypto/kaito@base.json">kaito@base</a></td>
+  <td>Axelar</td>
+  <td>AXL</td>
+  <td><a href="./crypto/axelar@base.json">axelar@base</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/kaito">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/kaito/">Coinmarketcap</a><br>
+    <a href="https://www.coingecko.com/en/coins/axelar">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/axelar/">Coinmarketcap</a><br>
   </td>
 </tr>
 <tr>
-  <td rowspan="1">300</td>
   <td style="text-align: center;">
-    <img src="logo/holo.svg" width="40px" height="40px"/>
+    <img src="logo/axelar.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/holo.svg" width="40px" height="40px"/>
+    <img src="logo-dark/axelar.svg" width="40px" height="40px"/>
   </td>
-  <td>Holo</td>
-  <td>HOT</td>
-  <td><a href="./crypto/holo@ethereum.json">holo@ethereum</a></td>
+  <td>Axelar</td>
+  <td>AXL</td>
+  <td><a href="./crypto/axelar@binance-smart-chain.json">axelar@binance-smart-chain</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/holotoken">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/holo/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x6c6ee5e31d828de241282b9606c8e98ea48526e2">EtherScan</a><br>
+    <a href="https://www.coingecko.com/en/coins/axelar">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/axelar/">Coinmarketcap</a><br>
+    <a href="https://bscscan.com/token/0x8b1f4432f943c465a973fedc6d7aa50fc96f1f65">BscScan</a><br>
   </td>
 </tr>
 <tr>
-  <td rowspan="1">303</td>
   <td style="text-align: center;">
-    <img src="logo/digibyte.svg" width="40px" height="40px"/>
+    <img src="logo/axelar.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/digibyte.svg" width="40px" height="40px"/>
+    <img src="logo-dark/axelar.svg" width="40px" height="40px"/>
   </td>
-  <td>DigiByte</td>
-  <td>DGB</td>
-  <td><a href="./crypto/digibyte@digibyte.json">digibyte@digibyte</a></td>
+  <td>Axelar</td>
+  <td>AXL</td>
+  <td><a href="./crypto/axelar@ethereum.json">axelar@ethereum</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/digibyte">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/digibyte/">Coinmarketcap</a><br>
+    <a href="https://www.coingecko.com/en/coins/axelar">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/axelar/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x467719ad09025fcc6cf6f8311755809d45a5e5f3">EtherScan</a><br>
   </td>
 </tr>
 <tr>
-  <td rowspan="1">305</td>
   <td style="text-align: center;">
-    <img src="logo/theta-fuel.svg" width="40px" height="40px"/>
+    <img src="logo/axelar.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/theta-fuel.svg" width="40px" height="40px"/>
+    <img src="logo-dark/axelar.svg" width="40px" height="40px"/>
   </td>
-  <td>Theta Fuel</td>
-  <td>TFUEL</td>
-  <td><a href="./crypto/theta-fuel@theta.json">theta-fuel@theta</a></td>
+  <td>Axelar</td>
+  <td>AXL</td>
+  <td><a href="./crypto/axelar@fantom.json">axelar@fantom</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/theta-fuel">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/theta-fuel/">Coinmarketcap</a><br>
+    <a href="https://www.coingecko.com/en/coins/axelar">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/axelar/">Coinmarketcap</a><br>
   </td>
 </tr>
 <tr>
-  <td rowspan="3">311</td>
+  <td style="text-align: center;">
+    <img src="logo/axelar.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/axelar.svg" width="40px" height="40px"/>
+  </td>
+  <td>Axelar</td>
+  <td>AXL</td>
+  <td><a href="./crypto/axelar@optimism.json">axelar@optimism</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/axelar">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/axelar/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/axelar.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/axelar.svg" width="40px" height="40px"/>
+  </td>
+  <td>Axelar</td>
+  <td>AXL</td>
+  <td><a href="./crypto/axelar@polygon.json">axelar@polygon</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/axelar">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/axelar/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">297</td>
+  <td style="text-align: center;">
+    <img src="logo/iexec-rlc.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/iexec-rlc.svg" width="40px" height="40px"/>
+  </td>
+  <td>iExec RLC</td>
+  <td>RLC</td>
+  <td><a href="./crypto/iexec-rlc@ethereum.json">iexec-rlc@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/iexec-rlc">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/rlc/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x607f4c5bb672230e8672085532f7e901544a7375">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="3">299</td>
   <td style="text-align: center;">
     <img src="logo/kava.svg" width="40px" height="40px"/>
   </td>
@@ -8895,7 +9016,23 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">315</td>
+  <td rowspan="1">301</td>
+  <td style="text-align: center;">
+    <img src="logo/kaito.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/kaito.svg" width="40px" height="40px"/>
+  </td>
+  <td>KAITO</td>
+  <td>KAITO</td>
+  <td><a href="./crypto/kaito@base.json">kaito@base</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/kaito">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/kaito/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">305</td>
   <td style="text-align: center;">
     <img src="logo/story.svg" width="40px" height="40px"/>
   </td>
@@ -8912,7 +9049,24 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="3">322</td>
+  <td rowspan="1">308</td>
+  <td style="text-align: center;">
+    <img src="logo/holo.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/holo.svg" width="40px" height="40px"/>
+  </td>
+  <td>Holo</td>
+  <td>HOT</td>
+  <td><a href="./crypto/holo@ethereum.json">holo@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/holotoken">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/holo/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x6c6ee5e31d828de241282b9606c8e98ea48526e2">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="3">310</td>
   <td style="text-align: center;">
     <img src="logo/zilliqa.svg" width="40px" height="40px"/>
   </td>
@@ -8960,7 +9114,23 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="10">325</td>
+  <td rowspan="1">313</td>
+  <td style="text-align: center;">
+    <img src="logo/theta-fuel.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/theta-fuel.svg" width="40px" height="40px"/>
+  </td>
+  <td>Theta Fuel</td>
+  <td>TFUEL</td>
+  <td><a href="./crypto/theta-fuel@theta.json">theta-fuel@theta</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/theta-fuel">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/theta-fuel/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="10">317</td>
   <td style="text-align: center;">
     <img src="logo/sushi.svg" width="40px" height="40px"/>
   </td>
@@ -9113,163 +9283,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">330</td>
-  <td style="text-align: center;">
-    <img src="logo/book-of-meme.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/book-of-meme.svg" width="40px" height="40px"/>
-  </td>
-  <td>BOOK OF MEME</td>
-  <td>BOME</td>
-  <td><a href="./crypto/book-of-meme@solana.json">book-of-meme@solana</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/book-of-meme">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/book-of-meme/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">332</td>
-  <td style="text-align: center;">
-    <img src="logo/iexec-rlc.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/iexec-rlc.svg" width="40px" height="40px"/>
-  </td>
-  <td>iExec RLC</td>
-  <td>RLC</td>
-  <td><a href="./crypto/iexec-rlc@ethereum.json">iexec-rlc@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/iexec-rlc">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/rlc/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x607f4c5bb672230e8672085532f7e901544a7375">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="8">338</td>
-  <td style="text-align: center;">
-    <img src="logo/axelar.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/axelar.svg" width="40px" height="40px"/>
-  </td>
-  <td>Axelar</td>
-  <td>AXL</td>
-  <td><a href="./crypto/axelar@arbitrum.json">axelar@arbitrum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/axelar">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/axelar/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/axelar.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/axelar.svg" width="40px" height="40px"/>
-  </td>
-  <td>Axelar</td>
-  <td>AXL</td>
-  <td><a href="./crypto/axelar@avalanche-c-chain.json">axelar@avalanche-c-chain</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/axelar">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/axelar/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/axelar.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/axelar.svg" width="40px" height="40px"/>
-  </td>
-  <td>Axelar</td>
-  <td>AXL</td>
-  <td><a href="./crypto/axelar@base.json">axelar@base</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/axelar">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/axelar/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/axelar.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/axelar.svg" width="40px" height="40px"/>
-  </td>
-  <td>Axelar</td>
-  <td>AXL</td>
-  <td><a href="./crypto/axelar@binance-smart-chain.json">axelar@binance-smart-chain</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/axelar">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/axelar/">Coinmarketcap</a><br>
-    <a href="https://bscscan.com/token/0x8b1f4432f943c465a973fedc6d7aa50fc96f1f65">BscScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/axelar.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/axelar.svg" width="40px" height="40px"/>
-  </td>
-  <td>Axelar</td>
-  <td>AXL</td>
-  <td><a href="./crypto/axelar@ethereum.json">axelar@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/axelar">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/axelar/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x467719ad09025fcc6cf6f8311755809d45a5e5f3">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/axelar.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/axelar.svg" width="40px" height="40px"/>
-  </td>
-  <td>Axelar</td>
-  <td>AXL</td>
-  <td><a href="./crypto/axelar@fantom.json">axelar@fantom</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/axelar">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/axelar/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/axelar.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/axelar.svg" width="40px" height="40px"/>
-  </td>
-  <td>Axelar</td>
-  <td>AXL</td>
-  <td><a href="./crypto/axelar@optimism.json">axelar@optimism</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/axelar">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/axelar/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/axelar.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/axelar.svg" width="40px" height="40px"/>
-  </td>
-  <td>Axelar</td>
-  <td>AXL</td>
-  <td><a href="./crypto/axelar@polygon.json">axelar@polygon</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/axelar">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/axelar/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="2">340</td>
+  <td rowspan="2">318</td>
   <td style="text-align: center;">
     <img src="logo/oasis-network.svg" width="40px" height="40px"/>
   </td>
@@ -9302,23 +9316,73 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">342</td>
+  <td rowspan="2">326</td>
   <td style="text-align: center;">
-    <img src="logo/nervos-network.svg" width="40px" height="40px"/>
+    <img src="logo/dusk-network.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/nervos-network.svg" width="40px" height="40px"/>
+    <img src="logo-dark/dusk-network.svg" width="40px" height="40px"/>
   </td>
-  <td>Nervos Network</td>
-  <td>CKB</td>
-  <td><a href="./crypto/nervos-network@nervos-ckb.json">nervos-network@nervos-ckb</a></td>
+  <td>Dusk</td>
+  <td>DUSK</td>
+  <td><a href="./crypto/dusk-network@binance-smart-chain.json">dusk-network@binance-smart-chain</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/nervos-network">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/nervos-network/">Coinmarketcap</a><br>
+    <a href="https://www.coingecko.com/en/coins/dusk-network">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/dusk/">Coinmarketcap</a><br>
+    <a href="https://bscscan.com/token/0xb2bd0749dbe21f623d9baba856d3b0f0e1bfec9c">BscScan</a><br>
   </td>
 </tr>
 <tr>
-  <td rowspan="1">348</td>
+  <td style="text-align: center;">
+    <img src="logo/dusk-network.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/dusk-network.svg" width="40px" height="40px"/>
+  </td>
+  <td>Dusk</td>
+  <td>DUSK</td>
+  <td><a href="./crypto/dusk-network@ethereum.json">dusk-network@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/dusk-network">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/dusk/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x940a2db1b7008b6c776d4faaca729d6d4a4aa551">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">332</td>
+  <td style="text-align: center;">
+    <img src="logo/digibyte.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/digibyte.svg" width="40px" height="40px"/>
+  </td>
+  <td>DigiByte</td>
+  <td>DGB</td>
+  <td><a href="./crypto/digibyte@digibyte.json">digibyte@digibyte</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/digibyte">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/digibyte/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">338</td>
+  <td style="text-align: center;">
+    <img src="logo/amp.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/amp.svg" width="40px" height="40px"/>
+  </td>
+  <td>Amp</td>
+  <td>AMP</td>
+  <td><a href="./crypto/amp@ethereum.json">amp@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/amp-token">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/amp/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0xff20817765cb7f73d4bde2e66e067e58d11095c2">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">346</td>
   <td style="text-align: center;">
     <img src="logo/enjin-coin.svg" width="40px" height="40px"/>
   </td>
@@ -9335,7 +9399,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="2">350</td>
+  <td rowspan="2">347</td>
   <td style="text-align: center;">
     <img src="logo/alchemy-pay.svg" width="40px" height="40px"/>
   </td>
@@ -9368,7 +9432,72 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">353</td>
+  <td rowspan="2">358</td>
+  <td style="text-align: center;">
+    <img src="logo/aelf.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/aelf.svg" width="40px" height="40px"/>
+  </td>
+  <td>aelf</td>
+  <td>ELF</td>
+  <td><a href="./crypto/aelf@binance-smart-chain.json">aelf@binance-smart-chain</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/aelf">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/aelf/">Coinmarketcap</a><br>
+    <a href="https://bscscan.com/token/0xa3f020a5c92e15be13caf0ee5c95cf79585eecc9">BscScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/aelf.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/aelf.svg" width="40px" height="40px"/>
+  </td>
+  <td>aelf</td>
+  <td>ELF</td>
+  <td><a href="./crypto/aelf@ethereum.json">aelf@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/aelf">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/aelf/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0xbf2179859fc6d5bee9bf9158632dc51678a4100e">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="2">359</td>
+  <td style="text-align: center;">
+    <img src="logo/flow.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/flow.svg" width="40px" height="40px"/>
+  </td>
+  <td>Flow</td>
+  <td>FLOW</td>
+  <td><a href="./crypto/flow@flow.json">flow@flow</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/flow">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/flow/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/flow.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/flow.svg" width="40px" height="40px"/>
+  </td>
+  <td>Flow</td>
+  <td>FLOW</td>
+  <td><a href="./crypto/flow@ethereum.json">flow@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/flow">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/flow/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x5c147e74d63b1d31aa3fd78eb229b65161983b2b">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">361</td>
   <td style="text-align: center;">
     <img src="logo/celo.svg" width="40px" height="40px"/>
   </td>
@@ -9384,7 +9513,23 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="4">354</td>
+  <td rowspan="1">365</td>
+  <td style="text-align: center;">
+    <img src="logo/book-of-meme.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/book-of-meme.svg" width="40px" height="40px"/>
+  </td>
+  <td>BOOK OF MEME</td>
+  <td>BOME</td>
+  <td><a href="./crypto/book-of-meme@solana.json">book-of-meme@solana</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/book-of-meme">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/book-of-meme/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="4">368</td>
   <td style="text-align: center;">
     <img src="logo/ontology.svg" width="40px" height="40px"/>
   </td>
@@ -9447,7 +9592,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">356</td>
+  <td rowspan="1">370</td>
   <td style="text-align: center;">
     <img src="logo/tellor.svg" width="40px" height="40px"/>
   </td>
@@ -9464,24 +9609,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">360</td>
-  <td style="text-align: center;">
-    <img src="logo/blur.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/blur.svg" width="40px" height="40px"/>
-  </td>
-  <td>Blur</td>
-  <td>BLUR</td>
-  <td><a href="./crypto/blur@ethereum.json">blur@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/blur">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/blur-token/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x5283d291dbcf85356a21ba090e6db59121208b44">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">364</td>
+  <td rowspan="1">373</td>
   <td style="text-align: center;">
     <img src="logo/ab.svg" width="40px" height="40px"/>
   </td>
@@ -9498,57 +9626,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">367</td>
-  <td style="text-align: center;">
-    <img src="logo/pha.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/pha.svg" width="40px" height="40px"/>
-  </td>
-  <td>Phala Network</td>
-  <td>PHA</td>
-  <td><a href="./crypto/pha@ethereum.json">pha@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/pha">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/phala-network/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x6c5ba91642f10282b576d91922ae6448c9d52f4e">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="2">371</td>
-  <td style="text-align: center;">
-    <img src="logo/aelf.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/aelf.svg" width="40px" height="40px"/>
-  </td>
-  <td>aelf</td>
-  <td>ELF</td>
-  <td><a href="./crypto/aelf@binance-smart-chain.json">aelf@binance-smart-chain</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/aelf">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/aelf/">Coinmarketcap</a><br>
-    <a href="https://bscscan.com/token/0xa3f020a5c92e15be13caf0ee5c95cf79585eecc9">BscScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/aelf.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/aelf.svg" width="40px" height="40px"/>
-  </td>
-  <td>aelf</td>
-  <td>ELF</td>
-  <td><a href="./crypto/aelf@ethereum.json">aelf@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/aelf">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/aelf/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0xbf2179859fc6d5bee9bf9158632dc51678a4100e">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">372</td>
+  <td rowspan="1">374</td>
   <td style="text-align: center;">
     <img src="logo/brett-based.svg" width="40px" height="40px"/>
   </td>
@@ -9564,88 +9642,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">378</td>
-  <td style="text-align: center;">
-    <img src="logo/amp.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/amp.svg" width="40px" height="40px"/>
-  </td>
-  <td>Amp</td>
-  <td>AMP</td>
-  <td><a href="./crypto/amp@ethereum.json">amp@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/amp-token">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/amp/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0xff20817765cb7f73d4bde2e66e067e58d11095c2">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="2">380</td>
-  <td style="text-align: center;">
-    <img src="logo/flow.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/flow.svg" width="40px" height="40px"/>
-  </td>
-  <td>Flow</td>
-  <td>FLOW</td>
-  <td><a href="./crypto/flow@flow.json">flow@flow</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/flow">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/flow/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/flow.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/flow.svg" width="40px" height="40px"/>
-  </td>
-  <td>Flow</td>
-  <td>FLOW</td>
-  <td><a href="./crypto/flow@ethereum.json">flow@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/flow">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/flow/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x5c147e74d63b1d31aa3fd78eb229b65161983b2b">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="2">382</td>
-  <td style="text-align: center;">
-    <img src="logo/lisk.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/lisk.svg" width="40px" height="40px"/>
-  </td>
-  <td>Lisk</td>
-  <td>LSK</td>
-  <td><a href="./crypto/lisk@lisk.json">lisk@lisk</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/lisk">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/lisk/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/lisk.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/lisk.svg" width="40px" height="40px"/>
-  </td>
-  <td>Lisk</td>
-  <td>LSK</td>
-  <td><a href="./crypto/lisk@ethereum.json">lisk@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/lisk">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/lisk/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x6033f7f88332b8db6ad452b7c6d5bb643990ae3f">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="5">384</td>
+  <td rowspan="5">376</td>
   <td style="text-align: center;">
     <img src="logo/venus.svg" width="40px" height="40px"/>
   </td>
@@ -9723,7 +9720,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="2">385</td>
+  <td rowspan="2">391</td>
   <td style="text-align: center;">
     <img src="logo/xyo-network.svg" width="40px" height="40px"/>
   </td>
@@ -9755,7 +9752,56 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="3">392</td>
+  <td rowspan="1">393</td>
+  <td style="text-align: center;">
+    <img src="logo/peanut-the-squirrel.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/peanut-the-squirrel.svg" width="40px" height="40px"/>
+  </td>
+  <td>Peanut the Squirrel</td>
+  <td>PNUT</td>
+  <td><a href="./crypto/peanut-the-squirrel@solana.json">peanut-the-squirrel@solana</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/peanut-the-squirrel">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/peanut-the-squirrel/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">400</td>
+  <td style="text-align: center;">
+    <img src="logo/popcat-sol.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/popcat-sol.svg" width="40px" height="40px"/>
+  </td>
+  <td>Popcat</td>
+  <td>POPCAT</td>
+  <td><a href="./crypto/popcat-sol@solana.json">popcat-sol@solana</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/popcat">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/popcat-sol/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">402</td>
+  <td style="text-align: center;">
+    <img src="logo/pha.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/pha.svg" width="40px" height="40px"/>
+  </td>
+  <td>Phala Network</td>
+  <td>PHA</td>
+  <td><a href="./crypto/pha@ethereum.json">pha@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/pha">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/phala-network/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x6c5ba91642f10282b576d91922ae6448c9d52f4e">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="3">405</td>
   <td style="text-align: center;">
     <img src="logo/ravedao.svg" width="40px" height="40px"/>
   </td>
@@ -9803,88 +9849,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">395</td>
-  <td style="text-align: center;">
-    <img src="logo/peanut-the-squirrel.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/peanut-the-squirrel.svg" width="40px" height="40px"/>
-  </td>
-  <td>Peanut the Squirrel</td>
-  <td>PNUT</td>
-  <td><a href="./crypto/peanut-the-squirrel@solana.json">peanut-the-squirrel@solana</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/peanut-the-squirrel">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/peanut-the-squirrel/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">396</td>
-  <td style="text-align: center;">
-    <img src="logo/verge.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/verge.svg" width="40px" height="40px"/>
-  </td>
-  <td>Verge</td>
-  <td>XVG</td>
-  <td><a href="./crypto/verge@verge.json">verge@verge</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/verge">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/verge/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">400</td>
-  <td style="text-align: center;">
-    <img src="logo/popcat-sol.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/popcat-sol.svg" width="40px" height="40px"/>
-  </td>
-  <td>Popcat</td>
-  <td>POPCAT</td>
-  <td><a href="./crypto/popcat-sol@solana.json">popcat-sol@solana</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/popcat">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/popcat-sol/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">403</td>
-  <td style="text-align: center;">
-    <img src="logo/ssv-network.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/ssv-network.svg" width="40px" height="40px"/>
-  </td>
-  <td>ssv.network</td>
-  <td>SSV</td>
-  <td><a href="./crypto/ssv-network@ethereum.json">ssv-network@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/ssv-network">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/ssv-network/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x9d65ff81a3c488d585bbfb0bfe3c7707c7917f54">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">405</td>
-  <td style="text-align: center;">
-    <img src="logo/nano.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/nano.svg" width="40px" height="40px"/>
-  </td>
-  <td>Nano</td>
-  <td>XNO</td>
-  <td><a href="./crypto/nano@nano.json">nano@nano</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/nano">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/nano/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="2">406</td>
+  <td rowspan="2">412</td>
   <td style="text-align: center;">
     <img src="logo/ankr.svg" width="40px" height="40px"/>
   </td>
@@ -9917,7 +9882,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="3">408</td>
+  <td rowspan="3">413</td>
   <td style="text-align: center;">
     <img src="logo/mask-network.svg" width="40px" height="40px"/>
   </td>
@@ -9965,7 +9930,88 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">410</td>
+  <td rowspan="2">415</td>
+  <td style="text-align: center;">
+    <img src="logo/lisk.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/lisk.svg" width="40px" height="40px"/>
+  </td>
+  <td>Lisk</td>
+  <td>LSK</td>
+  <td><a href="./crypto/lisk@lisk.json">lisk@lisk</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/lisk">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/lisk/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/lisk.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/lisk.svg" width="40px" height="40px"/>
+  </td>
+  <td>Lisk</td>
+  <td>LSK</td>
+  <td><a href="./crypto/lisk@ethereum.json">lisk@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/lisk">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/lisk/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x6033f7f88332b8db6ad452b7c6d5bb643990ae3f">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">419</td>
+  <td style="text-align: center;">
+    <img src="logo/verge.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/verge.svg" width="40px" height="40px"/>
+  </td>
+  <td>Verge</td>
+  <td>XVG</td>
+  <td><a href="./crypto/verge@verge.json">verge@verge</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/verge">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/verge/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="2">420</td>
+  <td style="text-align: center;">
+    <img src="logo/band-protocol.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/band-protocol.svg" width="40px" height="40px"/>
+  </td>
+  <td>Band</td>
+  <td>BAND</td>
+  <td><a href="./crypto/band-protocol@binance-smart-chain.json">band-protocol@binance-smart-chain</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/band-protocol">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/band-protocol/">Coinmarketcap</a><br>
+    <a href="https://bscscan.com/token/0xad6caeb32cd2c308980a548bd0bc5aa4306c6c18">BscScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/band-protocol.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/band-protocol.svg" width="40px" height="40px"/>
+  </td>
+  <td>Band</td>
+  <td>BAND</td>
+  <td><a href="./crypto/band-protocol@ethereum.json">band-protocol@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/band-protocol">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/band-protocol/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0xba11d00c5f74255f56a5e366f4f77f5a186d7f55">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">421</td>
   <td style="text-align: center;">
     <img src="logo/notcoin.svg" width="40px" height="40px"/>
   </td>
@@ -9981,7 +10027,40 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="3">420</td>
+  <td rowspan="1">423</td>
+  <td style="text-align: center;">
+    <img src="logo/nano.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/nano.svg" width="40px" height="40px"/>
+  </td>
+  <td>Nano</td>
+  <td>XNO</td>
+  <td><a href="./crypto/nano@nano.json">nano@nano</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/nano">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/nano/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">424</td>
+  <td style="text-align: center;">
+    <img src="logo/ssv-network.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/ssv-network.svg" width="40px" height="40px"/>
+  </td>
+  <td>ssv.network</td>
+  <td>SSV</td>
+  <td><a href="./crypto/ssv-network@ethereum.json">ssv-network@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/ssv-network">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/ssv-network/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x9d65ff81a3c488d585bbfb0bfe3c7707c7917f54">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="3">425</td>
   <td style="text-align: center;">
     <img src="logo/river.svg" width="40px" height="40px"/>
   </td>
@@ -10029,39 +10108,55 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">421</td>
+  <td rowspan="2">431</td>
   <td style="text-align: center;">
-    <img src="logo/ark.svg" width="40px" height="40px"/>
+    <img src="logo/request.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/ark.svg" width="40px" height="40px"/>
+    <img src="logo-dark/request.svg" width="40px" height="40px"/>
   </td>
-  <td>Ark</td>
-  <td>ARK</td>
-  <td><a href="./crypto/ark@ark.json">ark@ark</a></td>
+  <td>Request</td>
+  <td>REQ</td>
+  <td><a href="./crypto/request@ethereum.json">request@ethereum</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/ark">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/ark/">Coinmarketcap</a><br>
+    <a href="https://www.coingecko.com/en/coins/request-network">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/request/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x8f8221afbb33998d8584a2b05749ba73c37a938a">EtherScan</a><br>
   </td>
 </tr>
 <tr>
-  <td rowspan="1">422</td>
   <td style="text-align: center;">
-    <img src="logo/cat-in-a-dogs-world.svg" width="40px" height="40px"/>
+    <img src="logo/request.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/cat-in-a-dogs-world.svg" width="40px" height="40px"/>
+    <img src="logo-dark/request.svg" width="40px" height="40px"/>
   </td>
-  <td>cat in a dogs world</td>
-  <td>MEW</td>
-  <td><a href="./crypto/cat-in-a-dogs-world@solana.json">cat-in-a-dogs-world@solana</a></td>
+  <td>Request</td>
+  <td>REQ</td>
+  <td><a href="./crypto/request@polygon.json">request@polygon</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/cat-in-a-dogs-world">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/mew/">Coinmarketcap</a><br>
+    <a href="https://www.coingecko.com/en/coins/request-network">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/request/">Coinmarketcap</a><br>
   </td>
 </tr>
 <tr>
-  <td rowspan="4">423</td>
+  <td rowspan="1">438</td>
+  <td style="text-align: center;">
+    <img src="logo/ong.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/ong.svg" width="40px" height="40px"/>
+  </td>
+  <td>Ontology Gas</td>
+  <td>ONG</td>
+  <td><a href="./crypto/ong@ontology.json">ong@ontology</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/ong">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/ontology-gas/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="4">439</td>
   <td style="text-align: center;">
     <img src="logo/mog-coin.svg" width="40px" height="40px"/>
   </td>
@@ -10124,122 +10219,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="2">430</td>
-  <td style="text-align: center;">
-    <img src="logo/request.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/request.svg" width="40px" height="40px"/>
-  </td>
-  <td>Request</td>
-  <td>REQ</td>
-  <td><a href="./crypto/request@ethereum.json">request@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/request-network">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/request/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x8f8221afbb33998d8584a2b05749ba73c37a938a">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/request.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/request.svg" width="40px" height="40px"/>
-  </td>
-  <td>Request</td>
-  <td>REQ</td>
-  <td><a href="./crypto/request@polygon.json">request@polygon</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/request-network">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/request/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">437</td>
-  <td style="text-align: center;">
-    <img src="logo/ong.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/ong.svg" width="40px" height="40px"/>
-  </td>
-  <td>Ontology Gas</td>
-  <td>ONG</td>
-  <td><a href="./crypto/ong@ontology.json">ong@ontology</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/ong">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/ontology-gas/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="2">438</td>
-  <td style="text-align: center;">
-    <img src="logo/band-protocol.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/band-protocol.svg" width="40px" height="40px"/>
-  </td>
-  <td>Band</td>
-  <td>BAND</td>
-  <td><a href="./crypto/band-protocol@binance-smart-chain.json">band-protocol@binance-smart-chain</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/band-protocol">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/band-protocol/">Coinmarketcap</a><br>
-    <a href="https://bscscan.com/token/0xad6caeb32cd2c308980a548bd0bc5aa4306c6c18">BscScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/band-protocol.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/band-protocol.svg" width="40px" height="40px"/>
-  </td>
-  <td>Band</td>
-  <td>BAND</td>
-  <td><a href="./crypto/band-protocol@ethereum.json">band-protocol@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/band-protocol">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/band-protocol/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0xba11d00c5f74255f56a5e366f4f77f5a186d7f55">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">440</td>
-  <td style="text-align: center;">
-    <img src="logo/movement.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/movement.svg" width="40px" height="40px"/>
-  </td>
-  <td>Movement</td>
-  <td>MOVE</td>
-  <td><a href="./crypto/movement@ethereum.json">movement@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/movement">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/movement/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x3073f7aaa4db83f95e9fff17424f71d4751a3073">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">446</td>
-  <td style="text-align: center;">
-    <img src="logo/rocket-pool.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/rocket-pool.svg" width="40px" height="40px"/>
-  </td>
-  <td>Rocket Pool</td>
-  <td>RPL</td>
-  <td><a href="./crypto/rocket-pool@ethereum.json">rocket-pool@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/rocket-pool">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/rocket-pool/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0xd33526068d116ce69f19a9ee46f0bd304f21a51f">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="2">448</td>
+  <td rowspan="2">440</td>
   <td style="text-align: center;">
     <img src="logo/aegis-yusd.svg" width="40px" height="40px"/>
   </td>
@@ -10272,7 +10252,74 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="2">455</td>
+  <td rowspan="1">452</td>
+  <td style="text-align: center;">
+    <img src="logo/movement.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/movement.svg" width="40px" height="40px"/>
+  </td>
+  <td>Movement</td>
+  <td>MOVE</td>
+  <td><a href="./crypto/movement@ethereum.json">movement@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/movement">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/movement/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x3073f7aaa4db83f95e9fff17424f71d4751a3073">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">454</td>
+  <td style="text-align: center;">
+    <img src="logo/cat-in-a-dogs-world.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/cat-in-a-dogs-world.svg" width="40px" height="40px"/>
+  </td>
+  <td>cat in a dogs world</td>
+  <td>MEW</td>
+  <td><a href="./crypto/cat-in-a-dogs-world@solana.json">cat-in-a-dogs-world@solana</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/cat-in-a-dogs-world">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/mew/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">456</td>
+  <td style="text-align: center;">
+    <img src="logo/rocket-pool.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/rocket-pool.svg" width="40px" height="40px"/>
+  </td>
+  <td>Rocket Pool</td>
+  <td>RPL</td>
+  <td><a href="./crypto/rocket-pool@ethereum.json">rocket-pool@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/rocket-pool">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/rocket-pool/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0xd33526068d116ce69f19a9ee46f0bd304f21a51f">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">461</td>
+  <td style="text-align: center;">
+    <img src="logo/propy.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/propy.svg" width="40px" height="40px"/>
+  </td>
+  <td>Propy</td>
+  <td>PRO</td>
+  <td><a href="./crypto/propy@ethereum.json">propy@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/propy">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/propy/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x226bb599a12c826476e3a771454697ea52e9e220">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="2">466</td>
   <td style="text-align: center;">
     <img src="logo/coti.svg" width="40px" height="40px"/>
   </td>
@@ -10305,90 +10352,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="2">461</td>
-  <td style="text-align: center;">
-    <img src="logo/dusk-network.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/dusk-network.svg" width="40px" height="40px"/>
-  </td>
-  <td>Dusk</td>
-  <td>DUSK</td>
-  <td><a href="./crypto/dusk-network@binance-smart-chain.json">dusk-network@binance-smart-chain</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/dusk-network">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/dusk/">Coinmarketcap</a><br>
-    <a href="https://bscscan.com/token/0xb2bd0749dbe21f623d9baba856d3b0f0e1bfec9c">BscScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/dusk-network.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/dusk-network.svg" width="40px" height="40px"/>
-  </td>
-  <td>Dusk</td>
-  <td>DUSK</td>
-  <td><a href="./crypto/dusk-network@ethereum.json">dusk-network@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/dusk-network">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/dusk/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x940a2db1b7008b6c776d4faaca729d6d4a4aa551">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">464</td>
-  <td style="text-align: center;">
-    <img src="logo/status.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/status.svg" width="40px" height="40px"/>
-  </td>
-  <td>Status</td>
-  <td>SNT</td>
-  <td><a href="./crypto/status@ethereum.json">status@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/status">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/status/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x744d70fdbe2ba4cf95131626614a1763df805b9e">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">466</td>
-  <td style="text-align: center;">
-    <img src="logo/gemini-dollar.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/gemini-dollar.svg" width="40px" height="40px"/>
-  </td>
-  <td>Gemini Dollar</td>
-  <td>GUSD</td>
-  <td><a href="./crypto/gemini-dollar@ethereum.json">gemini-dollar@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/gemini-dollar">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/gemini-dollar/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x056fd409e1d7a124bd7017459dfea2f387b6d5cd">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
   <td rowspan="1">467</td>
-  <td style="text-align: center;">
-    <img src="logo/waves.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/waves.svg" width="40px" height="40px"/>
-  </td>
-  <td>Waves</td>
-  <td>WAVES</td>
-  <td><a href="./crypto/waves@waves.json">waves@waves</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/waves">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/waves/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">470</td>
   <td style="text-align: center;">
     <img src="logo/uma.svg" width="40px" height="40px"/>
   </td>
@@ -10405,73 +10369,57 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">481</td>
+  <td rowspan="1">470</td>
   <td style="text-align: center;">
-    <img src="logo/bifrost.svg" width="40px" height="40px"/>
+    <img src="logo/ark.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/bifrost.svg" width="40px" height="40px"/>
+    <img src="logo-dark/ark.svg" width="40px" height="40px"/>
   </td>
-  <td>Bifrost</td>
-  <td>BFC</td>
-  <td><a href="./crypto/bifrost@ethereum.json">bifrost@ethereum</a></td>
+  <td>Ark</td>
+  <td>ARK</td>
+  <td><a href="./crypto/ark@ark.json">ark@ark</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/bifrost">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/bifrost/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x0c7d5ae016f806603cb1782bea29ac69471cab9c">EtherScan</a><br>
+    <a href="https://www.coingecko.com/en/coins/ark">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/ark/">Coinmarketcap</a><br>
   </td>
 </tr>
 <tr>
-  <td rowspan="1">485</td>
+  <td rowspan="1">479</td>
   <td style="text-align: center;">
-    <img src="logo/ravencoin.svg" width="40px" height="40px"/>
+    <img src="logo/status.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/ravencoin.svg" width="40px" height="40px"/>
+    <img src="logo-dark/status.svg" width="40px" height="40px"/>
   </td>
-  <td>Ravencoin</td>
-  <td>RVN</td>
-  <td><a href="./crypto/ravencoin@ravencoin.json">ravencoin@ravencoin</a></td>
+  <td>Status</td>
+  <td>SNT</td>
+  <td><a href="./crypto/status@ethereum.json">status@ethereum</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/ravencoin">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/ravencoin/">Coinmarketcap</a><br>
+    <a href="https://www.coingecko.com/en/coins/status">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/status/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x744d70fdbe2ba4cf95131626614a1763df805b9e">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">480</td>
+  <td style="text-align: center;">
+    <img src="logo/gemini-dollar.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/gemini-dollar.svg" width="40px" height="40px"/>
+  </td>
+  <td>Gemini Dollar</td>
+  <td>GUSD</td>
+  <td><a href="./crypto/gemini-dollar@ethereum.json">gemini-dollar@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/gemini-dollar">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/gemini-dollar/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x056fd409e1d7a124bd7017459dfea2f387b6d5cd">EtherScan</a><br>
   </td>
 </tr>
 <tr>
   <td rowspan="1">486</td>
-  <td style="text-align: center;">
-    <img src="logo/solayer.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/solayer.svg" width="40px" height="40px"/>
-  </td>
-  <td>Solayer</td>
-  <td>LAYER</td>
-  <td><a href="./crypto/solayer@solana.json">solayer@solana</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/solayer">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/solayer/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">488</td>
-  <td style="text-align: center;">
-    <img src="logo/propy.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/propy.svg" width="40px" height="40px"/>
-  </td>
-  <td>Propy</td>
-  <td>PRO</td>
-  <td><a href="./crypto/propy@ethereum.json">propy@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/propy">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/propy/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x226bb599a12c826476e3a771454697ea52e9e220">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">490</td>
   <td style="text-align: center;">
     <img src="logo/celo-dollar.svg" width="40px" height="40px"/>
   </td>
@@ -10487,24 +10435,23 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">491</td>
+  <td rowspan="1">489</td>
   <td style="text-align: center;">
-    <img src="logo/power-ledger.svg" width="40px" height="40px"/>
+    <img src="logo/waves.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/power-ledger.svg" width="40px" height="40px"/>
+    <img src="logo-dark/waves.svg" width="40px" height="40px"/>
   </td>
-  <td>Powerledger</td>
-  <td>POWR</td>
-  <td><a href="./crypto/power-ledger@ethereum.json">power-ledger@ethereum</a></td>
+  <td>Waves</td>
+  <td>WAVES</td>
+  <td><a href="./crypto/waves@waves.json">waves@waves</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/power-ledger">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/power-ledger/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x595832f8fc6bf59c85c527fec3740a1b7a361269">EtherScan</a><br>
+    <a href="https://www.coingecko.com/en/coins/waves">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/waves/">Coinmarketcap</a><br>
   </td>
 </tr>
 <tr>
-  <td rowspan="3">500</td>
+  <td rowspan="3">492</td>
   <td style="text-align: center;">
     <img src="logo/iotex.svg" width="40px" height="40px"/>
   </td>
@@ -10552,24 +10499,40 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">503</td>
+  <td rowspan="1">501</td>
   <td style="text-align: center;">
-    <img src="logo/skyai.svg" width="40px" height="40px"/>
+    <img src="logo/bifrost.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/skyai.svg" width="40px" height="40px"/>
+    <img src="logo-dark/bifrost.svg" width="40px" height="40px"/>
   </td>
-  <td>SKYAI</td>
-  <td>SKYAI</td>
-  <td><a href="./crypto/skyai@binance-smart-chain.json">skyai@binance-smart-chain</a></td>
+  <td>Bifrost</td>
+  <td>BFC</td>
+  <td><a href="./crypto/bifrost@ethereum.json">bifrost@ethereum</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/skyai">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/skyai/">Coinmarketcap</a><br>
-    <a href="https://bscscan.com/token/0x92aa03137385f18539301349dcfc9ebc923ffb10">BscScan</a><br>
+    <a href="https://www.coingecko.com/en/coins/bifrost">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/bifrost/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x0c7d5ae016f806603cb1782bea29ac69471cab9c">EtherScan</a><br>
   </td>
 </tr>
 <tr>
-  <td rowspan="5">507</td>
+  <td rowspan="1">503</td>
+  <td style="text-align: center;">
+    <img src="logo/solayer.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/solayer.svg" width="40px" height="40px"/>
+  </td>
+  <td>Solayer</td>
+  <td>LAYER</td>
+  <td><a href="./crypto/solayer@solana.json">solayer@solana</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/solayer">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/solayer/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="5">504</td>
   <td style="text-align: center;">
     <img src="logo/binance-usd.svg" width="40px" height="40px"/>
   </td>
@@ -10647,7 +10610,58 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="2">509</td>
+  <td rowspan="1">517</td>
+  <td style="text-align: center;">
+    <img src="logo/velvet.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/velvet.svg" width="40px" height="40px"/>
+  </td>
+  <td>Velvet</td>
+  <td>VELVET</td>
+  <td><a href="./crypto/velvet@binance-smart-chain.json">velvet@binance-smart-chain</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/velvet">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/velvet/">Coinmarketcap</a><br>
+    <a href="https://bscscan.com/token/0x8b194370825e37b33373e74a41009161808c1488">BscScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">518</td>
+  <td style="text-align: center;">
+    <img src="logo/bancor-network-token.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/bancor-network-token.svg" width="40px" height="40px"/>
+  </td>
+  <td>Bancor</td>
+  <td>BNT</td>
+  <td><a href="./crypto/bancor-network-token@ethereum.json">bancor-network-token@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/bancor">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/bancor/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">519</td>
+  <td style="text-align: center;">
+    <img src="logo/power-ledger.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/power-ledger.svg" width="40px" height="40px"/>
+  </td>
+  <td>Powerledger</td>
+  <td>POWR</td>
+  <td><a href="./crypto/power-ledger@ethereum.json">power-ledger@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/power-ledger">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/power-ledger/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x595832f8fc6bf59c85c527fec3740a1b7a361269">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="2">520</td>
   <td style="text-align: center;">
     <img src="logo/changenow.svg" width="40px" height="40px"/>
   </td>
@@ -10680,73 +10694,24 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">517</td>
+  <td rowspan="1">530</td>
   <td style="text-align: center;">
-    <img src="logo/bancor-network-token.svg" width="40px" height="40px"/>
+    <img src="logo/skyai.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/bancor-network-token.svg" width="40px" height="40px"/>
+    <img src="logo-dark/skyai.svg" width="40px" height="40px"/>
   </td>
-  <td>Bancor</td>
-  <td>BNT</td>
-  <td><a href="./crypto/bancor-network-token@ethereum.json">bancor-network-token@ethereum</a></td>
+  <td>SKYAI</td>
+  <td>SKYAI</td>
+  <td><a href="./crypto/skyai@binance-smart-chain.json">skyai@binance-smart-chain</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/bancor">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/bancor/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c">EtherScan</a><br>
+    <a href="https://www.coingecko.com/en/coins/skyai">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/skyai/">Coinmarketcap</a><br>
+    <a href="https://bscscan.com/token/0x92aa03137385f18539301349dcfc9ebc923ffb10">BscScan</a><br>
   </td>
 </tr>
 <tr>
-  <td rowspan="1">525</td>
-  <td style="text-align: center;">
-    <img src="logo/harmony.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/harmony.svg" width="40px" height="40px"/>
-  </td>
-  <td>Harmony</td>
-  <td>ONE</td>
-  <td><a href="./crypto/harmony@harmony.json">harmony@harmony</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/harmony">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/harmony/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">528</td>
-  <td style="text-align: center;">
-    <img src="logo/velvet.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/velvet.svg" width="40px" height="40px"/>
-  </td>
-  <td>Velvet</td>
-  <td>VELVET</td>
-  <td><a href="./crypto/velvet@binance-smart-chain.json">velvet@binance-smart-chain</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/velvet">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/velvet/">Coinmarketcap</a><br>
-    <a href="https://bscscan.com/token/0x8b194370825e37b33373e74a41009161808c1488">BscScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">529</td>
-  <td style="text-align: center;">
-    <img src="logo/hive.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/hive.svg" width="40px" height="40px"/>
-  </td>
-  <td>Hive</td>
-  <td>HIVE</td>
-  <td><a href="./crypto/hive@hive.json">hive@hive</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/hive">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/hive-blockchain/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">531</td>
+  <td rowspan="1">533</td>
   <td style="text-align: center;">
     <img src="logo/orbs.svg" width="40px" height="40px"/>
   </td>
@@ -10763,24 +10728,57 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">539</td>
+  <td rowspan="1">534</td>
   <td style="text-align: center;">
-    <img src="logo/audiera.svg" width="40px" height="40px"/>
+    <img src="logo/skale.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/audiera.svg" width="40px" height="40px"/>
+    <img src="logo-dark/skale.svg" width="40px" height="40px"/>
   </td>
-  <td>Audiera</td>
-  <td>BEAT</td>
-  <td><a href="./crypto/audiera@binance-smart-chain.json">audiera@binance-smart-chain</a></td>
+  <td>SKALE</td>
+  <td>SKL</td>
+  <td><a href="./crypto/skale@ethereum.json">skale@ethereum</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/audiera">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/audiera/">Coinmarketcap</a><br>
-    <a href="https://bscscan.com/token/0xcf3232b85b43bca90e51d38cc06cc8bb8c8a3e36">BscScan</a><br>
+    <a href="https://www.coingecko.com/en/coins/skale">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/skale-network/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x00c83aecc790e8a4453e5dd3b0b4b3680501a7a7">EtherScan</a><br>
   </td>
 </tr>
 <tr>
-  <td rowspan="2">542</td>
+  <td rowspan="1">535</td>
+  <td style="text-align: center;">
+    <img src="logo/hive.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/hive.svg" width="40px" height="40px"/>
+  </td>
+  <td>Hive</td>
+  <td>HIVE</td>
+  <td><a href="./crypto/hive@hive.json">hive@hive</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/hive">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/hive-blockchain/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">540</td>
+  <td style="text-align: center;">
+    <img src="logo/blur.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/blur.svg" width="40px" height="40px"/>
+  </td>
+  <td>Blur</td>
+  <td>BLUR</td>
+  <td><a href="./crypto/blur@ethereum.json">blur@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/blur">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/blur-token/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x5283d291dbcf85356a21ba090e6db59121208b44">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="2">541</td>
   <td style="text-align: center;">
     <img src="logo/dogelon-mars.svg" width="40px" height="40px"/>
   </td>
@@ -10812,7 +10810,40 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">557</td>
+  <td rowspan="2">544</td>
+  <td style="text-align: center;">
+    <img src="logo/cartesi.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/cartesi.svg" width="40px" height="40px"/>
+  </td>
+  <td>Cartesi</td>
+  <td>CTSI</td>
+  <td><a href="./crypto/cartesi@binance-smart-chain.json">cartesi@binance-smart-chain</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/cartesi">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/cartesi/">Coinmarketcap</a><br>
+    <a href="https://bscscan.com/token/0x8da443f84fea710266c8eb6bc34b71702d033ef2">BscScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/cartesi.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/cartesi.svg" width="40px" height="40px"/>
+  </td>
+  <td>Cartesi</td>
+  <td>CTSI</td>
+  <td><a href="./crypto/cartesi@ethereum.json">cartesi@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/cartesi">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/cartesi/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x491604c0fdf08347dd1fa4ee062a822a5dd06b5d">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">549</td>
   <td style="text-align: center;">
     <img src="logo/iost.svg" width="40px" height="40px"/>
   </td>
@@ -10828,7 +10859,41 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">568</td>
+  <td rowspan="1">554</td>
+  <td style="text-align: center;">
+    <img src="logo/metis-token.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/metis-token.svg" width="40px" height="40px"/>
+  </td>
+  <td>Metis</td>
+  <td>METIS</td>
+  <td><a href="./crypto/metis-token@ethereum.json">metis-token@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/metis-token">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/metisdao/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x9e32b13ce7f2e80a01932b42553652e053d6ed8e">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">570</td>
+  <td style="text-align: center;">
+    <img src="logo/audiera.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/audiera.svg" width="40px" height="40px"/>
+  </td>
+  <td>Audiera</td>
+  <td>BEAT</td>
+  <td><a href="./crypto/audiera@binance-smart-chain.json">audiera@binance-smart-chain</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/audiera">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/audiera/">Coinmarketcap</a><br>
+    <a href="https://bscscan.com/token/0xcf3232b85b43bca90e51d38cc06cc8bb8c8a3e36">BscScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">573</td>
   <td style="text-align: center;">
     <img src="logo/pundi-x.svg" width="40px" height="40px"/>
   </td>
@@ -10845,41 +10910,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">574</td>
-  <td style="text-align: center;">
-    <img src="logo/myx-finance.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/myx-finance.svg" width="40px" height="40px"/>
-  </td>
-  <td>MYX Finance</td>
-  <td>MYX</td>
-  <td><a href="./crypto/myx-finance@binance-smart-chain.json">myx-finance@binance-smart-chain</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/myx-finance">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/myx-finance/">Coinmarketcap</a><br>
-    <a href="https://bscscan.com/token/0xd82544bf0dfe8385ef8fa34d67e6e4940cc63e16">BscScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">575</td>
-  <td style="text-align: center;">
-    <img src="logo/civic.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/civic.svg" width="40px" height="40px"/>
-  </td>
-  <td>Civic</td>
-  <td>CVC</td>
-  <td><a href="./crypto/civic@ethereum.json">civic@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/civic">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/civic/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x41e5560054824ea6b0732e656e3ad64e20e94e45">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="3">577</td>
+  <td rowspan="3">585</td>
   <td style="text-align: center;">
     <img src="logo/kyber-network-crystal.svg" width="40px" height="40px"/>
   </td>
@@ -10927,7 +10958,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">581</td>
+  <td rowspan="1">586</td>
   <td style="text-align: center;">
     <img src="logo/illuvium.svg" width="40px" height="40px"/>
   </td>
@@ -10944,7 +10975,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">585</td>
+  <td rowspan="1">589</td>
   <td style="text-align: center;">
     <img src="logo/ardor.svg" width="40px" height="40px"/>
   </td>
@@ -10960,106 +10991,23 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="2">587</td>
+  <td rowspan="1">595</td>
   <td style="text-align: center;">
-    <img src="logo/cartesi.svg" width="40px" height="40px"/>
+    <img src="logo/ravencoin.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/cartesi.svg" width="40px" height="40px"/>
+    <img src="logo-dark/ravencoin.svg" width="40px" height="40px"/>
   </td>
-  <td>Cartesi</td>
-  <td>CTSI</td>
-  <td><a href="./crypto/cartesi@binance-smart-chain.json">cartesi@binance-smart-chain</a></td>
+  <td>Ravencoin</td>
+  <td>RVN</td>
+  <td><a href="./crypto/ravencoin@ravencoin.json">ravencoin@ravencoin</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/cartesi">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/cartesi/">Coinmarketcap</a><br>
-    <a href="https://bscscan.com/token/0x8da443f84fea710266c8eb6bc34b71702d033ef2">BscScan</a><br>
+    <a href="https://www.coingecko.com/en/coins/ravencoin">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/ravencoin/">Coinmarketcap</a><br>
   </td>
 </tr>
 <tr>
-  <td style="text-align: center;">
-    <img src="logo/cartesi.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/cartesi.svg" width="40px" height="40px"/>
-  </td>
-  <td>Cartesi</td>
-  <td>CTSI</td>
-  <td><a href="./crypto/cartesi@ethereum.json">cartesi@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/cartesi">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/cartesi/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x491604c0fdf08347dd1fa4ee062a822a5dd06b5d">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">592</td>
-  <td style="text-align: center;">
-    <img src="logo/api3.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/api3.svg" width="40px" height="40px"/>
-  </td>
-  <td>API3</td>
-  <td>API3</td>
-  <td><a href="./crypto/api3@ethereum.json">api3@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/api3">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/api3/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x0b38210ea11411557c13457d4da7dc6ea731b88a">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">593</td>
-  <td style="text-align: center;">
-    <img src="logo/skale.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/skale.svg" width="40px" height="40px"/>
-  </td>
-  <td>SKALE</td>
-  <td>SKL</td>
-  <td><a href="./crypto/skale@ethereum.json">skale@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/skale">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/skale-network/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x00c83aecc790e8a4453e5dd3b0b4b3680501a7a7">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="2">605</td>
-  <td style="text-align: center;">
-    <img src="logo/wax.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/wax.svg" width="40px" height="40px"/>
-  </td>
-  <td>WAX</td>
-  <td>WAXP</td>
-  <td><a href="./crypto/wax@wax.json">wax@wax</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/wax">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/wax/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/wax.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/wax.svg" width="40px" height="40px"/>
-  </td>
-  <td>WAX</td>
-  <td>WAXP</td>
-  <td><a href="./crypto/wax@ethereum.json">wax@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/wax">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/wax/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x2a79324c19ef2b89ea98b23bc669b7e7c9f8a517">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">609</td>
+  <td rowspan="1">598</td>
   <td style="text-align: center;">
     <img src="logo/liquity-usd.svg" width="40px" height="40px"/>
   </td>
@@ -11076,57 +11024,40 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">612</td>
+  <td rowspan="1">599</td>
   <td style="text-align: center;">
-    <img src="logo/metis-token.svg" width="40px" height="40px"/>
+    <img src="logo/api3.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/metis-token.svg" width="40px" height="40px"/>
+    <img src="logo-dark/api3.svg" width="40px" height="40px"/>
   </td>
-  <td>Metis</td>
-  <td>METIS</td>
-  <td><a href="./crypto/metis-token@ethereum.json">metis-token@ethereum</a></td>
+  <td>API3</td>
+  <td>API3</td>
+  <td><a href="./crypto/api3@ethereum.json">api3@ethereum</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/metis-token">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/metisdao/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x9e32b13ce7f2e80a01932b42553652e053d6ed8e">EtherScan</a><br>
+    <a href="https://www.coingecko.com/en/coins/api3">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/api3/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x0b38210ea11411557c13457d4da7dc6ea731b88a">EtherScan</a><br>
   </td>
 </tr>
 <tr>
-  <td rowspan="1">613</td>
+  <td rowspan="1">605</td>
   <td style="text-align: center;">
-    <img src="logo/pax-dollar.svg" width="40px" height="40px"/>
+    <img src="logo/harmony.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/pax-dollar.svg" width="40px" height="40px"/>
+    <img src="logo-dark/harmony.svg" width="40px" height="40px"/>
   </td>
-  <td>Pax Dollar</td>
-  <td>USDP</td>
-  <td><a href="./crypto/pax-dollar@ethereum.json">pax-dollar@ethereum</a></td>
+  <td>Harmony</td>
+  <td>ONE</td>
+  <td><a href="./crypto/harmony@harmony.json">harmony@harmony</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/paxos-standard">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/paxos-standard/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x8e870d67f660d95d5be530380d0ec0bd388289e1">EtherScan</a><br>
+    <a href="https://www.coingecko.com/en/coins/harmony">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/harmony/">Coinmarketcap</a><br>
   </td>
 </tr>
 <tr>
-  <td rowspan="1">616</td>
-  <td style="text-align: center;">
-    <img src="logo/ergo.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/ergo.svg" width="40px" height="40px"/>
-  </td>
-  <td>Ergo</td>
-  <td>ERG</td>
-  <td><a href="./crypto/ergo@ergo.json">ergo@ergo</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/ergo">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/ergo/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="4">618</td>
+  <td rowspan="4">608</td>
   <td style="text-align: center;">
     <img src="logo/stepn.svg" width="40px" height="40px"/>
   </td>
@@ -11189,40 +11120,41 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="2">620</td>
+  <td rowspan="1">610</td>
   <td style="text-align: center;">
-    <img src="logo/auction.svg" width="40px" height="40px"/>
+    <img src="logo/myx-finance.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/auction.svg" width="40px" height="40px"/>
+    <img src="logo-dark/myx-finance.svg" width="40px" height="40px"/>
   </td>
-  <td>Bounce Token</td>
-  <td>AUCTION</td>
-  <td><a href="./crypto/auction@binance-smart-chain.json">auction@binance-smart-chain</a></td>
+  <td>MYX Finance</td>
+  <td>MYX</td>
+  <td><a href="./crypto/myx-finance@binance-smart-chain.json">myx-finance@binance-smart-chain</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/auction">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/bounce-token/">Coinmarketcap</a><br>
-    <a href="https://bscscan.com/token/0x1188d953afc697c031851169eef640f23ac8529c">BscScan</a><br>
+    <a href="https://www.coingecko.com/en/coins/myx-finance">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/myx-finance/">Coinmarketcap</a><br>
+    <a href="https://bscscan.com/token/0xd82544bf0dfe8385ef8fa34d67e6e4940cc63e16">BscScan</a><br>
   </td>
 </tr>
 <tr>
+  <td rowspan="1">611</td>
   <td style="text-align: center;">
-    <img src="logo/auction.svg" width="40px" height="40px"/>
+    <img src="logo/pax-dollar.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/auction.svg" width="40px" height="40px"/>
+    <img src="logo-dark/pax-dollar.svg" width="40px" height="40px"/>
   </td>
-  <td>Bounce Token</td>
-  <td>AUCTION</td>
-  <td><a href="./crypto/auction@ethereum.json">auction@ethereum</a></td>
+  <td>Pax Dollar</td>
+  <td>USDP</td>
+  <td><a href="./crypto/pax-dollar@ethereum.json">pax-dollar@ethereum</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/auction">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/bounce-token/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0xa9b1eb5908cfc3cdf91f9b8b3a74108598009096">EtherScan</a><br>
+    <a href="https://www.coingecko.com/en/coins/paxos-standard">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/paxos-standard/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x8e870d67f660d95d5be530380d0ec0bd388289e1">EtherScan</a><br>
   </td>
 </tr>
 <tr>
-  <td rowspan="2">645</td>
+  <td rowspan="2">614</td>
   <td style="text-align: center;">
     <img src="logo/yield-guild-games.svg" width="40px" height="40px"/>
   </td>
@@ -11255,7 +11187,155 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="4">648</td>
+  <td rowspan="1">615</td>
+  <td style="text-align: center;">
+    <img src="logo/ergo.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/ergo.svg" width="40px" height="40px"/>
+  </td>
+  <td>Ergo</td>
+  <td>ERG</td>
+  <td><a href="./crypto/ergo@ergo.json">ergo@ergo</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/ergo">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/ergo/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="2">618</td>
+  <td style="text-align: center;">
+    <img src="logo/auction.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/auction.svg" width="40px" height="40px"/>
+  </td>
+  <td>Bounce Token</td>
+  <td>AUCTION</td>
+  <td><a href="./crypto/auction@binance-smart-chain.json">auction@binance-smart-chain</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/auction">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/bounce-token/">Coinmarketcap</a><br>
+    <a href="https://bscscan.com/token/0x1188d953afc697c031851169eef640f23ac8529c">BscScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/auction.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/auction.svg" width="40px" height="40px"/>
+  </td>
+  <td>Bounce Token</td>
+  <td>AUCTION</td>
+  <td><a href="./crypto/auction@ethereum.json">auction@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/auction">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/bounce-token/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0xa9b1eb5908cfc3cdf91f9b8b3a74108598009096">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">619</td>
+  <td style="text-align: center;">
+    <img src="logo/origin-protocol.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/origin-protocol.svg" width="40px" height="40px"/>
+  </td>
+  <td>Origin Protocol</td>
+  <td>OGN</td>
+  <td><a href="./crypto/origin-protocol@ethereum.json">origin-protocol@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/origin-protocol">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/origin-protocol/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x8207c1ffc5b6804f6024322ccf34f29c3541ae26">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">621</td>
+  <td style="text-align: center;">
+    <img src="logo/civic.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/civic.svg" width="40px" height="40px"/>
+  </td>
+  <td>Civic</td>
+  <td>CVC</td>
+  <td><a href="./crypto/civic@ethereum.json">civic@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/civic">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/civic/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x41e5560054824ea6b0732e656e3ad64e20e94e45">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="2">623</td>
+  <td style="text-align: center;">
+    <img src="logo/wax.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/wax.svg" width="40px" height="40px"/>
+  </td>
+  <td>WAX</td>
+  <td>WAXP</td>
+  <td><a href="./crypto/wax@wax.json">wax@wax</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/wax">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/wax/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/wax.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/wax.svg" width="40px" height="40px"/>
+  </td>
+  <td>WAX</td>
+  <td>WAXP</td>
+  <td><a href="./crypto/wax@ethereum.json">wax@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/wax">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/wax/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x2a79324c19ef2b89ea98b23bc669b7e7c9f8a517">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="2">626</td>
+  <td style="text-align: center;">
+    <img src="logo/celer-network.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/celer-network.svg" width="40px" height="40px"/>
+  </td>
+  <td>Celer Network</td>
+  <td>CELR</td>
+  <td><a href="./crypto/celer-network@binance-smart-chain.json">celer-network@binance-smart-chain</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/celer-network">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/celer-network/">Coinmarketcap</a><br>
+    <a href="https://bscscan.com/token/0x1f9f6a696c6fd109cd3956f45dc709d2b3902163">BscScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/celer-network.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/celer-network.svg" width="40px" height="40px"/>
+  </td>
+  <td>Celer Network</td>
+  <td>CELR</td>
+  <td><a href="./crypto/celer-network@ethereum.json">celer-network@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/celer-network">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/celer-network/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x4f9254c83eb525f9fcf346490bbb3ed28a81c667">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="4">633</td>
   <td style="text-align: center;">
     <img src="logo/woo-network.svg" width="40px" height="40px"/>
   </td>
@@ -11318,7 +11398,24 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">649</td>
+  <td rowspan="1">640</td>
+  <td style="text-align: center;">
+    <img src="logo/audius.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/audius.svg" width="40px" height="40px"/>
+  </td>
+  <td>Audius</td>
+  <td>AUDIO</td>
+  <td><a href="./crypto/audius@ethereum.json">audius@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/audius">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/audius/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x18aaa7115705e8be94bffebde57af9bfc265b998">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">643</td>
   <td style="text-align: center;">
     <img src="logo/everipedia.svg" width="40px" height="40px"/>
   </td>
@@ -11335,7 +11432,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="2">652</td>
+  <td rowspan="2">651</td>
   <td style="text-align: center;">
     <img src="logo/smooth-love-potion.svg" width="40px" height="40px"/>
   </td>
@@ -11368,24 +11465,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">655</td>
-  <td style="text-align: center;">
-    <img src="logo/audius.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/audius.svg" width="40px" height="40px"/>
-  </td>
-  <td>Audius</td>
-  <td>AUDIO</td>
-  <td><a href="./crypto/audius@ethereum.json">audius@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/audius">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/audius/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x18aaa7115705e8be94bffebde57af9bfc265b998">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">658</td>
+  <td rowspan="1">664</td>
   <td style="text-align: center;">
     <img src="logo/dogs.svg" width="40px" height="40px"/>
   </td>
@@ -11401,7 +11481,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">661</td>
+  <td rowspan="1">677</td>
   <td style="text-align: center;">
     <img src="logo/liquity.svg" width="40px" height="40px"/>
   </td>
@@ -11418,40 +11498,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="2">662</td>
-  <td style="text-align: center;">
-    <img src="logo/celer-network.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/celer-network.svg" width="40px" height="40px"/>
-  </td>
-  <td>Celer Network</td>
-  <td>CELR</td>
-  <td><a href="./crypto/celer-network@binance-smart-chain.json">celer-network@binance-smart-chain</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/celer-network">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/celer-network/">Coinmarketcap</a><br>
-    <a href="https://bscscan.com/token/0x1f9f6a696c6fd109cd3956f45dc709d2b3902163">BscScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/celer-network.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/celer-network.svg" width="40px" height="40px"/>
-  </td>
-  <td>Celer Network</td>
-  <td>CELR</td>
-  <td><a href="./crypto/celer-network@ethereum.json">celer-network@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/celer-network">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/celer-network/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x4f9254c83eb525f9fcf346490bbb3ed28a81c667">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="2">679</td>
+  <td rowspan="2">684</td>
   <td style="text-align: center;">
     <img src="logo/chromia.svg" width="40px" height="40px"/>
   </td>
@@ -11484,57 +11531,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">696</td>
-  <td style="text-align: center;">
-    <img src="logo/bonfida.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/bonfida.svg" width="40px" height="40px"/>
-  </td>
-  <td>Solana Name Service</td>
-  <td>FIDA</td>
-  <td><a href="./crypto/bonfida@solana.json">bonfida@solana</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/bonfida">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/bonfida-sns/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">700</td>
-  <td style="text-align: center;">
-    <img src="logo/biconomy.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/biconomy.svg" width="40px" height="40px"/>
-  </td>
-  <td>Biconomy</td>
-  <td>BICO</td>
-  <td><a href="./crypto/biconomy@ethereum.json">biconomy@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/biconomy">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/biconomy/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0xf17e65822b568b3903685a7c9f496cf7656cc6c2">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">701</td>
-  <td style="text-align: center;">
-    <img src="logo/quarkchain.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/quarkchain.svg" width="40px" height="40px"/>
-  </td>
-  <td>QuarkChain</td>
-  <td>QKC</td>
-  <td><a href="./crypto/quarkchain@ethereum.json">quarkchain@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/quark-chain">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/quarkchain/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0xea26c4ac16d4a5a106820bc8aee85fd0b7b2b664">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="2">715</td>
+  <td rowspan="2">685</td>
   <td style="text-align: center;">
     <img src="logo/dia.svg" width="40px" height="40px"/>
   </td>
@@ -11567,74 +11564,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">726</td>
-  <td style="text-align: center;">
-    <img src="logo/radicle.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/radicle.svg" width="40px" height="40px"/>
-  </td>
-  <td>Radworks</td>
-  <td>RAD</td>
-  <td><a href="./crypto/radicle@ethereum.json">radicle@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/radicle">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/radworks/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x31c8eacbffdd875c74b94b077895bd78cf1e64a3">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">736</td>
-  <td style="text-align: center;">
-    <img src="logo/symbol.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/symbol.svg" width="40px" height="40px"/>
-  </td>
-  <td>Symbol</td>
-  <td>XYM</td>
-  <td><a href="./crypto/symbol@symbol.json">symbol@symbol</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/symbol">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/symbol/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">745</td>
-  <td style="text-align: center;">
-    <img src="logo/adventure-gold.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/adventure-gold.svg" width="40px" height="40px"/>
-  </td>
-  <td>Adventure Gold</td>
-  <td>AGLD</td>
-  <td><a href="./crypto/adventure-gold@ethereum.json">adventure-gold@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/adventure-gold">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/adventure-gold/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x32353a6c91143bfd6c7d363b546e62a9a2489a20">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">748</td>
-  <td style="text-align: center;">
-    <img src="logo/siren.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/siren.svg" width="40px" height="40px"/>
-  </td>
-  <td>siren</td>
-  <td>SIREN</td>
-  <td><a href="./crypto/siren@binance-smart-chain.json">siren@binance-smart-chain</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/siren-2">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/siren-bsc/">Coinmarketcap</a><br>
-    <a href="https://bscscan.com/token/0x997a58129890bbda032231a52ed1ddc845fc18e1">BscScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="2">749</td>
+  <td rowspan="2">686</td>
   <td style="text-align: center;">
     <img src="logo/dodo.svg" width="40px" height="40px"/>
   </td>
@@ -11667,7 +11597,73 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="2">757</td>
+  <td rowspan="1">690</td>
+  <td style="text-align: center;">
+    <img src="logo/bonfida.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/bonfida.svg" width="40px" height="40px"/>
+  </td>
+  <td>Solana Name Service</td>
+  <td>FIDA</td>
+  <td><a href="./crypto/bonfida@solana.json">bonfida@solana</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/bonfida">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/bonfida-sns/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">712</td>
+  <td style="text-align: center;">
+    <img src="logo/symbol.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/symbol.svg" width="40px" height="40px"/>
+  </td>
+  <td>Symbol</td>
+  <td>XYM</td>
+  <td><a href="./crypto/symbol@symbol.json">symbol@symbol</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/symbol">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/symbol/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">720</td>
+  <td style="text-align: center;">
+    <img src="logo/quarkchain.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/quarkchain.svg" width="40px" height="40px"/>
+  </td>
+  <td>QuarkChain</td>
+  <td>QKC</td>
+  <td><a href="./crypto/quarkchain@ethereum.json">quarkchain@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/quark-chain">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/quarkchain/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0xea26c4ac16d4a5a106820bc8aee85fd0b7b2b664">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">722</td>
+  <td style="text-align: center;">
+    <img src="logo/siren.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/siren.svg" width="40px" height="40px"/>
+  </td>
+  <td>siren</td>
+  <td>SIREN</td>
+  <td><a href="./crypto/siren@binance-smart-chain.json">siren@binance-smart-chain</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/siren-2">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/siren-bsc/">Coinmarketcap</a><br>
+    <a href="https://bscscan.com/token/0x997a58129890bbda032231a52ed1ddc845fc18e1">BscScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="2">729</td>
   <td style="text-align: center;">
     <img src="logo/firo.svg" width="40px" height="40px"/>
   </td>
@@ -11699,89 +11695,58 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="2">761</td>
+  <td rowspan="1">732</td>
   <td style="text-align: center;">
-    <img src="logo/my-neighbor-alice.svg" width="40px" height="40px"/>
+    <img src="logo/radicle.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/my-neighbor-alice.svg" width="40px" height="40px"/>
+    <img src="logo-dark/radicle.svg" width="40px" height="40px"/>
   </td>
-  <td>MyNeighborAlice</td>
-  <td>ALICE</td>
-  <td><a href="./crypto/my-neighbor-alice@binance-smart-chain.json">my-neighbor-alice@binance-smart-chain</a></td>
+  <td>Radworks</td>
+  <td>RAD</td>
+  <td><a href="./crypto/radicle@ethereum.json">radicle@ethereum</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/my-neighbor-alice">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/myneighboralice/">Coinmarketcap</a><br>
-    <a href="https://bscscan.com/token/0xac51066d7bec65dc4589368da368b212745d63e8">BscScan</a><br>
+    <a href="https://www.coingecko.com/en/coins/radicle">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/radworks/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x31c8eacbffdd875c74b94b077895bd78cf1e64a3">EtherScan</a><br>
   </td>
 </tr>
 <tr>
+  <td rowspan="1">748</td>
   <td style="text-align: center;">
-    <img src="logo/my-neighbor-alice.svg" width="40px" height="40px"/>
+    <img src="logo/adventure-gold.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/my-neighbor-alice.svg" width="40px" height="40px"/>
+    <img src="logo-dark/adventure-gold.svg" width="40px" height="40px"/>
   </td>
-  <td>MyNeighborAlice</td>
-  <td>ALICE</td>
-  <td><a href="./crypto/my-neighbor-alice@ethereum.json">my-neighbor-alice@ethereum</a></td>
+  <td>Adventure Gold</td>
+  <td>AGLD</td>
+  <td><a href="./crypto/adventure-gold@ethereum.json">adventure-gold@ethereum</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/my-neighbor-alice">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/myneighboralice/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0xac51066d7bec65dc4589368da368b212745d63e8">EtherScan</a><br>
+    <a href="https://www.coingecko.com/en/coins/adventure-gold">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/adventure-gold/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x32353a6c91143bfd6c7d363b546e62a9a2489a20">EtherScan</a><br>
   </td>
 </tr>
 <tr>
-  <td rowspan="1">762</td>
+  <td rowspan="1">751</td>
   <td style="text-align: center;">
-    <img src="logo/pippin.svg" width="40px" height="40px"/>
+    <img src="logo/biconomy.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/pippin.svg" width="40px" height="40px"/>
+    <img src="logo-dark/biconomy.svg" width="40px" height="40px"/>
   </td>
-  <td>pippin</td>
-  <td>PIPPIN</td>
-  <td><a href="./crypto/pippin@solana.json">pippin@solana</a></td>
+  <td>Biconomy</td>
+  <td>BICO</td>
+  <td><a href="./crypto/biconomy@ethereum.json">biconomy@ethereum</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/pippin">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/pippin/">Coinmarketcap</a><br>
+    <a href="https://www.coingecko.com/en/coins/biconomy">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/biconomy/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0xf17e65822b568b3903685a7c9f496cf7656cc6c2">EtherScan</a><br>
   </td>
 </tr>
 <tr>
-  <td rowspan="2">777</td>
-  <td style="text-align: center;">
-    <img src="logo/arpa-chain.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/arpa-chain.svg" width="40px" height="40px"/>
-  </td>
-  <td>ARPA</td>
-  <td>ARPA</td>
-  <td><a href="./crypto/arpa-chain@binance-smart-chain.json">arpa-chain@binance-smart-chain</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/arpa">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/arpa-chain/">Coinmarketcap</a><br>
-    <a href="https://bscscan.com/token/0x6f769e65c14ebd1f68817f5f1dcdb61cfa2d6f7e">BscScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/arpa-chain.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/arpa-chain.svg" width="40px" height="40px"/>
-  </td>
-  <td>ARPA</td>
-  <td>ARPA</td>
-  <td><a href="./crypto/arpa-chain@ethereum.json">arpa-chain@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/arpa">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/arpa-chain/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0xba50933c268f567bdc86e1ac131be072c6b0b71a">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="3">788</td>
+  <td rowspan="3">756</td>
   <td style="text-align: center;">
     <img src="logo/coin98.svg" width="40px" height="40px"/>
   </td>
@@ -11829,7 +11794,123 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">808</td>
+  <td rowspan="2">763</td>
+  <td style="text-align: center;">
+    <img src="logo/arpa-chain.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/arpa-chain.svg" width="40px" height="40px"/>
+  </td>
+  <td>ARPA</td>
+  <td>ARPA</td>
+  <td><a href="./crypto/arpa-chain@binance-smart-chain.json">arpa-chain@binance-smart-chain</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/arpa">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/arpa-chain/">Coinmarketcap</a><br>
+    <a href="https://bscscan.com/token/0x6f769e65c14ebd1f68817f5f1dcdb61cfa2d6f7e">BscScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/arpa-chain.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/arpa-chain.svg" width="40px" height="40px"/>
+  </td>
+  <td>ARPA</td>
+  <td>ARPA</td>
+  <td><a href="./crypto/arpa-chain@ethereum.json">arpa-chain@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/arpa">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/arpa-chain/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0xba50933c268f567bdc86e1ac131be072c6b0b71a">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">767</td>
+  <td style="text-align: center;">
+    <img src="logo/pippin.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/pippin.svg" width="40px" height="40px"/>
+  </td>
+  <td>pippin</td>
+  <td>PIPPIN</td>
+  <td><a href="./crypto/pippin@solana.json">pippin@solana</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/pippin">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/pippin/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="2">779</td>
+  <td style="text-align: center;">
+    <img src="logo/my-neighbor-alice.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/my-neighbor-alice.svg" width="40px" height="40px"/>
+  </td>
+  <td>MyNeighborAlice</td>
+  <td>ALICE</td>
+  <td><a href="./crypto/my-neighbor-alice@binance-smart-chain.json">my-neighbor-alice@binance-smart-chain</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/my-neighbor-alice">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/myneighboralice/">Coinmarketcap</a><br>
+    <a href="https://bscscan.com/token/0xac51066d7bec65dc4589368da368b212745d63e8">BscScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/my-neighbor-alice.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/my-neighbor-alice.svg" width="40px" height="40px"/>
+  </td>
+  <td>MyNeighborAlice</td>
+  <td>ALICE</td>
+  <td><a href="./crypto/my-neighbor-alice@ethereum.json">my-neighbor-alice@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/my-neighbor-alice">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/myneighboralice/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0xac51066d7bec65dc4589368da368b212745d63e8">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">858</td>
+  <td style="text-align: center;">
+    <img src="logo/loopring.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/loopring.svg" width="40px" height="40px"/>
+  </td>
+  <td>Loopring</td>
+  <td>LRC</td>
+  <td><a href="./crypto/loopring@ethereum.json">loopring@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/loopring">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/loopring/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0xbbbbca6a901c926f240b89eacb641d8aec7aeafd">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">871</td>
+  <td style="text-align: center;">
+    <img src="logo/superrare.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/superrare.svg" width="40px" height="40px"/>
+  </td>
+  <td>SuperRare</td>
+  <td>RARE</td>
+  <td><a href="./crypto/superrare@ethereum.json">superrare@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/superrare">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/superrare/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0xba5bde662c17e2adff1075610382b9b691296350">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">892</td>
   <td style="text-align: center;">
     <img src="logo/icon.svg" width="40px" height="40px"/>
   </td>
@@ -11845,24 +11926,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">831</td>
-  <td style="text-align: center;">
-    <img src="logo/origin-protocol.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/origin-protocol.svg" width="40px" height="40px"/>
-  </td>
-  <td>Origin Protocol</td>
-  <td>OGN</td>
-  <td><a href="./crypto/origin-protocol@ethereum.json">origin-protocol@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/origin-protocol">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/origin-protocol/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x8207c1ffc5b6804f6024322ccf34f29c3541ae26">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="2">833</td>
+  <td rowspan="2">909</td>
   <td style="text-align: center;">
     <img src="logo/marlin.svg" width="40px" height="40px"/>
   </td>
@@ -11894,41 +11958,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">846</td>
-  <td style="text-align: center;">
-    <img src="logo/loopring.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/loopring.svg" width="40px" height="40px"/>
-  </td>
-  <td>Loopring</td>
-  <td>LRC</td>
-  <td><a href="./crypto/loopring@ethereum.json">loopring@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/loopring">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/loopring/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0xbbbbca6a901c926f240b89eacb641d8aec7aeafd">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">872</td>
-  <td style="text-align: center;">
-    <img src="logo/superrare.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/superrare.svg" width="40px" height="40px"/>
-  </td>
-  <td>SuperRare</td>
-  <td>RARE</td>
-  <td><a href="./crypto/superrare@ethereum.json">superrare@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/superrare">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/superrare/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0xba5bde662c17e2adff1075610382b9b691296350">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">883</td>
+  <td rowspan="1">915</td>
   <td style="text-align: center;">
     <img src="logo/storj.svg" width="40px" height="40px"/>
   </td>
@@ -11945,23 +11975,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">918</td>
-  <td style="text-align: center;">
-    <img src="logo/bitcoin-gold.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/bitcoin-gold.svg" width="40px" height="40px"/>
-  </td>
-  <td>Bitcoin Gold</td>
-  <td>BTG</td>
-  <td><a href="./crypto/bitcoin-gold@bitcoin-gold.json">bitcoin-gold@bitcoin-gold</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/bitcoin-gold">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/bitcoin-gold/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">919</td>
+  <td rowspan="1">980</td>
   <td style="text-align: center;">
     <img src="logo/gods-unchained.svg" width="40px" height="40px"/>
   </td>
@@ -11978,7 +11992,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">954</td>
+  <td rowspan="1">982</td>
   <td style="text-align: center;">
     <img src="logo/orchid-protocol.svg" width="40px" height="40px"/>
   </td>
@@ -11995,40 +12009,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="2">961</td>
-  <td style="text-align: center;">
-    <img src="logo/alien-worlds.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/alien-worlds.svg" width="40px" height="40px"/>
-  </td>
-  <td>Alien Worlds</td>
-  <td>TLM</td>
-  <td><a href="./crypto/alien-worlds@binance-smart-chain.json">alien-worlds@binance-smart-chain</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/alien-worlds">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/alien-worlds/">Coinmarketcap</a><br>
-    <a href="https://bscscan.com/token/0x2222227e22102fe3322098e4cbfe18cfebd57c95">BscScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/alien-worlds.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/alien-worlds.svg" width="40px" height="40px"/>
-  </td>
-  <td>Alien Worlds</td>
-  <td>TLM</td>
-  <td><a href="./crypto/alien-worlds@ethereum.json">alien-worlds@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/alien-worlds">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/alien-worlds/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x888888848b652b3e3a0f34c96e00eec0f3a23f72">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="2">993</td>
+  <td rowspan="2">1004</td>
   <td style="text-align: center;">
     <img src="logo/bella-protocol.svg" width="40px" height="40px"/>
   </td>
@@ -12061,7 +12042,40 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">1017</td>
+  <td rowspan="2">1006</td>
+  <td style="text-align: center;">
+    <img src="logo/alien-worlds.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/alien-worlds.svg" width="40px" height="40px"/>
+  </td>
+  <td>Alien Worlds</td>
+  <td>TLM</td>
+  <td><a href="./crypto/alien-worlds@binance-smart-chain.json">alien-worlds@binance-smart-chain</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/alien-worlds">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/alien-worlds/">Coinmarketcap</a><br>
+    <a href="https://bscscan.com/token/0x2222227e22102fe3322098e4cbfe18cfebd57c95">BscScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/alien-worlds.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/alien-worlds.svg" width="40px" height="40px"/>
+  </td>
+  <td>Alien Worlds</td>
+  <td>TLM</td>
+  <td><a href="./crypto/alien-worlds@ethereum.json">alien-worlds@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/alien-worlds">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/alien-worlds/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x888888848b652b3e3a0f34c96e00eec0f3a23f72">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">1034</td>
   <td style="text-align: center;">
     <img src="logo/balancer.svg" width="40px" height="40px"/>
   </td>
@@ -12078,7 +12092,23 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">1129</td>
+  <td rowspan="1">1039</td>
+  <td style="text-align: center;">
+    <img src="logo/komodo.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/komodo.svg" width="40px" height="40px"/>
+  </td>
+  <td>Komodo</td>
+  <td>KMD</td>
+  <td><a href="./crypto/komodo@komodo.json">komodo@komodo</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/komodo">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/komodo/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">1107</td>
   <td style="text-align: center;">
     <img src="logo/omg-network.svg" width="40px" height="40px"/>
   </td>
@@ -12095,7 +12125,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="2">1151</td>
+  <td rowspan="2">1161</td>
   <td style="text-align: center;">
     <img src="logo/badger-dao.svg" width="40px" height="40px"/>
   </td>
@@ -12127,24 +12157,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">1168</td>
-  <td style="text-align: center;">
-    <img src="logo/dent.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/dent.svg" width="40px" height="40px"/>
-  </td>
-  <td>Dent</td>
-  <td>DENT</td>
-  <td><a href="./crypto/dent@ethereum.json">dent@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/dent">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/dent/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x3597bfd533a99c9aa083587b074434e61eb0a258">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="2">1170</td>
+  <td rowspan="2">1176</td>
   <td style="text-align: center;">
     <img src="logo/polkastarter.svg" width="40px" height="40px"/>
   </td>
@@ -12177,7 +12190,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="2">1193</td>
+  <td rowspan="2">1221</td>
   <td style="text-align: center;">
     <img src="logo/radio-caca.svg" width="40px" height="40px"/>
   </td>
@@ -12210,7 +12223,40 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="2">1239</td>
+  <td rowspan="1">1223</td>
+  <td style="text-align: center;">
+    <img src="logo/bitcoin-gold.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/bitcoin-gold.svg" width="40px" height="40px"/>
+  </td>
+  <td>Bitcoin Gold</td>
+  <td>BTG</td>
+  <td><a href="./crypto/bitcoin-gold@bitcoin-gold.json">bitcoin-gold@bitcoin-gold</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/bitcoin-gold">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/bitcoin-gold/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">1241</td>
+  <td style="text-align: center;">
+    <img src="logo/dao-maker.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/dao-maker.svg" width="40px" height="40px"/>
+  </td>
+  <td>DAO Maker</td>
+  <td>DAO</td>
+  <td><a href="./crypto/dao-maker@ethereum.json">dao-maker@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/dao-maker">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/dao-maker/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x0f51bb10119727a7e5ea3538074fb341f56b09ad">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="2">1243</td>
   <td style="text-align: center;">
     <img src="logo/harvest-finance.svg" width="40px" height="40px"/>
   </td>
@@ -12243,24 +12289,41 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">1244</td>
+  <td rowspan="1">1246</td>
   <td style="text-align: center;">
-    <img src="logo/dao-maker.svg" width="40px" height="40px"/>
+    <img src="logo/aergo.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/dao-maker.svg" width="40px" height="40px"/>
+    <img src="logo-dark/aergo.svg" width="40px" height="40px"/>
   </td>
-  <td>DAO Maker</td>
-  <td>DAO</td>
-  <td><a href="./crypto/dao-maker@ethereum.json">dao-maker@ethereum</a></td>
+  <td>Aergo</td>
+  <td>AERGO</td>
+  <td><a href="./crypto/aergo@ethereum.json">aergo@ethereum</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/dao-maker">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/dao-maker/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x0f51bb10119727a7e5ea3538074fb341f56b09ad">EtherScan</a><br>
+    <a href="https://www.coingecko.com/en/coins/aergo">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/aergo/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x91af0fbb28aba7e31403cb457106ce79397fd4e6">EtherScan</a><br>
   </td>
 </tr>
 <tr>
-  <td rowspan="1">1268</td>
+  <td rowspan="1">1280</td>
+  <td style="text-align: center;">
+    <img src="logo/dent.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/dent.svg" width="40px" height="40px"/>
+  </td>
+  <td>Dent</td>
+  <td>DENT</td>
+  <td><a href="./crypto/dent@ethereum.json">dent@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/dent">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/dent/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x3597bfd533a99c9aa083587b074434e61eb0a258">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">1299</td>
   <td style="text-align: center;">
     <img src="logo/nem.svg" width="40px" height="40px"/>
   </td>
@@ -12276,7 +12339,24 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="2">1277</td>
+  <td rowspan="1">1303</td>
+  <td style="text-align: center;">
+    <img src="logo/enzyme.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/enzyme.svg" width="40px" height="40px"/>
+  </td>
+  <td>Enzyme</td>
+  <td>MLN</td>
+  <td><a href="./crypto/enzyme@ethereum.json">enzyme@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/melon">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/enzyme/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0xec67005c4e498ec7f55e092bd1d35cbc47c91892">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="2">1304</td>
   <td style="text-align: center;">
     <img src="logo/bluzelle.svg" width="40px" height="40px"/>
   </td>
@@ -12309,58 +12389,24 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">1286</td>
+  <td rowspan="1">1372</td>
   <td style="text-align: center;">
-    <img src="logo/enzyme.svg" width="40px" height="40px"/>
+    <img src="logo/susd.svg" width="40px" height="40px"/>
   </td>
   <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/enzyme.svg" width="40px" height="40px"/>
+    <img src="logo-dark/susd.svg" width="40px" height="40px"/>
   </td>
-  <td>Enzyme</td>
-  <td>MLN</td>
-  <td><a href="./crypto/enzyme@ethereum.json">enzyme@ethereum</a></td>
+  <td>sUSD</td>
+  <td>SUSD</td>
+  <td><a href="./crypto/susd@ethereum.json">susd@ethereum</a></td>
   <td>
-    <a href="https://www.coingecko.com/en/coins/melon">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/enzyme/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0xec67005c4e498ec7f55e092bd1d35cbc47c91892">EtherScan</a><br>
+    <a href="https://www.coingecko.com/en/coins/nusd">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/susd/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x57ab1ec28d129707052df4df418d58a2d46d5f51">EtherScan</a><br>
   </td>
 </tr>
 <tr>
-  <td rowspan="1">1324</td>
-  <td style="text-align: center;">
-    <img src="logo/aergo.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/aergo.svg" width="40px" height="40px"/>
-  </td>
-  <td>Aergo</td>
-  <td>AERGO</td>
-  <td><a href="./crypto/aergo@ethereum.json">aergo@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/aergo">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/aergo/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x91af0fbb28aba7e31403cb457106ce79397fd4e6">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">1370</td>
-  <td style="text-align: center;">
-    <img src="logo/ampleforth-governance-token.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/ampleforth-governance-token.svg" width="40px" height="40px"/>
-  </td>
-  <td>Ampleforth Governance Token</td>
-  <td>FORTH</td>
-  <td><a href="./crypto/ampleforth-governance-token@ethereum.json">ampleforth-governance-token@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/ampleforth-governance-token">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/ampleforth-governance-token/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x77fba179c79de5b7653f68b5039af940ada60ce0">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">1425</td>
+  <td rowspan="1">1389</td>
   <td style="text-align: center;">
     <img src="logo/boson-protocol.svg" width="40px" height="40px"/>
   </td>
@@ -12377,7 +12423,24 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="2">1450</td>
+  <td rowspan="1">1409</td>
+  <td style="text-align: center;">
+    <img src="logo/ampleforth-governance-token.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/ampleforth-governance-token.svg" width="40px" height="40px"/>
+  </td>
+  <td>Ampleforth Governance Token</td>
+  <td>FORTH</td>
+  <td><a href="./crypto/ampleforth-governance-token@ethereum.json">ampleforth-governance-token@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/ampleforth-governance-token">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/ampleforth-governance-token/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x77fba179c79de5b7653f68b5039af940ada60ce0">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="2">1436</td>
   <td style="text-align: center;">
     <img src="logo/aavegotchi.svg" width="40px" height="40px"/>
   </td>
@@ -12409,57 +12472,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">1467</td>
-  <td style="text-align: center;">
-    <img src="logo/susd.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/susd.svg" width="40px" height="40px"/>
-  </td>
-  <td>sUSD</td>
-  <td>SUSD</td>
-  <td><a href="./crypto/susd@ethereum.json">susd@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/nusd">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/susd/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x57ab1ec28d129707052df4df418d58a2d46d5f51">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">1506</td>
-  <td style="text-align: center;">
-    <img src="logo/ren.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/ren.svg" width="40px" height="40px"/>
-  </td>
-  <td>Ren</td>
-  <td>REN</td>
-  <td><a href="./crypto/ren@ethereum.json">ren@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/republic-protocol">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/ren/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x408e41876cccdc0f92210600ef50372656052a38">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">1512</td>
-  <td style="text-align: center;">
-    <img src="logo/komodo.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/komodo.svg" width="40px" height="40px"/>
-  </td>
-  <td>Komodo</td>
-  <td>KMD</td>
-  <td><a href="./crypto/komodo@komodo.json">komodo@komodo</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/komodo">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/komodo/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">1532</td>
+  <td rowspan="1">1507</td>
   <td style="text-align: center;">
     <img src="logo/aragon.svg" width="40px" height="40px"/>
   </td>
@@ -12476,457 +12489,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">1533</td>
-  <td style="text-align: center;">
-    <img src="logo/terra-virtua-kolect.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/terra-virtua-kolect.svg" width="40px" height="40px"/>
-  </td>
-  <td>Vanar Chain</td>
-  <td>VANRY</td>
-  <td><a href="./crypto/terra-virtua-kolect@ethereum.json">terra-virtua-kolect@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/vanar-chain">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/vanar/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x8de5b80a0c1b02fe4976851d030b36122dbb8624">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">1572</td>
-  <td style="text-align: center;">
-    <img src="logo/mobox.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/mobox.svg" width="40px" height="40px"/>
-  </td>
-  <td>MOBOX</td>
-  <td>MBOX</td>
-  <td><a href="./crypto/mobox@binance-smart-chain.json">mobox@binance-smart-chain</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/mobox">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/mobox/">Coinmarketcap</a><br>
-    <a href="https://bscscan.com/token/0x3203c9e46ca618c8c1ce5dc67e7e9d75f5da2377">BscScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="2">1656</td>
-  <td style="text-align: center;">
-    <img src="logo/reef-finance.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/reef-finance.svg" width="40px" height="40px"/>
-  </td>
-  <td>Reef</td>
-  <td>REEF</td>
-  <td><a href="./crypto/reef-finance@binance-smart-chain.json">reef-finance@binance-smart-chain</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/reef">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/reef/">Coinmarketcap</a><br>
-    <a href="https://bscscan.com/token/0xf21768ccbc73ea5b6fd3c687208a7c2def2d966e">BscScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/reef-finance.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/reef-finance.svg" width="40px" height="40px"/>
-  </td>
-  <td>Reef</td>
-  <td>REEF</td>
-  <td><a href="./crypto/reef-finance@ethereum.json">reef-finance@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/reef">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/reef/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0xfe3e6a25e6b192a42a44ecddcd13796471735acf">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">1668</td>
-  <td style="text-align: center;">
-    <img src="logo/ultra.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/ultra.svg" width="40px" height="40px"/>
-  </td>
-  <td>Ultra</td>
-  <td>UOS</td>
-  <td><a href="./crypto/ultra@ethereum.json">ultra@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/ultra">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/ultra/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0xd13c7342e1ef687c5ad21b27c2b65d772cab5c8c">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="2">1721</td>
-  <td style="text-align: center;">
-    <img src="logo/serum.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/serum.svg" width="40px" height="40px"/>
-  </td>
-  <td>Serum</td>
-  <td>SRM</td>
-  <td><a href="./crypto/serum@ethereum.json">serum@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/serum">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/serum/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x476c5e26a75bd202a9683ffd34359c0cc15be0ff">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/serum.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/serum.svg" width="40px" height="40px"/>
-  </td>
-  <td>Serum</td>
-  <td>SRM</td>
-  <td><a href="./crypto/serum@solana.json">serum@solana</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/serum">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/serum/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="2">1744</td>
-  <td style="text-align: center;">
-    <img src="logo/beta-finance.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/beta-finance.svg" width="40px" height="40px"/>
-  </td>
-  <td>Beta Finance</td>
-  <td>BETA</td>
-  <td><a href="./crypto/beta-finance@binance-smart-chain.json">beta-finance@binance-smart-chain</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/beta-finance">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/beta-finance/">Coinmarketcap</a><br>
-    <a href="https://bscscan.com/token/0xbe1a001fe942f96eea22ba08783140b9dcc09d28">BscScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/beta-finance.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/beta-finance.svg" width="40px" height="40px"/>
-  </td>
-  <td>Beta Finance</td>
-  <td>BETA</td>
-  <td><a href="./crypto/beta-finance@ethereum.json">beta-finance@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/beta-finance">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/beta-finance/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0xbe1a001fe942f96eea22ba08783140b9dcc09d28">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="2">1790</td>
-  <td style="text-align: center;">
-    <img src="logo/dfi-money.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/dfi-money.svg" width="40px" height="40px"/>
-  </td>
-  <td>DFI.Money</td>
-  <td>YFII</td>
-  <td><a href="./crypto/dfi-money@binance-smart-chain.json">dfi-money@binance-smart-chain</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/yfii-finance">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/yearn-finance-ii/">Coinmarketcap</a><br>
-    <a href="https://bscscan.com/token/0x7f70642d88cf1c4a3a7abb072b53b929b653eda5">BscScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/dfi-money.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/dfi-money.svg" width="40px" height="40px"/>
-  </td>
-  <td>DFI.Money</td>
-  <td>YFII</td>
-  <td><a href="./crypto/dfi-money@ethereum.json">dfi-money@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/yfii-finance">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/yearn-finance-ii/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0xa1d0e215a23d7030842fc67ce582a6afa3ccab83">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="2">1798</td>
-  <td style="text-align: center;">
-    <img src="logo/vulcan-forged.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/vulcan-forged.svg" width="40px" height="40px"/>
-  </td>
-  <td>Vulcan Forged (PYR)</td>
-  <td>PYR</td>
-  <td><a href="./crypto/vulcan-forged@ethereum.json">vulcan-forged@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/vulcan-forged">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/vulcan-forged-pyr/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x430ef9263e76dae63c84292c3409d61c598e9682">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/vulcan-forged.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/vulcan-forged.svg" width="40px" height="40px"/>
-  </td>
-  <td>Vulcan Forged (PYR)</td>
-  <td>PYR</td>
-  <td><a href="./crypto/vulcan-forged@polygon.json">vulcan-forged@polygon</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/vulcan-forged">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/vulcan-forged-pyr/">Coinmarketcap</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">1815</td>
-  <td style="text-align: center;">
-    <img src="logo/rich-quack.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/rich-quack.svg" width="40px" height="40px"/>
-  </td>
-  <td>RichQUACK.com</td>
-  <td>QUACK</td>
-  <td><a href="./crypto/rich-quack@binance-smart-chain.json">rich-quack@binance-smart-chain</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/richquack">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/richquack-com/">Coinmarketcap</a><br>
-    <a href="https://bscscan.com/token/0xd74b782e05aa25c50e7330af541d46e18f36661c">BscScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">1824</td>
-  <td style="text-align: center;">
-    <img src="logo/perpetual-protocol.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/perpetual-protocol.svg" width="40px" height="40px"/>
-  </td>
-  <td>Perpetual Protocol</td>
-  <td>PERP</td>
-  <td><a href="./crypto/perpetual-protocol@ethereum.json">perpetual-protocol@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/perpetual-protocol">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/perpetual-protocol/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0xbc396689893d065f41bc2c6ecbee5e0085233447">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">1843</td>
-  <td style="text-align: center;">
-    <img src="logo/verasity.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/verasity.svg" width="40px" height="40px"/>
-  </td>
-  <td>Verasity</td>
-  <td>VRA</td>
-  <td><a href="./crypto/verasity@ethereum.json">verasity@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/verasity">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/verasity/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0xf411903cbc70a74d22900a5de66a2dda66507255">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">1904</td>
-  <td style="text-align: center;">
-    <img src="logo/truefi.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/truefi.svg" width="40px" height="40px"/>
-  </td>
-  <td>TrueFi</td>
-  <td>TRU</td>
-  <td><a href="./crypto/truefi@ethereum.json">truefi@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/truefi">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/truefi-token/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x4c19596f5aaff459fa38b0f7ed92f11ae6543784">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">2004</td>
-  <td style="text-align: center;">
-    <img src="logo/ufo-gaming.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/ufo-gaming.svg" width="40px" height="40px"/>
-  </td>
-  <td>UFO Gaming</td>
-  <td>UFO</td>
-  <td><a href="./crypto/ufo-gaming@ethereum.json">ufo-gaming@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/ufo-gaming">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/ufo-gaming/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0x249e38ea4102d0cf8264d3701f1a0e39c4f2dc3b">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">2020</td>
-  <td style="text-align: center;">
-    <img src="logo/idex.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/idex.svg" width="40px" height="40px"/>
-  </td>
-  <td>IDEX</td>
-  <td>IDEX</td>
-  <td><a href="./crypto/idex@ethereum.json">idex@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/aurora-dao">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/idex/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0xb705268213d593b8fd88d3fdeff93aff5cbdcfae">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="2">2187</td>
-  <td style="text-align: center;">
-    <img src="logo/automata.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/automata.svg" width="40px" height="40px"/>
-  </td>
-  <td>Automata Network</td>
-  <td>ATA</td>
-  <td><a href="./crypto/automata@binance-smart-chain.json">automata@binance-smart-chain</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/automata">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/automata-network/">Coinmarketcap</a><br>
-    <a href="https://bscscan.com/token/0xa2120b9e674d3fc3875f415a7df52e382f141225">BscScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/automata.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/automata.svg" width="40px" height="40px"/>
-  </td>
-  <td>Automata Network</td>
-  <td>ATA</td>
-  <td><a href="./crypto/automata@ethereum.json">automata@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/automata">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/automata-network/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0xa2120b9e674d3fc3875f415a7df52e382f141225">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="2">2352</td>
-  <td style="text-align: center;">
-    <img src="logo/alpha-finance.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/alpha-finance.svg" width="40px" height="40px"/>
-  </td>
-  <td>Stella</td>
-  <td>ALPHA</td>
-  <td><a href="./crypto/alpha-finance@binance-smart-chain.json">alpha-finance@binance-smart-chain</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/alpha-finance">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/alpha-finance-lab/">Coinmarketcap</a><br>
-    <a href="https://bscscan.com/token/0xa1faa113cbe53436df28ff0aee54275c13b40975">BscScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center;">
-    <img src="logo/alpha-finance.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/alpha-finance.svg" width="40px" height="40px"/>
-  </td>
-  <td>Stella</td>
-  <td>ALPHA</td>
-  <td><a href="./crypto/alpha-finance@ethereum.json">alpha-finance@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/alpha-finance">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/alpha-finance-lab/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0xa1faa113cbe53436df28ff0aee54275c13b40975">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">2595</td>
-  <td style="text-align: center;">
-    <img src="logo/biswap.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/biswap.svg" width="40px" height="40px"/>
-  </td>
-  <td>Biswap</td>
-  <td>BSW</td>
-  <td><a href="./crypto/biswap@binance-smart-chain.json">biswap@binance-smart-chain</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/biswap">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/biswap/">Coinmarketcap</a><br>
-    <a href="https://bscscan.com/token/0x965f527d9159dce6288a2219db51fc6eef120dd1">BscScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">2643</td>
-  <td style="text-align: center;">
-    <img src="logo/stormx.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/stormx.svg" width="40px" height="40px"/>
-  </td>
-  <td>StormX</td>
-  <td>STMX</td>
-  <td><a href="./crypto/stormx@ethereum.json">stormx@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/storm">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/stormx/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0xa62cc35625b0c8dc1faea39d33625bb4c15bd71c">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">2686</td>
-  <td style="text-align: center;">
-    <img src="logo/rally.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/rally.svg" width="40px" height="40px"/>
-  </td>
-  <td>Rally</td>
-  <td>RLY</td>
-  <td><a href="./crypto/rally@ethereum.json">rally@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/rally-2">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/rally/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0xf1f955016ecbcd7321c7266bccfb96c68ea5e49b">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="1">2706</td>
-  <td style="text-align: center;">
-    <img src="logo/celsius-network.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/celsius-network.svg" width="40px" height="40px"/>
-  </td>
-  <td>Celsius</td>
-  <td>CEL</td>
-  <td><a href="./crypto/celsius-network@ethereum.json">celsius-network@ethereum</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/celsius-degree-token">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/celsius/">Coinmarketcap</a><br>
-    <a href="https://etherscan.io/token/0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d">EtherScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="2">2852</td>
+  <td rowspan="2">1545</td>
   <td style="text-align: center;">
     <img src="logo/loom-network.svg" width="40px" height="40px"/>
   </td>
@@ -12959,7 +12522,491 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="2">3030</td>
+  <td rowspan="1">1550</td>
+  <td style="text-align: center;">
+    <img src="logo/ren.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/ren.svg" width="40px" height="40px"/>
+  </td>
+  <td>Ren</td>
+  <td>REN</td>
+  <td><a href="./crypto/ren@ethereum.json">ren@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/republic-protocol">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/ren/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x408e41876cccdc0f92210600ef50372656052a38">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">1582</td>
+  <td style="text-align: center;">
+    <img src="logo/terra-virtua-kolect.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/terra-virtua-kolect.svg" width="40px" height="40px"/>
+  </td>
+  <td>Vanar Chain</td>
+  <td>VANRY</td>
+  <td><a href="./crypto/terra-virtua-kolect@ethereum.json">terra-virtua-kolect@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/vanar-chain">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/vanar/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x8de5b80a0c1b02fe4976851d030b36122dbb8624">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">1599</td>
+  <td style="text-align: center;">
+    <img src="logo/mobox.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/mobox.svg" width="40px" height="40px"/>
+  </td>
+  <td>MOBOX</td>
+  <td>MBOX</td>
+  <td><a href="./crypto/mobox@binance-smart-chain.json">mobox@binance-smart-chain</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/mobox">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/mobox/">Coinmarketcap</a><br>
+    <a href="https://bscscan.com/token/0x3203c9e46ca618c8c1ce5dc67e7e9d75f5da2377">BscScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">1700</td>
+  <td style="text-align: center;">
+    <img src="logo/rich-quack.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/rich-quack.svg" width="40px" height="40px"/>
+  </td>
+  <td>RichQUACK.com</td>
+  <td>QUACK</td>
+  <td><a href="./crypto/rich-quack@binance-smart-chain.json">rich-quack@binance-smart-chain</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/richquack">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/richquack-com/">Coinmarketcap</a><br>
+    <a href="https://bscscan.com/token/0xd74b782e05aa25c50e7330af541d46e18f36661c">BscScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">1757</td>
+  <td style="text-align: center;">
+    <img src="logo/ultra.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/ultra.svg" width="40px" height="40px"/>
+  </td>
+  <td>Ultra</td>
+  <td>UOS</td>
+  <td><a href="./crypto/ultra@ethereum.json">ultra@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/ultra">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/ultra/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0xd13c7342e1ef687c5ad21b27c2b65d772cab5c8c">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="2">1772</td>
+  <td style="text-align: center;">
+    <img src="logo/beta-finance.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/beta-finance.svg" width="40px" height="40px"/>
+  </td>
+  <td>Beta Finance</td>
+  <td>BETA</td>
+  <td><a href="./crypto/beta-finance@binance-smart-chain.json">beta-finance@binance-smart-chain</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/beta-finance">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/beta-finance/">Coinmarketcap</a><br>
+    <a href="https://bscscan.com/token/0xbe1a001fe942f96eea22ba08783140b9dcc09d28">BscScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/beta-finance.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/beta-finance.svg" width="40px" height="40px"/>
+  </td>
+  <td>Beta Finance</td>
+  <td>BETA</td>
+  <td><a href="./crypto/beta-finance@ethereum.json">beta-finance@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/beta-finance">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/beta-finance/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0xbe1a001fe942f96eea22ba08783140b9dcc09d28">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="2">1777</td>
+  <td style="text-align: center;">
+    <img src="logo/serum.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/serum.svg" width="40px" height="40px"/>
+  </td>
+  <td>Serum</td>
+  <td>SRM</td>
+  <td><a href="./crypto/serum@ethereum.json">serum@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/serum">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/serum/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x476c5e26a75bd202a9683ffd34359c0cc15be0ff">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/serum.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/serum.svg" width="40px" height="40px"/>
+  </td>
+  <td>Serum</td>
+  <td>SRM</td>
+  <td><a href="./crypto/serum@solana.json">serum@solana</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/serum">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/serum/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="2">1791</td>
+  <td style="text-align: center;">
+    <img src="logo/reef-finance.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/reef-finance.svg" width="40px" height="40px"/>
+  </td>
+  <td>Reef</td>
+  <td>REEF</td>
+  <td><a href="./crypto/reef-finance@binance-smart-chain.json">reef-finance@binance-smart-chain</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/reef">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/reef/">Coinmarketcap</a><br>
+    <a href="https://bscscan.com/token/0xf21768ccbc73ea5b6fd3c687208a7c2def2d966e">BscScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/reef-finance.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/reef-finance.svg" width="40px" height="40px"/>
+  </td>
+  <td>Reef</td>
+  <td>REEF</td>
+  <td><a href="./crypto/reef-finance@ethereum.json">reef-finance@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/reef">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/reef/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0xfe3e6a25e6b192a42a44ecddcd13796471735acf">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="2">1812</td>
+  <td style="text-align: center;">
+    <img src="logo/vulcan-forged.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/vulcan-forged.svg" width="40px" height="40px"/>
+  </td>
+  <td>Vulcan Forged (PYR)</td>
+  <td>PYR</td>
+  <td><a href="./crypto/vulcan-forged@ethereum.json">vulcan-forged@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/vulcan-forged">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/vulcan-forged-pyr/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x430ef9263e76dae63c84292c3409d61c598e9682">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/vulcan-forged.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/vulcan-forged.svg" width="40px" height="40px"/>
+  </td>
+  <td>Vulcan Forged (PYR)</td>
+  <td>PYR</td>
+  <td><a href="./crypto/vulcan-forged@polygon.json">vulcan-forged@polygon</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/vulcan-forged">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/vulcan-forged-pyr/">Coinmarketcap</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">1829</td>
+  <td style="text-align: center;">
+    <img src="logo/perpetual-protocol.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/perpetual-protocol.svg" width="40px" height="40px"/>
+  </td>
+  <td>Perpetual Protocol</td>
+  <td>PERP</td>
+  <td><a href="./crypto/perpetual-protocol@ethereum.json">perpetual-protocol@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/perpetual-protocol">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/perpetual-protocol/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0xbc396689893d065f41bc2c6ecbee5e0085233447">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">1944</td>
+  <td style="text-align: center;">
+    <img src="logo/truefi.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/truefi.svg" width="40px" height="40px"/>
+  </td>
+  <td>TrueFi</td>
+  <td>TRU</td>
+  <td><a href="./crypto/truefi@ethereum.json">truefi@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/truefi">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/truefi-token/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x4c19596f5aaff459fa38b0f7ed92f11ae6543784">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="2">2014</td>
+  <td style="text-align: center;">
+    <img src="logo/dfi-money.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/dfi-money.svg" width="40px" height="40px"/>
+  </td>
+  <td>DFI.Money</td>
+  <td>YFII</td>
+  <td><a href="./crypto/dfi-money@binance-smart-chain.json">dfi-money@binance-smart-chain</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/yfii-finance">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/yearn-finance-ii/">Coinmarketcap</a><br>
+    <a href="https://bscscan.com/token/0x7f70642d88cf1c4a3a7abb072b53b929b653eda5">BscScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/dfi-money.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/dfi-money.svg" width="40px" height="40px"/>
+  </td>
+  <td>DFI.Money</td>
+  <td>YFII</td>
+  <td><a href="./crypto/dfi-money@ethereum.json">dfi-money@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/yfii-finance">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/yearn-finance-ii/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0xa1d0e215a23d7030842fc67ce582a6afa3ccab83">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">2021</td>
+  <td style="text-align: center;">
+    <img src="logo/verasity.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/verasity.svg" width="40px" height="40px"/>
+  </td>
+  <td>Verasity</td>
+  <td>VRA</td>
+  <td><a href="./crypto/verasity@ethereum.json">verasity@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/verasity">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/verasity/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0xf411903cbc70a74d22900a5de66a2dda66507255">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">2052</td>
+  <td style="text-align: center;">
+    <img src="logo/ufo-gaming.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/ufo-gaming.svg" width="40px" height="40px"/>
+  </td>
+  <td>UFO Gaming</td>
+  <td>UFO</td>
+  <td><a href="./crypto/ufo-gaming@ethereum.json">ufo-gaming@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/ufo-gaming">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/ufo-gaming/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0x249e38ea4102d0cf8264d3701f1a0e39c4f2dc3b">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="2">2126</td>
+  <td style="text-align: center;">
+    <img src="logo/automata.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/automata.svg" width="40px" height="40px"/>
+  </td>
+  <td>Automata Network</td>
+  <td>ATA</td>
+  <td><a href="./crypto/automata@binance-smart-chain.json">automata@binance-smart-chain</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/automata">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/automata-network/">Coinmarketcap</a><br>
+    <a href="https://bscscan.com/token/0xa2120b9e674d3fc3875f415a7df52e382f141225">BscScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/automata.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/automata.svg" width="40px" height="40px"/>
+  </td>
+  <td>Automata Network</td>
+  <td>ATA</td>
+  <td><a href="./crypto/automata@ethereum.json">automata@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/automata">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/automata-network/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0xa2120b9e674d3fc3875f415a7df52e382f141225">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="2">2328</td>
+  <td style="text-align: center;">
+    <img src="logo/alpha-finance.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/alpha-finance.svg" width="40px" height="40px"/>
+  </td>
+  <td>Stella</td>
+  <td>ALPHA</td>
+  <td><a href="./crypto/alpha-finance@binance-smart-chain.json">alpha-finance@binance-smart-chain</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/alpha-finance">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/alpha-finance-lab/">Coinmarketcap</a><br>
+    <a href="https://bscscan.com/token/0xa1faa113cbe53436df28ff0aee54275c13b40975">BscScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center;">
+    <img src="logo/alpha-finance.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/alpha-finance.svg" width="40px" height="40px"/>
+  </td>
+  <td>Stella</td>
+  <td>ALPHA</td>
+  <td><a href="./crypto/alpha-finance@ethereum.json">alpha-finance@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/alpha-finance">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/alpha-finance-lab/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0xa1faa113cbe53436df28ff0aee54275c13b40975">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">2626</td>
+  <td style="text-align: center;">
+    <img src="logo/biswap.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/biswap.svg" width="40px" height="40px"/>
+  </td>
+  <td>Biswap</td>
+  <td>BSW</td>
+  <td><a href="./crypto/biswap@binance-smart-chain.json">biswap@binance-smart-chain</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/biswap">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/biswap/">Coinmarketcap</a><br>
+    <a href="https://bscscan.com/token/0x965f527d9159dce6288a2219db51fc6eef120dd1">BscScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">2691</td>
+  <td style="text-align: center;">
+    <img src="logo/rally.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/rally.svg" width="40px" height="40px"/>
+  </td>
+  <td>Rally</td>
+  <td>RLY</td>
+  <td><a href="./crypto/rally@ethereum.json">rally@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/rally-2">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/rally/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0xf1f955016ecbcd7321c7266bccfb96c68ea5e49b">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">2693</td>
+  <td style="text-align: center;">
+    <img src="logo/idex.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/idex.svg" width="40px" height="40px"/>
+  </td>
+  <td>IDEX</td>
+  <td>IDEX</td>
+  <td><a href="./crypto/idex@ethereum.json">idex@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/aurora-dao">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/idex/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0xb705268213d593b8fd88d3fdeff93aff5cbdcfae">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">2710</td>
+  <td style="text-align: center;">
+    <img src="logo/celsius-network.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/celsius-network.svg" width="40px" height="40px"/>
+  </td>
+  <td>Celsius</td>
+  <td>CEL</td>
+  <td><a href="./crypto/celsius-network@ethereum.json">celsius-network@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/celsius-degree-token">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/celsius/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">2729</td>
+  <td style="text-align: center;">
+    <img src="logo/stormx.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/stormx.svg" width="40px" height="40px"/>
+  </td>
+  <td>StormX</td>
+  <td>STMX</td>
+  <td><a href="./crypto/stormx@ethereum.json">stormx@ethereum</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/storm">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/stormx/">Coinmarketcap</a><br>
+    <a href="https://etherscan.io/token/0xa62cc35625b0c8dc1faea39d33625bb4c15bd71c">EtherScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="1">2870</td>
+  <td style="text-align: center;">
+    <img src="logo/bakeryswap.svg" width="40px" height="40px"/>
+  </td>
+  <td style="text-align: center; background-color: #111;">
+    <img src="logo-dark/bakeryswap.svg" width="40px" height="40px"/>
+  </td>
+  <td>BakeryToken</td>
+  <td>BAKE</td>
+  <td><a href="./crypto/bakeryswap@binance-smart-chain.json">bakeryswap@binance-smart-chain</a></td>
+  <td>
+    <a href="https://www.coingecko.com/en/coins/bakerytoken">Coingecko</a><br>
+    <a href="https://coinmarketcap.com/currencies/bakerytoken/">Coinmarketcap</a><br>
+    <a href="https://bscscan.com/token/0xe02df9e3e622debdd69fb838bb799e3f168902c5">BscScan</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="2">3040</td>
   <td style="text-align: center;">
     <img src="logo/alpaca-finance.svg" width="40px" height="40px"/>
   </td>
@@ -12991,24 +13038,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">3236</td>
-  <td style="text-align: center;">
-    <img src="logo/bakeryswap.svg" width="40px" height="40px"/>
-  </td>
-  <td style="text-align: center; background-color: #111;">
-    <img src="logo-dark/bakeryswap.svg" width="40px" height="40px"/>
-  </td>
-  <td>BakeryToken</td>
-  <td>BAKE</td>
-  <td><a href="./crypto/bakeryswap@binance-smart-chain.json">bakeryswap@binance-smart-chain</a></td>
-  <td>
-    <a href="https://www.coingecko.com/en/coins/bakerytoken">Coingecko</a><br>
-    <a href="https://coinmarketcap.com/currencies/bakerytoken/">Coinmarketcap</a><br>
-    <a href="https://bscscan.com/token/0xe02df9e3e622debdd69fb838bb799e3f168902c5">BscScan</a><br>
-  </td>
-</tr>
-<tr>
-  <td rowspan="3">7933</td>
+  <td rowspan="3">7945</td>
   <td style="text-align: center;">
     <img src="logo/lido-staked-ether.svg" width="40px" height="40px"/>
   </td>
@@ -13055,7 +13085,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="18">7936</td>
+  <td rowspan="18">7948</td>
   <td style="text-align: center;">
     <img src="logo/wrapped-bitcoin.svg" width="40px" height="40px"/>
   </td>
@@ -13327,7 +13357,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="22">7938</td>
+  <td rowspan="22">7950</td>
   <td style="text-align: center;">
     <img src="logo/wrapped-ethereum.svg" width="40px" height="40px"/>
   </td>
@@ -13660,7 +13690,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="5">7950</td>
+  <td rowspan="5">7961</td>
   <td style="text-align: center;">
     <img src="logo/ethena-staked-usde.svg" width="40px" height="40px"/>
   </td>
@@ -13738,7 +13768,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="7">7990</td>
+  <td rowspan="7">8003</td>
   <td style="text-align: center;">
     <img src="logo/solana.svg" width="40px" height="40px"/>
   </td>
@@ -13846,7 +13876,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="1">8015</td>
+  <td rowspan="1">8028</td>
   <td style="text-align: center;">
     <img src="logo/defipulse-index.svg" width="40px" height="40px"/>
   </td>
@@ -13863,7 +13893,7 @@ Total cryptos: 883
   </td>
 </tr>
 <tr>
-  <td rowspan="7">8027</td>
+  <td rowspan="7">8040</td>
   <td style="text-align: center;">
     <img src="logo/ankreth.svg" width="40px" height="40px"/>
   </td>
