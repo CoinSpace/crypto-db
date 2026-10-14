@@ -1,0 +1,18 @@
+{
+  "_id": "starknet@solana",
+  "asset": "starknet",
+  "platform": "solana",
+  "type": "token",
+  "name": "Starknet",
+  "symbol": "STRK",
+  "address": "HsRpHQn6VbyMs5b5j5SV6xQ2VvpvvCCzu19GjytVSCoz",
+  "decimals": 9,
+  "logo": "starknet.svg",
+  "coingecko": {
+    "id": "starknet"
+  },
+  "coinmarketcap": {
+    "id": 22691,
+    "slug": "starknet-token"
+  }
+}
