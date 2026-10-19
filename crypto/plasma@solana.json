@@ -1,0 +1,18 @@
+{
+  "_id": "plasma@solana",
+  "asset": "plasma",
+  "platform": "solana",
+  "type": "token",
+  "name": "Plasma",
+  "symbol": "XPL",
+  "address": "XPLTrL1ZH3tZJBdFWbbtrNjK9qoqZWfuhQJnXibbdfT",
+  "decimals": 8,
+  "logo": "plasma.svg",
+  "coingecko": {
+    "id": "plasma"
+  },
+  "coinmarketcap": {
+    "id": 36645,
+    "slug": "plasma-xpl"
+  }
+}
