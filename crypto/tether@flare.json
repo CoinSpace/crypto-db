@@ -1,0 +1,18 @@
+{
+  "_id": "tether@flare",
+  "asset": "tether",
+  "platform": "flare",
+  "type": "token",
+  "name": "Tether",
+  "symbol": "USDT",
+  "address": "0x0b38e83b86d491735feaa0a791f65c2b99535396",
+  "logo": "tether.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "tether"
+  },
+  "coinmarketcap": {
+    "id": 825,
+    "slug": "tether"
+  }
+}
