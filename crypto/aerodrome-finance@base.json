@@ -3,13 +3,13 @@
   "asset": "aerodrome-finance",
   "platform": "base",
   "type": "token",
-  "name": "Aerodrome Finance",
+  "name": "Aero",
   "symbol": "AERO",
   "address": "0x3f5bf3edac59d650d8fdf9657a71f2f904a3a4ee",
   "decimals": 18,
   "logo": "aerodrome-finance.svg",
   "coingecko": {
-    "id": "aerodrome-finance"
+    "id": "aero"
   },
   "coinmarketcap": {
     "id": 29270,
