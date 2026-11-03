@@ -1,0 +1,18 @@
+{
+  "_id": "kite@hyperliquid",
+  "asset": "kite",
+  "platform": "hyperliquid",
+  "type": "token",
+  "name": "Kite",
+  "symbol": "KITE",
+  "address": "0x1ea14af5f4e13431ceda398ec7823441",
+  "logo": "kite.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "kite-2"
+  },
+  "coinmarketcap": {
+    "id": 38828,
+    "slug": "kite"
+  }
+}
