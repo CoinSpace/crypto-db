@@ -7,7 +7,6 @@
   "symbol": "ZEC",
   "decimals": 8,
   "logo": "zcash.svg",
-  "supported": false,
   "coingecko": {
     "id": "zcash"
   },
