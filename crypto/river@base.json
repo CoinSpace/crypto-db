@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "river@base",
   "asset": "river",
   "platform": "base",
