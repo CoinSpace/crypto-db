@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "kava@polygon",
   "asset": "kava",
   "platform": "polygon",
