@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "_id": "zilliqa@ethereum",
   "asset": "zilliqa",
   "platform": "ethereum",
